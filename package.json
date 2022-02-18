@@ -1,0 +1,9 @@
+{
+  "name": "disco-preklad",
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "commander": "^9.0.0",
+    "jsonpath-plus": "^6.0.1"
+  }
+}
