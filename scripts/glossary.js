@@ -27,10 +27,13 @@ program
     for(var i = 0; i < lastRow;i++){
       let schvaleno = '';
       let velikost = '';
+      let poznamka = rows[i].Poznámka.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      let vyraz = rows[i].Výraz.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      let preklad = rows[i].Překlad.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
      
       if (rows[i].OK == "x") { schvaleno = "[OK] " }
       if (rows[i].aA == "x") { velikost = "[aA] " }
-      let glossaryRow = '<termEntry id="PHS-'+[i]+'"><descrip type="definition">'+schvaleno+velikost+rows[i].Poznámka+'</descrip><langSet xml:lang="en-US"><tig><term>'+rows[i].Výraz+'</term></tig></langSet><langSet xml:lang="cs-CZ"><tig><term>'+rows[i].Překlad+'</term></tig></langSet></termEntry>';
+      let glossaryRow = '<termEntry id="PHS-'+[i]+'"><descrip type="definition">'+schvaleno+velikost+poznamka+'</descrip><langSet xml:lang="en-US"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs-CZ"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
       fs.appendFileSync(glossaryFile, glossaryRow);              
     }
 
