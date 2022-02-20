@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import { decodeEntries } from "../text/main.js";
 import { loadFileTree } from "./utils.js";
 
@@ -7,7 +9,7 @@ import { loadFileTree } from "./utils.js";
  * @return {[string, object]} Array with file statistics.
  */
  export function calcStats(base) {
-  loadFileTree(base)
+  return loadFileTree(base, "")
     .map(subpath => {
       const stats = {
         sourceCount: 0,
@@ -30,6 +32,6 @@ import { loadFileTree } from "./utils.js";
             }
           }
         });
-      return [subpath, stats];
+      return [subpath || path.basename(base), stats];
     });
 }
