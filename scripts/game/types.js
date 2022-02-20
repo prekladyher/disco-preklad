@@ -32,7 +32,7 @@ export function resolver(schema) {
     }
     switch (key) {
       case "int": return nativeType(4, "Int32LE");
-      case "uint8": return nativeType(4, "UInt8");
+      case "uint8": return nativeType(1, "UInt8");
       case "uint32": return nativeType(4, "UInt32LE");
       case "uint64": return nativeType(8, "BigUInt64LE");
       case "float": return nativeType(4, "FloatLE");
@@ -58,13 +58,17 @@ export function nativeType(size, type) {
   }
 }
 
+function padding(size) {
+  return (4 - (size % 4)) % 4;
+}
+
 /** @return {Type} */
 export function stringType() {
   return {
     decode: (buffer, offset) => {
       const length = buffer.readUInt32LE(offset);
       return [
-        4 + length + (4 - (length % 4)) % 4,
+        4 + length + padding(length),
         buffer.toString("utf8", offset + 4, offset + 4 + length)
       ];
     },
@@ -72,7 +76,7 @@ export function stringType() {
       const string = Buffer.from(value);
       const length = Buffer.alloc(4);
       length.writeUInt32LE(string.length);
-      return [length, string, Buffer.alloc((4 - (string.length % 4)) % 4)];
+      return [length, string, Buffer.alloc(padding(string.length))];
     }
   };
 }
@@ -92,7 +96,7 @@ export function arrayType(itemType) {
         bytes += size;
         result.push(value);
       }
-      return [bytes, result];
+      return [bytes + padding(bytes), result];
     },
     encode: (value) => {
       const length = Buffer.alloc(4);
@@ -101,6 +105,7 @@ export function arrayType(itemType) {
       for (let item of value) {
         buffers.push(...itemType.encode(item));
       }
+      buffers.push(Buffer.alloc(padding(string.length)));
       return buffers;
     }
   };
@@ -130,7 +135,7 @@ export function structType(schema, resolve) {
       for (let property of schema) {
         const [size, value] = resolve(property.type).decode(buffer, offset + bytes);
         assertValue(property, value, offset + bytes);
-        bytes += size;
+        bytes += size + padding(size);
         if (property.name) {
           result[property.name] = value;
         }
@@ -138,8 +143,12 @@ export function structType(schema, resolve) {
       return [bytes, result];
     },
     encode: (value) => {
-      return schema.flatMap((property) => resolve(property.type)
-          .encode(property.name in value ? value[property.name] : property.value));
+      return schema.flatMap((property) => {
+        const value = property.name in value ? value[property.name] : property.value;
+        const buffers = resolve(property.type).encode(value);
+        const length = encoded.reduce((acc, buf) => acc + buf.length);
+        return length % 4 ? [Buffer.concat(buffers, padding(length))] : buffers;
+      });
     }
   };
 }
