@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008900004552"
+msgid "Better whip out those cutters... you won't get very far otherwise."
+msgstr ""
