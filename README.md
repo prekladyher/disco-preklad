@@ -15,6 +15,10 @@ Toto je projekt pro český fanouškovský překlad hry Disco Elysium.
 
 Skripty v projektu jsou NodeJS skripty (před spuštěním skriptu je nutná instalace závislostí pomocí příkazu `npm install`).
 
+* `scripts/game.js` - práce s herními soubory
+* `scripts/glossary.js` - práce s glosářem
+* `scripts/l10n.js` - práce s překladovými soubory
+
 ### Práce s herními soubory
 
 Skript `game.js` umožnuje pracovat s _asset_ soubory. Tyto soubory je nutné ručně extrahovat pomocí

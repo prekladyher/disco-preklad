@@ -105,7 +105,7 @@ const LanguageSourceAsset = {
     { name: "GoogleUpdateSynchronization", type: "int" },
     { name: "GoogleUpdateDelay", type: "float", value: 0 },
     { name: "Assets" , type: "$EmptyArray" },
-  ], 
+  ],
   TermData: [
     { name: "Term", type: "string" },
     { name: "TermType", type: "int" },
