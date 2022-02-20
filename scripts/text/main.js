@@ -1,5 +1,3 @@
-
-
 /**
  * PO comment field orer.
  */
@@ -8,7 +6,7 @@ const COMMENT_TYPES = ["#", "#.", "#:", "#,", "#|"];
 /**
  * PO field order (without plural forms).
  */
-const FIELD_TYPES = ["msgctx", "msgid", "msgstr"];
+const FIELD_TYPES = ["msgctxt", "msgid", "msgstr"];
 
 /**
  * Encode PO file entries.

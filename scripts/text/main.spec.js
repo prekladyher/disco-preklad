@@ -1,4 +1,3 @@
-
 import { encodeEntries, decodeEntries } from  "./main.js";
 
 describe("PO file library", function() {
@@ -6,7 +5,7 @@ describe("PO file library", function() {
   const TEST_ENTRY = {
     "#": "This is\nmultiline comment",
     "#,": "fuzzy",
-    "msgctx": "simple attribute",
+    "msgctxt": "simple attribute",
     "msgid": "multiline\nattribute",
     "msgstr": "\"quoted attribute\""
   };
@@ -15,7 +14,7 @@ describe("PO file library", function() {
     "# This is",
     "# multiline comment",
     "#, fuzzy",
-    "msgctx \"simple attribute\"",
+    "msgctxt \"simple attribute\"",
     "msgid \"multiline\\n\"",
     "\"attribute\"",
     "msgstr \"\\\"quoted attribute\\\"\""

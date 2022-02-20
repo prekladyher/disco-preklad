@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import { program } from "commander";
-import { decode } from "./game/main.js";
+import { decodeAsset } from "./game/main.js";
 
 const INSPECT_OPTS = {
   depth: null,
@@ -23,7 +23,7 @@ program.command("read")
   .option("-d, --depth <depth>", "inspection path depth")
   .option("-j, --json", "return as valid JSON")
   .action(async (type, file, options) => {
-    let decoded = decode(type, await fs.readFile(file));
+    let decoded = decodeAsset(type, await fs.readFile(file));
     if (options.path) {
       const { JSONPath } = await import("jsonpath-plus");
       decoded = JSONPath({ path: options.path, json: decoded });

@@ -11,7 +11,7 @@ const footer = "</body></text></martif>";
 
 program
   .description("Export gloosary for Lokalize")
-  .action(async () => {    
+  .action(async () => {
     await doc.useServiceAccountAuth({
       client_email: auth.GGclient_email,
       private_key: auth.GGprivate_key,
@@ -30,14 +30,14 @@ program
       let poznamka = rows[i].Poznámka.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
       let vyraz = rows[i].Výraz.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
       let preklad = rows[i].Překlad.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-     
+
       if (rows[i].OK == "x") { schvaleno = "[OK] " }
       if (rows[i].aA == "x") { velikost = "[aA] " }
       let glossaryRow = '<termEntry id="PHS-'+[i]+'"><descrip type="definition">'+schvaleno+velikost+poznamka+'</descrip><langSet xml:lang="en-US"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs-CZ"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
-      fs.appendFileSync(glossaryFile, glossaryRow);              
+      fs.appendFileSync(glossaryFile, glossaryRow);
     }
 
-    fs.appendFileSync(glossaryFile, footer);      
+    fs.appendFileSync(glossaryFile, footer);
 
   })
 
@@ -46,4 +46,4 @@ program
 
 
 
-   
+
