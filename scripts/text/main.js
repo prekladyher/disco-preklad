@@ -17,7 +17,7 @@ export function encodeEntries(entries) {
   return entries.map(entry => encodeEntry(entry)).join("\n\n");
 }
 
-function encodeEntry(entry) {
+function encodeEntry(entry, wrap) {
   const result = [];
   for (let type of COMMENT_TYPES) {
     if (entry[type] !== undefined) {
@@ -26,10 +26,23 @@ function encodeEntry(entry) {
   }
   for (let attr of FIELD_TYPES) {
     if (entry[attr] !== undefined) {
-      result.push(`${attr} ${JSON.stringify(entry[attr]).split("\\n").join("\\n\"\n\"")}`);
+      result.push(`${attr} ${wrapValue(entry[attr])}`);
     }
   }
   return result.join('\n');
+}
+
+function wrapValue(value) {
+  let lines = [];
+  let start = 0;
+  let end = value.indexOf("\n");
+  while (end >= 0 && end + 1 < value.length) {
+    lines.push(JSON.stringify(value.slice(start, end)).slice(0, -1) + `\\n"`);
+    start = end + 1;
+    end = value.indexOf("\n", start);
+  }
+  lines.push(JSON.stringify(value.substring(start)));
+  return lines.length > 1 ? `""\n${lines.join("\n")}` : lines[0];
 }
 
 /**

@@ -90,7 +90,7 @@ const LanguageSourceAsset = {
     { name: "UserAgreesToHaveItInsideThePluginsFolder", type: "uint8", value: 0 },
     { name: "GoogleLiveSyncIsUptoDate", type: "uint8", value: 1 },
     { name: "mTerms", type: "TermData[]" },
-    { name: "CaseInsensitiveTerms", type: "uint8", value: 1 },
+    { name: "CaseInsensitiveTerms", type: "uint8" },
     { name: "OnMissingTranslation", type: "int", value: 1 },
     { name: "mTerm_AppName", type: "string", value: "" },
     { name: "mLanguages", type: "LanguageData[]" },

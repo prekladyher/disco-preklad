@@ -10,18 +10,18 @@ describe("PO file library", function() {
     "msgstr": "\"quoted attribute\""
   };
 
-  const TEST_FILE = [
-    "# This is",
-    "# multiline comment",
-    "#, fuzzy",
-    "msgctxt \"simple attribute\"",
-    "msgid \"multiline\\n\"",
-    "\"attribute\"",
-    "msgstr \"\\\"quoted attribute\\\"\""
-  ].join("\n");
+  const TEST_FILE = `
+    # This is
+    # multiline comment
+    #, fuzzy
+    msgctxt \"simple attribute\"
+    msgid ""
+    "multiline\\n"
+    "attribute"
+    msgstr "\\"quoted attribute\\""
+  `.replace(/^ +/gm, "").trim();
 
   it("encodes entries", function() {
-    console.log(TEST_FILE);
     expect(encodeEntries([TEST_ENTRY])).toBe(TEST_FILE);
   });
 
@@ -29,4 +29,8 @@ describe("PO file library", function() {
     expect(decodeEntries(TEST_FILE)[0]).toEqual(TEST_ENTRY);
   });
 
+  it("encodes as Lokalize", function() {
+    expect(encodeEntries([{ msgstr: "foo\n" }])).toBe(`msgstr "foo\\n"`);
+    expect(encodeEntries([{ msgstr: "foo\nbar\n" }])).toBe(`msgstr ""\n"foo\\n"\n"bar\\n"`);
+  });
 });

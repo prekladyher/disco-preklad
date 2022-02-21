@@ -91,7 +91,7 @@ export function extractTemplate(category, source, base = "source/l10n") {
       msgid: term.Languages[0],
       msgstr: ""
     };
-  });
+  }).filter(entry => !!entry.msgid);
   writeTextFile(path.join(base, "en", category + ".pot"), "en", entries);
 }
 
