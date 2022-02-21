@@ -45,10 +45,11 @@ export function extractDialogue(source, base = "source/l10n") {
     conversations: Object.fromEntries(data.conversations.map(it => [it.id, it])),
   };
   // Extract translatable strings grouped by conversation identifier
-  const messages = data.conversations
-    .map(conversation => conversation.dialogueEntries).flat()
-    .map(entry => {
-      const translatable = DIALOGUE_FIELDS
+  const catalog = [];
+  for (let conversation of data.conversations) {
+    const messages = [];
+    for (let entry of conversation.dialogueEntries) {
+      messages.push(...DIALOGUE_FIELDS
         .filter(field => entry.fields[field])
         .map(field => {
           return {
@@ -57,18 +58,22 @@ export function extractDialogue(source, base = "source/l10n") {
             "msgid": entry.fields[field],
             "msgstr": ""
           };
-        });
-      return [entry.conversationID, translatable];
-    })
-    .filter(([id, messages]) => !!messages.length);
+        }));
+    }
+    if (messages.length) {
+      catalog.push([conversation.id, messages]);
+    }
+  }
   // Create dialogue translation files structure
-  for (let [id, entries] of messages) {
-    let namepath = index.conversations[id].fields.Title
+  for (let [id, messages] of catalog) {
+    if (messages.length) {
+      let namepath = index.conversations[id].fields.Title
         .replace(/–/g, "-") // replace n-dash with regular dash
         .replace(/[^a-z0-9 \/_-]/ig, "") // remove invalid characters
         .replace(/ *\/ */g, "/"); // remove unwanted spaces around
-    let subpath = path.join(path.dirname(namepath), id + " " + path.basename(namepath + ".pot"));
-    writeTextFile(path.join(base, "en/Dialogues", subpath), "en", entries);
+      let subpath = path.join(path.dirname(namepath), id + " " + path.basename(namepath + ".pot"));
+      writeTextFile(path.join(base, "en/Dialogues", subpath), "en", messages);
+    }
   }
 }
 
