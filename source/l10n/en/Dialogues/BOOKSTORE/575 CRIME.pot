@@ -1,7 +1,528 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100006B00000A03"
+msgid "Are there any more?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057F0"
+msgid "\"Something the matter, detective?\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100002F00011ADC"
+msgid "\"Storekeep, what's all this crime fiction?\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100002F00011AF9"
+msgid "[Leave.]"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000700000580F"
+msgid "The lieutenant narrows his eyes and contemplates the book for a moment."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001BDAA"
+msgid "Sex crimes *did* pique your interest, but still -- this Dick Mullen person only gets your pleasure centres *down*."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001BDC1"
+msgid "Relax. It's not that bad. Also, this means your bloodflow is returning to normal. Good news, really."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005788"
+msgid "Perhaps you're drawn to the dark and *noirish* atmosphere?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057C1"
+msgid "Then this is the book for you."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005816"
+msgid "\"I would certainly say she fits that description, providing that's your type.\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A65"
+msgid "These books *greatly* overstate the excitement of police work, glossing over how long it takes to actually follow up on leads and eliminate dead-ends."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Perception (Sight)
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000B3C"
+msgid "A couple spook novels hide amidst all the detective books. Thrilling tales of spycraft and derring-do."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057A4"
+msgid "Is it because the smoking dame in the slinky red dress on the cover is giving you a hard-on?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057E3"
+msgid "Quit staring -- You're in public! There's plenty of time for that later... in the privacy of your own room."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Reaction Speed
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008900002281"
+msgid "Wait a minute, all this told us *nothing* about who Dick Mullen actually is..."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005300025AF5"
+msgid "You've acquired an interactable item. Investigate this item further by going to the INTERACT tab in your INVENTORY."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x01000070000057D5"
+msgid "What? No. That's not what's happening."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Mack Torson
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000194F"
+msgid "\"A very fuckin' dangerous case, ain't that right, Chester? They almost got you that time.\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x01000070000057FF"
+msgid "\"Kim, would you describe this woman as a *smoking dame*?\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001BDB1"
+msgid "NOTE! Reading about Dick Mullen will not actually make you a better detective."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00011AD6"
+msgid "These shelves are overburdened with books from the same series. You see the name \"Dick Mullen\" over and over."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100002F00011AE2"
+msgid "Look through the display of books."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00011F8C"
+msgid "You see: \"Dick Mullen on the Job\", \"Get Me Mullen!\", \"The Stalwart Adventures of Richard P. Mullen\", \"Dick Mullen and the Murder in the Orchard\", \"The Sordid Affair of Dick Mullen\"..."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B000009D8"
+msgid "Crime fiction... is a disgrace. An asinine misrepresentation of the physical attributes and the arduous everyday work of actual police officers."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100006B000009E3"
+msgid "Sure thing."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A2C"
+msgid "\"Tragedy Calls for Dick Mullen\" (another one with fake death), and, of course, \"Dick Mullen: The Murderer\", in order to catch a murderer, Dick Mullen must *become* the murderer."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Reaction Speed
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A43"
+msgid "Your quick eye notices a small caterpillar crawling across the spine of a book. The title reads: \"Dick Mullen and the Mistaken Identity.\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100006B00005F96"
+msgid "\"I want to buy this Dick Mullen novel.\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057DC"
+msgid "Yes it is. The bulge in your pants is embarrassingly obvious."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Endurance
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001BDB9"
+msgid "Furthermore -- they have NO IDEA how hard it is to simply remove a body from a tree."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100002F00011B06"
+msgid "What do we have here? Mistaken identity..."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00011F97"
+msgid "\"A Killing Is Declared\", \"Dick Mullen in the Murderhouse\", \"The Final Case of Dick Mullen\" (an obvious lie), \"Dick Mullen in the Clock Tower\", \"The Ordeals of Dick Mullen\", \"Dauntless Dick\", \"Dick Mullen's Funeral Pyre\", \"The Murder of Dick Mullen\"..."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Civilian
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800020685"
+msgid "\"Gosh, why?\" One civilian looks on, amazed. The bald man bellows a reply:"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100006B000009E9"
+msgid "Oh god, no."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A55"
+msgid "After all this, you still haven't found the answer to the one question that matters: Who *is* Dick Mullen?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100007000005780"
+msgid "No, it's gotta be something *else*."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x01000070000057AB"
+msgid "Oh, right. That's definitely it."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B000009FD"
+msgid "Oh no, turns out he faked it to solve a case."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Chester McLaine
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000192A"
+msgid "\"Again? Man, I tell that one at least once a month. It's not that interesting,\" Chester replies."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100007000005790"
+msgid "Yeah, I'm pretty intense. I'm all about that dark stuff."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057B9"
+msgid "Yeah, this is the book for you."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00011F7E"
+msgid "Shelves filled to the brim with crime novels featuring the supposedly stalwart Vespertine detective, Dick Mullen."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A6B"
+msgid "Not a single mention of all the stress this work creates upon the officer's *family*. Detective fiction just doesn't tell the truth at all. Now, would you like a list of the books found on the shelf?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000B34"
+msgid "What's more, they completely ignore the psychological hardships of, year after year, coming into contact with people during the worst days of their lives."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x010000700000576C"
+msgid "Hmm. Why does this speak to me?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100006B00000A15"
+msgid "Okay, let's stop now."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Mack Torson
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00001925"
+msgid "\"Come on, Chester, tell the story again.\" A bald man turns toward a lean man and pats him on the back."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x010000700000577A"
+msgid "That's probably right, I'm a complicated guy, full of contradictions."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005807"
+msgid "The lieutenant nods. You think you detect the faintest trace of a grin on his face, but you can't say for certain."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A38"
+msgid "Come on, this is *not* the way real police solve crimes. The *real* police are some twenty kilometres away, sitting in an armoured motor carriage."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Mack Torson
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000192F"
+msgid "\"The *fuck* it is,\" the bald man replies. \"And these guys haven't heard it.\" He motions to the civilian sitting in the back seat. \"You see, Chester here,\" he pokes his finger at the lean man. \"Chester *faked his own death* once!\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000070000057B2"
+msgid "See the way she's suggestively holding that pistol? That's *symbolism*."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Plaisance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00011F86"
+msgid "\"Oh, crime, robberies, murders...\" She lowers her voice. \"Even *sexual* crimes. We're fortunate to have Dick Mullen and his stories to sort all that out.\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100006B000009F6"
+msgid "Dick Mullen *dies*?!"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x01000070000057F9"
+msgid "\"Nope, all good here.\" (Casually adjust your pants.)"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100002F00011AED"
+msgid "Who is Dick Mullen?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "tooltip1/0x0100002F00011AED"
+msgid "Dresscode: Modus Mullen."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A25"
+msgid "Yes. There's also: \"The Dame Who Did It\", \"Farewell, My Mullen\" (faking death seems to be a common trope in the Mullen series), \"The Morbid Tales of Dick Mullen\", \"A Dark Tide Turns\"..."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Reaction Speed
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00000A4F"
+msgid "Your attempt to grasp at the answer fails... it seems very close by, pulsating just out of reach."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Chester McLaine
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00001934"
+msgid "\"Yeah, sure came close,\" Chester mutters in return, then turns to the rapt listener. \"Alright, so I was tailing this guy called 'Francis the Shoe'...\" The inside of the motor carriage is thick with cigarette smoke. Outside, it starts to rain..."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Plaisance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00005F90"
+msgid "\"Hrm, of course.\" She shudders. \"Such violence and immorality... uh, I mean, enjoy!\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Plaisance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B000009CC"
+msgid "\"You're a... a police officer... apparently. You should buy *all* of these. They really do teach a person how to be a proper detective.\""
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005765"
+msgid "A worn paperback from Dick Mullen's classic *hard-boiled* phase. The premise seems to be that Dick Mullen is framed for the murder of his best friend, and has just a few days to prove his innocence."
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = Shelf of Crime Novels
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005772"
+msgid "Could it be the motifs of unstable identities and shocking betrayals?"
+msgstr ""
+
+#. Title = BOOKSTORE / CRIME
+#. Description = Shelf of crime books.
+#. Actor = You
+#. Conversant = Shelf of Crime Novels
+msgctxt "Dialogue Text/0x0100007000005796"
+msgid "No, that's not it either."
+msgstr ""
 
 #. Title = BOOKSTORE / CRIME
 #. Description = Shelf of crime books.

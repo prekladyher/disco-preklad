@@ -1,7 +1,424 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Visual Calculus
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B90D"
+msgid "Backyard door? There must be another entrance to the east."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000060001B92C"
+msgid "Am I?"
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Southwest Entrance to the Tenements
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B924"
+msgid "There is no reply. Just faint sweeping sounds inside."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B943"
+msgid "You already tried and all you got was *hurt*. Better not to try anymore. Then you won't get HURT."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700016719"
+msgid "You're well versed in the kind of threatening legalese that implies criminal liability but in fact has no meaning whatsoever."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E25A"
+msgid "Ah! It's like a carrot to the stick, sort of."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Southwest Entrance to the Tenements
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000005000039F8"
+msgid "No reply. You can hear faint sweeping inside; a gust of wind blows through your clothes."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Southwest Entrance to the Tenements
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000057000166B9"
+msgid "The door rattles against your knuckles, but there's no response."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DA99"
+msgid "\"Hold on, who am I speaking to?\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DB38"
+msgid "\"No, you're not.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DAA8"
+msgid "\"It doesn't matter who I am. Now go on, get out of here!\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E047"
+msgid "\"Hold your horses...\" You hear the click of a night latch, before the lady on the other side gets caught in a coughing spasm."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DFF8"
+msgid "\"Ma'am, your non-compliance is hindering a police matter. I may be forced to refer you for potential prosecution.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001E055"
+msgid "\"Okay, miss, would it help if I showed you my badge?\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Southwest Entrance to the Tenements
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000057000166A4"
+msgid "A sturdy metal door guards the southwest entrance to the apartment building. It's locked."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DAB0"
+msgid "\"But I'm not joking.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E01F"
+msgid "Insufficiently deferential!"
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E032"
+msgid "\"Miss,\" the lieutenant jumps in, \"would it help if we offered to show you our badges?\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E04D"
+msgid "\"I don't care about your stinkin' badge. Just come in,\" she manages to say with a wheeze."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DAE4"
+msgid "\"Hey, are you there? I've checked the backyard, but couldn't get in that way.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DAFF"
+msgid "\"I need to talk to a young man in this building.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x01000057000166C5"
+msgid "Knock again."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DAF8"
+msgid "\"No, I already told you, I won't be responsible for any more strangers getting into the building...\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DB3D"
+msgid "\"Open up or I'm gonna breach this motherfucker!\" (Kick the door.)"
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400014FF4"
+msgid "\"Madam, I assure you we're real police officers,\" the lieutenant repeats dutifully."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x01000057000166D3"
+msgid "Convince her that you're a real policeman."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "tooltip1/0x01000057000166D3"
+msgid "Kim is here."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "tooltip2/0x01000057000166D3"
+msgid "Found your badge."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "tooltip3/0x01000057000166D3"
+msgid "Kim confirmed you are officers."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "tooltip4/0x01000057000166D3"
+msgid "Billie Méjean's apartment."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "tooltip5/0x01000057000166D3"
+msgid "Dresscode: RCM official."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000057000166EB"
+msgid "You can't think of anything convincing. Time for some police brutality!"
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700023C4E"
+msgid "\"Stop banging on the door! I'm not letting any more strangers inside.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x0100000400014FFC"
+msgid "\"Kim, tell her we're real policemen!\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DC5A"
+msgid "From within comes the faint sound of a broom sweeping across the concrete floor."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Visual Calculus
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B8FB"
+msgid "This could be a way into the apartment building the smoking man vanished into."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DB0D"
+msgid "\"Go check the backyard door, maybe someone there will...\" She trails off, leaving the sentence unfinished."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DB24"
+msgid "\"Ma'am, if you don't open this door, I'm gonna introduce you to a lateral vascular neck restraint -- and it's going to *hurt*.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DFFF"
+msgid "\"I know my rights! And don't you 'ma'am' me, boy!\" the voice snaps back."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DB1D"
+msgid "\"You don't scare me, punk! I may be an old woman but I can still take the likes of you!\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001E250"
+msgid "\"Please, let me inside. It's cold out here.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Cleaning Lady
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DAA0"
+msgid "\"The police?! Everyone knows the police don't come around *here*.“ The hallways echoes with her cackle."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001E05B"
+msgid "(Lie.) \"I've got my badge right here, if you want to see it.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x01000005000039F1"
+msgid "\"Ma'am, we're looking for Billie Méjean's apartment. We have important news to deliver.\""
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B933"
+msgid "Obviously. Look at that vague yet threatening stuff spewing forth from your mouth..."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x01000057000166AA"
+msgid "Knock."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x01000057000166B0"
+msgid "[Leave.]"
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E03F"
+msgid "But the sweeping on the other side has stopped."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Southwest Entrance to the Tenements
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000057000166CC"
+msgid "The door rattles again, but this time you hear an elderly woman's voice calling out from inside..."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B91C"
+msgid "Backyard door? With the smoker? You already were there. Didn't work."
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x01000057000166F0"
+msgid "\"I'm gonna light this place up!\" (Roll up your sleeves.)"
+msgstr ""
+
+#. Title = PIER / APARTMENTS PIER DOOR
+#. Description = Approaching the door from outside.
+#. Actor = You
+#. Conversant = Southwest Entrance to the Tenements
+msgctxt "Dialogue Text/0x010000570001DA93"
+msgid "\"This is the police -- open the door.\""
+msgstr ""
 
 #. Title = PIER / APARTMENTS PIER DOOR
 #. Description = Approaching the door from outside.

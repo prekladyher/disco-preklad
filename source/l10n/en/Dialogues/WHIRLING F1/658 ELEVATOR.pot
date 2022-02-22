@@ -1,7 +1,312 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x0100005800007120"
+msgid "The elevator stands open, inviting you to step inside."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x01000058000071ED"
+msgid "The elevator lurches and squeaks, like the belly of some ancient beast, as you descend...."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000071FB"
+msgid "Look in."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000058000072DE"
+msgid "\"Look on the bright side: if it fails, we will only sustain minor injuries. I'm talking three, maybe four months in the hospital. Maximum five.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100005800009EFF"
+msgid "\"Seems like a small freight elevator for transporting machinery. For that -- it's pretty quaint.\" He taps the on the guttering light bulb -- it's golden in the dark."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x0100005800009F2D"
+msgid "\"This elevator must have been needed to transport the pinball machines up and down.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Alternate1/0x0100005800009F2D"
+msgid "\"So it was mostly pinball machines riding this elevator.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000071D5"
+msgid "Go down."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000071CF"
+msgid "(Close the doors and go up.)"
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000071DD"
+msgid "[Leave.]"
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000072EA"
+msgid "\"So it's *not* a message from the future?\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100005800007302"
+msgid "\"If some form of time travel becomes possible in the future, I doubt its inventors will use it to repair elevators in Martinaise,” the lieutenant responds with a grave voice."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x01000058000071E7"
+msgid "The elevator screeches and rattles, like the belly of some ancient beast, as it carries you upward..."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000058000072FC"
+msgid "\"No, I think the bureaucrats just forgot about this back-room elevator after the Revolution.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Logic
+msgctxt "Dialogue Text/0x0100005800009F0B"
+msgid "This elevator must have been used to transport pinball machines to and from the upstairs workshop."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x010000580000725E"
+msgid "Look at the elevator controls."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000072D2"
+msgid "\"This elevator was last maintained in the *future*?\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x01000058000071BD"
+msgid "This small elevator is dimly lit by a bulb that's been glowing for ages. The latticed cage is open, inviting you to step inside."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000072D8"
+msgid "\"That means it's not really that safe, is it.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x0100005800009EF3"
+msgid "The deep scratches on the floor suggest it was used as a freight elevator -- for transporting heavy machinery. And one man."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100005800009EF9"
+msgid "\"Seems so, although it's pretty... quaint for a freight elevator.\" He taps on the guttering light bulb -- it's golden in the dark."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x0100005800009F39"
+msgid "Could this have been for moving pinball machines up and down?"
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Alternate1/0x0100005800009F39"
+msgid "Would a pinball machine really fit in here?"
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000072F0"
+msgid "\"That's disappointing.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x0100005800009F27"
+msgid "\"I wonder what this elevator was used for.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x0100005800009F6F"
+msgid "Looks like one would fit in there, yes. Although it's also surprisingly human -- in the golden light of that ancient bulb."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Alternate1/0x0100005800009F6F"
+msgid "Just about. If tilted precisely. For a small elevator this one is surprisingly nice. The ancient golden bulb gutters in the dark."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x010000580000720D"
+msgid "Smells of nougat and sweat. Your head brushes up against the ceiling. There is a control panel to your right -- and just enough room for two people to fit in."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Elevator
+msgctxt "Dialogue Text/0x010000580000727F"
+msgid "There are large rectangular buttons: 'Monter', 'Descendre', and an international: 'Call for Emergency Assistance'. That third one appears to be broken."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000058000072E4"
+msgid "\"No, it was maintained in '88 of the *previous* century.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Perception (Sight)
+msgctxt "Dialogue Text/0x0100005800007233"
+msgid "The maintenance card under the control panel reads: 'Last Maintenance: 10 July '88'."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x0100005800009EE6"
+msgid "What were you used for, elevator?"
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100007800010AB6"
+msgid "\"At the end of the last century.\" He nods. \"Look on the bright side. If it fails, we will only sustain minor injuries -- I'm talking three, maybe four months in the hospital. maximum five.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000058000072CB"
+msgid "\"That it does.\" The lieutenant peeks in. \"I say -- let's brave it.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x0100007800010AAD"
+msgid "\"Eighty-eight... This elevator was maintained a long time ago.\""
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x0100005800007201"
+msgid "[Leave.]"
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = Encyclopedia
+msgctxt "Dialogue Text/0x0100007800010AA4"
+msgid "A small steel plaque reads 'Halter 800'. Halter is a Königsteiner lift company who went out of business a long, long time ago."
+msgstr ""
+
+#. Title = WHIRLING F1 / ELEVATOR
+#. Description = 1. You experience the lovely elevator and wonder what it was used for.
+#. 2. You can go up and down.
+#. Actor = You
+msgctxt "Dialogue Text/0x01000058000072BD"
+msgid "\"It says the last maintenance was in '88.\""
+msgstr ""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.

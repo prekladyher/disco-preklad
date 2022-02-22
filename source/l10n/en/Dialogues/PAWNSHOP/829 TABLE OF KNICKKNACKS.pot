@@ -1,7 +1,544 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001629F"
+msgid "\"Okay.\" He doesn't bat an eye. \"I don't like either set too much, to be honest.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001639C"
+msgid "He doesn't elaborate on these 'wrong hands' -- it's unlikely that he ever will."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000046C5"
+msgid "\"Of course.\" (Nod knowingly.)"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x01000054000007BE"
+msgid "Step away from the table. [Leave.]"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x01000054000007FA"
+msgid "(Point at the blue figurines.) \"What exactly are these?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100005400000800"
+msgid "(Point at the blue figurines.) \"Are these royalist soldiers?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D0000366B"
+msgid "Inspect the knights on horseback."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005400000855"
+msgid "\"Maybe.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001F32A"
+msgid "Try to find something pretty and cool here. Then use it to win her back!"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000046CB"
+msgid "\"*Who*?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D000046D3"
+msgid "\"There's been a lot of *interest* in that particular figurine. I had to hide it so it wouldn't fall into the wrong hands.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D000046DA"
+msgid "\"The Headless FALN Rider. It's an urban legend -- about a man who rides the streets of Revachol sporting a FALN tracksuit. As you can see, he's missing his head.\" He points at the decapitated figurine."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Suggestion
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007100004686"
+msgid "That was a very smooth salesman's grin that almost comes off as earnest. You should learn from him."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600016254"
+msgid "\"Franconigerian knights.\" He looks at the dusty figurines in the dim light. \"I used to be very serious about these guys.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D000046BD"
+msgid "\"Oh, that's the Headless FALN Rider.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000042F4"
+msgid "Purchase the Headless FALN Rider and his cap."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D00004878"
+msgid "The lieutenant studies the tiny figurine in your hand. \"I've heard about it,\" he says with amusement, \"I've heard the Headless FALN Rider rides a headless bull.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000540000085C"
+msgid "\"I don't like either set very much, to be honest, but there are many parents among my customers.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100000600016292"
+msgid "\"It is impossible to win against the cohorts of capital. Ask my friend Garte, whose bitch it made me.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000163A4"
+msgid "\"Fifty cents. Bargain-priced! I'll throw in the tiny cap too -- I think he's looking for it, or something. That part of the story has many interpretations.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x010000060001F332"
+msgid "Win 'her' back?"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001F338"
+msgid "Yes! Buy something nice! A figurine."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000042B5"
+msgid "Inspect the figurines in rags."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Knick-knacks Stand
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D0000431A"
+msgid "Big men on big horses clad in lamellar armour and carrying flintlocks. The kind that would mow down a line of enemy soldiers in the blink of an eye."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005400000808"
+msgid "\"Which ones?\" The man peers from his glass box. \"Ah! Royalist soldiers from the time of the Revolution. The uniforms are painted a bit too brightly, I suppose.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100005400000847"
+msgid "\"It's meant to give people hope -- even *we* can do it.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200000CDD"
+msgid "Cool rider, right? I knew we'd find something worthwhile here! Buy it!"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x010000060001623D"
+msgid "\"Wait, this looks like René, the old guy who was playing petanque.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600016394"
+msgid "He doesn't elaborate on what that means -- it's unlikely that he will."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000046AF"
+msgid "\"What is this?\" (Show it to the shopkeep.)"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200000CC3"
+msgid "\"Indeed.\" He immediately knows what you're talking about. \"I think I even have his cap somewhere down here...\" He looks for it. \"A tiny miniature FALN cap to go with it. Yours for 50 cents.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x010000060001624E"
+msgid "(Point at the knights on horseback.) \"Who are they?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001626B"
+msgid "...a long, long time ago."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Knick-knacks Stand
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D0000365E"
+msgid "You see rows of toy soldiers guarding the rest of the trinkets displayed on the table: some on horseback, others in rags, others yet in bright blue uniforms. All are stern and unyielding in their duty."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000540000080F"
+msgid "\"Which ones?\" The man peers from his glass box. \"Ah, those! Yes, they are. I find the paint job a bit gaudy, but children like bright colours indiscriminately.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001627E"
+msgid "\"This is what the loyalists looked like, yes.\" He inspects the figurine. \"At first. Then they wised up and got camouflage.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000036B3"
+msgid "Dig up a truly *cool* figurine in the box under the table."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "tooltip1/0x0100004D000036B3"
+msgid "Dresscode: Extreme performance."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "tooltip2/0x0100004D000036B3"
+msgid "Dresscode: Rummager."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "tooltip3/0x0100004D000036B3"
+msgid "Heard about FALN rider."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "tooltip4/0x0100004D000036B3"
+msgid "Standard Wirrâl Die."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005400000831"
+msgid "\"You're probably talking about the revolutionaries, yes?\" the man behind the glass answers. \"Yes -- they are soldiers. Revolutionary soldiers.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005400000863"
+msgid "He seems to have his own take on the conflict played out in perpetuity by these toys. Might be interesting to find out what it is..."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001625A"
+msgid "\"Mhm. I used to be very serious about my Franconigerian knights...\" He looks at the dusty figurines in the dim light."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001F347"
+msgid "This sounds... off. You shouldn't trust this guy."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100002F0000FF0A"
+msgid "(Look at Kim, then back at Roy.) \"Sorry, what are we talking about again?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Knick-knacks Stand
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000054000007F3"
+msgid "This set of soldiers isn't meant to look impressive. A few have rifles, but most of them carry pistols -- some even shovels and tall sticks."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100000600016299"
+msgid "\"I wish it was more *nuanced*. As it stands, I cannot comment.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Knick-knacks Stand
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000FF31"
+msgid "Toy soldiers stand guard over bowls filled with bracelets, rings, and used cigarette lighters."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100000600016248"
+msgid "(Point at the knights on horseback.) \"These are Franconigerian cavalry, right?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Knick-knacks Stand
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600016285"
+msgid "That they do -- the uniforms are precisely the same. Some even have the same shape medals pinned to their chests."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000042AE"
+msgid "Inspect the blue uniforms."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D000046A8"
+msgid "Why, what's this? A headless man riding a horse? A headless man wearing futuristic track suit trousers that say FALN!"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x010000540000081D"
+msgid "(Point at the figurines in rags.) \"Are these even soldiers?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100000200000CBC"
+msgid "\"The Headless FALN Rider!\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000163B1"
+msgid "He lost his cap when he lost his head. Perhaps he's looking for the *head*?"
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100002F0000FF01"
+msgid "\"What do you mean?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000044F8"
+msgid "\"Shopkeep, what are these?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D0000486C"
+msgid "\"A classic set. The figurines represent the Fifth-century Franconigerian Cavalry.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Knick-knacks Stand
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000054000007ED"
+msgid "They're not all blue. These figurines also wear gold coats and caps, complimented by orange trousers. They are variously posed, wielding swords and rifles with bayonets."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000540000083F"
+msgid "\"I think their poverty has been exaggerated for effect. When you place them next to the royalists, it doesn't seem like they could possibly win.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200000CD0"
+msgid "The lieutenant studies the figurine with amusement."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = You
+#. Conversant = Knick-knacks Stand
+msgctxt "Dialogue Text/0x0100004D000043BD"
+msgid "\"These are Franconigerian cavalry, right?\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000054000007AD"
+msgid "\"Did I mention that this figurine is supposed to be lucky? Always carry it with you.\" He grins."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D000036FE"
+msgid "Everything you pick out seems faded, chipped, and sad somehow. Most of them are  just broken toys."
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D000043D0"
+msgid "\"Yes!\" The man behind the glass takes says. \"A little worn around the edges, but I'm pretty sure it's fully intact.\""
+msgstr ""
+
+#. Title = PAWNSHOP / TABLE OF KNICKKNACKS
+#. Description = You look at and ask Roy about the figurines on the accessory stand.
+#. Actor = Bird's Nest Roy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004D00004886"
+msgid "\"Yes, there are several competing versions of the story, but I believe this figurine is a more canonical representation.\""
+msgstr ""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.

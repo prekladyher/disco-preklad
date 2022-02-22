@@ -1,7 +1,104 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Andre
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000004000050DF"
+msgid "\"C'mon! Get in and close the flap behind you! The warm stuff is getting out!\""
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000B00000540"
+msgid "\"You go ahead, I'm too old for this...\""
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = You
+#. Conversant = Andre
+msgctxt "Dialogue Text/0x0100000B0000054D"
+msgid "Squeeze in."
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = You
+#. Conversant = Andre
+msgctxt "Alternate1/0x0100000B0000054D"
+msgid "[Squeeze in.]"
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Andre
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000B00000539"
+msgid "\"Sorry.\" He points his thumb at the lieutenant. \"We barely have room for one.\""
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Tent Flap
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000004000050D6"
+msgid "The tent is just tarpaulin fabric covering a pile of stuff. The flap is open. Inside, three young men are listening to some new form of music. It's like nothing you've ever heard. One of them looks at you."
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Tent Flap
+#. Conversant = You
+msgctxt "Alternate1/0x01000004000050D6"
+msgid "The tent is just tarpaulin fabric covering a pile of stuff. The flap is open. Inside, three young men -- all in forward-looking apparel reminiscent of the sticker on the padlock -- are listening to some new form of music. It's like nothing you've ever heard. One of them looks at you."
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = You
+#. Conversant = Andre
+msgctxt "Dialogue Text/0x0100000B00000570"
+msgid "\"No way.\" [Leave.]"
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000B000005E2"
+msgid "I'm actually not, he thinks. I just dislike delinquents."
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Tent Flap
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000021000013B0"
+msgid "You leave the lieutenant outside and squeeze in."
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000B000005DA"
+msgid "\"I'm sure you will feel right at home. I'll keep watch.\" He gestures for you to squeeze in."
+msgstr ""
+
+#. Title = ICE / TENT FLAP
+#. Description = Entering the tent and leaving Kim behind.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000004000050E7"
+msgid "It's safe to assume this is their leader. Or at least he thinks he is."
+msgstr ""
 
 #. Title = ICE / TENT FLAP
 #. Description = Entering the tent and leaving Kim behind.

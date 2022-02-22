@@ -1,7 +1,456 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800006249"
+msgid "\"Aaaaa! It huuurts!\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000625E"
+msgid "Nice try. The tears come streaming down your face as you crumble to the ground."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000626C"
+msgid "The tears bring some relief, but not much."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008EF7"
+msgid "He nods toward the staircase. \"Come on, let's go down.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000060B4"
+msgid "\"It must be an electronic lock. You will have to get Garte, the cafeteria manager, to open it first -- after you've paid for the night.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800006265"
+msgid "Blubber. And keep blubbering."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000183B"
+msgid "\"Just a moment. We should talk about our progress on the investigation. Let's go out to the balcony.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Garte, the Cafeteria Manager
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000623B"
+msgid "(His voice echoes from downstairs.) \"What the hell is going on up there?\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Savoir Faire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000021000034C2"
+msgid "You could try climbing into that trash bin in the yard, hobocop style... after you've gotten open the lid."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x01000058000060A0"
+msgid "Try to unlock the door."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800006198"
+msgid "\"I would advise against that. It's already late, and you won't find cheaper accommodation in the vicinity.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000061A6"
+msgid "He's asserting his leadership talents because he is concerned about you."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800006273"
+msgid "Your angry voice carries through the Whirling, but you still can't stop the tears from welling up in your eyes..."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800008EBD"
+msgid "\"This door will fall prostrate before The Law!\" (Punch the door again.)"
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800006222"
+msgid "The lieutenant purses his lips. \"Admirable form. Now come on, let's go down.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008E63"
+msgid "The door rings from the impact, but does not budge."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800006120"
+msgid "\"Nah, I'll get by somehow. Didn't like that room very much anyway.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008E3D"
+msgid "This is the door to your room."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Alternate1/0x0100005800008E3D"
+msgid "This is the door to the room you *redecorated*."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Garte, the Cafeteria Manager
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008EAC"
+msgid "(His voice echoes from downstairs.) \"What's going on up there?\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008EB5"
+msgid "Pow-pow! That was impressive."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008ECB"
+msgid "The door shudders, but appears undamaged."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Savoir Faire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000021000034B7"
+msgid "You could try climbing into that trash bin in the yard, hobocop style..."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000060C5"
+msgid "You feel uncertain, like a child who's lost his mother in the crowd."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000060ED"
+msgid "Because it's your last lifeline to being a police officer instead of a hobo."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Composure
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008EE4"
+msgid "You've got this. Men like you don't cry unless it serves their purposes."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100006B00004B1E"
+msgid "\"Alright, let's go.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000060A7"
+msgid "Your key no longer turns in the lock."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800006126"
+msgid "\"Actually, I don't need to pay -- I will brave the streets. Go undercover as a hobocop.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x010000580000618B"
+msgid "[Leave.]"
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000061F2"
+msgid "The lieutenant looks on impassively. \"Even if you could break down the door, all you would get is another bill.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Garte, the Cafeteria Manager
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000621C"
+msgid "(His voice echoes from downstairs.) \"What's going on up there?\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008ED2"
+msgid "The door appears undamaged, and even more impassive than the lieutenant."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000060F3"
+msgid "Yes, and it's not just a matter of comfort, but also of principle. This may be your last lifeline to being a police officer instead of a hobo."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x010000580000BB98"
+msgid "\"Good night, lieutenant.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000186C"
+msgid "The door to your room locks every night at 21.00 if you haven't paid for the room. You can pay downstairs when speaking to Garte, the cafeteria manager."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000619E"
+msgid "He nods. \"Yes, we both need to get proper rest tonight.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x01000058000061E1"
+msgid "Observe the damage to your knuckles. Is this really worth it?"
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100001833"
+msgid "\"Just a moment. You had some questions earlier, I believe, and, besides, we should discuss our progress on the investigation. Let's go out to the balcony.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Savoir Faire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000021000034DB"
+msgid "Hey, remember that trash bin idea...? Time to get climbing!"
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x01000058000060E5"
+msgid "Still sounds better than sleeping outside."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000610A"
+msgid "Just punch the damned door. No *locks* are going to keep you out."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800006192"
+msgid "\"Our investigation does not at present require for anyone to go undercover. Let's drop this discussion and go settle your debt with the manager.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800006255"
+msgid "Try to stay cool."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008E98"
+msgid "It hurts, but keep your cool. You've got this."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Garte, the Cafeteria Manager
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100001231"
+msgid "(His voice echoes from downstairs.) \"What the hell is going on up there?\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000123C"
+msgid "The lieutenant looks at you with a mixture of pity and weariness. \"Come on, let's go down.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x01000058000060DF"
+msgid "Why would I want to stay in such a place?"
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x010000580000612C"
+msgid "\"Right, I should go pay my debts before I can go to sleep.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x0100005800008E53"
+msgid "Punch the door."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Door, Room #1
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000E3DD"
+msgid "Something about it has changed."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000061FF"
+msgid "*Even if you could*? Don't let him talk you down, son!"
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x010000580000620E"
+msgid "Try one more time. This time with both fists, one after the other."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800006241"
+msgid "The lieutenant looks at you with a mixture of pity and weariness. \"Come on, let's go down.\""
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = You
+#. Conversant = Door, Room #1
+msgctxt "Dialogue Text/0x010000580000624F"
+msgid "Keep it in. Cradle your arm."
+msgstr ""
+
+#. Title = WHIRLING F2 / TEQUILA DOOR
+#. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800008E73"
+msgid "Your fist bounces off the door and comes back to you on a wave of agony that surges up your arm."
+msgstr ""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.

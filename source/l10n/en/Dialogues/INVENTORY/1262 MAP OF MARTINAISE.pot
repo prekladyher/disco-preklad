@@ -1,7 +1,43 @@
 msgid ""
-msgstr "Content-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tutorial Agent
+msgctxt "Dialogue Text/0x0100002100001884"
+msgid "For a more detailed view of the Map, go to your JOURNAL and select the MAP tab."
+msgstr ""
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900002A3D"
+msgid "[Put the map away.]"
+msgstr ""
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tourist map of Martinaise
+msgctxt "Dialogue Text/0x0100008900002A50"
+msgid "Your finger moves through the various streets, across Rue de Saint-Ghislaine and Rue Saint-Cispare, over Saint-Brune and Martinaise North..."
+msgstr ""
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tourist map of Martinaise
+msgctxt "Dialogue Text/0x0100008900002A5C"
+msgid "...finally coming to a halt on the spot where you are currently standing, although the map gives no such indication itself."
+msgstr ""
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tourist map of Martinaise
+msgctxt "Dialogue Text/0x0100008900002A28"
+msgid "The worn map features the patchwork grid of the streets of Martinaise, with directions to appropriately *tourist-y* locations. Year '48 resides on the upper-right corner."
+msgstr ""
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
