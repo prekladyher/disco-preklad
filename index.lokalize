@@ -1,9 +1,9 @@
 [General]
-LangCode=cs_CZ
+LangCode=cs
 PoBaseDir=source/l10n/cs
 PotBaseDir=source/l10n/en
 ProjectID=disco-preklad
-TargetLangCode=cs_CZ
+TargetLangCode=cs
 
 [RegExps]
-WordWrap=999999
+WordWrap=100000
