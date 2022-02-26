@@ -1,5 +1,6 @@
 import { program } from "commander";
 import { calcStats, extractAsset } from "./l10n/main.js";
+import { mergeL10n } from "./l10n/merge.js";
 
 program
   .name("l10n")
@@ -20,6 +21,15 @@ program.command("stats")
   .argument("<base>", "base path (file or directory)")
   .action(async (base) => {
     calcStats(base).forEach(stats => console.log(JSON.stringify(stats)));
+  });
+
+program.command("merge")
+  .description("Merge translation into existing file")
+  .argument("<source>", "source translation file")
+  .argument("<target>", "target translation file")
+  .option("-i, --ignore <ignore>", "file with ignored translations")
+  .action(async (source, target, options) => {
+    return mergeL10n(source, target, options.ignore);
   });
 
 program.parseAsync();

@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { decodeAsset } from "../game/main.js";
-import { decodeEntries, encodeEntries } from "../text/main.js";
+import { decodeEntries } from "../text/main.js";
 import { writeTextFile, loadFileTree } from "./utils.js";
 
 /**

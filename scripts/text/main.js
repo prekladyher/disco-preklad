@@ -51,14 +51,14 @@ function wrapValue(value) {
  * @returns Array of decoded PO entries.
  */
 export function decodeEntries(content) {
-  const entries = content.trim().split(/\n\n+/m);
+  const entries = content.trim().split(/\r?\n\r?\n+/m);
   return entries.map(entry => decodeEntry(entry));
 }
 
 function decodeEntry(entry) {
   const result = {};
   const fields = [];
-  for (let line of  entry.split(/\n/)) {
+  for (let line of  entry.split(/\r?\n/)) {
     if (line[0] === "\"") {
       fields[fields.length - 1][1] += JSON.parse(line);
       continue;
