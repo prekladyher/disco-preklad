@@ -14,6 +14,7 @@ export async function mergeL10n(source, target, ignore) {
     .map(entry => [entry.msgctxt, entry]));
 
   const mergedEntries = decodeEntries((await fs.readFile(target)).toString())
+    .filter(entry => !!entry.msgid)
     .map(entry => {
       const sourceEntry = sourceIdx[entry.msgctxt];
       const ignoreString = ignoreIdx[entry.msgctxt]?.msgstr;
