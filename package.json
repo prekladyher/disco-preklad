@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "commander": "^9.0.0",
+    "deepl": "^1.0.13",
     "google-spreadsheet": "^3.2.0",
     "jasmine": "^4.0.2",
     "jsonpath-plus": "^6.0.1"
