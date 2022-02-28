@@ -1,0 +1,15 @@
+name: Generate glossary
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: windows-2022
+
+
+    steps:
+      - uses: actions/checkout@v2
+
+
+
