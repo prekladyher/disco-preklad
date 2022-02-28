@@ -2,7 +2,7 @@ name: Generate glossary
 
 on:
   schedule:
-    - cron: '0 5 */3 * * '
+    - cron: '0 5 * * * '
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
       - run: |
           git config --global user.name "github-actions"
           git config --global user.email "<>"
-          git add -A
+          git add terms.tbx
           git commit -m "Glossary file update"
           git push
 
