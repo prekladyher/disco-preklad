@@ -1,6 +1,7 @@
 import { program } from "commander";
 import { calcStats, extractAsset } from "./l10n/main.js";
 import { mergeL10n } from "./l10n/merge.js";
+import { copySource } from "./l10n/copy.js";
 
 program
   .name("l10n")
@@ -30,6 +31,17 @@ program.command("merge")
   .option("-i, --ignore <ignore>", "file with ignored translations")
   .action(async (source, target, options) => {
     return mergeL10n(source, target, options.ignore);
+  });
+
+program.command("copy")
+  .description("Copy source string as translation")
+  .argument("<files...>", "translation files to process")
+  .option("-r, --regexp <regexp>", "source string matcher")
+  .action(async (files, options) => {
+    const regexp = new RegExp(options.regexp);
+    for (let file of files) {
+      copySource(file, regexp);
+    }
   });
 
 program.parseAsync();
