@@ -61,7 +61,7 @@ async function generateGlossary() {
       if (rows[i].OK == "x") { schvaleno = "[OK] " }
       if (rows[i].aA == "x") { velikost = "[aA] " }
 
-      glossaryData += '<termEntry id="PHS-'+[i]+'"><descrip type="definition">'+schvaleno+velikost+poznamka+'</descrip><langSet xml:lang="en-US"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs-CZ"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
+      glossaryData += '<termEntry id="PHS-'+[i]+'"><descrip type="definition">'+schvaleno+velikost+poznamka+'</descrip><langSet xml:lang="en"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
     }
     
     glossaryData += footer;
