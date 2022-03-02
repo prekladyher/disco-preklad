@@ -1,15 +1,30 @@
 name: Generate glossary
 
 on:
+  schedule:
+    - cron: '0 5 * * * '
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: windows-2022
-
+    env: 
+      GGCLIENT_EMAIL: ${{ secrets.GGCLIENT_EMAIL }}
+      GGPRIVATE_KEY: ${{ secrets.GGPRIVATE_KEY }}       
 
     steps:
       - uses: actions/checkout@v2
-
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: npm
+      - run: npm install google-spreadsheet  
+      - run: node scripts/glossary.js
+      - run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "<>"
+          git add terms.tbx
+          git commit -m "Glossary file update"
+          git push
 
 
