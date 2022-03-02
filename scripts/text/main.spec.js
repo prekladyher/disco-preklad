@@ -18,7 +18,8 @@ describe("PO file library", function() {
     msgid ""
     "multiline\\n"
     "attribute"
-    msgstr "\\"quoted attribute\\""
+    msgstr ""
+    "\\"quoted attribute\\""
   `.replace(/^ +/gm, "").trim();
 
   it("encodes entries", function() {
@@ -30,7 +31,7 @@ describe("PO file library", function() {
   });
 
   it("encodes as Lokalize", function() {
-    expect(encodeEntries([{ msgstr: "foo\n" }])).toBe(`msgstr "foo\\n"`);
+    expect(encodeEntries([{ msgstr: "foo\n" }])).toBe(`msgstr ""\n"foo\\n"`);
     expect(encodeEntries([{ msgstr: "foo\nbar\n" }])).toBe(`msgstr ""\n"foo\\n"\n"bar\\n"`);
   });
 });

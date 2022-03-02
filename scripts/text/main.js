@@ -26,13 +26,16 @@ function encodeEntry(entry, wrap) {
   }
   for (let attr of FIELD_TYPES) {
     if (entry[attr] !== undefined) {
-      result.push(`${attr} ${wrapValue(entry[attr])}`);
+      result.push(`${attr} ${wrapValue(entry[attr], attr === "msgstr")}`);
     }
   }
   return result.join('\n');
 }
 
-function wrapValue(value) {
+function wrapValue(value, force = false) {
+  if (value === "") {
+    return `""`;
+  }
   let lines = [];
   let start = 0;
   let end = value.indexOf("\n");
@@ -42,7 +45,7 @@ function wrapValue(value) {
     end = value.indexOf("\n", start);
   }
   lines.push(JSON.stringify(value.substring(start)));
-  return lines.length > 1 ? `""\n${lines.join("\n")}` : lines[0];
+  return lines.length > 1 || force ? `""\n${lines.join("\n")}` : lines[0];
 }
 
 /**
