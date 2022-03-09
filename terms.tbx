@@ -478,6 +478,58 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="PHS-36">
+        <descrip type="definition">-a, m. mýtická postava , prvni Neposkvrněný, zakladatel Perikarnasénské církve</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Perikarnassian</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Perikarnasén</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-37">
+        <descrip type="definition">vládce Okcidentu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Innocence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Neposkvrněný</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-38">
+        <descrip type="definition">subkontinent (cosi jako Západ - opak Orientu)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Occident</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Okcident</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-39">
+        <descrip type="definition">Republika Meska, její občan</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mesque</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Meska, Meskan</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
   </text>
 </martif>
