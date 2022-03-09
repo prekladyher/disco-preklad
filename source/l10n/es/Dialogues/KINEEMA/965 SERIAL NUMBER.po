@@ -1,0 +1,1171 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es"
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AE4F"
+msgid "\"No problem, officer. Just glad we got it straightened out. I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful to your investigation by then.\""
+msgstr ""
+"\"Sin problema, agente. Me alegro de haberlo dejado claro. Contactaré con la base de datos de la CPI inmediatamente. Vuelva a llamar mañana. Con suerte, habrán encontrado útil para su investigación para entonces\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AEC5"
+msgid "\"Officer, as much as I appreciate your efforts to lighten the mood, we both have important work to get back to. Did you have any other *serious* questions?\""
+msgstr ""
+"\"Agente, por mucho que aprecie sus esfuerzos por casualizar la conversación, ambos tenemos trabajo importante que hacer. ¿Tiene alguna otra pregunta *seria*?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Alternate1/0x010000580000AEC5"
+msgid "\"Officer, I suspect you're just trying to keep me on the line, and I just... don't have time for this. Do you have any other *serious* questions?\""
+msgstr ""
+"\"Agente, sospecho que intenta mantenerme al aparato, y la verdad... no tengo tiempo para esto. ¿Tiene alguna otra pregunta *seria*?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF5B"
+msgid "\"This doesn't seem relevant to my investigation.\" (Conclude the conversation.)"
+msgstr ""
+"\"No parece relevante para mi caso\". (Terminar la conversación)."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Visual Calculus
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFFE"
+msgid "A suit of armour like this would have been manufactured with a particular person's physique in mind. You should ask for whom this suit was fitted."
+msgstr ""
+"Una armadura como esta se habría fabricado con el físico de una persona en particular en mente. Deberías preguntar para quién estaba pensada."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B073"
+msgid "\"Sure. Call back tomorrow. Hopefully I will have more information for you then.\""
+msgstr ""
+"\"Claro. Vuelva a llamar mañana. Con suerte tendré más información que darle para entonces\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B085"
+msgid "This is a fun challenge for her, an opportunity to contribute beyond doing her job by rote. She'll gladly put in the extra effort for team RCM!"
+msgstr ""
+"Le resulta un desafío divertido; una oportunidad de contribuir más allá de su trabajo habitual y rutinario. ¡Hará el esfuerzo extra por el equipo MCR con mucho gusto!"
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B193"
+msgid "\"Lelystad is probably where he got the name *Lely*.\""
+msgstr ""
+"\"Lelystad podría ser el origen de su apodo, *Lely*\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Alternate1/0x010000580000B193"
+msgid "\"Lelystad is probably where he got the name Lely.\""
+msgstr ""
+"\"Lelystad podría ser el origen de su apodo, 'Lely'\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012CE3"
+msgid "I don't know about you, but I really, really enjoyed it. Worked out really well in the end."
+msgstr ""
+"No sé tú, pero yo lo he disfrutado mucho, muchísimo. Al final ha salido muy bien."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D43"
+msgid "The lieutenant leans in to listen, notebook in hand."
+msgstr ""
+"El teniente acerca el oído, cuaderno en mano."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012D5B"
+msgid "\"So all we have to connect him to Krenel is the armour.\""
+msgstr ""
+"\"Así que todo lo que tenemos para conectarlo con Krenel es la armadura\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012DF9"
+msgid "\"Well, we have his name and service record now.\" (Move on.)"
+msgstr ""
+"\"Bueno, ahora tenemos su nombre y su historial de servicio\". (Seguir adelante)."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFF7"
+msgid "\"The most recently registered firm that the ICP has been able to connect to the CdP is a military contractor called *Krenel*. And the one before it was Downwell. I think they might be the same contractor.\""
+msgstr ""
+"\"La última empresa registrada que la CPI ha podido conectar con el CdP es un contratista militar llamado *Krenel*. Y la anterior fue Downwell. Creo que podrían ser el mismo contratista\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D2E"
+msgid "\"He was found as a newborn, in a leaf compactor, near an abandoned farm. He spent four months in the neonatal unit -- survived, apparently -- and was assigned to a foster family at two.\""
+msgstr ""
+"\"Lo encontraron de recién nacido en un compactador de hojas, cerca de una granja abandonada. Pasó cuatro meses en la unidad neonatal; sobrevivió, por lo que se ve, y le asignaron una familia de acogida a los dos años de edad\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012DBB"
+msgid "The lieutenant nods -- then jots it down in his notes: \"Lelystad -- Lely. I like that.\""
+msgstr ""
+"El teniente asiente y luego lo pasa a su cuaderno: \"Lelystad... Lely. Me gusta\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF1A"
+msgid "\"They couldn't find anything on the full code you gave me. However, the first eight characters were match for a series of paintings by Tobias Pren -- you know, that artist who recently hanged himself?\""
+msgstr ""
+"\"No pudieron encontrar nada con el código que me dictó. Sin embargo, los primeros ocho caracteres coincidían con una serie de cuadros de Tobias Pren, ese artista que se ahorcó hace poco."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF2F"
+msgid "\"Does that seem relevant to your investigation?\""
+msgstr ""
+"\"¿Le parece relevante para la investigación?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF68"
+msgid "\"No, what were his paintings like?\""
+msgstr ""
+"\"No. ¿Qué pinta tenían sus cuadros?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Alternate1/0x010000580000AF68"
+msgid "\"What were his paintings like?\""
+msgstr ""
+"\"¿Qué pinta tenían sus cuadros?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF96"
+msgid "\"Celebrity problems.\""
+msgstr ""
+"\"Problemas de famosos\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B03D"
+msgid "\"Armour like this isn't mass-produced -- it would have probably been fitted. Perhaps there's a record of who signed for this particular suit of armour.\""
+msgstr ""
+"\"Una armadura como esta no se manufactura en serie... probablemente habría sido hecha a medida. Tal vez haya un registro sobre quién fabricó esta armadura en particular\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012E39"
+msgid "This means something to him. To know that name. Like naming a case. It's important."
+msgstr ""
+"Esto significa algo para él. Conocer ese nombre. Como nombrar un caso. Es importante."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AEB9"
+msgid "\"Cool... and what's the Moralintern?\""
+msgstr ""
+"\"Genial... ¿Qué es el Moralintern?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFA7"
+msgid "She means pills and alcohol. See, pills and alcohol make you *a celebrity*. Hasn't it been a while since you've had any?"
+msgstr ""
+"Habla de pastillas y de alcohol. ¿Ves? Te convierten en una *celebridad*. ¿No hace ya un buen rato que no te tomas nada?"
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AFF0"
+msgid "\"Do you know what it's called now?\""
+msgstr ""
+"\"¿Sabes cómo se llama ahora?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200000713"
+msgid "\"Sorry, sir. I still haven't heard back from the database people. Try calling again later. Is there anything else I can do for you?\""
+msgstr ""
+"\"Lo siento, señor. Todavía no recibido noticia alguna de la gente de la base de datos. Pruebe a llamar más tarde. ¿Algo más que pueda hacer por usted?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AE34"
+msgid "There's a slightly weary, condescending note in her voice. She doesn't trust your professionalism following your rather tasteless come-ons."
+msgstr ""
+"En su voz notas un matiz ligeramente cansado y condescendiente. No confía en tu profesionalidad; no después de tus comentarios de mal gusto."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF20"
+msgid "\"Yes. The armour was produced by...\" She looks at her notes. \"Fairweather in their facilities in Betancourt, Sur-la-Clef, in '42.\""
+msgstr ""
+"\"Sí. La armadura fue fabricada por...\". Revisa sus notas. \"Fairweather, en sus instalaciones en Betancourt, en Sur-la-Clef. En el 42\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF61"
+msgid "\"Art is extremely relevant to my investigation. Thank you.\" (Conclude the conversation.)"
+msgstr ""
+"\"El arte es extremedamente importante para mi investigación. Gracias\". (Terminar la conversación)."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B111"
+msgid "\"That suit of armour was issued to an Oranjese citizen named Ellis Kortenaer -- that's E-L-L-I-S K-O-R-T-E-N-A-E-R. Exact date of birth unknown. He was signed into the Lelystad County Neonatal Care Unit on 28th of February, ’09.\""
+msgstr ""
+"\"Se le entregó la armadura a un ciudadano oranjés llamado Ellis Kortenaer. Deletreo: E-L-L-I-S K-O-R-T-E-N-A-E-R. Fecha exacta de nacimiento: desconocida. Lo ingresaron en la Unidad de Cuidados Neonatales del condado de Lelystad el 28 de febrero del año 2009\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012D16"
+msgid "\"The world will end soon.\""
+msgstr ""
+"\"El mundo acabará pronto\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AE22"
+msgid "\"Got it. I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful by then.\""
+msgstr ""
+"\"Recibido. Contactaré con la base de datos de la CPI de inmediato. Vuelva a llamar mañana. Con suerte, habrán encontrado algo útil para entonces\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B051"
+msgid "\"Yes, but the ICP tends to be reluctant to share private sector records. I could try to talk them into it, though.\""
+msgstr ""
+"\"Sí, pero la CPI tiende a ser reacia a compartir los registros del sector privado. Aunque podría intentar convencerlos de que lo hagan\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D6D"
+msgid "\"No problem, lieutenant.\" She sounds pleased."
+msgstr ""
+"\"Sin problema, teniente\". Suena satisfecha."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF75"
+msgid "\"I'm not sure how this relates to my investigation yet, but I'm sure it does.\" (Conclude the conversation.)"
+msgstr ""
+"\"No las tengo todas conmigo respecto a qué relación guarda esto con mi investigación, pero tiene que haberla\". (Terminar conversación)."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFB6"
+msgid "\"I hope so. Anything else I can do for you?\""
+msgstr ""
+"\"Eso espero. ¿Puedo hacer alguna otra cosa más por usted?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B11A"
+msgid "\"This is what the ICP knows about him: He was raised by foster parents, entered the Ijsbrand Military Academy -- in Vredefort -- at 17, then served in the Oranjese forces till he was honourably discharged in '41, just a year before the Semenese conflict.\""
+msgstr ""
+"\"Esto es lo que la CPI sabe de él: fue criado por padres adoptivos, ingresó en la Academia Militar de Ijsbrand, en Vredefort, a los 17 años de edad. Luego sirvió en las fuerzas oranjesas hasta que fue dado de baja con honores en el 41, justo un año antes del conflicto semenés\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D83"
+msgid "A compliment from Lieutenant Kitsuragi! Not bad."
+msgstr ""
+"¡Un cumplido del teniente Kitsuragi! No está mal."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012E31"
+msgid "\"I'm glad the inquiry was helpful to your investigation, officer. Did you have any other questions?\""
+msgstr ""
+"\"Me alegro de que la consulta haya sido útil para su investigación, agente. ¿Alguna otra pregunta?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000ADFC"
+msgid "\"Sure, officer. What's the number? And the make of the armour, if you know it?\""
+msgstr ""
+"\"Claro, agente. ¿Cuál es el número? Y el fabricante de la armadura, si lo sabe\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF36"
+msgid "\"No, but thank you for looking into it.\""
+msgstr ""
+"\"No, pero gracias por investigarlo\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF44"
+msgid "\"Just doing my job, officer. Was there anything else?\""
+msgstr ""
+"\"Me limito a hacer mi trabajo, agente. ¿Alguna otra cosa?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFE2"
+msgid "\"Yes!\" She seems glad you guessed it. \"That is the most recent name the ICP has been able to connect to the CdP. And the one before it was Downwell. I also have one called Sediment -- but I think that might be a different contractor...\""
+msgstr ""
+"\"¡Sí!\". Parece contenta de que lo hayas adivinado. \"Es el nombre más reciente que la CPI ha podido conectar con el CdP. Y la anterior fue Downwell. También tengo una llamada Sediment, pero creo que podría ser un contratista diferente...\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B02A"
+msgid "\"Yes, please do try. It's imperative that we learn whose armour this was.\""
+msgstr ""
+"\"Sí, inténtelo, por favor. Es imperativo que sepamos de quién era esta armadura\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D9E"
+msgid "\"It is! Thank you, Alice!\""
+msgstr ""
+"\"¡Lo es! ¡Gracias, Alice!\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002D00000452"
+msgid "\"It was part of a special order for Corps de Pharmacie, a security firm contracted to protect the interests of Oranjese pharmaceutical companies. In the Semenine conflict.\""
+msgstr ""
+"\"Era parte de un pedido especial a Corps de Pharmacie, una empresa de seguridad contratada para proteger los intereses de las farmacéuticas oranjesas. En el conflicto semenense\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF3C"
+msgid "\"Yes, absolutely! This is exactly what I wanted.\""
+msgstr ""
+"\"¡Sí, la verdad! Es exactamente lo que quería\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B098"
+msgid "\"Yes, thank you, officer. I really appreciate your efforts in this case.\""
+msgstr ""
+"\"Sí, gracias, agente. De verdad que aprecio sus esfuerzos en este caso\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B09E"
+msgid "\"You are my beautiful conquering heroine.\""
+msgstr ""
+"\"Eres mi heroína, preciosa y conquistadora\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AE1A"
+msgid "\"You're right. I meant to say E50.100.1000. Sorry for the confusion.\""
+msgstr ""
+"\"Tiene razón. Quería decir E50.100.1000. Perdone la confusión\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AF6D"
+msgid "\"No, why did he hang himself?\""
+msgstr ""
+"\"No. ¿Por qué se ahorcó?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Alternate1/0x010000580000AF6D"
+msgid "\"Why did he hang himself?\""
+msgstr ""
+"\"¿Por qué se ahorcó?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AFDB"
+msgid "\"I'm guessing one of its names is Krenel.\""
+msgstr ""
+"\"Sospecho que uno de sus nombres es Krenel\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B018"
+msgid "\"First, has the firm continued to work for pharmaceutical companies through all these name changes?\""
+msgstr ""
+"\"Lo primero: ¿dicha firma ha seguido trabajando para farmacéuticas a pesar de los cambios de nombre?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D0C"
+msgid "You hear her fingers on a keyboard. \"No, they were called *Sediment*. And *Somatosensor*, it seems. All that during the last nine years.\""
+msgstr ""
+"Oyes cómo sus dedos recorren el teclado. \"No, se llamaban *Sediment*. Y *Somatosensor*, al parecer. Todo eso durante los últimos nueve años\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AE02"
+msgid "\"E50.100.1000. The make and model of the armour is Fairweather T-500 / VE.\""
+msgstr ""
+"\"E50.100.1000. El fabricante es Fairweather, y el modelo de la armadura... el T-500 / VE\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF0E"
+msgid "\"They couldn't find anything on the full code you gave me. However, the first ten characters tracked to a custom-made baby stroller made in Vaasa City ten years ago.\""
+msgstr ""
+"\"No pudieron encontrar nada con el código que me dictó. Sin embargo, los primeros diez caracteres coincidieron con un cochecito de bebé personalizado en la ciudad de Vaasa, de hace diez años\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B1E2"
+msgid "\"I'm glad the inquiry was helpful to your investigation, officer. Did you have any other questions?\""
+msgstr ""
+"\"Me alegro de que la consulta haya sido útil para su investigación, agente. ¿Tenía alguna otra pregunta?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D74"
+msgid "\"Even that took quite a bit of convincing to retrieve the information from the database, officer.\""
+msgstr ""
+"\"Ya costó bastante convencerlos de recuperar esa información de la base de datos, agente\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012DA8"
+msgid "\"Any information on his foster parents?\""
+msgstr ""
+"\"¿Sabemos algo de los padres adoptivos?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AE97"
+msgid "\"Wait, what's ICP?\""
+msgstr ""
+"\"¿Qué es la CPI?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D1F"
+msgid "\"Okay.\" She's not worried. \"Does that mean you're ready?\""
+msgstr ""
+"\"Vale\". No le preocupa. \"¿Significa eso que está preparado?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012DE0"
+msgid "\"Hah! Yes -- what Klaasje said. Very good. That makes sense to me.\" He takes a quick note."
+msgstr ""
+"\"¡Ja! Efectivamente. Es lo que dijo Klaasje. Muy bien. Tiene sentido\". Hace una anotación rápida."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000ADEF"
+msgid "\"No, and I doubt they'll get back to me before tomorrow morning. Anything else?\""
+msgstr ""
+"\"No, y dudo mucho que contacten conmigo antes de mañana por la mañana. ¿Alguna otra cosa?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AE0E"
+msgid "\"Are you sure that's the right number? Doesn't sound like a serial.\""
+msgstr ""
+"\"¿Está seguro de que ese es el número correcto? No suena a número de serie\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AE49"
+msgid "\"Well, I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful to your investigation by then.\""
+msgstr ""
+"\"Bien, contactaré con la base de datos de la CPI inmediatamente. Vuelva a llamar mañana. Con suerte, habrán encontrado algo útil para entonces\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B0F1"
+msgid "\"Yes. It took some convincing, but I got the mercenary's name and a few biographical details. Are you ready?\""
+msgstr ""
+"\"Sí. Me costó un poco convencerlos, pero tengo el nombre del mercenario y algunos detalles biográficos. ¿Está listo?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Alternate1/0x010000580000B0F1"
+msgid "\"Yes. I got the mercenary's name and a few biographical details. Are you ready?\""
+msgstr ""
+"\"Sí. Tengo el nombre del mercenario y algunos detalles biográficos. ¿Está listo?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B1F1"
+msgid "\"A name -- this is very good. Ellis Kortenaer...\" he says to himself."
+msgstr ""
+"\"Un nombre... esto está muy pero que muy bien. Ellis Kortenaer...\", dice para sí mismo."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D60"
+msgid "\"Even that is a small miracle -- these *organizations* usually double check their inventory.\" He leans closer and shouts: \"Thank you, Alice. Great work!\""
+msgstr ""
+"\"Y eso ya es un pequeño milagro. Estas *organizaciones* suelen llevar un control minucioso de su inventario\". Se acerca y alza la voz: \"Gracias, Alice. ¡Buen trabajo!\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Empathy
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AE3A"
+msgid "There's just a hint of weariness in her voice. It's not that she doesn't trust you -- she just wants to be thorough so as not to create extra work for both of you."
+msgstr ""
+"Hay una pizca de cansancio en su voz. No es que no confíe en ti, tan solo quiere ser minuciosa para no generar esfuerzo extra para ambos."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF90"
+msgid "\"Very pretty pictures of assorted wildlife meant to inspire viewers and look good over couches in office building lobbies.\" She hesitates. \"I've always sort of thought they were trash.\""
+msgstr ""
+"\"Pinturas sobre vida silvestre, muy bonitas, para inspirar a los espectadores. Pensadas para lucirse sobre los sofás del vestíbulo de algún edificio de oficinas\". Duda por un instante. \"Siempre me han parecido una basura\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFBD"
+msgid "\"Great. Anything else I can do for you?\""
+msgstr ""
+"\"Genial. ¿Alguna otra cosa más que pueda hacer por usted?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012CC8"
+msgid "\"Okay.\""
+msgstr ""
+"\"De acuerdo\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012D28"
+msgid "\"Neonatal Care Unit?\""
+msgstr ""
+"\"¿La Unidad de Cuidados Neonatales?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AE08"
+msgid "\"X54156745678222. The make and model of the armour is Fairweather T-500 / VE.\""
+msgstr ""
+"\"X54156745678222. El fabricante y modelo de la armadura es Fairweather T-500 / VE\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AEDD"
+msgid "The International Collaboration Police (ICP) is an interisolary law enforcement service, the crown jewel in the Moralintern diadem alongside EPIS and the Coalition Government."
+msgstr ""
+"La Colaboración Policial Internacional (CPI) es un servicio interisolar de aplicación de la ley, la joya de la corona en la diadema de la Moralintern junto con el EPIS y la Coalición."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B108"
+msgid "\"I was born ready, baby!\""
+msgstr ""
+"\"¡Nací preparado, nena!\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B290"
+msgid "According to Klaasje, Lely said his real name wasn't really *his* -- perhaps that's because he was fostered?"
+msgstr ""
+"Según Klaasje, Lely dijo que su verdadero nombre no era realmente *suyo*. ¿Quizás porque fue adoptado?"
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012CD0"
+msgid "\"Was there anything else?\""
+msgstr ""
+"\"¿Alguna cosa más?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D39"
+msgid "\"Then the armour followed him to Semenine -- or at least I assume it did. And that's it. There are no records of his employment in Krenel. Or any of its other incarnations. Or him even entering Revachol."
+msgstr ""
+"\"Entonces la armadura lo acompañó hasta Semenine, o supongo que lo hizo. Y eso es todo. No hay registros de su trabajo para Krenel. Ni para cualquiera de sus otras encarnaciones. Ni siquiera de su llegada a Revachol\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AE71"
+msgid "\"AO5577789RHG9999. The make and model of the armour is Fairweather T-500 / VE.\""
+msgstr ""
+"\"AO5577789RHG9999. El fabricante y modelo de la armadura es Fairweather T-500 / VE\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF26"
+msgid "She browses pages. \"So... it seems the armour went to Semenine. That's where the paper trail ends, though. Even the firm has proven difficult to track. Corps de Pharmacie has been renamed several times over in the years since the armour was issued.\""
+msgstr ""
+"Ojea las páginas. \"Así que... parece ser que la armadura fue a Semenine. Ahí se queda el rastro. Incluso la empresa ha demostrado ser difícil de investigar. Corps de Pharmacie… La han rebautizado varias veces desde que se lanzó la armadura\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B05B"
+msgid "\"Hard to say. Their client list is rather diverse. And... incomplete. The only constant seems to be that the mercenaries are always deployed in third- and fourth-world countries.\""
+msgstr ""
+"\"Difícil de decir. Su lista de clientes es bastante variada. E... incompleta. La única constante es que siempre despliegan a los mercenarios en países del tercer y cuarto mundo, o eso parece\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B0AA"
+msgid "\"Glad to help. Call back tomorrow. Hopefully I'll have more for you then.\""
+msgstr ""
+"\"Encantada de ayudar. Llame otra vez mañana. Con suerte tendré más para usted\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012DEB"
+msgid "\"I... don't know what that means. But -- sure.\""
+msgstr ""
+"\"Yo... no sé qué quiere decir, pero... claro\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200000726"
+msgid "\"Still no word I'm afraid, sir. I know it must be frustrating. Was there anything else you wanted to ask?\""
+msgstr ""
+"\"Me temo que aún nada, señor. Debe ser frustrante, lo entiendo. ¿Algo más que quiera preguntar?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000ADC7"
+msgid "\"Not yet -- but I was able to convince the database people to share private sector information. They promised to get back to me by tomorrow morning. Did you have any other questions?\""
+msgstr ""
+"\"Todavía no, pero convencí a los de la base de datos para compartir información del sector privado. Prometieron contactar conmigo mañana por la mañana. ¿Alguna otra pregunta?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000AE14"
+msgid "\"That's definitely the right number.\""
+msgstr ""
+"\"Totalmente seguro. Ese es el número de serie\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B045"
+msgid "\"Is there any way to find out who got this particular suit of armour?\""
+msgstr ""
+"\"¿Hay alguna forma de averiguar quién obtuvo esta armadura en particular?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Alternate1/0x010000580000B045"
+msgid "\"A suit of armour like this would have been customized to fit the wearer. There must be a record of the person to whom it was issued.\""
+msgstr ""
+"\"Una armadura como esta habría sido personalizada para adaptarse al usuario. Debe de haber un registro de la persona para la que se fabricó\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B26C"
+msgid "Joyce said the dead man went by Lely. He must have gotten that from *Lelystad* -- the name of the county."
+msgstr ""
+"Joyce dijo que al hombre muerto le llamaban Lely. Debía venirle de *Lelystad*, el nombre del condado."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000B0B0"
+msgid "\"I'm going to ignore that, officer. Call back tomorrow. Hopefully I will have more information for you then.\""
+msgstr ""
+"\"Haré como que no le he oído, agente. Vuelva a llamar mañana. Espero contar con más información para entonces\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x010000580000B0FC"
+msgid "\"Shoot.\""
+msgstr ""
+"\"Dispara\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Drama
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012CF3"
+msgid "I knew this would lead to something good!"
+msgstr ""
+"¡Lo sabía! ¡Sabía que esto iba a ser bueno!"
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012DAE"
+msgid "\"None, officer. Sorry.\""
+msgstr ""
+"\"Nada, agente. Lo siento\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012DC7"
+msgid "\"If you say so, officer -- of course.\""
+msgstr ""
+"\"Si usted lo dice, agente... por supuesto\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002D00000460"
+msgid "Sometimes police work is about human dignity -- about giving back names to anonymous victims."
+msgstr ""
+"A veces el trabajo policial toca cuestiones de dignidad humana, como devolverle el nombre a una víctima anónima."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AEA0"
+msgid "\"The International Collaboration Police? Uhm...\" She seems confused for a second. \"They keep detailed records of all military technology produced by licensed manufacturers. That's one of the reasons the Moralintern spearheaded the creation of the ICP in the first place.\""
+msgstr ""
+"\"La Colaboración Policial Internacional. Mmm...\". Durante un instante parece confusa. \"Guardan registros detallados de toda la tecnología militar producida por fabricantes con licencia. Esa es una de las razones por las que el Moralintern encabezó la creación de la CPI\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AF4B"
+msgid "\"Great. Anything else I could do for you?\""
+msgstr ""
+"\"Genial. ¿Puedo hacer algo más por usted?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Drama
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D01"
+msgid "We're still glad you did it, my liege. This was good training. For when you need to lie to save your life maybe?"
+msgstr ""
+"Todavía estamos contentos de que lo hicieseis, mi señor. Ha sido un buen entrenamiento. Para cuando necesitéis mentir para salvar la vida, ¿no creéis?"
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012D8B"
+msgid "\"Wait, he was found in a... leaf compactor?\""
+msgstr ""
+"\"Espera, ¿lo encontraron en un... compactador de hojas?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800012D91"
+msgid "\"It's a garden tool used to press leaves into these... cubes. It's a detail the hospital had -- the only detail in these files. So I thought it would be good for you to know.\""
+msgstr ""
+"\"Es una herramienta de jardinería que se usa para compactar hojas y comprimirlas en... cubos. Un detalle que anotó el hospital... el único de estos archivos. Creí que sería buena idea que lo supiera\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = Alice
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000AFAF"
+msgid "\"It's all I could learn, I'm afraid. That's the serial number you gave me. Anything else I can do for you?\""
+msgstr ""
+"\"Me temo que es todo lo que pude averiguar. Ese es el número de serie que me dio. ¿Algo más que pueda hacer por usted?\"."
+
+#. Title = KINEEMA / SERIAL NUMBER
+#. Description = 1. Ask Alice to run the serial number you got from the boot.
+#. 2. Come back the next day to get results and ask for Alice to try to get more personal info on the mercenary (finish task to run serial number, gain task to get personal info from serial number).
+#. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
+#. Actor = You
+#. Conversant = Alice
+msgctxt "Dialogue Text/0x0100007800012DD5"
+msgid "\"So his name wasn't *his* because he was fostered?\""
+msgstr ""
+"\"¿Así que su nombre no era *suyo*, porque era adoptado?\"."

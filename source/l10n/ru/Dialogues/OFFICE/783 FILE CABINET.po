@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001854E"
+msgid "There it still is -- inviting you to..."
+msgstr ""
+"Ящик все еще здесь, так и манит тебя..."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F249"
+msgid "\"Yes.\""
+msgstr ""
+"«Да»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F202"
+msgid "Whatever's hidden here is hidden well. Concentration isn't enough, only a trained accountant, with a background in logistics, would be able to *really* make sense of it. However there *is* a little hand-written note, stuck on the side of the drawer."
+msgstr ""
+"Если здесь что-то и спрятано, то найти это будет очень сложно. Одной концентрации тут недостаточно. Только опытному бухгалтеру, который имел дело с поставками, удалось бы *разобраться* с этой информацией. Однако ты нашел также небольшую *записку*, написанную от руки и прилипшую к стенке ящика."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F26A"
+msgid "\"Good.\" He turns away from the file cabinet. \"This is probably not relevant to our case anyway. After all, we are not investigating an accounting mystery.\""
+msgstr ""
+"«Хорошо. — Он отворачивается от картотеки. — Это в любом случае, скорее всего, не относится к нашему делу. В конце концов, мы тут не для того, чтобы расследовать тайны бухгалтерии»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100004C00006A32"
+msgid "Close the drawer. [Leave.]"
+msgstr ""
+"Закрыть ящик. [Уйти.]"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F1DB"
+msgid "It's hard to make sense of this thicket of company names, dates, quantities, and percentages. You try to focus, but the lines are getting blurry..."
+msgstr ""
+"Названия компаний, даты, количество и проценты — продраться сквозь эти дебри очень сложно. Ты пытаешься сосредоточиться, но строки плывут у тебя перед глазами..."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F223"
+msgid "Leave the folders alone for now."
+msgstr ""
+"Оставить пока папки в покое."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000800001177"
+msgid "It appears to be a to-do list written in large, uneven capital letters:"
+msgstr ""
+"Похоже, это какой-то список дел, написанный крупными и неровными заглавными буквами:"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100002F0001144C"
+msgid "Open the drawer."
+msgstr ""
+"Открыть ящик."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004C00006A25"
+msgid "It's probably on rails."
+msgstr ""
+"Должно быть, на направляющих."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F1C0"
+msgid "Browse through the folders."
+msgstr ""
+"Посмотреть папки."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F284"
+msgid "You're trying hard, but the data here is *unbelievably* dry. Something about containers..."
+msgstr ""
+"Ты стараешься изо всех сил, но данные в документах просто *невероятно* скупые. Что-то про контейнеры..."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100000600018571"
+msgid "Read the note."
+msgstr ""
+"Прочесть записку."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Alternate1/0x0100000600018571"
+msgid "Take another look at the note."
+msgstr ""
+"Посмотреть на записку еще раз."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000800001187"
+msgid ""
+"REMEMBER, LEO!\n"
+"\n"
+"* EVRART'S SHOES\n"
+"* SPECIAL WHIRLING BORSCHT\n"
+"* WATER EVRART'S PLANTS\n"
+"* SWEEP OFFICE FLOOR\n"
+"* MORE BANNERS"
+msgstr ""
+"ЛЕО, НЕ ЗАБУДЬ!\n"
+"\n"
+"* ОБУВЬ ЭВРАРА.\n"
+"* ОСОБЫЙ БОРЩ В «ТАНЦАХ».\n"
+"* ПОЛИТЬ РАСТЕНИЯ ЭВРАРА.\n"
+"* ПОДМЕСТИ В ОФИСЕ.\n"
+"* ЕЩЕ ПЛАКАТЫ."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F2ED"
+msgid "...and the same materials being handed over to companies inside Revachol. Couron, Coal City, La Delta, and Jamrock are listed among the many districts where the imports are being sold."
+msgstr ""
+"...и выдача тех же материалов компаниям в Ревашоле. Среди множества районов, в которые направлен импорт, перечислены Курон, Коул-Сити, Дельта и Джемрок."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600018569"
+msgid "What is so special about this *borscht*? Code for drugs? Booze? Blood?"
+msgstr ""
+"Что же такого особенного в этом *борще*? Может, «борщом» они называют наркотики? Спиртное? Кровь?"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000011FE"
+msgid "\"The leader of the Débardeurs' Union, Evrart Claire, has someone running errands for him.\" He points to the list. \"Nothing incriminating here, though.\""
+msgstr ""
+"«Кто-то выполняет поручения Эврара Клэра, председателя профсоюза дебардёров. — Он показывает на список: — Хотя здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000008000011FE"
+msgid "\"Evrart has someone running errands for him.\" He points to the list. \"Nothing incriminating here, though.\"\n"
+msgstr ""
+"«Кто-то выполняет поручения Эврара. — Он показывает на список: — Хотя здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x01000008000011FE"
+msgid "\"The Débardeurs' Union leader, Evrart Claire, has Leo running errands for him.\" He points to the list. \"Nothing incriminating here, though.\"\n"
+msgstr ""
+"«Лео выполняет поручения Эврара Клэра, председателя профсоюза дебардёров. — Он показывает на список: — Хотя здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate3/0x01000008000011FE"
+msgid "\"Evrart has Leo running errands for him.\" He points to the list. \"Nothing incriminating here, though.\"\n"
+msgstr ""
+"«Лео выполняет поручения Эврара. — Он показывает на список: — Хотя здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F22A"
+msgid "\"If I let my eyes go completely out of focus, all shapes start melting into each other.\""
+msgstr ""
+"«Если я полностью расфокусирую зрение, все формы начнут сливаться»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F25E"
+msgid "\"Right.\" The lieutenant's expression stiffens. \"This is probably not relevant to our case. After all, we are not investigating an accounting mystery.\""
+msgstr ""
+"«Ясно. — Его взгляд становится строгим. — Скорее всего, это не относится к нашему делу. В конце концов, мы тут не для того, чтобы расследовать тайны бухгалтерии»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000800001216"
+msgid "The *special* borscht seems a bit odd in the list."
+msgstr ""
+"*Особый* борщ странным образом выделяется в этом списке."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100000600018557"
+msgid "Anything interesting? (Browse them.)"
+msgstr ""
+"Есть что-нибудь интересное? (Посмотреть документы.)"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F24F"
+msgid "\"No, of course not.\""
+msgstr ""
+"«Нет, конечно нет»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000080000117D"
+msgid "The drawer slides shut smoothly."
+msgstr ""
+"Ящик послушно закрывается."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000011DF"
+msgid "\"Evrart Claire, probably -- the head of the Débardeurs' Union.\" He inspects the note. \"One of his aides must have left it. Nothing incriminating here.\""
+msgstr ""
+"«Эврар Клэр... Возможно, председатель профсоюза дебардёров. — Он изучает записку. — Должно быть, ее оставил один из его помощников. Здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000008000011DF"
+msgid "He inspects the note. \"One of his aides must have left it. Nothing incriminating here.\"\n"
+msgstr ""
+"Он изучает записку. «Должно быть, ее оставил один из его помощников. Здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x01000008000011DF"
+msgid "\"Evrart Claire, probably -- the head of the Débardeurs' Union.\" He inspects the note. \"Leo must have left it. Nothing incriminating here.\"\n"
+msgstr ""
+"«Эврар Клэр... Возможно, председатель профсоюза дебардёров. — Он изучает записку. — Должно быть, ее оставил Лео. Здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate3/0x01000008000011DF"
+msgid "He inspects the note. \"Leo must have left it. Nothing incriminating here.\"\n"
+msgstr ""
+"Он изучает записку. «Должно быть, ее оставил Лео. Здесь нет ничего обличающего»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F232"
+msgid "You are a police officer, not a spiritual healer. You can focus the normal way by turning your attention to something and not letting go."
+msgstr ""
+"Ты полицейский, а не экстрасенс. Ты можешь сосредоточиться, как это делают все нормальные люди: удерживая свое внимание на объекте."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100000800001170"
+msgid "\"Never mind the note.\" (Close the drawer.)"
+msgstr ""
+"«К черту эту записку». (Закрыть ящик.)"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004C00006B0E"
+msgid "On second glance, someone has forgotten to properly close one of the drawers."
+msgstr ""
+"Ты присматриваешься получше и замечаешь, что кто-то забыл закрыть один из ящиков."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001FA2A"
+msgid "Look at the note."
+msgstr ""
+"Посмотреть на записку."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F1FC"
+msgid "Look how blurry all the lines on these papers are -- how unwieldy your own willpower is to yourself. You're like an absurdist Samaran monk -- focusing through not focusing."
+msgstr ""
+"Посмотри на эти расплывчатые строчки... Твоя же собственная сила воли делает тебя таким неуклюжим. Ты словно абсурдистский самарийский монах: пытаешься сосредоточиться путем отказа от сосредоточения."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F242"
+msgid "\"Is that what you're doing with those folders over there?\""
+msgstr ""
+"«Вы пытаетесь проделать это с папками?»"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600018578"
+msgid "All items on the list have been crossed out and the note itself is crumpled."
+msgstr ""
+"Все пункты списка зачеркнуты, а сама записка скомкана."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001857E"
+msgid ""
+"REMEMBER, LEO!\n"
+"\n"
+"* EVRART'S SHOES\n"
+"* SPECIAL WHIRLING BORSCHT\n"
+"* WATER EVRART'S PLANTS\n"
+"* SWEEP OFFICE FLOOR\n"
+"* MORE BANNERS"
+msgstr ""
+"ЛЕО, НЕ ЗАБУДЬ!\n"
+"\n"
+"* ОБУВЬ ЭВРАРА.\n"
+"* ОСОБЫЙ БОРЩ В «ТАНЦАХ».\n"
+"* ПОЛИТЬ РАСТЕНИЯ ЭВРАРА.\n"
+"* ПОДМЕСТИ В ОФИСЕ.\n"
+"* ЕЩЕ ПЛАКАТЫ."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000080000120A"
+msgid "(Turn to the lieutenant.) \"Look, Kim, a to-do note with a list of errands for *Evrart*.\""
+msgstr ""
+"(Повернуться к лейтенанту.) «Ким, смотри, список дел для *Эврара*»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100004C00006B16"
+msgid "Ignore drawer for now. [Leave.]"
+msgstr ""
+"Оставить пока ящик в покое. [Уйти.]"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B000060F6"
+msgid "The file cabinet stands steady as ever and the unlocked drawer slides out to greet you."
+msgstr ""
+"Картотека спокойно себе стоит, как и раньше. Незапертый ящик выдвигается, приветствуя тебя."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F16E"
+msgid "...let's see what's inside, he thinks."
+msgstr ""
+"...посмотрим, что внутри, думает он."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F20A"
+msgid "Hermeneutics was almost within your grasp, but now only vague letters float before your eyes. Less meaningful, but aesthetically more pleasing."
+msgstr ""
+"Тебе практически удалось вскочить на коня герменевтики, однако вместо этого у тебя перед глазами поплыли непонятные буквы. В них больше эстетики, чем смысла."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000011EB"
+msgid "All items on the list have been crossed out and the note itself is crumpled."
+msgstr ""
+"Все пункты списка зачеркнуты, а сама записка скомкана."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004C00006B06"
+msgid "The drawer slides shut smoothly."
+msgstr ""
+"Ящик послушно закрывается."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004C00006B21"
+msgid "\"It's *unfortunate* for the Union to just leave their paperwork lying around like this...\""
+msgstr ""
+"«*Напрасно* профсоюз оставляет бумаги вот так без присмотра...»"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F1CE"
+msgid "Hundreds of documents containing logistical data. Two kinds of transactions stand out: materials coming into Revachol from the outside world -- from Mundi, Graad, and even Iilmaraa..."
+msgstr ""
+"Сотни документов с данными о поставках. Можно выделить два типа транзакций: поступление в Ревашоль материалов из внешнего мира — из Мунди, Граада и даже Ильдемарата..."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F1EA"
+msgid "Force yourself to go through the folders."
+msgstr ""
+"Заставить себя посмотреть папки."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "tooltip1/0x010000820001F1EA"
+msgid "Volition thought focusing."
+msgstr ""
+"Сконцентрировался по совету Силы воли."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "tooltip2/0x010000820001F1EA"
+msgid "Dresscode: Modus Mullen."
+msgstr ""
+"Стиль одежды: «Модус Маллена»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F272"
+msgid "\"My thought exactly, officer.\" He turns away from the file cabinet. \"Shall we?\""
+msgstr ""
+"«Вы просто читаете мои мысли, офицер. — Он отворачивается от картотеки. — Ну что, идем дальше?»"
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100000800001210"
+msgid "Ignore the note."
+msgstr ""
+"Не обращать внимания на записку."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004C00006A1C"
+msgid "The drawer opens smoothly. Inside is a well-organized selection of brown folders."
+msgstr ""
+"Ящик послушно открывается. Внутри расставлены по порядку коричневые папки."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F419"
+msgid "You already went through all of these."
+msgstr ""
+"Ты уже смотрел все эти документы."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600018561"
+msgid "Doesn't look too incriminating -- but still feels like a *find*."
+msgstr ""
+"Это не похоже на что-то обличающее, но все равно можно назвать *находкой*."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F255"
+msgid "\"Let's just get back to work, lieutenant.\""
+msgstr ""
+"«Лейтенант, вернемся к работе»."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = File Cabinet
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820001F407"
+msgid "The file cabinet stands steady as ever. Sliding out a drawer presents you the folders you already went through. On top of them is the handwritten note."
+msgstr ""
+"Картотека спокойно себе стоит, как и раньше. Ты выдвигаешь ящик: в нем те же папки, что ты уже видел. На папках лежит написанная от руки записка."
+
+#. Title = OFFICE / FILE CABINET
+#. Description = THE FILE CABINET DIALOGUE
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820001F21D"
+msgid "Could I actually focus through *not* focusing?"
+msgstr ""
+"А можно ли на самом деле сосредоточиться на полном *рассредоточении*?"

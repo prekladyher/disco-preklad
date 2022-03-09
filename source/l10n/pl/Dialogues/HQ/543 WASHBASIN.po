@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200005ADE"
+msgid "On the table you see a bowl of water, a rough soap, and next to it a small hand mirror. A straight razor soaks inside the wash basin."
+msgstr ""
+"Na stole widzisz miskę z wodą, szorstkie mydło i kieszonkowe lusterko. W wodzie moczy się brzytwa."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700013409"
+msgid "Yeah, purified yourself right back to infancy. You look like a baby!"
+msgstr ""
+"Tak, oczyściłeś się aż do warstwy oseska. Wyglądasz jak małe dziecko!"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100002F0000F9FD"
+msgid "[Leave.]"
+msgstr ""
+"[Odejdź]."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00013356"
+msgid "How would you know? You haven't even seen your face! Go take a peek in the mirror, then decide for yourself."
+msgstr ""
+"Skąd możesz to wiedzieć? Nie widziałeś nawet swojej twarzy! Zajrzyj lepiej w lustro i sam osądź."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Suggestion
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E125"
+msgid "Your face, such as it is. A regular human face. Sans expression."
+msgstr ""
+"Twoja twarz, jaka by nie była. Zwykłe ludzkie oblicze. Bez wyrazu."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Suggestion
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E136"
+msgid "The beardless nature of your cheeks makes The Expression seem even more like a terrifying grimace."
+msgstr ""
+"Bezbroda natura twoich policzków sprawia, że *mina* wygląda jeszcze bardziej jak przerażający grymas."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100005A0000DB17"
+msgid "Time to shave. Get these mutton chops off."
+msgstr ""
+"Czas się ogolić. Pozbądź się tych bokobrodów."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "tooltip1/0x0100005A0000DB17"
+msgid "Dresscode: True man."
+msgstr ""
+"Ubiór: prawdziwy mężczyzna."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Composure
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E0F4"
+msgid "A fresh start looms ahead. Clean yourself up and be born anew."
+msgstr ""
+"Widzisz na horyzoncie nowy początek. Doprowadź się do porządku i naródź się na nowo."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E1E2"
+msgid "The sharp blade chafes against your skin, producing a scratching sound. The surface underneath the beard feels tender, the air brushing against it chilly."
+msgstr ""
+"Ostry metal drapie cię z chrzęstem po brodzie. Skóra pod włosami wydaje się delikatna; czujesz na niej chłód powietrza."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000070001225C"
+msgid "But man persists and after fifteen minutes pass, you look almost presentable. Sort of. The sudden absence of the morbid dead tissue smell instantly lifts your spirit."
+msgstr ""
+"Trzymasz się jednak po męsku i piętnaście minut później wyglądasz niemal porządnie. Mniej więcej. Nagła nieobecność makabrycznego smrodu martwych tkanek natychmiast podnosi cię na duchu."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012282"
+msgid "Scrubbing all the necrotic tissue off your hands takes a while. The fingernails are especially hard. Death has made it's way into every nook and cranny..."
+msgstr ""
+"Zmywanie z rąk rozkładających się resztek chwilę zajmuje. Szczególnie trudne jest domycie paznokci. Śmierć wdarła się we wszystkie zakamarki..."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000FA0B"
+msgid "The water reflects back a vague image of your face -- nose bulbous and red, hair unkempt, wrinkles lining the eyes and forehead. The 'stache is gigantic."
+msgstr ""
+"W wodzie odbija się niewyraźnie twoja twarz – kartoflowaty, czerwony nos, rozczochrane włosy, zmarszczki na oczach i czole. Gigantyczne wąsy."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100005A0000E0E8"
+msgid "I *need* to shave the chops!"
+msgstr ""
+"*Muszę* zgolić te bokobrody!"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E0EF"
+msgid "You'll be lookin' like a pansy without the chops! A fuckin' pansy!"
+msgstr ""
+"Bez bokobrodów będziesz wyglądał jak laluś! Jebany laluś!"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E1A8"
+msgid "There's no way to salvage this."
+msgstr ""
+"Nie da się już tego uratować."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000070001227C"
+msgid "But man persists and finally your bruised hands look clean and presentable... sort of. The sudden absence of the morbid dead tissue smell is uplifting."
+msgstr ""
+"Trzymasz się jednak po męsku i w końcu twoje poobijane ręce wyglądają na czyste i porządne. Mniej więcej. Nagła nieobecność makabrycznego smrodu martwych tkanek podnosi cię na duchu."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100005A0000E0DD"
+msgid "This isn't sharp enough. Scrape harder."
+msgstr ""
+"Nie jest wystarczająco ostra. Drap mocniej."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E0E2"
+msgid "Stop, for crying out loud! You're gonna cut your own throat."
+msgstr ""
+"Przestań, na litość! Poderżniesz sobie gardło."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E113"
+msgid "The water reflects back a vague image of your clean-shaven face. Despite the bulbous nose, unkempt hair and persistent swelling, you look... a little younger, maybe?"
+msgstr ""
+"W wodzie odbija się niewyraźnie twoja ogolona na gładko twarz. Mimo kartoflowatego nosa, rozczochranych włosów i nieschodzącej opuchlizny wyglądasz... może nieco młodziej?"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100000700012221"
+msgid "Leave it for now."
+msgstr ""
+"Na razie daj temu spokój."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012255"
+msgid "Thank god you didn't go in there barehanded! Death smell is notoriously difficult to get off yourself and your clothes though and cleaning up takes a while..."
+msgstr ""
+"Boże, całe szczęście, że nie pracowałeś gołymi rękami! Trupi smród jest jednak piekielnie trudny do zmycia z ciała i ubrań. Pozbycie się go chwilę zajmuje..."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000DB2B"
+msgid "Your hand trembles as you scratch at your cheek... oh no, that's not how a grown man shaves!"
+msgstr ""
+"Dłoń ci drży, kiedy drapiesz się po policzku... O nie, nie tak goli się dorosły mężczyzna!"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000070001228F"
+msgid "Should have used gloves. Detectives use gloves, when they go rummaging around in someone's dead brain..."
+msgstr ""
+"Trzeba było użyć rękawiczek. Detektywi korzystają z nich, kiedy grzebią w martwych mózgach..."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E0D7"
+msgid "They feel so smooth, surprisingly so. A feeling of freshness overcomes you, as if you just came from a cold bath."
+msgstr ""
+"Wydają się niesamowicie, aż zaskakująco gładkie. Ogarnia cię poczucie świeżości, jakbyś właśnie wyszedł z zimnej kąpieli."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000070001222F"
+msgid "The centipede is exaggerating -- people don't actually cut their own throats when they're shaving. At least not accidentally."
+msgstr ""
+"Krociorąk przesadza. Ludzie nie podrzynają sobie gardeł podczas golenia. W każdym razie nie przez przypadek."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E1C7"
+msgid "Beneath the doubt sprouts a new vigour, like you've discarded some bad decisions. It feels as though you've passed through a ritual. Emerged from cold water, even..."
+msgstr ""
+"Pod warstwą wątpliwości rodzi się nowa werwa, jakbyś odrzucił jakieś dawne złe decyzje. Czujesz się, jakbyś przeszedł jakiś rytuał. Wynurzył się wręcz z zimnej wody..."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200005AE4"
+msgid "Please attend to personal hygiene on your own time."
+msgstr ""
+"Zajmuj się, proszę, higieną osobistą w czasie wolnym."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100005A0000E1BD"
+msgid "Feel your clean-shaven cheeks."
+msgstr ""
+"Dotknij swoich ogolonych gładko policzków."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E1B8"
+msgid "The razor lands with a *clang*. A red trickle begins to spread in the water."
+msgstr ""
+"Brzytwa upada z *brzęknięciem*. W wodzie rozpuszcza się powoli czerwona strużka."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Washbasin
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000F9F6"
+msgid "On the table you see a bowl of water, a rough soap, and next to it a small hand mirror. A straight razor soaks inside the wash basin."
+msgstr ""
+"Na stole widzisz miskę z wodą, szorstkie mydło i kieszonkowe lusterko. W wodzie moczy się brzytwa."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000200005AEC"
+msgid "The lieutenant throws you an embarrassed glance as you consider the washbasin."
+msgstr ""
+"Kiedy przyglądasz się misce, porucznik rzuca ci zakłopotane spojrzenie."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012228"
+msgid "Thank god, I would have cut your throat."
+msgstr ""
+"Dzięki bogu, to mogło się skończyć podciętym gardłem."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100002900001F19"
+msgid "Is shaving the right call?"
+msgstr ""
+"Czy to golenie się jest właściwą decyzją?"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100005A0000E1AE"
+msgid "Drop the razor in the water basin."
+msgstr ""
+"Upuść brzytwę do miski z wodą."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002900001F06"
+msgid "Your hand shakes so hard you can't even muster up the courage to *try*. Maybe you're just too *wild* at heart?"
+msgstr ""
+"Dłoń trzęsie ci się tak bardzo, że nie umiesz nawet zebrać się na odwagę, żeby *spróbować*. Może w twoim sercu drzemie zbytnia *dzikość*?"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100002900001F13"
+msgid "*Was* shaving the right call?"
+msgstr ""
+"Czy to golenie się było *właściwą* decyzją?"
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000DB25"
+msgid "Like an artist with a brush or a master swordsman, you use the small mirror and the straight razor -- with some soap -- to remove all that unkempt hair from below the nose-line."
+msgstr ""
+"Niczym artysta z pędzlem w ręce lub mistrz szermierczy wykorzystujesz lusterko i brzytwę – a także mydło – aby pozbyć się wszystkich tych niechlujnych włosów poniżej linii nosa."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100000700012244"
+msgid "Wash the smell of death off yourself."
+msgstr ""
+"Zmyj z siebie odór śmierci."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Alternate1/0x0100000700012244"
+msgid "First wash the smell of death off yourself."
+msgstr ""
+"Najpierw zmyj z siebie odór śmierci."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700013401"
+msgid "You don't have a face anymore. It's all baby-ass now."
+msgstr ""
+"Nie masz już twarzy. W jej miejscu znajduje się pupa niemowlaka."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E120"
+msgid "You almost look like a professional."
+msgstr ""
+"Wyglądasz prawie jak zawodowiec."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005A0000E1B3"
+msgid "Your hand refuses to move another millimetre. A small trickle of blood runs down your cheek."
+msgstr ""
+"Twoja ręka nie chce się już poruszyć ani o milimetr. Po policzku spływa ci mała strużka krwi."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = You
+#. Conversant = Washbasin
+msgctxt "Dialogue Text/0x0100005A0000E1C2"
+msgid "Hope this was the right decision."
+msgstr ""
+"Mam nadzieję, że to była dobra decyzja."
+
+#. Title = HQ / WASHBASIN
+#. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000950000028D"
+msgid "The sharp blade chafes against your skin, producing a scratching sound. The surface underneath the beard feels tender, the air brushing against it chilly."
+msgstr ""
+"Ostry metal drapie cię z chrzęstem po brodzie. Skóra pod włosami wydaje się delikatna; czujesz na niej chłód powietrza."

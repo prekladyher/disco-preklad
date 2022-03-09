@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de"
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tutorial Agent
+msgctxt "Dialogue Text/0x0100002100001884"
+msgid "For a more detailed view of the Map, go to your JOURNAL and select the MAP tab."
+msgstr ""
+"Um eine detailliertere Ansicht der Karte zu erhalten, gehe in deinem TAGEBUCH auf KARTE."
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900002A3D"
+msgid "[Put the map away.]"
+msgstr ""
+"[Du steckst die Karte ein.]"
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tourist map of Martinaise
+msgctxt "Dialogue Text/0x0100008900002A50"
+msgid "Your finger moves through the various streets, across Rue de Saint-Ghislaine and Rue Saint-Cispare, over Saint-Brune and Martinaise North..."
+msgstr ""
+"Dein Finger fährt über die verschiedenen Straßen, von der Rue Saint-Ghislaine über die Rue Saint-Cispare bis hin nach Saint-Brune und Martinaise Nord …"
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tourist map of Martinaise
+msgctxt "Dialogue Text/0x0100008900002A5C"
+msgid "...finally coming to a halt on the spot where you are currently standing, although the map gives no such indication itself."
+msgstr ""
+"… bis er endlich an der Stelle zum Stillstand kommt, an der du dich gerade befindest, obwohl sie gar nicht auf der Karte verzeichnet ist."
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = Tourist map of Martinaise
+msgctxt "Dialogue Text/0x0100008900002A28"
+msgid "The worn map features the patchwork grid of the streets of Martinaise, with directions to appropriately *tourist-y* locations. Year '48 resides on the upper-right corner."
+msgstr ""
+"Auf der abgenutzten Karte ist das zusammengeflickte Straßennetz von Martinaise abgebildet, mit Wegbeschreibungen zu einigen <i>besucherfreundlichen</i> Orten. In der rechten oberen Ecke ist die Jahreszahl 48 festgehalten."
+
+#. Title = INVENTORY / MAP OF MARTINAISE
+#. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900002A49"
+msgid "Trace a path through the grid."
+msgstr ""
+"Du zeichnest einen Weg durch das Straßennetz."

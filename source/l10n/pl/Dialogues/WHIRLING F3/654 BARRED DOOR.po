@@ -1,0 +1,925 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100000400013DB4"
+msgid "\"I thought it was an Ace's High moment, Kim.\""
+msgstr ""
+"„Myślałem, że to okazja do wysokiej piątki, Kim”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE19"
+msgid "It's barred from the inside. You hear the bar rattle in the brackets."
+msgstr ""
+"Są zablokowane od środka belką. Słyszysz, jak obija się ona o metalowe obejmy."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005800009EBA"
+msgid "This is the door to the pinball workshop that you left barred on the inside."
+msgstr ""
+"To drzwi do warsztatu pinballowego, które zostawiłeś zablokowane belką od wewnątrz."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100000400013D1A"
+msgid "\"*Disrespecting* the force?!?!\" (Kick the door.)"
+msgstr ""
+"„*Lekceważysz* tę siłę?!” (Kopnij drzwi)."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D56"
+msgid "This kind of stuff would hurt -- if not for you not caring about little things like that."
+msgstr ""
+"Zwykle takie rzeczy powodują ból, gdyby nie to, że nie dbasz o takie drobiazgi."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Klaasje (Miss Oranje Disco Dancer)
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D6E"
+msgid "\"Suck on that, door.\""
+msgstr ""
+"„Dobrze wam tak, drzwi”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE43"
+msgid "\"To the workshop behind the wall.\" He points somewhere within. \"This must be the barred door we saw -- we *could* return and open it from the inside.\" He looks at the door with suspicion."
+msgstr ""
+"„Do warsztatu za ścianą” – odpowiada, wskazując budynek. „To muszą być zablokowane drzwi, które tam widzieliśmy – *moglibyśmy* wrócić tam i otworzyć je od środka” – stwierdza, spoglądając podejrzliwie na drzwi."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A914"
+msgid "You kick it -- gung ho style, *entering the premises* style -- but the door fails to respect the force. All you hear is the bar rattling inside, laughing at you."
+msgstr ""
+"Kopiesz je niczym *kowboj desperado* wchodzący do saloonu, one jednak nie ustępują. Słyszysz tylko przypominające śmiech grzechotanie deski."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x0100006B0000A914"
+msgid "You give it another, more *ferocious* kick. The door still does not move."
+msgstr ""
+"Kopiesz jeszcze raz, *potężniej*. Drzwi nadal ani drgną."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100000400013D20"
+msgid "Swallow the rage."
+msgstr ""
+"Powściągnij wściekłość."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Klaasje (Miss Oranje Disco Dancer)
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D91"
+msgid "\"I think the brackets broke inside. I've always wanted to know what's in there...\""
+msgstr ""
+"„Chyba złamałeś rygiel. Zawsze chciałam wiedzieć, co tam jest...”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE4B"
+msgid "\"Where does this lead to?\""
+msgstr ""
+"„Dokąd te drzwi prowadzą?”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE67"
+msgid "\"It is not the first closed door we've found in this building -- there is also your mysterious blue kitchen door.\""
+msgstr ""
+"„To nie są pierwsze zamknięte drzwi, na jakie natknęliśmy się w tym budynku – są też przecież twoje tajemnicze niebieskie drzwi w kuchni”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EEAA"
+msgid "\"The vigilantes, the cadaver, and...\" He nods toward the young woman. \"A number of people connected to the case are *in* or around this building. This door is part of it. It's not *unimportant*.\""
+msgstr ""
+"„Samozwańczy mściciele, zwłoki i...” – wskazuje skinieniem głowy młodą kobietę. „Wiele osób powiązanych z tą sprawą znajduje się *w* lub w pobliżu tego budynku. A te drzwi są jego częścią. To nie jest *nieważne*”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EF68"
+msgid "Something cracks inside."
+msgstr ""
+"Coś trzaska w środku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000EF68"
+msgid "This time -- something cracks inside."
+msgstr ""
+"Tym razem coś trzaska w środku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800010A26"
+msgid "\"I don't know. The further we get, the more this building seems to be tied to the case...\""
+msgstr ""
+"„Nie wiem. Im więcej się dowiadujemy, tym bardziej ten budynek zdaje się powiązany z naszym śledztwem...”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400015A90"
+msgid "It is an unbelievably satisfying sound."
+msgstr ""
+"Niesamowicie satysfakcjonujący odgłos."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE80"
+msgid "Below, the hostel-cafeteria creaks and groans under your added weight -- a skeleton of composite support beams and cantilevers."
+msgstr ""
+"Hostelo-bar pod twoimi stopami – szkielet z kompozytowych belek i wsporników – skrzypi i trzeszczy, dźwigając twój ciężar."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100006B0000A905"
+msgid "Let's get in there. [Leave.]"
+msgstr ""
+"Wejdźmy do środka. [Odejdź]."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008F00003FE9"
+msgid "\"I don't see how this is going to give new results.\" He measures the door, stoically. \"There must be another way in there.\""
+msgstr ""
+"„Nie wiem, jak miałoby to nam tutaj pomóc” – stwierdza, przyglądając się spokojnie drzwiom. „Musi być jakiś inny sposób na dostanie się do środka”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Perception (Sight)
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013CFE"
+msgid "It could be that your eyesight is still too poor to notice it... behind that window."
+msgstr ""
+"Możliwe, że twój wzrok wciąż jest za słaby, żeby zobaczyć to coś... za oknem."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000F001"
+msgid "No one knows. It is a fleeting feeling."
+msgstr ""
+"Nikt nie wie. To przelotne uczucie."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D2A"
+msgid "The door receives a thorough disciplining."
+msgstr ""
+"Drzwi zostają przykładnie ukarane."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000E72A"
+msgid "This is a small, heavy door. There is no lock in sight."
+msgstr ""
+"Małe, ciężkie drzwi. Nie widać nigdzie zamka."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000E72A"
+msgid "The same small, heavy door. No lock in sight."
+msgstr ""
+"Te same małe, ciężkie drzwi. Nie widać zamka."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EFCB"
+msgid "\"I don't see how this is going to give new results.\" He measures the door, stoically. \"There must be another way in there.\""
+msgstr ""
+"„Nie wiem, jak miałoby to nam tutaj pomóc” – stwierdza, przyglądając się spokojnie drzwiom. „Musi być jakiś inny sposób na dostanie się do środka”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000F03A"
+msgid "\"Through the kitchen door, perhaps? Let's explore, rather than destroy.\""
+msgstr ""
+"„Może przez drzwi w kuchni? Lepiej rozejrzyjmy się, zamiast siać zniszczenie”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100000400013DBA"
+msgid "\"I thought it was an Ace's Low moment, Kim.\""
+msgstr ""
+"„Myślałem, że to okazja do niskiej piątki, Kim”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Klaasje (Miss Oranje Disco Dancer)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EF7E"
+msgid "\"All right,\" the woman nods approvingly: \"Let's trash the place.\""
+msgstr ""
+"„Tak jest” – kiwa głową dopingująco. „Zdemolujmy to wszystko”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A928"
+msgid "\"The door has withstood your *demolishing* attempts.\" He measures the door, stoically. \"There must be another way in.\""
+msgstr ""
+"„Drzwi oparły się twoim *niszczycielskim* atakom” – stwierdza, przyglądając się im ze spokojem. „Musi być jakiś inny sposób na dostanie się do środka”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800010966"
+msgid "\"No -- still a mini-investigation.\" He pretends to make a note in his notebook."
+msgstr ""
+"„Nie – to wciąż miniśledztwo” – stwierdza i udaje, że zapisuje coś w swoim notatniku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Empathy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013DD9"
+msgid "It totally was."
+msgstr ""
+"Oczywiście, że tak."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013E25"
+msgid "Must be something valuable inside to go through the trouble of protecting it -- the door is very sturdy indeed."
+msgstr ""
+"W środku musi być coś cennego, skoro ktoś aż tak chciał to chronić. Drzwi są naprawdę bardzo mocne."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE05"
+msgid "Push."
+msgstr ""
+"Popchnij."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013CF3"
+msgid "Your foot is ready to explode and punish this *object*!"
+msgstr ""
+"Twoja stopa jest gotowa, aby eksplodować i ukarać ten *obiekt*!"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100000400013DC0"
+msgid "\"Let's see.\" [Leave.]"
+msgstr ""
+"„Zobaczmy”. [Odejdź]."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE87"
+msgid "Tap on the roof with your foot."
+msgstr ""
+"Stuknij w dach stopą."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Klaasje (Miss Oranje Disco Dancer)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EF84"
+msgid "The woman takes a drag of her ziggie and nods: \"Demolish the place.\""
+msgstr ""
+"Kobieta przykłada papieros do warg i kiwa głową. „Niech pan to wszystko zdemoluje”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EFED"
+msgid "What?"
+msgstr ""
+"Co?"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EFFA"
+msgid "You are a numb, imprecise instrument to ignore this feeling..."
+msgstr ""
+"Odrzucając to przeczucie, zachowujesz się jak bezmyślne, nieprecyzyjne narzędzie..."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A991"
+msgid "\"It's the barred door we saw.\" He looks at the door with suspicion. \"I don't know why we didn't open it from the inside -- we *should*.\""
+msgstr ""
+"„To zablokowane drzwi, które widzieliśmy w środku” – stwierdza, spoglądając podejrzliwie na drzwi. „Nie wiem, dlaczego nie otworzyliśmy ich od środka – *powinniśmy* byli to zrobić”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000780001095C"
+msgid "\"I hate it when that happens.\""
+msgstr ""
+"„Nie znoszę, gdy tak się dzieje”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000078000109A4"
+msgid "\"We should search downstairs, in the kitchen -- just in case. Maybe there's a door that leads up, that we don't know of.\""
+msgstr ""
+"„Powinniśmy rozejrzeć się na parterze, w kuchni – tak na wszelki wypadek. Może są tam drzwi, które prowadzą na górę, a my nie mamy o nich pojęcia”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008F00003E7A"
+msgid "Something cracks inside. It is an unbelievably satisfying sound."
+msgstr ""
+"Coś trzaska w środku. Niesamowicie satysfakcjonujący odgłos."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x0100008F00003E7A"
+msgid "This time -- something cracks inside. It is an unbelievably satisfying sound. "
+msgstr ""
+"Tym razem coś trzaska w środku. Niesamowicie satysfakcjonujący odgłos."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013DD3"
+msgid "\"I don't know about that...\" The lieutenant smiles an uncomfortable smile."
+msgstr ""
+"„No nie wiem...” – odpowiada porucznik z niezręcznym uśmiechem."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE11"
+msgid "[Leave.]"
+msgstr ""
+"[Odejdź]."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE93"
+msgid "A dull thump. Somewhere inside a wind brace rattles from the imperceptible motion of the building."
+msgstr ""
+"Głuche łupnięcie. Gdzieś w środku element stężenia wiatrowego brzęczy wskutek nieodczuwalnego ruchu budynku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Perception (Sight)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000F00E"
+msgid "It could be that your eyesight is still too poor to notice it... behind that window."
+msgstr ""
+"Możliwe, że twój wzrok wciąż jest za słaby, żeby zobaczyć to coś... za oknem."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D3D"
+msgid "The sturdy wood door has lost *all* respect for you."
+msgstr ""
+"Mocne drewniane drzwi straciły do ciebie *cały* szacunek."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE25"
+msgid "Sounds like it's heavy too. Very sturdy."
+msgstr ""
+"Zdaje się też, że jest ciężka. I bardzo mocna."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE3C"
+msgid "\"I don't know.\" He makes a note in his notebook."
+msgstr ""
+"„Nie wiem” – stwierdza i zapisuje coś w swoim notatniku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000EE3C"
+msgid "\"I don't know, lieutenant-yefreitor.\" He makes a note."
+msgstr ""
+"„Nie wiem, poruczniku gefrajterze” – stwierdza i zapisuje coś."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EFAA"
+msgid "\"Let's not.\""
+msgstr ""
+"„Lepiej nie”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D37"
+msgid "The door receives a thorough disciplining -- at the cost of your foot. Your foot hurts. A lot."
+msgstr ""
+"Drzwi zostają przykładnie ukarane. Tak jak i twoja stopa. Zaczęła cię boleć. Bardzo."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE74"
+msgid "\"Do you think it's important?\""
+msgstr ""
+"„Myślisz, że to ważne?”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EFDD"
+msgid "Below... in the Union box... was there something behind the window? In the hawthorn branches, brushing against the glass."
+msgstr ""
+"Pod spodem... W sali Związku... Czy tam nie było czegoś za oknem? Wśród gałęzi głogu szurających o szybę."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400015A95"
+msgid "It is an unbelievably satisfying sound."
+msgstr ""
+"Niesamowicie satysfakcjonujący odgłos."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D4D"
+msgid "Its pain and grovelling is much to your liking."
+msgstr ""
+"Ich ból i uległość bardzo ci się podobają."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Empathy
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D98"
+msgid "She sounds genuinely curious."
+msgstr ""
+"Wydaje się autentycznie zaciekawiona."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Klaasje (Miss Oranje Disco Dancer)
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013DEB"
+msgid "\"Nice.\" The young woman nods."
+msgstr ""
+"„Nieźle” – młoda kobieta kiwa z uznaniem głową."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008F00003E6D"
+msgid "Something cracks inside. It is an unbelievably satisfying sound."
+msgstr ""
+"Coś trzaska w środku. Niesamowicie satysfakcjonujący odgłos."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x0100008F00003E6D"
+msgid "This time -- something cracks inside. It is an unbelievably satisfying sound. "
+msgstr ""
+"Tym razem coś trzaska w środku. Niesamowicie satysfakcjonujący odgłos."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008F00003FD8"
+msgid "\"The vigilantes, the cadaver, and...\" He nods to where they young woman once stood. \"A number of people connected to the case are *in* or around this building. This door is part of it. It's not *unimportant*.\""
+msgstr ""
+"„Samozwańczy mściciele, zwłoki i...” – wskazuje skinieniem głowy miejsce, w którym wcześniej stała młoda kobieta. „Wiele osób powiązanych z tą sprawą znajduje się *w* lub w pobliżu tego budynku. A te drzwi są jego częścią. To nie jest *nieważne*”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D8C"
+msgid "\"Sounds like the property damage wasn't in vain, at least. Would it hurt to look in?\""
+msgstr ""
+"„Wygląda na to, że zniszczenie cudzej własności nie poszło na marne. Zajrzymy do środka?”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100000400013D8C"
+msgid "\"Well,\" the lieutenant cups his ear. \"Sounds like *this time* the property damage was at least resultive. Would it hurt to look in?\""
+msgstr ""
+"„No cóż...” – stwierdza porucznik, nadstawiając ucha. „Wygląda na to, że *tym razem* zniszczenie cudzej własności przyniosło jakieś rezultaty. Zajrzymy do środka?”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE0B"
+msgid "Kick the door in."
+msgstr ""
+"Wyważ drzwi kopnięciem."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "tooltip1/0x010000450000EE0B"
+msgid "Anti-Object Task Force initiate."
+msgstr ""
+"Adept Oddziału Antyobiektowego."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "tooltip2/0x010000450000EE0B"
+msgid "Anti-Object Task Force expert!"
+msgstr ""
+"Ekspert Oddziału Antyobiektowego!"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100007800010956"
+msgid "\"See? The main investigation and the door below are merging into a *stereo*-investigation.\""
+msgstr ""
+"„Widzisz? Główne dochodzenie i drzwi na dole zespalają się w jedno *stereodochodzenie*”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000780001097D"
+msgid "\"I could say something, but I'm not going to, because I don't gloat.\""
+msgstr ""
+"„Mógłbym coś powiedzieć, ale nie powiem, bo nie mam w zwyczaju się pysznić”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D7F"
+msgid "Filling you with a *belief* in your own body."
+msgstr ""
+"Co napełniło cię *wiarą* w twoje własne ciało."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EE8D"
+msgid "Shake it off."
+msgstr ""
+"Otrząśnij się."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000EFF3"
+msgid "Ignore the feeling."
+msgstr ""
+"Zignoruj przeczucie."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000F041"
+msgid "\"We should search downstairs. There are things about this building we don't know yet.\""
+msgstr ""
+"„Powinniśmy rozejrzeć się na parterze. Ten budynek wciąż kryje wiele tajemnic”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A8DE"
+msgid "Something cracks inside."
+msgstr ""
+"Coś trzaska w środku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x0100006B0000A8DE"
+msgid "This time -- something cracks inside."
+msgstr ""
+"Tym razem coś trzaska w środku."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100006B0000A953"
+msgid "\"Ow.\""
+msgstr ""
+"„Au”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800010983"
+msgid "He doesn't say anything."
+msgstr ""
+"Milczy."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EE79"
+msgid "\"The further we get, the more this building seems to be tied to the case...\""
+msgstr ""
+"„Im więcej się dowiadujemy, tym bardziej ten budynek zdaje się powiązany z naszym śledztwem...”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EF3D"
+msgid "\"It must be connected to the room we found behind the kitchen door. Maybe we should go back and take that elevator up...\" He looks at the door with suspicion."
+msgstr ""
+"„Muszą być połączone z pomieszczeniem, które znaleźliśmy za drzwiami w kuchni. Może powinniśmy tam wrócić i sprawdzić, dokąd prowadzi ta winda...” – stwierdza, spoglądając podejrzliwie na drzwi."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x010000450000F029"
+msgid "\"How?\""
+msgstr ""
+"„Jaki?”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A95B"
+msgid "The door is oblivious to your distress."
+msgstr ""
+"Drzwi pozostają nieświadome twoich kłopotów."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100007800010950"
+msgid "\"So maybe the door below *is* a *mega*-investigation.\""
+msgstr ""
+"„Więc może te drzwi na dole *są* jednak *megadochodzeniem*”."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007800010994"
+msgid "You should have gloated."
+msgstr ""
+"Trzeba było się pysznić."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000EF6D"
+msgid "You kick it -- gung ho-style, *entering the premises*-style -- but the door fails to respect the force. All you hear is the bar rattling inside, laughing at you."
+msgstr ""
+"Kopiesz je niczym *kowboj desperado* wchodzący do saloonu, one jednak nie ustępują. Słyszysz tylko przypominające śmiech grzechotanie deski."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000EF6D"
+msgid "You give it another, more *ferocious* kick. The door still does not move."
+msgstr ""
+"Kopiesz jeszcze raz, *potężniej*. Drzwi nadal ani drgną."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Barred Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000400013D63"
+msgid "The door receives a thorough disciplining -- and it doesn't even hurt!"
+msgstr ""
+"Drzwi zostają przykładnie ukarane. I nawet cię to nie boli!"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Visual Calculus
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A8FD"
+msgid "It seems like the brackets broke inside."
+msgstr ""
+"Zdaje się, że obejmy w środku puściły."
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = You
+#. Conversant = Barred Door
+msgctxt "Dialogue Text/0x0100006B0000A91E"
+msgid "\"Fucking piece of shit!\""
+msgstr ""
+"„Jebana kupa gówna!”"
+
+#. Title = WHIRLING F3 / BARRED DOOR
+#. Description = This is the door on the roof. 
+#. Phys Inst white get in
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B0000A982"
+msgid "The key... to the kitchen door. From behind the window. Use it on the door."
+msgstr ""
+"Klucz... Ten od drzwi kuchennych. Zza okna. Użyj go w zamku."

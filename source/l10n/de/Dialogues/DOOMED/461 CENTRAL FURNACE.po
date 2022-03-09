@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000176E"
+msgid "A thick layer of coal dust covers the furnace, colouring it pitch-black."
+msgstr ""
+"Eine dicke Schicht Kohlenstaub bedeckt den Heizofen und färbt ihn pechschwarz."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081ED3"
+msgid "Three dangerous stripes appear onto your cheeks, telling stories of your wild soul."
+msgstr ""
+"Auf deinen Wangen tauchen drei gefährliche Streifen auf, die von deiner wilden Seele künden."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081EDF"
+msgid "A hollow ring echoes through the furnace. Your toe hurts."
+msgstr ""
+"Ein hohler Klang hallt klingelnd durch den Heizofen. Dein Zeh tut weh."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081F7F"
+msgid "Yell \"Hello!\" into the furnace."
+msgstr ""
+"Du brüllst „Hallo!“ in den Heizofen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip1/0x0100002B00081F7F"
+msgid "Warpainted your face."
+msgstr ""
+"Kriegsbemalung angelegt"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip2/0x0100002B00081F7F"
+msgid "Kicked the furnace."
+msgstr ""
+"Gegen den Heizofen getreten"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip3/0x0100002B00081F7F"
+msgid "Sing from the diaphragm!"
+msgstr ""
+"Singt mit dem Zwerchfell!"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip4/0x0100002B00081F7F"
+msgid "Wet your whistle."
+msgstr ""
+"Den Hals befeuchtet"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip5/0x0100002B00081F7F"
+msgid "Called Slipstream SCA again."
+msgstr ""
+"Erneut bei Slipstream SCA geklingelt"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip6/0x0100002B00081F7F"
+msgid "Helping Soona with research."
+msgstr ""
+"Du unterstützt Soonas Forschung"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip7/0x0100002B00081F7F"
+msgid "Dresscode: Modus Mullen."
+msgstr ""
+"Dresscode: Mullen-Modus"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003D23"
+msgid "\"And *this* protects you?\""
+msgstr ""
+"„Und <i>das</i> schützt Sie?“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081FD0"
+msgid "Wipe it clean."
+msgstr ""
+"Du wischst die Bemalung ab."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000003E93"
+msgid "\"Hmm, maybe you should let your voice rest, officer. Try again later.\""
+msgstr ""
+"„Hmm, vielleicht sollten Sie Ihre Stimme schonen, Officer. Versuchen Sie es später noch einmal.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000003EBC"
+msgid "The chatter from the chimney continue on as before. You seem to have made no impression on whatever's *up there*."
+msgstr ""
+"Das Gerede aus dem Kamin geht unverändert weiter. Was auch immer <i>da oben</i> ist – du scheinst es nicht beeindruckt zu haben."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000DF7"
+msgid "\"I'm not sure, Kim... but I think I can hear someone talking upstairs.\""
+msgstr ""
+"„Ich bin mir nicht sicher, Kim … aber ich glaube, ich höre oben jemanden reden.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000F24"
+msgid "Or maybe you're just hungover again."
+msgstr ""
+"Oder vielleicht hast du auch einfach nur wieder einen Kater."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081E99"
+msgid "Smear your hands with coal."
+msgstr ""
+"Du schwärzt deine Hände mit Kohle."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081ECB"
+msgid "No, let's not express ourselves. Let's just wipe our hands clean on our pants."
+msgstr ""
+"Nein, verzichten wir auf diesen Ausdruck unserer selbst. Wischen wir uns die Hände einfach an der Hose sauber."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081FC3"
+msgid "\"Please wipe your face clean, officer.\""
+msgstr ""
+"„Bitte wischen Sie sich das Gesicht ab, Officer.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000DD5"
+msgid "\"What are you doing?\" the lieutenant asks when he sees you climb half-way inside the furnace."
+msgstr ""
+"„Was machen Sie denn da?“, fragt der Lieutenant, als er sieht, dass du mit dem Oberkörper bereits im Heizofen steckst."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Endurance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000F18"
+msgid "Could it be psychological? Because your physical health is fine."
+msgstr ""
+"Könnte deine Psyche dahinterstecken? Denn körperlich geht es dir gut."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081FD7"
+msgid "\"Thank you,\" the lieutenant nods. \"So, where were we?\" He turns back to the furnace."
+msgstr ""
+"„Vielen Dank“, sagt der Lieutenant und nickt. „Also, wo waren wir?“ Er wendet sich wieder dem Heizofen zu."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00083364"
+msgid "\"Hello?\" you hear a woman's voice answer."
+msgstr ""
+"„Hallo?“, hörst du eine Frauenstimme antworten."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003CEE"
+msgid "Looks like this furnace has a face and it's a face of agony."
+msgstr ""
+"Sieht so aus, als hätte dieser Heizofen ein Gesicht – ein gequältes Gesicht."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003D0F"
+msgid "You can feel your cheeks turn red under the lieutenant's gaze -- you look like a kid, not a police officer. Even the war-paint can't conceal the embarrassment."
+msgstr ""
+"Du spürst, wie deine Wangen unter dem starrenden Blick des Lieutenants rot anlaufen – du siehst aus wie ein Kind, nicht wie ein Polizist. Nicht einmal die Kriegsbemalung vermag die Peinlichkeit zu kaschieren."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000269F"
+msgid "\"We should ask the lady in the bookstore what's going on with these curtains.\""
+msgstr ""
+"„Wir sollten die Dame im Buchladen fragen, was es mit diesem Rollladen auf sich hat.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100005700003D30"
+msgid "\"It gives me confidence and that's all that matters, Kim.\""
+msgstr ""
+"„<i>Das</i> gibt mir Selbstvertrauen, und das ist alles, was zählt, Kim.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000EF7"
+msgid "I'm getting carbon monoxide poisoning."
+msgstr ""
+"Ich bekomme eine Kohlenmonoxidvergiftung."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A457"
+msgid "Another pathetic yelp sounds off into the vast darkness of the chimney. You're a little embarrassed you produced it."
+msgstr ""
+"Ein weiterer erbärmlicher Aufschrei verliert sich in der unermesslichen Dunkelheit des Kamins. Deine Urheberschaft macht dich etwas verlegen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700026C5E"
+msgid "Something *breaks loose* in you. A mighty bellow echoes throughout the chimney's depths. The chatter of tiny voices above suddenly cease. Then..."
+msgstr ""
+"Etwas in dir <i>bricht sich Bahn</i>. Ein kraftvolles Brüllen hallt durch die Tiefen des Kamins. Die dünnen Stimmen verstummen plötzlich. Dann …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000DFE"
+msgid "\"Wait, really?\" He looks up at the ceiling. \"Maybe it's coming from behind those safety curtains we saw upstairs?\""
+msgstr ""
+"„Augenblick – ist das Ihr Ernst?“ Er blickt zur Decke. „Vielleicht liegt der Ursprung der Geräusche hinter dem Sicherheitsrollladen, den wir oben gesehen haben?“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000E3A"
+msgid "\"Wait, really?\" He looks up at the ceiling. \"We should investigate, see if someone's upstairs.\""
+msgstr ""
+"„Augenblick – ist das Ihr Ernst?“ Er blickt zur Decke. „Wir sollten der Sache nachgehen und herausfinden, ob da oben jemand ist.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700005763"
+msgid "And it's a woman! Of course! The malicious entities are *always* women."
+msgstr ""
+"Und es ist eine Frau! Natürlich! Böse Wesen sind <i>immer</i> Frauen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000EE2"
+msgid "What's happening?!"
+msgstr ""
+"Was geht hier vor sich?!"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000EE8"
+msgid "I'm hallucinating..."
+msgstr ""
+"Ich halluziniere …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081E7F"
+msgid "[Leave.]"
+msgstr ""
+"[Ende.]"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000E0D"
+msgid "\"Wait, really?\" The lieutenant sounds concerned. \"Take your head out of the chimney, please. It's not safe.\""
+msgstr ""
+"„Augenblick – ist das Ihr Ernst?“ Der Lieutenant klingt besorgt. „Nehmen Sie bitte Ihren Kopf aus dem Heizofen. Das ist zu riskant.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A43F"
+msgid "This sounded real, not imagined."
+msgstr ""
+"Das klang echt – nicht wie Einbildung."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081EC5"
+msgid "Hadramut Karzai! Smear your cheeks black with coal."
+msgstr ""
+"Hadramut Karzai! Du schwärzt deine Wangen mit Kohle."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081EE7"
+msgid "\"Looks like it. Looks like an old central furnace used to heat the building. It's connected to the chimney...\" He opens the door and gingerly peeks inside."
+msgstr ""
+"„Scheint so. Das sieht aus wie ein alter zentraler Heizofen zur Wärmeversorgung des Gebäudes. Er ist mit dem Kamin verbunden …“ Er öffnet die Tür und wirft einen vorsichtigen Blick ins Innere."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00083371"
+msgid "\"This is the police! Who's there?\""
+msgstr ""
+"„Hier ist die Polizei! Wer ist da?“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Alternate1/0x0100002B00083371"
+msgid "\"This is the Remote Viewers Division! Identify yourself!\""
+msgstr ""
+"„Hier ist die Abteilung Fernwahrnehmung! Identifizieren Sie sich!“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003D09"
+msgid "These three stripes give you strength in this dangerous realm. It would be foolish to remove them."
+msgstr ""
+"Die drei Streifen verleihen dir in diesem gefährlichen Reich Stärke. Es wäre töricht, sie abzuwischen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000EAB"
+msgid "\"Those voices I heard... Maybe it's the malignant Entity? Plaisance said it lives in a chimney.\""
+msgstr ""
+"„Diese Stimmen, die ich gehört habe … Vielleicht rühren sie von dem bösen Wesen her? Plaisance hat gesagt, dass es in einem Kamin lebt.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000F03"
+msgid "Maybe it's coming from behind those safety curtains you saw upstairs? You should investigate..."
+msgstr ""
+"Vielleicht liegt der Ursprung der Geräusche hinter dem Sicherheitsrollladen, den du oben gesehen hast? Du solltest der Sache nachgehen …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00086EBF"
+msgid "The lieutenant seems relieved as well."
+msgstr ""
+"Auch der Lieutenant wirkt erleichtert."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003D54"
+msgid "Just pointing out -- this is *not* traditional Semenese war-paint. No idea where you got it."
+msgstr ""
+"Ich möchte nur kurz darauf hinweisen, dass dies <i>keine</i> traditionelle semenesische Kriegsbemalung ist. Keine Ahnung, wo du das aufgeschnappt hast."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000DC8"
+msgid "It's dark and grimy here. In the darkness, you can hear *chatter*. It's coming from above. A voice -- or several voices -- talking to each other, near the smoke chamber upstairs."
+msgstr ""
+"Im Inneren ist es dunkel und schmutzig. In der Finsternis hörst du <i>Gerede</i>. Es kommt von oben. Eine Stimme – oder mehrere Stimmen – unterhalten sich, oben, in der Nähe der Rauchkammer."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A435"
+msgid "Then what was the chatter you heard?"
+msgstr ""
+"Was war dann das Gerede, das du gehört hast?"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081ED9"
+msgid "Yes, how grown-up. The furnace agrees."
+msgstr ""
+"Ja, wie erwachsen. Der Heizofen ist deiner Meinung."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081FB2"
+msgid "\"Yes. Yes, it was,\" the lieutenant nods, before turning back to the furnace."
+msgstr ""
+"„Ja. Ja, das war es“, sagt der Lieutenant nickend, bevor er sich wieder dem Heizofen zuwendet."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B0008336B"
+msgid "\"Hello! Are you there? Speak to me!\""
+msgstr ""
+"„Hallo! Sind Sie da? Sprechen Sie mit mir!“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B0008597E"
+msgid "You muster all your strength and yell..."
+msgstr ""
+"Du nimmst all deine Kraft zusammen und brüllst …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100005700003D19"
+msgid "\"We're exploring this dark place and I need the protection my war-paint affords.\""
+msgstr ""
+"„Wir erkunden diesen finsteren Ort, und ich bin auf den Schutz angewiesen, den meine Kriegsbemalung mir gewährt.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100005700003D4C"
+msgid "\"*This* is traditional war-paint. It will grant me safe passage with the spirits that guard this place.\""
+msgstr ""
+"„<i>Das</i> ist traditionelle Kriegsbemalung. Dank ihr rühren mich die Geister, die über diesen Ort wachen, nicht an.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570000A952"
+msgid "\"Hello! Did you say anything?\" There's a pause. \"I can't hear you, please come upstairs! There's a safety curtain on the second floor, I'll open it!\""
+msgstr ""
+"„Hallo! Haben Sie etwas gesagt?“ Es entsteht eine kurze Pause. „Ich kann Sie nicht verstehen, kommen Sie bitte nach oben! Im Obergeschoss gibt es einen Sicherheitsrollladen; ich mache ihn auf!“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700026C6A"
+msgid "You've awakened the entity!"
+msgstr ""
+"Du hast das Wesen geweckt!"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081FA4"
+msgid "\"I am the reincarnation of an ancient Iilmaraan warrior.\""
+msgstr ""
+"„Ich bin die Reinkarnation eines alten iilmaraanischen Kriegers.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100005700026C74"
+msgid "\"I summon the ghost of this Doomed Commercial Area. Now begone, vile succubus!\""
+msgstr ""
+"„Ich rufe den Geist dieses verfluchten Gewerbeblocks. Und nun weiche, bösartiger Sukkubus!“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000E30"
+msgid "It feels safe to know that the lieutenant's got your back, now and always."
+msgstr ""
+"Die Gewissheit, dass der Lieutenant auf dich aufpasst – in diesem Augenblick und immer –, verschafft dir ein Gefühl von Sicherheit."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000F0D"
+msgid "Maybe it's coming from somewhere upstairs? You should investigate..."
+msgstr ""
+"Vielleicht kommen die Geräusche von oben? Du solltest der Sache nachgehen …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A447"
+msgid "The echo is so prominent, it's impossible to discern what the voices are saying. Or what's producing them."
+msgstr ""
+"Das Echo ist so stark, dass es nicht möglich ist, zu verstehen, was die Stimmen sagen. Oder was sie hervorbringt."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081E73"
+msgid "Look inside the furnace."
+msgstr ""
+"Du siehst in den Heizofen hinein."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081E79"
+msgid "Kick it with your foot."
+msgstr ""
+"Du trittst mit dem Fuß dagegen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A42E"
+msgid "Always has to be the sceptic, this man..."
+msgstr ""
+"Dieser Mann muss immer den Skeptiker raushängen lassen …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x010000060001A464"
+msgid "\"He... he... hekkhhhh...\""
+msgstr ""
+"„Ha… ha… hachhhh…“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081F5A"
+msgid "\"What... what are you doing?\""
+msgstr ""
+"„Was … Was machen Sie denn da?“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000C3E"
+msgid "\"No one has used it in ages... No signs of any recent fire, only dead rats.\""
+msgstr ""
+"„Den hat seit Ewigkeiten niemand mehr benutzt … Nichts deutet auf irgendein vor kurzem entzündetes Feuer hin; hier liegen nur tote Ratten.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081FCA"
+msgid "No, you're a proud warrior, keep it."
+msgstr ""
+"Nein, du bist ein stolzer Krieger; behalte deine Kriegsbemalung."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000DE2"
+msgid "\"I'm hallucinating.\""
+msgstr ""
+"„Ich halluziniere.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Alternate1/0x0100009200000DE2"
+msgid "\"I'm hallucinating. Or maybe it's the Entity...\""
+msgstr ""
+"„Ich halluziniere. Oder vielleicht ist es das Wesen …“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A417"
+msgid "Maybe you could *paint* something with this coal? Leave a cave painting for future archaeologists... no, that would be stupid."
+msgstr ""
+"Vielleicht könntest du mit dieser Kohle etwas <i>malen</i>? Eine Höhlenmalerei für künftige Archäologen hinterlassen … Nein, das wäre albern."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081E59"
+msgid "A thick layer of coal dust covers the furnace, colouring it pitch-black."
+msgstr ""
+"Eine dicke Schicht Kohlenstaub bedeckt den Heizofen und färbt ihn pechschwarz."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081EAC"
+msgid "You feel the spirit of Ramout Karzai, ancient hero of Graad, pulsing through you. All that's left is to cover your face in war-paint."
+msgstr ""
+"Du fühlst dich durchdrungen vom Geist Ramout Karzais, des alten Helden von Graad. Jetzt musst du nur noch deinem Gesicht eine Kriegsbemalung verpassen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000DE8"
+msgid "\"I hear the murderer of the hanged man talking.\""
+msgstr ""
+"„Ich höre den Mörder des Gehängten sprechen.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000F1E"
+msgid "This sounded real, not imagined."
+msgstr ""
+"Das klang echt – nicht wie Einbildung."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F00013505"
+msgid "Then again -- maybe it's worth actually trying something *up there*?"
+msgstr ""
+"Andererseits lohnt es sich vielleicht, <i>da oben</i> etwas auszuprobieren?"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003D5C"
+msgid "What a proud warrior! This is how the hunted becomes the hunter in this dark dangerous place."
+msgstr ""
+"Ein Krieger, wie er im Buche steht! So wird der Gejagte an diesem dunklen und gefährlichen Ort zum Jäger."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570000A95B"
+msgid "You hear a low rumble upstairs -- the sound of a curtain being pulled aside."
+msgstr ""
+"Oben hörst du ein leises Rumpeln – das Geräusch eines Rollladens, der hochgezogen wird."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Volition
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000003EB4"
+msgid "A lifetime of smoking and drinking will do that to you."
+msgstr ""
+"So etwas kommt von lebenslangem Zigaretten- und Alkoholkonsum."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100009200000EEE"
+msgid "I hear the murderer of the hanged man talking."
+msgstr ""
+"Ich höre den Mörder des Gehängten sprechen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081E6D"
+msgid "\"Kim, what is this thing? Is it a furnace?!\""
+msgstr ""
+"„Kim, was ist das? Ein Heizofen?!“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A41F"
+msgid "Still, it's good you have this dirt on you. Real men wear *coal* for make-up."
+msgstr ""
+"Trotzdem hat es etwas Gutes, dass dieser Schmutz an dir klebt. Echte Männer schminken sich mit <i>Kohle</i>."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005700003D38"
+msgid "\"Okay, sure. Go ahead.\" He stubbornly looks away from you and the furnace."
+msgstr ""
+"„Okay, natürlich. Lassen Sie sich nicht aufhalten.“ Trotzig wendet er den Blick von dir und vom Heizofen ab."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100005700005780"
+msgid "\"I summon the ghost of this Doomed Commercial Area. Answer me, spirit!\""
+msgstr ""
+"„Ich rufe den Geist dieses verfluchten Gewerbeblocks. Antworte mir, Wesenheit!“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100009200000EC1"
+msgid "\"You're right, the rooms do look like they're connected. But *malignant Entities* don't exist -- at least not the *supra-natural* kind.\""
+msgstr ""
+"„Sie haben recht, die Räume scheinen miteinander verbunden zu sein. Aber <i>böse Wesen</i> gibt es nicht – jedenfalls keine <i>supranatürlichen</i>.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A45E"
+msgid "Your dehydrated, hungover throat can produce little more than a dry croak."
+msgstr ""
+"Deine dehydrierte, vom Kater gebeutelte Kehle bringt kaum mehr als ein trockenes Krächzen hervor."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Alternate1/0x010000060001A45E"
+msgid "Your throat can produce little more than a dry croak. Awkward, since you already had a drink..."
+msgstr ""
+"Deine Kehle bringt kaum mehr als ein trockenes Krächzen hervor. Peinlich, schließlich hattest du schon einen Drink …"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Central Furnace
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002B00081EA0"
+msgid "A lush layer of coal now covers your skin, sinking into the wrinkles. Your hands look ancient."
+msgstr ""
+"Nun bedeckt eine satte Kohleschicht deine Haut und zieht in die Falten ein. Es lässt deine Hände greisenhaft aussehen."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100002B00081FAB"
+msgid "\"Nothing!\" (Wipe your face clean.) \"Sorry, that was stupid.\""
+msgstr ""
+"„Nichts!“ (Du wischst dein Gesicht ab.) „Tut mir leid, das war albern.“"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "Dialogue Text/0x0100005700000234"
+msgid "Don't wipe it."
+msgstr ""
+"Du wischst die Bemalung nicht ab."
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip1/0x0100005700000234"
+msgid "Kim doesn't trust you."
+msgstr ""
+"Kim vertraut dir nicht"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = You
+#. Conversant = Central Furnace
+msgctxt "tooltip2/0x0100005700000234"
+msgid "Kim trusts you."
+msgstr ""
+"Kim vertraut dir"
+
+#. Title = DOOMED / CENTRAL FURNACE
+#. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000003EC3"
+msgid "The lieutenant nods, then points upstairs. \"After you, officer.\""
+msgstr ""
+"Der Lieutenant nickt und deutet dann nach oben. „Nach Ihnen, Herr Kollege.“"

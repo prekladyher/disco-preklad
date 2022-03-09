@@ -1,0 +1,2325 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000148CB"
+msgid "\"Some sort of industrial ruin? I don't recognize the name of the company. R&D used to mean Research and Development... It looks long-abandoned.\""
+msgstr ""
+"„To jakieś przemysłowe ruiny? Nie kojarzę nazwy firmy. Zdaje się, że prowadzono tu jakieś prace rozwojowe... Budynek sprawia wrażenie dawno opuszczonego”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014B2C"
+msgid "Even though you're *sure* you succeeded, all is quiet. There is no cold hand brushing against your forehead, no rustle in the reeds -- the wind has died down. The ruin in front of you is silent as a tomb."
+msgstr ""
+"Choć jesteś *pewien*, że ci się udało, nagle zapada cisza. Nie ma już chłodnej ręki pieszczącej ci czoło ani szelestu wśród trzcin. Wiatr ucichł. Stojąca przed tobą ruina milczy niczym grobowiec."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000985D"
+msgid "Say: \"I think she's down *there*. Below this building.\""
+msgstr ""
+"Powiedz: „Myślę, że jest tam, *na dole*. Pod tym budynkiem”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000EA3"
+msgid "\"Okay...\" The lieutenant looks down the coast, toward the shacks. \"When you're ready, officer.\""
+msgstr ""
+"„W porządku...” – porucznik spogląda na chaty na wybrzeżu. „Ruszajmy, gdy będziesz gotowy, oficerze”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013AF"
+msgid "Let's see, let's see... Just flicking through the index of your knowledge..."
+msgstr ""
+"Zobaczmy, zobaczmy... Przeglądasz skorowidz swojej wiedzy..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00001470"
+msgid "Does that mean she's *here*?"
+msgstr ""
+"Czy to oznacza zatem, że jest *tutaj*?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000BF05"
+msgid "You see a once-bright mural towering above you. The signage has peeled off over the years, but you can still make out: 'FELD ELECTRICAL R&D'."
+msgstr ""
+"Na ścianie przed sobą widzisz olbrzymi, niegdyś jaskrawy mural. Zatarł się on mocno z wiekiem, wciąż jednak umiesz odczytać słowa: „DZIAŁ BIR FELD ELECTRICAL”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000148EB"
+msgid "You try to peer in but there are no windows on this side. Only the disinterested whistle of the wind."
+msgstr ""
+"Próbujesz zajrzeć do środka, ale po tej stronie nie ma okien. Słyszysz tylko apatyczny pogwizd wiatru."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100000600014963"
+msgid "She could be *anywhere*, how do I find her?"
+msgstr ""
+"Ona może być *wszędzie*. Jak ją znaleźć?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014B65"
+msgid "The once-bright mural towers above you, saying \"FELD ELECTRICAL R&D.\""
+msgstr ""
+"Nad twoją głową wznosi się jaskrawy niegdyś mural z napisem „FELD ELECTRICAL BIR”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Alternate1/0x0100000600014B65"
+msgid "The once-bright mural towers above you, saying \"FELD ELECTRICAL R&D: Tomorrow is just a whisper away.\""
+msgstr ""
+"Nad twoją głową wznosi się jaskrawy niegdyś mural z napisem „FELD ELECTRICAL BIR: Jutro jest zaledwie o szept od ciebie”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000952E"
+msgid "For what? A song carried on the breeze? Or children laughing, far away? You walk and walk these city streets and deserted coast, and all it ever tells you -- is cold."
+msgstr ""
+"Czego? Piosenki niesionej przez powiew? Albo odległego dziecięcego śmiechu? Kroczysz wśród tych miejskich ulic, po opuszczonym wybrzeżu, a jedyne, co mówi ci wiatr, to że jest zimno."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000097CE"
+msgid "\"Of course. Black magic. The most potent type of magic. If we're that desperate -- may I suggest getting shovels and digging?\" A quiver of a smile."
+msgstr ""
+"„Oczywiście. Czarna magia. Najpotężniejszy rodzaj magii. Skoro jesteśmy tak zdesperowani, to może rozejrzyjmy się za łopatami i zacznijmy kopać?” – na jego ustach pojawia się cień uśmiechu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009823"
+msgid "For what? God? God is very, very silent. Too silent. Even the wind seems tired..."
+msgstr ""
+"I co chcesz usłyszeć? Boga? Bóg jest bardzo, bardzo cicho. Zbyt cicho. Nawet wiatr wydaje się zmęczony..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate1/0x0100001600009823"
+msgid "Be honest. You're praying. It's that bad."
+msgstr ""
+"Bądź ze sobą szczery. Modlisz się. Jest aż tak źle."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E58"
+msgid "Yes, Comrade Zephyr. I shall find them. Girl Child Revolution and Girl Child Communism!"
+msgstr ""
+"Tak, towarzyszu Zefirze. Znajdę je. Dziewczę Rewolucji i Dziewczę Komunizmu!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013BD"
+msgid "Cool. No rush."
+msgstr ""
+"Spokojnie. Bez pośpiechu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013D1"
+msgid "But?"
+msgstr ""
+"Ale?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014AB6"
+msgid "\"Ask the wind or 'Aska i Vinden' is the name of a Vaasan lullaby,\" he remarks. \"Maybe that helps?\""
+msgstr ""
+"„»Pytając wiatru« albo »Aska i Vinden« to tytuł vaasańskiej kołysanki” – zauważa. „Może to będzie pomocne?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009598"
+msgid "He stops to consider your words. \"*Ask the wind* sounds like an expression. For when you have no idea. We should continue our search. Perhaps even get a little desperate...\""
+msgstr ""
+"Przez chwilę stoi w milczeniu, rozważając twoje słowa. „*Pytanie wiatru w polu* brzmi jak jakieś powiedzenie. Wykorzystywane, gdy nie wie się, co robić. Powinniśmy kontynuować nasze poszukiwania. Może nawet podejść do nich z odrobiną desperacji...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009667"
+msgid "\"Right,\" he shrugs. \"How do we get in there? The doors were on the collapsed side of this building... they're gone, basically.\""
+msgstr ""
+"„Racja” – wzrusza ramionami. „Jak się tam dostaniemy? Drzwi znajdowały się po zawalonej stronie budynku... Przestały istnieć”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009843"
+msgid "\"Good, good, yes. Cold spells...\" He seems incredulous. \"So basically your *hangover* is telling you she's down there?\""
+msgstr ""
+"„Dobrze, dobrze – tak. Odczuwasz chłód...” – wydaje się sceptyczny. „Więc twój *kac* mówi ci, że jest gdzieś tam na dole?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000995C"
+msgid "Why do I feel like I know this place?"
+msgstr ""
+"Czemu mam wrażenie, że znam to miejsce?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013CC"
+msgid "We have, uh... Radio brands, radio crimes, radio comedies, radio dramas, radio physics, radio psychics, radio scandals, radio shows, and way more in-between, but, uh...."
+msgstr ""
+"Mamy tu, eee... Marki radiowe, przestępstwa radiowe, komedie radiowe, dramaty radiowe, fizykę fal radiowych, psychologię radia, skandale radiowe, audycje radiowe i wiele innych, ale, no..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013F4"
+msgid "\"Is this all I am? A fount of useless radio trivia?\""
+msgstr ""
+"„A więc to wszystko, czym jestem? Źródłem bezużytecznych radiowych ciekawostek?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001443"
+msgid "Land's End? You took in the sights there with Lilienne. Ruby wasn't up the disused radio tower, among the reeds, or beneath the boardwalk."
+msgstr ""
+"Na Krańcu? Podziwiałeś tam widoki z Lilienne. Ruby nie siedziała też w porzuconej wieży radiowej, wśród trzcin ani pod promenadą."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00001CF1"
+msgid "\"The wind didn't tell me to wait.\""
+msgstr ""
+"„Wiatr nie kazał mi czekać”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000097B0"
+msgid "\"Who said that?\""
+msgstr ""
+"„Kto to powiedział?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000097C2"
+msgid "\"I am performing *black magic*.\""
+msgstr ""
+"„Odprawiam rytuał *czarnej magii*”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000992D"
+msgid "Great idea!"
+msgstr ""
+"Świetny pomysł!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009975"
+msgid "What is happening..."
+msgstr ""
+"Co się dzieje...?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E8F"
+msgid "\"Doesn't look like it to me.\" He pauses to study you for a moment. \"Probably not, anyway.\""
+msgstr ""
+"„Nie wyglądało mi to na atak” – milknie i przygląda ci się chwilę. „Raczej nie”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013B4"
+msgid "Still nothing. Your head is full of obscure facts, none of which are helpful here. Move on before you make another scene."
+msgstr ""
+"Nadal nic. Głowę masz pełną mało znanych faktów, z których żaden się w tym wypadku nie przyda. Zapomnij o tym, zanim znów urządzisz scenę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013D6"
+msgid "Nothing that would be useful here. Sorry."
+msgstr ""
+"Nie ma tu nic, co by się przydało. Niestety."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B0000147A"
+msgid "Suddenly there's a sigh, carried on the molecules around you, moving, flowing from high pressure to low pressure. Like that of a woman emptying her lungs. She wraps the collapsing stone box in front of you in her breath, flowing through it..."
+msgstr ""
+"Nagle dociera do ciebie westchnienie – niesie się na molekułach powietrza przepływających ze strefy wysokiego ciśnienia do strefy niskiego ciśnienia. Jest jakby wydech kobiety. Otula ona swoim oddechem stojącą przed tobą, walącą się kamienną skrzynkę. Płynie przez nią..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00002688"
+msgid "\"The twins did hear the radio from here, so *something* is happening...\""
+msgstr ""
+"„Bliźniacy słyszeli stąd radio, więc *coś* się dzieje...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/t66nlqs16rg5w220"
+msgid "\"Looks like tomorrow never came.\" The lieutenant raises the collar of his bomber jacket."
+msgstr ""
+"„Wygląda na to, że jutro nigdy nie nadeszło” – stwierdza porucznik i stawia kołnierz swojej bomberki."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/t66nlqs16rg5w220"
+msgid "\"Looks like tomorrow never came.\" The lieutenant raises the collar of his jacket."
+msgstr ""
+"„Wygląda na to, że jutro nigdy nie nadeszło” – stwierdza porucznik i stawia kołnierz swojej kurtki."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000978E"
+msgid "The lieutenant looks at you shiver, worried suddenly. \"We should go. It gets cold if you stand in one place too long.\""
+msgstr ""
+"Porucznik spogląda na to, jak drżysz, z nagłym niepokojem. „Powinniśmy ruszać. Robi się zimno, gdy stoimy zbyt długo w miejscu”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009863"
+msgid "In through the collapsed roof, flowing down a concrete staircase -- to the basement, sweeping away footprints in the dust on the stairs. And then the beach below the boardwalk, its winding tunnels... a whisper away."
+msgstr ""
+"Wpada przez zapadnięty dach, pędzi w dół betonowych schodów do piwnicy, ścierając odbite na nich w kurzu ślady stóp. Później wypada na plażę pod promenadą, w kręte tunele... o szept drogi stąd."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E3F"
+msgid "A breeze, like a quiet sigh, moves over you. The cool air breaks across your body. It brings the salt of the sea into your lungs."
+msgstr ""
+"Czujesz wokół siebie przypominający ciche westchnienie powiew. Chłodne powietrze uderza o twoje ciało. W płuca gryzie cię morska sól."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E71"
+msgid "\"Officer?\" The lieutenant watches you attentively. \"Are you okay? It looked like we lost you for a second.\""
+msgstr ""
+"„Oficerze?” – odzywa się porucznik, przyglądając ci się uważnie. „Wszystko w porządku? Przez chwilę miałem wrażenie, że cię straciliśmy”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B0000139B"
+msgid "Pull on your knowledge to understand what caused the twins to hear radio in their heads."
+msgstr ""
+"Wykorzystaj swoją wiedzę, aby zrozumieć, co sprawiło, że bliźniacy usłyszeli w swoich głowach radio."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip1/0x0100004B0000139B"
+msgid "Searched Ruby's lorry."
+msgstr ""
+"Przeszukałeś ciężarówkę Ruby."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip2/0x0100004B0000139B"
+msgid "Lingered on the north coast."
+msgstr ""
+"Przebywałeś na północnym wybrzeżu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip3/0x0100004B0000139B"
+msgid "Heard stories from Idiot Doom Spiral."
+msgstr ""
+"Słyszałeś opowieści Idioty w Spirali Katastrof."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip4/0x0100004B0000139B"
+msgid "Searched the coast for traps."
+msgstr ""
+"Szukałeś pułapek na wybrzeżu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip5/0x0100004B0000139B"
+msgid "Seen inside the Church."
+msgstr ""
+"Zajrzałeś do kościoła."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip6/0x0100004B0000139B"
+msgid "Icosahedral Dice Set \"Sirens\"."
+msgstr ""
+"Zestaw kości dwudziestościennych „Syreny”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00002A5A"
+msgid "\"Can we look into that later?\""
+msgstr ""
+"„Możemy się temu przyjrzeć później?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000149AC"
+msgid "Or spiritual? She could be looking for refuge..."
+msgstr ""
+"Albo uduchowiona? Może szukać schronienia..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000149C0"
+msgid "How hard can it be? You were told she's north of the village and this place is a peninsula. Look around. West of here there are people, talking. Who could it be, you cup your ear and think?"
+msgstr ""
+"Czy to może być aż takie trudne? Powiedziano ci, że jest na północ od wsi. A to jest półwysep. Rozejrzyj się. Na zachód stąd rozmawiają jacyś ludzie. Składasz dłoń w trąbkę, nasłuchujesz i zastanawiasz się, kto to może być."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate1/0x01000006000149C0"
+msgid "How hard can it be? You were told she's north of the village and this place is a peninsula. West of here there are the cryptozoologists -- helping them might give you a reason to map out the place."
+msgstr ""
+"Czy to może być aż takie trudne? Powiedziano ci, że jest na północ od wsi. A to jest półwysep. Rozejrzyj się. Na zachód stąd są kryptozoolodzy. Jeśli zechcesz im pomóc, będziesz mieć powód, żeby dokładnie zbadać okolicę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate2/0x01000006000149C0"
+msgid "How hard can it be? You were told she's north of the village and this place is a peninsula. You've already mapped it out while checking the traps. So you *know* the place."
+msgstr ""
+"Czy to może być aż takie trudne? Powiedziano ci, że jest na północ od wsi. A to jest półwysep. Zapoznałeś się z nim już dokładnie, sprawdzając pułapki. Więc *znasz* tę okolicę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A94"
+msgid "He stops to consider your words. \"*Ask Revachol* sounds like an expression. For when you have no idea. We should continue our search. Perhaps even get a little desperate...\""
+msgstr ""
+"Przez chwilę stoi w milczeniu, rozważając twoje słowa. „*Pytanie Revacholu* brzmi jak jakieś powiedzenie. Wykorzystywane, gdy nie wie się, co robić. Powinniśmy kontynuować nasze poszukiwania. Może nawet podejść do nich z odrobiną desperacji...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014ABC"
+msgid "\"Blood spatter reading, rooster sacrifice -- still quite common in Revachol,\" he remarks. \"Hope it helps.\""
+msgstr ""
+"„Wróżenie z rozlanej krwi, ofiary z kogutów – to nadal częste praktyki w Revacholu” – zauważa. „Mam nadzieję, że to pomoże”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000944B"
+msgid "\"Anyway -- we do it the old fashioned way: sector by sector. Go over the whole peninsula, ask the locals, enter the places where we *can* enter first. Like we did in the village.\""
+msgstr ""
+"„Tak czy inaczej, pozostaje nam tylko tradycyjna metoda: przeszukiwanie sektora po sektorze. Musimy przemierzyć cały półwysep, wypytać miejscowych, zajrzeć w miejsca, do których *mamy* dostęp. Tak jak zrobiliśmy w tej wsi”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009499"
+msgid "\"How *do* we? I was really hoping she'd be in the village...\" The lieutenant sighs, then gets a hold of himself: \"Okay.\""
+msgstr ""
+"„Właśnie – *jak*... Naprawdę miałem nadzieję, że będzie w wiosce...” – wzdycha porucznik, po czym bierze się w garść: „W porządku”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000094C1"
+msgid "Or spiritual? She could be looking for refuge..."
+msgstr ""
+"Albo uduchowiona? Może szukać schronienia..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100000BE1"
+msgid "Walk the coast, the old boardwalk, the reeds... You can always come back here and talk to the wind again. Look where it already got you."
+msgstr ""
+"Pójdź wzdłuż wybrzeża, po starej promenadzie, wśród trzcin... Zawsze możesz tu wrócić i jeszcze raz porozmawiać z wiatrem. Zobacz, ile już ci to dało."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E62"
+msgid "The wind rushes away, leaving you where you were -- on the rotting boards of the Feld Building."
+msgstr ""
+"Wiatr umyka, zostawiając cię tam, gdzie stałeś: na gnijących deskach budynku Felda."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001417"
+msgid "The lieutenant clears his throat. \"Let's move on. I don't think we need to stand around anymore.\""
+msgstr ""
+"Porucznik odchrząkuje. „Ruszajmy. Nie sądzę, abyśmy musieli tu dłużej stać”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Savoir Faire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001498D"
+msgid "An adventure awaits! An adventure on the windswept urban coast."
+msgstr ""
+"Przygoda już czeka! Przygoda na smaganym wiatrem miejskim wybrzeżu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Endurance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014995"
+msgid "Buckle up and raise your collar -- this search is going to be wet and cold."
+msgstr ""
+"Przygotuj się i postaw kołnierzyk. To będą mokre i zimne poszukiwania."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014AFB"
+msgid "It doesn't."
+msgstr ""
+"Nie pomaga."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009406"
+msgid "\"Tomorrow is just a whisper away...\""
+msgstr ""
+"„Jutro jest zaledwie o szept od ciebie...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000094A1"
+msgid "\"She's *probably* north of the village and this place is a peninsula. I think there's people west of here, we could ask them...\" He looks to his right and cups his ear."
+msgstr ""
+"„*Prawdopodobnie* znajduje się gdzieś na północ od wioski, a jesteśmy na półwyspie. Zdaje się, że na zachód stąd są jacyś ludzie – moglibyśmy ich zapytać...” – spogląda w swoje prawo i przystawia dłoń do ucha."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000016000094A1"
+msgid "\"She's *probably* north of the village and this place is a peninsula. We've already talked to the cryptozoologists...\" He looks to his right. \"Working with them might give us a good excuse to run around -- give us some *structure*...\""
+msgstr ""
+"„*Prawdopodobnie* znajduje się gdzieś na północ od wioski, a jesteśmy na półwyspie. Rozmawialiśmy już z kryptozoologami...” – stwierdza, spoglądając w swoje prawo. „Współpraca z nimi może dać nam dobrą wymówkę, aby się tu rozejrzeć – da naszym poszukiwaniom jakąś *strukturę*...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x01000016000094A1"
+msgid "\"She's *probably* north of the village and this place is a peninsula.\" He looks North. \"We already scanned most of the outdoor areas on our wild *cryptid hunt*, so we have an understanding of the geography, at least.\"\n"
+msgstr ""
+"„*Prawdopodobnie* znajduje się gdzieś na północ od wioski, a jesteśmy na półwyspie” – spogląda na północ. „Przeszukaliśmy już większość otwartej przestrzeni podczas naszego szalonego *polowania na kryptydę*, więc przynajmniej znamy geografię tego miejsca”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009652"
+msgid "He shrugs. \"So how do we get in there? The doors were on the collapsed side of this building... they're gone, basically.\""
+msgstr ""
+"Wzrusza ramionami. „Więc jak się tam dostaniemy? Drzwi znajdowały się po zawalonej stronie budynku... Przestały istnieć”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000097C8"
+msgid "\"I'm just thinking. This is me thinking. Nothing strange here.\""
+msgstr ""
+"„Po prostu myślę. Tak wyglądam, jak myślę. Nie dzieje się nic dziwnego”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000980E"
+msgid "He looks around. \"Like -- maybe we can get shovels and dig?\" A quiver of a smile. \"Don't mind that -- a bad attempt at humour.\""
+msgstr ""
+"Rozgląda się. „Może rozejrzymy się za łopatami i zaczniemy kopać?” – na jego ustach pojawia się cień uśmiechu. „Zapomnij o tym – to był kiepski żart”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100001F3C"
+msgid "Lieutenant Kitsuragi stands in front of a mirror, fixing his orange bomber jacket. You should be asking him that question."
+msgstr ""
+"Porucznik Kitsuragi stoi przed lustrem, poprawiając swoją pomarańczową bomberkę. To pytanie, które powinieneś zadać właśnie jemu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013E5"
+msgid "You know little about ULAN frequencies other than that they exist. Maybe? It's impossible to say."
+msgstr ""
+"Nie wiesz o częstotliwościach ULAN wiele więcej ponad to, że istnieją. Może? Nie sposób stwierdzić."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001434"
+msgid "You know where Ruby *isn't.*"
+msgstr ""
+"Wiesz, gdzie Ruby *nie przebywa*."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100000600014AB0"
+msgid "\"I'm just thinking. This is me thinking. Nothing strange here.\""
+msgstr ""
+"„Po prostu myślę. Tak wyglądam, jak myślę. Nie dzieje się nic dziwnego”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000094A7"
+msgid "\"Because I *hope* you didn't mean to climb that ladder...\" He points to the ladder next to the sign and says: \"It's *not* safe.\""
+msgstr ""
+"„Bo mam *nadzieję*, że nie zamierzałeś wspinać się na tamtą drabinę...” – stwierdza, wskazując drabinę obok znaku, i kontynuuje: „To *nie* jest bezpieczne”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009566"
+msgid "[Leave.]"
+msgstr ""
+"[Odejdź]."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000097AA"
+msgid "Just blow on your hands for warmth."
+msgstr ""
+"Pochuchaj tylko na ręce, żeby je rozgrzać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000098DF"
+msgid "\"Call it a gut feeling.\""
+msgstr ""
+"„Nazwij to przeczuciem”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100000BCE"
+msgid "There's something in the wind. Sometimes the only way to go forward is to fail first."
+msgstr ""
+"Wiatr coś ze sobą niesie. Czasami jedynym sposobem, aby pójść naprzód, jest niepowodzenie."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B0000142F"
+msgid "What's that?"
+msgstr ""
+"Mianowicie?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001475"
+msgid "If she's here on the coast, she'll be *here.* And besides, something weird happened to the twins around here. It'd be nice to know what caused that. Another fact for your collection!"
+msgstr ""
+"Jeśli jest na wybrzeżu, to musi być *tutaj*. Poza tym to tu coś dziwnego stało się z bliźniakami. Miło byłoby wiedzieć, co to spowodowało. Kolejny fakt do twojej kolekcji!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A3D"
+msgid "The writing rises in front of you, its ancient carton wet from the coastal air."
+msgstr ""
+"Napis wznosi się przed tobą. Stary karton, na który go naniesiono, jest mokry od przybrzeżnego powietrza."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009470"
+msgid "(Turn to the lieutenant.) \"She could be *anywhere*, how do we find her?\""
+msgstr ""
+"(Odwróć się do porucznika). „Może być *wszędzie*. Jak ją znajdziemy?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000957A"
+msgid "\"There's a ladder next to the sign.\" (Point to it.) \"Perhaps we can climb it? Enter through the roof?\""
+msgstr ""
+"„Obok znaku jest drabina”. (Wskaż ją). „Może moglibyśmy się po niej wspiąć? Wejść przez dach?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009952"
+msgid "\"Maybe we could, you know...\" He points to the man who points at the building, telling his son something. \"Ask the man who's pointing at the building?\""
+msgstr ""
+"„Może moglibyśmy, no wiesz...” – wskazuje na mężczyznę, który pokazuje swojemu synowi budynek i coś mu opowiada – „...zapytać mężczyznę, który wskazuje ten budynek?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E80"
+msgid "\"I think I need to talk to some kids in the village.\""
+msgstr ""
+"„Chyba muszę porozmawiać z dzieciakami we wsi”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E9E"
+msgid "\"This is part of the investigation now.\""
+msgstr ""
+"„To teraz część śledztwa”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013A5"
+msgid "You know a lot about radio. Enough to know: You have no idea how or why those boys heard Speedfreaks FM in their heads."
+msgstr ""
+"Sporo wiesz o radiach. Na tyle sporo, żeby wiedzieć, że nie masz pojęcia, jak i dlaczego chłopaki usłyszały w głowach Naspeedowanych FM."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00002A23"
+msgid "So I was right! ULAN -- she *is* here!"
+msgstr ""
+"A więc miałem rację! ULAN. Ona tu *jest*!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/ja06i5ni7kduezwb"
+msgid "Lieutenant Kitsuragi stands in front of a mirror, fixing his black bomber jacket. You should be asking him that question."
+msgstr ""
+"Porucznik Kitsuragi stoi przed lustrem, poprawiając swoją czarną bomberkę. To pytanie, które powinieneś zadać właśnie jemu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001D64A"
+msgid "Why single out this one building?"
+msgstr ""
+"Czemu zwróciłeś uwagę właśnie na ten budynek?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Perception (Sight)
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000093EF"
+msgid "A slogan used to intertwine with the loops a long time ago. Now only a shadow of peeled letters remains. It says: 'Tomorrow is just a whisper away'."
+msgstr ""
+"Dawno temu slogan ten wił się wśród pętli. Dziś pozostał tylko ślad po wyblakłych literach. Układały się w napis: „Jutro jest zaledwie o szept od ciebie”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000971D"
+msgid "Indeed. You hear what sounds like two men arguing where the lieutenant is pointing."
+msgstr ""
+"Rzeczywiście. Z miejsca, które wskazuje porucznik, słyszysz, zdaje się, kłótnię dwóch mężczyzn."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000097B6"
+msgid "\"What? I didn't say anything.\" He looks at you. \"What are we doing here? We keep returning and you act strange.\""
+msgstr ""
+"„Co? Ja niczego nie mówiłem”. Porucznik spogląda na ciebie i kontynuuje: „Co my tutaj robimy? Ciągle tu wracamy, a ty dziwnie się zachowujesz”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009849"
+msgid "\"Yes. I can literally *talk* to my hangover. That's how bad it has gotten.\""
+msgstr ""
+"„Tak. Umiem dosłownie *rozmawiać* z własnym kacem. Jest aż tak źle”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013F9"
+msgid "\"Then I've got nothing. I'm a shit detective. I should be in the sewer.\""
+msgstr ""
+"„A więc nie mam niczego. Jestem gównem, nie detektywem. Powinienem płynąć w ściekach”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Mikael Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001403"
+msgid "\"What is he talking about?\" The young boy looks to his father, frowning."
+msgstr ""
+"„O czym ten pan mówi?” – pyta ojca chłopiec, marszcząc przy tym brwi."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001425"
+msgid "Knowledge like that isn't just obscure; it's unknowable. Dangerous theoretical facts like that are probably protected under the Coalition Government's Articles of Dominion, Title XIV, Article 7c. While an expert might be able to suss it out on their own, a layman like you has no hope."
+msgstr ""
+"Taka wiedza nie jest po prostu mało znana. Jest nieznana. Tego typu niebezpieczne, teoretyczne fakty są zapewne chronione Prawem Dominium Rządu Koalicyjnego, rozdział XIV, artykuł 7C. Choć ekspert byłby w stanie sam je opracować, laik taki jak ty nie ma na to szans."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00002A61"
+msgid "A shuffle of nylon as the lieutenant shrugs. \"I don't know... It's your call, detective. If you drop the radio lead now, just be prepared to live without having done it.\""
+msgstr ""
+"Rozlega się szelest nylonu towarzyszący wzruszeniu ramion porucznika. „Nie wiem... Decyzja należy do ciebie, detektywie. Jeśli zrezygnujesz teraz z tego tropu, to możliwe, że już do niego nie wrócisz”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000149B2"
+msgid "And then there's the church. You look at the bell tower rising into the clouds -- a prominent place to hide, but maybe she's reckless?"
+msgstr ""
+"No i jest jeszcze kościół. Spoglądasz na wznoszącą się ku chmurom dzwonnicę. To dość rzucająca się w oczy kryjówka, ale może jest nierozważna?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate1/0x01000006000149B2"
+msgid "And then there's the church. You look at the bell tower, rising into the sky -- you look East and remember you already searched it. And found no trace of Ruby."
+msgstr ""
+"No i jest jeszcze kościół. Spoglądasz na wznoszącą się ku niebu dzwonnicę. Patrzysz na wschód i przypominasz sobie, że już tam szukałeś. I nie znalazłeś ani śladu Ruby."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A9C"
+msgid "\"Of course. We should continue our search.\""
+msgstr ""
+"„Oczywiście. Powinniśmy kontynuować nasze poszukiwania”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001D652"
+msgid "The ruin in front of you is silent as a tomb."
+msgstr ""
+"Budynek przed tobą jest milczący niczym grobowiec."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000094F3"
+msgid "Shake off the feeling."
+msgstr ""
+"Otrząśnij się z tego uczucia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000964C"
+msgid "Where does it go?"
+msgstr ""
+"Dokąd leci?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009658"
+msgid "\"The wind told me.\""
+msgstr ""
+"„Wiatr mi powiedział”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000096B5"
+msgid "\"And then there's the church.\" He looks at the bell tower. \"If I were a murder suspect I would not hide in the most prominent building here, but who knows? Maybe she's reckless...\""
+msgstr ""
+"„Jest też kościół” – stwierdza, spoglądając na dzwonnicę. „Gdybym był podejrzanym o morderstwo, to nie ukrywałbym się w najbardziej widocznym budynku w okolicy, ale kto wie? Może jest nierozważna...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000016000096B5"
+msgid "\"And then there's the church.\" He looks at the bell tower. \"We've already searched that and can rule it out. I know it doesn't feel like progress, but exclusion is a step too.\""
+msgstr ""
+"„Jest też kościół” – stwierdza, spoglądając na dzwonnicę. „Przeszukaliśmy już ten budynek i wykluczyliśmy go. Wiem, że nie sprawia to wrażenia poczynania postępów, ale eliminacja też jest istotna”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009779"
+msgid "As if said by someone else. Someone outside you. Around you. Not you."
+msgstr ""
+"Jak gdyby powiedział to kto inny. Ktoś spoza ciebie. Wokół ciebie. Nie ty."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000400000324B"
+msgid "The long abandoned industrial building towers above you in silence."
+msgstr ""
+"Dawno porzucony budynek fabryczny wznosi się nad tobą w milczeniu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E99"
+msgid "\"Right. Well, I'm sure that after...\" The lieutenant's words come to a slow halt. He pinches the bridge of his nose."
+msgstr ""
+"„Jasne. Jestem pewny, że po...” – nagle porucznik milknie i ściska palcami nasadę swojego nosa."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00002A70"
+msgid "\"You just want to dial your favourite radio station, don't you?\""
+msgstr ""
+"„Chcesz po prostu włączyć swoją ulubioną stację, co?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A8D"
+msgid "\"In case she's underground? Don't mind that -- a bad attempt at humour.\""
+msgstr ""
+"„Na wypadek, gdyby była pod ziemią? Zapomnij o tym – to był kiepski żart”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100000600014AAA"
+msgid "\"I am trying to ask Revachol.\""
+msgstr ""
+"„Próbuję spytać Revachol”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000942B"
+msgid "The wind whispers and whispers."
+msgstr ""
+"Wiatr szepcze i szepcze."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000094E5"
+msgid "Listen to the wind -- but for *what*? Ruby whistling? The crackle of her bonfire? Some errant whisper, or a dog barking..."
+msgstr ""
+"Nasłuchiwać na wietrze... ale *czego*? Pogwizdywania Ruby? Trzasku jej ogniska? Jakiegoś zbłąkanego szeptu? A może szczekania psa...?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000993C"
+msgid "\"Could she be in there?\""
+msgstr ""
+"„Czy ona może tam być?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Alternate1/0x010000160000993C"
+msgid "\"Could Ruby be in there?\""
+msgstr ""
+"„Czy Ruby może tam być?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E67"
+msgid "BOY CHILD FREEDOM. BOY CHILD JUSTICE."
+msgstr ""
+"CHŁOPIEC WOLNOŚCI. CHŁOPIEC SPRAWIEDLIWOŚCI."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E85"
+msgid "\"The wind told me to talk to children. Let's roll.\""
+msgstr ""
+"„Wiatr kazał mi porozmawiać z dzieciakami. Ruszajmy”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B0000267C"
+msgid "\"True...  But how do we even get in there? The doors were on the collapsed side of this building... they're gone, basically.\""
+msgstr ""
+"„Prawda... Ale jak się tam dostaniemy? Drzwi znajdowały się po zawalonej stronie budynku... Przestały istnieć”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100004B0000267C"
+msgid "\"True. And Ruby does have radio experience, as evidenced by her lorry... But how do we even get in there? The doors were on the collapsed side of this building... they're gone, basically.\""
+msgstr ""
+"„Prawda. Ruby ma też doświadczenie w posługiwaniu się radiem, co widzieliśmy w jej ciężarówce... Ale jak się tam dostaniemy? Drzwi znajdowały się po zawalonej stronie budynku... Przestały istnieć”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00002A1D"
+msgid "That isn't a fact *yet*. But it's a compelling suspicion."
+msgstr ""
+"Nie jest to *jeszcze* fakt. Ale przekonujące podejrzenie już tak."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000148E5"
+msgid "\"She?\" The man hears you. \"I don't know who you mean, but... the building seems long-abandoned to me.\""
+msgstr ""
+"„Ona?” – mężczyzna wyłapuje część waszej rozmowy. „Nie wiem, kogo pan ma na myśli, ale... mnie ten budynek wygląda na od dawna opuszczony”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000149F4"
+msgid "First you need to tune in to the coast, get to know its residents. Then you can search where you can't enter: bunkers, storm drainage, this building here. You can always come back and talk to the wind again -- look where it already got you."
+msgstr ""
+"Najpierw musisz zestroić się z wybrzeżem, poznać jego mieszkańców. A potem poszukać tam, gdzie nie możesz wejść: w bunkrach, w kanale burzowym, w tym tutaj budynku. Zawsze możesz wrócić i jeszcze raz porozmawiać z wiatrem. Zobacz, ile już ci to dało."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001D642"
+msgid "You felt it, before, when it rained in Martinaise and you *felt* the cold of the rain. The feeling persists. It has been in you ever since."
+msgstr ""
+"Czułeś to już wcześniej, kiedy w Martinaise padało i *dotknął cię* chłód deszczu. Uczucie nie przemija. Drzemało w tobie przez cały ten czas."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000093E8"
+msgid "[Turn away.]"
+msgstr ""
+"[Odwróć się]."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000095FF"
+msgid "\"Perhaps *you* can climb them. *We're* not climbing anything. I'm 43 years old -- and I plan to live to see 70.\""
+msgstr ""
+"„Może *ty* się tam wdrapiesz. *My* nie będziemy się na nic wspinać. Mam 43 lata – i zamierzam dożyć do siedemdziesiątki”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E4E"
+msgid "What the hell was that?"
+msgstr ""
+"Co to było, do cholery?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E5D"
+msgid "The big sea... The Big C? That can only mean one thing: Communism."
+msgstr ""
+"Wielkiego morza. Morza głów? Głów ludu? To może oznaczać tylko jedno: komunizm."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000013C7"
+msgid "Searching with all possible speed!"
+msgstr ""
+"Szukam tak szybko, jak tylko mogę!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013E0"
+msgid "I know about ULAN frequencies. Does that help?"
+msgstr ""
+"Wiem co nieco o częstotliwościach ULAN. To jakoś pomaga?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00002A15"
+msgid "And, while you might not have seen much of the coast, you were probably right: The ULAN frequency is likely connected to all this. Ruby dabbles in advanced radio theories. The Speedfreaks FM case is a radio mystery. That may not be coincidence."
+msgstr ""
+"I choć może i nie widziałeś dużej części wybrzeża, miałeś zapewne rację: częstotliwość ULAN jest z tym pewnie powiązana. Ruby interesuje się zaawansowanymi teoriami radiowymi. Sprawa Naspeedowanych FM to radiowa tajemnica. To może nie być przypadek."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Alternate1/0x0100004B00002A15"
+msgid "And you were probably right: The ULAN frequency is likely connected to all this. Ruby dabbles in advanced radio theories. The Speedfreaks FM case is a radio mystery. That may not be coincidence. "
+msgstr ""
+"I miałeś zapewne rację: częstotliwość ULAN jest z tym pewnie powiązana. Ruby interesuje się zaawansowanymi teoriami radiowymi. Sprawa Naspeedowanych FM to radiowa tajemnica. To może nie być przypadek."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000006000149ED"
+msgid "And if that fails? If I don't find her? (Conclude.)"
+msgstr ""
+"A jeśli to się nie uda? Jeśli jej nie znajdę? (Zakończ)."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100000600014ACE"
+msgid "\"I am trying to ask the wind.\""
+msgstr ""
+"„Próbuję spytać wiatr”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009424"
+msgid "\"Ah, yes, their famous motto!\" You hear the man exclaim behind you. \"A fine example of technological optimism, from...\" He says something, but the wind blows and you can't hear him."
+msgstr ""
+"„A tak, ich słynne motto!” – słyszysz, jak ekscytuje się mężczyzna za tobą. „Świetny przykład optymizmu technologicznego...” – mówi coś dalej, ale nie słyszysz tego wśród podmuchów wiatru."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000094C9"
+msgid "\"Then -- if we're desperate -- we can look where we *can't* enter. Bunkers, storm drainage, this place. I'm sure it won't come to that.\" He looks behind him, at the dark red box crumbling across the chasm."
+msgstr ""
+"„Wtedy – jeśli będziemy zdesperowani – możemy rozejrzeć się tam, gdzie *nie możemy* się dostać. W bunkrach, kanałach burzowych – w tym miejscu. Ale jestem pewny, że do tego nie dojdzie” – spogląda za siebie na ciemnoczerwoną skrzynkę niszczejącą po drugiej stronie przepaści."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000096C1"
+msgid "Suddenly, all is quiet. There is no cold hand brushing against your forehead, no rustle in the reeds. The wind has died down, or gone behind a corner? You only hear distant waves washing the coast."
+msgstr ""
+"Nagle zapada cisza. Nie ma już chłodnej ręki pieszczącej ci czoło ani szelestu wśród trzcin. Wiatr ucichł. A może zniknął za rogiem? Słyszysz tylko obmywające wybrzeże fale."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009802"
+msgid "\"I am trying to ask Revachol.\""
+msgstr ""
+"„Próbuję spytać Revachol”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E7B"
+msgid "\"Did I have a seizure, Kim?\""
+msgstr ""
+"„Czy ja miałem atak padaczki, Kim?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E94"
+msgid "\"When you're ready.\" The lieutenant nods."
+msgstr ""
+"„Śmiało” – stwierdza porucznik, kiwając głową."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001556"
+msgid "Judging eyes, like he's a fucking brain doctor. What the hell does he know?"
+msgstr ""
+"Oceniające spojrzenie, jakby był jebanym neurochirurgiem. Co on może wiedzieć?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000BF0B"
+msgid "Above the mural -- a collapsed roof, broken windows set in walls that are cracking and will soon also fall, and the coastal breeze rustling and sighing in the remains of the edifice."
+msgstr ""
+"Nad muralem – zawalony dach, zniszczone okna w ścianach, które, sądząc po spękaniach, też niedługo runą. W resztkach budynku szeleści i wzdycha przybrzeżna bryza."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100000600014AC8"
+msgid "\"I am performing *black magic*.\""
+msgstr ""
+"„Odprawiam rytuał *czarnej magii*”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000946A"
+msgid "\"I am trying to ask the wind.\""
+msgstr ""
+"„Próbuję spytać wiatr”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000094ED"
+msgid "What am I *doing* here?"
+msgstr ""
+"Co ja tu *robię*?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009534"
+msgid "*THERE IS NOTHING ELSE.* The thought makes your bones rattle, like the skeleton of some deserted building ready to collapse."
+msgstr ""
+"*NIE MA NICZEGO WIĘCEJ*. Myśl ta sprawia, że czujesz nagle każdą kość. Niczym szkielet jakiegoś porzuconego budynku gotowego lada moment się zawalić."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000096C9"
+msgid "Trying to talk to the wind, or the city? Whatever you thought would happen did not, and now you're just standing there with your hands fallen to your side."
+msgstr ""
+"Próbowałeś rozmawiać z wiatrem czy z miastem? Cokolwiek miało się zdarzyć, nie zdarzyło się. Stoisz tu tylko z rękami opuszczonymi wzdłuż tułowia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate1/0x01000016000096C9"
+msgid "Trying to talk to the wind, the city? Whatever you thought would happen did not, and now you're just standing there, in the dark. With your hands fallen to your side."
+msgstr ""
+"Próbowałeś rozmawiać z wiatrem? Z miastem? Cokolwiek miało się zdarzyć, nie zdarzyło się. Stoisz tu tylko w ciemności. Z rękami opuszczonymi wzdłuż tułowia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate2/0x01000016000096C9"
+msgid "Trying to talk to the wind? The city? Whatever you thought would happen did not, and now you're just standing there, in the pale of the morning. With your hands fallen to your side."
+msgstr ""
+"Próbowałeś rozmawiać z wiatrem? Z miastem? Cokolwiek miało się zdarzyć, nie zdarzyło się. Stoisz tu tylko w bladym świetle poranka. Z rękami opuszczonymi wzdłuż tułowia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate3/0x01000016000096C9"
+msgid "Trying to talk to the wind? The city? Whatever you thought would happen did not, and now you're just standing there with your hands fallen to your side."
+msgstr ""
+"Próbowałeś rozmawiać z wiatrem? Z miastem? Cokolwiek miało się zdarzyć, nie zdarzyło się. Stoisz tu tylko z rękami opuszczonymi wzdłuż tułowia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Alternate4/0x01000016000096C9"
+msgid "Trying to talk to the wind? The city? Whatever you thought would happen did not, and now you're just standing there, in the dusk hour. With your hands fallen to your side."
+msgstr ""
+"Próbowałeś rozmawiać z wiatrem? Z miastem? Cokolwiek miało się zdarzyć, nie zdarzyło się. Stoisz tu tylko wśród zmierzchu. Z rękami opuszczonymi wzdłuż tułowia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Savoir Faire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000098A3"
+msgid "Finally, my time to shine!"
+msgstr ""
+"Nareszcie, moja chwila chwały!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00000E44"
+msgid "GO TO THE CHILDREN OF THE BIG SEA."
+msgstr ""
+"IDŹ DO DZIECI WIELKIEGO MORZA."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013EF"
+msgid "\"Radio is killing the fucking cop star. Come on!\""
+msgstr ""
+"„Radio zabija jebanego policyjnego gwiazdora. No dalej!”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00002A7C"
+msgid "A shuffle of nylon as the lieutenant shrugs. \"I'm only observing that there's another lead you wanted to follow. And that if you drop the radio lead now, just be prepared to live without having done it.\""
+msgstr ""
+"Rozlega się szelest nylonu towarzyszący wzruszeniu ramion porucznika. „Po prostu wskazuję, że istnieje jeszcze jeden trop, którym chciałeś podążać. I że jeśli zrezygnujesz teraz z niego, to możliwe, że już do niego nie wrócisz”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000BF11"
+msgid "Feld *Electrical*. How ironic -- all these dark rooms..."
+msgstr ""
+"Feld *Electrical*. Co za ironia – we wszystkich pomieszczeniach panuje mrok..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000149BA"
+msgid "Indeed. About 70 metres west from here."
+msgstr ""
+"To prawda. Jakieś 70 metrów na zachód stąd."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A5F"
+msgid "\"Well...\" The man behind you hesitates for a moment. \"I was *trying* to explain to Mikael what it is the officer keeps returning here for -- then I realized I don't know.\""
+msgstr ""
+"„No...” – mężczyzna za twoimi plecami waha się przez chwilę. „*Próbowałem* wyjaśnić Mikaelowi, w jakim celu pan funkcjonariusz wciąż tu powraca, ale zdałem sobie sprawę z tego, że nie wiem”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009480"
+msgid "What was I even attempting to do here?"
+msgstr ""
+"Co ja w ogóle próbowałem tu zrobić?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009617"
+msgid "\"We've looked everywhere else.\""
+msgstr ""
+"„Szukaliśmy już wszędzie tylko nie tam”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009927"
+msgid "\"In there? She could. Or...\" The lieutenant points behind you. \"She could be in the *identical* ruin over there, or in that boat shack. In that church tower, maybe...\""
+msgstr ""
+"„Tam? Może być. Albo...” – porucznik wskazuje coś za tobą. „Albo może być w *identycznych* ruinach, które znajdują się tam. Albo w tamtej szopie na łodzie. Albo w kościelnej dzwonnicy...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E8A"
+msgid "\"I need to go to the children, Kim. Girl Child Communism. Boy Child Freedom.\""
+msgstr ""
+"„Muszę iść do dzieci, Kim. Do Dziewczęcia Komunizmu i Chłopca Wolności”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014947"
+msgid "Is *trying to talk to the city* something you've done before? Is it in your secret repertoire -- a trick for when you're out of ideas?"
+msgstr ""
+"Czy ty próbowałeś już kiedyś *rozmawiać z miastem*? Czy to element twojego tajnego repertuaru? Sztuczka, którą stosujesz, kiedy skończą się pomysły?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009400"
+msgid "Step closer."
+msgstr ""
+"Podejdź o krok."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009415"
+msgid "\"Looks like tomorrow never came.\" The lieutenant raises the collar of his bomber jacket."
+msgstr ""
+"„Wygląda na to, że jutro nigdy nie nadeszło” – stwierdza porucznik i stawia kołnierz swojej bomberki."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000094FB"
+msgid "*WHAT ARE YOU DOING HERE?* A terrible cold comes over you as you think the words. They echo in your skull, alien suddenly."
+msgstr ""
+"*CO TY TU ROBISZ?* Zaczynasz czuć straszliwe zimno, kiedy w głowie pojawiają ci się te słowa. Odbijają się echem w twojej czaszce, nagle obce i nieznane."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009946"
+msgid "Indeed. Somehow you knew it was here. An urban ruin gutted by looters that once used to consume money and dispense warmth and light."
+msgstr ""
+"Racja. Z jakiegoś powodu wiedziałeś, że to tu. Wybebeszona przez rabusiów miejska ruina, która niegdyś zużywała pieniądze, dając w zamian ciepło i światło."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000E53"
+msgid "Yes. I understand."
+msgstr ""
+"Tak, rozumiem."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001439"
+msgid "She isn't in the fishing village. She's not with her bullet under the floorboards in the shack. So where could she be?"
+msgstr ""
+"Nie ma jej we wsi rybackiej. Nie siedzi ze swoim nabojem pod deskami w chacie. Więc gdzie może być?"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001CE8"
+msgid "\"You mean we should do that *right now*, don't you?\" the lieutenant asks, his usually even tone wavering slightly. \"Can that be done *after* the murder investigation?\""
+msgstr ""
+"„Chcesz z nimi porozmawiać *w tej chwili*, tak?” – pyta, a jego opanowany zwykle głos nieznacznie drży. „Czy mógłbyś to zrobić *po* zakończeniu śledztwa w sprawie morderstwa?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000029FD"
+msgid "... Well, in fairness, you haven't seen much more of the coast. But you do know one last thing: ULAN. Ruby dabbles in advanced radio theories. ULAN, the Speedfreaks mystery -- it might just be related."
+msgstr ""
+"No, szczerze mówiąc, to niewiele widziałeś wybrzeża. Ale wiesz jeszcze jedno: ULAN. Ruby interesuje się zaawansowanymi teoriami radiowymi. ULAN, tajemnica Naspeedowanych – to się może ze sobą wiązać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Alternate1/0x0100004B000029FD"
+msgid "And you do know one thing about radios: ULAN. Ruby dabbles in advanced radio theories. ULAN, the Speedfreaks mystery -- it might just be related."
+msgstr ""
+"Wiesz o radiach jeszcze jedno: ULAN. Ruby interesuje się zaawansowanymi teoriami radiowymi. ULAN, tajemnica Naspeedowanych – to się może ze sobą wiązać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00002A52"
+msgid "The lieutenant glances down the coast, toward the fishing village. \"There's also still the question of how the twins tuned into Speedfreaks FM...\""
+msgstr ""
+"Porucznik zerka na wybrzeże w kierunku rybackiej wsi. „Wciąż pozostaje też pytanie, jak bliźniacy odebrali audycję stacji Naspeedowani FM...”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000BF17"
+msgid "Feld Electrical -- you only know them as a small company that makes ink cartridges. Looks like they used to be... big."
+msgstr ""
+"Feld Electrical. Znasz ich tylko jako małą firemkę produkującą wkłady atramentowe. A wygląda na to, że byli... więksi."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009749"
+msgid "Listen to the wind."
+msgstr ""
+"Posłuchaj wiatru."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip1/0x0100001600009749"
+msgid "Found the empty trap."
+msgstr ""
+"Znalazłeś pustą pułapkę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip2/0x0100001600009749"
+msgid "Heard Lena's true story."
+msgstr ""
+"Poznałeś prawdziwą historię Leny."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip3/0x0100001600009749"
+msgid "Went on a date."
+msgstr ""
+"Byłeś na randce."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip4/0x0100001600009749"
+msgid "Reconstructed execution."
+msgstr ""
+"Dokonałeś rekonstrukcji stracenia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip5/0x0100001600009749"
+msgid "Made that awful call."
+msgstr ""
+"Wykonałeś ten okropny telefon."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip6/0x0100001600009749"
+msgid "Confronted the Pigs."
+msgstr ""
+"Zmierzyłeś się ze Świniarką."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip7/0x0100001600009749"
+msgid "Established the night club."
+msgstr ""
+"Założyłeś klub nocny."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip8/0x0100001600009749"
+msgid "Discovered the anomaly."
+msgstr ""
+"Odkryłeś anomalię."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip9/0x0100001600009749"
+msgid "Death notification."
+msgstr ""
+"Powiadomiłeś o śmierci."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip10/0x0100001600009749"
+msgid "Found the jacket."
+msgstr ""
+"Znalazłeś kurtkę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009869"
+msgid "\"Okay -- why?\""
+msgstr ""
+"„W porządku – dlaczego?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000098B6"
+msgid "Suddenly there's a sigh, carried on the molecules around you, moving, flowing from high pressure to low pressure. Like that of a woman emptying her lungs. She wraps the collapsing stone box in front of you in her breath, flowing through it..."
+msgstr ""
+"Nagle dociera do ciebie westchnienie – niesie się na molekułach powietrza przepływających ze strefy wysokiego ciśnienia do strefy niskiego ciśnienia. Jest jakby wydech kobiety. Otula ona swoim oddechem stojącą przed tobą, walącą się kamienną skrzynkę. Płynie przez nią..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B000013C2"
+msgid "Come on, hurry up, we're on a schedule here!"
+msgstr ""
+"No już, szybciej, mamy napięty harmonogram!"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B0000142A"
+msgid "You don't know how it happened. But the stores of your knowledge are vast and there *is* something crucial in them."
+msgstr ""
+"Nie wiesz, jak to się stało, ale zasoby twojej wiedzy są rozległe i *kryje się* w nich coś kluczowego."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B0000146B"
+msgid "Nor is Ruby in the Church. Some criminals still seek sanctuary from sacred buildings, even though sanctuary laws were abolished decades ago. But Ruby wasn't such a one."
+msgstr ""
+"Ruby nie ma też w kościele. Niektórzy przestępcy wciąż szukają tam schronienia, choć przepisy o sanktuariach uchylono dziesiątki lat temu. Jej jednak wśród nich próżno szukać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Alternate1/0x0100004B0000146B"
+msgid "Nor is Ruby in the church. The crab-man, Tiago, is -- but not Ruby. Some criminals seek sanctuary from sacred buildings, though the sanctuary laws were abolished decades ago. But Ruby wasn't such a one."
+msgstr ""
+"Ruby nie ma też w kościele. Jest tam kraboczłek, Tiago, ale nie ona. Niektórzy przestępcy szukają schronienia w budynkach kultu, choć przepisy o sanktuariach uchylono dziesiątki lat temu. Jej jednak wśród nich próżno szukać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Alternate2/0x0100004B0000146B"
+msgid "You've even entered the Church, met Tiago, and Soona. Some criminals seek sanctuary from sacred buildings, though the sanctuary laws were abolished decades ago. But Ruby wasn't such a one."
+msgstr ""
+"Byłeś nawet w kościele, poznałeś Tiago i Soonę. Niektórzy przestępcy szukają schronienia w budynkach kultu, choć przepisy o sanktuariach uchylono dziesiątki lat temu. Jej jednak wśród nich próżno szukać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Alternate3/0x0100004B0000146B"
+msgid "You've even entered the Church, helped the ravers set up a night club, and overheard... well, we don't need to think about that. Point is: Some criminals seek sanctuary from sacred buildings, though the sanctuary laws were abolished decades ago. But Ruby wasn't such a one."
+msgstr ""
+"Byłeś nawet w kościele, pomogłeś raversom otworzyć klub nocny i podsłuchałeś... No, o tym myśleć nie musimy. Niektórzy przestępcy szukają schronienia w budynkach kultu, choć przepisy o sanktuariach uchylono dziesiątki lat temu. Jej jednak wśród nich próżno szukać."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00002A4D"
+msgid "\"We should look into that before we move on.\""
+msgstr ""
+"„Powinniśmy się temu przyjrzeć, zanim ruszymy dalej”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001494E"
+msgid "A prayer of sorts? To Revachol."
+msgstr ""
+"Coś w rodzaju modlitwy? Wznoszonej do Revacholu."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000149A6"
+msgid "Anyway -- you do it sector by sector. Go over the whole peninsula, ask the locals, enter the places which you *can* enter first."
+msgstr ""
+"Tak czy inaczej, można to zrobić sektor po sektorze. Przemierzyć cały półwysep, wypytać miejscowych, zajrzeć najpierw w miejsca, do których *jest* dostęp."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A65"
+msgid "No one. You're just talking to yourself again -- the letters slowly peeling off the mural seem to form a malevolent smile."
+msgstr ""
+"Nikt. Po prostu znowu mówisz do siebie. Powoli znikające z muralu litery wyglądają, jakby układały się w okrutny uśmiech."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014ADE"
+msgid "\"'Ask Revachol' is the name of a war time radio show the communists used to address civil issues,\" he remarks. \"Maybe that helps?\""
+msgstr ""
+"„»Spytaj Revacholu« to tytuł programu radiowego z czasów wojny – komuniści odnosili się w nim do kwestii cywilnych” – zauważa. „Może to będzie pomocne?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014AE4"
+msgid "\"Of course. Didn't mean to imply otherwise.\""
+msgstr ""
+"„Oczywiście. Nie śmiałbym sugerować niczego innego”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000016000095C5"
+msgid "There has to be a way to use brute force. Climbing sounds unsafe. Brute force is safe. Look around and find something to break if the ladder fails."
+msgstr ""
+"Musi być jakiś sposób na użycie brutalnej siły. Wspinanie się nie brzmi bezpiecznie, a brutalna siła już tak. Rozejrzyj się i znajdź coś, co można rozwalić, jeśli z drabiną się nie uda."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000097F0"
+msgid "\"Yeah, I don't know...\""
+msgstr ""
+"„Tak, nie wiem”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000983D"
+msgid "\"Ever since I woke up -- maybe even before -- I've been getting these strange *cold spells*.\""
+msgstr ""
+"„Od kiedy się obudziłem – co najmniej – dostaję takich dziwnych *napadów zimna*”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000160000997C"
+msgid "SHE'S DOWN THERE."
+msgstr ""
+"ONA JEST TAM NA DOLE."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009984"
+msgid "\"Right. How do we get in, though? The doors were on the collapsed side of this building... they're gone, basically.\""
+msgstr ""
+"„Jasne. Ale jak się tam dostaniemy? Drzwi znajdowały się po zawalonej stronie budynku... Przestały istnieć”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Trant Heidelstam
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001408"
+msgid "\"I'm not sure, Mikael.\" He looks at you, as if making an appraisal."
+msgstr ""
+"„Nie jestem pewien, Mikaelu” – patrzy na ciebie, jakby próbował ocenić."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001452"
+msgid "The alcoholics never mentioned seeing Ruby either. Idiot Doom Spiral gave an exhaustive account of recent events, but never mentioned seeing Ruby."
+msgstr ""
+"Alkoholicy też nic nie wspominali o tym, że ją widzieli. Idiota w Spirali Katastrof opisał dokładnie niedawne wydarzenia, ale nie wspominał nic o Ruby."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00002A6A"
+msgid "A shuffle of nylon as the lieutenant shrugs. \"It's your call, detective. If you drop the radio lead now, just be prepared to live without having done it.\""
+msgstr ""
+"Rozlega się szelest nylonu towarzyszący wzruszeniu ramion porucznika. „Decyzja należy do ciebie, detektywie. Jeśli zrezygnujesz teraz z tego tropu, to możliwe, że już do niego nie wrócisz”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Feld Mural
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014A47"
+msgid "Probably a good idea. Blowing on your fingers doesn't make them much warmer though..."
+msgstr ""
+"To pewnie dobry pomysł. Choć chuchanie na palce nie sprawia, że stają się wiele cieplejsze..."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100000600014B34"
+msgid "Listen to the wind again."
+msgstr ""
+"Posłuchaj wiatru jeszcze raz."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip1/0x0100000600014B34"
+msgid "Found the empty trap."
+msgstr ""
+"Znalazłeś pustą pułapkę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip2/0x0100000600014B34"
+msgid "Heard Lena's true story."
+msgstr ""
+"Poznałeś prawdziwą historię Leny."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip3/0x0100000600014B34"
+msgid "Went on a date."
+msgstr ""
+"Byłeś na randce."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip4/0x0100000600014B34"
+msgid "Reconstructed execution."
+msgstr ""
+"Dokonałeś rekonstrukcji stracenia."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip5/0x0100000600014B34"
+msgid "Made that awful call."
+msgstr ""
+"Wykonałeś ten okropny telefon."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip6/0x0100000600014B34"
+msgid "Confronted the Pigs."
+msgstr ""
+"Zmierzyłeś się ze Świniarką."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip7/0x0100000600014B34"
+msgid "Established the night club."
+msgstr ""
+"Założyłeś klub nocny."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip8/0x0100000600014B34"
+msgid "Discovered the anomaly."
+msgstr ""
+"Odkryłeś anomalię."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip9/0x0100000600014B34"
+msgid "Death notification."
+msgstr ""
+"Powiadomiłeś o śmierci."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "tooltip10/0x0100000600014B34"
+msgid "Found the jacket."
+msgstr ""
+"Znalazłeś kurtkę."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000947A"
+msgid "\"And if that fails? If we don't find her?\" (Conclude.)"
+msgstr ""
+"„A jeśli to się nie uda? Jeśli jej nie znajdziemy?” (Zakończ)."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100001600009771"
+msgid "No. There is something else. In the wind."
+msgstr ""
+"Nie. Jest coś jeszcze. Niesie to wiatr."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x01000016000097D6"
+msgid "[Leave.]"
+msgstr ""
+"[Odejdź]."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x010000160000994C"
+msgid "\"What is this building?\""
+msgstr ""
+"„Co to za budynek?”"
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100001F2D"
+msgid "Somewhere in Martinaise, Lieutenant Kitsuragi is consulting his notebook... A sudden draught turns a page between his hands. You're going to need him if you want to listen to the wind."
+msgstr ""
+"Gdzieś w Martinaise porucznik Kitsuragi zagląda do swojego notatnika, a nagły powiew przewraca kartki. Będziesz potrzebował jego towarzystwa, jeśli chcesz posłuchać wiatru."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = You
+#. Conversant = Feld Mural
+msgctxt "Dialogue Text/0x0100004B00000EA8"
+msgid "\"Communism is a murder investigation, Kim. It's about understanding whose bootheel killed the human spirit.\""
+msgstr ""
+"„Komunizm to śledztwo w sprawie morderstwa, Kim. Analiza, czyj bucior zabił ludzkiego ducha”."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B0000141C"
+msgid "Apologies! You just need time to remember. There has to be something there. Go do other things around the coast. That might help."
+msgstr ""
+"Przepraszam! Potrzebujesz po prostu czasu, żeby to sobie przypomnieć. Musi tam coś być. Ruszaj porobić inne rzeczy na wybrzeżu. To może pomóc."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B00001461"
+msgid "You've searched the whole coast for Morell's traps. Just as you didn't find the Insulindian phasmid, you did not find her."
+msgstr ""
+"Szukałeś wzdłuż całego wybrzeża pułapek Morella. I tak, jak nie znalazłeś insulindiańskiego straszyka, nie znalazłeś też jej."
+
+#. Title = BOARDWALK / FELD MURAL
+#. Description = 1. Observe the mural.
+#. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004B000014FD"
+msgid "\"I see. Political theory as detective work. Right.\" The lieutenant looks down the coast, toward the shacks. \"After you, officer.\""
+msgstr ""
+"„Rozumiem. Teoria polityczna jako detektywistyczna praca. Jasne” – porucznik spogląda na chaty na wybrzeżu. „Prowadź, oficerze”."

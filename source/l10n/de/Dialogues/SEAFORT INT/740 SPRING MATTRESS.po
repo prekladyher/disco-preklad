@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001C9B1"
+msgid "There's a greasy old spring mattress in the corner, resting on piles of softcover books. White linen and a pillow are visible under a worn-out karakul blanket."
+msgstr ""
+"In der Ecke liegt eine schmierige alte Federmatratze; sie ruht auf Taschenbuchstapeln. Unter einer abgenutzten Karakuldecke kannst du weißes Bettzeug und ein Kissen erkennen."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA32"
+msgid "Maybe a little shut-eye, just for an hour... [Go to sleep.]"
+msgstr ""
+"Vielleicht ein kleines Nickerchen, nur für eine Stunde … [Du legst dich schlafen.]"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Alternate1/0x010000450001CA32"
+msgid "\"Maybe a little shut-eye, just an hour...\" [Go to sleep.]"
+msgstr ""
+"„Vielleicht ein kleines Nickerchen, nur für eine Stunde …“ [Du legst dich schlafen.]"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Esprit de Corps
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB36"
+msgid "You don't have to be a hero."
+msgstr ""
+"Du musst kein Held sein."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Cuno
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x01000089000027BA"
+msgid "\"Cool, whatever. Cuno doesn't really give a shit.\""
+msgstr ""
+"„Cool, egal. Cuno interessiert das eigentlich ’nen Scheiß.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA6C"
+msgid "\"How recently...\""
+msgstr ""
+"„Vor wie kurzer Zeit …?“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA78"
+msgid "\"There are signs that someone... lives...\""
+msgstr ""
+"„Es gibt Anzeichen dafür, dass hier … jemand …“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Kim Kitsuragi
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA80"
+msgid "\"You know, officer...\" He looks at you with a touch of concern. \"You *can* rest here if you're feeling tired. I will keep watch. You could use some rest for what's ahead.\""
+msgstr ""
+"„Wissen Sie was, Officer …?“ Er sieht dich mit einem Anflug von Sorge an. „Sie <i>können</i> sich hier ausruhen, wenn Sie sich erledigt fühlen. Ich halte Wache. Sie sollten Kraft für das tanken, was noch kommt.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Kim Kitsuragi
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA86"
+msgid "\"Yes. Any time. If you need a rest *later*, it's okay by me.\""
+msgstr ""
+"„Ja. Jederzeit. Wenn Sie <i>später</i> eine Pause brauchen, ist das für mich in Ordnung.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Endurance
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB19"
+msgid "Technically speaking, you *could* rest here if you're hurting... someone else has. It should be possible."
+msgstr ""
+"Streng genommen <i>könntest</i> du dich hier ausruhen, wenn du Schmerzen hast … Jemand anders hat das schon getan. Es sollte möglich sein."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Endurance
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB58"
+msgid "Still rather inviting, all things considered. It's much warmer inside than out there..."
+msgstr ""
+"Im Großen und Ganzen immer noch ziemlich einladend. Drinnen ist es deutlich wärmer als da draußen …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100007200007960"
+msgid "Curl up with your knees close to your chest."
+msgstr ""
+"Du rollst dich zusammen und ziehst die Knie eng an die Brust."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x01000089000027A9"
+msgid "Huh, I wonder if..."
+msgstr ""
+"Hm, ich frage mich, ob …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA55"
+msgid "Inspect the linen."
+msgstr ""
+"Du begutachtest das Bettzeug."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Pain Threshold
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CAA4"
+msgid "A flash of pain interrupts you, making you wince instead of letting the words out."
+msgstr ""
+"Blitzartig einsetzender Schmerz unterbricht dich. Anstelle von Worten entweicht deinem Mund Gewinsel."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CAFC"
+msgid "How recently..."
+msgstr ""
+"Vor wie kurzer Zeit …?"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Endurance
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x01000072000079B6"
+msgid "You didn't realize how tired you were. Your body is still nowhere near healed..."
+msgstr ""
+"Dir war gar nicht bewusst, wie erschöpft du warst. Noch immer ist dein Körper nicht ansatzweise genesen …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Inland Empire
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000060000E533"
+msgid "Also -- what if the bad thing happens again?"
+msgstr ""
+"Und außerdem: Was ist, wenn der gleiche Mist wieder passiert?"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x0100007200007959"
+msgid "The blanket feels cold. The entire room does -- concrete and cold. Minutes pass. Half an hour maybe? The sounds of the sea beyond grow distant. Your eyelids close. Until..."
+msgstr ""
+"Die Decke fühlt sich kalt an. Die Atmosphäre des ganzen Raumes ist von Beton und Kälte geprägt. Minuten vergehen. Vielleicht eine halbe Stunde? Die Geräusche des Meeres jenseits der Mauern rücken langsam in immer größere Ferne. Dir fallen die Augen zu. Bis …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000720000797D"
+msgid "Until?"
+msgstr ""
+"Bis?"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x0100007200007984"
+msgid "You feel yourself standing up in the darkness. Right next to the mattress. Slowly, the world begins to hatch from the blackness. It's evening..."
+msgstr ""
+"… du merkst, dass du aufrecht in der Dunkelheit stehst. Direkt neben der Matratze. Langsam beginnt die Welt aus der Schwärze aufzutauchen. Es ist Abend …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Logic
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000060000E5A1"
+msgid "Someone has been squatting here. Very recently -- the fire guy the twins mentioned?"
+msgstr ""
+"Hier hat jemand übernachtet. Vor sehr kurzer Zeit. Vielleicht der Feuertyp, den die Zwillinge erwähnt haben?"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA72"
+msgid "\"Do you think whoever slept here is...\""
+msgstr ""
+"„Glauben Sie, die Person, die hier geschlafen hat, ist …“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA8C"
+msgid "The greasy old spring mattress lies in the corner, fresh linen under the heavy karakul cover."
+msgstr ""
+"Die schmierige alte Federmatratze liegt in der Ecke. Unter der schweren Karakuldecke liegt frische Bettwäsche."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Cuno
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100006B000017A3"
+msgid "\"I'm gonna say it again -- Cuno doesn't feel like carrying your corpse off this island, so maybe you should fucking crash?\""
+msgstr ""
+"„Ich sag’s noch mal – Cuno hat kein’ Bock, deine Leiche von dieser Insel runterzuschleppen, also wie wär’s, wenn du verdammt noch mal pennen gehst?“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Kim Kitsuragi
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB90"
+msgid "\"Maybe it's better to get back to the mainland? Rest there -- you've earned it.\""
+msgstr ""
+"„Vielleicht sollten wir lieber aufs Festland zurückkehren? Ruhen Sie sich dort aus – Sie haben es sich verdient.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x01000003000002E2"
+msgid "Sleep."
+msgstr ""
+"Schlaf."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Cuno
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100006B000017AA"
+msgid "\"Hey... Cuno doesn't wanna *hurt your feelings*, but you look like shit. Maybe you should lie down in the bed -- like recover. Before you die.\""
+msgstr ""
+"„Hey … Cuno will nichts <i>Gemeines</i> sagen, aber du siehst aus wie Scheiße. Vielleicht solltest du dich ins Bett legen – dich erholen und so. Bevor du noch stirbst.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x01000072000079C2"
+msgid "The blanket feels cold. It's someone else's blanket, and the room is all concrete and cold. Sounds of the sea beyond grow distant, slowly. Your eyelids close."
+msgstr ""
+"Die Decke fühlt sich kalt an. Es ist die Decke einer anderen Person. Der ganze Raum besteht aus Beton und strahlt Kälte aus. Die Geräusche des Meeres jenseits der Mauern rücken langsam in immer größere Ferne. Dir fallen die Augen zu."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Endurance
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000060001EF81"
+msgid "The bed is quite inviting, all things considered. It's much warmer inside than out there..."
+msgstr ""
+"Das Bett sieht im Großen und Ganzen ziemlich einladend aus. Drinnen ist es deutlich wärmer als da draußen …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Pain Threshold
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100008900002795"
+msgid "You force the rest of the sentence out through pain, thick as molasses, without really hearing it."
+msgstr ""
+"Schmerzerfüllt presst du den Rest des Satzes hervor – die Worte zähflüssig wie Sirup –, ohne ihn selbst richtig zu hören."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x01000089000040B3"
+msgid "Curl up with your knees close to your chest."
+msgstr ""
+"Du rollst dich zusammen und ziehst die Knie eng an die Brust."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001DF70"
+msgid "You face the concrete wall. There's less light there, in the dark corner. Like a dog you lie there..."
+msgstr ""
+"Du drehst dich zur Betonwand. Dorthin, in die dunkle Ecke, fällt weniger Licht. Wie ein Hund liegst du da …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x01000089000027CC"
+msgid "Maybe it's actually better on the mainland... in your own bed. This place is getting less welcoming."
+msgstr ""
+"Vielleicht wärst du auf dem Festland … in deinem eigenen Bett … besser aufgehoben. An diesem Ort wird es immer ungemütlicher."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CAF6"
+msgid "Could they still be..."
+msgstr ""
+"Könnte die Person noch …?"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Pain Threshold
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB04"
+msgid "You push the rest of the thought through pain thick as molasses, without really concentrating on it."
+msgstr ""
+"Schmerzerfüllt zwingst du dich, den Gedanken zu Ende zu denken – die Worte zähflüssig wie Sirup –, ohne dich richtig auf ihn zu konzentrieren."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Endurance
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000720000796D"
+msgid "You didn't realize how tired you were. Your body is still nowhere near healed..."
+msgstr ""
+"Dir war gar nicht bewusst, wie erschöpft du warst. Noch immer ist dein Körper nicht ansatzweise genesen …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Pain Threshold
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000890000278A"
+msgid "A flash of pain interrupts you, making you grimace instead of spewing out the words."
+msgstr ""
+"Blitzartig einsetzender Schmerz unterbricht dich. Du verziehst das Gesicht zu einer Grimasse, anstatt weiterzusprechen."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001C9C8"
+msgid "No time to rest now. [Leave.]"
+msgstr ""
+"Ich habe gerade keine Zeit, mich auszuruhen. [Ende.]"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Alternate1/0x010000450001C9C8"
+msgid "\"No time to rest now.\" [Leave.]"
+msgstr ""
+"„Ich habe gerade keine Zeit, mich auszuruhen.“ [Ende.]"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Logic
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA46"
+msgid "Someone has been squatting here. Very recently."
+msgstr ""
+"Hier hat jemand übernachtet. Vor sehr kurzer Zeit."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA5C"
+msgid "It stands out because it's freshly washed."
+msgstr ""
+"Es fällt auf, weil es vor kurzem gewaschen worden ist."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100008900002775"
+msgid "\"How recently...\""
+msgstr ""
+"„Vor wie kurzer Zeit …?“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Pain Threshold
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB0A"
+msgid "A flash of pain interrupts your thought, making you grimace."
+msgstr ""
+"Blitzartig einsetzender Schmerz unterbricht deinen Gedanken. Du verziehst das Gesicht zu einer Grimasse."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x01000072000079C8"
+msgid "Pull your legs under your chin."
+msgstr ""
+"Du rollst dich eng zusammen, die Knie unterm Kinn."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000890000277B"
+msgid "\"Do you think whoever slept here is...\""
+msgstr ""
+"„Denkst du, die Person, die hier geschlafen hat, ist …“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x01000089000040BA"
+msgid "Curl up with your knees close to your chest."
+msgstr ""
+"Du rollst dich zusammen und ziehst die Knie eng an die Brust."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = You
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100008900002781"
+msgid "\"There are signs that someone... lives...\""
+msgstr ""
+"„Es gibt Anzeichen dafür, dass hier … jemand …“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x01000003000002D5"
+msgid "Sleep."
+msgstr ""
+"Schlaf."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Kim Kitsuragi
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CA3F"
+msgid "\"Someone has been squatting here.\" The lieutenant inspects the bed. \"The linen is fresh. Recently washed.\""
+msgstr ""
+"„Hier hat jemand übernachtet.“ Der Lieutenant inspiziert das Bett. „Das Bettzeug ist frisch. Vor kurzem gewaschen.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Kim Kitsuragi
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB48"
+msgid "\"The offer still stands,\" he says, looking out the pillbox window. \"Take it -- you don't look so good.\""
+msgstr ""
+"„Das Angebot steht noch“, sagt er, während er aus dem Bunkerfenster blickt. „Nehmen Sie es an – Sie sehen nicht besonders gut aus.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Inland Empire
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB20"
+msgid "The mattress is soggy, but that linen feels more inviting than the pain and exhaustion. It's not too cold here..."
+msgstr ""
+"Die Matratze ist feucht, aber dieses Bettzeug wirkt einladender als Schmerz und Erschöpfung. Und besonders kalt ist es hier auch nicht …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Pain Threshold
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CAAF"
+msgid "You force the rest of the sentence out through pain, thick as molasses, no longer able to hear yourself speak."
+msgstr ""
+"Schmerzerfüllt presst du den Rest des Satzes hervor. Die Worte sind zähflüssig wie Sirup. Du hörst dich selbst nicht mehr sprechen."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x010000450001CB76"
+msgid "The greasy old spring mattress lies in the corner."
+msgstr ""
+"Die schmierige alte Federmatratze liegt in der Ecke."
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Cuno
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100006B0000179C"
+msgid "\"What, you wanna like... live on this fucking island now?\" He crosses his arms. \"Go sleep in your own bed.\""
+msgstr ""
+"„Was? Willst du jetzt … auf dieser beschissenen Insel wohnen oder was?“ Er verschränkt die Arme. „Leg dich in deinem eigenen Bett pennen.“"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Spring Mattress
+msgctxt "Dialogue Text/0x01000072000079B0"
+msgid "You face the concrete wall. There's less light there, in the dark corner. Like a dog you lie there..."
+msgstr ""
+"Du drehst dich zur Betonwand. Dorthin, in die dunkle Ecke, fällt weniger Licht. Wie ein Hund liegst du da …"
+
+#. Title = SEAFORT INT / SPRING MATTRESS
+#. Description = (mattress interactable) (this is where you sleep)
+#. Actor = Cuno
+#. Conversant = Spring Mattress
+msgctxt "Dialogue Text/0x0100006B000017B0"
+msgid "\"Check this shit. Someone's been squatting here.\" The kid waves his hand at the bed. \"Cuno knows because this shit looks like Cuno's place.\""
+msgstr ""
+"„Schau dir bloß die Scheiße an. Hier hat wer gepennt.“ Das Kind deutet mit der Hand fuchtelnd auf das Bett. „Cuno weiß Bescheid, weil der Scheiß hier aussieht wie bei Cuno zu Hause.“"
