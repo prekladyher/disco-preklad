@@ -44,6 +44,19 @@
         </langSet>
       </termEntry>
       <termEntry id="PHS-3">
+        <descrip type="definition">[OK] víno</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Commodore Red</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Komodorovo červené</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-4">
         <descrip type="definition">[OK] drzý kluk</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -56,7 +69,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-4">
+      <termEntry id="PHS-5">
         <descrip type="definition">[OK] drzá holka</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -69,7 +82,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-5">
+      <termEntry id="PHS-6">
         <descrip type="definition">[OK] souhrnné hlášení o stavu případu apod.</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -82,7 +95,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-6">
+      <termEntry id="PHS-7">
         <descrip type="definition">[OK] lék</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -95,7 +108,20 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-7">
+      <termEntry id="PHS-8">
+        <descrip type="definition">[OK] paměťový předmět</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>filament memory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>kapilární paměť</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-9">
         <descrip type="definition">[OK] muž</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -108,7 +134,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-8">
+      <termEntry id="PHS-10">
         <descrip type="definition">[OK] ostrov</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -121,7 +147,20 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-9">
+      <termEntry id="PHS-11">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hardie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Valchař</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-12">
         <descrip type="definition">[OK] lék</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -134,7 +173,20 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-10">
+      <termEntry id="PHS-13">
+        <descrip type="definition">[OK] vládce Okcidentu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Innocence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Neposkvrněný</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-14">
         <descrip type="definition">[OK] svět hry</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -147,7 +199,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-11">
+      <termEntry id="PHS-15">
         <descrip type="definition">[OK] cosi jako světadíl, nebo planeta</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -160,7 +212,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-12">
+      <termEntry id="PHS-16">
         <descrip type="definition">[OK] Šprajcnutý kámen - fakt neprůchodná silniční zácpa</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -173,7 +225,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-13">
+      <termEntry id="PHS-17">
         <descrip type="definition">[OK] -y, ž. čtvrť v Revacholu</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -186,7 +238,33 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-14">
+      <termEntry id="PHS-18">
+        <descrip type="definition">[OK] podle Krase Mazova, komunistický politický názor</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mazovian</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>mazovistický</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-19">
+        <descrip type="definition">[OK] Republika Meska, její občan</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mesque</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Meskan</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-20">
         <descrip type="definition">[OK] místní auta, vypadají tak</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -199,7 +277,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-15">
+      <termEntry id="PHS-21">
         <descrip type="definition">[OK] nosní sprej; obnovuje zdraví</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -212,7 +290,46 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-16">
+      <termEntry id="PHS-22">
+        <descrip type="definition">[OK] subkontinent (cosi jako Západ - opak Orientu)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Occident</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Okcident</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-23">
+        <descrip type="definition">[OK] U kostky</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>off-site copy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>externí kopie</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-24">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Oranje</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Oranžsko</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-25">
         <descrip type="definition">[OK] terčíky, na které lze kliknout a objeví se popis věci</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -225,8 +342,8 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-17">
-        <descrip type="definition">-u, m.</descrip>
+      <termEntry id="PHS-26">
+        <descrip type="definition">[OK] -u, m.</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Ozonne</term>
@@ -238,7 +355,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-18">
+      <termEntry id="PHS-27">
         <descrip type="definition">[OK] bledá nicota obklopující izoly</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -251,7 +368,46 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-19">
+      <termEntry id="PHS-28">
+        <descrip type="definition">[OK] -a, m. mýtická postava , prvni Neposkvrněný, zakladatel Perikarnasénské církve</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Perikarnassian</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Perikarnasén</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-29">
+        <descrip type="definition">[OK] pivo</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Potent Pisner</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Silný ležák</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-30">
+        <descrip type="definition">[OK] úkol</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>radio computer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>rádiokomputer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-31">
         <descrip type="definition">[OK] Revacholská občanská milice</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -264,7 +420,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-20">
+      <termEntry id="PHS-32">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
@@ -277,9 +433,8 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-21">
-        <descrip type="definition">
-        </descrip>
+      <termEntry id="PHS-33">
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Rue de Saint-Ghislaine</term>
@@ -291,8 +446,21 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-22">
-        <descrip type="definition">výrobce léčiv</descrip>
+      <termEntry id="PHS-34">
+        <descrip type="definition">[OK] -y, ž.</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Safre</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Safra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-35">
+        <descrip type="definition">[OK] výrobce léčiv</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Saint-Batiste Pharmaceuticals</term>
@@ -304,8 +472,8 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-23">
-        <descrip type="definition">-y, ž.</descrip>
+      <termEntry id="PHS-36">
+        <descrip type="definition">[OK] -y, ž.</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Semenine</term>
@@ -317,8 +485,8 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-24">
-        <descrip type="definition">-u, m.</descrip>
+      <termEntry id="PHS-37">
+        <descrip type="definition">[OK] -u, m.</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Shest</term>
@@ -330,7 +498,7 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-25">
+      <termEntry id="PHS-38">
         <descrip type="definition">[OK] lahve, plechovky aj. do výkupu</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -343,9 +511,21 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-26">
-        <descrip type="definition">
-        </descrip>
+      <termEntry id="PHS-39">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Union (Débardeur's Union)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>odbory (Dokařské odbory)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-40">
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Voyager Road</term>
@@ -357,7 +537,20 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-27">
+      <termEntry id="PHS-41">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wayfarer Act</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Poutnický zákon</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="PHS-42">
         <descrip type="definition">[OK] hostel</descrip>
         <langSet xml:lang="en">
           <tig>
@@ -370,163 +563,16 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="PHS-28">
-        <descrip type="definition">
-        </descrip>
+      <termEntry id="PHS-43">
+        <descrip type="definition">firma, značka</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Wayfarer Act</term>
+            <term>Slipstream</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Poutnický zákon</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-29">
-        <descrip type="definition">-y, ž.</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Safre</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Safra</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-30">
-        <descrip type="definition">víno</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Commodore Red</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Komodorovo červené</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-31">
-        <descrip type="definition">pivo</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Potent Pisner</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Silný ležák</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-32">
-        <descrip type="definition">podle Krase Mazova, komunistický politický názor</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Mazovian</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>mazovistický</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-33">
-        <descrip type="definition">
-        </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Union (Débardeur's Union)</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>odbory (Dokařské odbory)</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-34">
-        <descrip type="definition">
-        </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Hardie</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Valchař</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-35">
-        <descrip type="definition">
-        </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Oranje</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Oranžsko</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-36">
-        <descrip type="definition">-a, m. mýtická postava , prvni Neposkvrněný, zakladatel Perikarnasénské církve</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Perikarnassian</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Perikarnasén</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-37">
-        <descrip type="definition">vládce Okcidentu</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Innocence</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Neposkvrněný</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-38">
-        <descrip type="definition">subkontinent (cosi jako Západ - opak Orientu)</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Occident</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Okcident</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="PHS-39">
-        <descrip type="definition">Republika Meska, její občan</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Mesque</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Meska, Meskan</term>
+            <term>Aerodynamik</term>
           </tig>
         </langSet>
       </termEntry>
