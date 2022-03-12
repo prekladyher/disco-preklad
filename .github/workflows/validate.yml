@@ -1,0 +1,18 @@
+name: validate
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '17'
+        cache: 'npm'
+    - run: npm install
+    - run: node scripts/l10n.js stats -sf source/l10n/cs/
