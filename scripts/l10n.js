@@ -1,9 +1,9 @@
-import { program } from "commander";
-import { copySource } from "./l10n/copy.js";
-import { calcStats, extractAsset } from "./l10n/main.js";
-import { mergeL10n } from "./l10n/merge.js";
 import chalk from "chalk";
+import { program } from "commander";
 import { inspect } from "util";
+import { copySource } from "./l10n/copy.js";
+import { calcStats, extractAsset, validateL10n } from "./l10n/main.js";
+import { mergeL10n } from "./l10n/merge.js";
 
 program
   .name("l10n")
@@ -42,6 +42,20 @@ program.command("stats")
         inspect(summary, { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: true }));
       const completion = summary.targetCount / summary.sourceCount;
       console.log(chalk.cyan("Completion: "), chalk.red(completion.toFixed(2) + " %"));
+    }
+  });
+
+program.command("validate")
+  .description("Perform basic translation file validation")
+  .argument("<base>", "base path (file or directory)")
+  .action(async (base) => {
+    const result = validateL10n(base);
+    result.forEach(([subpath, errors]) => {
+      console.log(`${chalk.green(subpath)}:`);
+      errors.forEach(error => console.log(chalk.yellow(`  ${error[0]}\t`), chalk.red(error[1])));
+    });
+    if (result.length) {
+      process.exit(1);
     }
   });
 
