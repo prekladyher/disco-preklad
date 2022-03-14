@@ -47,8 +47,10 @@ async function generateGlossary() {
     const rows = await sheet.getRows();
     var lastRow = sheet.headerValues[7]-1;
     let glossaryData = header;
+    let usedIds = [];
 
-    for(var i = 0; i < lastRow;i++){
+    for(var i = 0; i < lastRow;i++){            
+      let id = '';
       let poznamka = '';
       let vyraz = '';
       let preklad = '';
@@ -60,9 +62,20 @@ async function generateGlossary() {
       if (typeof rows[i].Překlad !== "undefined") { preklad = rows[i].Překlad.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
       if (rows[i].OK == "x") { schvaleno = "[OK] " }
       if (rows[i].aA == "x") { velikost = "[aA] " }
+    
+      let idx = usedIds.findIndex(el => el[0]===rows[i].Výraz);
+      if (idx !== -1) {
+        id = rows[i].Výraz+(usedIds[idx][1]+1);
+        usedIds[idx][1]++;
+      } else {
+        id = rows[i].Výraz;
+        usedIds.push([vyraz, 1]);   
+      }; 
 
-      glossaryData += '<termEntry id="PHS-'+[i]+'"><descrip type="definition">'+schvaleno+velikost+poznamka+'</descrip><langSet xml:lang="en"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
+
+      glossaryData += '<termEntry id="'+id+'"><descrip type="definition">'+schvaleno+velikost+poznamka+'</descrip><langSet xml:lang="en"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
     }
+
     
     glossaryData += footer;
     fs.writeFileSync(glossaryFile, prettifyXml(glossaryData));
