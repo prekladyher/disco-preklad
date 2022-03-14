@@ -35,7 +35,7 @@ program
 
       data.forEach(el => {
         deeplTranslate(el.msgid, function(translation) {    
-          el.msgstr = "DEEPL: "+translation.toString();
+          el.msgstr = "DEEPL: "+translation.toString().replace(/[^a-z\d]*$/gi, '');
           writeTextFile(sourceFile.replace('/l10n/' ,'/deepl/'), 'cs', data);  
           console.log('Translating... '+el.msgctxt);          
         });
@@ -52,7 +52,7 @@ program
 
         data.forEach(el => {
           deeplTranslate(el.msgid, function(translation) {    
-            el.msgstr = "DEEPL: "+translation.toString();
+            el.msgstr = "DEEPL: "+translation.toString().replace(/[^a-z\d]*$/gi, '')
             writeTextFile(sourceFile.replace('/l10n/' ,'/deepl/'), 'cs', data);  
             console.log('Translating... '+el.msgctxt);          
           });
