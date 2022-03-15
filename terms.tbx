@@ -618,6 +618,34 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="badge">
+        <descrip type="definition">je to pastová kartička</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>badge</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>průkaz</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="nom de guerre">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nom de guerre</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>
+            </term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
   </text>
 </martif>
