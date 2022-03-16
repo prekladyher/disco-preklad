@@ -641,8 +641,21 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>
-            </term>
+            <term>krycí jméno</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Yougo-Graad">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Yougo-Graad</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Jugo-Graad</term>
           </tig>
         </langSet>
       </termEntry>
