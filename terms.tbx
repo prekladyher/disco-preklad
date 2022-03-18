@@ -260,7 +260,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Meskan</term>
+            <term>Meskan, meskanský</term>
           </tig>
         </langSet>
       </termEntry>
@@ -656,6 +656,20 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Jugo-Graad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Egghead">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Egghead</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Žloutkohlav</term>
           </tig>
         </langSet>
       </termEntry>
