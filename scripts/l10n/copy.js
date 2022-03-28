@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import { decodeEntries } from "../text/main.js";
-import { writeTextFile } from "./utils.js";
+import { encodeTextFile, writeTextFile } from "./utils.js";
 
 export async function copySource(file, regexp) {
   const sourceEntries = decodeEntries((await fs.readFile(file)).toString());
@@ -14,5 +14,5 @@ export async function copySource(file, regexp) {
         return entry;
       }
     });
-  writeTextFile(file, "cs", processedEntries);
+  writeTextFile(file, encodeTextFile("cs", processedEntries));
 }

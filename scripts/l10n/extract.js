@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { decodeAsset } from "../game/main.js";
 import { decodeEntries } from "../text/main.js";
-import { writeTextFile, loadFileTree } from "./utils.js";
+import { writeTextFile, loadFileTree, encodeTextFile } from "./utils.js";
 
 /**
  * Translatable dialogue fields.
@@ -72,7 +72,7 @@ export function extractDialogue(source, base = "source/l10n") {
         .replace(/[^a-z0-9 \/_-]/ig, "") // remove invalid characters
         .replace(/ *\/ */g, "/"); // remove unwanted spaces around
       let subpath = path.join(path.dirname(namepath), id + " " + path.basename(namepath + ".pot"));
-      writeTextFile(path.join(base, "en/Dialogues", subpath), "en", messages);
+      writeTextFile(path.join(base, "en/Dialogues", subpath), encodeTextFile("en", messages));
     }
   }
 }
@@ -92,7 +92,7 @@ export function extractTemplate(category, source, base = "source/l10n") {
       msgstr: ""
     };
   }).filter(entry => !!entry.msgid);
-  writeTextFile(path.join(base, "en", category + ".pot"), "en", entries);
+  writeTextFile(path.join(base, "en", category + ".pot"), encodeTextFile("en", entries));
 }
 
 /**
@@ -112,6 +112,6 @@ export function extractLanguage(category, source, base = "source/l10n") {
           return { ...entry, msgstr: index[entry.msgctxt] };
         });
       const code = data.mSource.mLanguages[0].Code;
-      writeTextFile(path.join(base, code, subpath.substring(0, subpath.length - 1)), code, merged);
+      writeTextFile(path.join(base, code, subpath.substring(0, subpath.length - 1)), encodeTextFile(code, merged));
     });
 }

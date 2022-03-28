@@ -1,6 +1,7 @@
 import chalk from "chalk";
 import { program } from "commander";
 import { inspect } from "util";
+import { appendL10n } from "./l10n/append.js";
 import { copySource } from "./l10n/copy.js";
 import { calcStats, extractAsset, validateL10n } from "./l10n/main.js";
 import { mergeL10n } from "./l10n/merge.js";
@@ -61,11 +62,19 @@ program.command("validate")
 
 program.command("merge")
   .description("Merge translation into existing file")
-  .argument("<source>", "source translation file")
-  .argument("<target>", "target translation file")
+  .argument("<target>", "target translation file (merge target)")
+  .argument("<source>", "source translation file (merge overlay)")
   .option("-i, --ignore <ignore>", "file with ignored translations")
-  .action(async (source, target, options) => {
-    return mergeL10n(source, target, options.ignore);
+  .action(async (target, source, options) => {
+    return mergeL10n(target, source, options.ignore);
+  });
+
+program.command("append")
+  .description("Concatenate multiple translation files")
+  .argument("<files...>", "list of source files or directories")
+  .option("-c, --cleanup", "remove translation metadata / comments", false)
+  .action((files, options) => {
+    process.stdout.write(appendL10n(files, options.cleanup));
   });
 
 program.command("copy")

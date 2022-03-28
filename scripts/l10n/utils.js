@@ -4,8 +4,8 @@ import { encodeEntries } from "../text/main.js";
 
 /**
  * List all files under the base path starting with the given name.
- * @param {} base Base path.
- * @param {*} name Initial path name (starting point).
+ * @param {string} base Base path.
+ * @param {string} name Initial path name (starting point).
  * @returns List of all files.
  */
 export function loadFileTree(base, name) {
@@ -20,12 +20,11 @@ export function loadFileTree(base, name) {
 }
 
 /**
- * Write PO or POT language file.
- * @param {string} filename Target filename.
- * @param {*} language Translation language.
+ * Serialize PO entries with proper header.
+ * @param {string} Translation language.
  * @param {*} entries Translation entries.
  */
-export function writeTextFile(filename, language, entries) {
+export function encodeTextFile(language, entries) {
   const header = {
     msgid: "",
     msgstr: [
@@ -34,6 +33,15 @@ export function writeTextFile(filename, language, entries) {
       `Language: ${language}`
     ].join("\n")
   };
+  return encodeEntries([header, ...entries]) + "\n";
+}
+
+/**
+ * Write PO or POT language file.
+ * @param {string} filename Target filename.
+ * @param {string} content File content.
+ */
+export function writeTextFile(filename, content) {
   fs.mkdirSync(path.dirname(filename), { recursive: true });
-  fs.writeFileSync(filename, encodeEntries([header, ...entries]) + "\n");
+  fs.writeFileSync(filename, content);
 }

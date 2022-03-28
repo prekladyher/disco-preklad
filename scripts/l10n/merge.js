@@ -1,8 +1,8 @@
 import { promises as fs } from "fs";
 import { decodeEntries } from "../text/main.js";
-import { writeTextFile } from "./utils.js";
+import { encodeTextFile, writeTextFile } from "./utils.js";
 
-export async function mergeL10n(source, target, ignore) {
+export async function mergeL10n(target, source, ignore) {
   const sourceEntries = decodeEntries((await fs.readFile(source)).toString());
   const sourceIdx = Object.fromEntries(sourceEntries
       .filter(entry => !!entry.msgid)
@@ -24,5 +24,5 @@ export async function mergeL10n(source, target, ignore) {
         return entry;
       }
     });
-  writeTextFile(target, "cs", mergedEntries);
+  writeTextFile(target, encodeTextFile("cs", mergedEntries));
 }
