@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-04-03 11:58+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000056F1"
 msgid "Grab your chest."
 msgstr ""
+"Chytni se za hruď."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008C0"
 msgid "Still ongoing. Now is a good time to start worrying."
 msgstr ""
+"A trvá to dál. Teď je ten správný čas začít si dělat starosti."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000913F"
 msgid "You can take it. Just breathe."
 msgstr ""
+"Dokážeš si ji vzít. Jen dýchej."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000914D"
 msgid "Grab your chest."
 msgstr ""
+"Chytni se za hruď."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400000F78"
 msgid "The lights are off."
 msgstr ""
+"Světlo je zhasnuté."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009190"
 msgid "Still ongoing. Now is a good time to start worrying."
 msgstr ""
+"A pořád to pokračuje. Teď je ten správný čas začít si dělat starosti."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000007CF"
 msgid "The lights are off again."
 msgstr ""
+"Světlo je opět zhasnuté."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000007DB"
 msgid "The lights are on."
 msgstr ""
+"Světlo je rozsvícené."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008B0"
 msgid "Finally the stabbing recedes. You could try doing it again to see how painful it gets -- but you would probably die."
 msgstr ""
+"Nakonec bodání ustoupí Můžeš to zkusit udělat znovu, abys zjistil, jak moc to bude bolet -- ale pravděpodobně bys zemřel."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008C5"
 msgid "Finally the pressure recedes. You find yourself covered in cold sweat and trying not to move -- hoping it will keep you from dying."
 msgstr ""
+"Nakonec tlak ustoupí. Jsi celý zpocený a snažíš se nehýbat -- doufáš, že tě to ochrání před smrtí."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009138"
 msgid "You reach out to grab the tie... but what's this? Radiating chest pain! Fear washes over you."
 msgstr ""
+"Natáhneš ruku po kravatě... ale co je tohle? Pronikavá bolest v hrudníku! Zaplaví tě strach."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000056D3"
 msgid "You can take it. Just breathe in slowly."
 msgstr ""
+"Dokážeš si ji vzít. Jen pomalu dýchej."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008B6"
 msgid "This is bad. Feels like sharp stones grinding in your chest and keeping you from moving."
 msgstr ""
+"Tohle je špatné. Jako kdyby ti ostré kameny drtily hrudník a bránily ti v pohybu."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008BB"
 msgid "For quite a long time."
 msgstr ""
+"Na poměrně dlouhou dobu."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000009E7"
 msgid "You can take this one too. Just breathe in slowly."
 msgstr ""
+"Dokážeš si vzít i tuhle. Jen se pomalu nadechnij."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400000282"
 msgid "This fan has two chain pull switches -- one ends in a tiny fan, the other in a light bulb. A truly horrific necktie has somehow attached itself to one of the blades."
 msgstr ""
+"Tento ventilátor má dva řetízkové spínače - jeden je zakončen malým ventilátorem, druhý žárovkou. K jedné z lopatek se nějakým způsobem přichytila opravdu příšerná kravata."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400000F72"
 msgid "Little black spots dance on your retinas. It's almost pleasurable."
 msgstr ""
+"Na sítnici se ti roztančí malé černé tečky. Je to téměř příjemné."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000009F3"
 msgid "Grab your arm."
 msgstr ""
+"Chyť se za ruku."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000002CA"
 msgid "The blades come squeaking to a halt. It should be easier to reach the tie now."
 msgstr ""
+"Lopatky se se skřípěním zastaví. Teď by mělo být snazší dosáhnout na kravatu."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000004000002CA"
 msgid "The blades come squeaking to a halt. "
 msgstr ""
+"Lopatky se se skřípěním zastaví. "
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400005758"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001FCAB"
 msgid "An ominous, foreboding feeling fills you, as you look at the tie."
 msgstr ""
+"Při pohledu na kravatu tě přepadne zlověstný pocit plný zlé předtuchy."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009120"
 msgid "Oh no, it's happening again. You didn't catch it and now there's numbness in half your chest."
 msgstr ""
+"Ale ne, už se to zase děje. Nechytil jsi ji a teď máš znecitlivělou půlku hrudníku."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000091B9"
 msgid "Press your hands to your chest to make sure your heart is still beating okay."
 msgstr ""
+"Přitiskni si ruce na hrudník, aby ses ujistil, že ti srdce stále normálně tluče."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000880"
 msgid "Oh no, it's happening again. You didn't catch it and now there's numbness in your left arm, plus half your chest."
 msgstr ""
+"Ale ne, už se to zase děje. Nechytil jsi ji a teď máš necitlivou levou ruku a navíc půlku hrudníku."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001FCD4"
 msgid "Do it -- *if you want to die*, the stabbing pain in your chest is telling you. You're hanging by a thread here..."
 msgstr ""
+"Udělej to - *jestli chceš zemřít*, říká ti bodavá bolest v hrudi. Tvůj život visí na vlásku..."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000911A"
 msgid "Breathe in and out calmly."
 msgstr ""
+"Klidně se nadechni a vydechni."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009159"
 msgid "You can take this. It's not nearly as bad as the last time."
 msgstr ""
+"Můžeš si ji vzít. Není to tak zlé jako minule."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000056CB"
 msgid "You reach out to grab the tie... but what's this? Diffuse, radiating chest pain! Doom comes over you."
 msgstr ""
+"Natáhneš ruku po kravatě... ale co je tohle? Rozsáhlá, pronikavá bolest v hrudníku! Propadáš se do zkázy."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000002D1"
 msgid "Bring it on."
 msgstr ""
+"Nech to zapnuté."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400005677"
 msgid "Grab the tie."
 msgstr ""
+"Chytni kravatu."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100000400005677"
 msgid "Fan is turned off"
 msgstr ""
+"Ventilátor je vypnutý"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000007C0"
 msgid "The switch must be broken, because nothing happens. The air in the room is starting to feel like vaporized urine."
 msgstr ""
+"Spínač musí být rozbitý, protože se nic neděje. Vzduch v místnosti začíná připomínat vypařenou moč."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000917E"
 msgid "Finally the pressure recedes. You find yourself covered in cold sweat. Try not to move too fast -- maybe that will keep you from collapsing."
 msgstr ""
+"Nakonec tlak ustoupí. Jsi celý zpocený. Snaž se nehýbat příliš rychle - možná tě to uchrání před kolapsem."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000778"
 msgid "What you have in your hand is a fantastically colourful tie, with four or five different patterns. The knot reminds you of a noose."
 msgstr ""
+"To, co držíš v ruce, je fantasticky barevná kravata se čtyřmi nebo pěti různými vzory. Uzel ti tak trochu připadá jako oprátka."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000792"
 msgid "Pull on the light bulb."
 msgstr ""
+"Zatáhní za řetízek se žárovkou."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000009FB"
 msgid "The fan is spinning."
 msgstr ""
+"Ventilátor se točí."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000027000009FB"
 msgid "The fan stands still."
 msgstr ""
+"Ventilátor se nehýbe."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000912C"
 msgid "Still happening."
 msgstr ""
+"Pořád se to děje."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400005697"
 msgid "Your eyes burn with photosensitivity. It's not good."
 msgstr ""
+"Tvé oči hoří fotosenzitivitou. To není dobré."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400000F18"
 msgid "Or has it been consigned there as punishment? You feel as though this creature is your *friend* and wants to reattach itself to your neck. So that you may continue your adventures together in this strange world!"
 msgstr ""
+"Nebo sem bylo posláno za trest? Máš pocit, jako by to stvoření bylo tvým přítelem a chtělo se ti znovu přitisknout na krk. Abyste mohli pokračovat ve společných dobrodružstvích v tomto podivném světě!"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400000F66"
 msgid "You swoop up and catch the tie... Snap! It's released from the blade."
 msgstr ""
+"Vyskočíš nahoru a chytíš kravatu... Chňap! Uvolní se z lopatky."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400000F66"
 msgid "You swoop up and catch the tie... snap! It's released from the blade. WARNING! WARNING! The necktie is no longer contained.\n"
 msgstr ""
+"Vyskočíš nahoru a chytíš kravatu... Chňap! Uvolní se z lopatky. POZOR! POZOR! Kravata již není obsažena.\n"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400005685"
 msgid "It's just a little hangover-induced photosensitivity. Don't over-react."
 msgstr ""
+"Je to jen malá fotosenzitivita způsobená kocovinou. Nereaguj přehnaně."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009153"
 msgid "Finally the stabbing recedes. You could try doing it again to see how painful it gets. (Very.) But do you really want to risk it?"
 msgstr ""
+"Nakonec bodání ustoupí. Můžeš to zkusit udělat znovu, abys zjistil, jak moc to bude bolet. (Velmi.) Ale opravdu to chceš riskovat?"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009169"
 msgid "It's worse this time. Maybe you should stop trying to catch the tie?"
 msgstr ""
+"Tentokrát je to horší. Možná by ses měl přestat snažit chytit tu kravatu?"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000056F7"
 msgid "Breathe in calmly."
 msgstr ""
+"Klidně se nadechni."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008D8"
 msgid "None of these is a real heart attack. This is such a joke. You should probably just exercise more."
 msgstr ""
+"Nic z toho není skutečný infarkt. Je to jen nějaká prkotina. Asi bys měl víc cvičit."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009145"
 msgid "Still bad. Definitely worse than the last time."
 msgstr ""
+"Stále špatné. A rozhodně horší než minule."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009174"
 msgid "This is not a *real* heart attack. This is a joke. It's probably just your lungs or your oesophagus. The oesophagus does practically nothing."
 msgstr ""
+"Nejedná se o *skutečný* infarkt. Je to jen nějaká prkotina. Pravděpodobně jde jen o plíce nebo jícen. Jícen prakticky nic nedělá."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000918A"
 msgid "This is bad. Feels like sharp stones grinding in your chest and keeping you from moving."
 msgstr ""
+"Tohle je špatné. Jako kdyby ti ostré kameny drtily hrudník a bránily ti v pohybu."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000089E"
 msgid "It's even worse this time. Maybe you should stop trying to catch the tie?"
 msgstr ""
+"Tentokrát je to horší. Možná by ses měl přestat snažit chytit tu kravatu?"
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000902"
 msgid "If it's your *friend*, why was it up there? Who ties their friend to a ceiling fan? Maybe this thing is dangerous somehow..."
 msgstr ""
+"Pokud je to tvůj *přítel*, proč byl nahoře? Kdo přivazuje svého přítele ke stropnímu ventilátoru? Možná je ta věc nějak nebezpečná..."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000002C0"
 msgid "A terrible mistake! Turn the lights off IMMEDIATELY! You can practically feel the photons burning a hole in your brain."
 msgstr ""
+"Strašná chyba! Okamžitě zhasni světlo! Prakticky cítíš, jak ti fotony vypalují díru do mozku."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000002D8"
 msgid "Pull again to turn the lights off."
 msgstr ""
+"Zatáhni znovu, aby se světlo vypnulo."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001FCC3"
 msgid "You know what you should do? You should stop the fan and then try again, it'll get easier."
 msgstr ""
+"Víš, co bys měl udělat? Měl bys ventilátor zastavit a pak to zkusit znovu, bude to snazší."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -459,6 +523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009184"
 msgid "For quite a long time."
 msgstr ""
+"Na poměrně dlouhou dobu."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -467,6 +532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000078A"
 msgid "Pull on the fan."
 msgstr ""
+"Zatáhní za řetízek s větrákem."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -475,6 +541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008D3"
 msgid "This is not a *real* heart attack. This is a joke. It's probably just your lungs or your oesophagus. The oesophagus does practically nothing."
 msgstr ""
+"Nejedná se o *skutečný* infarkt. Je to jen nějaká prkotina. Pravděpodobně jde jen o plíce nebo jícen. Jícen prakticky nic nedělá."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -483,6 +550,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000780"
 msgid "What you have in your hand is a truly hideous necktie, with four or five different patterns. The knot reminds you of a noose."
 msgstr ""
+"To, co držíš v ruce, je opravdu ohavná kravata se čtyřmi nebo pěti různými vzory. Uzel ti tak trochu připadá jako oprátka."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -491,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000008AA"
 msgid "Still happening. Definitely worse than the last time."
 msgstr ""
+"Stále se to děje. Je to rozhodně horší než minule."
 
 #. Title = WHIRLING / CEILING FAN
 #. Description = The ceiling fan is spinning like the blades of some rickety old airship about to fall on you. A truly horrendous neck-tie has somehow attached itself to one of the blades.
@@ -499,3 +568,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009132"
 msgid "This isn't a real heart attack. You should probably just exercise more."
 msgstr ""
+"Tohle není skutečný infarkt. Pravděpodobně bys měl jen více cvičit."
