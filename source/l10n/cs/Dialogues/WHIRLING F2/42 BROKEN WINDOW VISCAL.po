@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-04-03 19:36+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4DF"
 msgid "Something you've done before."
 msgstr ""
+"Něco, co jsi už dělal."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B841"
 msgid "You mean someone else took your shoe off and smashed the window with it?"
 msgstr ""
+"Chceš říct, že ti někdo jiný sundal botu a rozbil s ní okno?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C55E"
 msgid "What do you mean *assess the damage*? How would you do that? What are you even trying to do?"
 msgstr ""
+"Co myslíš tím *vyhodnoť škodu*? Jak bys to udělal? Co se vůbec snažíš udělat?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C457"
 msgid "This person also *forced* the drinks on you."
 msgstr ""
+"Tato osoba ti také *vnutila* pití."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C52A"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B834"
 msgid "Congratulations, you smashed the window with your own shoe."
 msgstr ""
+"Gratuluji, rozbil jsi to okno vlastní botou."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B857"
 msgid "I'm sure I had a good reason for it. Maybe I was trying to hit someone?"
 msgstr ""
+"Určitě jsem k tomu měl dobrý důvod. Možná jsem se snažil někoho zasáhnout?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C49D"
 msgid "A fine web of scarring covers the back of your right hand, but none of it is recent."
 msgstr ""
+"Hřbet tvé pravé ruky pokrývá hustá síť jizev, ale žádná z nich není čerstvá."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4CF"
 msgid "Like the green shoe that's on the hat rack in the corner, which -- coincidentally -- is missing its friend."
 msgstr ""
+"Třeba ta zelená bota na věšáku v rohu, které -- shodou okolností -- chybí kamarádka."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C475"
 msgid "What did this then?"
 msgstr ""
+"Co to tedy udělalo?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4B1"
 msgid "More likely a projectile than a held object. There are no fragments on the floor from pulling a tool back in after impact."
 msgstr ""
+"Spíše projektil než uchopená věc. Na podlaze nejsou žádné úlomky, které by vznikly při vtahování předmětu zpět po úderu."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C54F"
 msgid "Assess the damage."
 msgstr ""
+"Vyhodnoť škodu."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000040000C54F"
 msgid "Has been here a while."
 msgstr ""
+"Už je tu nějakou dobu."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "tooltip2/0x010000040000C54F"
 msgid "The lights are on!"
 msgstr ""
+"Světla svítí!"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C581"
 msgid "I should go and get that shoe."
 msgstr ""
+"Měl bych si pro tu botu dojít."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C51E"
 msgid "Look out."
 msgstr ""
+"Podívej se ven."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C48A"
 msgid "You mean someone else took your shoe off and smashed the window with it?"
 msgstr ""
+"Chceš říct, že ti někdo jiný sundal botu a rozbil s ní okno?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B82D"
 msgid "The shoe you found out on the balcony fits the hole almost as well as your foot. It would have also been heavy enough, if thrown with force."
 msgstr ""
+"Bota, kterou jsi našel na balkoně, se do té díry hodí skoro stejně dobře jako tvoje noha. Byla by také dostatečně těžká, kdyby byla hozena silou."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C45D"
 msgid "Congratulations, you smashed the window with your own shoe. Now you only have one. If you're lucky you can still find the other on the balcony outside. The door to it should be outside your room."
 msgstr ""
+"Gratuluji, rozbil jsi to okno vlastní botou. Teď máš jen jednu. Pokud budeš mít štěstí, můžeš druhou najít venku na balkoně. Dveře na něj by měly být před tvým pokojem."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C497"
 msgid "The shards face outward. Whatever broke this window came from the inside."
 msgstr ""
+"Střepy směřují ven. Ať už okno rozbilo cokoli, přišlo to zevnitř."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4E5"
 msgid "Did I break it with my own hands? (Look at them.)"
 msgstr ""
+"Rozbil jsem ho vlastníma rukama? (Podívejte se na ně.)"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B83B"
 msgid "This person also *forced* the drinks on you."
 msgstr ""
+"Tato osoba ti také *vnutila* pití."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C591"
 msgid "A cool wind gushes in. Your toes curl up from the cold."
 msgstr ""
+"Dovnitř vane chladný vítr. Prsty na nohou se ti kroutí zimou."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B847"
 msgid "Maybe it wasn't me?"
 msgstr ""
+"Možná jsem to nebyl já?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C47D"
 msgid "Maybe it wasn't me?"
 msgstr ""
+"Možná jsem to nebyl já?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4C9"
 msgid "Assess the size of the impact."
 msgstr ""
+"Posuď rozsah nárazu."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B81C"
 msgid "The morning light hurts your eyes. It's hazy, but you see the ocean and some war-torn buildings..."
 msgstr ""
+"Z ranního světla tě bolí oči. Je mlhavo, ale vidíš oceán a několik válkou zničených budov..."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580001B81C"
 msgid "You see some lights shimmering outside, but it's difficult to make out the outlines of the buildings below -- dark phantoms with many tiny eyes chaotically arranged and not looking at you."
 msgstr ""
+"Venku se mihotají světla, ale je těžké rozeznat obrysy budov pod tebou - tmavé přízraky s mnoha chaoticky rozmístěnými malými očky, která se na tebe nedívají."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B86B"
 msgid "Or maybe you were trying to smash your own reflection in the windowpane?"
 msgstr ""
+"Nebo jsi možná chtěl rozbít svůj vlastní odraz v okenní tabulce?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4BD"
 msgid "It is too large for a bullet yet too small for a piece of furniture. You're looking for something heavy and larger than your fist."
 msgstr ""
+"Je příliš velký na kulku, ale příliš malý na kus nábytku. Hledáš něco těžkého a většího než tvá pěst."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C589"
 msgid "The window agrees. Its cracked smile is cold and sparkly."
 msgstr ""
+"Okno souhlasí. Jeho popraskaný úsměv je chladný a jiskřivý."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B87B"
 msgid "Not that it will keep you warm at night. Brrr."
 msgstr ""
+"Ne že by tě to v noci zahřálo. Brrr."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000A94"
 msgid "Congratulations, you smashed the window with your own shoe."
 msgstr ""
+"Gratuluji, rozbil jsi to okno vlastní botou."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C57B"
 msgid "I don't need it. I don't need *anyone*."
 msgstr ""
+"Nepotřebuju ji. Nepotřebuju *nikoho*."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B85E"
 msgid "What a stupid thing to do."
 msgstr ""
+"To je ale hloupost."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C4C3"
 msgid "The single green shoe you found fits the hole almost as well as your foot. It would have also been heavy enough, if thrown with force."
 msgstr ""
+"Jediná zelená bota, kterou jsi našel, padne do díry téměř stejně dobře jako tvoje noha. Byla by také dostatečně těžká, kdyby byla hozena silou."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C50E"
 msgid "The window stands broken in its frame. Cold wind blows in."
 msgstr ""
+"Okno visí rozbité v rámu. Dovnitř vane studený vítr."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B883"
 msgid "Congratulations, you smashed the window with your own shoe. Now you only have one. If you're lucky, you can still find the other on the balcony outside. The door to it should be outside your room."
 msgstr ""
+"Gratuluji, rozbil jsi to okno vlastní botou. Teď máš jen jednu. Pokud budeš mít štěstí, můžeš druhou najít venku na balkoně. Dveře na něj by měly být před tvým pokojem."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580001B883"
 msgid "Congratulations, you smashed the window with your own shoe. That's why you only have one. If you're lucky, you might still find the other on the balcony outside. The door to it should be outside your room."
 msgstr ""
+"Gratuluji, rozbil jsi to okno vlastní botou."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C469"
 msgid "Wait, what am I doing?"
 msgstr ""
+"Počkat, co to dělám?"
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B864"
 msgid "And maybe, just maybe, you succeeded. We'll never know."
 msgstr ""
+"A možná, jen možná, se ti to podařilo. To se nikdy nedozvíme."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001B874"
 msgid "Pretty much. But, hey, at least you found your shoe."
 msgstr ""
+"V podstatě. Ale aspoň jsi našel svou botu."
 
 #. Title = WHIRLING F2 / BROKEN WINDOW VISCAL
 #. Description = A medium Viscal sees the shards are facing outwards.
@@ -347,3 +397,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000A8E"
 msgid "The shoe you found out on the balcony fits the hole almost as well as your foot. It's similar to the green shoe that's on the hat rack in the corner, which -- coincidentally -- is missing its friend."
 msgstr ""
+"Bota, kterou jsi našel na balkoně, se do té díry hodí skoro stejně dobře jako tvoje noha. Je podobná zelené botě, která je na věšáku na klobouky v rohu a které - shodou okolností - chybí kamarádka."
