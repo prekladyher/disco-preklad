@@ -42,7 +42,7 @@ program.command("stats")
         chalk.cyan(`Summary: `),
         inspect(summary, { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: true }));
       const completion = summary.targetCount / summary.sourceCount;
-      console.log(chalk.cyan("Completion: "), chalk.red(completion.toFixed(2) + " %"));
+      console.log(chalk.cyan("Completion: "), chalk.red((completion * 100).toFixed(2) + " %"));
     }
   });
 
