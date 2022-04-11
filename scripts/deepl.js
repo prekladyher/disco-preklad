@@ -26,6 +26,7 @@ function deeplTranslate(string, callback){
 program
   .option('-f, --file <string>', 'File to translate')
   .option('-d, --dir <string>', 'Dir to translate')
+  .option('-nm, --nomark', 'No deepl marking')
   .action((options) => {
 
     if (options.file){
@@ -35,7 +36,8 @@ program
 
       data.forEach(el => {
         deeplTranslate(el.msgid, function(translation) {    
-          el.msgstr = "DEEPL: "+translation.toString().replace(/[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z\d]*$/gi, '');
+          if (!options.nomark) el.msgstr = "DEEPL: ";
+          el.msgstr = el.msgstr+translation.toString().replace(/[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z\d]*$/gi, '');
           writeTextFile(sourceFile.replace('/l10n/' ,'/deepl/'), 'cs', data);  
           console.log('Translating... '+el.msgctxt);          
         });
@@ -51,8 +53,9 @@ program
         let data = decodeEntries(fs.readFileSync(sourceFile).toString()).filter(entry => !!entry.msgid); 
 
         data.forEach(el => {
-          deeplTranslate(el.msgid, function(translation) {    
-            el.msgstr = "DEEPL: "+translation.toString().replace(/[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z\d]*$/gi, '')
+          deeplTranslate(el.msgid, function(translation) {  
+            if (!options.nomark) el.msgstr = "DEEPL: "; 
+            el.msgstr = el.msgstr+translation.toString().replace(/[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z\d]*$/gi, '')
             writeTextFile(sourceFile.replace('/l10n/' ,'/deepl/'), 'cs', data);  
             console.log('Translating... '+el.msgctxt);          
           });
