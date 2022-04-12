@@ -7,7 +7,7 @@ on:
 
 jobs:
   generate:
-    runs-on: windows-2022
+    runs-on: ubuntu-latest
     env: 
       GGCLIENT_EMAIL: ${{ secrets.GGCLIENT_EMAIL }}
       GGPRIVATE_KEY: ${{ secrets.GGPRIVATE_KEY }}       
