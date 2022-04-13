@@ -24,7 +24,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "<>"
           git add terms.tbx
-          git commit -m "Glossary file update"
+          git commit -m "Glossary file update" || echo "Nothing to commit"
           git push
 
 
