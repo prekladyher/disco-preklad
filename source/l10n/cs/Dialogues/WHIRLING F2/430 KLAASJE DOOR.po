@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-04-13 21:25+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -45,6 +53,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C36A"
 msgid "Knock again."
 msgstr ""
+"Zaklepej znovu."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -52,6 +61,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EDEA"
 msgid "Knock."
 msgstr ""
+"Zaklepej."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -59,6 +69,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000EDEA"
 msgid "Knock once more."
 msgstr ""
+"Zaklep ještě jednou."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -73,6 +84,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C319"
 msgid "There is no answer."
 msgstr ""
+"Žádné odpověď."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -108,6 +120,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C380"
 msgid "Knock again, much harder."
 msgstr ""
+"Zaklepej znovu, mnohem silněji."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -115,6 +128,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C305"
 msgid "This door can only be opened with a key or from the inside."
 msgstr ""
+"Tyto dveře lze otevřít pouze klíčem nebo zevnitř."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -143,6 +157,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C2D1"
 msgid "Try the handle."
 msgstr ""
+"Zkus kliku."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -150,6 +165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C2DD"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -213,6 +229,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F37B"
 msgid "Knock..."
 msgstr ""
+"Zaklepej..."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -262,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C2D7"
 msgid "Knock."
 msgstr ""
+"Zaklepej."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -283,6 +301,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C326"
 msgid "You hear the shower being turned on, somewhere inside."
 msgstr ""
+"Slyšíš, jak se někde uvnitř spustí sprcha."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -374,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F3B8"
 msgid "There is no answer -- it's nighttime, officer."
 msgstr ""
+"Žádné odpověď -- je noc, důstojníku."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -395,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000C371"
 msgid "Still no answer."
 msgstr ""
+"Pořád žádná odpověď."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -430,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F389"
 msgid "Knock..."
 msgstr ""
+"Zaklepej..."
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
@@ -465,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EDF0"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING F2 / KLAASJE DOOR
 #. Description = When the dialogue with Klaasje is over you can go and click and her door.
