@@ -58,7 +58,7 @@ program
           deeplTranslate(el.msgid, function(translation) {  
             if (options.nomark) mark = "";
             el.msgstr = mark+translation.toString().replace(/[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z]*$/gi, '');
-            writeTextFile(sourceFile.replace('/l10n/' ,'/deepl/'), 'cs', data);  
+            writeTextFile(sourceFile.replace('/l10n/' ,'/deepl/'), encodeTextFile('cs', data));  
             console.log('Translating... '+el.msgctxt);          
           });
         })
