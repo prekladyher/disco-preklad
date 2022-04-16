@@ -25,7 +25,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>bufet</term>
+            <term>hostel</term>
           </tig>
         </langSet>
       </termEntry>
@@ -122,7 +122,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Garte">
-        <descrip type="definition">[OK] muž</descrip>
+        <descrip type="definition">[OK] muž, manažer hostelu VYKAT</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Garte</term>
@@ -690,6 +690,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Nový styl</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Klaasje">
+        <descrip type="definition">mladá žena, VYKAT</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Klaasje</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Klaasje</term>
           </tig>
         </langSet>
       </termEntry>
