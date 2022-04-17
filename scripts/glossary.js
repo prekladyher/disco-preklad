@@ -45,10 +45,10 @@ async function generateGlossary() {
     console.log('DOCS: '+doc.title);
     const sheet = doc.sheetsByIndex[0]; // use doc.sheetsByIndex[0] or doc.sheetsById[id] or doc.sheetsByTitle[title]
     const rows = await sheet.getRows();
-    var lastRow = sheet.headerValues[7]-1;
+    var lastRow = sheet.headerValues[8]-1;
     let glossaryData = header;
     let usedIds = [];
-
+      
     for(var i = 0; i < lastRow;i++){            
       let id = '';
       let poznamka = '';
@@ -58,12 +58,16 @@ async function generateGlossary() {
       let velikost = '';
       let tykani = '';
 
+
       if (typeof rows[i].Poznámka !== "undefined") { poznamka = rows[i].Poznámka.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
       if (typeof rows[i].Výraz !== "undefined") { vyraz = rows[i].Výraz.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
       if (typeof rows[i].Překlad !== "undefined") { preklad = rows[i].Překlad.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
       if (rows[i].OK == "x") { schvaleno = "[OK] " }
       if (rows[i].aA == "x") { velikost = "[aA] " }
-      if (rows[i].TV.toUpperCase() == "T") { tykani = "[TYKAT]" } else if (rows[i].TV.toUpperCase() == "V") { tykani = "[VYKAT]" };
+      if (typeof rows[i].TV !== "undefined") {  
+        if (rows[i].TV.toUpperCase() == "T") { tykani = "[TYKAT]" } 
+        else if (rows[i].TV.toUpperCase() == "V") { tykani = "[VYKAT]" }
+      }    
     
       let idx = usedIds.findIndex(el => el[0]===rows[i].Výraz);
       if (idx !== -1) {
@@ -73,7 +77,6 @@ async function generateGlossary() {
         id = rows[i].Výraz;
         usedIds.push([vyraz, 1]);   
       }; 
-
 
       glossaryData += '<termEntry id="'+id+'"><descrip type="definition">'+schvaleno+velikost+tykani+poznamka+'</descrip><langSet xml:lang="en"><tig><term>'+vyraz+'</term></tig></langSet><langSet xml:lang="cs"><tig><term>'+preklad+'</term></tig></langSet></termEntry>';
     }
