@@ -42,7 +42,7 @@ import { loadFileTree } from "./utils.js";
  * Save basic translation file statistics to google sheet.
   * @param {*} stats from calcStats.
  */
- export async function saveStats(stats) {
+ export async function saveStats(stats,push) {
   const doc = new GoogleSpreadsheet('13b_-JIIObwzcUg_ujiP-_5wT-V6_lqIc8r7mVRDj6-k');
   await doc.useServiceAccountAuth({
       client_email: process.env.GGCLIENT_EMAIL,
@@ -70,9 +70,11 @@ import { loadFileTree } from "./utils.js";
       sheet2.getCell(1,5).value = file[1].targetCount / file[1].sourceCount;    
     }  
   });  
-  await sheet.saveUpdatedCells();
-  await sheet2.saveUpdatedCells();
-  console.log("Saving stats done.");
+  if (push) {
+    await sheet.saveUpdatedCells();
+    await sheet2.saveUpdatedCells();
+    console.log("Saving stats done.");  
+  }  
 }  
   
   

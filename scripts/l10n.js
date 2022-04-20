@@ -32,8 +32,7 @@ program.command("stats")
         console.log(
           chalk.green(`${file[0]}:\t`),
           inspect(file[1], { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: true }));
-      });
-      saveStats(stats);
+      });      
     }
     if (options.summary) {
       const summary = stats.map(it => it[1]).reduce((acc, cur) => {
@@ -46,6 +45,13 @@ program.command("stats")
       console.log(chalk.cyan("Completion: "), chalk.red((completion * 100).toFixed(2) + " %"));
     }
   });
+
+program.command("statspush")  
+  .description("Edit stats in google sheet")
+  .option("-p, --push", "save stats")
+  .action((options) => {
+    saveStats(calcStats("source/l10n/cs/"),options.push);
+  });    
 
 program.command("validate")
   .description("Perform basic translation file validation")
