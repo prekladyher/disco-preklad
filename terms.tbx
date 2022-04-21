@@ -160,11 +160,11 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Hypnogammma">
+      <termEntry id="Hypnogamma">
         <descrip type="definition">[OK] lék</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Hypnogammma</term>
+            <term>Hypnogamma</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
@@ -694,7 +694,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Klaasje">
-        <descrip type="definition">[VYKAT]mladá žena, VYKAT</descrip>
+        <descrip type="definition">[OK] [VYKAT]mladá žena, VYKAT</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Klaasje</term>
@@ -703,6 +703,33 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Klaasje</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Sao">
+        <descrip type="definition">národnost</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sao</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Saoan, saoanský</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Measurehead">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Measurehead</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Hlavoměr</term>
           </tig>
         </langSet>
       </termEntry>
