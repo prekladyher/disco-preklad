@@ -8,6 +8,9 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    env: 
+      GGCLIENT_EMAIL: ${{ secrets.GGCLIENT_EMAIL }}
+      GGPRIVATE_KEY: ${{ secrets.GGPRIVATE_KEY }}   
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v2
