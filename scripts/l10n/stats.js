@@ -56,15 +56,15 @@ import { loadFileTree } from "./utils.js";
   let index = 0;
 
   stats.forEach(file => {
-    index = 0;      
-    for (let i = 1; i < sheet.rowCount;i++) {             
-      if (sheet.getCell(i,0).value.includes(file[0])) {
-        index = i;  
+    index = 0;  
+    for (let i = 1; i < sheet.rowCount;i++) {   
+      if (sheet.getCell(i,0).value.includes(file[0].replace(/^Dialogues\\/, ''))) {
+        index = i;          
         break;        
       }  
     }  
     if (index!=0){
-      sheet.getCell(index,5).value = file[1].targetCount / file[1].sourceCount;        
+      sheet.getCell(index,5).value = file[1].targetCount / file[1].sourceCount;
     }  
     if (file[0]=="General.po") {
       sheet2.getCell(1,5).value = file[1].targetCount / file[1].sourceCount;    
