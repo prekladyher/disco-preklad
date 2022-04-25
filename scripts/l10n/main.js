@@ -21,7 +21,7 @@ export function extractAsset(filename, base = "source/l10n") {
   }
 }
 
-export { calcStats } from "./stats.js";
+export { calcStats, saveStats } from "./stats.js";
 
 export { mergeL10n } from "./merge.js";
 

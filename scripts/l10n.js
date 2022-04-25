@@ -3,7 +3,7 @@ import { program } from "commander";
 import { inspect } from "util";
 import { appendL10n } from "./l10n/append.js";
 import { copySource } from "./l10n/copy.js";
-import { calcStats, extractAsset, validateL10n } from "./l10n/main.js";
+import { calcStats, saveStats, extractAsset, validateL10n } from "./l10n/main.js";
 import { mergeL10n } from "./l10n/merge.js";
 
 program
@@ -32,7 +32,7 @@ program.command("stats")
         console.log(
           chalk.green(`${file[0]}:\t`),
           inspect(file[1], { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: true }));
-      });
+      });      
     }
     if (options.summary) {
       const summary = stats.map(it => it[1]).reduce((acc, cur) => {
@@ -45,6 +45,13 @@ program.command("stats")
       console.log(chalk.cyan("Completion: "), chalk.red((completion * 100).toFixed(2) + " %"));
     }
   });
+
+program.command("statspush")  
+  .description("Edit stats in google sheet")
+  .option("-p, --push", "save stats")
+  .action((options) => {
+    saveStats(calcStats("source/l10n/cs/"),options.push);
+  });    
 
 program.command("validate")
   .description("Perform basic translation file validation")

@@ -16,6 +16,7 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: node scripts/l10n.js stats -sf source/l10n/cs/
+    - run: node scripts/l10n.js statspush -p
     - run: node scripts/l10n.js validate source/l10n/cs/
     - run: ./build.sh
       shell: bash
