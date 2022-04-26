@@ -104,7 +104,7 @@ const LanguageSourceAsset = {
     { name: "GoogleInEditorCheckFrequency", type: "int" },
     { name: "GoogleUpdateSynchronization", type: "int" },
     { name: "GoogleUpdateDelay", type: "float", value: 0 },
-    { name: "Assets" , type: "PPtr[]" },
+    { name: "Assets", type: "PPtr[]" },
   ],
   TermData: [
     { name: "Term", type: "string" },

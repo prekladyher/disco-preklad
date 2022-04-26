@@ -3,7 +3,7 @@ import { program } from "commander";
 import deepl from "deepl-node";
 import * as auth from "./auth.js";
 import { decodeEntries } from "./text/main.js";
-import { encodeTextFile,writeTextFile } from "./l10n/utils.js";
+import { encodeTextFile, writeTextFile } from "./l10n/utils.js";
 
 const sourceDirBase = "./source/l10n/cs/Dialogues/";
 const translator = new deepl.Translator(auth.deeplAuth);
@@ -20,7 +20,7 @@ function translate(sourceFile, nomark) {
       .then((result) => {
         if (nomark) mark = "";
         el.msgstr = mark + result.text.toString().replace(/[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z]*$/gi, "");
-        writeTextFile(sourceFile.replace("/l10n/" ,"/deepl/"), encodeTextFile("cs", data));
+        writeTextFile(sourceFile.replace("/l10n/", "/deepl/"), encodeTextFile("cs", data));
         console.log("Translating... " + el.msgctxt);
       })
       .catch((error) => {

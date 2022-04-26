@@ -8,9 +8,9 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    env: 
-      GGCLIENT_EMAIL: ${{ secrets.GGCLIENT_EMAIL }}
-      GGPRIVATE_KEY: ${{ secrets.GGPRIVATE_KEY }}   
+    env:
+      GS_CLIENT_EMAIL: ${{ secrets.GS_CLIENT_EMAIL }}
+      GS_PRIVATE_KEY: ${{ secrets.GS_PRIVATE_KEY }}
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v2
@@ -18,8 +18,7 @@ jobs:
         node-version: '17'
         cache: 'npm'
     - run: npm install
-    - run: node scripts/l10n.js stats -sf source/l10n/cs/
-    - run: node scripts/l10n.js statspush -p
+    - run: node scripts/l10n.js stats -sfp source/l10n/cs/
     - run: node scripts/l10n.js validate source/l10n/cs/
     - run: ./build.sh
       shell: bash
