@@ -21,7 +21,7 @@ function encodeEntry(entry, wrap) {
   const result = [];
   for (let type of COMMENT_TYPES) {
     if (entry[type] !== undefined) {
-      entry[type].split('\n').forEach(line => result.push(`${type} ${line}`));
+      entry[type].split("\n").forEach(line => result.push(`${type} ${line}`));
     }
   }
   for (let attr of FIELD_TYPES) {
@@ -29,7 +29,7 @@ function encodeEntry(entry, wrap) {
       result.push(`${attr} ${wrapValue(entry[attr], attr === "msgstr")}`);
     }
   }
-  return result.join('\n');
+  return result.join("\n");
 }
 
 function wrapValue(value, force = false) {

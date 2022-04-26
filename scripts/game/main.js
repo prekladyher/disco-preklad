@@ -8,6 +8,6 @@ import schema from "./schema.js";
  * @returns Decoded result asset object.
  */
 export function decodeAsset(type, data) {
-    const resolve = resolver(schema);
-    return resolve(type).decode(data, 0)[1];
+  const resolve = resolver(schema);
+  return resolve(type).decode(data, 0)[1];
 }

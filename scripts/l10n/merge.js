@@ -5,8 +5,8 @@ import { encodeTextFile, writeTextFile } from "./utils.js";
 export async function mergeL10n(target, source, ignore) {
   const sourceEntries = decodeEntries((await fs.readFile(source)).toString());
   const sourceIdx = Object.fromEntries(sourceEntries
-      .filter(entry => !!entry.msgid)
-      .map(entry => [entry.msgctxt, entry]));
+    .filter(entry => !!entry.msgid)
+    .map(entry => [entry.msgctxt, entry]));
 
   const ignoreEntries = ignore ? decodeEntries((await fs.readFile(ignore)).toString()) : [];
   const ignoreIdx = Object.fromEntries(ignoreEntries

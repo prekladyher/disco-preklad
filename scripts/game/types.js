@@ -55,7 +55,7 @@ export function nativeType(size, type) {
       encoder.call(buffer, value);
       return [buffer];
     }
-  }
+  };
 }
 
 function padding(size) {
