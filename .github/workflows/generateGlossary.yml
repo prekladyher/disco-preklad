@@ -9,8 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     env: 
-      GGCLIENT_EMAIL: ${{ secrets.GGCLIENT_EMAIL }}
-      GGPRIVATE_KEY: ${{ secrets.GGPRIVATE_KEY }}       
+      GS_CLIENT_EMAIL: ${{ secrets.GS_CLIENT_EMAIL }}
+      GS_PRIVATE_KEY: ${{ secrets.GS_PRIVATE_KEY }}       
 
     steps:
       - uses: actions/checkout@v2
