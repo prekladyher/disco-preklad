@@ -37,8 +37,8 @@ const footer = "</body></text></martif>";
 
 async function generateGlossary() {
   await doc.useServiceAccountAuth({
-    client_email: process.env.GGCLIENT_EMAIL,
-    private_key: process.env.GGPRIVATE_KEY.replace(/\\n/gm, "\n")
+    client_email: process.env.GS_CLIENT_EMAIL,
+    private_key: process.env.GS_PRIVATE_KEY
   });
 
   await doc.loadInfo(); // loads document properties and worksheets
