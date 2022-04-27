@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-04-27 11:38+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / CUNO barks
 #. Description = Cuno throws stones and sometimes responds to Cunoesse
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009C16"
 msgid "\"Fucker shit himself.\""
 msgstr ""
+"\"Ten zmrd se posral.\""
 
 #. Title = YARD / CUNO barks
 #. Description = Cuno throws stones and sometimes responds to Cunoesse
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009C0F"
 msgid "\"Cuno's got this.\""
 msgstr ""
+"\"Kuno to zvládne.\""
 
 #. Title = YARD / CUNO barks
 #. Description = Cuno throws stones and sometimes responds to Cunoesse
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009C1D"
 msgid "\"Cuno knows how to fucking throw!\""
 msgstr ""
+"\"Kuno umí házet, kurva!\""
 
 #. Title = YARD / CUNO barks
 #. Description = Cuno throws stones and sometimes responds to Cunoesse
@@ -31,3 +42,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000630A"
 msgid "\"Over here, baconator! Time for launch.\""
 msgstr ""
+"\"Tumáš, slaninátore! Čas na odpal.\""
