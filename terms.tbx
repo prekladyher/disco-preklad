@@ -173,7 +173,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Innocence">
-        <descrip type="definition">[OK] vládce Okcidentu</descrip>
+        <descrip type="definition">[OK] vládce Okcidentu, mýtická postava</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Innocence</term>
@@ -741,6 +741,32 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Lena</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="officer">
+        <descrip type="definition">oslovení hrdiny</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>officer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>detektive</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Officer">
+        <descrip type="definition">přezdívka </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Officer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Důstojník</term>
           </tig>
         </langSet>
       </termEntry>
