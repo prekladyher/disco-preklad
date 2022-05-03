@@ -56,7 +56,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Cuno">
-        <descrip type="definition">[OK] [TYKAT]drzý kluk, TYKAT</descrip>
+        <descrip type="definition">[OK] [TYKAT]drzý kluk, TYKAT i on tyká</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Cuno</term>
@@ -780,6 +780,76 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Pohoda T-500</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="infra-materialism">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>infra-materialism</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>inframaterializmus</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Zuzanna">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zuzanna</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zuzana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Puncher">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Puncher</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Ranař</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Wattmann">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wattmann</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Watťák</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Saramirizian">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Saramirizian</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Saramírizský,-á,-é</term>
           </tig>
         </langSet>
       </termEntry>
