@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-17 13:33+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001884"
 msgid "For a more detailed view of the Map, go to your JOURNAL and select the MAP tab."
 msgstr ""
+"Chceš-li zobrazit podrobnější mapu, přejdi do svého DENÍKU a vyber kartu MAPA."
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002A3D"
 msgid "[Put the map away.]"
 msgstr ""
+"[Odlož mapu.]"
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002A50"
 msgid "Your finger moves through the various streets, across Rue de Saint-Ghislaine and Rue Saint-Cispare, over Saint-Brune and Martinaise North..."
 msgstr ""
+"Prstem procházíš různými ulicemi, přes Ulici svatého Gisléna a Ulici svatého Cispara, přes Svatého Bruna a Martinézu Sever..."
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002A5C"
 msgid "...finally coming to a halt on the spot where you are currently standing, although the map gives no such indication itself."
 msgstr ""
+"...nakonec se zastavuje na místě, kde právě stojíš, ačkoli mapa sama o sobě nic takového neukazuje."
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002A28"
 msgid "The worn map features the patchwork grid of the streets of Martinaise, with directions to appropriately *tourist-y* locations. Year '48 resides on the upper-right corner."
 msgstr ""
+"Na opotřebované mapě je znázorněna mozaika ulic Martinézy s pokyny, jak se dostat na místa vhodná pro turisty. V pravém horním rohu je uveden rok 48."
 
 #. Title = INVENTORY / MAP OF MARTINAISE
 #. Description = because the map is possibly a readable items, it might need some sort of an interaction dialogue?
@@ -45,3 +58,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002A49"
 msgid "Trace a path through the grid."
 msgstr ""
+"Vyhledej v té mozaice cestu."
