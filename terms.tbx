@@ -745,7 +745,7 @@
         </langSet>
       </termEntry>
       <termEntry id="officer">
-        <descrip type="definition">oslovení hrdiny</descrip>
+        <descrip type="definition">[OK] oslovení hrdiny</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>officer</term>
@@ -758,7 +758,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Officer">
-        <descrip type="definition">přezdívka </descrip>
+        <descrip type="definition">[OK] přezdívka </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Officer</term>
@@ -771,7 +771,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Fairweather T-500">
-        <descrip type="definition">brnění</descrip>
+        <descrip type="definition">[OK] brnění</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Fairweather T-500</term>
@@ -784,8 +784,7 @@
         </langSet>
       </termEntry>
       <termEntry id="infra-materialism">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>infra-materialism</term>
@@ -798,8 +797,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Zuzanna">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Zuzanna</term>
@@ -812,8 +810,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Puncher">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Puncher</term>
@@ -826,8 +823,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Wattmann">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Wattmann</term>
@@ -840,8 +836,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Saramirizian">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Saramirizian</term>
@@ -854,8 +849,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Semenese islands">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Semenese islands</term>
@@ -878,6 +872,20 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Oblázek</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="scab">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>scab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>stávkokaz</term>
           </tig>
         </langSet>
       </termEntry>
