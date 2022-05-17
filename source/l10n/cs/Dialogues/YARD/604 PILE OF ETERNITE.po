@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-17 19:46+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000860A"
 msgid "What feeling?"
 msgstr ""
+"Jaký pocit?"
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000E18"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000E20"
 msgid "An inconspicuous pile of the roofing material, eternite."
 msgstr ""
+"Nenápadná hromada střešní krytiny, eternitu."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008F00000E20"
 msgid "The pile of eternite looks stranger now that Cuno told you about his... pad."
 msgstr ""
+"Ta hromada eternitu vypadá podivněji, teď když ti Kuno řekl o svém... pelechu."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000086A5"
 msgid "There it is! You see a shabby little door."
 msgstr ""
+"Tady jsou! Spatříš malé ošuntělé dveře."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000133BF"
 msgid "It reveals no secrets at this time."
 msgstr ""
+"V tuto chvíli neprozradí žádná tajemství."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008630"
 msgid "Why am I looking at this pile of the roofing material?"
 msgstr ""
+"Proč se dívám na tuto hromadu střešní krytiny?"
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100008200008630"
 msgid "Cuno told you about his shack."
 msgstr ""
+"Kuno ti říkal o své boudě."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100008200008630"
 msgid "Inland Empire said come back."
 msgstr ""
+"Vnitřní svět řekl, abych se vrátil."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100008200008630"
 msgid "Drama said take another look."
 msgstr ""
+"Drama řeklo, ať se podívám znovu."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100008200008630"
 msgid "Perception is suspicious."
 msgstr ""
+"Vnímání má podezření."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000861A"
 msgid "Hard to say, it's gone now. Feelings pass, you see. Especially the small ones."
 msgstr ""
+"Těžko říct, už je to pryč. Pocity přecházejí, víš. Zvlášť ty nepatrné."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008638"
 msgid "It's nothing. Someone just left some roofing material slanted against an old shack."
 msgstr ""
+"To nic není. Někdo jen nechal střešní krytinu opřenou šikmo o starou boudu."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000863F"
 msgid "Glad you asked. When junior researcher Õlari Taal invented eternite in the Värtna Polytechnic Institute, some thirty odd years ago, he thought it would last forever -- hence the name eternite. Sadly the only lasting thing turned out to be the material's highly carcinogenic effect."
 msgstr ""
+"Jsem rád, že se ptáš. Když mladší výzkumník Õlari Taal před třiceti lety vynalezl eternit v Polytechnickém institutu ve Värtně, myslel si, že vydrží navždy - odtud název eternit. Bohužel se ukázalo, že jedinou trvalou věcí je vysoce karcinogenní účinek tohoto materiálu."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008665"
 msgid "Rhythmic pattern -- calms your mind. Mammals like this stuff."
 msgstr ""
+"Rytmický vzor - uklidňuje mysl. Savci to mají rádi."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000086B6"
 msgid "Because there's a secret door hidden behind the panels of eternite. That's why they're *too* orderly."
 msgstr ""
+"Protože za deskami eternitu se skrývají tajné dveře. To proto jsou *příliš* srovnané."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000082000086B6"
 msgid "Because unless Cuno lied, you should just be able to pull the panels aside."
 msgstr ""
+"Protože pokud Kuno nelhal, mělo by stačit odtáhnout desky stranou."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000862A"
 msgid "What is this?"
 msgstr ""
+"Coje to?"
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000086D7"
 msgid "\"What is this, then? A tool shed?\" He peeks inside. \"Let's investigate.\""
 msgstr ""
+"\" Takže co je to tady? Kůlna na nářadí?\" Nakoukne dovnitř. \"Pojďme to prozkoumat.\""
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000082000086D7"
 msgid "\"So this is the shack Cuno mentioned... Let's take a look inside, then.\""
 msgstr ""
+"\"Takže tohle je ta bouda, o které se zmínil Kuno... Pojďme se podívat dovnitř.\""
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000867C"
 msgid "No, there's more to this. You get this strange *feeling*."
 msgstr ""
+"Ne, je toho víc. Máš takový zvláštní *pocit*."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008604"
 msgid "Discard the feeling."
 msgstr ""
+"Zbav se toho pocitu."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008658"
 msgid "Because it's nice and orderly. Well laid pallet. Easy on the eyes."
 msgstr ""
+"Protože je to hezké a uspořádané. Pěkně srovnaná hromádka. Příjemná na pohled."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -195,3 +226,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000086C9"
 msgid "Pull the panels aside."
 msgstr ""
+"Dej ty desky stranou."
