@@ -315,6 +315,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="The gossamer State">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>The gossamer State</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Země babího léta</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Cuno">
         <descrip type="definition">[OK] [TYKAT]drzý kluk, TYKAT i on tyká</descrip>
         <langSet xml:lang="en">
@@ -549,6 +562,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Wild Pines">
+        <descrip type="definition">Největší logistický konglomerát</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wild Pines</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Divoké Pinie</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Commodore Red">
         <descrip type="definition">[OK] víno</descrip>
         <langSet xml:lang="en">
@@ -663,6 +689,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Pohoda T-500</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Terrific Necktie (Beautiful Necktie)">
+        <descrip type="definition">[OK] Kus oblečení, mluví</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Terrific Necktie (Beautiful Necktie)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term> Příšerná kravata (Překrásná)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -913,19 +952,6 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="The gossamer State">
-        <descrip type="definition">[OK] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>The gossamer State</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Země babího léta</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="Al Gul">
         <descrip type="definition">[OK] duchovní personifikace alkoholu, *al-kohol*</descrip>
         <langSet xml:lang="en">
@@ -936,19 +962,6 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Al Kol</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Terrific Necktie (Beautiful Necktie)">
-        <descrip type="definition">[OK] Kus oblečení, mluví</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Terrific Necktie (Beautiful Necktie)</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term> Příšerná kravata (Překrásná)</term>
           </tig>
         </langSet>
       </termEntry>
