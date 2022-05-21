@@ -1,8 +1,17 @@
+# Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
+# Ondřej Partl <partlondra@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Ondřej Partl <partlondra@gmail.com>\n"
+"PO-Revision-Date: 2022-05-21 09:49+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -10,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B3CE"
 msgid "You are *The Destroyer*, the bane of inanimate matter."
 msgstr ""
+"Jseš *Ničitel*, zkáza neživé hmoty."
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -17,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000CDF"
 msgid "Bent metal, broken glass... your path lies strewn with the broken forms of everyday objects..."
 msgstr ""
+"Ohnuté železo, rozbité sklo... Tvá cesta je poseta rozbitými věcmi každodenního života..."
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -24,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B3E1"
 msgid "No, I'm just a disempowered individual trying to take my disempowerment out on everyday objects."
 msgstr ""
+"Ne, jsem jenom bezmocné individium, které se snaží si vybít hněv této bezmoci na každodenních předmětech."
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -31,6 +43,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B3DA"
 msgid "Gaze upon me, stuff, and despair!"
 msgstr ""
+"Hleď na mě, věci, na zoufalství!"
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -38,6 +51,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B41B"
 msgid "You're right, that's definitely not the behaviour of a destroyer at all. That's just severe anger-management problems and a disregard for property rights."
 msgstr ""
+"Máš pravdu, takhle se ničitel nechová. Jsou to jen těžké problémy se zvládáním hněvu a nerespektování vlastnických práv."
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -45,6 +59,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B3E8"
 msgid "Yeah, I rip shit apart."
 msgstr ""
+"Jo, rvu sračky na kusy."
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -52,6 +67,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B3F8"
 msgid "Look! There's a discarded milk carton on the floor. Why don't you destroy that, too?"
 msgstr ""
+"Podívej! Támhle se na podlaze válí krabice od mléka. Proč nezničíš i tu?"
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -59,6 +75,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000570000B3F8"
 msgid "Look! There's a discarded milk carton on the ground. Why don't you destroy that, too?\n"
 msgstr ""
+"Podívej! Támhle se na zemi válí krabice od mléka. Proč nezničíš i tu?\n"
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -66,6 +83,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B407"
 msgid "No, I actually feel sorry for the things I've destroyed. (I'm sorry, milk carton.)"
 msgstr ""
+"Radši ne, vlastně je mi těch věci, které jsem zničil líto. (Omlouvám se, krabice od mléka.)"
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -73,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B40E"
 msgid "Good idea. Fuck you, milk carton, this is all *your* fault!"
 msgstr ""
+"Skvělej nápad. Chcípni, krabice od mlíka, všechno je to *tvoje* chyba!"
 
 #. Title = THOUGHT / THE DESTROYER
 #. Description = Pain Threshold turns you into THE DESTROYER! (a thought for punching and not taking damage). Anti-Object Task Force.
@@ -80,3 +99,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B3F0"
 msgid "Kudos."
 msgstr ""
+"Sláva."
