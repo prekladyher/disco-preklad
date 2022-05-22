@@ -58,8 +58,8 @@ export function nativeType(size, type) {
   };
 }
 
-function padding(size) {
-  return (4 - (size % 4)) % 4;
+function padding(dataLength, blockLength = 4) {
+  return (blockLength - (dataLength % blockLength)) % blockLength;
 }
 
 /** @return {Type} */
@@ -105,7 +105,7 @@ export function arrayType(itemType) {
       for (let item of value) {
         buffers.push(...itemType.encode(item));
       }
-      buffers.push(Buffer.alloc(padding(string.length)));
+      buffers.push(Buffer.alloc(padding(value.length)));
       return buffers;
     }
   };
@@ -142,11 +142,11 @@ export function structType(schema, resolve) {
       }
       return [bytes, result];
     },
-    encode: (value) => {
+    encode: (struct) => {
       return schema.flatMap((property) => {
-        const value = property.name in value ? value[property.name] : property.value;
+        const value = property.name in struct ? struct[property.name] : property.value;
         const buffers = resolve(property.type).encode(value);
-        const length = encoded.reduce((acc, buf) => acc + buf.length);
+        const length = buffers.reduce((acc, buf) => acc + buf.length);
         return length % 4 ? [Buffer.concat(buffers, padding(length))] : buffers;
       });
     }
