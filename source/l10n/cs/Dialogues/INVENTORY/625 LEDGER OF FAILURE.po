@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-22 13:07+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -172,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000012FC"
 msgid "It's the ledger you found in the trash: a pitiful cabbage of white and yellow papers hanging from plastic board, barely held together by a metal clip. This sad display is made complete by the faint smell of urinal cleaner."
 msgstr ""
+"Je to složka, kterou jsi našel v odpadcích: žalostný slepenec bílých a žlutých papírů visící na plastové desce, sotva držící pohromadě kovovou sponou. Tuto smutnou přehlídku dotváří slabý zápach čisticího prostředku na pisoáry."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -185,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000013A6"
 msgid "It's a metaphor -- for you."
 msgstr ""
+"Je to metafora - pro tebe."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -211,6 +221,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000013FE"
 msgid "Maybe it's kitchen tissue? They look exactly the same."
 msgstr ""
+"Možná je to kuchyňská utěrka? Vypadají úplně stejně."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -419,6 +430,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001319"
 msgid "There's a piece of toilet paper -- or is it cleaning tissue? No, it's toilet paper -- *desperately* sticking to the back of the blue plastic clipboard."
 msgstr ""
+"Je tu kus toaletního papíru - nebo je to čisticí ubrousek? Ne, je to toaletní papír - *zoufale* přilepený na zadní straně modré plastové desky."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -432,6 +444,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001431"
 msgid "Mhm, cool toilet paper... I mean kitchen tissue."
 msgstr ""
+"Mhm, prďácký toaletní papír... Chci říct, kuchyňská utěrka."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -1121,6 +1134,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000013F8"
 msgid "(Leave it there, it's cool.)"
 msgstr ""
+"(Nech ho tam, je to prďácké.)"
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -1134,6 +1148,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000140E"
 msgid "If you *want* it to be kitchen tissue, it can be kitchen tissue."
 msgstr ""
+"Pokud *chceš*, aby to byla kuchyňská utěrka, může to být kuchyňská utěrka."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -1537,6 +1552,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000142A"
 msgid "*Way* cool."
 msgstr ""
+"*Moc* prďácké."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -1797,6 +1813,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000013F2"
 msgid "(Take it off.)"
 msgstr ""
+"(Dej ho pryč.)"
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -2187,6 +2204,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009D87"
 msgid "It says: everyone look at me and my *kitchen tissue* covered cop ledger! I don't *care*. My ledger is droopy and it smells like a urinal."
 msgstr ""
+"Hlásá to: Všichni se podívejte na mě a na mou policejní složku pokrytou *kuchyňskou utěrkou*! Je mi to *jedno*. Moje složka je ošoupaná a smrdí jako pisoár."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -3162,6 +3180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000013E4"
 msgid "Inspect the toilet paper."
 msgstr ""
+"Prohlédni si toaletní papír."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -3877,6 +3896,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000013EB"
 msgid "It's just toilet paper, sticking to the back of the plastic clipboard. You can take it off if you want."
 msgstr ""
+"Je to jen toaletní papír, přilepený na zadní straně plastové desky. Pokud chceš, můžeš ho sundat."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -5190,6 +5210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001460"
 msgid "It says: everyone look at me and my toilet paper covered cop ledger! I don't *care*. My ledger is droopy and it smells like a urinal. Not a new addition, though. So keep that *styling case* open, my friend..."
 msgstr ""
+"Hlásá to: Všichni se podívejte na mě a na mou policejní složku pokrytou toaletním papírem! Je mi to jedno. Moje složka je ošoupaná a smrdí jako pisoár. To ale není žádná novinka. Takže si ten *stylový obal* ponechám tak jak je, příteli..."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -5645,6 +5666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000130A"
 msgid "Anything *else*?"
 msgstr ""
+"Něco *jiného*?"
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -5658,6 +5680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001437"
 msgid "Still wet, the toilet paper -- I mean *kitchen tissue*, sorry -- peels off the plastic easily. All you have to do is shake it off your finger, and voilà, the ledger now looks (marginally) better."
 msgstr ""
+"Ještě vlhký toaletní papír - chci říct *kuchyňská utěrka*, pardon - se snadno odlepí od plastu. Stačí ho jen setřást z prstu a voilà, složka teď vypadá (nepatrně) lépe."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -6048,6 +6071,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001424"
 msgid "Still wet, the toilet paper peels off the plastic easily. All you have to do is shake it off your finger and voila! The ledger now looks (marginally) better."
 msgstr ""
+"Ještě vlhký toaletní papír se snadno odlepí od plastu. Stačí ho jen setřást z prstu a voilà, složka teď vypadá (nepatrně) lépe."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -6599,6 +6623,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001407"
 msgid "It's not though. It's toilet paper."
 msgstr ""
+"Není tomu tak. Je to toaletní papír."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -6612,6 +6637,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500001466"
 msgid "It says: everyone look at me and my toilet paper covered cop ledger! I don't *care*. My ledger is droopy and it smells like a urinal."
 msgstr ""
+"Hlásá to: Všichni se podívejte na mě a na mou policejní složku pokrytou toaletním papírem! Je mi to jedno. Moje složka je ošoupaná a smrdí jako pisoár."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -8237,3 +8263,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009D95"
 msgid "It says: everyone look at me and my *kitchen tissue* covered cop ledger! I don't *care*. My ledger is droopy and  smells like a urinal. Not a new addition, though. So keep that *styling case* open, my friend..."
 msgstr ""
+"Hlásá to: Všichni se podívejte na mě a na mou policejní složku pokrytou *kuchyňskou utěrkou*! Je mi to *jedno*. Moje složka je ošoupaná a smrdí jako pisoár. To ale není žádná novinka. Takže si ten *stylový obal* ponechám tak jak je, příteli..."
