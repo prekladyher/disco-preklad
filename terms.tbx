@@ -563,7 +563,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Wild Pines">
-        <descrip type="definition">Největší logistický konglomerát</descrip>
+        <descrip type="definition">[OK] Největší logistický konglomerát</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Wild Pines</term>
@@ -962,6 +962,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Al Kol</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Krenel (Downfell,Corps de Pharmacie)">
+        <descrip type="definition">Oranžský vojenský kontraktor. V závorce bývalá jména.</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Krenel (Downfell,Corps de Pharmacie)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Krenel (Padlí, Lazaretský Sbor)</term>
           </tig>
         </langSet>
       </termEntry>
