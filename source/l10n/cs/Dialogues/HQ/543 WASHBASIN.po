@@ -1,8 +1,16 @@
+# skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-05-23 14:54+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005ADE"
 msgid "On the table you see a bowl of water, a rough soap, and next to it a small hand mirror. A straight razor soaks inside the wash basin."
 msgstr ""
+"Na stole vidíš misku s vodou, kostku mýdla a vedle malé zrcátko. V umyvadle leží ve vodě břitva."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013409"
 msgid "Yeah, purified yourself right back to infancy. You look like a baby!"
 msgstr ""
+"Ó ano, vypucoval ses jako miminko. Tvář jako dětská prdelka!"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000F9FD"
 msgid "[Leave.]"
 msgstr ""
+"[Odejít.]"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00013356"
 msgid "How would you know? You haven't even seen your face! Go take a peek in the mirror, then decide for yourself."
 msgstr ""
+"Jak to víš? Nikdy jsi neviděl svůj obličej! Běž se kouknout do zrcadla a pak se sám rozhodni."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E125"
 msgid "Your face, such as it is. A regular human face. Sans expression."
 msgstr ""
+"Tvůj obličej, v celé své kráse. Obyčejný lidský obličej. Bez výrazu."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E136"
 msgid "The beardless nature of your cheeks makes The Expression seem even more like a terrifying grimace."
 msgstr ""
+"Díky tomu, že máš tváře bez vousů, vypadá výraz ve tvém obličeji ještě víc jako děsivá grimasa."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DB17"
 msgid "Time to shave. Get these mutton chops off."
 msgstr ""
+"Čas na holení. Rozluč se se svými kotletami."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100005A0000DB17"
 msgid "Dresscode: True man."
 msgstr ""
+"Vzhled jako pravý muž."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E0F4"
 msgid "A fresh start looms ahead. Clean yourself up and be born anew."
 msgstr ""
+"Čeká tě nový zážitek. Dej se do pucu a buď znovu zrozen."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1E2"
 msgid "The sharp blade chafes against your skin, producing a scratching sound. The surface underneath the beard feels tender, the air brushing against it chilly."
 msgstr ""
+"Ostrá čepel jede po tváři a vydává škrábavý zvuk. Kůže pod vousy je na dotek citlivá a vzduch, který ji ovívá, je chladivý."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001225C"
 msgid "But man persists and after fifteen minutes pass, you look almost presentable. Sort of. The sudden absence of the morbid dead tissue smell instantly lifts your spirit."
 msgstr ""
+"Lidská vůle je však vytrvalá a po patnácti minutách vypadáš téměř reprezentativně. Tak trochu. Náhlá absence zápachu mrtvé tkáně ti okamžitě zvedá náladu."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012282"
 msgid "Scrubbing all the necrotic tissue off your hands takes a while. The fingernails are especially hard. Death has made it's way into every nook and cranny..."
 msgstr ""
+"Drhnutí odumřelé tkáně z rukou chvíli trvá. Obzvlášť nehty zaberou hodně času. Smrt si našla cestičku snad do každého záhybu..."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FA0B"
 msgid "The water reflects back a vague image of your face -- nose bulbous and red, hair unkempt, wrinkles lining the eyes and forehead. The 'stache is gigantic."
 msgstr ""
+"Ve vodě se odráží nejasný obraz tvého obličeje - nos je rudý a hruškovitý, vousy neudržované, vrásky lemují oči a čelo. Knír je obrovský. "
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E0E8"
 msgid "I *need* to shave the chops!"
 msgstr ""
+"*Musím* oholit ty kotlety!"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E0EF"
 msgid "You'll be lookin' like a pansy without the chops! A fuckin' pansy!"
 msgstr ""
+"Bez kotlet budeš vypadat jako bábovka! Zkurvená bábovka!"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1A8"
 msgid "There's no way to salvage this."
 msgstr ""
+"Tohle už nejde zachránit."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001227C"
 msgid "But man persists and finally your bruised hands look clean and presentable... sort of. The sudden absence of the morbid dead tissue smell is uplifting."
 msgstr ""
+"Lidská vůle je však vytrvalá a nakonec tvé potlučené ruce vypadají čistě a reprezentativně... tak trochu. Náhlá absence zápachu mrtvé tkáně je povznášející."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E0DD"
 msgid "This isn't sharp enough. Scrape harder."
 msgstr ""
+"Není to dostatečně ostré. Škrábej silněji."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E0E2"
 msgid "Stop, for crying out loud! You're gonna cut your own throat."
 msgstr ""
+"Přestaň, pro lásku Boží! S takovou si podřízneš vlastní krk."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E113"
 msgid "The water reflects back a vague image of your clean-shaven face. Despite the bulbous nose, unkempt hair and persistent swelling, you look... a little younger, maybe?"
 msgstr ""
+"Ve vodě se odráží nejasný obraz tvého oholeného obličeje. I přes hruškovitý nos, zanedbané vousy a přetrvávající otok vypadáš... mladší?"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012221"
 msgid "Leave it for now."
 msgstr ""
+"Prozatím to nech být."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012255"
 msgid "Thank god you didn't go in there barehanded! Death smell is notoriously difficult to get off yourself and your clothes though and cleaning up takes a while..."
 msgstr ""
+"Díky Bohu, že jsi tam nešel s holýma rukama! Pach smrti ze sebe a svého oblečení však dostáváš jen velmi těžko a dát se do pucu ti chvíli trvá..."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DB2B"
 msgid "Your hand trembles as you scratch at your cheek... oh no, that's not how a grown man shaves!"
 msgstr ""
+"Tvá ruka se chvěje, zatímco přejíždíš po tváři... ale ne, takhle se dospělý muž neholí!"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001228F"
 msgid "Should have used gloves. Detectives use gloves, when they go rummaging around in someone's dead brain..."
 msgstr ""
+"Měls použít rukavice. Detektivové používají rukavice, když se hrabou v něčím mrtvém mozku..."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E0D7"
 msgid "They feel so smooth, surprisingly so. A feeling of freshness overcomes you, as if you just came from a cold bath."
 msgstr ""
+"Jsou tak hladké, až překvapivě. Zaplaví tě pocit svěžesti, jako by ses právě vrátil ze studené koupele."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001222F"
 msgid "The centipede is exaggerating -- people don't actually cut their own throats when they're shaving. At least not accidentally."
 msgstr ""
+"Stonožka přehání -- lidé si ve skutečnosti při holení nepodřezávají vlastní krky. Aspoň ne díky náhodě."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1C7"
 msgid "Beneath the doubt sprouts a new vigour, like you've discarded some bad decisions. It feels as though you've passed through a ritual. Emerged from cold water, even..."
 msgstr ""
+"Pod vrstvou pochybností klíčí nový elán, jako by ses zbavil některých špatných rozhodnutí. Máš pocit, že jsi právě prošel nějakým rituálem. Skoro jako by ses vynořil ze studené vody..."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005AE4"
 msgid "Please attend to personal hygiene on your own time."
 msgstr ""
+"Osobní hygieně se, prosím, věnujte ve svém volném čase."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1BD"
 msgid "Feel your clean-shaven cheeks."
 msgstr ""
+"Sáhni si na svou čerstvě oholenou tvář."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1B8"
 msgid "The razor lands with a *clang*. A red trickle begins to spread in the water."
 msgstr ""
+"Břitva dopadne s cinknutím. Ve vodě se objevuje červená stružka."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000F9F6"
 msgid "On the table you see a bowl of water, a rough soap, and next to it a small hand mirror. A straight razor soaks inside the wash basin."
 msgstr ""
+"Na stole vidíš misku s vodou, kostku mýdla a vedle malé zrcátko. V umyvadle leží ve vodě břitva."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005AEC"
 msgid "The lieutenant throws you an embarrassed glance as you consider the washbasin."
 msgstr ""
+"Zatímco si prohlížíš umyvadlo, poručík po tobě hodí rozpačitý pohled."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012228"
 msgid "Thank god, I would have cut your throat."
 msgstr ""
+"Díky Bohu, podřízl bych ti krk."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001F19"
 msgid "Is shaving the right call?"
 msgstr ""
+"Je holení ta správná volba?"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1AE"
 msgid "Drop the razor in the water basin."
 msgstr ""
+"Vhoď břitvu do umyvadla."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001F06"
 msgid "Your hand shakes so hard you can't even muster up the courage to *try*. Maybe you're just too *wild* at heart?"
 msgstr ""
+"Ruka se ti třese tak silně, že ani nesebereš odvahu to *zkusit*. Možná jsi prostě jen moc *zběsilý* v srdci?"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001F13"
 msgid "*Was* shaving the right call?"
 msgstr ""
+"*Bylo* holení ta správná volba?"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DB25"
 msgid "Like an artist with a brush or a master swordsman, you use the small mirror and the straight razor -- with some soap -- to remove all that unkempt hair from below the nose-line."
 msgstr ""
+"Stejně jako umělec se štětcem či mistr šermíř si s pomocí malého zrcátka a žiletky -- s trochou mýdla -- odstraníš všechny ty neupravené chloupky pod nosem."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012244"
 msgid "Wash the smell of death off yourself."
 msgstr ""
+"Umyj ze sebe pach smrti."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000700012244"
 msgid "First wash the smell of death off yourself."
 msgstr ""
+"Nejdřív ze sebe umyj pach smrti."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013401"
 msgid "You don't have a face anymore. It's all baby-ass now."
 msgstr ""
+"Už to není obličej. Už je to dětská prdelka."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E120"
 msgid "You almost look like a professional."
 msgstr ""
+"Vypadáš téměř jako profesionál."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1B3"
 msgid "Your hand refuses to move another millimetre. A small trickle of blood runs down your cheek."
 msgstr ""
+"Tvá ruka se odmítá hnout ani o milimetr. Po tváři ti stéká pramínek krve."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1C2"
 msgid "Hope this was the right decision."
 msgstr ""
+"Doufám, že to bylo správné rozhodnutí."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -363,3 +415,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000950000028D"
 msgid "The sharp blade chafes against your skin, producing a scratching sound. The surface underneath the beard feels tender, the air brushing against it chilly."
 msgstr ""
+"Ostrá čepel jede po tváři a vydává škrábavý zvuk. Kůže pod vousy je na dotek citlivá a vzduch, který ji ovívá, je chladivý."
