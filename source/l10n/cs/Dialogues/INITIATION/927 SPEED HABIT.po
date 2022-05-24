@@ -1,8 +1,16 @@
+# Nesqve <vaclavnaplava@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Nesqve <vaclavnaplava@gmail.com>\n"
+"PO-Revision-Date: 2022-05-23 22:21+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDD1"
 msgid "Whooh, this shit is strong. This shit is disco."
 msgstr ""
+"Fíha, tenhle matroš je silnej. Tenhle matroš je disko."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000300000248"
 msgid "You raise the bottle, close a nostril and inhale *furiously*. The rush is almost immediate. It tastes bitter and caustic, and stings a bit inside your nose."
 msgstr ""
+"Zvedneš láhev až skoro k nozdře a *zuřivě* se nadechneš. Nájezd je skoro okamžitý. Chutná to hořce a žíravě, a také tě trochu štípe v nose."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020F81"
 msgid "Okay, my body is ready. Let's do this. (Try some speed.)"
 msgstr ""
+"Dobře, mé tělo je připraveno. Jdeme na to. (Zkusit trochu speedu)"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020F93"
 msgid "See, that's your problem -- a lack of confidence. Speed can help you with that. It can help you with EVERYTHING."
 msgstr ""
+"Vidíš, a to je přesně tvůj problém -- nedostatečná sebejistota. Speed ti s ní pomůže. Může ti pomoc úplně se VŠÍM."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005700020F93"
 msgid "See, that's your problem -- a lack of confidence. Speed can help you with that *and* Kim. It can help you with EVERYTHING."
 msgstr ""
+"Vidíš, a to je přesně tvůj problém -- nedostatečná sebejistota. Speed ti s ní pomůže. I s Kimem. Může ti pomoc úplně se VŠÍM."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FE05"
 msgid "To *this*? You kidding?! There are downsides to *not* being on it."
 msgstr ""
+"*Nevýhody*? Děláš si legraci?! Nebýt sjetej je nevýhoda."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FE43"
 msgid "In the bottom right corner of the screen there's a SPEED button! SPEED gives +1 to MOTORIC skills: Perception, Reaction Speed, Hand/Eye Coordination, Savoir Faire, Interfacing, and Composure. This is good before a White Check -- but damages your Morale."
 msgstr ""
+"V pravém spodním rohu obrazovky je tlačítko SPEED! SPEED dává +1 do dovedností MOTORIKY: Vnímání, rychlost reakce, koordinace ruka/oko, kočičí mrštnost, technologie a ledový klid. Tohle je nejlepší provádět před bílým ověřením -- ale poškodíš si tak morálku."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FE2A"
 msgid "Spring-spring! Everything is clear around you. You're ready to concentrate on the next task in the task chain."
 msgstr ""
+"Hop-hop! Všechno okolo tebe ti je jasné. Jsi připraven se soustředit na další z úkolů v řetězci úkolů."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000300000242"
 msgid "You raise the Preptide bottle, press one nostril closed, and inhale *furiously* with the other. The rush is almost immediate. It tastes bitter and caustic, and stings a bit inside your nose."
 msgstr ""
+"Zvedneš láhev Preptidu, jednu nozdru si přidržíš a tou druhou se *zuřivě* nadechneš. Nájezd je skoro okamžitý. Chutná to hořce a žíravě, a také tě trochu štípe v nose."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDAD"
 msgid "It will make you into *more* than that -- a Megacop! This is your modus operandi. This is how you've done it for *years*. Let's go!"
 msgstr ""
+"Udělá to z tebe *víc* než to -- udělá to z tebe Megapoldu! Tohle je tvůj modus operandi. Takhle jsi to dělal *roky*. Jdeme na to!"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDF1"
 msgid "\"I'm not your mother.\" He avoids your gaze. \"I don't care. Do what you have to do.\""
 msgstr ""
+"\"Nejsem vaše matka.\" Vyhýbá se tvému pohledu. \"Je mi to jedno. Dělejte, jak uznáte za vhodné.\""
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000210AD"
 msgid "Mamma mia!"
 msgstr ""
+"Mamma mia!"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020F87"
 msgid "This is gonna be really bad for my health, isn't it?"
 msgstr ""
+"Tohle pro mě nebude úplně nejzdravější, že ano?"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020FC3"
 msgid "You raise the bottle, close a nostril and inhale *furiously*. The rush is almost immediate. It tastes bitter and caustic, and stings a bit inside your nose."
 msgstr ""
+"Zvedneš láhev až skoro k nozdře a *zuřivě* se nadechneš. Nájezd je skoro okamžitý. Chutná to hořce a žíravě, a také tě trochu štípe v nose."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000031B1"
 msgid "You raise the Preptide bottle, press one nostril closed, and inhale *furiously* with the other. The rush is almost immediate. It tastes bitter and caustic, and stings a bit inside your nose."
 msgstr ""
+"Zvedneš láhev Preptidu, jednu nozdru si přidržíš a tou druhou se *zuřivě* nadechneš. Nájezd je skoro okamžitý. Chutná to hořce a žíravě, a také tě trochu štípe v nose."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000030F5"
 msgid "This is so unprofessional of you. Think you can ignore this -- your *moral compass* telling you to sniff it? Guess again -- you'll be back here soon. You'll get the chance to choose more wisely."
 msgstr ""
+"Tohle je od tebe tak neprofesionální. Myslíš si, že můžeš ignorovat -- tvůj *morální kompas*, který ti říká šňupni si? Zamysli se znovu -- brzy budeš zpátky. Dostaneš příležitost se rozhodnout moudřeji."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001DF0E"
 msgid "Now that you've acquired some stimulants, it's time for a little pick-me-up. Time to *detect*."
 msgstr ""
+"Teď, když jsi získal nějaké stimulanty, je čas na malé povzbuzení. Je čas si to vyšetřování *nalajnovat*."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDA7"
 msgid "Will it make me into a Supercop?"
 msgstr ""
+"Udělá to ze mě Superpoldu?"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDDE"
 msgid "\"Kim, I did a little speed. I hope you don't mind. It was for professional reasons.\""
 msgstr ""
+"\"Kime, dal jsem si trochu speedu. Doufám, že ti to nevadí. Bylo to čistě z profesionálních důvodů.\""
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100003368"
 msgid "You've passed up your chance to start using SPEED for now, but don't worry! The option to use it becomes available again in 1 hour."
 msgstr ""
+"Promeškal jsi prozatím svou šanci začít užívat SPEED, ale nezoufej! Tahle možnost pro tebe bude znovu dostupná za 1 hodinu."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020FA9"
 msgid "It's not ideal, no... But you need the zeal. Let's face it, you're never going to finish this case without cheating."
 msgstr ""
+"Není to ideální, ne... Ale potřebuješ trochu elánu. Přiznej si to, nikdy tenhle případ nedokončíš bez podvádění."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDC1"
 msgid "\"Hngfff...\""
 msgstr ""
+"\"Hngfff...\""
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDE4"
 msgid "Feels great. Are there *any* downsides to this at all?"
 msgstr ""
+"Cítím se skvěle. Má to vůbec \"nějaké\" nevýhody?"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020F7B"
 msgid "What... but right *here*? Now?"
 msgstr ""
+"Co ale... přímo *tady*? Teď?"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005700020F7B"
 msgid "Wait, but Kim is here. He'll be dissappointed."
 msgstr ""
+"Počkej ale, Kim je tu také. Bude zklamaný."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDF8"
 msgid "As long as you remain functional, he thinks. Now let's get back to work."
 msgstr ""
+"Dokud zůstaneš akceschopný, myslí si. Nyní se vraťme do práce."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FE20"
 msgid "Time for a little truth. Tell the lieutenant you did some, clear the air."
 msgstr ""
+"Čas na trochu pravdy. Řekni poručíkovi, že sis trošičku dal, vyčisti vzduch."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700020FA0"
 msgid "I'm not doing this now. [Ignore thought.]"
 msgstr ""
+"Do toho teď nejdu. [Ignorovat myšlenku.]"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDCA"
 msgid "Hmmm, you could work with this high... Like, literally *work*: Solve the case, file some papers. Maybe clean up your hostel room, then solve *another* case, then start a side investigation into the para-natural, then build a radiocomputer..."
 msgstr ""
+"Hmmm, s takovým nájezdem by se dalo něco dělat... Jako, doslova *dělat*: Vyřešit případ, postarat se o papírování. Možná si uklidit na pokoji v hostelu, pak vyřešit *další* případ, pak jako bokovku rozjet vyšetřování paranormálních jevů, pak postavit rádiopočítač..."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FDEA"
 msgid "Cool, cool, let's boogie. [Finish thought and spring to action.]"
 msgstr ""
+"Cool, cool, poplujeme. [Dokončit myšlenku a hupsnout do akce]"
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000210BC"
 msgid "Now the taste is slowly receding into your throat... The rush is growing in intensity, your little heart pounding like a bird in a cage. A sweat breaks out across your brow, your jaw clenches..."
 msgstr ""
+"Teď se chuť pomalu stahuje do tvého hrdla... Nájezd nabírá na obrátkách, tvé malé srdíčko buší jako ptáček v kleci. Nad obočím ti vyrašil pot, čelist se ti svírá..."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000210C4"
 msgid "And, let's be honest, there's a little chest pain -- the *good* kind, of course. You may wanna blast a Nosaphed or something."
 msgstr ""
+"A buďme upřímní, je tu také malá bolest na hrudi -- ta *dobrá* bolest, samozřejmě. Možná by nebylo na škodu odpálit Nosoped nebo něco podobného."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FE0B"
 msgid "There are *massive* downsides. It's a potent neurotoxin. You're turning yourself into a frayed idiot."
 msgstr ""
+"Má to *masivní* nevýhody. Je to velmi silný neurotoxin. Děláš ze sebe roztřepaného idiota."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000210B3"
 msgid "Good to have you back, Officer Supercop. The world has been waiting."
 msgstr ""
+"Jsem rád, že jsi zpět, důstojníku superpoldo. Svět na tebe už čeká."
 
 #. Title = INITIATION / SPEED HABIT
 #. Description = A thought for becoming a speed addict.
@@ -248,3 +290,4 @@ msgstr ""
 msgctxt "Alternate1/0x01000057000210B3"
 msgid "Good to have you back, Officer Megacop. The world has been waiting."
 msgstr ""
+"Jsem rád, že jsi zpět, důstojníku megapoldo. Svět na tebe už čeká."
