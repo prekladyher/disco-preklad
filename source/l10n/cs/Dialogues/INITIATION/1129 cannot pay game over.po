@@ -1,8 +1,16 @@
+# Nesqve <vaclavnaplava@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Nesqve <vaclavnaplava@gmail.com>\n"
+"PO-Revision-Date: 2022-05-23 18:18+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INITIATION / cannot pay game over
 #. Description = orbital that pops up if you, the player, try to BREAK the system by spending *all* of the money you can get *anywhere* in Martinaise so you cannot pay Garte for the room at all. oh, believe me, we will take this into account and you will get a game over.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00003BF7"
 msgid "What is it?"
 msgstr ""
+"A to je?"
 
 #. Title = INITIATION / cannot pay game over
 #. Description = orbital that pops up if you, the player, try to BREAK the system by spending *all* of the money you can get *anywhere* in Martinaise so you cannot pay Garte for the room at all. oh, believe me, we will take this into account and you will get a game over.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00003BFC"
 msgid "Go... to the trash container..."
 msgstr ""
+"Běž... ke kontejneru na odpadky..."
 
 #. Title = INITIATION / cannot pay game over
 #. Description = orbital that pops up if you, the player, try to BREAK the system by spending *all* of the money you can get *anywhere* in Martinaise so you cannot pay Garte for the room at all. oh, believe me, we will take this into account and you will get a game over.
@@ -24,3 +34,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00003BF1"
 msgid "You did it. You fucked up now. No money, no way to pay Garte. There's only one option left..."
 msgstr ""
+"To se ti povedlo. Posral jsi to. Bez peněz a bez možnosti jak zaplatit Gartovi. Máš poslední šanci..."
