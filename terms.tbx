@@ -3,6 +3,19 @@
 <martif type="TBX" xml:lang="en_US">
   <text>
     <body>
+      <termEntry id="Acele Berger">
+        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Acele Berger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Adéla Ovčáčková</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Al Gul">
         <descrip type="definition">[OK] duchovní personifikace alkoholu, *al-kohol*</descrip>
         <langSet xml:lang="en">
@@ -16,6 +29,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Andre">
+        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Andre</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>André</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Arcade Islands">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -26,6 +52,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Arkádové ostrovy</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Archer">
+        <descrip type="definition">[OK] válečná loď</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Archer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Lukostřelec</term>
           </tig>
         </langSet>
       </termEntry>
@@ -81,6 +120,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Coalition of Nations">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Coalition of Nations</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Koalice národů</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Commodore Red">
         <descrip type="definition">[OK] víno</descrip>
         <langSet xml:lang="en">
@@ -133,6 +185,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="discomen">
+        <descrip type="definition">[OK] sociální vrstva</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>discomen</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>diskáči</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Doomed Commercial Area">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -169,6 +234,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Eyckstein</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Esperance">
+        <descrip type="definition">[OK] řeka</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Esperance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Naděje</term>
           </tig>
         </langSet>
       </termEntry>
@@ -211,16 +289,29 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Garte">
-        <descrip type="definition">[OK] [VYKAT]muž, manažer hostelu VYKAT</descrip>
+      <termEntry id="Fortress Accident">
+        <descrip type="definition">[OK] značka vývojářského studia</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Garte</term>
+            <term>Fortress Accident</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Gart</term>
+            <term>Pevnost Katastrof</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Garte, Lawrence">
+        <descrip type="definition">[OK] [VYKAT]muž, manažer hostelu VYKAT</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Garte, Lawrence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Gart, Vavřinec</term>
           </tig>
         </langSet>
       </termEntry>
@@ -247,6 +338,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Valchař</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Hawthorn">
+        <descrip type="definition">[OK] strom na náměstí</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hawthorn</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Hloh</term>
           </tig>
         </langSet>
       </termEntry>
@@ -325,6 +429,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Obvod Šprajcl</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Kim">
+        <descrip type="definition">[OK] [TYKAT]Kim Harrymu vykat, Harry Kimovi tykat</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Kim</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kim</term>
           </tig>
         </langSet>
       </termEntry>
@@ -588,6 +705,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Perdition (Street)">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Perdition (Street)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zatracená (ulice)</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Perikarnassian">
         <descrip type="definition">[OK] -a, m. mýtická postava , prvni Neposkvrněný, zakladatel Perikarnasénské církve</descrip>
         <langSet xml:lang="en">
@@ -679,6 +809,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Rehm">
+        <descrip type="definition">[OK] značka výrobce techniky (modely Prefekt, Civic)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Rehm</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Rehm</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Roundabout North">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -728,6 +871,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Safra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Saint Brune">
+        <descrip type="definition">[OK] kostel</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Saint Brune</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Svatý Bruno</term>
           </tig>
         </langSet>
       </termEntry>
@@ -806,6 +962,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Semenina</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Seolite">
+        <descrip type="definition">[OK] rasa/civilizace</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Seolite</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>seolitická</term>
           </tig>
         </langSet>
       </termEntry>
@@ -913,6 +1082,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Villiers">
+        <descrip type="definition">[OK] značka výrobce zbraní</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Villiers</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Villiers</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Voyager Road">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -991,6 +1173,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Yvonne">
+        <descrip type="definition">[OK] [TYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Yvonne</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Yvona</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Zuzanna">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -1001,6 +1196,71 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Zuzana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Annette">
+        <descrip type="definition">[OK] [TYKAT]dívka, asi 12, dcera majitelky knihkupectví</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Annette</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Aneta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Feld">
+        <descrip type="definition">značka rádiokomputru</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Feld</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Feld</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Interim">
+        <descrip type="definition">značka tiskáren</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Interim</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Interim</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f****t">
+        <descrip type="definition">velmi vulgární nadávka, tak sprostá, že je ve zvuku vypípnutá - skloňujte jako kokot, např. you f****ts=vy f****ti</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>f****t</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>f****t</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Pyrholidon">
+        <descrip type="definition">Anti radiační vojenská droga</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pyrholidon</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Pyrolidon</term>
           </tig>
         </langSet>
       </termEntry>
