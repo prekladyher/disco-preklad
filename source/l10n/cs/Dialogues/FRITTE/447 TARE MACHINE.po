@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-26 18:35+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = FRITTE / TARE MACHINE
 #. Description = Right next to the glass-doored fridge.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003370"
 msgid "\"No.\" She doesn't even bother looking up out of her magazine. \"You need tare to use the tare machine.\""
 msgstr ""
+"\"Ne.\" Ani se neobtěžuje zvednout oči od časopisu. \"K použití výkupního automatu potřebujete sběr.\""
 
 #. Title = FRITTE / TARE MACHINE
 #. Description = Right next to the glass-doored fridge.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00029F2A"
 msgid "Insert your bottles."
 msgstr ""
+"Vlož lahve."
 
 #. Title = FRITTE / TARE MACHINE
 #. Description = Right next to the glass-doored fridge.
@@ -59,6 +69,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00029F30"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = FRITTE / TARE MACHINE
 #. Description = Right next to the glass-doored fridge.
@@ -94,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000030000043E"
 msgid "Your bottles clunk into the machine and the money appears with a satisfying jingle. You're a richer man now!"
 msgstr ""
+"Tvé láhve žuchnou do automatu a s uspokojivým cinknutím se objeví peníze. Teď jsi bohatší!"
 
 #. Title = FRITTE / TARE MACHINE
 #. Description = Right next to the glass-doored fridge.
@@ -129,6 +141,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00029F1A"
 msgid "The tare machine stands in the corner. A sign says: \"ONE BOTTLE = TEN CENTS\"."
 msgstr ""
+"Automat na výkup stojí v rohu. Na ceduli je napsáno: \"JEDNA LÁHEV = DESET CENTŮ\"."
 
 #. Title = FRITTE / TARE MACHINE
 #. Description = Right next to the glass-doored fridge.
@@ -136,3 +149,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000336A"
 msgid "\"Excuse me -- I have the tare bag but no tare. Can I still use the tare machine?\""
 msgstr ""
+"\"Promiňte - mám tašku na sběr, ale nemám sběr. Mohu ještě použít výkupní automat?\""
