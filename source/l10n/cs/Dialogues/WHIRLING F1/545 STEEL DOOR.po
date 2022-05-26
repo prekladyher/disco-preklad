@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-26 14:29+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010913"
 msgid "\"There was a winch outside, on the roof. Like that of a small *elevator*.\""
 msgstr ""
+"\"Venku na střeše byl naviják. Podobný malému *výtahu*.\""
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -91,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001090A"
 msgid "The winch, outside, in the back yard. Remember? No? Your *fingers* do!"
 msgstr ""
+"Naviják, venku, na dvorku. Vzpomínáš si? Ne? Tvoje prsty ano!"
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -155,6 +165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006D87"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -211,6 +222,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006D62"
 msgid "Touch the door."
 msgstr ""
+"Dotkni se dveří."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -219,6 +231,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006D9D"
 msgid "\"You do?\" The lieutenant regards you with patient scepticism. \"It's a door in the back of the kitchen. Why do you care where it leads?\""
 msgstr ""
+"\"Opravdu?\" Poručík si tě prohlíží s trpělivou skepsí. \"Jsou to dveře v zadní části kuchyně. Proč vás zajímá, kam vedou?\""
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -227,6 +240,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010923"
 msgid "\"Yes, a mini side-investigation.\""
 msgstr ""
+"\"Ano, vedlejší mini-vyšetřování.\""
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -235,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006DAD"
 msgid "\"I wonder where this door leads.\""
 msgstr ""
+"\"Zajímalo by mě, kam vedou tyhle dveře.\""
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -283,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006D6F"
 msgid "The door does not budge."
 msgstr ""
+"Dveře se ani nepohnou."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -291,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007345"
 msgid "The cobalt blue surface feels rough to touch. The stainless steel door is flush with its frame on every side."
 msgstr ""
+"Kobaltově modrý povrch je na dotek drsný. Dveře z nerezové oceli jsou na všech stranách v jedné rovině s rámem."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -339,6 +356,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001091C"
 msgid "\"Hmm... Well, if there was a *winch*, I suppose we could look into it. As a... side-investigation.\""
 msgstr ""
+"\"Hmm... No, když tam byl nějaký *naviják*, tak bychom se na to mohli podívat. Jako... vedlejší vyšetřování.\""
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -387,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006D5C"
 msgid "Try to push on the door."
 msgstr ""
+"Zkus zatlačit na dveře."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -395,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000108EF"
 msgid "It leads to a side-building, adjacent to this one. The old building next to this, half ruined. Whatever is behind it must be older."
 msgstr ""
+"Vedou do vedlejší budovy, která k této přiléhá. Do staré a napolo zničené budovy hned vedle. Ať už je za nimi cokoli, musí to být starší."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -403,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FA67"
 msgid "You see a heavy steel door with a prominent dimple lock. It's painted blue."
 msgstr ""
+"Vidíš těžké ocelové dveře s výrazným zámkem. Jsou natřené modrou barvou."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -411,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000108A8"
 msgid "Old cobalt paint. Rough on the fingers. Forty, fifty years since this was painted, maybe?"
 msgstr ""
+"Stará kobaltová barva. Drsná na prstech. Možná čtyřicet, padesát let od natření?"
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
