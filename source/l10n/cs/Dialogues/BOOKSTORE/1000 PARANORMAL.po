@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-28 16:38+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000090E"
 msgid "How does that work?"
 msgstr ""
+"Jak to funguje?"
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -51,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00000895"
 msgid "Look through the shelf."
 msgstr ""
+"Prohlédni si regál."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -59,6 +69,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008A1"
 msgid "This bookstore is not *strictly* about crime, romance, and biographies of famous people -- there's also a wide range of paranatural literature."
 msgstr ""
+"Tohle knihkupectví není zaměřeno pouze na detektivky, romány a životopisy slavných osobností - je zde také široká nabídka paranormální literatury."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -75,6 +86,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000092F"
 msgid "Various paranatural books still litter the shelf."
 msgstr ""
+"Různé paranormální knihy dál zaneřáďují polici."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -155,6 +167,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008EC"
 msgid "The point of the book, and many others on this shelf, is to give people medicinal advice in situations where they don't have access to paid health services."
 msgstr ""
+"Smyslem této knihy, stejně jako mnoha dalších na této polici, je poskytnout lidem medicinální rady v situacích, kdy nemají přístup k placeným zdravotnickým službám."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -163,6 +176,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00000944"
 msgid "...there's even a chapter on the ancient Seraise tradition of using duck gall bladder (preservatives) to treat and prevent sexually transmitted diseases. Pre- and post-factum apply. Nothing worth buying."
 msgstr ""
+"...je zde dokonce kapitola o starodávné seraiské tradici používání kachního žlučníku (prezervativy) k léčbě a prevenci pohlavně přenosných chorob. Lze užít před i po. Nic, co by stálo za koupi."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -259,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000089B"
 msgid "\"Storekeep, what books are these?\""
 msgstr ""
+"\"Paní prodavačko, co je tohle za knihy?\""
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -267,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008DA"
 msgid "\"I can't have you end up... like... opening a police store next door and stealing my customers, oh no.\""
 msgstr ""
+"\"Nemůžu dopustit, abyste nakonec... si třeba... vedle otevřel policejní obchod a kradl mi zákazníky, to ne.\""
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -275,6 +291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008E6"
 msgid "Amidst the various books you find one written by someone named Matthias W. Dundas. It's about \"Wholeness, Unity, Balance\"."
 msgstr ""
+"Mezi různými knihami najdeš jednu, kterou napsal Matyáš W. Dundas. Je o \"celistvosti, jednotě, rovnováze\"."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -283,6 +300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008F6"
 msgid "\"Wholeness, Unity, Balance\" on the other hand, can basically take care of anything. Though it is important to note..."
 msgstr ""
+"Na druhou stranu \"Celistvost, jednota, rovnováha\" se může postarat v podstatě o cokoli. I když je důležité poznamenat, že..."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -291,6 +309,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00000901"
 msgid "These three things are very important to the working-class mind."
 msgstr ""
+"Tyto tři věci jsou velmi důležité pro mysl dělnické třídy."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -299,6 +318,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00000913"
 msgid "Uh huh, interesting."
 msgstr ""
+"Hrmfrm, zajímavé."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -307,6 +327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008F1"
 msgid "It serves platitudes, while also telling everyone that traditional medicine (the kind people don't have access to, and which costs more than this book) is garbage, and would only give you cancer anyway, without even curing your cold or anything."
 msgstr ""
+"Nabízí otřepané fráze a zároveň všem říká, že tradiční medicína (ta, ke které lidé nemají přístup a která stojí víc než tato kniha) je nesmysl a stejně by vám přivodila jen rakovinu, aniž by vám vyléčila rýmu nebo cokoli jiného."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -315,6 +336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000093D"
 msgid "The book features chapters on topics such as: how to find magnesium (it even lists plants you can harvest magnesium from); how to continue drinking if you're an alcoholic who has destroyed his liver; and..."
 msgstr ""
+"Kniha obsahuje kapitoly o tématech, jako jsou: jak najít hořčík (dokonce uvádí rostliny, z nichž lze hořčík získat); jak pokračovat v pití, když jste alkoholik, který si zničil játra; a..."
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -331,6 +353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008A7"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -355,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008FB"
 msgid "\"When it's up to your mind to heal yourself, then it's because of your mind that you're *ill* in the first place.\""
 msgstr ""
+"\"Když je na vaší mysli, abyste se uzdravili, pak je to především kvůli vaší mysli, že jste *nemocní.\""
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -427,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00000929"
 msgid "Does the book say anything else?"
 msgstr ""
+"Říká ta kniha ještě něco jiného?"
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
@@ -491,6 +516,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000008D3"
 msgid "\"Hum... sir, please, no browsing in that shelf.\" She narrows her eyes. \"That wisdom is not for free.\""
 msgstr ""
+"\"Hm... pane, prosím, žádné prohlížení v této polici.\" Zúží oči. \"Ta moudrost není zadarmo.\""
 
 #. Title = BOOKSTORE / PARANORMAL
 #. Description = Shelf of paranormal books.
