@@ -1,8 +1,16 @@
+# Skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-05-28 19:11+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD1C"
 msgid "It's awfully silent again, as if someone turned off the entire world outside those walls. Water inside the bowls stands still."
 msgstr ""
+"Opět je tu hrozné ticho, jako kdyby někdo vypnul celý svět za zdmi. Voda v miskách je klidná."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD72"
 msgid "The lead programmer sends you an encouraging thumbs up from across the hall."
 msgstr ""
+"Hlavní programátor ti přes chodbu ukazuje povzbudivý palec nahoru."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD7A"
 msgid "This task is an insult to your mental skills."
 msgstr ""
+"Tento úkol je urážkou tvých mentálních schopností."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD34"
 msgid "Move the third bowl from the left two centimetres away."
 msgstr ""
+"Posuň třetí misku zleva o dva centimetry dál."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002C25"
 msgid "*And* your leg still hurts from the tribunal."
 msgstr ""
+"*A* ještě tě bolí noha od soudu."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD26"
 msgid "Move the fourth bowl from the left five centimetres to the right."
 msgstr ""
+"Posuň čtvrtou misku zleva o pět centimetrů doprava."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CFAC"
 msgid "Measurements have been marked down around the bowls, each chalk-drawn line representing a centimetre on the floor."
 msgstr ""
+"Kolem misek jsou vyznačeny míry, každá čára nakreslená křídou na podlaze představuje jeden centimetr."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD40"
 msgid "Some water spills out of the bowl, wetting the floor."
 msgstr ""
+"Z misky se vylije trochu vody, která smáčí podlahu."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000028A7"
 msgid "Time to run back! Or maybe walk, this *is* a sacred place after all..."
 msgstr ""
+"Je čas běžet zpátky! Nebo možná jít pěšky, tohle *je* koneckonců posvátné místo..."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD3A"
 msgid "It moves like a ghost without creating a single trace of sound."
 msgstr ""
+"Pohybuje se jako duch, aniž by vydávala sebemenší zvuk."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD62"
 msgid "Oh boy, this is going to be good."
 msgstr ""
+"Páni, tohle bude skvělý."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -87,3 +106,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD2C"
 msgid "[Leave.]"
 msgstr ""
+"[Odejít.]"
