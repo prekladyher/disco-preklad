@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-05-29 08:32+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / GARTE barks
 #. Description = Garte says the phone is disconnected.
@@ -10,3 +18,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000AA7"
 msgid "\"Yeah, it will be another week before the phone company gets around to sending a repair guy.\""
 msgstr ""
+"\"Jo, bude to trvat ještě týden, než telefonní společnost pošle opraváře.\""
