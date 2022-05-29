@@ -1277,6 +1277,99 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="secularism">
+        <descrip type="definition">forma vlády/politický pojem</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>secularism</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>sekularismus</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Magritte">
+        <descrip type="definition">řeka</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Magritte</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Magrit</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Army of Humanity">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Army of Humanity</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Armáda lidskosti</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="leitmotiv">
+        <descrip type="definition">součást hádanky</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>leitmotiv</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>leitmotiv</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Antedolorian court">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Antedolorian court</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Předbolestný dvůr</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Advesperascit">
+        <descrip type="definition">nepřekládáno, význam slova je vysvětlován v dialogu </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Advesperascit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Advesperascit</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Vesper-Messina">
+        <descrip type="definition">souvisí s významem slova "Advesperascit", pro kontext lepší nepřekládat</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Vesper-Messina</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Vesper-Messina</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
   </text>
 </martif>
