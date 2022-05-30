@@ -381,7 +381,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Innocence">
-        <descrip type="definition">[OK] vládce Okcidentu, mýtická postava</descrip>
+        <descrip type="definition">[OK] vládce Okcidentu, mýtická postava, též ve významu Neposkvrněnci aka uctívači</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Innocence</term>
@@ -1278,7 +1278,7 @@
         </langSet>
       </termEntry>
       <termEntry id="secularism">
-        <descrip type="definition">forma vlády/politický pojem</descrip>
+        <descrip type="definition">[OK] forma vlády/politický pojem</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>secularism</term>
@@ -1291,7 +1291,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Magritte">
-        <descrip type="definition">řeka</descrip>
+        <descrip type="definition">[OK] řeka</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Magritte</term>
@@ -1304,8 +1304,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Army of Humanity">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Army of Humanity</term>
@@ -1318,7 +1317,7 @@
         </langSet>
       </termEntry>
       <termEntry id="leitmotiv">
-        <descrip type="definition">součást hádanky</descrip>
+        <descrip type="definition">[OK] součást hádanky</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>leitmotiv</term>
@@ -1331,8 +1330,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Antedolorian court">
-        <descrip type="definition">
-        </descrip>
+        <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Antedolorian court</term>
@@ -1340,12 +1338,12 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Předbolestný dvůr</term>
+            <term>Předdoloriánský dvůr</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Advesperascit">
-        <descrip type="definition">nepřekládáno, význam slova je vysvětlován v dialogu </descrip>
+        <descrip type="definition">[OK] nepřekládáno, význam slova je vysvětlován v dialogu </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Advesperascit</term>
@@ -1358,7 +1356,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Vesper-Messina">
-        <descrip type="definition">souvisí s významem slova "Advesperascit", pro kontext lepší nepřekládat</descrip>
+        <descrip type="definition">[OK] souvisí s významem slova "Advesperascit", pro kontext lepší nepřekládat</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Vesper-Messina</term>
@@ -1367,6 +1365,244 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Vesper-Messina</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Therriers">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Therriers</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Teriéři</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Tiago">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tiago</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Tiago</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Iilmaraa">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Iilmaraa</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Ostrov přání</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Cursed Iilmaraan Die">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cursed Iilmaraan Die</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Prokletá kostka z Ostrova přání</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Queen Irene the Navigator">
+        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Queen Irene the Navigator</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Královna Irena, Navigátorka</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reichsapfel">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>reichsapfel</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>říšské jablko</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="(Her Innocence) Dolores Dei">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(Her Innocence) Dolores Dei</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(Její Neposkvrněnost) Dolores Božská</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dolorianism">
+        <descrip type="definition">[OK] církev uctívající odkaz Dolores Božské</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>dolorianism</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>doloriánství</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="The Founding Party">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>The Founding Party</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zakládající strana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Reál Belt">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reál Belt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Pásmo Reálů</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Mundi">
+        <descrip type="definition">ostrov</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mundi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Svět</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="interisolary trave">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>interisolary trave</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>transizolární cestování</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Sola">
+        <descrip type="definition">jedna z Neposkvrněných</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sola</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Slunečná</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Supramundi">
+        <descrip type="definition">část světa</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Supramundi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Suprasvět</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ĺieutenant-yefreitor">
+        <descrip type="definition">oslovení hl. postavy (od Kima)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ĺieutenant-yefreitor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>korporálporučík</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Dolorian Church of Humanity in Martinaise">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dolorian Church of Humanity in Martinaise</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kostel Neposkvrněné lidskosti v Martinéze</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Small Pinewood Church">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Small Pinewood Church</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kostel u borového lesíku</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Precinct">
+        <descrip type="definition">název okrsků policie (psáno s velkým poč. písmenem)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Precinct</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Okrsek</term>
           </tig>
         </langSet>
       </termEntry>
