@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-06-04 13:24+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001995D"
 msgid "Aside from poking at it -- suspiciously -- there is nothing else to do with the fish-head charm at this time. The curtains remain shut before you."
 msgstr ""
+"Kromě podezíravého šťouchání do něj se s amuletem rybí hlavy v tuto chvíli nedá dělat nic jiného. Závěsy před tebou zůstávají zavřené."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -59,6 +68,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000000BF"
 msgid "Pull the curtains open."
 msgstr ""
+"Roztáhni závěsy."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -123,6 +133,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00011614"
 msgid "\"But I sense this place calling for me. I must investigate *beyond* the threshold!\""
 msgstr ""
+"\"Ale já cítím, jak mě to místo volá. Musím prozkoumat, co se děje *za oponou*!\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -139,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002C50"
 msgid "\"I warned you! You are unleashing forces beyond your understanding!\""
 msgstr ""
+"\"Varovala jsem vás! Rozpoutáváte síly, které přesahují vaše chápání!\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -155,6 +167,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F00002F5F"
 msgid "\"Excuse me, officer...\" Plaisance calls out from the counter. \"The back room is strictly for employees only.\""
 msgstr ""
+"\"Promiňte, detektive...\" Radovana se ozve od pultu. \"Zadní místnost je určena pouze pro zaměstnance.\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -171,6 +184,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000115D4"
 msgid "Inhabitants of Ile du Fantôme, the Semenine Islands down south..."
 msgstr ""
+"Obyvatelé Ostrova duchů, ze Semeninských ostrovů dole na jihu..."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -179,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000115EE"
 msgid "(Rip them apart, this time for real.)"
 msgstr ""
+"(Roztrhni je od sebe, tentokrát doopravdy.)"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -187,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00011626"
 msgid "\"Why? It's not like anyone was *killed* there!\" She stops abruptly as her hand flies over her mouth, baffled by her own bluntness."
 msgstr ""
+"\"Proč? Vždyť tam nikoho nezabili!\" Náhle se zarazí a rukou si zakryje ústa, zmatená vlastní neomaleností."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -195,6 +211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000020"
 msgid "\"Para-psychologically speaking -- we're *done* if you decide to open them. I won't be held responsible for the consequences! It's too dangerous!\""
 msgstr ""
+"\"Parapsychologicky řečeno - pokud se je rozhodnete otevřít, jsme vyřízeni. Za následky nenesu odpovědnost! Je to příliš nebezpečné!\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -243,6 +260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000197FA"
 msgid "The curtains do seem *frail* suddenly. Not robust enough to contain a slippery darkness."
 msgstr ""
+"Záclony se najednou zdají být *slaboučké*. Nejsou dost masivní na to, aby zadržely záludnou temnotu."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -267,6 +285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000000AC"
 msgid "You see a set of tattered curtains blocking the way to another room. A strange cage-like trinket dangles from the curtains."
 msgstr ""
+"Vidíš potrhané závěsy, které blokují cestu do další místnosti. Ze závěsů visí podivná cetka připomínající klec."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -275,6 +294,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000838"
 msgid "You see a dimly lit room full of dusty furniture and trash. A doorway stands in the back, covered in dozens of scary little Semenese wards, your shadow looming over it like an omen."
 msgstr ""
+"Vidíš slabě osvětlenou místnost plnou zaprášeného nábytku a krámů. Vzadu stojí dveře, pokryté desítkami děsivých malých semenských strážců, nad nimiž se jako znamení osudu vznáší tvůj stín."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -315,6 +335,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002BC0"
 msgid "Examine the strange cage-like trinket."
 msgstr ""
+"Prohlédni si tu podivnou cetku v podobě klece."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -331,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000072"
 msgid "\"What are you doing there, officers?\" The shopkeeper turns around right as you manage to close the curtains. \"I told you not to play with the curtains... Please browse the books, sir!\""
 msgstr ""
+"\"Co tam děláte, detektivové?\" Prodavačka se otočí právě ve chvíli, kdy se ti podaří zatáhnout závěsy. \"Říkala jsem vám, abyste si se závěsy nehráli... Prosím, prohlížejte si knihy, pane!\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -339,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000037000000C0"
 msgid "\"Alright, I'll think about it for a while...\" (Continue.)"
 msgstr ""
+"\"Dobře, budu o tom chvíli přemýšlet...\" (Pokračuj.)"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -347,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002BDC"
 msgid "You see a set of tattered curtains blocking the way to another room. A strange cage-like trinket dangles from the curtains."
 msgstr ""
+"Vidíš potrhané závěsy, které blokují cestu do další místnosti. Ze závěsů visí podivná cetka připomínající klec."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -355,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001161A"
 msgid "\"Ma'am, this is different -- I'm a police officer, I *need* to get in there.\""
 msgstr ""
+"\"Madam, tohle je něco jiného - jsem policista a *potřebuju* se tam dostat.\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -363,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000037000000DB"
 msgid "She speaks almost as if she's trying to put a *spell* on you, urging you to buy more books..."
 msgstr ""
+"Mluví téměř tak, jako by se na tebe pokoušela seslat nějaké *kouzlo* a přimět tě, aby sis koupil další knihy..."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -371,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002BE4"
 msgid "She's right -- those curtains give off some *eerie vibes*. Better not mess with it."
 msgstr ""
+"Má pravdu - ty závěsy působí *strašidelně*. Radši si s tím nezahrávej."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -387,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000037000000AA"
 msgid "\"This is about *the curse*? That's why you're afraid?\""
 msgstr ""
+"\"Jde o *kletbu*? Proto se bojíte?\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -395,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000037000000C7"
 msgid "\"Thank you!\" The shopkeeper lets out a loud sigh. \"Let's just talk about this first, alright? There's no reason for you to venture into the unknown...\""
 msgstr ""
+"\"Děkuji!\" Prodavačka si hlasitě povzdechne. \"Nejdřív si o tom promluvíme, ano? Není důvod, abyste se pouštěl do neznáma...\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -403,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000000C5"
 msgid "[Ignore the curtains.]"
 msgstr ""
+"[Nevšímej si závěsů.]"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -411,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000027AB"
 msgid "(Pull open the curtains.)"
 msgstr ""
+"(Roztáhni závěsy.)"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -419,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000115CD"
 msgid "And who are the Semenese?"
 msgstr ""
+"A kdo jsou Semenští?"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -435,6 +467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00011CB7"
 msgid "Inhabitants of Ile du Fantôme or the Semenine Islands down south. Don't listen to what Inland Empire told you -- it's a beautiful place with a rich and unique culture..."
 msgstr ""
+"Obyvatelé Ostrova duchů, nebo Semeninských ostrovů dole na jihu... Neposlouchej, co ti říkal Vnitřní svět - je to krásné místo s bohatou a jedinečnou kulturou..."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -451,6 +484,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000000CD"
 msgid "You see a dimly lit room full of dusty furniture and trash. A doorway stands in the back, covered in dozens of scary little cage-like trinkets, your shadow looming over it like an omen."
 msgstr ""
+"Vidíš slabě osvětlenou místnost plnou zaprášeného nábytku a krámů. Vzadu stojí dveře, pokryté desítkami děsivých drobností v podobě klecí, nad nimiž se jako znamení osudu vznáší tvůj stín."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -459,6 +493,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000095"
 msgid "\"I am sorry, I don't mean to be so impolite, just please don't go there! I can't allow that. You'll only make things worse and unleash *the powers*.\""
 msgstr ""
+"\"Omlouvám se, nechci být tak nezdvořilá, jen tam prosím nechoďte! To nemohu dovolit. Jen to zhoršíte a uvolníte *ty síly*.\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -467,6 +502,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002F10"
 msgid "The room behind them is dim... You can only discern shadowy silhouettes of *things* there, crouching in the dark like monsters in a child's bedroom."
 msgstr ""
+"V místnosti za nimi je šero... Rozeznáváš jen stínové siluety *věcí*, které se krčí ve tmě jako příšery v dětském pokoji."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -475,6 +511,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000321D"
 msgid "You see a tattered set of curtains and a polyhedron-shaped cage-like trinket."
 msgstr ""
+"Vidíš potrhané závěsy a cosi mnohostěnného, připomíná to klec."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -483,6 +520,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F0000321D"
 msgid "The curtains, tattered with age and covered in dust, hang before you. As if taunting you..."
 msgstr ""
+"Před tebou visí záclony potrhané stářím a pokryté prachem. Jako by se ti vysmívaly..."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -491,6 +529,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000115FA"
 msgid "\"Sir, don't touch that! I told you it's off-limits for the customers!\" Her hand has closed around her pendant, her fingers nervously playing with the talisman."
 msgstr ""
+"\"Pane, nedotýkejte se jich! Říkala jsem vám, že je to není nic pro zákazníky!\" Její ruka se sevřela kolem přívěsku a prsty si nervózně pohrávají s talismanem."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -499,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00011620"
 msgid "You see a dimly lit room full of dusty furniture and trash. A doorway stands in the back, covered in dozens of scary little cage-like trinkets, your shadow looming over it like an omen."
 msgstr ""
+"Vidíš slabě osvětlenou místnost plnou zaprášeného nábytku a krámů. Vzadu stojí dveře, pokryté desítkami děsivých drobností v podobě klecí, nad nimiž se jako znamení osudu vznáší tvůj stín."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -507,6 +547,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000197D9"
 msgid "Oddly enough, the more she tries to draw you away from the curtains, the more alluring they become."
 msgstr ""
+"Je zvláštní, že čím víc se tě snaží od záclon odlákat, tím jsou lákavější."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -515,6 +556,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000029"
 msgid "She looks away, mumbling: \"Why is everyone *always* messing with the curtains, why can't they just buy books like normal people...\""
 msgstr ""
+"Odvrátí pohled a zamumlá: \"Proč si všichni pořád hrají s těmi závěsy, proč si prostě nemohou koupit knihy jako normální lidé...\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -571,6 +613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700002795"
 msgid "You see some kind of charm -- an irregular polyhedron, assembled from bones, sticks, and straw. Inside, a disturbing fish-head with empty eye sockets stares at you."
 msgstr ""
+"Vidíš jakýsi druh talismanu - nepravidelný mnohostěn sestavený z kostí, klacků a slámy. Uvnitř na tebe zírá znepokojivá rybí hlava s prázdnými očními důlky."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -579,6 +622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000279D"
 msgid "From the looks of it this is a traditional Semenese ward, meant to provide protection against ill luck, bad dreams, curses, and other supra-natural scourges."
 msgstr ""
+"Podle vzhledu se jedná o tradiční semanský předmět, který má poskytovat ochranu před neštěstím, zlými sny, kletbami a dalšími nadpřirozenými pohromami."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -611,6 +655,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000829"
 msgid "You see a dimly lit room full of dusty furniture and trash. A doorway stands in the back, covered in dozens of scary little Semenese wards, your shadow looming over it like an omen."
 msgstr ""
+"Vidíš slabě osvětlenou místnost plnou zaprášeného nábytku a krámů. Vzadu stojí dveře, pokryté desítkami děsivých malých semenských strážců, nad nimiž se jako znamení osudu vznáší tvůj stín."
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -619,6 +664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000115C0"
 msgid "\"Shopkeeper, what's behind the curtains?\""
 msgstr ""
+"\"Paní prodavačko, co je za tím závěsem?\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -627,6 +673,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001160D"
 msgid "\"You *do*?!\" She grabs her pendant again, visibly shaken. \"My god, even more reasons to not mess with the curtains... Just step away, dear sir!\""
 msgstr ""
+"\"Vy *musíte*?!\" Znovu uchopí svůj přívěsek, viditelně otřesená. \"Můj bože, o důvod víc, proč si nezahrávat s těmi závěsy... Prostě odejděte, drahý pane!\""
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -651,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002BC6"
 msgid "Ignore the curtains for now. [Leave.]"
 msgstr ""
+"Závěsů si prozatím nevšímej. [Odejdi.]"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -659,6 +707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00002D30"
 msgid "Just as you're about to pull apart the curtains, the petrified voice of the shop owner cries out once more:"
 msgstr ""
+"Právě když se chystáš rozhrnout závěsy, zkamenělý hlas majitelky obchodu znovu vykřikne:"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -675,3 +724,4 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F00011C5D"
 msgid "\"Nothing! Now please go back to browsing books.\" She fiddles with her pendant. \"Don't you feel *compelled* to look at the books? The books are all you care about!\""
 msgstr ""
+"\"Nic! Teď se prosím vraťte k prohlížení knih.\" Pohrává si s přívěskem. \"Necítíšte se snad nucen prohlížet si knihy? Vždyť vás zajímají jen knihy!\""
