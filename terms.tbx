@@ -506,7 +506,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Říkej mi Maňana</term>
+            <term>Říkají mi Pohodička</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1664,6 +1664,32 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Lexie</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Zsiemsk">
+        <descrip type="definition">[OK] -a, s.</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zsiemsk</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zsiemsko</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Easy Leo">
+        <descrip type="definition">[OK] [TYKAT]fakt prostý dělník</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Easy Leo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Prosťáček Leo</term>
           </tig>
         </langSet>
       </termEntry>
