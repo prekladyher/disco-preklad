@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-06-09 16:21+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006249"
 msgid "\"Aaaaa! It huuurts!\""
 msgstr ""
+"\"ˇAááááá! To boooolí!\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000625E"
 msgid "Nice try. The tears come streaming down your face as you crumble to the ground."
 msgstr ""
+"Pěkný pokus. Po tváři ti stékají slzy a ty se hroutíš na zem."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000626C"
 msgid "The tears bring some relief, but not much."
 msgstr ""
+"Slzy přinášejí určitou úlevu, ale ne velkou."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008EF7"
 msgid "He nods toward the staircase. \"Come on, let's go down.\""
 msgstr ""
+"Kývne směrem ke schodišti. \"Pojďme dolů.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060B4"
 msgid "\"It must be an electronic lock. You will have to get Garte, the cafeteria manager, to open it first -- after you've paid for the night.\""
 msgstr ""
+"\"Musí to být elektronický zámek. Nejdřív budete muset požádat Garta, manažera hostelu, aby ho otevřel - až zaplatíte za noc.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006265"
 msgid "Blubber. And keep blubbering."
 msgstr ""
+"Brblej. A pokračuj v brblání."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000183B"
 msgid "\"Just a moment. We should talk about our progress on the investigation. Let's go out to the balcony.\""
 msgstr ""
+"\"Moment. Měli bychom si promluvit o našem postupu ve vyšetřování. Pojďme na balkon.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000623B"
 msgid "(His voice echoes from downstairs.) \"What the hell is going on up there?\""
 msgstr ""
+"(Jeho hlas se ozývá zdola.) \"Co se to tam nahoře sakra děje?\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000034C2"
 msgid "You could try climbing into that trash bin in the yard, hobocop style... after you've gotten open the lid."
 msgstr ""
+"Mohl bys zkusit vlézt do té popelnice na dvoře ve stylu pobucajta... když už jsi otevřel víko."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060A0"
 msgid "Try to unlock the door."
 msgstr ""
+"Zkus odemknout dveře."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006198"
 msgid "\"I would advise against that. It's already late, and you won't find cheaper accommodation in the vicinity.\""
 msgstr ""
+"\"To bych nedoporučoval. Už je pozdě a v okolí levnější ubytování nenajdete.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000061A6"
 msgid "He's asserting his leadership talents because he is concerned about you."
 msgstr ""
+"Prosazuje své vůdčí schopnosti, protože mu na tobě záleží."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006273"
 msgid "Your angry voice carries through the Whirling, but you still can't stop the tears from welling up in your eyes..."
 msgstr ""
+"Tvůj rozzlobený hlas se nese Cáry, ale přesto nedokážeš zabránit slzám, které se ti derou do očí..."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008EBD"
 msgid "\"This door will fall prostrate before The Law!\" (Punch the door again.)"
 msgstr ""
+"\"Tyto dveře padnou před Zákonem tváří k zemi!\" (Znovu udeř do dveří.)"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006222"
 msgid "The lieutenant purses his lips. \"Admirable form. Now come on, let's go down.\""
 msgstr ""
+"Poručík našpulí rty. \"Obdivuhodná forma. Tak pojďte, jdeme dolů.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008E63"
 msgid "The door rings from the impact, but does not budge."
 msgstr ""
+"Dveře od nárazu zazvoní, ale nepohnou se."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006120"
 msgid "\"Nah, I'll get by somehow. Didn't like that room very much anyway.\""
 msgstr ""
+"\"Ne, nějak to zvládnu. Stejně se mi ten pokoj moc nelíbil.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008E3D"
 msgid "This is the door to your room."
 msgstr ""
+"Toto jsou dveře do tvého pokoje."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800008E3D"
 msgid "This is the door to the room you *redecorated*."
 msgstr ""
+"Tohle jsou dveře do pokoje, který jsi *předekoroval*."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008EAC"
 msgid "(His voice echoes from downstairs.) \"What's going on up there?\""
 msgstr ""
+"(Jeho hlas se ozývá zdola.) \"Co se to tam nahoře děje?\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008EB5"
 msgid "Pow-pow! That was impressive."
 msgstr ""
+"Bum-bum! To bylo působivé."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008ECB"
 msgid "The door shudders, but appears undamaged."
 msgstr ""
+"Dveře se zachvějí, ale zdají se být nepoškozené."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000034B7"
 msgid "You could try climbing into that trash bin in the yard, hobocop style..."
 msgstr ""
+"Mohl bys zkusit vlézt do té popelnice na dvoře ve stylu Pobucajta..."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060C5"
 msgid "You feel uncertain, like a child who's lost his mother in the crowd."
 msgstr ""
+"Cítíš se nejistě jako dítě, které v davu ztratilo matku."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060ED"
 msgid "Because it's your last lifeline to being a police officer instead of a hobo."
 msgstr ""
+"Protože je to tvoje poslední záchranné lano k tomu, abys byl policistou a ne pobudou."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008EE4"
 msgid "You've got this. Men like you don't cry unless it serves their purposes."
 msgstr ""
+"Máš tohle. Muži jako ty nepláčou, pokud to neslouží jejich záměrům."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004B1E"
 msgid "\"Alright, let's go.\""
 msgstr ""
+"\"Dobrá, jdeme.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060A7"
 msgid "Your key no longer turns in the lock."
 msgstr ""
+"Tvůj klíč se už v zámku netočí."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006126"
 msgid "\"Actually, I don't need to pay -- I will brave the streets. Go undercover as a hobocop.\""
 msgstr ""
+"\"Já vlastně platit nepotřebuju - budu klidně chodit po ulicích. Budu chodit v přestrojení za pobucajta.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000618B"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000061F2"
 msgid "The lieutenant looks on impassively. \"Even if you could break down the door, all you would get is another bill.\""
 msgstr ""
+"Poručík se dívá nevzrušeně. \"I kdyby se vám podařilo vyrazit dveře, dostanete jen další účet.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000621C"
 msgid "(His voice echoes from downstairs.) \"What's going on up there?\""
 msgstr ""
+"(Jeho hlas se ozývá zdola.) \"Co se to tam nahoře děje?\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008ED2"
 msgid "The door appears undamaged, and even more impassive than the lieutenant."
 msgstr ""
+"Dveře se zdají být nepoškozené a ještě netečnější než poručík."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060F3"
 msgid "Yes, and it's not just a matter of comfort, but also of principle. This may be your last lifeline to being a police officer instead of a hobo."
 msgstr ""
+"Ano, a není to jen otázka pohodlí, ale také principu. Může to být tvoje poslední záchranné lano, abys mohl být policistou, a ne pobudou."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000BB98"
 msgid "\"Good night, lieutenant.\""
 msgstr ""
+"\"Dobrou noc, poručíku.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000186C"
 msgid "The door to your room locks every night at 21.00 if you haven't paid for the room. You can pay downstairs when speaking to Garte, the cafeteria manager."
 msgstr ""
+"Dveře do pokoje se zamykají každý večer ve 21.00, pokud nemáš za pokoj zaplaceno. Zaplatit můžeš dole v přízemí při rozhovoru s manažerem hostelu Gartem."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000619E"
 msgid "He nods. \"Yes, we both need to get proper rest tonight.\""
 msgstr ""
+"Přikývne. \"Ano, oba si dnes musíme pořádně odpočinout.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000061E1"
 msgid "Observe the damage to your knuckles. Is this really worth it?"
 msgstr ""
+"Prohlédni si poškození kloubů. Opravdu to stojí za to?"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001833"
 msgid "\"Just a moment. You had some questions earlier, I believe, and, besides, we should discuss our progress on the investigation. Let's go out to the balcony.\""
 msgstr ""
+"\"Moment. Myslím, že jste měl předtím nějaké otázky, a kromě toho bychom měli probrat náš pokrok ve vyšetřování. Pojďme na balkon.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000034DB"
 msgid "Hey, remember that trash bin idea...? Time to get climbing!"
 msgstr ""
+"Vzpomínáš si na ten nápad s popelnicí...? Je čas začít šplhat!"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060E5"
 msgid "Still sounds better than sleeping outside."
 msgstr ""
+"Pořád to zní lépe než spát venku."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000610A"
 msgid "Just punch the damned door. No *locks* are going to keep you out."
 msgstr ""
+"Prostě ty zatracené dveře vyraz. Žádné *zámky* tě neudrží venku."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006192"
 msgid "\"Our investigation does not at present require for anyone to go undercover. Let's drop this discussion and go settle your debt with the manager.\""
 msgstr ""
+"\"Naše vyšetřování v současné době nevyžaduje, aby se někdo vydal do utajení. Zanechme této diskuse a jděte si vyřídit svůj dluh s manažerem.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006255"
 msgid "Try to stay cool."
 msgstr ""
+"Snažte se zůstat v klidu."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008E98"
 msgid "It hurts, but keep your cool. You've got this."
 msgstr ""
+"Bolí to, ale zachovejte chladnou hlavu. Tohle zvládneš."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001231"
 msgid "(His voice echoes from downstairs.) \"What the hell is going on up there?\""
 msgstr ""
+"(Jeho hlas se ozývá zdola.) \"Co se to tam nahoře sakra děje?\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000123C"
 msgid "The lieutenant looks at you with a mixture of pity and weariness. \"Come on, let's go down.\""
 msgstr ""
+"Poručík se na tebe podívá se směsicí lítosti a únavy. \" Pojďte, jdeme dolů.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000060DF"
 msgid "Why would I want to stay in such a place?"
 msgstr ""
+"Proč bych měl chtít zůstat na takovémhle místě?"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000612C"
 msgid "\"Right, I should go pay my debts before I can go to sleep.\""
 msgstr ""
+"\"Dobře, měl bych jít zaplatit dluhy, než budu moct jít spát.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008E53"
 msgid "Punch the door."
 msgstr ""
+"Udeř do dveří."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000E3DD"
 msgid "Something about it has changed."
 msgstr ""
+"Něco se tu změnilo."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000061FF"
 msgid "*Even if you could*? Don't let him talk you down, son!"
 msgstr ""
+"*I kdybys mohl*? Nenech se od něj přemluvit, synu!"
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000620E"
 msgid "Try one more time. This time with both fists, one after the other."
 msgstr ""
+"Zkus to ještě jednou. Tentokrát oběma pěstmi, jednou po druhé."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006241"
 msgid "The lieutenant looks at you with a mixture of pity and weariness. \"Come on, let's go down.\""
 msgstr ""
+"Poručík se na tebe podívá se směsicí lítosti a únavy. \" Pojďte, jdeme dolů.\""
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000624F"
 msgid "Keep it in. Cradle your arm."
 msgstr ""
+"Udrž to v sobě. Pohoupej si ruku."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008E73"
 msgid "Your fist bounces off the door and comes back to you on a wave of agony that surges up your arm."
 msgstr ""
+"Pěst se odrazí od dveří a vrátí se k tobě na vlně agónie, která ti stoupá do paže."
 
 #. Title = WHIRLING F2 / TEQUILA DOOR
 #. Description = The dialogue between you and the door to your room. It is locked unless you've paid for damages.
@@ -459,3 +523,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008EEA"
 msgid "Confront the door with a stoical expression. You are still The Law."
 msgstr ""
+"Čel dveřím se stoickým výrazem. Stále jsi Zákon."
