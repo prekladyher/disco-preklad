@@ -1706,6 +1706,45 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="marchese">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>marchese</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>markýz</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Sur-la-Clef">
+        <descrip type="definition">[OK] dříve Suresne (Jistota)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sur-la-Clef</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zaručená Jistota</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Pisantic Sea">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pisantic Sea</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Pisantské moře</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
   </text>
 </martif>
