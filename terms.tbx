@@ -471,6 +471,45 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Zsiemsk">
+        <descrip type="definition">[OK] -a, s.</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zsiemsk</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zsiemsko</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Sur-la-Clef">
+        <descrip type="definition">[OK] dříve Suresne (Jistota)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sur-la-Clef</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zaručená Jistota</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Pisantic Sea">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pisantic Sea</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Pisantské moře</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Acele Berger">
         <descrip type="definition">[OK] [VYKAT]</descrip>
         <langSet xml:lang="en">
@@ -783,19 +822,6 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="(Her Innocence) Dolores Dei">
-        <descrip type="definition">[OK] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>(Her Innocence) Dolores Dei</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>(Její Neposkvrněnost) Dolores Božská</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="Sola">
         <descrip type="definition">[OK] jedna z Neposkvrněných</descrip>
         <langSet xml:lang="en">
@@ -806,6 +832,58 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Slunečná</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Simo">
+        <descrip type="definition">[OK] [VYKAT]zatím zmíněn jen v dialogu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Simo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Šimon</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Sulisław">
+        <descrip type="definition">[OK] [VYKAT]zatím zmíněn jen v dialogu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sulisław</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Šulislav</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Lexie">
+        <descrip type="definition">[OK] [VYKAT]zatím zmíněn jen v dialogu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Lexie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Lexa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Easy Leo">
+        <descrip type="definition">[OK] [TYKAT]fakt prostý dělník</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Easy Leo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Prosťáček Leo</term>
           </tig>
         </langSet>
       </termEntry>
@@ -962,6 +1040,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Zakládající strana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Moralintern (Moralist International)">
+        <descrip type="definition">[OK] největší politická organizace</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Moralintern (Moralist International)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Moralinterna (Moralistická internacionála)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1183,6 +1274,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Technické</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="(Her Innocence) Dolores Dei">
+        <descrip type="definition">[OK] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(Her Innocence) Dolores Dei</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(Její Neposkvrněnost) Dolores Božská</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1628,84 +1732,6 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Simo">
-        <descrip type="definition">[OK] [VYKAT]zatím zmíněn jen v dialogu</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Simo</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Šimon</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Sulisław">
-        <descrip type="definition">[OK] [VYKAT]zatím zmíněn jen v dialogu</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Sulisław</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Šulislav</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Lexie">
-        <descrip type="definition">[OK] [VYKAT]zatím zmíněn jen v dialogu</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Lexie</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Lexie</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Zsiemsk">
-        <descrip type="definition">[OK] -a, s.</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Zsiemsk</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Zsiemsko</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Easy Leo">
-        <descrip type="definition">[OK] [TYKAT]fakt prostý dělník</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Easy Leo</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Prosťáček Leo</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Moralintern (Moralist International)">
-        <descrip type="definition">[OK] největší politická organizace</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Moralintern (Moralist International)</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Moralinterna (Moralistická internacionála)</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="marchese">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -1716,32 +1742,6 @@
         <langSet xml:lang="cs">
           <tig>
             <term>markýz</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Sur-la-Clef">
-        <descrip type="definition">[OK] dříve Suresne (Jistota)</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Sur-la-Clef</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Zaručená Jistota</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Pisantic Sea">
-        <descrip type="definition">[OK] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Pisantic Sea</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Pisantské moře</term>
           </tig>
         </langSet>
       </termEntry>
