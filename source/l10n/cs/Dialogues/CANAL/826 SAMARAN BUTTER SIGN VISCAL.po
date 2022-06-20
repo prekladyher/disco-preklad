@@ -1,8 +1,16 @@
+# Honzic <honzic@seznam.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Honzic <honzic@seznam.cz>\n"
+"PO-Revision-Date: 2022-06-19 10:32+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A3D"
 msgid "Look at the sign."
 msgstr ""
+"Podívej se na ceduli."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A31"
 msgid "Look at the roof of the shack."
 msgstr ""
+"Podívej se na střechu boudy."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000038D7"
 msgid "The SAMARAN BUTTER billboard still looks freshly painted, suggesting it took the plunge recently."
 msgstr ""
+"Cedule SAMARANSKÉ MÁSLO stále vypadá jako čerstvě natřená, to nasvědčuje tomu, že si šla *zaplavat* teprve nedávno."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A18"
 msgid "Judging by the size of the impact and the parallel lines of burnt rubber, the cause was probably a motor vehicle."
 msgstr ""
+"Soudě dle velikosti dopadu a paralelních stop od spálené gumy, příčinou bylo pravděpodobně motorové vozidlo."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A37"
 msgid "Look at the broken posts."
 msgstr ""
+"Podívej se na zlomené sloupy."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A03"
 msgid "Attempt to reconstruct what happened here."
 msgstr ""
+"Pokus se rekonstruovat, co se zde stalo."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100004D00003A03"
 msgid "Found sunken motor carriage."
 msgstr ""
+"Nalezen potopený motorový kočár."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100004D00003A03"
 msgid "Ominous daredevil feeling."
 msgstr ""
+"Žít jako kaskadér."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100004D00003A03"
 msgid "Magnetic Dice Set."
 msgstr ""
+"Sada magnetických kostek."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BCB"
 msgid "Why the Coupris 40?"
 msgstr ""
+"Proč Coupris 40?"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C44"
 msgid "Still speeding, the vehicle made a loop and vanished into the fog along the coast."
 msgstr ""
+"Vozidlo udělalo ve vysoké rychlosti salto a zmizelo v mlze na pobřeží. "
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017357"
 msgid "\"Yup -- *I* did this.\""
 msgstr ""
+"\"Jop -- udělal jsem to *já*.\""
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017365"
 msgid "\"Clearly, yes. Dwelling on it longer only makes it worse.\""
 msgstr ""
+"\"Očividně, ano. Už se tím nezabývejte. Děláte si to jen horší.\""
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000039EE"
 msgid "Goat milk butter. The Samaran terrain makes it easier to raise goats than cows, and the local goat farmers produce high-quality meat and dairy staples that add variety to other nations' diets."
 msgstr ""
+"Máslo z kozího mléka. V Samarankém terénu je mnohem jednodušší chovat kozy než krávy. Místní chovy koz produkují velice kvalitni maso a mléčné výrobky, které přidávají narodnímu jídelníčku na rozmanitosti."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C0F"
 msgid "Within the past 72 hours."
 msgstr ""
+"Během posledních 72 hodin."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001735E"
 msgid "Clearly. The motor carriage in question was a Coupris 40 -- mere minutes before it took a final voyage into the ocean."
 msgstr ""
+"Očividně. Jednalo se o motorový kočár Coupris 40 -- pouhé minuty předtím než se vydal na svoji poslední výpravu do oceanu."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000039F8"
 msgid "It's an acquired taste."
 msgstr ""
+"Na tu chuť je potřeba si zvyknout."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BBF"
 msgid "There are two good candidates: the Coupris 40 and the Linnea G22."
 msgstr ""
+"Máme dva vhodné kandidáty: Coupris 40 a Linnea G22."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BDD"
 msgid "Very sturdy but light motor carriage. More likely than most to survive that jump."
 msgstr ""
+"Velice odolný, ale lehký motorový kočár. S největší pravděpodobností by přežil takový skok."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C15"
 msgid "The black marks on the roof indicate that the vehicle *vaulted* from the crater to the roof of the shack."
 msgstr ""
+"Černé stopy na střeše nasvědčují tomu, že vozidlo *vyskočilo* z kráteru na střechu boudy."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C1D"
 msgid "Side slip marks indicate that the vehicle was travelling up the crater at 35 km/h."
 msgstr ""
+"Úhel bočního skluzu nasvědčuje tomu, že rychlost vozidla v kráteru byla 35 km/h."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BD1"
 msgid "Why the Linnea G22?"
 msgstr ""
+"Proč Linnea G22?"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000097FF"
 msgid "These match the tyre tracks you saw earlier -- *your* tyre tracks."
 msgstr ""
+"Tyto stopy odpovídají stopám pneumatik, které si viděl dříve -- *tvým* pneumatikám."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C63"
 msgid "The Linnea G22 is not a particularly popular model due to its peculiar proportions, which the manufacturer's design team probably thought about for too long."
 msgstr ""
+"Linnea G22 není velice populární model, kvůli svým neobvyklým proporcím. Vývojářský tým výrobce pravděpodobně nad těmito proporcemi přemýšlel až příliš dlouho."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BAE"
 msgid "Nothing more to see here. [Leave.]"
 msgstr ""
+"Není tu nic dalšího k vidění. [Odejdi.]"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BEF"
 msgid "Blink. [Leave.]"
 msgstr ""
+"Mrkni. [Odejdi.]"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C23"
 msgid "The vehicle soared through the air, hitting the billboard and upsetting the posts. Then it continued its flight, taking the billboard with it."
 msgstr ""
+"Vozidlo se řítilo vzduchem. Trefilo ceduli a uvolnilo její uchycení. Poté pokračovalo v letu, přičemž vzalo celou ceduli sebou."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000039C8"
 msgid "A crumpled billboard reading \"SAMARAN BUTTER\" soaks in the canal. Two ugly lines mar the bright countenance of the blond boy depicted."
 msgstr ""
+"Zmuchlaná cedule s nápisem \"SAMARANKSÉ MÁSLO\" se válí na dně kanálu. Dvě osklivé šmouhy kazí jinak jasnou tvář blonďatého chlapce."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000039DB"
 msgid "Whatever it is, the boy on the billboard seems very happy about it."
 msgstr ""
+"Ať je to, co je to, chlapec na ceduli z toho má velikou radost."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A2B"
 msgid "Look at the crater."
 msgstr ""
+"Podívej se na kráter."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017345"
 msgid "\"Yup -- *I* did this.\""
 msgstr ""
+"\"Jop -- udělal jsem to *já*.\""
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00010082"
 msgid "These look like the same tyre tracks I saw earlier -- in front of the Whirling-in-Rags."
 msgstr ""
+"Tyto stopy vypadají jako stopy pneumatik, které si viděl dříve -- před Cárama."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000039D5"
 msgid "What is Samaran Butter?"
 msgstr ""
+"Co je to Samaranské máslo?"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C29"
 msgid "The sign broke the vehicle's fall into the canal."
 msgstr ""
+"Cedule zabránila pádu vozidla do kanálu."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017589"
 msgid "The sign billboard has fallen on the water lock, keeping it open -- and thus out of order."
 msgstr ""
+"Cedule spadla do kanálu a zablokovala zdymadlo. To zůstalo otevřené -- a tudíž mimo provoz."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003A12"
 msgid "Just some tasteless advertising at the bottom of a canal. No use rubbernecking now."
 msgstr ""
+"Jen nějaká nechutná reklama na dně kanálu. Nic co by stálo za řeč."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C09"
 msgid "How recently?"
 msgstr ""
+"Jak nedávno?"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C38"
 msgid "The panel served as a take-off ramp."
 msgstr ""
+"Panel posloužil jako odrazová rampa."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00007E65"
 msgid "The lieutenant looks on, waiting for you to wrap up your analysis."
 msgstr ""
+"Poručík přihlíží a čeká, až dokončíš analýzu."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C5D"
 msgid "The Coupris 40 is a very popular model with bank clerks, topping-pie delivery drivers, secondary school teachers, cops, strippers dressed as cops, undressed strippers..."
 msgstr ""
+"Coupris 40 je velice populární mezi bankovními uředníky, rozvozci koláčů, středoškolskými učiteli, poldy, striptéry převlečenými za poldy... a striptéry převlečenými za poldy -- ale bez *uniforem*."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000143D"
 msgid "The crumpled SAMARAN BUTTER billboard still soaks in the canal, marked by tyre tracks."
 msgstr ""
+"Zmuchlaná cedule SAMARANSKÉ MÁSLO se stále máčí v kanálu, poznamenaná stopami od pneumatik."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BA2"
 msgid "Look at the opposite bank."
 msgstr ""
+"Podívej se na protější břeh."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000100C0"
 msgid "Now? You'd have to follow the tracks to be sure."
 msgstr ""
+"Teď? Budeš muset sledovat stopy, aby sis byl jistý."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BF7"
 msgid "What now?"
 msgstr ""
+"Co teď?"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003C32"
 msgid "Look at the sloping metal roof panel."
 msgstr ""
+"Podívejte se na šikmý kovový střešní panel."
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BA8"
 msgid "What was the model of this phantom vehicle?"
 msgstr ""
+"Jaký model bylo toto záhadné vozidlo?"
 
 #. Title = CANAL / SAMARAN BUTTER SIGN VISCAL
 #. Description = You find tire tracks indicating that a car leapt over the canal.
@@ -379,3 +433,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003BD7"
 msgid "It's about the right size, and the tyre marks look like they came from the skinny tyres frequently found on that motor carriage."
 msgstr ""
+"Má přibližně správnou velikost a stopy po pneumatikách vypadají, jako ty běžně používané u tohoto modelu."
