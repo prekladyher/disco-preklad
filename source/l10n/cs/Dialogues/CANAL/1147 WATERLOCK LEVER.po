@@ -1,8 +1,16 @@
+# Honzic <honzic@seznam.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Honzic <honzic@seznam.cz>\n"
+"PO-Revision-Date: 2022-05-28 09:21+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001764D"
 msgid "So the coast is closed off. Is this why Lena's husband Morell the cryptozoologist hasn't returned?"
 msgstr ""
+"Takže pobřeží je nedostupné. Je tohle ten důvod, proč se Lenin manžel, kryptozoolog Morell, nevrátil?"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001AD7E"
 msgid "Focus on one thing, achieve it, then the next... he thinks. That's the task chain."
 msgstr ""
+"Zaměř se na jednu věc, dosáhni jí a pak přistup k další... pomyslel si. To je vyšetřovací postup."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008028"
 msgid "Nothing happens. A cold gust of wind blowing in from the sea interrupts the silence of the situation."
 msgstr ""
+"Nic se nestalo. Studený závan větru od moře přerušil nastalé ticho této trapné situace."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008068"
 msgid "The water lock starts moving..."
 msgstr ""
+"Zdymadlo se dalo do pohybu..."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007E94"
 msgid "A couple of indicator lights are missing from this control panel. Loose wires dangle from the now-vacant holes. In the middle is a lever -- beneath it, a small metal plaque."
 msgstr ""
+"Na řídícím panelu chybí několik kontrolek. Z děr po kontrolkách trčí množství volných různobarevných drátků. Uprostřed je páka -- pod ní malá kovová destička."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001AD4D"
 msgid "Wait... Could this be why Morell hasn't returned to Lena?"
 msgstr ""
+"Počkat... je tohle snad ten důvod proč se Morell nevrátil k Leně?"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000002000013B0"
 msgid "Isn't there a sign over there saying functionality will be restored on Wednesday morning?"
 msgstr ""
+"Není snad támhle cedule, na které stojí, že opravy budou ukončeny ve středu ráno?"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017532"
 msgid "\"All right.\" The lieutenant looks across the canal. \"We can go to the coast now. Expect rugged terrain -- and drunks.\""
 msgstr ""
+"\"Dobrá.\" Poručík pohléde na druhý břeh kanálu. \"Teď už můžeme jít na pobřeží. Očekávejte drsný terén -- a opilce.\""
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000600017532"
 msgid "\"All right.\" The lieutenant looks across the canal. \"We can go to the coast now. Expect rugged terrain -- and drunks. And if you wanted to forge that document for Evrart, now you can...\" "
 msgstr ""
+"\"Dobrá.\" Poručík pohléde na druhý břeh kanálu. \"Teď už můžeme jít na pobřeží. Očekávejte drsný terén -- a opilce. A pokud chcete zfalšovat ten dokument pro Evrarta, teď máte příležitost...\""
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017634"
 msgid "\"Looks like it, yes. We should probably go tell Lena. Take a load off her mind.\""
 msgstr ""
+"\"Ano, už to tak vypadá. Měli bychom to jít říct Leně. Určitě se jí uleví.\""
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000801E"
 msgid "Release the lever."
 msgstr ""
+"Pust páku."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001753D"
 msgid "Wasn't there a sign over there saying functionality will be restored on Wednesday morning?"
 msgstr ""
+"Nebyla snad támhle cedule, na které stojí, že opravy budou ukončeny ve středu ráno?"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017623"
 msgid "\"So the coast is closed off. This may be why Lena's husband Morell the cryptozoologist hasn't returned.\""
 msgstr ""
+"\"Takže pobřeží je nedostupné. Tohle může být ten důvod, proč se Lenin manžel, kryptozoolog Morell, nevrátil.\""
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001765A"
 msgid "You should probably tell Lena. It'll take a load off her mind."
 msgstr ""
+"Měl by si to jít říct Leně. Určitě se jí uleví."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007EB1"
 msgid "[Leave.]"
 msgstr ""
+"[Odejít.]"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007F36"
 msgid "You pull the lever all the way up until the metal clicks against the contact pins. You hear a soft *clunk*, then..."
 msgstr ""
+"Zvedneš páku až úplně nahoru, dokud se kontakty nespojí. Uslyšíš jemné kovové *cvak* a potom..."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001AD60"
 msgid "\"Okay...\" The lieutenant looks across the canal. \"If we ever need to get to the coast, then this is the way. But please, contain your *wanderlust* for now. I don't want us to get sidetracked. Not with everything that's going on.\""
 msgstr ""
+"\"Okej...\" Poručík pohléde na druhý břeh kanálu. \"Tudy se dostaneme na pobřeží. Chtěl bych vás ale poprosit, abyste prozatím ovládal svojí touhu se toulat. S tím vším co se kolem děje, nechci ještě hledat pohřesovaného policistu.\""
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000060001AD60"
 msgid "\"All right.\" the lieutenant looks across the canal. \"We can go to the coast now. Expect rugged terrain -- and drunks. And if you wanted to forge that document for Evrart, now you can...\" "
 msgstr ""
+"\"Dobrá.\" Poručík pohléde na druhý břeh kanálu. \"Teď už můžeme jít na pobřeží. Očekávejte drsný terén -- a opilce. A pokud chcete zfalšovat ten dokument pro Evrarta, teď máte příležitost...\""
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007F06"
 msgid "This panel usually closes the water lock, turning it into a bridge that lets you cross the canal -- but there's a crashed \"Samaran butter\" sign in the way. Pulling the lever *probably* won't do anything."
 msgstr ""
+"Přes tento panel se obvykle zavírá zdymadlo, které poté slouží jako most přes kanál -- teď mu, ale v cestě leží cedule \"Samarské máslo\". Zatažení za páku *pravděpodobně* nic neudělá."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000807D"
 msgid "The man watches you in silence, very slowly cutting off another slice of his salami and putting it in his mouth."
 msgstr ""
+"Muž tě v tichosti sleduje, velice pomalu odkrajuje další plátek salámu a vkládá si ho do úst."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001AD3F"
 msgid "Could this be why Morell hasn't returned to Lena?"
 msgstr ""
+"Je tohle snad ten důvod proč se Morell nevrátil k Leně?"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007F68"
 msgid "You grab the handle and pull the lever up. As soon as the metal connects against the contact pins you hear a loud *clunk*, then..."
 msgstr ""
+"Chytneš páku a zvedneš ji až úplně nahoru.V okamžiku kdy se kovové kontakty spojí, uslyšíš hlasité *cvak* a potom..."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008019"
 msgid "Push it HARDER."
 msgstr ""
+"ZATLAČ VÍC!"
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017524"
 msgid "Pull the lever -- again."
 msgstr ""
+"Zvedni páku -- znova."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017683"
 msgid "She *was* quite worried..."
 msgstr ""
+"Opravdu *vypadala* docela ustaraně..."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007F0E"
 msgid "A rusting control panel with loose wires dangling out from the hole where an indicator light used to be, and a mechanical lever sitting in the middle."
 msgstr ""
+"Rezivějící řídící panel, z jehož děr, po kontrolkách, trčí množství volných různobarevných drátků. Uprostřed se nachází ovládací páka."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007F4B"
 msgid "A spring brings the lever back to its original position. You still need to close the water lock to get across the canal -- some other way."
 msgstr ""
+"Pružina vrátila páku zpět do původní pozice. Stále potřebuješ zavřít zdymadlo, aby ses dostal na druhou stranu -- třeba jiným způsobem."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008078"
 msgid "\"Mm-hmm.\" The lieutenant hums to himself while staring at your activities."
 msgstr ""
+"\"Mm-hmm.\" Poručík zabručí sledujíc tvé počínaní."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017654"
 msgid "The Water Lock Control Panel doesn't make for much of a partner, but yeah -- why not."
 msgstr ""
+"Kontrolní panel zdymadla není úplně vhodný partner, ale jasně -- proč ne."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007EAC"
 msgid "Pull the lever up."
 msgstr ""
+"Zvedni páku."
 
 #. Title = CANAL / WATERLOCK LEVER
 #. Description = this is the button-switch-lever-thing that closes the waterlock once it's been fixed on day 3
@@ -220,3 +258,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00007F44"
 msgid "Nothing happens."
 msgstr ""
+"Nic se nestalo."
