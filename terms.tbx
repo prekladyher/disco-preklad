@@ -524,7 +524,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Andre">
-        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <descrip type="definition">[OK] [TYKAT]</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Andre</term>
@@ -575,11 +575,11 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Egghead">
+      <termEntry id="Egg Head">
         <descrip type="definition">[OK] [TYKAT]mladík, snad DJ, TYKAT</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Egghead</term>
+            <term>Egg Head</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
@@ -1667,11 +1667,11 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="interisolary trave">
+      <termEntry id="interisolary travel">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>interisolary trave</term>
+            <term>interisolary travel</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
@@ -1755,6 +1755,153 @@
         <langSet xml:lang="cs">
           <tig>
             <term>poldotyp</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="New New World">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>New New World</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Novonový svět</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Noid">
+        <descrip type="definition">[TYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Noid</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Noid</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Soona Luukanen-Kilde">
+        <descrip type="definition">[VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Soona Luukanen-Kilde</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Soňa Luukanen-Kildeová</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Vox">
+        <descrip type="definition">asi programovací jazyk</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Vox</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Vox</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="radio engineer">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>radio engineer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>rádiotechnik</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Neha">
+        <descrip type="definition">[VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Neha</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Libuše</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="radio relay tower">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>radio relay tower</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>rádiovysílací věž</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="anodic dance music">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>anodic dance music</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>anodická taneční hudba</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="raver">
+        <descrip type="definition">označení mladých lidí, co si "užívají života"</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>raver</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>kalič</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="entroponetics">
+        <descrip type="definition">vědní obor zkoumající bledomez</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>entroponetics</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>entroponetika</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Novelty Dicemaker">
+        <descrip type="definition">[VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Novelty Dicemaker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Nezvyklá kostkářka</term>
           </tig>
         </langSet>
       </termEntry>
