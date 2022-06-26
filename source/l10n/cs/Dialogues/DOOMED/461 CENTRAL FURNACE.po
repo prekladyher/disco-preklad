@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-06-26 11:51+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000176E"
 msgid "A thick layer of coal dust covers the furnace, colouring it pitch-black."
 msgstr ""
+"Pec pokrývá silná vrstva uhelného prachu, který ji zbarvuje do černa."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081EDF"
 msgid "A hollow ring echoes through the furnace. Your toe hurts."
 msgstr ""
+"V topeništi se ozve duté zvonění. Bolí tě palec u nohy."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081F7F"
 msgid "Yell \"Hello!\" into the furnace."
 msgstr ""
+"Zakřič do pece \"Haló!\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -51,6 +62,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100002B00081F7F"
 msgid "Kicked the furnace."
 msgstr ""
+"Kopl jsi do pece."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -115,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003E93"
 msgid "\"Hmm, maybe you should let your voice rest, officer. Try again later.\""
 msgstr ""
+"\"Hmm, možná byste měl nechat svůj hlas odpočinout, detektive. Zkusíte to později.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -123,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003EBC"
 msgid "The chatter from the chimney continue on as before. You seem to have made no impression on whatever's *up there*."
 msgstr ""
+"Hovor v komíně pokračuje jako dřív. Zdá se, že na to, co je *tam nahoře*, jsi neudělal žádný dojem."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -131,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000DF7"
 msgid "\"I'm not sure, Kim... but I think I can hear someone talking upstairs.\""
 msgstr ""
+"\"Nejsem si jistý, Kime, ale myslím, že nahoře slyším někoho mluvit.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -147,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081E99"
 msgid "Smear your hands with coal."
 msgstr ""
+"Potři si ruce sazemi."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -171,6 +187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000DD5"
 msgid "\"What are you doing?\" the lieutenant asks when he sees you climb half-way inside the furnace."
 msgstr ""
+"\"Co to děláte?\" zeptá se poručík, když vidí, žes napůl vlezl do pece."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -195,6 +212,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00083364"
 msgid "\"Hello?\" you hear a woman's voice answer."
 msgstr ""
+"\"Haló?\" ozve se ženský hlas."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -251,6 +269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700026C5E"
 msgid "Something *breaks loose* in you. A mighty bellow echoes throughout the chimney's depths. The chatter of tiny voices above suddenly cease. Then..."
 msgstr ""
+"Něco se v tobě *uvolní*. V hlubinách komína se ozve mohutný rachot ozvěny. Štěbetání drobných hlásků nahoře náhle utichne. A pak..."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -267,6 +286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000E3A"
 msgid "\"Wait, really?\" He looks up at the ceiling. \"We should investigate, see if someone's upstairs.\""
 msgstr ""
+"\"Počkejte, vážně?\" Podívá se ke stropu. \"Měli bychom to prozkoumat, jestli někdo není nahoře.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -291,6 +311,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000EE8"
 msgid "I'm hallucinating..."
 msgstr ""
+"Mám halucinace..."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -299,6 +320,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081E7F"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -307,6 +329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000E0D"
 msgid "\"Wait, really?\" The lieutenant sounds concerned. \"Take your head out of the chimney, please. It's not safe.\""
 msgstr ""
+"\"Počkejte, vážně?\" Poručík zní znepokojeně. \"Vyndejte hlavu z komína, prosím. Není to bezpečné.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -331,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081EE7"
 msgid "\"Looks like it. Looks like an old central furnace used to heat the building. It's connected to the chimney...\" He opens the door and gingerly peeks inside."
 msgstr ""
+"\"Vypadá to tak. Vypadá to na staré centrální topeniště, které se používalo k vytápění budovy. Je napojené na komín...\" Otevře dveře a opatrně nahlédne dovnitř."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -339,6 +363,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00083371"
 msgid "\"This is the police! Who's there?\""
 msgstr ""
+"\"Tady je policie! Kdo je tam?\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -363,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000EAB"
 msgid "\"Those voices I heard... Maybe it's the malignant Entity? Plaisance said it lives in a chimney.\""
 msgstr ""
+"\"Ty hlasy, které jsem slyšel... Možná je to ta zhoubná Entita? Radovana říkala, že žije v komíně.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -395,6 +421,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000DC8"
 msgid "It's dark and grimy here. In the darkness, you can hear *chatter*. It's coming from above. A voice -- or several voices -- talking to each other, near the smoke chamber upstairs."
 msgstr ""
+"Je tu tma a špína. Ve tmě je slyšet *hovor*. Přichází shora. Hlas - nebo několik hlasů - mluví spolu poblíž kouřové komory nahoře."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -427,6 +454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0008336B"
 msgid "\"Hello! Are you there? Speak to me!\""
 msgstr ""
+"\" Haló! Jste tam? Mluvte se mnou!\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -435,6 +463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0008597E"
 msgid "You muster all your strength and yell..."
 msgstr ""
+"Sebereš všechny síly a zařveš..."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -459,6 +488,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A952"
 msgid "\"Hello! Did you say anything?\" There's a pause. \"I can't hear you, please come upstairs! There's a safety curtain on the second floor, I'll open it!\""
 msgstr ""
+"\"Haló! Říkal jste něco?\" Nastane pauza. \"Neslyším vás, pojď prosím nahoru! Ve druhém patře je bezpečnostní roleta, otevřu ji!\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -483,6 +513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700026C74"
 msgid "\"I summon the ghost of this Doomed Commercial Area. Now begone, vile succubus!\""
 msgstr ""
+"\"Vyvolávám ducha těchto Prokletých komerčních prostor. A teď odejdi, odporná sukubo!\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -507,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A447"
 msgid "The echo is so prominent, it's impossible to discern what the voices are saying. Or what's producing them."
 msgstr ""
+"Ozvěna je tak výrazná, že není možné rozeznat, co hlasy říkají. Nebo co je vytváří."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -515,6 +547,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081E73"
 msgid "Look inside the furnace."
 msgstr ""
+"Podívej se dovnitř pece."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -523,6 +556,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081E79"
 msgid "Kick it with your foot."
 msgstr ""
+"Kopni do ní nohou."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -531,6 +565,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A42E"
 msgid "Always has to be the sceptic, this man..."
 msgstr ""
+"Tenhle člověk musí být vždycky skeptik..."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -539,6 +574,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A464"
 msgid "\"He... he... hekkhhhh...\""
 msgstr ""
+"\"He... he... hekkhhhh...\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -555,6 +591,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C3E"
 msgid "\"No one has used it in ages... No signs of any recent fire, only dead rats.\""
 msgstr ""
+"\"Nikdo ji už léta nepoužil... Žádné stopy po nedávném ohni, jen mrtvé krysy.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -571,6 +608,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000DE2"
 msgid "\"I'm hallucinating.\""
 msgstr ""
+"\"Mám halucinace.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -579,6 +617,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100009200000DE2"
 msgid "\"I'm hallucinating. Or maybe it's the Entity...\""
 msgstr ""
+"\"Mám halucinace. Nebo je to ta Entita...\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -587,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A417"
 msgid "Maybe you could *paint* something with this coal? Leave a cave painting for future archaeologists... no, that would be stupid."
 msgstr ""
+"Možná bys mohl těmi sazemi něco *namalovat*. Zanechat jeskynní malbu pro budoucí archeology... ne, to by bylo hloupé."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -595,6 +635,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081E59"
 msgid "A thick layer of coal dust covers the furnace, colouring it pitch-black."
 msgstr ""
+"Pec pokrývá silná vrstva uhelného prachu, který ji zbarvuje do černa."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -611,6 +652,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000DE8"
 msgid "\"I hear the murderer of the hanged man talking.\""
 msgstr ""
+"\"Slyším mluvit vraha oběšence.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -627,6 +669,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00013505"
 msgid "Then again -- maybe it's worth actually trying something *up there*?"
 msgstr ""
+"Takže znovu - možná by stálo za to něco zkusit *tam nahoře*?"
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -643,6 +686,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A95B"
 msgid "You hear a low rumble upstairs -- the sound of a curtain being pulled aside."
 msgstr ""
+"Nahoře uslyšíš tichý hukot - zvuk otvírané rolety."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -651,6 +695,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003EB4"
 msgid "A lifetime of smoking and drinking will do that to you."
 msgstr ""
+"To ti udělá celý život kouření a pití."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -659,6 +704,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000EEE"
 msgid "I hear the murderer of the hanged man talking."
 msgstr ""
+"Slyším mluvit vraha oběšence."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -667,6 +713,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081E6D"
 msgid "\"Kim, what is this thing? Is it a furnace?!\""
 msgstr ""
+"\"Kime, co je to za věc? Je to pec?!\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -691,6 +738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700005780"
 msgid "\"I summon the ghost of this Doomed Commercial Area. Answer me, spirit!\""
 msgstr ""
+"\"Vyvolávám ducha těchto Prokletých komerčních prostor. Odpověz mi, duchu!\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -699,6 +747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000EC1"
 msgid "\"You're right, the rooms do look like they're connected. But *malignant Entities* don't exist -- at least not the *supra-natural* kind.\""
 msgstr ""
+"\"Máte pravdu, ty místnosti vypadají, že jsou propojené. Ale *zhoubné entity* neexistují - přinejmenším ne ty *nadpřirozené.\""
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -707,6 +756,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A45E"
 msgid "Your dehydrated, hungover throat can produce little more than a dry croak."
 msgstr ""
+"Tvé dehydratované hrdlo s kocovinou dokáže vydat jen suché skřehotání."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -723,6 +773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081EA0"
 msgid "A lush layer of coal now covers your skin, sinking into the wrinkles. Your hands look ancient."
 msgstr ""
+"Kůži ti nyní pokrývá okázalá vrstva sazí, která se zanořuje do vrásek. Tvé ruce vypadají starobyle."
 
 #. Title = DOOMED / CENTRAL FURNACE
 #. Description = This is an industrial oven on the first floor of Doomed. You can interact with it and contact Dicemaker.
@@ -763,3 +814,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003EC3"
 msgid "The lieutenant nods, then points upstairs. \"After you, officer.\""
 msgstr ""
+"Poručík přikývne a ukáže nahoru. \"Až po vás, detektive.\""
