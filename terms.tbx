@@ -901,7 +901,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Tiago">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [VYKAT]</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Tiago</term>
@@ -1850,7 +1850,7 @@
         </langSet>
       </termEntry>
       <termEntry id="secularism">
-        <descrip type="definition">[OK] forma vlády/politický pojem</descrip>
+        <descrip type="definition">[OK] forma vlády/politický pojem = oddělení církve od státu, jinými slovy politický prostor respektuje náboženství, ale neřídí se jím</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>secularism</term>
@@ -2045,7 +2045,7 @@
         </langSet>
       </termEntry>
       <termEntry id="crab-man">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [VYKAT]přezdívka Tiaga</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>crab-man</term>
@@ -2123,7 +2123,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Evrart Claire">
-        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <descrip type="definition">[OK] [VYKAT]odborářský funkcionář</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Evrart Claire</term>
@@ -2201,7 +2201,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Kineema">
-        <descrip type="definition">[OK] značka elektra</descrip>
+        <descrip type="definition">[OK] model auta značky Coupris</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Kineema</term>
@@ -2214,7 +2214,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Kristallsprach">
-        <descrip type="definition">[OK] značka elektra</descrip>
+        <descrip type="definition">[OK] značka elektra - vysílačka</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Kristallsprach</term>
@@ -2223,6 +2223,20 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Kristallsprach</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Church of the Mother of Silence">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Church of the Mother of Silence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kostel Matky Ticha</term>
           </tig>
         </langSet>
       </termEntry>
