@@ -1,8 +1,16 @@
+# Skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-07-05 12:48+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E47F"
 msgid "Though he used to. A long time ago."
 msgstr ""
+"Ačkoli to dělával. Už je to dávno."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E4A4"
 msgid "No need to overdo it. He won't mind sharing it with you."
 msgstr ""
+"Netřeba to přehánět. Nebude mu vadit, když se o něj s tebou podělí."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001432"
 msgid "\"Honestly I just want to break into a radiocomputer, see what's on it.\""
 msgstr ""
+"\"Upřímně řečeno, chci se jen vloupat do rádiokomputru a zjistit, co v něm je.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001441"
 msgid "The lieutenant raises his eyebrow, but doesn't say anything."
 msgstr ""
+"Poručík zvedne obočí, ale nic neřekne."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014AA"
 msgid "\"No, I just call her 'viejita' because of her clothes, she's actually quite young...\" He scratches his head. \"Or maybe not *that* young... Age is just one of the many masks we wear.\""
 msgstr ""
+"\"Ne, já jí říkám 'viejita' jen kvůli jejímu oblečení, je vlastně docela mladá...\" Poškrábe se na hlavě. \"Nebo možná ne až tak mladá... Věk je jen jedna z mnoha masek, které nosíme.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014B9"
 msgid "\"Did it ever seem to you like she was hiding here from something?\" The lieutenant seems to be thinking the same. He takes out his little notebook."
 msgstr ""
+"\"Připadalo Vám někdy, že se tu před něčím schovává?\" Poručík si zřejmě myslí totéž. Vytáhne svůj malý zápisník."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F877"
 msgid "Vigilance is practically my middle name. I won't let anyone talk me into anything unreasonable."
 msgstr ""
+"Bdělost je prakticky moje druhé jméno. Nenechám se přemluvit k ničemu nerozumnému."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FBD0"
 msgid "\"Don't really follow her comings and goings. Just see her typing on her computer now and then. We've got different interests.\""
 msgstr ""
+"\"Její příchody a odchody moc nesleduju. Jen ji občas vidím psát na počítači. Máme každý jiné zájmy.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FC0C"
 msgid "Look at these crazies. What is this, a fucking intervention?"
 msgstr ""
+"Podívejte se na ty blázny. Co to má být, zasraná intervence?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FC24"
 msgid "\"You know, alcohol is central to my identity. If I wouldn't drink I just wouldn't be *me*.\""
 msgstr ""
+"\"Víte, alkohol je pro mou osobnost klíčový. Kdybych nepil, nebyl bych to já.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E62A"
 msgid "\"Do you know where the other spooker is?\" (Point at the strange machines around you.)"
 msgstr ""
+"\"Nevíte, kde je ten druhý strašák?\" (Ukažte na podivné stroje kolem sebe.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E687"
 msgid "\"Oh hey, wey. There's coffee in the back... Oh, wait, I meant the Mother's love.\""
 msgstr ""
+"\"Hola hou. Vzadu je káva... Počkat, myslel jsem Matčinu lásku.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021B0"
 msgid "\"What are you doing here?\""
 msgstr ""
+"\"Co tady děláte?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028DD"
 msgid "\"It don't bother me none. Crab's no worse than a man, if you think about it.\""
 msgstr ""
+"\"Mně to nevadí. Krab není o nic horší než člověk, když se nad tím zamyslíte.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B4A"
 msgid "\"Naw, man. They look pretty funny. And I don't harm no one anymore anyway.\""
 msgstr ""
+"\"Kdepak, pane. Vypadají dost legračně. A já už stejně nikomu neubližuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003F2A"
 msgid "\"No worries, man. I know this shit takes time.\""
 msgstr ""
+"\"Bez obav, pane. Vím, že to chce čas.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000404B"
 msgid "Yeah, sure. There are other things we could do. But, man, it would have been cool."
 msgstr ""
+"Jo, jasně. Můžeme dělat i jiné věci. Ale bylo by to super."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000407D"
 msgid "\"What were you even trying to do, man? I believe you can overcome your problems eventually, if you purge yourself of your wilfulness and seek the Mother's guidance. But *this*, right now, would be some suicidal shit.\""
 msgstr ""
+"\"O co jste se vůbec snažil, pane? Věřím, že své problémy nakonec překonáte, pokud se očistíte od svévole a budete následovat Matčiných rad. Ale *tohle*, právě tohle, by byla zkurvená sebevražda.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000041A9"
 msgid "\"Maybe I did.\" He sighs. \"It don't matter no more.\""
 msgstr ""
+"\"Možná ano.\" Povzdechne si. \"Na tom už nezáleží.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E44D"
 msgid "His adoration is beyond sexual. This cavity is something that no human form has."
 msgstr ""
+"Jeho zbožňování je nad rámec sexuality. Tato dutina je něco, co nemá žádná lidská podoba."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000331F"
 msgid "\"Don't trust me -- trust the Mother. I'm only the messenger, homes.\" His voice echoes in the cold air of the church."
 msgstr ""
+"\"Nevěřte mně -- věřte Matce. Já jsem jen posel, homes.\" Jeho hlas se ozývá v chladném vzduchu kostela."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FBC3"
 msgid "The sinewy figure lingers on the wooden beams, blending into the shadows."
 msgstr ""
+"Šlachovitá postava se drží na dřevěných trámech a splývá se stínem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E631"
 msgid "\"You've been here a long time. Do you know why the church was abandoned?\""
 msgstr ""
+"\"Jste tu už dost dlouho. Víte, proč byl kostel opuštěn?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001844"
 msgid "\"Don't trust me -- trust the Mother. I'm only the messenger, homes.\" His voice echoes in the cold air of the church."
 msgstr ""
+"\"Nevěřte mně -- věřte Matce. Já jsem jen posel, homes.\" Jeho hlas se ozývá v chladném vzduchu kostela."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001883"
 msgid "\"This is the Church of the Mother of Silence. You are welcome here.\" He sways gently on the beams, waiting for you to take it all in."
 msgstr ""
+"\"Toto je kostel Matky Ticha. Jste zde vítáni.\" Mírně se pohupuje na trámech a čeká, až to všechno vstřebáš."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000258D"
 msgid "\"You don't know me. You don't know what I've been through!\""
 msgstr ""
+"\"Neznáte mě. Nevíte, čím jsem si prošel!\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000258D"
 msgid "\"You don't know me. You don't know what it's like -- there's a shadow pursuing me!\""
 msgstr ""
+"\"Neznáte mě. Nevíte, jaké to je -- v patách mám stín!\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000710000258D"
 msgid "\"You don't know me! You don't know what it's like! There's something... something white pursuing me! White and very sad...\""
 msgstr ""
+"\"Vy mě neznáte! Nevíte, jaké to je! Něco... něco bílého mě pronásleduje! Bílého a opravdu smutného...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002627"
 msgid "\"To be fair, it's really more like a spider.\""
 msgstr ""
+"\"Abych byl spravedlivý, ve skutečnosti vypadáte spíš jako pavouk.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002711"
 msgid "\"Do you remember your name, sir?\""
 msgstr ""
+"\"Pamatujete si své jméno, pane?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000413E"
 msgid "\"...you may be thinking, 'But fire crackles!' No, homes, that's the material that's burning. The flames themselves are without sound.\""
 msgstr ""
+"\"...možná si říkáte: \"Ale oheň praská! Ne, homes, to praská materiál, který hoří. Samotné plameny jsou bez zvuku.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000042DE"
 msgid "\"I know it'll take time. Don't sweat it.\""
 msgstr ""
+"\"Vím, že to bude chvíli trvat. Netrapte se tím.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000001FA"
 msgid "\"To be fair, it's really more like a spider. But everyone calls you the crab-man.\""
 msgstr ""
+"\"Abych byl upřímný, vypadáte spíš jako pavouk. Ale všichni Vám říkají krabomuž.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E445"
 msgid "All right. Let's consider the context and meaning here."
 msgstr ""
+"Dobře. Uvažujme o kontextu a významu."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001495"
 msgid "\"That's just the thing, homes -- none of that *matters*...\" He sounds melancholy saying this, his limbs a mere shadow below the ceiling."
 msgstr ""
+"\"To je právě to, homes -- na ničem z toho *nezáleží*...\" Zní melancholicky, když to říká, a jeho končetiny jsou pouhým stínem pod stropem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FBC"
 msgid "They look pretty dapper actually."
 msgstr ""
+"Vlastně vypadají docela švihácky."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FE1"
 msgid "These shoes look pretty dapper actually."
 msgstr ""
+"Ty boty vypadají docela švihácky."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FC1E"
 msgid "\"For some reason I feel like you have a point there.\""
 msgstr ""
+"\"Z nějakého důvodu mám pocit, že máte pravdu.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00009F07"
 msgid "\"Okay then, thanks.\" [Leave.]"
 msgstr ""
+"\"Dobrá, díky.\" [Odejít.]"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DEB4"
 msgid "\"Too many times, ese. You need it for something?\""
 msgstr ""
+"\"Až mockrát, ese. Potřebujete to na něco?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E61A"
 msgid "\"You must be the crab-man.\""
 msgstr ""
+"\"Vy musíte být krabomuž.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000E61A"
 msgid "\"I'm going to ask you again: are you the crab-man?\""
 msgstr ""
+"\"Zeptám se Vás znovu: jste krabomuž?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E624"
 msgid "\"What are you doing here?\""
 msgstr ""
+"\"Co tady děláte?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001963"
 msgid "\"We are all one, who sing the Mother's glory.\""
 msgstr ""
+"\"Všichni jsme jeden, kdož pěje slávu Matce.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000220D"
 msgid "\"I was like you once -- just dragging my feet to the next bottle... Shit was dark, homes.\""
 msgstr ""
+"\"Kdysi jsem byl jako Vy -- vlekl jsem se životem jen k další láhvi... Život byl kurva temnej, homes.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002262"
 msgid "If the lieutenant agrees, then maybe, just maybe -- you should pay attention?"
 msgstr ""
+"Pokud s tím poručík souhlasí, pak byste možná, jen možná, měli dávat pozor?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002273"
 msgid "Look at these crazies. What is this shit?"
 msgstr ""
+"Podívej se na ty blázny. Co je to za sračky?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002552"
 msgid "\"Uhm... are you the crab-man?\""
 msgstr ""
+"\"Ehm... vy jste ten krabomuž?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002583"
 msgid "\"This conversation is making me uncomfortable. Let's talk about something else.\""
 msgstr ""
+"\"Tenhle rozhovor mě zneklidňuje. Pojďme si promluvit o něčem jiném.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007100002583"
 msgid "\"I'm actually here on behalf of some young people looking to establish a night club...\""
 msgstr ""
+"\"Jsem tu vlastně jménem několika mladých lidí, kteří chtějí založit noční klub...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100007100002583"
 msgid "\"I'm actually here on behalf of some young people looking to establish a night club, and after that I need to get to this island, so could we just...\""
 msgstr ""
+"\"Jsem tu vlastně jménem několika mladých lidí, kteří chtějí založit noční klub, a potom se musím dostat na tenhle ostrov, takže bychom mohli...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000270A"
 msgid "\"Naw, ese, it's not like that. Best thing that could happen to you -- losing your memory...\""
 msgstr ""
+"\"Kdepak, ese, tak to není. To nejlepší, co se Vám může stát, je ztráta paměti...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000286A"
 msgid "\"Did you just climb down from the church tower?\""
 msgstr ""
+"\"Vy jste právě slezl z kostelní věže?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000286A"
 msgid "\"I'm going to ask you again: Are you the crab-man?\""
 msgstr ""
+"\"Zeptám se Vás znovu: jste krabomuž?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000710000286A"
 msgid "\"Where did you come from?\""
 msgstr ""
+"\"Odkud jste přišel?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028B3"
 msgid "That's not the only technique he's working on. Look at those carved sculptures. And is that a satchel of tools over there?"
 msgstr ""
+"To není jediná technika, na které pracuje. Podívej se na ty vyřezávané sochy. A támhle je brašna s nářadím?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004144"
 msgid "\"But I was talking about the singing of a burning heart... You may be thinking, 'But fire crackles!' No, homes, that's the material that's burning. The flames themselves are without sound.\""
 msgstr ""
+"\"Ale já jsem mluvil o zpěvu hořícího srdce... Možná si říkáte: \"Ale oheň praská! Ne, homes, to praská materiál, který hoří. Samotné plameny jsou bez zvuku.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000041BC"
 msgid "\"I recently tore it up on the stage with my singing.\""
 msgstr ""
+"\"Nedávno jsem to na pódiu roztočil se svým zpěvem.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004391"
 msgid "\"Been spending a lot of time here ever since. The past is nothing to me now, wey. It didn't belong to me.\""
 msgstr ""
+"\"Od té doby tu trávím hodně času. Minulost už pro mě nic neznamená, wey. Nepatřila mi.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -423,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E435"
 msgid "This Mother of Silence sounds like a serious player. You might want to be careful, until you find out what you're dealing with."
 msgstr ""
+"Tahle Matka Ticha vypadá jako silný hráč. Možná bys měli být opatrní, dokud nezjistíš, s čím máš tu čest."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -430,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014CB"
 msgid "\"I told you, homes -- I don't know.\""
 msgstr ""
+"\"Říkal jsem Vám, homes -- já nevím.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -437,6 +506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7DD"
 msgid "\"I was like you once -- just dragging my feet to the next bottle... Shit was dark, homes.\""
 msgstr ""
+"\"Kdysi jsem byl jako Vy -- vlekl jsem se životem jen k další láhvi... Život byl kurva temnej, homes.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -444,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F850"
 msgid "\"Chill out, man. Here you can receive the Mother's love, and, when you're ready, she will take your hand and lift you out of the despair at the bottom of the bottle.\""
 msgstr ""
+"\"Uklidněte se, pane. Tady můžete přijmout Matčinu lásku, a až budete připraven, vezme Vás za ruku a vytáhne Vás ze zoufalství na dně láhve.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -451,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F863"
 msgid "Wait, what qualifies as *too* close?"
 msgstr ""
+"Počkat, co se považuje za *příliš* blízko?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -458,6 +530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FCBB"
 msgid "\"I was in a gang, wey. But my memories of that time are fading... Most of them are already gone.\""
 msgstr ""
+"\"Byl jsem v gangu, wey. Ale moje vzpomínky na tu dobu už blednou... Většina z nich už je pryč.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -465,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001805"
 msgid "\"You've come back to face your cacodaemons. Good. You ain't gonna outrun them if you don't drop the bottle.\""
 msgstr ""
+"\"Vrátil jste se, abyste čelil svým kakodémonům. Dobře. Nepředběhnete je, pokud neupustíte tu láhev.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -472,6 +546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021AA"
 msgid "\"The right place for what?\""
 msgstr ""
+"\"Správné místo na co?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -479,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002213"
 msgid "\"I know it's hard to admit that you have a problem... I was like you once -- couldn't take an honest look at the damage *el vino* was doing to my mind and my spirit.\""
 msgstr ""
+"\"Vím, že je těžké přiznat si, že máte problém... Kdysi jsem byl jako Vy -- nedokázal jsem se upřímně podívat na škody, které *el vino* působilo mé mysli a mému duchu.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -486,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000026A9"
 msgid "There's a profound longing in that gaze. Like he wants to be one with whatever is up there, shrouded in darkness."
 msgstr ""
+"V tom pohledu je hluboká touha. Jako by chtěl splynout s tím, co je tam nahoře, zahalené v temnotě."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -493,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002819"
 msgid "\"And it's great! Such diversity is a boon to the economy.\""
 msgstr ""
+"\"A je to skvělé! Taková rozmanitost je pro ekonomiku přínosem.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -500,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002820"
 msgid "\"What's 'Mesque'?\""
 msgstr ""
+"\"Co je to 'meskanský'?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -507,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000029C1"
 msgid "He laughs. \"Not sure I'm contributing to the economy none, homes.\""
 msgstr ""
+"Zasměje se. \"Nejsem si jistý, jestli přispívám k ekonomice, homes.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -514,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000029DF"
 msgid "\"It's all just for the Mother, man. No need to overthink it.\""
 msgstr ""
+"\"Všechno je to jen pro matku, pane. Není třeba nad tím přemýšlet.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -521,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B3D"
 msgid "\"Turning a church into a nightclub -- I have to say it's a great idea. You should support it.\""
 msgstr ""
+"\"Udělat z kostela noční klub -- musím říct, že je to skvělý nápad. Měl byste ho podpořit.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -528,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000408E"
 msgid "\"Hey, man. I see it in you -- you are prepared to surrender yourself to the fire of revelation. But you're still a bit shaky spiritually.\" He looks you over. \"You're also just, physically, shaking.\""
 msgstr ""
+"\"Heleďte, pane. Vidím to ve Vás -- jste připraven odevzdat se ohni zjevení. Ale duchovně jste ještě trochu vratký.\" Prohlíží si tě. \"A taky se prostě, fyzicky, třesete.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -535,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004190"
 msgid "\"That seems to upset you. But you said you didn't really remember your past.\""
 msgstr ""
+"\"Zdá se, že Vás to rozrušilo. Ale říkal jste, že si svou minulost nepamatujete.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -542,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004197"
 msgid "\"I was rude. I'm sorry.\""
 msgstr ""
+"\"Byl jsem hrubý. Omlouvám se.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -549,6 +634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000041C2"
 msgid "\"I recently suffered a singing tragedy myself.\""
 msgstr ""
+"\"Sám jsem nedávno prožil pěveckou tragédii.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -556,6 +642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E46E"
 msgid "It looks like he truly doesn't remember. There's a vagueness to his sense of time."
 msgstr ""
+"Vypadá to, že si to opravdu nepamatuje. Jeho vnímání času je nejasné."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -563,6 +650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000037A"
 msgid "\"Not really, or at least I don't remember much of it anymore. The Mother's Love has done its job... That's what's so great about the Mother -- it lets you forget about everything.\""
 msgstr ""
+"\"Ani ne, nebo si z toho alespoň už moc nepamatuji. Matčina láska udělala své... To je na Matce tak skvělé -- nechá Vás na všechno zapomenout.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -570,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FA8"
 msgid "\"Are these yours?\" (Show him the scarf and shoes you found lying around.)"
 msgstr ""
+"\"Tyhle jsou Vaše?\" (Ukázat mu šálu a boty, které jste našli ležet poblíž.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -577,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F812"
 msgid "\"You've really got a case of frayed nerves. *Pussy* in this usage comes from *pusillanimous*. Everybody knows that.\""
 msgstr ""
+"\"Máte opravdu pocuchané nervy. *Čubka* v tomto použití pochází od označení *samice psa*. To ví každý.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -584,6 +674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FDAF"
 msgid "Nope, not happening."
 msgstr ""
+"Ne, to se nestane."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -591,6 +682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E64F"
 msgid "\"Other spooker? Oh, esa viejita muy estudiosa!\" He laughs. \"Dunno, homes.\""
 msgstr ""
+"\"Jiný strašák? Oh, esa viejita muy estudiosa!\" Zasměje se. \"Nevím, homes.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -598,6 +690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002811"
 msgid "\"If you was to surrender to the Mother -- you know, get a taste of *saeraffic* existence -- you'd never wanna go back.\""
 msgstr ""
+"\"Kdybyste se odevzdal Matce -- okusil *serafínskou* přítomnost -- už by seste nikdy nechtěl vrátit.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -605,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003EDA"
 msgid "I'm a man in his prime. I should be able to do anything. This isn't fair."
 msgstr ""
+"Jsem muž v nejlepších letech. Měl bych být schopen udělat cokoli. Tohle není fér."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -612,6 +706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003F32"
 msgid "\"Right. I had other questions...\""
 msgstr ""
+"\"Správně. Měl jsem další otázky...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -619,6 +714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004276"
 msgid "\"If you could submit to the mother -- sing her praises with your burning heart -- you could be free from selfish desire.\""
 msgstr ""
+"\"Kdybyste se dokázal podřídit Matce -- pět jí chválu svým horoucím srdcem -- mohl byste se osvobodit od sobecké touhy.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -626,6 +722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000042C2"
 msgid "\"She took you for a good spin, huh?\" He looks at you gravely. \"Don't worry, bro, that love is but a drop compared to the ocean of the Mother's love...\""
 msgstr ""
+"\"Pořádně s Vámi zatočila, co?\" Vážně se na tebe podívá. \"Neboj se, bratře, ta láska je jen kapka ve srovnání s oceánem Matčiny lásky...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -633,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000349D"
 msgid "\"Hey, are you a boiadeiro?\""
 msgstr ""
+"\"Vy jste boiadeiro?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -640,6 +738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001426"
 msgid "\"Just tell me what's the password.\" (Step closer.)"
 msgstr ""
+"\"Prostě mi řekněte to heslo.\" (Přistoupit blíž.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -647,6 +746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001477"
 msgid "\"That's just the thing, homes -- none of that *matters*...\" He ignores your hand, his limbs a mere shadow below the ceiling."
 msgstr ""
+"\"To je právě to, homes -- na ničem z toho *nezáleží*...\" Ignoruje tvou ruku. Jeho končetiny jsou pouhým stínem pod stropem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -654,6 +754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014D1"
 msgid "\"Right, thanks. I'll see if I can find her some other way...\""
 msgstr ""
+"\"Dobře, díky. Zkusím ji najít jinak...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -661,6 +762,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000280E"
 msgid "Hey, you already practically sacrificed a limb when you got shot in the tribunal... it's nothing major!"
 msgstr ""
+"Hele, prakticky už jsi obětoval končetinu, když tě postřelili u tribunálu... tohle není nic vážného!"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -668,6 +770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F86A"
 msgid "I think I'm willing to try crazy. Anything to stop this suffering."
 msgstr ""
+"Myslím, že jsem ochotný zkusit bláznovství. Cokoli, co by zastavilo to utrpení."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -675,6 +778,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FBC9"
 msgid "\"How can you not know that when you both live here?\""
 msgstr ""
+"\"Jak to, že to nevíte, když tu oba žijete?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -682,6 +786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FD9C"
 msgid "One day, you may be able to scale this tower. But it won't be today. Neither your sinews nor your spirit could handle this ascent."
 msgstr ""
+"Jednoho dne se ti možná podaří tuto věž zdolat. Ale nebude to dnes. Ani tvé šlachy, ani tvůj duch tento výstup nezvládnou."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -689,6 +794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001837"
 msgid "\"The grave's comin' for your little 'identity' sooner than you think, homes.\" He shakes his head sadly. \"You sure you're ready? The Mother could set you free from all that shit.\" His words echo in the cold air of the church."
 msgstr ""
+"\"Hrob si přijde pro Vaši titěrnou 'identitu' dřív, než byste řekl, homes.\" Smutně zavrtí hlavou. \"Jste si jistý, že jste připravený? Matka by Vás mohla osvobodit od všech těch sraček.\" Jeho slova se ozývají v chladném vzduchu kostela."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -696,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021EC"
 msgid "\"I'm a police man. I need to talk to you about police things. I don't know anything about 'alcohol use.'\" (Hide the bottle behind your back.)"
 msgstr ""
+"\"Jsem policista. Potřebuji s Vámi mluvit o policejních záležitostech. O 'užívání alkoholu' nic nevím.\" (Schovat láhev za záda.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -703,6 +810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000025AD"
 msgid "Whatever it is, he's quite confident about it -- just look how gracefully he sways."
 msgstr ""
+"Ať už je to cokoli, je si tím docela jistý -- jen se podívej, jak ladně se pohupuje."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -710,6 +818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000026C4"
 msgid "\"No, man. You gotta let that shit go.\" He looks at you as if he wants to pat you on the back. \"Then the Mother's light touch will fill you with rapture...\""
 msgstr ""
+"\"Ne, pane. Musíte to nechat být.\" Podívá se na tebe, jako by tě chtěl poplácat po zádech. \"Pak Vás Matčin lehký dotek naplní vytržením...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -717,6 +826,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000026F7"
 msgid "\"...now I use those same hands in service of something greater than my own restlessness.\""
 msgstr ""
+"\"...nyní používám tytéž ruce ve službě něčemu většímu, než je můj vlastní neklid.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -724,6 +834,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000027FD"
 msgid "\"I think having a body is great! I don't want to burn away any of its distinctions!\""
 msgstr ""
+"\"Myslím, že mít tělo je skvělé! Nechci spálit žádnou z jeho odlišností!\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -731,6 +842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002828"
 msgid "\"You sound like you're not from around here.\""
 msgstr ""
+"\"Mluvíte, jako byste nebyl zdejší.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -738,6 +850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028D6"
 msgid "\"Just thought you should know.\""
 msgstr ""
+"\"Jen jsem myslel, že byste to měl vědět.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -745,6 +858,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003ECE"
 msgid "When, then?"
 msgstr ""
+"Kdy, kdy?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -752,6 +866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003FF2"
 msgid "Seriously what were you even thinking? You haven't been putting the work in to pull off a stunt like climbing to great heights like a cat."
 msgstr ""
+"Vážně, co sis vůbec myslel? Nedal sis tu práci, abys dokázai takový cirkusový kousek, jako je šplhání do výšek jako kočka."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -759,6 +874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000402A"
 msgid "(Look at your bottle.)  But it makes me feel more powerful..."
 msgstr ""
+"(Podívat se na svou láhev.) Ale cítím se díky tomu silnější..."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -766,6 +882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040C7"
 msgid "He said something about \"saeraffic existence\" before. Maybe this is what he was talking about?"
 msgstr ""
+"Předtím říkal něco o \"serafínské přítomnosti\". Možná mluvil právě o tomhle?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -773,6 +890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040E6"
 msgid "\"It doesn't really make sense for you to sing if she's the Mother of *Silence*.\""
 msgstr ""
+"\"Nemá smysl, abyste pěl, když je to Matka *Ticha*.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -780,6 +898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004266"
 msgid "\"What you're suffering from is *el vino*-- it's left you alone with your selfishness. That's your tragedy, wey.\""
 msgstr ""
+"\"To, čím trpíte, je *el vino* -- nechalo Vás samotného s Vaším sobectvím. To je tvoje tragédie, wey.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -787,6 +906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000426C"
 msgid "\"Good for you, man. But you must know that nothing you achieve's gonna make you happy and loved like you think you wanna be -- comes with being a slave to *el vino*.\""
 msgstr ""
+"\"Dobře děláte, pane. Ale měl byste vědět, že nic z toho, čeho jste dosáhl, Vás neudělá šťastným a milovaným, jak si myslíte, že chcete být -- to přichází s tím, že jste otrokem *el vino*.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -794,6 +914,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000042CE"
 msgid "\"I guess you have a point.\" (Proceed.)"
 msgstr ""
+"\"Asi máte pravdu.\" (Pokračovat.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -801,6 +922,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E455"
 msgid "That sounds a *bit* like substitution behaviour, no? You know a thing or two about that..."
 msgstr ""
+"To zní *trochu* jako substituční chování, ne? O tom něco víš..."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -808,6 +930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E487"
 msgid "Viejita is... grandma?"
 msgstr ""
+"Viejita je... babička?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -815,6 +938,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000013F1"
 msgid "\"I see what you've done there. It's as if these figures are trying to become one with the church -- or perhaps with the Mother herself.\""
 msgstr ""
+"\"Vidím, kam tím míříte. Jako by se tyto postavy snažily splynout s církví -- nebo možná se samotnou Matkou.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -822,6 +946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001456"
 msgid "\"Hey, it's your neighbours who came up with this name, not me.\""
 msgstr ""
+"\"Hele, to jméno vymysleli Vaši sousedé, ne já.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -829,6 +954,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000151B"
 msgid "\"That's what I said, homes.\""
 msgstr ""
+"\"Přesně to jsem říkal, homes.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -836,6 +962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7A0"
 msgid "The man leans forward a little, fixing you with a steady, unreadable gaze, then speaks..."
 msgstr ""
+"Muž se trochu předkloní, upře na tebe pevný, nečitelný pohled a pak promluví..."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -843,6 +970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7CF"
 msgid "\"I know it's hard to admit that you've got a problem. I was like you once -- couldn't take an honest look into my own heart and see I was in pain.\""
 msgstr ""
+"\"Vím, že je těžké přiznat si, že máte problém. Kdysi jsem byl jako Vy -- nedokázal jsem se upřímně podívat do vlastního srdce a vidět, že mě něco bolí.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -850,6 +978,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7E4"
 msgid "\"I know it's hard to admit that you have a problem... I was like you once -- couldn't take an honest look at the damage *el vino* was doing to my mind and my spirit.\""
 msgstr ""
+"\"Vím, že je těžké přiznat si, že máte problém... Kdysi jsem byl jako Vy -- nedokázal jsem se upřímně podívat na škody, které *el vino* působilo mé mysli a mému duchu.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -857,6 +986,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FD83"
 msgid "That is true. But what comes after death?"
 msgstr ""
+"To je pravda. Ale co přijde po smrti?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -864,6 +994,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DEAD"
 msgid "\"Have you by any chance heard the *viejita* say the password to her radiocomputer?\""
 msgstr ""
+"\"Neslyšel jste náhodou, že by *viejita* řekla heslo ke svému radiokomputru?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -871,6 +1002,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E5FD"
 msgid "\"Hey, who's there?\""
 msgstr ""
+"\"Hej, kdo je tam?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -878,6 +1010,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021BE"
 msgid "\"I'm here to receive the Mother's love. You can, too, homes. And, when you're ready, she will take your hand and lift you out of the despair at the bottom of the bottle.\""
 msgstr ""
+"\"Jsem tu, abych přijal Matčinu lásku. I vy ji můžete přijmout, homes. A až budete připraven, vezme Vás za ruku a vytáhne Vás ze zoufalství na dně láhve.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -885,6 +1018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002616"
 msgid "\"Who's this Mother of Silence you keep talking about?\""
 msgstr ""
+"\"Kdo je ta Matka Ticha, o které pořád mluvíte?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -892,6 +1026,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007100002616"
 msgid "\"This Mother of Silence -- you mean *her*?\" (Point to the window.)"
 msgstr ""
+"\"Tou Matkou Ticha - myslíte *ji*?\" (Ukázat na okno.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -899,6 +1034,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002688"
 msgid "\"So you used to be in a gang, but you don't really remember it? Sounds convenient.\""
 msgstr ""
+"\"Takže jste býval v gangu, ale už si to nepamatujete? To zní příhodně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -906,6 +1042,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000269A"
 msgid "(Shake your head.) \"So many people losing their memory... A certain portent of *doom*...\""
 msgstr ""
+"(Potřást hlavou.) \"Tolik lidí ztrácí paměť... Jistá předzvěst *zkázy*...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -913,6 +1050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000026CA"
 msgid "\"That's not really the point, ese.\" He frowns. \"You gotta give yourself over to service... Service of the Mother, that is...\""
 msgstr ""
+"\"O to tu vlastně nejde, ese.\" Zamračí se. \"Musíte se oddat službě... a tím myslím službě Matce...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -920,6 +1058,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002748"
 msgid "The lieutenant raises his eyebrows and coughs."
 msgstr ""
+"Poručík zvedne obočí a odkašle si."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -927,6 +1066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B04"
 msgid "\"Some ravers want to turn this place into a nightclub.\""
 msgstr ""
+"\"Někteří kaliči z toho chtějí udělat noční klub.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -934,6 +1074,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004060"
 msgid "There still may be time to recuperate. Just grit your teeth."
 msgstr ""
+"Na zotavení může být ještě čas. Jen zatni zuby."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -941,6 +1082,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040D9"
 msgid "\"Right on, homes. You're catching on. Yeah, you see, I'm sort of a saeraff to the Mother... I sing her glory.\""
 msgstr ""
+"\"Přesně tak, homes. Chytáte se. Víte, já jsem tak trochu Matčiným serafínem ... Pěju jí slávu.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -948,6 +1090,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004169"
 msgid "\"Did you suffer some singing tragedy?\""
 msgstr ""
+"\"Stala se vám nějaká pěvecká tragédie?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -955,6 +1098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000141E"
 msgid "*Sssurveys* are a good way to fish for personal information, especially in the name of public sssafety..."
 msgstr ""
+"*Prrrůzkumy* jsou dobrým způsobem, jak získat osobní informace, zejména ve jménu veřejné bezpečnosti..."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -962,6 +1106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014B3"
 msgid "Wait, what if it's Ruby?"
 msgstr ""
+"Počkat, co když je to Ruby?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -969,6 +1114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014BF"
 msgid "\"You mean like a fugitive?\" He glances at the abandoned radiocomputer on the other side of the nave, pulsing with light. Then he shakes his head."
 msgstr ""
+"\"Myslíte jako uprchlík?\" Podívá se na opuštěný rádiokomputer na druhé straně lodi, který pulzuje světlem. Pak zavrtí hlavou."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -976,6 +1122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001866"
 msgid "\"The only thing we need to talk about is how the Mother can really help you, homes.\" His voice echoes in the cold air of the church."
 msgstr ""
+"\"Jediné, o čem si musíme promluvit, je to, jak Vám Matka může skutečně pomoci, homes.\" Jeho hlas se odráží v chladném vzduchu kostela."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -983,6 +1130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000225C"
 msgid "You know, he may be strange, but you might want to pay attention to what he's saying."
 msgstr ""
+"Víš, možná je divný, ale asi bys měl dávat pozor na to, co říká."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -990,6 +1138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002599"
 msgid "\"Who do you think you are? Some crazy guy under the roof? What is this shit?\""
 msgstr ""
+"\"Kdo si myslíte, že jste? Nějaký blázen pod střechou? Co je to za sračku?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -997,6 +1146,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007100002599"
 msgid "(Adjust your tie.) \"Who do you think you are? Some crazy guy under the roof? What is this shit?\""
 msgstr ""
+"(Upravit kravatu.) \"Kdo si myslíte, že jste? Nějaký blázen pod střechou? Co je to za sračku?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1004,6 +1154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000025C9"
 msgid "\"Don't think I've met one yet, homes.\" He studies you silently for a moment."
 msgstr ""
+"\"Myslím, že jsem ještě žádného nepotkal, homes.\" Chvíli tě mlčky zkoumá."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1011,6 +1162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000261E"
 msgid "\"Oh, that's no simple question, ese. She is one who can't be painted or sculpted...\""
 msgstr ""
+"\"To není jednoduchá otázka, ese. Ona je ta, kterou nelze namalovat ani vytesat...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1018,6 +1170,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000261E"
 msgid "\"No, no, no, there's a *new* god in town. And she can't be painted or sculpted, because she has no limbs or even a face. She is the end.\""
 msgstr ""
+"\"Ne, ne, ne, ve městě je *nový* bůh. A nedá se namalovat ani vytesat, protože nemá končetiny, ba ani obličej. Ona je konec.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1025,6 +1178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B31"
 msgid "\"Wait, do they have *reason* to be scared?\""
 msgstr ""
+"\"Počkejte, mají *důvod* se bát?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1032,6 +1186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004101"
 msgid "Wait, he says he didn't remember anything about being Mesque -- and now he remembers this?"
 msgstr ""
+"Počkat, říká, že si nic nepamatuje o tom, že byl meskanský -- a teď si vzpomene na tohle?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1039,6 +1194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000042B9"
 msgid "\"I think love might have been my drug of choice. And I think I'm still hungover from it.\""
 msgstr ""
+"\"Myslím, že láska by mohla být mou oblíbenou drogou. A myslím, že z ní mám pořád kocovinu.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1046,6 +1202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000034AD"
 msgid "\"What were you before you became a crab-man?\""
 msgstr ""
+"\"Čím jste byl, než jste se stal krabomužem?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1053,6 +1210,8 @@ msgstr ""
 msgctxt "Alternate1/0x0100007B000034AD"
 msgid "\"What were you before you became a crab-man and a woodcarver?\"\n"
 msgstr ""
+"\"Čím jste byl, než jste se stal krabomužem a řezbářem?\" \n"
+""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1060,6 +1219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000002AD"
 msgid "\"I'm afraid not, ese. You just have to wait until she comes back or...\" He shrugs."
 msgstr ""
+"\"Obávám se, že ne, ese. Musíte jen počkat, až se vrátí, nebo...\" Pokrčí rameny."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1067,6 +1227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000013DB"
 msgid "\"Honestly, I don't get it. All these figures look half-finished.\""
 msgstr ""
+"\"Upřímně řečeno, nechápu to. Všechny ty postavy vypadají nedodělaně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1074,6 +1235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000146B"
 msgid "\"I don't do names either. Names are *out*. I don't care what mine is.\""
 msgstr ""
+"\"Já taky na jména moc nehraju. Jména jsou *out*. Je mi jedno, jaké je to moje.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1081,6 +1243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000148F"
 msgid "\"My name's Harrier Du Bois, and my place in the world is lieutenant double-yefreitor.\""
 msgstr ""
+"\"Jmenuji se Harrier Du Bois a mým posláním na tomto světě je být poručík dvojitý-yefreitor.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1088,6 +1251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F805"
 msgid "Hold your peace."
 msgstr ""
+"Zůstaň zticha."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1095,6 +1259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F871"
 msgid "Giving away all of your possessions,  sacrificing a limb to appease an angry god, trying to live on air and light alone as though you were some kind of plant..."
 msgstr ""
+"Rozdat všechen svůj majetek, obětovat končetinu, abys uklidnil rozhněvaného boha, snažit se žít jen ze vzduchu a světla, jako bys byl nějaká rostlina..."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1102,6 +1267,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F884"
 msgid "Seems it's already too late. Have fun on the kooky train."
 msgstr ""
+"Zdá se, že už je pozdě. Užij si jízdu mašinkou Tomášem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1109,6 +1275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FD6F"
 msgid "\"What'd you think of that? Makes me almost pity *la nihilista pequeña* when I hear it.\""
 msgstr ""
+"\"Co si o tom myslíte? Když to slyším, je mi skoro líto *la nihilista pequeña*.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1116,6 +1283,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021C9"
 msgid "\"I'm a police man. I need to talk to you about police things. I don't know anything about 'alcohol use.'\""
 msgstr ""
+"\"Jsem policista. Potřebuji s Vámi mluvit o policejních záležitostech. O 'užívání alkoholu' nic nevím.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1123,6 +1291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002578"
 msgid "Hey and what was that about *the bottle* again? You haven't even drank that much lately! Lay off it already. Sheesh."
 msgstr ""
+"Hele a o co vlastně šlo s tou *lahví*? Vždyť jsi toho v poslední době ani moc nevypil! Už toho nech. Páni."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1130,6 +1299,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000025A6"
 msgid "'Tis not an act, my liege -- saving, perchance, he hath deceived his very self. This man is a zealot."
 msgstr ""
+"Toť není čin, můj pane -- snad jen toliko, že oklamal sám sebe. Tento muž je horlivec."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1137,6 +1307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000025B5"
 msgid "You have no idea what the fuck he's talking about. Is he just trying to throw you off your game?"
 msgstr ""
+"Nemáš ponětí, o čem to kurva mluví. Nesnaží se tě jen vyvést z míry?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1144,6 +1315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000287F"
 msgid "\"Sure did, homes.\""
 msgstr ""
+"\"Jistě, homes.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1151,6 +1323,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000287F"
 msgid "\"Up there, homes.\" He smiles strangely and turns his head up to look into the darkness of the church tower."
 msgstr ""
+"\"Tam nahoře, homes.\" Podivně se usměje a otočí hlavu vzhůru, aby se podíval do tmy kostelní věže."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1158,6 +1331,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000293D"
 msgid "\"Okay, I have other questions.\""
 msgstr ""
+"\"Dobrá, mám další otázky.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1165,6 +1339,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000029CF"
 msgid "\"You know, I'm not so sure myself anymore.\" He thinks for a moment. \"Don't really matter, though.\""
 msgstr ""
+"\"Víte, sám si už nejsem tak jistý.\" Chvíli přemýšlí. \"Ale na tom nezáleží.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1172,6 +1347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B73"
 msgid "He said that in spite of himself. He's more attached to the human than he'd like to think."
 msgstr ""
+"Řekl to navzdory sobě samému. Je na člověka upnutý víc, než by si přál."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1179,6 +1355,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003FD7"
 msgid "You're not doing *that* bad. But, yeah, there's some distance to go."
 msgstr ""
+"Nevedeš si *zas tak* špatně. Ale ano, je před tebou ještě kus cesty."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1186,6 +1363,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003FE5"
 msgid "Yeah, you were getting a tad too ambitious there."
 msgstr ""
+"Jo, to jsi byl až příliš ambiciózní."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1193,6 +1371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E41E"
 msgid "That accent is Villalobos -- a peninsula in Mesque *and* a district in Jamrock. There's a sizable contingent of Villalobos-speaking mesques in Revachol."
 msgstr ""
+"Ten přízvuk je z Villalobosu - poloostrova v Meskanu *a* čtvrti ve Šprajclu. V Revacholu žije početný kontingent meskanských mluvících villalobosským přízvukem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1200,6 +1379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E42B"
 msgid "Fuck you, crab-man, you don't tell us what to do. Tell him."
 msgstr ""
+"Jdi do hajzlu, Krabomuži, neříkej nám, co máme dělat. Řekni mu to."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1207,6 +1387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001403"
 msgid "\"You're promoting the objectification of women with your reactionary depiction of female bodies.\""
 msgstr ""
+"\"Svým reakčním zobrazováním ženských těl podporujete objektivizaci žen.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1214,6 +1395,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014A4"
 msgid "\"Wait, so there *is* another person living in the church -- and it's a *viejita*?\""
 msgstr ""
+"\"Počkat, takže v kostele žije další člověk - a je to *viejita*?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1221,6 +1403,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001514"
 msgid "\"And you don't know where she is?\""
 msgstr ""
+"\"A vy nevíte, kde je?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1228,6 +1411,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F798"
 msgid "Say nothing. Be quiet for now."
 msgstr ""
+"Nic neříkej. Prozatím mlč."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1235,6 +1419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FD7A"
 msgid "\"Don't sweat it, vato. The password is 'AFTER LIFE DEATH.'\""
 msgstr ""
+"\"Nic si z toho nedělejte, vato. Heslo je 'PO ŽIVOTĚ SMRT'.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1242,6 +1427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002225"
 msgid "\"Okay, fine, I'm struggling. But you don't need to lecture me -- I know what I need to do.\""
 msgstr ""
+"\"Dobře, fajn, bojuju. Ale nemusíte mě poučovat -- vím, co mám dělat.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1249,6 +1435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000024FD"
 msgid "\"What was that about coffee? I feel like I've heard it somewhere before...\""
 msgstr ""
+"\"Co to bylo s tou kávou? Mám pocit, že už jsem to někde slyšel...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1256,6 +1443,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002504"
 msgid "\"Look, man. I'm at liberty to talk about the sacred blaze of the Mother's glorious heart. But not about the coffee.\""
 msgstr ""
+"\"Koukejte, pane. Smím mluvit o posvátném plameni Matčina slavného srdce. Ale o kávě ne.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1263,6 +1451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002663"
 msgid "\"Wait, did you also carve all those sculptures?\" (Point at the nearest pillar.)"
 msgstr ""
+"\"Počkat, Vy jste také vyřezal všechny ty sochy?\" (Ukázat na nejbližší sloup.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1270,6 +1459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000026D1"
 msgid "\"Sure am. Whittling wood used to be something I just did to busy my hands...\""
 msgstr ""
+"\"Jistěže ano. Kdysi jsem si dřevo jen tak brousil, abych zaměstnal ruce...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1277,6 +1467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000289C"
 msgid "\"You know, there are some speedfreaks around here who call you 'the crab-man'.\""
 msgstr ""
+"\"Víte, jsou tu nějací speedaři, kteří Vám říkají 'krabomuž'.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1284,6 +1475,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028C6"
 msgid "\"...now I use those same hands in service of something greater than my own restlessness.\""
 msgstr ""
+"\"...nyní používám tytéž ruce ve službě něčemu většímu, než je můj vlastní neklid.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1291,6 +1483,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B84"
 msgid "\"This is a special place. There's a perforation in the world up there. A way out, into nothingness.\" He nods toward the ceiling. \"This church was built around it, for purposes of veneration.\""
 msgstr ""
+"\"Toto je zvláštní místo. Tam nahoře je svět proražený. Je tam cesta ven, do nicoty.\" Kývne směrem ke stropu. \"Tenhle kostel byl postaven kolem ní, pro účely uctívání.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1298,6 +1491,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B9E"
 msgid "\"You sure you didn't just switch one drug for another?\""
 msgstr ""
+"\"Jste si jistý, že jste jen nevyměnil jednu drogu za jinou?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1305,6 +1499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004302"
 msgid "\"Keep the flame in your soul alive, though. One day you'll make it up here, if you put in the work.\""
 msgstr ""
+"\"Udržujte však plamen ve své duši. Jednoho dne se k tomu dopracujete, když se budete snažit.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1312,6 +1507,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000013F7"
 msgid "(Rub your chin.) \"You've got some nice... curves going there.\""
 msgstr ""
+"(Podrbat si bradu.) \"Máte tam vskutku pěkné... křivky.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1319,6 +1515,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001506"
 msgid "\"You mean like a fugitive?\" He glances at the abandoned radiocomputer on the other side of the nave, pulsing with light. Then he shakes his head."
 msgstr ""
+"\"Myslíte jako uprchlík?\" Podívá se na opuštěný rádiokomputer na druhé straně lodi, který pulzuje světlem. Pak zavrtí hlavou."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1326,6 +1523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FB0"
 msgid "\"I think they were, a long time ago...\" He looks at the red clothing items in your hand. \"I had to *shed* them like skins, to get closer to the centre of the silence. You can have them. I don't need them anymore.\""
 msgstr ""
+"\"Myslím, že ano, už je to dávno...\" Podívá se na červený oděv ve tvé ruce. \"Musel jsem je *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si je vzít. Já už je nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1333,6 +1531,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002100001FB0"
 msgid "\"I think they were, a long time ago...\" He looks at the red clothing items you're wearing. \"I had to *shed* them like skins, to get closer to the centre of the silence. You can have them. I don't need them anymore.\""
 msgstr ""
+"\"Myslím, že ano, už je to dávno...\" Podívá se na červený kus oblečení na tvých rukou. \"Musel jsem je *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si je vzít. Já už je nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1340,6 +1539,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100002100001FB0"
 msgid "\"I think they were, a long time ago...\" He looks at the red clothing items. \"I had to *shed* them like skins, to get closer to the centre of the silence. You can have them. I don't need them anymore.\""
 msgstr ""
+"\"Myslím, že ano, už je to dávno...\" Podívá se na červený kus oděvu. \"Musel jsem je *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si je vzít. Já už je nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1347,6 +1547,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100002100001FB0"
 msgid "\"I think they were, a long time ago...\" He looks at the red clothing items. \"I had to *shed* them like skins, to get closer to the centre of the silence. You can have them. I don't need them anymore.\""
 msgstr ""
+"\"Myslím, že ano, už je to dávno...\" Podívá se na červený kus oděvu. \"Musel jsem je *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si je vzít. Já už je nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1354,6 +1555,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FFB"
 msgid "It'd only stop him from climbing."
 msgstr ""
+"Jen by mu to zabránilo v lezení."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1361,6 +1563,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7AC"
 msgid "\"*Estás crudo*, wey. I see deep inside you. Your body and spirit are suffering greatly from *overindulgment* and you don't even know it.\""
 msgstr ""
+"\"*Estás crudo*, wey. Vidím hluboko do Vašeho nitra. Tvé tělo a duch velmi trpí *přesycením* a Vy o tom ani nevíte.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1368,6 +1571,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FB63"
 msgid "\"Are you human? You weren't moving like a human.\""
 msgstr ""
+"\"Jste člověk? Nepohyboval jste se jako člověk.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1375,6 +1579,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E603"
 msgid "\"This is the police. Show yourself!\""
 msgstr ""
+"\"Tady policie. Ukažte se!\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1382,6 +1587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001818"
 msgid "\"This is tiresome.\" [ Leave.]"
 msgstr ""
+"\"Tohle je únavné.\" [ Odejít.]"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1389,6 +1595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001875"
 msgid "Wait, what does that even mean?"
 msgstr ""
+"Počkat, co to vlastně znamená?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1396,6 +1603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000018CE"
 msgid "\"So you're another immigrant, come to take up space and steal jobs...\""
 msgstr ""
+"\"Takže jste další přistěhovalec, který přišel zabírat místo a krást práci...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1403,6 +1611,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000252E"
 msgid "Is that... a man? Looks more like part of the carpentry of the building came alive and is now studying you intently."
 msgstr ""
+"Je to... člověk? Spíš to vypadá, že část dřevěného obložení budovy ožila a teď tě pozorně zkoumá."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1410,6 +1619,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000252E"
 msgid "Is that... a man? A man made of the same stuff as the carpentry of the building. He is studying you intently. "
 msgstr ""
+"Je to... člověk? Muž tvořený stejným materiálem jako obložení budovy. Pozorně tě zkoumá."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1417,6 +1627,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000710000252E"
 msgid "The shadow is... a man? But a man made of the same stuff as the carpentry of the building. He is studying you intently. "
 msgstr ""
+"Ten stín je... člověk? Muž tvořený stejným materiálem jako obložení budovy. Pozorně tě zkoumá."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1424,6 +1635,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002805"
 msgid "\"That's because you're soaked through and through with *al gul*, bro. Keeps you heavy and grounded. Then fools you into thinking that's a *good* thing.\""
 msgstr ""
+"\"To proto, že z Vás skrz naskrz cítím *al gul*, bratře. Udržuje Vás těžkopádného a uzemněného. A pak Vám namluví, že je to *dobrá* věc.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1431,6 +1643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002902"
 msgid "\"You're promoting the objectification of women with your reactionary depiction of female bodies.\""
 msgstr ""
+"\"Svým reakčním zobrazováním ženských těl podporujete objektivizaci žen.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1438,6 +1651,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002A3B"
 msgid "\"It's all just for the Mother, man. No need to overthink it.\""
 msgstr ""
+"\"Všechno je to pro Matku, člověče. Netřeba nad tím hluboko přemýšlet.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1445,6 +1659,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002A63"
 msgid "\"I can't leave my post here.\" He smiles. \"Besides, it don't bother me none. Crab's no worse than a man, if you think about it.\""
 msgstr ""
+"\"Nemůžu opustit své místo zde.\" Usměje se. \"Kromě toho mi to nevadí. Krab není o nic horší než člověk, když se nad tím zamyslíte.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1452,6 +1667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B37"
 msgid "\"So, what do you think? About the nightclub, that is.\""
 msgstr ""
+"\"Tak co si myslíte? O tom nočním klubu.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1459,6 +1675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003D87"
 msgid "\"Let's agree to disagree.\" (Proceed.)"
 msgstr ""
+"\"Shodněme se na tom, že se neshodneme.\" (Pokračovat.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1466,6 +1683,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040E0"
 msgid "\"I'm a saeraff, homes. I sing the Mother's glory.\""
 msgstr ""
+"\"Jsem serafín, homes. Pěji slávu Matce.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1473,6 +1691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000412D"
 msgid "Accept this contradiction. The man's obviously deranged."
 msgstr ""
+"Přijměte ten rozpor. Ten člověk je zjevně vyšinutý."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1480,6 +1699,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000034A4"
 msgid "\"A boiadeiro? No, homes. I don't go in for that kinda thing. It's all about surrendering to the Mother now.\""
 msgstr ""
+"\"Boiadeiro? Ne, homes. Na takové věci nejsem. Teď se soustředím pouze a jen na odevzdání se Matce.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1487,6 +1707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001559"
 msgid "(Let's keep moving on.) \"What were you before you became a crab-man?\""
 msgstr ""
+"(Pokračujeme dál.) \"Čím jste byl, než se z Vás stal krabomuž?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1494,6 +1715,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001561"
 msgid "(Nod.) \"Singing is good. We should all sing a bit more.\""
 msgstr ""
+"(Přikývnout.) \"Zpěv je dobrý. Všichni bychom měli pět o něco víc.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1501,6 +1723,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002100001561"
 msgid "(Nod.) \"Singing is good. I'm a bit of a singer myself.\""
 msgstr ""
+"(Přikývnout.) \"Zpěv je dobrý. Jsem taky tak trochu pěvec.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1508,6 +1731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FB6"
 msgid "They'd only stop him from climbing."
 msgstr ""
+"Jen by mu zabránily v lezení."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1515,6 +1739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F830"
 msgid "The lieutenant whispers to you, quietly. \"This man is obviously a habitual narcotics user. Do we really need to question him?\""
 msgstr ""
+"Poručík ti tiše zašeptá. \"Tenhle muž je zřejmě běžný uživatel drog. Opravdu ho musíme vyslýchat?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1522,6 +1747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F837"
 msgid "I'm put off by this religious stuff, he thinks -- and maybe the ceiling-climbing, too. It's all very hard to square with the lieutenant's own view of reality."
 msgstr ""
+"Tyhle náboženské věci mě odrazují, myslí si -- a možná i to lezení po stropě. Je velmi těžké to všechno srovnat s poručíkovým vlastním pohledem na realitu."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1529,6 +1755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000018A8"
 msgid "\"Haven't you ever met a Mesque before, *cabron*? Surprising number of us around Revachol...\""
 msgstr ""
+"\"Copak jste ještě nikdy nepotkal meskanského, *cabron*? V okolí Revacholu je nás překvapivě hodně...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1536,6 +1763,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000025D1"
 msgid "\"Don't worry, man, you got a place -- right here.\" He sounds happy saying this, his limbs a mere shadow below the ceiling."
 msgstr ""
+"\"Nebojte se, pane, máte místo -- přímo tady.\" Zní šťastně, když to říká, jeho končetiny jsou pouhým stínem pod stropem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1543,6 +1771,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000262E"
 msgid "He considers this for a moment. \"I always thought of myself more like a *flame*. Flickering along the rafters and beams.\" He pauses. \"It may be that I gotta work on my technique.\""
 msgstr ""
+"Chvíli o tom uvažuje. \"Vždycky jsem se považoval spíš za *plamen*. Třepotající se podél trámů a krovů.\" Odmlčí se. \"Možná musím zapracovat na své technice.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1550,6 +1779,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000027BB"
 msgid "What does he mean 'in part'?"
 msgstr ""
+"Co myslí tím \"částečně\"?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1557,6 +1787,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028AC"
 msgid "\"*Un Cangrejo*!\" He laughs. \"Never thought of myself as a crab. More like... a flame flickering among the rafters and beams...\" He pauses. \"It may be that I gotta work on my technique.\""
 msgstr ""
+"\"*Un Cangrejo*!\" Zasměje se. \"Nikdy jsem si o sobě nemyslel, že jsem krab. Spíš jako... plamen mihotající se mezi trámy a krovy...\" Odmlčí se. \"Možná musím zapracovat na své technice.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1564,6 +1795,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000294A"
 msgid "What is this? Is this what you've been training for? So you could wuss out when push comes to shove?"
 msgstr ""
+"Co to je? Tohle je to, pročs trénoval? Abys z toho mohl vycouvat, když dojde na věc?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1571,6 +1803,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000294A"
 msgid "Is this what you were doing reps for? So you could slink from an argument about the importance of cultivating the body?"
 msgstr ""
+"Kvůli tomu jsi dělal ty reparáty? Aby ses mohl vyvléknout z argumentu o důležitosti kultivace těla?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1578,6 +1811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003F17"
 msgid "\"I was being insensitive. Sorry. Let's move on.\" (Proceed.)"
 msgstr ""
+"\"Byl jsem necitlivý. Omlouvám se. Pojďme dál.\" (Pokračovat.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1585,6 +1819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000417A"
 msgid "He sighs. \"Things come back... in flashes. When something reminds me... Sometimes they even seem important again. *Really* important. But then, thanks to the Mother, they're gone again.\""
 msgstr ""
+"Povzdechne si. \"Věci se vracejí... v záblescích. Když mi něco připomínají... Někdy se dokonce zdají být znovu důležité. *Opravdu* důležité. Ale pak jsou díky Matce zase pryč.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1592,6 +1827,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E476"
 msgid "All right. Let's consider the context and meaning here."
 msgstr ""
+"Dobře. Uvažujme o kontextu a významu."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1599,6 +1835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000142C"
 msgid "\"Yes, it's for a first-degree murder investigation in Martinaise.\""
 msgstr ""
+"\"Ano, je to kvůli vyšetřování vraždy prvního stupně v Martinéze.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1606,6 +1843,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000150C"
 msgid "\"No, man, quite the opposite -- I don't think she cares much about authority or, anything else for that matter. Maybe only about her machines.\""
 msgstr ""
+"\"Ne, pane, právě naopak -- myslím, že jí na autoritě - ani na ničem jiném - moc nezáleží. Možná jen o své stroje.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1613,6 +1851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001571"
 msgid "\"That was... an interesting conversation.\""
 msgstr ""
+"\"To byl... zajímavý rozhovor.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1620,6 +1859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7B9"
 msgid "\"How do you know what I'm feeling?\""
 msgstr ""
+"\"Jak můžete vědět, co cítím?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1627,6 +1867,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000017E1"
 msgid "\"Oh, hell no!\" [Run away.]"
 msgstr ""
+"\"To snad ne!\" [Utéct.]"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1634,6 +1875,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000193F"
 msgid "\"Maybe that's why I feel so lonely -- without a name, I have no place.\""
 msgstr ""
+"\"Možná proto se cítím tak osaměle -- beze jména nemám žádné místo.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1641,6 +1883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000221F"
 msgid "\"This conversation is making me uncomfortable. Let's talk about something else.\""
 msgstr ""
+"\"Tenhle rozhovor mě zneklidňuje. Pojďme si promluvit o něčem jiném.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1648,6 +1891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000224A"
 msgid "\"You know, actually, since we're here -- you may want to pay attention to what the ceiling climber is saying.\""
 msgstr ""
+"\"Víte, když už jsme tady -- možná byste měl dávat pozor, co říká ten stropní horolezec.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1655,6 +1899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002930"
 msgid "\"There must be something illegal about living in a church ceiling. I don't know what yet, but there must be.\""
 msgstr ""
+"\"Na bydlení pod stropem kostela musí být něco nelegálního. Zatím nevím co, ale musí to být.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1662,6 +1907,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002989"
 msgid "\"Well, at least, you're human. That's a relief.\""
 msgstr ""
+"\"Alespoň jste člověk. To je úleva.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1669,6 +1915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002990"
 msgid "\"Glad you're feeling more comfortable.\" He grins. \"First-timers are always nervous.\""
 msgstr ""
+"\"Jsem rád, že se cítíte lépe.\" Usměje se. \"Ti, co jsou tu poprvé, jsou vždycky nervózní.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1676,6 +1923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003F1E"
 msgid "\"I've heard that before, wey.\" He shakes his head. \"And I know I can't convince you on the spot. But think -- when's the last time you woke up from *silent communion* with a hangover, regretting what you did last night?\""
 msgstr ""
+"\"To už jsem někdy slyšel, wey.\" Zavrtí hlavou. \"A vím, že Vás nemůžu přesvědčit na místě. Ale zamyslete se -- kdy jste se naposledy probudil po *tichém přijímání* s kocovinou a litoval toho, co jste včera večer udělal?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1683,6 +1931,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001471"
 msgid "\"My name's Harry.\" (Extend your hand for a greeting.)"
 msgstr ""
+"\"Jmenuji se Harry.\" (Natáhnout ruku k pozdravu.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1690,6 +1939,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014D7"
 msgid "\"You just have to wait until she comes back or...\" He shrugs."
 msgstr ""
+"\"Musíte jen počkat, až se vrátí, nebo...\" Pokrčí rameny."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1697,6 +1947,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014E2"
 msgid "\"No, man, quite the opposite -- I don't think she cares much about authority or, anything else for that matter. Maybe only about her machines.\""
 msgstr ""
+"\"Ne, pane, právě naopak -- myslím, že jí na autoritě - ani na ničem jiném - moc nezáleží. Možná jen o své stroje.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1704,6 +1955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000153A"
 msgid "\"Hey, not judging -- I've got drug problems myself.\""
 msgstr ""
+"\"Hej, nesoudím Vás -- sám mám problémy s drogami.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1711,6 +1963,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FCF"
 msgid "\"Are these your shoes lying around here?\" (Show him the red brogues you found.)"
 msgstr ""
+"\"To jsou Vaše boty, co se tu povalují?\" (Ukázat mu červené boty, které jsi našel.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1718,6 +1971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FC2A"
 msgid "\"This is stupid. I don't even know what this is.\""
 msgstr ""
+"\"To je hloupost. Ani nevím, co to je.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1725,6 +1979,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FDA2"
 msgid "Sorry, but you just don't have it in you right now."
 msgstr ""
+"Je mi líto, ale teď na to prostě nemáš."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1732,6 +1987,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E60B"
 msgid "\"Habitual alcohol use has made you into a scared little pussy, homes. But don't worry, everything's gonna be alright -- you've come to the right place.\""
 msgstr ""
+"\"Pravidelná konzumace alkoholu z Vás udělala malou vyděšenou čubku, homes. Ale nebojte se, všechno bude v pořádku -- jste na správném místě.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1739,6 +1995,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001914"
 msgid "\"...your place among your fellows, your place in the world. I ain't got no use for such a place anymore.\""
 msgstr ""
+"\"...své místo mezi svými bližními, své místo ve světě. Takové místo pro mě nemá význam.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1746,6 +2003,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002546"
 msgid "The crab-man!"
 msgstr ""
+"Krabomuž!"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1753,6 +2011,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000026A1"
 msgid "\"Convenience has got nothing to do with what goes on up there...\" He gazes up at the ceiling."
 msgstr ""
+"\"Příhodnost nic společného s tím, co se tam děje...\" Zadívá se do stropu."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1760,6 +2019,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000271D"
 msgid "\"Tiago is my name. But those syllables don't mean much to me these days. A name isn't just your identity, but also, so to speak...\""
 msgstr ""
+"\"Jmenuji se Tiago. Ale ty slabiky mi dnes už moc neříkají. Jméno není jen Vaše identita, ale také, abych tak řekl...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1767,6 +2027,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000279F"
 msgid "\"Sorry, you just weren't moving like a human.\""
 msgstr ""
+"\"Promiňte, ale zkrátka jste se nepohyboval jako člověk.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1774,6 +2035,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002848"
 msgid "What's next? A raw food diet? You're a disappointment."
 msgstr ""
+"Co bude dál? Raw dieta? Jsi zklamáním."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1781,6 +2043,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028FC"
 msgid "(Squint your eyes.) \"These seem a tad... derivative.\""
 msgstr ""
+"(Přimhouřit oči.) \"Vypadají trochu... nepůvodně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1788,6 +2051,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B0B"
 msgid "\"The ones in the tent outside, right? I seen 'em. Guessing they're the ones who call me a crab? Probably scared of me...\""
 msgstr ""
+"\"Ti ve stanu venku, že? Viděl jsem je. Hádám, že to jsou ti, co mi říkají krab? Asi se mě bojí...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1795,6 +2059,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002BBC"
 msgid "\"You've been here for a long time. Did you see the police raid that took place here?\""
 msgstr ""
+"\"Jste tu už dlouho. Neviděl jste ten policejní zátah, který tu proběhl?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1802,6 +2067,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040FA"
 msgid "He laughs. \"I don't mean *literal* singing, homes. This is the Mother of Silence we're talking about. It's the singing of a burning heart...\""
 msgstr ""
+"Zasměje se. \"Nemyslím zpěv *doslovně*, homes. Mluvíme tu o Matce Ticha. Je to zpěv hořícího srdce...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1809,6 +2075,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000419E"
 msgid "He sighs. \"It don't matter none, homes. Not anymore.\""
 msgstr ""
+"Povzdechne si. \"Na tom nezáleží, homes. Už ne.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1816,6 +2083,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000042D6"
 msgid "\"...the Mother will eat all of you, and never spit you out.\""
 msgstr ""
+"\"...Matka vás všechny sní a nikdy vás nevyplivne.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1823,6 +2091,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004351"
 msgid "\"Hard to say. I think I did some construction work here, back when I still had material worries. Up there, I realized what the true purpose of the church was...\""
 msgstr ""
+"\"Těžko říct. Myslím, že jsem tu dělal nějaké stavební práce, když jsem ještě měl hmotné starosti. Tam nahoře jsem si uvědomil, jaký je skutečný účel kostela...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1830,6 +2099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000013E1"
 msgid "\"I see what you've done there. It's as if these figures are trying to become one with the church -- or perhaps with the Mother herself.\""
 msgstr ""
+"\"Vidím, kam tím míříte. Jako by se tyto postavy snažily splynout s církví -- nebo možná se samotnou Matkou.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1837,6 +2107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001577"
 msgid "\"However, I'm still not sure how it's relevant to our investigation.\""
 msgstr ""
+"\"Pořád si ale nejsem jistý, jak to souvisí s naším vyšetřováním.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1844,6 +2115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FE7"
 msgid "They'd only stop him from climbing."
 msgstr ""
+"Jen by mu zabránily v lezení."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1851,6 +2123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FED"
 msgid "\"I think they were, a long time ago...\" He looks at the red brogues in your hand. \"I had to *shed* them like skins, to get closer to the centre of the silence. You can have them. I don't need them anymore.\""
 msgstr ""
+"\"Myslím, že ano, už je to dávno...\" Podívá se na červené polobotky ve tvé ruce. \"Musel jsem je *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si je vzít. Já už je nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1858,6 +2131,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002100001FED"
 msgid "\"I think they were, a long time ago...\" He looks at the red brogues you're wearing. \"I had to *shed* them like skins, to get closer to the centre of the silence. You can have them. I don't need them anymore.\""
 msgstr ""
+"\"Myslím, že ano, už je to dávno...\" Podívá se na červené polobotky, které máš na sobě. \"Musel jsem je *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si je vzít. Já už je nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1865,6 +2139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FF5"
 msgid "The scarf looks pretty dapper actually."
 msgstr ""
+"Šála vypadá docela švihácky."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1872,6 +2147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F87E"
 msgid "That's right. You've got to watch your own back."
 msgstr ""
+"Přesně tak. Musíš si hlídat záda."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1879,6 +2155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DEC8"
 msgid "\"I think we're done here, ese.\" The figure crawls off into the darkness above."
 msgstr ""
+"\"Myslím, že tady jsme skončili, ese.\" Postava se odplazí do tmy nahoře."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1886,6 +2163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000184A"
 msgid "\"You know what this is. It's truth, homes. Join me, become one with it -- aflame with the Mother's love.\" His voice echoes in the cold air of the church."
 msgstr ""
+"\"Vy víte, co to je. Je to pravda, homes. Připojte se ke mně, sjednoťte se s ní -- zahořte láskou Matky.\" Jeho hlas se ozývá v chladném vzduchu kostela."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1893,6 +2171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000185F"
 msgid "\"That's all well and good, but we need to talk about the unlicensed occupation of ecclesiastic property.\""
 msgstr ""
+"\"To je všechno hezké, ale musíme si promluvit o nepovoleném okupování církevního majetku.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1900,6 +2179,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000185F"
 msgid "\"That's all well and good, but we need to talk about the unlicensed occupation of ecclesiastic property. I'm in a rush.\""
 msgstr ""
+"\"To je všechno hezké, ale musíme si promluvit o neoprávněném obsazování církevního majetku. Spěchám.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1907,6 +2187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000018E1"
 msgid "\"Space? Jobs?\" He laughs. \"Do you see anyone taking swings at me for my place on the rafters?...\""
 msgstr ""
+"\"Místo? Práci?\" Zasměje se. \"Vidíte, že by si na mě někdo zasedl kvůli mému místu na trámu?...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1914,6 +2195,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001939"
 msgid "\"My name sets me apart from my fellows. How often do you meet a Raphaël Ambrosius Costeau?\""
 msgstr ""
+"\"Mé jméno mě odlišuje od mých druhů. Jak často potkáte Raphaëla Ambrosia Costeau?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1921,6 +2203,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021E0"
 msgid "\"Oh yeah, sure.\" His eyes remain fixed on yours. \"You don't know anything about alcohol use. You've got it *all under control*, wey. I saw you hide that control behind your back.\""
 msgstr ""
+"\"Jo, jasně.\" Jeho oči zůstávají upřené na tvé. \"O užívání alkoholu nic nevíte. Máte to *všechno pod kontrolou*, wey. Viděl jsem, jak tu kontrolu schováváte za zády.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1928,6 +2211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028F6"
 msgid "(Rub your chin.) \"You've got some nice... curves going there.\""
 msgstr ""
+"(Podrbat si bradu.) \"Máte tam vskutku pěkné... křivky.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1935,6 +2219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002937"
 msgid "\"Oh, man, I'd love to see that statute.\" He pauses to think. \"I'm sure I'd be 'trespassing' if the church was in use -- but it's not, hombre.\""
 msgstr ""
+"\"Ó, pane, tak tenhle předpis bych moc rád viděl.\" Odmlčí se, aby se zamyslel. \"Jsem si jistý, že kdyby byl kostel v provozu, byl bych 'neoprávněný okupovatel' -- ale není, hombre.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1942,6 +2227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002955"
 msgid "\"I've done my share of illegal shit. Used to be in a gang, the whole deal. But even memories of that time are fading... Most of them are already gone.\""
 msgstr ""
+"\"Udělal jsem spoustu nelegálních věcí. Býval jsem v gangu a tak. Ale i vzpomínky na tu dobu už blednou... Většina z nich už je pryč.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1949,6 +2235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003F63"
 msgid "Too gleeful, those words -- he is lying. Not to you -- to his very own self."
 msgstr ""
+"Příliš radostná slova -- lže. Ne tobě, ale sám sobě."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1956,6 +2243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004008"
 msgid "And your mind's pretty clear, all things considered. In fact, it's too clear for you to be buying into this climbing vision quest."
 msgstr ""
+"A tvá mysl je celkem jasná, když se to vezme kolem a kolem. Vlastně je až příliš jasná na to, aby ses nechal strhnout k hledání horolezcovy vize."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1963,6 +2251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004343"
 msgid "\"Did you see what happened?\""
 msgstr ""
+"\"Viděl jste, co se stalo?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1970,6 +2259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000434A"
 msgid "\"How did you even find this place -- this church?\""
 msgstr ""
+"\"Jak jste vůbec našel tohle místo -- tenhle kostel?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1977,6 +2267,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000003C7"
 msgid "Hmh... does it mean he witnessed the police raid?"
 msgstr ""
+"Hmh... znamená to, že byl svědkem toho policejního zátahu?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1984,6 +2275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7D5"
 msgid "\"Not all of it. I was like you once. You don't know all the havoc *el vino* is wreaking on your mind and your spirit. Necesitas parar, homie.\""
 msgstr ""
+"\"Ne všeho. Kdysi jsem byl jako Vy. Nevíte, jakou spoušť *el vino* působí na Vaši mysl a ducha. Necesitas parar, homie.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1991,6 +2283,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FC5F"
 msgid "\"You talk funny.\""
 msgstr ""
+"\"Mluvíte legračně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -1998,6 +2291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FD5F"
 msgid "\"I'm doing a survey of passwords and passcodes, identifying regional trends. In the interests of public safety, of course.\""
 msgstr ""
+"\"Provádím průzkum hesel a kódů a zjišťuji regionální trendy. Samozřejmě v zájmu veřejné bezpečnosti.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2005,6 +2299,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E614"
 msgid "\"Yeah, I guess I have a bit of a problem, and it's been getting out of hand lately, but...\""
 msgstr ""
+"\"Jo, asi mám trochu problém a poslední dobou se mi to vymyká z rukou, ale...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2012,6 +2307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000195C"
 msgid "\"That's not quite right, but you're getting somewhere.\" He smiles enigmatically. \"Any one of us could have been anything else...\""
 msgstr ""
+"\"To není úplně správně, ale někam se dostáváte.\" Záhadně se usměje. \"Kdokoli z nás mohl být cokoli jiného...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2019,6 +2315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021B6"
 msgid "Hold on, stop it right there. \"Pussy\"? What's with this?"
 msgstr ""
+"Počkat, momentíček. \"Čubku\"? Co to má znamenat?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2026,6 +2323,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002289"
 msgid "\"Coffee in the back\"? Something familiar about that. Coffee and stale cookies..."
 msgstr ""
+"\"Vzadu je káva\"? Něco mi na tom připadá povědomé. Káva a zatuchlé sušenky..."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2033,6 +2331,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000283C"
 msgid "I don't know, I think he may be onto something."
 msgstr ""
+"Nevím, myslím, že na tom něco bude."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2040,6 +2339,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028BA"
 msgid "\"Wait, did you carve those sculptures?\" (Point at the nearest pillar.)"
 msgstr ""
+"\"Počkat, Vy jste vyřezal tyhle sochy?\" (Ukázat na nejbližší sloup.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2047,6 +2347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000029A8"
 msgid "Yeah! My *body* is my church!"
 msgstr ""
+"Jo! Mé *tělo*, můj chrám!"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2054,6 +2355,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B91"
 msgid "\"I circle it, nurtured by the silence bestowed by the Mother. One of these days, I'll be pure enough to go drink from it directly.\""
 msgstr ""
+"\"Kroužím kolem něj, živen tichem, které mi darovala Matka. Jednoho dne budu natolik čistý, že se z ní půjdu napít přímo.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2061,6 +2363,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003D6E"
 msgid "\"It's not like that at all, man. It's just faith and joyful service.\""
 msgstr ""
+"\"Tak to vůbec není, pane. Je to jen víra a radostná služba.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2068,6 +2371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003F41"
 msgid "When your mind is clear of the neurotoxins you've been injecting it with for years -- and your body regains some nimbleness and swiftness."
 msgstr ""
+"Až se tvá mysl zbaví neurotoxinů, které jsi do ní léta cpal -- a tvé tělo získá zpět trochu svižnosti a rychlosti."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2075,6 +2379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000400F"
 msgid "But, can't deny it -- your mind's pretty clear, all things considered. In fact, it's too clear for you to be buying into this climbing vision quest."
 msgstr ""
+"Ale nemůžeš to popřít -- tvá mysl je celkem jasná, když se to vezme kolem a kolem. Vlastně je až příliš jasná na to, aby ses nechal strhnout k hledání horolezcovy vize."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2082,6 +2387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E45D"
 msgid "There are drugs darker than alcohol circling your system."
 msgstr ""
+"Ve vašem těle kolují temnější drogy než alkohol."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2089,6 +2395,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F0000029A"
 msgid "\"So you've got nothing else to tell me? How she looks, what she does, who *is* she?\""
 msgstr ""
+"\"Takže už mi nemáte co říct? Jak vypadá, co dělá, kdo to *je*?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2096,6 +2403,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000013EB"
 msgid "\"Honestly, I don't get it. All these figures look half-finished.\""
 msgstr ""
+"\"Upřímně řečeno, nechápu to. Všechny ty postavy vypadají nedodělaně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2103,6 +2411,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001500"
 msgid "\"Did it seem like she was hiding in here? Or running from something?\""
 msgstr ""
+"\"Připadalo Vám někdy, že se tu před něčím schovává? Nebo před něčím utíká?\" "
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2110,6 +2419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001812"
 msgid "\"Why do you keep talking about alcohol?\""
 msgstr ""
+"\"Proč pořád mluvíte o alkoholu?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2117,6 +2427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002237"
 msgid "\"I'm doing just fine, thank you!\""
 msgstr ""
+"\"Daří se mi dobře, děkuji!\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2124,6 +2435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000266A"
 msgid "That's not the only technique he's working on. Look at those carved sculptures. And is that a satchel of tools over there?"
 msgstr ""
+"To není jediná technika, na které pracuje. Podívej se na ty vyřezávané sochy. A támhle je brašna s nářadím?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2131,6 +2443,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000277F"
 msgid "A body is only crude so long as it's unformed, son. That's where your training comes in."
 msgstr ""
+"Tělo je hrubé jen do té doby, dokud nemá formu, synu. V tom spočívá tvůj trénink."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2138,6 +2451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000029AF"
 msgid "Tell him, son! Show him you're not going to be bent out of shape by his *philosophies*."
 msgstr ""
+"Řekni mu to, synu! Ukaž mu, že se nenecháš vyvést z míry jeho *filozofií*."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2145,6 +2459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002A5C"
 msgid "\"I thought you'd be offended. Go and scare them or something.\""
 msgstr ""
+"\"Myslel jsem, že se urazíte. Běžte je vyděsit nebo tak něco.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2152,6 +2467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B63"
 msgid "\"Wouldn't bother me none to have 'em spin music in here. I'm usually way up there, imbibing.\""
 msgstr ""
+"\"Nevadilo by mi, kdyby tady roztáčeli nějakou muziku. Většinou jsem tam nahoře a nasávám.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2159,6 +2475,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004044"
 msgid "Oh well, didn't really care about climbing up some stupid beams anyway."
 msgstr ""
+"No jo, stejně mi bylo úplně jedno, že budu šplhat po nějakých pitomých trámech."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2166,6 +2483,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004099"
 msgid "\"What will happen once you drink from this 'perforation'?\""
 msgstr ""
+"\"Co se stane, až se napijete z toho 'proražení'?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2173,6 +2491,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040BD"
 msgid "\"I still don't understand what you're doing in the church.\""
 msgstr ""
+"\"Pořád nechápu, co děláte v kostele.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2180,6 +2499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000432E"
 msgid "\"Did you witness it?\""
 msgstr ""
+"\"Byl jste toho svědkem?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2187,6 +2507,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A4EB"
 msgid "Uhm.... oops?"
 msgstr ""
+"Ehm... jejda?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2194,6 +2515,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001542"
 msgid "\"I can see, and it saddens me. But devotion can save you -- it saved me.\""
 msgstr ""
+"\"Vidím to a je mi z toho smutno. Ale oddanost Vás může zachránit -- mě zachránila.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2201,6 +2523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002001"
 msgid "\"I think it was, a long time ago...\" He looks at the red winter scarf in your hand. \"I had to *shed* it like a skin, to get closer to the centre of the silence. You can have it. I don't need it anymore.\""
 msgstr ""
+"\"Myslím, že to bylo kdysi dávno...\" Podívá se na červenou zimní šálu ve tvé ruce. \"Musel jsem ji *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si ji vzít. Já už ji nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2208,6 +2531,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002100002001"
 msgid "\"I think it was, a long time ago...\" He looks at the red winter scarf around your neck. \"I had to *shed* it like a skin, to get closer to the centre of the silence. You can have it. I don't need it anymore.\""
 msgstr ""
+"\"Myslím, že to bylo kdysi dávno..\" Podívá se na červenou zimní šálu okolo tvého krku. \"Musel jsem ji *sloupnout* jako kůži, abych se dostal blíž ke středu ticha. Můžete si ji vzít. Já už ji nepotřebuju.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2215,6 +2539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F822"
 msgid "\"Here you can receive the Mother's love, and, when you're ready, she will take your hand and lift you out of the despair at the bottom of the bottle.\""
 msgstr ""
+"\"Tady můžete přijmout Matčinu lásku, a až budete připraven, vezme Vás za ruku a vytáhne Vás ze zoufalství na dně láhve.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2222,6 +2547,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000263A"
 msgid "He chuckles. \"I am, at least in part, homes... until the Mother's love burns away the crude distinctions of the body.\""
 msgstr ""
+"Zasměje se. \"Jsem, alespoň částečně, homes... dokud Matčina láska nezničí neopracované odlišnosti těla.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2229,6 +2555,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002694"
 msgid "\"I lost my memory, too, but I like it. It's like I get to create a whole new me, start again from scratch.\""
 msgstr ""
+"\"Taky jsem ztratil paměť, ale líbí se mi to. Je to, jako bych si mohl vytvořit úplně nové já, začít znovu od nuly.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2236,6 +2563,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002723"
 msgid "\"Tiago's my name, by the way, though the syllables don't mean much to me. A name isn't just your identity, but also, so to speak...\""
 msgstr ""
+"\"Mimochodem, jmenuju se Tiago, i když mi ty slabiky už dnes nic moc neříkají. Jméno není jen Vaše identita, ale také, abych tak řekl...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2243,6 +2571,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002842"
 msgid "I don't want to argue with him. He's kind of scary."
 msgstr ""
+"Nechci se s ním hádat. Je trochu děsivý."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2250,6 +2579,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002A6B"
 msgid "\"She is a cavity, in the dark, beyond sense. She saved me... but I couldn't describe her to you. No one can, homes, and no one ever will.\""
 msgstr ""
+"\"Je to dutina, v temnotě, mimo smysl. Zachránila mě... ale nedokázal bych Vám ji popsat. Nikdo to nedokáže, homes, a nikdo ji nikdy nebude moct popsat.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2257,6 +2587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B43"
 msgid "\"I trust you won't get in the way of some enterprising youth? Their business looks promising.\""
 msgstr ""
+"\"Věřím, že se nebudete plést do cesty pár podnikavým mladíkům? Jejich podnikání vypadá slibně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2264,6 +2595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B53"
 msgid "\"Why not? They wouldn't bother me none. I'm usually way up there, imbibing. Ain't no music on Earth that can reach where I go.\""
 msgstr ""
+"\"Proč ne? Nebudou mě obtěžovat. Obvykle jsem tam nahoře a popíjím. Tam, kam chodím já, žádná hudba na světě nedosáhne.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2271,6 +2603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002BB3"
 msgid "\"Police raid a while back,\" he responds, his voice suddenly flat."
 msgstr ""
+"\"Policejní zátah před nějakou dobou,\" odpoví a jeho hlas je najednou plochý."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2278,6 +2611,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004024"
 msgid "I don't care about the physical stuff -- I'm in it for the spiritual experience."
 msgstr ""
+"Fyzické věci mě nezajímají -- jde mi o duchovní zážitek."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2285,6 +2619,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040F4"
 msgid "\"I ain't from no *marietti*, if that's what you're thinking. And the song I sing is silent as the Mother.\""
 msgstr ""
+"\"Nejsem žádný *mariachi*, jestli myslíte tohle. A píseň, kterou zpívám, je tichá jako Matka sama.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2292,6 +2627,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004133"
 msgid "\"Things come back... in flashes.\" He thinks for a moment. \"When something reminds me... Sometimes they even seem important again. *Really* important. But then, thanks to the Mother, they're gone again.\""
 msgstr ""
+"\"Věci se vracejí... v záblescích.\" Na chvilku se zamyslí. \"Když mi něco připomínají... Někdy se dokonce zdají být znovu důležité. *Opravdu* důležité. Ale pak jsou díky Matce zase pryč.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2299,6 +2635,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000002B6"
 msgid "Or search through her radiocomputer."
 msgstr ""
+"Nebo prohledej její rádiokomputer."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2306,6 +2643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000014C5"
 msgid "\"I see.\" The lieutenant seems contented with that answer. \"And where is she now?\""
 msgstr ""
+"\"Chápu.\" Poručík se zdá být s touto odpovědí spokojen. \"A kde je teď?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2313,6 +2651,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000157D"
 msgid "\"However, I'm still not sure whether we'll find our suspect here.\""
 msgstr ""
+"\"Stále si však nejsem jistý, zda zde najdeme našeho podezřelého.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2320,6 +2659,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001FD5"
 msgid "\"Is this your scarf lying around here?\" (Show him the red scarf you found.)"
 msgstr ""
+"\"To je Vaše šála, co se tu válí?\" (Ukázat mu červenou šálu, kterou jste našli.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2327,6 +2667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7B3"
 msgid "\"Oh, I'm very in touch with my suffering.\""
 msgstr ""
+"\"Ach, já jsem se svým utrpením velmi dobře sžitý.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2334,6 +2675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F80C"
 msgid "\"I'm not scared. I just don't understand why the female sexual organs have to be associated with weakness.\""
 msgstr ""
+"\"Nebojím se. Jen nechápu, proč musí být ženské pohlavní orgány spojovány se slabostí.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2341,6 +2683,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000183E"
 msgid "\"It don't matter who *I* am, wey. I'm just bringin' you the message of the Mother's love. She don't want you to hang yourself on your own stubbornness.\" His words echo in the cold air of the church."
 msgstr ""
+"\"Nezáleží na tom, kdo jsem *já*, wey. Jen Vám přináším poselství o Matčině lásce. Ona nechce, aby jste se oběsil na své vlastní tvrdohlavosti.\" Jeho slova se ozývají v chladném vzduchu kostela."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2348,6 +2691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000222B"
 msgid "\"Not all of it. I was like you once. You don't know all the havoc *el vino* is wreaking on your mind and your spirit. Necesitas parar, homie.\""
 msgstr ""
+"\"Ne všeho. Kdysi jsem byl jako Vy. Nevíte, jakou spoušť *el vino* působí na Vaši mysl a ducha. Necesitas parar, homie.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2355,6 +2699,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002231"
 msgid "\"I know it's hard to admit that you've got a problem. I was like you once -- couldn't take an honest look into my own heart and see I was in pain.\""
 msgstr ""
+"\"Vím, že je těžké přiznat si, že máte problém. Kdysi jsem byl jako Vy -- nedokázal jsem se upřímně podívat do vlastního srdce a vidět, že mě něco bolí.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2362,6 +2707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000274F"
 msgid "That was him suppressing a chuckle."
 msgstr ""
+"To potlačoval smích."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2369,6 +2715,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B6A"
 msgid "\"Might even be nice to have some company...\""
 msgstr ""
+"\"Mohlo by dokonce být fajn mít společnost...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2376,6 +2723,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100003D81"
 msgid "\"Faith is a kind of drug.\""
 msgstr ""
+"\"Víra je druh drogy.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2383,6 +2731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004051"
 msgid "You might be that numerically, but you've really done a number on yourself too."
 msgstr ""
+"Možná jsi tak vypočítavý, ale také jsi sám docela číslo."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2390,6 +2739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004070"
 msgid "When your mind is clear of the neurotoxins you've been injecting it with for years, and your body regains some nimbleness and swiftness, you might achieve such a feat."
 msgstr ""
+"Až se tvá mysl zbaví neurotoxinů, které jsi do ní léta cpal, a tvé tělo získá zpět trochu svižnosti a rychlosti, můžeš takového výkonu dosáhnout."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2397,6 +2747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040B6"
 msgid "\"Is this what you meant by 'saeraffic existence'?\""
 msgstr ""
+"\"Tohle jste myslel tou 'serafínskou přítomností'?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2404,6 +2755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040ED"
 msgid "\"Can you sing for me? Sing for me something.\""
 msgstr ""
+"\"Můžete mi zazpívat? Zazpívejte mi něco.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2411,6 +2763,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000071000040ED"
 msgid "\"You should sing for me, the Superstar Cop.\" (Point your thumbs at yourself.)"
 msgstr ""
+"\"Měl byste zazpívat mně, poldovi ze Superstar.\" (Ukázat palcem na sebe.)"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2418,6 +2771,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000071000040ED"
 msgid "\"You should sing about the coming apocalypse, warn the unseeing.\""
 msgstr ""
+"\"Měl byste zpívat o nadcházející apokalypse, varovat nevidomé.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2425,6 +2779,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004118"
 msgid "He lost his cool there for a moment. Seems you hit some nerve."
 msgstr ""
+"Na okamžik ztratil klid. Vypadá to, že jsi se trefil do černého."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2432,6 +2787,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000433C"
 msgid "Could it be that he just doesn't want to discuss a police raid with another police officer?"
 msgstr ""
+"Je možné, že jen nechce diskutovat o policejní zátah s detektivem?"
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2439,6 +2795,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000372"
 msgid "\"Something like that,\" he responds, his voice suddenly flat."
 msgstr ""
+"\"Něco takového,\" odpoví a jeho hlas je najednou plochý."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2446,6 +2803,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000013FD"
 msgid "(Squint your eyes.) \"These seem a tad... derivative.\""
 msgstr ""
+"(Přimhouřit oči.) \"Vypadají trochu... nepůvodně.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2453,6 +2811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000145F"
 msgid "\"Never known myself to be a *crab*. But if that's the name you've got for me, I won't stop you from using it.\""
 msgstr ""
+"\"Nikdy jsem se nepovažoval za *kraba*. Ale jestli je to jméno, které pro mě máte, nebudu Vám bránit, abyste ho používal.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2460,6 +2819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F7BF"
 msgid "\"Great. More patronising. So original.\""
 msgstr ""
+"\"Skvělé. Další povýšenost. Tak originální.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2467,6 +2827,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F83D"
 msgid "He's a born preacher. Enjoy the rhetorical flourishes, but remain vigilant -- don't let him get too close. He's crazy."
 msgstr ""
+"Je to rozený kazatel. Užívej si jeho rétorické výlevy, ale buď ostražitý - nenech ho, aby se k tobě dostal příliš blízko. Je to blázen."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2474,6 +2835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000021D1"
 msgid "\"Oh yeah, sure.\" His eyes remain fixed on yours. \"You don't know anything about alcohol use. You've got it *all under control*, wey. I can smell the control all the way over here.\""
 msgstr ""
+"\"Jo, jasně.\" Jeho oči zůstávají upřené na tvé. \"O užívání alkoholu nic nevíte. Máte to *všechno pod kontrolou*, wey. Tu Vaši kontrolu cítím až sem.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2481,6 +2843,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000268E"
 msgid "\"I lost my memory, too. And it haunts me.\""
 msgstr ""
+"\"Také jsem ztratil paměť. A pronásleduje mě to.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2488,6 +2851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002717"
 msgid "The lieutenant is not particularly interested in this information. He's just trying to assert some control over the conversation."
 msgstr ""
+"Poručíka tato informace příliš nezajímá. Snaží se jen získat kontrolu nad rozhovorem."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2495,6 +2859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000027F5"
 msgid "\"If you're not a crab, then what are you?\""
 msgstr ""
+"\"Jestli nejste krab, tak co jste?\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2502,6 +2867,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000028C0"
 msgid "\"Sure am. Whittling wood used to be something I just did to busy my hands...\""
 msgstr ""
+"\"Jistěže ano. Kdysi jsem si dřevo jen tak brousil, abych zaměstnal ruce...\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2509,6 +2875,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B21"
 msgid "\"The ones in the tent outside, right? I seen 'em. Think they're scared of me.\""
 msgstr ""
+"\"Ti ve stanu venku, že? Viděl jsem je. Asi se mě bojí.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2516,6 +2883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002B5B"
 msgid "\"Absolutely, man. Wouldn't bother me none to have 'em spin music in here. I'm usually way up there, imbibing.\""
 msgstr ""
+"\"Jasná věc, pane. Nevadilo by mi, kdyby tady roztáčeli nějakou muziku. Většinou jsem vlastně tam nahoře a nasávám.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2523,6 +2891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004030"
 msgid "I feel like I am failing as a man. I am ashamed."
 msgstr ""
+"Mám pocit, že jako muž selhávám. Stydím se za to."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2530,6 +2899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000403D"
 msgid "Some people will find that attitude admirable... but it's not going to help you scale these beams."
 msgstr ""
+"Někteří lidé budou tento přístup považovat za obdivuhodný... ale nepomůže ti to zdolat ty trámy."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2537,6 +2907,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004058"
 msgid "That's just whiny bullshit. Get it together."
 msgstr ""
+"To jsou jen ufňukané kecy. Dej se dohromady."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2544,6 +2915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000040A0"
 msgid "\"I will be incinerated, but not destroyed -- finally at one with the state of the world before reality began.\""
 msgstr ""
+"\"Budu spálen, ale ne zničen -- konečně budu sjednocen se stavem světa před začátkem reality.\""
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2551,6 +2923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000411F"
 msgid "\"Marietti\" is a Mesque style of music and dance commonly seen at all manner of festivities -- especially weddings. It's delightfully quaint, owing to its peasant origins."
 msgstr ""
+"\"Mariachi\" je meskanský hudební a taneční styl, který je běžně k vidění na nejrůznějších slavnostech -- zejména na svatbách. Díky svému rolnickému původu je rozkošně svérázný."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2558,6 +2931,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004127"
 msgid "\"I thought you said you didn't remember what it meant to be Mesque.\""
 msgstr ""
+"\"Myslel jsem, že jste říkal, že si nepamatujete, co to znamená být meskanským."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2565,6 +2939,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004258"
 msgid "Don't rub it in."
 msgstr ""
+"Nevtírej se."
 
 #. Title = CHURCH / TIAGO
 #. Description = Tiago the Crab Man.
@@ -2572,3 +2947,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000425E"
 msgid "You don't need to share your shame."
 msgstr ""
+"Nemusíš sdílet svůj stud."
