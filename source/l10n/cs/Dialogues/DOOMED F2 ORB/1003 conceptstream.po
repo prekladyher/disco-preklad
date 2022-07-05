@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-07-05 13:32+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FD4"
 msgid "Looks like someone tried to *reconceptualize* their business here."
 msgstr ""
+"Vypadá to, že se tu někdo pokusil *změnit koncepci* svého podnikání."
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000005CAE"
 msgid "But the question is -- which did they start with, and which did they pivot to?"
 msgstr ""
+"Otázkou však je, s čím začali a na co přešli."
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FEC"
 msgid "Look: The skis and rotor blades both bear the same \"Slipstream\" logo. It seems likely that they started out making one, failed to turn a profit, and then pivoted to producing the other."
 msgstr ""
+"Podívej se: Lyže i listy rotoru jsou opatřeny stejným logem \"Aerodynamik\". Zdá se pravděpodobné, že začali vyrábět jedno, nepodařilo se jim dosáhnout zisku a pak se přeorientovali na výrobu toho druhého."
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000005CB4"
 msgid "That's a good question."
 msgstr ""
+"To je dobrá otázka."
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FF3"
 msgid "What a strange leap of imagination... And yet they still failed. How sad. [Finish thought.]"
 msgstr ""
+"Jaký zvláštní skok představivosti... A přesto se jim to nepodařilo. Jak smutné. [Ukonči myšlenku.]"
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570002200F"
 msgid "Reality is ruthless."
 msgstr ""
+"Realita je nemilosrdná."
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FDD"
 msgid "I don't get it."
 msgstr ""
+"Nechápu to."
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FE3"
 msgid "[Discard the thought.]"
 msgstr ""
+"[Zavrhni tu ideu.]"
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FFF"
 msgid "That's just speculation. We don't know anything for sure. [Finish thought.]"
 msgstr ""
+"To jsou jen spekulace. Nic nevíme jistě. [Ukonči myšlenku.]"
 
 #. Title = DOOMED F2 ORB / conceptstream
 #. Description = Slipstream conceptualizing
@@ -73,3 +90,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700022006"
 msgid "Not quite. You *do* know that there's something unusual about this company's business model..."
 msgstr ""
+"Ne tak docela. *Vidíš přece*, že na obchodním modelu této společnosti je něco neobvyklého..."
