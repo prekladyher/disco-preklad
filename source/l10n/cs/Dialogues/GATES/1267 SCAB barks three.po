@@ -1,8 +1,16 @@
+# Skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-07-05 13:47+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003363"
 msgid "\"I even brought my own overalls!\""
 msgstr ""
+"\"Dokonce jsem si přinesl vlastní kombinézu!\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000342A"
 msgid "\"You think you're better than us?! You're not!!!\""
 msgstr ""
+"\"Myslíte si, že jste lepší než my?! Nejste!!!\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003351"
 msgid "\"I thought it'd be over by now.\""
 msgstr ""
+"\"Myslel jsem, že už bude po všem.\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003357"
 msgid "\"Let's just sit down and talk this out!\""
 msgstr ""
+"\"Pojďme si v klidu sednout a promluvit si o tom!\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000335D"
 msgid "\"Seems like it ain't getting any better...\""
 msgstr ""
+"\"Zdá se, že se to nezlepší...\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000336F"
 msgid "\"We're all so tired out here, have mercy!\""
 msgstr ""
+"\"Jsme tu všichni tak unavení, smilujte se!\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000341E"
 msgid "\"Why don't you fucking come down here!\""
 msgstr ""
+"\"Proč kurva nejdete sem dolů?\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003375"
 msgid "\"I'm not going home!\""
 msgstr ""
+"\"Nejdu domů!\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003424"
 msgid "\"Just be reasonable!\""
 msgstr ""
+"\"Mějte rozum!\""
 
 #. Title = GATES / SCAB barks three
 #. Description = a whole bunch of scabs barks for a third location
@@ -73,3 +90,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003369"
 msgid "\"I have a family!\""
 msgstr ""
+"\"Mám rodinu!\""
