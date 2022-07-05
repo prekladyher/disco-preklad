@@ -2240,6 +2240,46 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="boiadeiro">
+        <descrip type="definition">myšlenka</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>boiadeiro</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>boiadeiro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tribunal">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tribunal</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>tribunál</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Villalobos">
+        <descrip type="definition">poloostrov v Meskanu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Villalobos</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Villalobos</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
   </text>
 </martif>
