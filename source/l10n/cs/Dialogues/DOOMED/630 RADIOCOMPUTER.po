@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-07-05 20:54+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000723"
 msgid "\"Good morning, Fortress Accident on Rue de Saint-Ghislaine, this is East-Insulindian Repeater Station 1.\""
 msgstr ""
+"\"Dobré ráno, Pevnosti Neštěstí na ulici Svatého Gisléna, tady je Východoinzulindická opakovací stanice 1.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -51,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000878"
 msgid "\"Yes. Is that the production schedule?\""
 msgstr ""
+"\"Ano. Je to výrobní plán?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -83,6 +93,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019C7A"
 msgid "Password. Of course it would have a password. That's why there's a human administrator involved."
 msgstr ""
+"Heslo. Samozřejmě, že by mělo mít heslo. Proto je do toho zapleten lidský správce."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -99,6 +110,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700000439"
 msgid "Look inside the compartment."
 msgstr ""
+"Podívej se dovnitř."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -115,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B4F0"
 msgid "[Step away.]"
 msgstr ""
+"[Odstup.]"
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -123,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016DEE"
 msgid "The filament you have would fit perfectly inside the compartment."
 msgstr ""
+"Kapilára, kterou máš, by se do prostoru perfektně vešla."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -171,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000070F"
 msgid "The static gets louder, slowly filling up the abandoned hall. Until a voice speaks out, crackling and old, cutting into the air..."
 msgstr ""
+"Statický šum je stále hlasitější a pomalu zaplňuje opuštěnou halu. Až se ozve hlas, starý a třaslavý, který prořízne vzduch..."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -179,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000071B"
 msgid "\"Good evening, Fortress Accident on Rue de Saint-Ghislaine, this is East-Insulindian Repeater Station 1.\""
 msgstr ""
+"\"Dobrý večer, Pevnosti Neštěstí na ulici Svatého Gisléna, tady je Východoinzulindická opakovací stanice 1.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -219,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019C3A"
 msgid "The dusty radiocomputer sleeps on its wired frame, forgotten and unused. Its keyboard has a rectangular ON/OFF button; a piece of paper still hangs from the printer."
 msgstr ""
+"Zaprášený radiopočítač spí ve svém drátěném rámu, zapomenutý a nepoužívaný. Na jeho klávesnici je obdélníkové tlačítko ON/OFF, z tiskárny stále visí kus papíru."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -251,6 +268,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001913F"
 msgid "Tiles on the cube are still smouldering, casting the framework in a soft glow. Virescent PLAY and PRINT keys shine on the keyboard."
 msgstr ""
+"Čtverečky na kostce stále doutnají a vrhají na konstrukci měkkou záři. Na klávesnici svítí nazelenalé klávesy SPUSŤ a TISKNI."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -259,6 +277,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001998C"
 msgid "Something's missing -- there's no tape in the player."
 msgstr ""
+"Něco chybí - v přehrávači není žádná páska."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -275,6 +294,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000006E3"
 msgid "\"We have one of these down at the station, but I never really learned how to use it.\""
 msgstr ""
+"\"Jeden takový máme dole na stanici, ale nikdy jsem se ho nenaučil používat.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -283,6 +303,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000008FE"
 msgid "The voice recites: \"I am contractually obliged to protect the privacy of the filament holder Fortress Accident. Without filing a warrant with Lintel, I cannot give you access to this filament.\""
 msgstr ""
+"Hlas recituje: \"Jsem smluvně zavázána chránit soukromí držitele kapiláry Pevnost Neštěstí. Bez podání žádosti o povolení u Lintelu vám nemohu poskytnout přístup k této kapiláře.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -299,6 +320,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000009A7"
 msgid "\"Do you have any other information about this company?\""
 msgstr ""
+"\"Máte o této společnosti nějaké další informace?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -347,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019C81"
 msgid "You should ask her for a hint."
 msgstr ""
+"Měl bys ji požádat o nápovědu."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -419,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000007AB"
 msgid "The lieutenant whispers into your ear: \"She repeats passwords. Programming people are all... paranoid.\""
 msgstr ""
+"Poručík ti zašeptá do ucha: \"Opakuje hesla. Programátoři jsou všichni... paranoidní.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -427,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000008E9"
 msgid "\"No.\""
 msgstr ""
+"☺\"Ne.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -483,6 +508,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700000559"
 msgid "Press PRINT."
 msgstr ""
+"Stiskni TISK."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -531,6 +557,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000006C0"
 msgid "\"Do you think I should turn it on?\""
 msgstr ""
+"\"Myslíte, že bych to měl zapnout?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -539,6 +566,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000078E"
 msgid "\"As for me, well...\" Some static. Then... \"I am sitting in my cubicle surrounded by a wall of radios.\""
 msgstr ""
+"\"Pokud jde o mě, tak...\" Nějaká statická elektřina. Pak... \"Sedím ve své kóji obklopena stěnou z rádií.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -547,6 +575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000818"
 msgid "\"The filament you have inserted into the reader.\""
 msgstr ""
+"\"Kapilára, kterou jste vložil do čtečky.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -563,6 +592,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000982C"
 msgid "Like a smooth drawer, the filament slides into place. On the keyboard, the PLAY key starts blinking."
 msgstr ""
+"Kapilára se zasune na své místo jako hladká zásuvka. Na klávesnici začne blikat klávesa SPUSŤ."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -619,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000832"
 msgid "\"You mean that glowing thing I put inside?\""
 msgstr ""
+"\"Myslíte tu svítící věc, kterou jsem vložil dovnitř?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -627,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000872"
 msgid "Don't worry. Passwords have a way of *turning up* sooner or later."
 msgstr ""
+"Neboj se. Hesla se dříve nebo později *objeví*."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -643,6 +675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000009AD"
 msgid "\"'Fortress Accident SCA produces revolutionary interactive call-in radio games' -- that's what the catalogue says.\""
 msgstr ""
+"\"Pevnost Nštěstí SCA produkuje revoluční interaktivní konferenčí rádiové hry\" - to se píše v katalogu.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -755,6 +788,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000824"
 msgid "\"Is it my birthday?\""
 msgstr ""
+"\"Jsou to moje narozeniny?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -763,6 +797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000083E"
 msgid "\"Received. I will *register* this log-in attempt.\""
 msgstr ""
+"\"Přijato. Tento pokus o přihlášení *zaregistruji.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -771,6 +806,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000AC9"
 msgid "\"Let's try the password for the production schedule.\""
 msgstr ""
+"\"Zkusíme heslo pro výrobní plán.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -779,6 +815,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019CA3"
 msgid "Don't worry. Passwords have a way of *turning up* sooner or later."
 msgstr ""
+"Neboj se. Hesla se dříve nebo později *objeví*."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -787,6 +824,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016CF2"
 msgid "Insert THE PRODUCTION SCHEDULE."
 msgstr ""
+"Vlož PLÁN VÝROBY."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -859,6 +897,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000A94"
 msgid "\"Received. I will *register* this log-in attempt.\""
 msgstr ""
+"\"Přijato. Tento pokus o přihlášení *zaregistruji.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -891,6 +930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016CFE"
 msgid "Remove THE PRODUCTION SCHEDULE."
 msgstr ""
+"Vyjmi PLÁN VÝROBY."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -915,6 +955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000838"
 msgid "\"Still no.\""
 msgstr ""
+"\"Stále ne.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -923,6 +964,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000904"
 msgid "\"Good. Please repeat the password.\""
 msgstr ""
+"\"Dobře. Zopakujte prosím heslo.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -931,6 +973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000988"
 msgid "\"Hmm,\" she hums."
 msgstr ""
+"\"Hmm,\" zahučí."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -995,6 +1038,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016E00"
 msgid "\"Thank you and good bye,\" the old lady's voice disappears along with the static."
 msgstr ""
+"\"Děkuji a na shledanou,\" hlas staré dámy zmizí spolu se statickou elektřinou."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1019,6 +1063,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000782"
 msgid "\"I work as a repeater at the East-Insulindian Repeater Station. It's my job to know where you are, Fortress Accident.\""
 msgstr ""
+"\"Pracuji jako opakovač na Východoinzulindické opakovací stanici. Mým úkolem je vědět, kde se nacházíte, Pevnosti Neštěstí.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1107,6 +1152,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000994"
 msgid "That's not bad."
 msgstr ""
+"To není špatné."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1179,6 +1225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000729"
 msgid "\"Good afternoon, Fortress Accident on Rue de Saint-Ghislaine, this is East-Insulindian Repeater Station 1.\""
 msgstr ""
+"\"Dobré odpoledne, Pevnosti Neštěstí na ulici Svatého Gisléna, tady je Východoinzulindická opakovací stanice 1.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1187,6 +1234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000007A0"
 msgid "\"Now please tell me if there's anything else I can do, Fortress Accident.\""
 msgstr ""
+"\"Teď mi prosím řekněte, jestli můžu udělat ještě něco, Pevnosti Neštěstí.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1203,6 +1251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000044B"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1211,6 +1260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000045C"
 msgid "It's empty like a beehive without its brood. Some cables have been left dangling, disconnected..."
 msgstr ""
+"Je prázdný jako úl bez včelstva. Některé kabely zůstaly viset, odpojené..."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1219,6 +1269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016C78"
 msgid "The machine lights up like some prehistoric animal stirring from its slumber, revealing virescent PLAY and PRINT keys on the keyboard. The hatch on the machine's central compartment is wide open."
 msgstr ""
+"Přístroj se rozsvítí jako nějaké prehistorické zvíře, které se probouzí ze spánku, a na klávesnici se objeví svítící tlačítka SPUSŤ a TISKNI. Poklop vnitřního prostoru stroje je otevřený dokořán."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1275,6 +1326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000009B3"
 msgid "\"One moment...\" You hear her flip through a catalogue, before she reads out with studious care:"
 msgstr ""
+"\"Moment...\" Slyšíš, jak listuje katalogem, a pak ho pečlivě přečte:"
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1347,6 +1399,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000076A"
 msgid "\"Yes, I am alive. I am 74 years old and my name is Yvonne.\""
 msgstr ""
+"\"Ano, jsem živá. Je mi 74 let a jmenuji se Yvona.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1355,6 +1408,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000077C"
 msgid "\"Okay, but where are you? How did you know where I am?\""
 msgstr ""
+"\"Dobře, ale kde jste? Jak víte, kde jsem já?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1363,6 +1417,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000082C"
 msgid "\"I don't know the password.\""
 msgstr ""
+"\"Neznám heslo.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1411,6 +1466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000099A"
 msgid "\"Why did you call me Fortress Accident?\""
 msgstr ""
+"\"Proč jste mě oslovila Pevnosti Neštěstí?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1419,6 +1475,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000009C1"
 msgid "\"And what's that -- this 'interactive call-in radio game'?\""
 msgstr ""
+"\"A co je to - ta \"interaktivní konferenční rádiová hra\"?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1435,6 +1492,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000016E6"
 msgid "The static drowns her response. \"Any other questions?\" you hear her ask when the connection finally improves."
 msgstr ""
+"Statická elektřina přehluší její odpověď. \"Nějaké další otázky?\" slyšíš, jak se ptá, když se spojení konečně zlepší."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1467,6 +1525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000776"
 msgid "\"Yes, I am alive. I am 74 years old and my name is Yvonne. Now please repeat, is this the production schedule?\""
 msgstr ""
+"\"Ano, jsem živá. Je mi 74 let a jmenuji se Yvona. Nyní prosím zopakujte, zda se jedná o plán výroby?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1475,6 +1534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000081E"
 msgid "\"What's the production schedule?\""
 msgstr ""
+"\"Jaký výrobní plán?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1507,6 +1567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000AE4"
 msgid "\"Yes, I am alive. I am 74 years old and my name is Yvonne. Now please repeat, is this the off-site copy?\""
 msgstr ""
+"\"Ano, jsem živá. Je mi 74 let a jmenuji se Yvona. Nyní prosím zopakujte, zda se jedná o externí kopii?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1539,6 +1600,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016D3C"
 msgid "\"Please repeat -- is this the production schedule?\""
 msgstr ""
+"\"Prosím, zopakujte - je tohle výrobní plán?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1547,6 +1609,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700017050"
 msgid "The filament slides out of its glowing nest."
 msgstr ""
+"Kapilára vyklouzne ze svého svítícího hnízda."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1579,6 +1642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700019985"
 msgid "Nothing happens."
 msgstr ""
+"Nic se neděje."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1651,6 +1715,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000007E9"
 msgid "\"They're merely cautious,\" says the old lady. \"It's my job to protect their filaments as a password repeater at the East-Insulindian Station.\""
 msgstr ""
+"\"Jsou jen opatrní,\" řekne stará paní. \"Mým úkolem je chránit jejich kapiláry jako opakovač hesel na Východoinzulindické stanici.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1659,6 +1724,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000856"
 msgid "\"Fortress Accident, is there anything else I can do for you today?\""
 msgstr ""
+"\"Pevnosti Neštěstí, mohu pro vás dnes ještě něco udělat?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1675,6 +1741,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000938"
 msgid "\"I'm afraid we're not doing that. Unless we want to wait for a month.\""
 msgstr ""
+"\"Obávám se, že to neuděláme. Ledaže bychom chtěli čekat měsíc.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1683,6 +1750,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000009A0"
 msgid "\"Fortress Accident is the company on whose name the terminal you're currently using has been registered to.\""
 msgstr ""
+"\"Pevnost Neštěstí je společnost, na jejíž jméno je registrován terminál, který právě používáte.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1691,6 +1759,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000009BB"
 msgid "\"Wow. So conceptual.\""
 msgstr ""
+"\"Páni. Jak konceptuální.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1779,6 +1848,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000007B7"
 msgid "\"Yvonne, my partner tells me that you're here because radiocomputer guys are all paranoid.\""
 msgstr ""
+"\"Yvono, můj partner mi říká, že jsi tam, protože lidi od radiopočítačů jsou paranoidní.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1787,6 +1857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000008AF"
 msgid "\"This is the police. Please open this thing.\""
 msgstr ""
+"\"Tady je policie. Prosím, otevřete tuhle věc.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1803,6 +1874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000008D1"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1811,6 +1883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000944"
 msgid "\"Now, can you please repeat the password?\" the voice in the machine asks again. She sounds cold in the damp air."
 msgstr ""
+"\"Takže, můžete prosím zopakovat heslo?\" zeptá se znovu hlas ve stroji. Ve vlhkém vzduchu zní chladně."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1843,6 +1916,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019C56"
 msgid "Press PLAY again."
 msgstr ""
+"Stiskni znovu SPUSŤ."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1859,6 +1933,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B4EA"
 msgid "Turn on the machine."
 msgstr ""
+"Zapni ten přístroj."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1867,6 +1942,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016D04"
 msgid "Like a smooth drawer, the filament slides into place. On the keyboard, the PLAY key starts blinking."
 msgstr ""
+"Kapilára se zasune na své místo jako hladká zásuvka. Na klávesnici začne blikat klávesa SPUSŤ."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1883,6 +1959,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700019459"
 msgid "Press PLAY."
 msgstr ""
+"Stiskni SPUSŤ."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1955,6 +2032,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000912"
 msgid "\"A password? I'm really bad at passwords. Can you give me a hint?\""
 msgstr ""
+"\"Heslo? Hesla mi opravdu nejdou. Můžete mi napovědět?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1971,6 +2049,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700001C4C"
 msgid "Nothing happens."
 msgstr ""
+"Nic se neděje."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1979,6 +2058,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016D84"
 msgid "\"That's all for now.\" (Press OFF/SILENT.)"
 msgstr ""
+"\"To je prozatím vše.\" (Stiskni VYPNI/ZTIŠ.)"
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -2019,6 +2099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000770"
 msgid "\"What are you, a *machine*? Or are you *alive*?\""
 msgstr ""
+"\"Co jste zač, *stroj*? Nebo jste *živá*?\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -2051,6 +2132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019C8A"
 msgid "A hint system is not part of the protocol for repeater stations."
 msgstr ""
+"Systém nápovědy není součástí protokolu pro opakovací stanice."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -2067,6 +2149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016DE8"
 msgid "The filaments you have would fit perfectly inside the compartment."
 msgstr ""
+"Kapiláry, které máš, by se do prostoru perfektně vešly."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -2075,6 +2158,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700019558"
 msgid "A bar of fabric right above the keyboard starts producing a soft hum. The sound of static seeps through the machine's planar magnetic driver."
 msgstr ""
+"Látkový pruh přímo nad klávesnicí začne jemně bzučet. Zvuk statické elektřiny proniká plošným magnetickým ovladačem stroje."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
