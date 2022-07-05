@@ -1,8 +1,16 @@
+# Skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-07-05 20:09+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000099FC"
 msgid "\"Oh, Measurehead!\""
 msgstr ""
+"\"Ó, Hlavoměre!\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009A06"
 msgid "\"Measurehead is *law*.\""
 msgstr ""
+"\"Hlavoměr je *zákon*.\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009A19"
 msgid "\"Everyone should try to be more like Measurehead.\""
 msgstr ""
+"\"Každý by se měl snažit být víc jako Hlavoměr.\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000099F7"
 msgid "\"No one will get past you!\""
 msgstr ""
+"\"Nikdo se přes tebe nedostane!\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000099F2"
 msgid "\"Just look at him, the wonderful hunk.\""
 msgstr ""
+"\"Jen se na něj podívej, na toho dokonalého fešáka.\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009A01"
 msgid "\"Not soft and weak like other men.\""
 msgstr ""
+"\"Není měkký a slabý jako ostatní muži.\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000099ED"
 msgid "\"Measurehead's amazing!\""
 msgstr ""
+"\"Hlavoměr je úžasný!\""
 
 #. Title = GATES / ANOTHERBABE barks
 #. Description = One of Measurehead's awesomely hot companions who barks mocking stuff at you (on clicking).
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000099E7"
 msgid "\"I dream about you all the time.\""
 msgstr ""
+"\"Pořád o tobě sním.\""
