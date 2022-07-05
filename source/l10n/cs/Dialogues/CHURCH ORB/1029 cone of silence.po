@@ -1,8 +1,16 @@
+# Skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-07-05 13:17+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE79"
 msgid "You see something hanging from the rafters, looking straight at you with dark eyes."
 msgstr ""
+"Vidíš, jak něco visí na trámu a dívá se na tebe tmavýma očima."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE81"
 msgid "(Blink.)"
 msgstr ""
+"(Mrknout.)"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000022A"
 msgid "It's like you see your own face reflected back at you in the vanishing geometry -- a strange, alien image that's supposed to be you."
 msgstr ""
+"Je to, jako bys v mizející geometrii viděli odraz své vlastní tváře -- podivný, cizí obraz, který bys měl být ty."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E414"
 msgid "It's *climbing*. Climbing down, holding on the beams."
 msgstr ""
+"Ono to *leze*. Leze to dolů, držíc se trámů."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F8E6"
 msgid "\"Maybe they wanted to discourage singing and dancing.\""
 msgstr ""
+"\"Možná chtěli odradit od zpěvu a tance.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F934"
 msgid "Maybe if you were to stand in just the right spot, even your footsteps would be completely silent..."
 msgstr ""
+"Možná kdybys i ty stál na správném místě, tvé kroky by byly úplně neslyšné..."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB33"
 msgid "Wait, I think I still hear something..."
 msgstr ""
+"Počkej, myslím, že ještě něco slyším..."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB4C"
 msgid "(Turn to Kim.) \"What's happening?\""
 msgstr ""
+"(Obrátit se na Kima.) \"Co se děje?\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB9E"
 msgid "It's not a shadow anymore -- becoming more substantial as it gets closer. The shape of an *animal* descends."
 msgstr ""
+"Už to není stín -- čím víc se blíží, tím víc se zhmotňuje. Tvar *zvířete* sestupuje dolů."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E3FB"
 msgid "\"Can't hear shit.\""
 msgstr ""
+"\"Neslyším ani hovno.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F91A"
 msgid "\"Please, detective, not this again.\""
 msgstr ""
+"\"Prosím, detektive, tohle už ne.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA90"
 msgid "It would likely be easier to explain with a hands-on demonstration. Alas!"
 msgstr ""
+"Pravděpodobně by bylo snazší vysvětlit to praktickou ukázkou. Smůla!"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FABA"
 msgid "\"Officer, is there something up there?\" The lieutenant follows your gaze, attempting to see whatever it is that you are seeing."
 msgstr ""
+"\"Detektive, je tam nahoře něco?\" Poručík sleduje váš pohled a snaží se vidět to co ty."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB3A"
 msgid "And then it's gone. Almost all of it -- but for the faintest of hums."
 msgstr ""
+"A pak je to pryč. Téměř všechno -- až na slabé šumění."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBD0"
 msgid "You produce a few muffled thumps, after which the silence feels even more... *total* somehow."
 msgstr ""
+"Vydáš několik tlumených úderů, po kterých je ticho ještě větší... tak nějak *úplné*."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE43"
 msgid "Yes. The darkness makes the ceiling feel infinitely far away..."
 msgstr ""
+"Ano. Strop je díky tmě nekonečně daleko..."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000016D2"
 msgid "Maybe it's possible to... talk to it?"
 msgstr ""
+"Možná je možné s tím... mluvit?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F8CB"
 msgid "\"I wonder why the... church was built with such strange acoustics...\""
 msgstr ""
+"\"Zajímalo by mě, proč byl ten... kostel postaven s tak zvláštní akustikou...\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F93C"
 msgid "It seems that sound here is detached from its source somehow, if not blotted out outright. Truly unusual."
 msgstr ""
+"Zdá se, že zvuk je zde nějakým způsobem oddělen od svého zdroje, ne-li přímo vymazán. Skutečně neobvyklé."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA65"
 msgid "Hmm, maybe I should take up painting."
 msgstr ""
+"Hmm, možná bych měl začít malovat."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBC9"
 msgid "Stomp your feet and clap your hands."
 msgstr ""
+"Dupat nohama a tleskat rukama."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006200000027"
 msgid "Look up into the bell tower."
 msgstr ""
+"Podívat se do zvonice."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA2C"
 msgid "Can I use this to see through the darkness up there, somehow? (Proceed.)"
 msgstr ""
+"Mohu to nějak použít, abych viděl skrz temnotu tam nahoře? (Pokračovat.)"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA33"
 msgid "No, this is just an intellectual musing. In fact, it's probably dangerous to waste time like this. You should stop."
 msgstr ""
+"Ne, tohle je jen intelektuální úvaha. Ve skutečnosti je pravděpodobně nebezpečné takto ztrácet čas. Měl bys přestat."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA3F"
 msgid "Revachol was an overwhelmingly colourful place back then. They made most of the world's dyes here."
 msgstr ""
+"Revachol byl ve svých časech ohromně pestrým místem. Vyráběla se zde většina barviv světa."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB51"
 msgid "Look up into the bell tower."
 msgstr ""
+"Podívat se do zvonice."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F9B4"
 msgid "No. Let me just listen."
 msgstr ""
+"Ne. Nech mě poslouchat."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F9FC"
 msgid "You know, in the middle of the last century, there was a group of Revacholian painters who famously disdained the use of black."
 msgstr ""
+"Víte, v polovině minulého století existovala skupina revacholských malířů, kteří opovrhovali černou barvou."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA6B"
 msgid "Seems unfair to black. I like black, look at it!"
 msgstr ""
+"Zdá se, že je to vůči černé barvě nespravedlivé. Mám rád černou, koukněte!"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB77"
 msgid "Try to see beyond the shadows."
 msgstr ""
+"Zkusit se podívat za stíny."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100005A0000CB77"
 msgid "Is someone watching?"
 msgstr ""
+"Pozoruje mě někdo?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F9A8"
 msgid "How do I know what the pale sounds like?"
 msgstr ""
+"Jak poznám, jak zní bledomez?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB47"
 msgid "Yell as loud as you can."
 msgstr ""
+"Zakřičet ze všech sil."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB5C"
 msgid "The orderly rows of ceiling panels become barely visible, then disappear completely in the darkness of the tower overhead."
 msgstr ""
+"Uspořádané řady stropních panelů jsou sotva viditelné a později zcela mizí v temnotě věže nad hlavou."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBBD"
 msgid "Your voice is barely audible -- not a howl, but the softest of whimpers."
 msgstr ""
+"Tvůj hlas je sotva slyšitelný -- není to vytí, ale to nejjemnější kňučení."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE70"
 msgid "Filled with vague shapes of woodwork. The sense of a great height."
 msgstr ""
+"Vyplněné nejasnými tvary dřevěných výrobků. Pocit velké výšky."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000004F1"
 msgid "\"It's probably nothing, just our imagination.\""
 msgstr ""
+"\"Nejspíš to nic není, jen naše představivost.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000004FA"
 msgid "The lieutenant doesn't reply, but you can sense him tense up next to you."
 msgstr ""
+"Poručík neodpoví, ale cítíš, jak je vedle tebe napjatý."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F8DC"
 msgid "Maybe the church was designed in this way to prevent boisterous activity -- singing and dancing -- on its premises?"
 msgstr ""
+"Možná byl kostel takto navržen, aby zabránil hlučným aktivitám -- zpěvu a tanci -- v jeho prostorách?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F90C"
 msgid "\"Whatever it is, it's definitely real. Something odd is happening around us.\""
 msgstr ""
+"\"Ať už je to cokoli, je to určitě skutečné. Kolem nás se děje něco divného.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F921"
 msgid "He's trying to act dismissive, but at this particular moment, he's more open than usual to the idea of paranatural phenomena."
 msgstr ""
+"Snaží se chovat odmítavě, ale v tuto chvíli je myšlence paranormálních jevů otevřenější než obvykle."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F973"
 msgid "Sounds like the pale."
 msgstr ""
+"Zní to jako bledomez."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB97"
 msgid "You see something hanging from the rafters, looking straight at you with dark eyes."
 msgstr ""
+"Vidíš, jak něco visí na trámu a dívá se na tebe tmavýma očima."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB72"
 msgid "It's like there's something moving up there -- a shadow has emerged from the tower and is making its way *toward* you through all the other shadows."
 msgstr ""
+"Jako by se tam nahoře něco hýbalo -- z věže se najednou vynoří stín a skrze ostatní stíny si *razí* cestu k tobě."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE56"
 msgid "There's nothing. You're dizzy and disoriented as you see dark and more dark -- rising..."
 msgstr ""
+"Nic tam není. Točí se ti hlava a jsi dezorientovaný, protože vidíš tmu a ještě větší tmu -- narůstat..."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F986"
 msgid "It's unnerving."
 msgstr ""
+"Je to znepokojující."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBE6"
 msgid "\"The church just has... strange acoustics -- some engineering trick.\""
 msgstr ""
+"\"Ten kostel má prostě... zvláštní akustiku -- nějaký trik architektů.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE61"
 msgid "What's the darkness like?"
 msgstr ""
+"Jak vypadá temnota?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F8C4"
 msgid "\"Not really, but it's extraordinary. I've never experienced anything like this.\""
 msgstr ""
+"\"Ani ne, ale je to výjimečné. Nikdy jsem nic takového nezažil.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB2C"
 msgid "The silence in this part of the church -- it's almost palpable. All the shifting matter and shuffling of living things is gone. Nothing seems to exist beyond the church anymore."
 msgstr ""
+"To ticho v této části kostela -- je téměř hmatatelné. Všechna ta pohybující se hmota a šumění živých věcí je pryč. Zdá se, jako by mimo kostel už nic neexistovalo."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBB6"
 msgid "The lieutenant points to his ears and shakes his head. Then he leans closer."
 msgstr ""
+"Poručík si ukáže na uši a zavrtí hlavou. Pak se nakloní blíž."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE34"
 msgid "On the ceiling?"
 msgstr ""
+"Na stropě?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE8F"
 msgid "The silence, the darkness -- they've enveloped you, as in a cocoon. You cannot move anymore."
 msgstr ""
+"Ticho, tma -- obklopily tě jako kokon. Už se nemůžeš hýbat."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F9E6"
 msgid "You can hardly hear your own breathing."
 msgstr ""
+"Sotva slyšíš vlastní dech."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA45"
 msgid "They wanted to capture what it really felt like to look at the world -- to be *inside* colour, to be blinded by early afternoon light glittering on the crests of sea waves."
 msgstr ""
+"Chtěli zachytit, jaký je to pocit skutečně se dívat na svět -- být *uvnitř* barev, být oslněn časným odpoledním světlem třpytícím se na hřebenech mořských vln."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA88"
 msgid "Sometimes an encounter with an opposing aesthetic is required for one to truly grow into one's tastes and preferences."
 msgstr ""
+"Někdy je nutné střetnout se s opačnou estetikou, aby člověk skutečně dospěl ke svému vkusu a preferencím."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB7C"
 msgid "Just darkness without end -- it makes your head spin."
 msgstr ""
+"Jen nekonečná temnota -- až se ti z toho zatočí hlava."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE51"
 msgid "Try to make out something -- anything."
 msgstr ""
+"Zkusit něco rozeznat -- cokoli."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA57"
 msgid "Such an effect is best achieved by using the juxtaposition of complementary colours -- rather than the addition of black -- to create contrast."
 msgstr ""
+"Takového efektu nejlépe dosáhnete, když k vytvoření kontrastu použijete spíše juxtapozici doplňkových barev, než-li přidáním černé."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -423,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E40B"
 msgid "Relax. It'll be okay."
 msgstr ""
+"Klid. Bude to v pohodě."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -430,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000507"
 msgid "He doesn't seem entirely convinced, though."
 msgstr ""
+"Nezdá se však, že by o tom byl zcela přesvědčen."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -437,6 +506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F901"
 msgid "\"Hey, what if it's something *paranatural*?\""
 msgstr ""
+"\"Hele, co když je to něco *parapřirozeného*?\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -444,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FAB2"
 msgid "Prepare for an attack!"
 msgstr ""
+"Připrav se na útok!"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -451,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000020D"
 msgid "\"Officer, what are you looking at?\" He follows your gaze, attempting to see whatever it is that you are seeing."
 msgstr ""
+"\"Detektive, co vidíte?\" Poručík sleduje váš pohled a snaží se vidět to co ty."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -458,6 +530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F8D2"
 msgid "His detached tone conceals how uncomfortable he is."
 msgstr ""
+"Jeho odtažitý tón zakrývá, jak je mu to nepříjemné."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -465,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBDF"
 msgid "\"Almost nothing, and it's beginning to worry me.\""
 msgstr ""
+"\"Téměř nic, a to mě začíná znepokojovat.\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -472,6 +546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500000205"
 msgid "Maybe it's possible to... talk to it?"
 msgstr ""
+"Možná je možné s tím... mluvit?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -479,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F9C9"
 msgid "From recordings. Of the far pale. You've heard them. We all have."
 msgstr ""
+"Z nahrávek. Z daleké bledomezi. Slyšel jste je. Všichni jsme je slyšeli."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -486,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA13"
 msgid "What did they have against black?"
 msgstr ""
+"Co měli proti černé?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -493,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CB8E"
 msgid "(Blink.)"
 msgstr ""
+"(Mrknout.)"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -500,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBA5"
 msgid "Oh no! You've lost sight of it. Where did it go?"
 msgstr ""
+"Ale ne! Ztratil jsi ho z dohledu. Kam se poděl?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -507,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE39"
 msgid "Follow the shadow's movements."
 msgstr ""
+"Sledujovat pohyb stínu."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -514,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DE88"
 msgid "What if I don't *want* to know what's up there?"
 msgstr ""
+"Co když *nechci* vědět, co je tam nahoře?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -521,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E3EE"
 msgid "But to what? There is almost nothing."
 msgstr ""
+"Ale k čemu? Není tam téměř nic."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -528,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F912"
 msgid "\"Hmm, could be...\""
 msgstr ""
+"\"Hmm, může být...\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -535,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA19"
 msgid "Why only Revacholian?"
 msgstr ""
+"Proč pouze revacholských?"
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -542,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA80"
 msgid "It's unclear if you have enough years left in you to make up for your lack of technique..."
 msgstr ""
+"Není jasné, jestli máš ještě dost let před sebou na to, abys nahradil nedostatek techniky..."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -549,6 +634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FA96"
 msgid "Sounds complicated."
 msgstr ""
+"Zní to složitě."
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -556,6 +642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CBD8"
 msgid "\"Can you hear anything?\""
 msgstr ""
+"\"Slyšíte něco?\""
 
 #. Title = CHURCH ORB / cone of silence
 #. Description = EVERYTHING IS SILENT HERE VERY SPOOKY SCENE YES INDEED WHOLE SCENE ABOUT LOOKING UP AND THEN TIAGO APPEARS, BOOM!
@@ -563,3 +650,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000620000002F"
 msgid "\"Hmm, maybe. Darkness often has that effect on people.\""
 msgstr ""
+"\"Hmm, možná. Temnota často má na lidi právě takový účinek.\""
