@@ -1,8 +1,16 @@
+# Skywolf <skywolf@email.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"PO-Revision-Date: 2022-07-05 13:24+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003DBA"
 msgid "Don't be so pessimistic. Love doesn't die that easily!"
 msgstr ""
+"Nebuď tak pesimistický. Láska neumírá tak snadno!"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003DAD"
 msgid "I should yes. This is a TASK of mine now."
 msgstr ""
+"Měl bych souhlasit. Teď je to můj ÚKOL."
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003DA7"
 msgid "What? (Look around.) Win who back? I can't win her back, she's a long dead historical figure."
 msgstr ""
+"Cože? (Rozhlédnout se kolem.) Koho získat zpátky? Nemůžu ji získat zpátky, je to dávno mrtvá historická postava."
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D60"
 msgid "What?"
 msgstr ""
+"Cože?"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D66"
 msgid "No, I don't remember anything, I don't want to think about this. Good bye. [Discard thought.]"
 msgstr ""
+"Ne, nic si nepamatuji, nechci na to myslet. Sbohem. [Zapudit myšlenku.]"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D53"
 msgid "Hey! Her Innocence Dolores Dei liked little figurines, right? Liked holding little men between her fingers, remember?"
 msgstr ""
+"Hej! Její Neposkvrněnost Dolores Božská měla ráda malé figurky, že? Ráda držela mezi prsty malé mužíčky, vzpomínáš?"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D91"
 msgid "No... it would have been *beautiful*. Really tiny. Thoughtful. Clever!"
 msgstr ""
+"Ne... bylo by to *krásné*. Opravdu drobné. Promyšlené. Chytré!"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003DB3"
 msgid "Forget about this... [Discard thought.]"
 msgstr ""
+"Zapomeň na to... [Zapudit myšlenku.]"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D97"
 msgid "Whatever this was, it feels like you made the right choice not to peek into it."
 msgstr ""
+"Ať už to bylo cokoli, mám pocit, že ses rozhodl správně, žes do toho nenahlédl."
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003DC1"
 msgid "This isn't funny... you have a bad feeling about this one."
 msgstr ""
+"ohle není vtipné... máš z toho špatný pocit."
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D87"
 msgid "You have the revolutionary soldier figurine. You should give it to her. Win her back!"
 msgstr ""
+"Máš figurku revolučního vojáka. Měl bys jí ji dát. Získat ji zpátky!"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003DCC"
 msgid "So very, very, *very* nifty... nifty and mysterious. This is surely what the figurines are for!"
 msgstr ""
+"Tak velmi, velmi, *velmi* šikovné... šikovné a tajemné. Proto tu jistě jsou ty figurky!"
 
 #. Title = CHURCH ORB / figurine
 #. Description = this pops up and tells you you should give dolores dei your figurine
@@ -94,3 +114,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003D79"
 msgid "You have the Headless FALN Rider figurine. You should give it to her. Win her back!"
 msgstr ""
+"Máš figurku Bezhlavého jezdce FALN. Měl bys jí ji dát. Získat ji zpátky!"
