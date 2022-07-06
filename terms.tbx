@@ -537,7 +537,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Andre">
-        <descrip type="definition">[OK] [TYKAT]</descrip>
+        <descrip type="definition">[OK] [VYKAT]</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Andre</term>
@@ -706,7 +706,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Measurehead">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [VYKAT]jemu vykat, on tyká</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Measurehead</term>
@@ -1199,16 +1199,16 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="filament memory">
-        <descrip type="definition">[OK] paměťový předmět</descrip>
+      <termEntry id="filament memory (filament)">
+        <descrip type="definition">[OK] paměťový modul radiokomputeru</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>filament memory</term>
+            <term>filament memory (filament)</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>kapilární paměť</term>
+            <term>kapilární paměť (kapilára)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2032,7 +2032,7 @@
         </langSet>
       </termEntry>
       <termEntry id="welkin">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] herní rasa Wirrâlu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>welkin</term>
@@ -2040,7 +2040,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>nebesa</term>
+            <term>nebešťan</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2109,16 +2109,16 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Wirrâl Untethered">
-        <descrip type="definition">[OK] společnost</descrip>
+      <termEntry id="Wirrâl (Untethered)">
+        <descrip type="definition">[OK] Wirrâl je RPG herní svět, Odpoutaný je jeho modifikace - odpoutá se od svého slunce a mrzne ve vesmíru</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Wirrâl Untethered</term>
+            <term>Wirrâl (Untethered)</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Nespoutaný Wirrâl </term>
+            <term>(Odpoutaný) Wirrâl </term>
           </tig>
         </langSet>
       </termEntry>
@@ -2277,6 +2277,219 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Villalobos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="brogues">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>brogues</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>polobotky</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="marietti">
+        <descrip type="definition">styl hudby v Meskanu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>marietti</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>mariachi</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="FALN">
+        <descrip type="definition">název konglomerátu (asi zkratka, ale nevysvětleno)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>FALN</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>FALN</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="débardeur">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>débardeur</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>dokař</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="loincloth">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>loincloth</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>vydřiduch</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Polychrome">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Polychrome</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>polichrom</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Eminent Domain">
+        <descrip type="definition">pracovní čtvrť ve Šprajclu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Eminent Domain</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Přední Država</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Sarge Mason">
+        <descrip type="definition">[VYKAT]</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sarge Mason</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>seržant Mason</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Banaital">
+        <descrip type="definition">ostrov v Semenském souostroví</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Banaital</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Banaitálie</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kipt">
+        <descrip type="definition">národ žijící na Banaitálii, hovorové označení, něco jako "charlie" pro Vietcong</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>kipt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>kiptové</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Territorial">
+        <descrip type="definition">zatím zmíněno jen jako "pracoviště"</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Territorial</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Teritoriál</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="haplogroup">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>haplogroup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>haploskupina</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Race Enigma">
+        <descrip type="definition">něco jako filozofická otázka</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Race Enigma</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Rasová enigma</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Areopagite">
+        <descrip type="definition">historická rasa</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Areopagite</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Areopagité</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Occidentals">
+        <descrip type="definition">historická rasa</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Occidentals</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Okcidentálové</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Mauns">
+        <descrip type="definition">historická rasa</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mauns</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Maunové</term>
           </tig>
         </langSet>
       </termEntry>
