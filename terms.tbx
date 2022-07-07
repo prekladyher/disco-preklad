@@ -706,7 +706,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Measurehead">
-        <descrip type="definition">[OK] [VYKAT]jemu vykat, on tyká</descrip>
+        <descrip type="definition">[OK] [VYKAT]vykat</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Measurehead</term>
@@ -2490,6 +2490,72 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Maunové</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Ubi">
+        <descrip type="definition">poloostrov</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Ubi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Ubi</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="sebum">
+        <descrip type="definition">
+        </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sebum</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>kožní maz</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Katya">
+        <descrip type="definition">[VYKAT]Hlavoměrova "žena"</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Katya</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Káťa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Vacholiers">
+        <descrip type="definition">historická rasa</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Vacholiers</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Vacholýři</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Kojkos">
+        <descrip type="definition">historická rasa</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Kojkos</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kojkové</term>
           </tig>
         </langSet>
       </termEntry>
