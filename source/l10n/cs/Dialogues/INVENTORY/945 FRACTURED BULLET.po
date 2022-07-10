@@ -4,7 +4,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
-"PO-Revision-Date: 2022-07-10 16:35+0200\n"
+"PO-Revision-Date: 2022-07-10 17:17+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -46,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A3E1"
 msgid "Far away, Lieutenant Kitsuragi is flipping through stations in his Kineema. He is not here examining the bullet with you. He should be... he would find this very intriguing. Mention it to him, later when he's here."
 msgstr ""
+"Poručík Kitsuragi daleko od tebe přepíná mezi stanicemi ve své Kineemě. Není tady a nezkoumá kulku s tebou. Měl by být... tohle by ho velmi zaujalo. Zmíníš se mu o tom později, až tu bude."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -57,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A41A"
 msgid "A jacketed bullet... which would have been shot from a military-grade breech-loading rifle, not from a muzzleloader like those typically found on the streets of Martinaise."
 msgstr ""
+"Střela s plášťem... která by byla vystřelena z vojenské samonabíjecí pušky, nikoli z předovky, jaké se obvykle vyskytují v ulicích Martinaise."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -68,6 +70,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B0000A41A"
 msgid "Exactly. A very *unusual* jacketed bullet. One that would have been shot from a military-grade breech-loading rifle, not from a muzzleloader like those typically found on the streets of Martinaise."
 msgstr ""
+"Přesně tak. Velmi neobvyklá střela s pláštěm. Taková, která by byla vystřelena z vojenské samonabíjecí pušky, nikoli z předovky, jaké se obvykle vyskytují v ulicích Martinézy."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -79,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000080EA"
 msgid "The squished little thing has no idea."
 msgstr ""
+"Ta malá zmáčknutá věc nemá ani ponětí."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -90,6 +94,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000817B"
 msgid "But bullets don't talk."
 msgstr ""
+"Ale kulky nemluví."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -101,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200008196"
 msgid "Yeah, what are you, *crazy*? Bullets can't talk. They don't have emotions. A bullet can't keep you company."
 msgstr ""
+"Jo, co jsi zač, *magor*? Kulky neumí mluvit. Nemají emoce. Kulka ti nemůže dělat společnost."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -148,6 +154,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007400"
 msgid "\"It's a soft-point bullet with a lead core and a brass jacket close to 8 mm in diameter.\" "
 msgstr ""
+"\"Je to střela s měkkou špičkou, olověným jádrem a mosazným pláštěm o průměru téměř 8 mm.\" "
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -159,6 +166,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A426"
 msgid "\"Kim, take a look at this. It's a jacketed bullet close to 5 mm in diameter.\""
 msgstr ""
+"\"Kime, podívejte se na tohle. Je to plášťová střela o průměru téměř 5 mm.\""
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -170,6 +178,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B0000A426"
 msgid "\"Kim, take a look at this. It's a soft-point bullet with a lead core and a brass jacket close to 8 mm in diameter.\" "
 msgstr ""
+"\"Kime, podívejte se na tohle. Je to měkká střela s olověným jádrem a mosazným pláštěm o průměru téměř 8 mm.\" "
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -181,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A14A"
 msgid "This is a real killer. Not some garbage street ammo. You can *feel* it."
 msgstr ""
+"Tohle je skutečný zabiják. Ne nějaká pouliční munice. Je to *cítit*."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -192,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A172"
 msgid "We were right. This came from a serious weapon."
 msgstr ""
+"Měli jsme pravdu. Tohle vyšlo z pořádné zbraně."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -239,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000814B"
 msgid "Eat it!"
 msgstr ""
+"Sněz ji!"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -262,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000026E6"
 msgid "The core is lead. The brass jacket probably didn't cover the entire bullet, otherwise the softer metal wouldn't have expanded quite like that."
 msgstr ""
+"Jádro je olověné. Mosazný plášť pravděpodobně nepokrýval celou střelu, jinak by se měkčí kov tak neroztáhl."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -285,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000080BD"
 msgid "Beside his orderly handwriting, the bullet looks especially sad. Like a tiny, shrivelled head of cauliflower."
 msgstr ""
+"Vedle jeho spořádaného rukopisu vypadá kulka obzvlášť smutně. Jako malá, scvrklá hlavička květáku."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -296,6 +310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200008174"
 msgid "It's my friend, I'm gonna start talking to it. It will keep me company."
 msgstr ""
+"Je to má přítelkyně, začnu s ní mluvit. Bude mi dělat společnost."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -307,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600009388"
 msgid "Something tells you that won't be any time soon. This'll have to be one of those epic tasks that's open for a while..."
 msgstr ""
+"Něco ti říká, že to nebude v nejbližší době. Tohle bude muset být jeden z těch epických úkolů, které budou chvíli otevřené..."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -378,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200008167"
 msgid "But the bullet is not edible, sadly."
 msgstr ""
+"Kulka však bohužel není jedlá."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -389,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000081B7"
 msgid "Then find the gun that shot it, and the person who that gun belongs to -- he used it to kill your victim. Neato!"
 msgstr ""
+"Pak najdi zbraň, která ji vystřelila, a osobu, které tato zbraň patří - použila ji k zabití tvé oběti. Skvěle!"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -436,6 +454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000093D3"
 msgid "Very interesting. You have an unusual, military-grade bullet in your hand. Now all you need is to find a gun that could fire it."
 msgstr ""
+"Velmi zajímavé. Máš v ruce neobvyklou kulku vojenské třídy. Teď už jen potřebuješ najít zbraň, která by ji dokázala vystřelit."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -495,6 +514,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007409"
 msgid "\"Okay... Jacketed means it would have been shot from a military-grade breech-loading rifle. And not from a muzzleloader like those typically found on the streets of Revachol West.\""
 msgstr ""
+"\"Dobře... S pláštěm znamená, že byla vystřelena z vojenské pušky s automatickým nabíjením. A ne z předovky, jaké se obvykle vyskytují v ulicích Revacholu Západ.\""
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -542,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800002690"
 msgid "Back at the station, the lieutenant is standing at a counter, diligently filling out paperwork to hand over to a tired records clerk."
 msgstr ""
+"Na stanici stojí poručík u přepážky a pilně vyplňuje papíry, které předává unavené úřednici."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -601,6 +622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000257E"
 msgid "The bullet is safely sealed away in a plastic bag bearing the RCM stamp. Kim has filled out the label on the bag with the item number, case number, and date and location the bullet was found."
 msgstr ""
+"Kulka je bezpečně zapečetěna v plastovém sáčku s razítkem ROM. Kim na sáčku vyplnil štítek s číslem položky, číslem případu a datem a místem nálezu kulky."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -636,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000263C"
 msgid "You can't remember what happened last week -- what makes you think you're going to remember arcane firearm models?"
 msgstr ""
+"Nepamatuješ si, co se stalo minulý týden - proč si myslíš, že si budeš pamatovat modely střelných zbraní určených jen zasvěceným?"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -647,6 +670,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000269C"
 msgid "You should share your findings with him as soon as possible."
 msgstr ""
+"Měli bys se s ním o své poznatky co nejdříve podělit."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -670,6 +694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000081A6"
 msgid "That sounds like something a police detective would do. First you should to learn all you can about this little guy!"
 msgstr ""
+"To zní jako něco, co by udělal policejní detektiv. Nejdřív bys si o tomhle človíčkovi měl zjistit všechno, co se dá!"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -729,6 +754,7 @@ msgstr ""
 msgctxt "tooltip3/0x01000058000025B3"
 msgid "Have the full bullet specs."
 msgstr ""
+"Máš k dispozici kompletní specifikaci kulky."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -752,6 +778,7 @@ msgstr ""
 msgctxt "tooltip5/0x01000058000025B3"
 msgid "Cursed Iilmaraan die."
 msgstr ""
+"Prokletá iilmaraanská kostka."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -775,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000813E"
 msgid "I know! You should find the gun that shot this bullet."
 msgstr ""
+"Já vím! Měl bys najít zbraň, která vystřelila tuhle kulku."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -786,6 +814,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200008157"
 msgid "Sell it for profit!"
 msgstr ""
+"Prodej ji, ať něco utržíš!"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -977,6 +1006,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200008151"
 msgid "Find the gun that shot it!"
 msgstr ""
+"Najdi zbraň, která ji vystřelila!"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -1036,6 +1066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000816D"
 msgid "Who would want this *used* bullet?"
 msgstr ""
+"Kdo by chtěl tuhle *použitou* kulku?"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -1095,6 +1126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A3F2"
 msgid "What's interesting about the bullet thus far?"
 msgstr ""
+"Co je na té kulce zatím zajímavého?"
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
@@ -1190,6 +1222,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B0000A400"
 msgid "It's a soft-point bullet with a lead core and a brass jacket close to 8 mm in diameter."
 msgstr ""
+"Jedná se o střelu s měkkou špičkou, olověným jádrem a mosazným pláštěm o průměru téměř 8 mm."
 
 #. Title = INVENTORY / FRACTURED BULLET
 #. Description = By inspecting the bullet, you can find out that:
