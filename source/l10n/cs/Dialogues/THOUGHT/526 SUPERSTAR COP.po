@@ -1,8 +1,16 @@
+# Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jindřich Černý <cernyjindrich22@gmail.com>\n"
+"PO-Revision-Date: 2022-07-11 21:56+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9FC"
 msgid "No. I'm too down beat. I won't say those things anymore. [Wave off the thought.]"
 msgstr ""
+"Ne, jsem už příliš na dně. Takové věci už říkat nebudu. [Mávnout nad myšlenkou.]"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FA03"
 msgid "Fuck it -- ACTION!"
 msgstr ""
+"Seru na to -- AKCE!"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F98A"
 msgid "Actually, now that I hear *superstar* and *law official* in a sentence they sound weird together."
 msgstr ""
+"Popravdě, když teď slyším slovo *superhvězda* a *právní úředník* v jedné větě, zní to docela divně."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9A7"
 msgid "You sure? The light is *important*. The light is life. And destiny."
 msgstr ""
+"Jseš si tím jistý? Světlo je život a osud."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000FA0A"
 msgid "With a sudden flash the world freezes around you -- and you along with it. In an iconic monochrome solution, a black silhouette against a rasterized orange world. It's *on*."
 msgstr ""
+"S náhlým záblesekm světla se svět kolem tebe zmrazí -- a ty společně s ním. V ikonickém monochromatickém osvětlení stojí černá silueta proti mřížkovanému oranžovému světu. *Začalo se*."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001BF40"
 msgid "No. Fuck you! [Finish thought]"
 msgstr ""
+"Ne, Seru na tebe! [Dokončit myšlenku]"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F970"
 msgid "Where's it coming from?"
 msgstr ""
+"Odkud to světlo přichází?"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F97C"
 msgid "\"Yes.\" [*Really* discard it.]"
 msgstr ""
+"\"Ano.\" [*Skutečně* ji zahodit.]"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9EA"
 msgid "Sooooo cool."
 msgstr ""
+"Taaaak hustý."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -73,6 +90,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F996"
 msgid "Yeah, you have! You're a big dick cop. Dick Mullen. Salaam Rocky Bhai. Bad-ass, on-the-edge disco cop. Time to recede into a ludicrous fantasy world, HERE WE GO! Camera, lights..."
 msgstr ""
+"Jo, to teda jo! Jseš polda velkej čůrák. Čůrák Mullen. Salaam Rocky Bhai. Drsnej discopolda balancující na hraně. "
+"Je na čase ustoupit do groteskního fantasy světa, JDEME NA TO! Kamera, světla..."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -80,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9B3"
 msgid "You've got the wrong impression. I'm no superstar. I'm trash."
 msgstr ""
+"Máš špatný dojem. Já nejsem žádná superhvězda. Jsem troska."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -87,6 +107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9F4"
 msgid "This is the beginning of your *legend*."
 msgstr ""
+"Toto je počátek tvojí *legendy*."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -94,6 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F983"
 msgid "From a distant sunset? A stage light? Flash photography? Nowhere in particular? It's just what *superstar law-officers* do -- they squint at lights. And they solve shit."
 msgstr ""
+"Ze vzdáleného západu slunce? Jevištního světla? Odnikud konkrétně? Je to prostě to, co *Superhvězdní právníci* dělaní -- Mžourají na světla. A taky řeší případy."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -101,6 +123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9CF"
 msgid "Wait, what's that about a ludicrous fantasy world?"
 msgstr ""
+"Počkej, řekl jsi groteskní fantasy světe?"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -108,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F964"
 msgid "As you turn, a bright light catches your eye, making you squint."
 msgstr ""
+"Když se otočíš, tvůj pohled upoutá jasné světlo, které tě přinutí mžourat."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -115,6 +139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F990"
 msgid "Yeah, that's me -- I've been *establishing* my superstardom hard lately."
 msgstr ""
+"Jo, to jsem já -- Poslední dobou jsem tvrdě *pracoval* na svojí superhvězdné kariéře."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -122,6 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F976"
 msgid "[Discard thought.]"
 msgstr ""
+"[Zahodit myšlenku.]"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -129,6 +155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F99E"
 msgid "What are you, deaf? They're perfect! Like 'rockstar politician' and 'drug-addict teacher'. Embrace the superstardom you've worked so hard to establish."
 msgstr ""
+"Jsi snad hluchý? Jsou dokonalý pár! Jako \"rockový politik\" nebo \"závislý učitel\". Konečně máš příležitost splnit si svůj sen stát se superstár."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -136,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9D7"
 msgid "Yeah. You know, beneath it is just heartbreak, a pulmonary tract infection, atherosclerotic disease. This is where you say *action* and re-conceptualize all that. Re-invent it as the world's first celebrity police officer!"
 msgstr ""
+"Přesně tak, vždyť výš, pod tím vším jejen bolest srdce, respirační infekce a aterosklerózu. Tohle je místo, řekneš *akce* sáš všemu nový koncept. Znovu jej vynalezneš jako světově první celebritu policistu!"
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -143,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9E4"
 msgid "Cool."
 msgstr ""
+"Hustý."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -150,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9BB"
 msgid "Yeah, a cool *trash* superstar. Big dick cop down on his luck. Salaam Rocky Bhai. Bad-ass, on the edge disco cop. Time to recede into a ludicrous fantasy world, HERE WE GO! Camera, lights..."
 msgstr ""
+"Jo, hustá superhvězda *troska*. Polda velkej čůrák má dneska štěstí. Salaam Rocky Bhai. Drsnej discopolda balancující na hraně. Je na čase ustoupit do směšného fantasy světa, JDEME NA TO! Kamera, světla..."
 
 #. Title = THOUGHT / SUPERSTAR COP
 #. Description = Composure confirms that you're a Superstar Cop.
@@ -157,3 +187,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F9C9"
 msgid "ACTION!"
 msgstr ""
+"AKCE!"
