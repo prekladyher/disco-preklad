@@ -719,7 +719,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Neha">
-        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <descrip type="definition">[OK] [VYKAT]kostkařka</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Neha</term>
@@ -745,7 +745,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Novelty Dicemaker">
-        <descrip type="definition">[OK] [VYKAT]</descrip>
+        <descrip type="definition">[OK] [VYKAT]žena, která vyrábí, kostky do her na hrdiny</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Novelty Dicemaker</term>
@@ -753,7 +753,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Nezvyklá kostkářka</term>
+            <term>výrobkyně nových kostek (kostkařka)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2582,6 +2582,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>předovka</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Fortress Accident SCA">
+        <descrip type="definition">herní studio</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Fortress Accident SCA</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Pevnost Nehoda SCA</term>
           </tig>
         </langSet>
       </termEntry>
