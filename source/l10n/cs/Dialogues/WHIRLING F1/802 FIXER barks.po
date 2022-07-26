@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-07-26 20:46+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / FIXER barks
 #. Description = Elizabeth barks:
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A674"
 msgid "\"Can't wait to change out of these rags.\""
 msgstr ""
+"\"Nemůžu se dočkat, až se převléknu z těch hadrů.\""
 
 #. Title = WHIRLING F1 / FIXER barks
 #. Description = Elizabeth barks:
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A680"
 msgid "\"Evrart isn't paying me enough for this.\""
 msgstr ""
+"\"Edvard mi za to neplatí dost.\""
 
 #. Title = WHIRLING F1 / FIXER barks
 #. Description = Elizabeth barks:
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A66E"
 msgid "\"Titus, you were told to keep a low profile.\""
 msgstr ""
+"\"Tite, bylo ti řečeno, aby ses držel při zemi.\""
 
 #. Title = WHIRLING F1 / FIXER barks
 #. Description = Elizabeth barks:
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A67A"
 msgid "\"Babysitting imbeciles... what the heck, Liz?\""
 msgstr ""
+"\"Hlídání imbecilů... co to sakra je, Liz?\""
 
 #. Title = WHIRLING F1 / FIXER barks
 #. Description = Elizabeth barks:
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A686"
 msgid "\"Unbelievable...\""
 msgstr ""
+"\"Neuvěřitelné...\""
 
 #. Title = WHIRLING F1 / FIXER barks
 #. Description = Elizabeth barks:
@@ -45,3 +58,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A668"
 msgid "\"*This* is what I studied law for?\""
 msgstr ""
+"\"Kvůli tomuhle jsem studoval práva?\""
