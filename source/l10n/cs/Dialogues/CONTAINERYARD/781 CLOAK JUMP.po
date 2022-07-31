@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-07-31 14:36+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F48"
 msgid "\"I think there's a certain beauty in this giant pair of pliers. But you're right, we were focusing on your *cloak*...\""
 msgstr ""
+"\"Myslím, že v těch obřích kleštích je jistá krása. Ale máte pravdu, zaměřili jsme se na váš plášť...\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -59,6 +68,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004B75"
 msgid "\"Do you really think this cloak is mine? Should I go for it? Jump?\""
 msgstr ""
+"\"Opravdu si myslíte, že ten plášť je můj? Mám si pro něj jít? Skočit?\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -67,6 +77,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004C28"
 msgid "Close your eyes, let your senses take in the world around you."
 msgstr ""
+"Zavři oči a nech své smysly vnímat svět kolem sebe."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -107,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000728C"
 msgid "Just a cop's cloak... I don't want to deal with this right now. [Leave.]"
 msgstr ""
+"Jen policejní plášť... Nechci se tím teď zabývat. [Odejdi.]"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -139,6 +151,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C000049BE"
 msgid "\"I was under the assumption we could ask the leader of this Union to help us get this body down. This is why we're here, right?\" He doesn't wait for you to answer."
 msgstr ""
+"\"Domníval jsem se, že bychom mohli požádat vůdce odborů, aby nám pomohl dostat to tělo dolů. Proto jsme tady, ne?\" Nečeká na tvou odpověď."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -163,6 +176,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004C71"
 msgid "As the concrete floor welcomes you, you realize it's been a while since you felt so alive, alert, capable. Must be the adrenaline."
 msgstr ""
+"Když tě přivítá betonová podlaha, uvědomíš si, že už dlouho ses necítil tak živý, čilý a schopný. To musí být tím adrenalinem."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -195,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018163"
 msgid "That machine is a Kvalsund 10-20 HK."
 msgstr ""
+"Ten stroj je Kvalsund 10-20 HK."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -235,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F3C"
 msgid "His eyes trace the crane's contour as if trying to memorize its majestic shape. Then he notices your gaze."
 msgstr ""
+"Očima sleduje obrys jeřábu, jako by si chtěl zapamatovat jeho majestátní tvar. Pak si všimne tvého pohledu."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -251,6 +267,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002D000003AC"
 msgid "\"Well, it doesn't seem too dangerous -- two metres tops. Whenever you're ready to do it, I'll be right behind you.\""
 msgstr ""
+"\"No, nevypadá to moc nebezpečně - maximálně dva metry. Až budete připravený, budu hned za vámi.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -267,6 +284,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004B7C"
 msgid "\"Yeah, not right now.\" [Leave.]"
 msgstr ""
+"\"Jo, ale teď ne.\" [Odejdi.]"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -347,6 +365,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004D89"
 msgid "\"Hey, hey... what happened?\" He sounds genuinely worried."
 msgstr ""
+"\"Hej, hej... co se stalo?\" Vypadá skutečně ustaraně."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -363,6 +382,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018A28"
 msgid "He turns back to the sad piece of fabric flapping in the wind."
 msgstr ""
+"Otočí se zpátky ke smutnému kusu látky vlajícímu ve větru."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -371,6 +391,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018A2E"
 msgid "\"Yes... we were in the middle of something -- your cloak...\""
 msgstr ""
+"\"Ano... byli jsme uprostřed něčeho - váš plášť...\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -395,6 +416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004B6E"
 msgid "Look around."
 msgstr ""
+"Rozhlédni se."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -419,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004D13"
 msgid "\"The cloak? I *do* think it's yours, yes. As to whether you should go for it...\" He looks over the ledge, at the cold pavement below."
 msgstr ""
+"\"Plášť? Ano, myslím, že je váš. Co se týče toho, jestli byste pro něj měl jít...\" Podívá se přes římsu na studený chodník pod sebou."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -427,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004FB9"
 msgid "\"Look, lieutenant. (Point to the cloak.) Someone left their cloak behind.\""
 msgstr ""
+"\"Podívejte, poručíku. (Ukaž na plášť.) Někdo tu nechal plášť.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -443,6 +467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C000049B6"
 msgid "\"Or it could be that we're just *exploring*.\" He looks around, wind rustling his hair."
 msgstr ""
+"\"Nebo to může být tak, že to tu jen *prozkoumáváme*.\" Rozhlédne se kolem, vítr mu šelestí ve vlasech."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -451,6 +476,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004AE2"
 msgid "\"You could probably make the jump. You look like you've done some track and field in your day.\""
 msgstr ""
+"\"Pravděpodobně byste to zvládl. Vypadáte, že jste svého času dělal atletiku.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -483,6 +509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004DC4"
 msgid "\"I'm alright, Kim... I... I just...\" (Keep tugging on your tie.) \"I can't *breathe*.\""
 msgstr ""
+"\"Jsem v pořádku, Kime... Já... Já jen...\" (Taháš se za kravatu.) \"Nemůžu *dýchat*.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -499,6 +526,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004986"
 msgid "Looks like someone left his tarpaulin cloak hanging on the railing here."
 msgstr ""
+"Vypadá to, že tu někdo nechal na zábradlí viset svůj nepromokavý plášť."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -539,6 +567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004CC0"
 msgid "Continue the voyage through the salty air."
 msgstr ""
+"Pokračuj v cestě slaným vzduchem."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -547,6 +576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F20"
 msgid "\"Kvalsund 10-20 HK...\" (Point at the crane.)"
 msgstr ""
+"\"Kvalsund 10-20 HK...\" (Ukaž na jeřáb.)"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -555,6 +585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F2C"
 msgid "\"It's just a machine, lieutenant. Like a giant hammer or a pair of pliers. Nothing to see here.\""
 msgstr ""
+"\"Je to jen stroj, poručíku. Jako obří kladivo nebo kleště. Není tu nic k vidění.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -563,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F50"
 msgid "\"Yes, that's one way of putting it.\" He turns to you with a faint smile, then looks back at the crane. \"It's certainly an impressive achievement of engineering.\""
 msgstr ""
+"\"Ano, to je jeden ze způsobů, jak to říct.\" Otočí se k tobě s lehkým úsměvem a pak se podívá zpátky na jeřáb. \"Je to rozhodně působivý inženýrský počin.\" "
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -579,6 +611,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000040000030F4"
 msgid "The tarpaulin cloak swings alone for a while there in the wind. No one's coming for it anymore."
 msgstr ""
+"Nepromokavý plášť se tam sám houpe ve větru. Nikdo si pro něj už nepřijde."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -603,6 +636,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F58"
 msgid "\"Is it?\" He looks at you, impressed. \"Kvalsund makes lot of heavy equipment, but this is phenomenal even for them.\""
 msgstr ""
+"\"Opravdu?\" Podívá se na tebe a je ohromen. \"Kvalsund vyrábí spoustu těžké techniky, ale tohle je fenomenální i na ně.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -635,6 +669,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004C2F"
 msgid "Ankles tingling from the tension, blood roaring in your ears -- you are ready for your rendezvous with the concrete pavement below."
 msgstr ""
+"Kotníky ti brní z napětí, krev ti hučí v uších - jsi připraven na setkání s betonovým chodníkem dole."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -675,6 +710,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000FC87"
 msgid "\"I understand. We can always come back when you're feeling better. It's just a cloak after all.\""
 msgstr ""
+"\"Rozumím. Vždycky se můžeme vrátit, až vám bude lépe. Koneckonců je to jen plášť.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -691,6 +727,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004D46"
 msgid "You could have died there! Shit, shit, shit, shit... I'm failing you. This wasn't part of our deal!"
 msgstr ""
+"Mohl jsi tam zemřít! Do prdele, do prdele, do prdele, do prdele... Zklamal jsem tě. Tohle nebylo součástí naší dohody!"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -715,6 +752,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001D0000024D"
 msgid "Then he turns back to the sad piece of fabric flapping in the wind."
 msgstr ""
+"Pak se otočí zpátky ke smutnému kusu látky vlajícímu ve větru."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -739,6 +777,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F27"
 msgid "\"Motherfucker...\" (Let out a whistle.) \"Now that's a huge crane!\""
 msgstr ""
+"\"No kurva...\" (Hvízdni.) \"To je ale obrovský jeřáb!\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -747,6 +786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004E00000096"
 msgid "\"I knew you could do it!\" The lieutenant exclaims. \"My climbing down might not have been as disco as your jump, but at least we can explore the harbour now.\""
 msgstr ""
+"\"Věděl jsem, že to dokážete!\" Poručík vykřikne. \"Moje slézání dolů sice nebylo tak disko jako ten váš skok, ale aspoň teď můžeme prozkoumat přístav.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -755,6 +795,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004AAE"
 msgid "\"Look, lieutenant! (Point to the flapping cloak.) Someone left his cloak behind.\""
 msgstr ""
+"\"Podívejte, poručíku!\" (Ukaž na vlající plášť.) Někdo tu nechal plášť.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -763,6 +804,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004B67"
 msgid "\"What exactly are we doing up here?\""
 msgstr ""
+"\"Co přesně tady nahoře děláme?\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -771,6 +813,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004BC7"
 msgid "Holy wow, that's *high*! You'd have to be a total madman to jump. This is certain death!"
 msgstr ""
+"Páni, to je *vysoko*! Musel bys být naprostý šílenec, abys skočil. Tohle je jistá smrt!"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -779,6 +822,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C00004BC7"
 msgid "Nope! No! That's still too high. What were you thinking, you're not a gymnast, you're a boxer -- and you've climbed WAY too high up here...\n"
 msgstr ""
+"Ne! Ne! To je stále příliš vysoko. Co sis myslel, nejsi gymnasta, jsi boxer - a tohle je pro tebe příliš vysoko... \n"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -787,6 +831,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100004C00004BC7"
 msgid "Holy wow, that's *high*! 'Doesn't seem dangerous...' The lieutenant must be crazy to suggest that! This is certain death. (Vertigo almost pushes you over the edge.)\n"
 msgstr ""
+"Páni, to je *vysoko*! \"Nevypadá to nebezpečně... Poručík se musel zbláznit, když to navrhl! Tohle je jistá smrt. (Závrať tě téměř přetlačí přes okraj.) \n"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -795,6 +840,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004DBD"
 msgid "\"Hey, hey... what's happening? You okay?\" He sounds genuinely worried."
 msgstr ""
+"\"Hej, hej... co se děje? Jste v pořádku?\" Vypadá skutečně ustaraně."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -803,6 +849,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000FC73"
 msgid "\"I'm alright, Kim... I... I just can't do it right now.\""
 msgstr ""
+"\"Jsem v pořádku, Kime... Já... Jen to teď nemůžu udělat.\""
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -827,6 +874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004EFF"
 msgid "The wind is aggressive up here. The lieutenant looks at the enormous crane towering in the distance, over the container yard."
 msgstr ""
+"Vítr je tady nahoře agresivní. Poručík se dívá na obrovský jeřáb tyčící se v dálce nad kontejnerovým překladištěm."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -859,6 +907,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002D0000039F"
 msgid "\"But I digress. We were focusing on your *cloak* here.\" He looks at the sad piece of fabric flapping in the wind."
 msgstr ""
+"\"Ale to odbočuji. Soustředili jsme se na váš plášť.\" Podívá se na smutný kus látky vlající ve větru."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -867,6 +916,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004B5F"
 msgid "Go for the cloak -- jump over the ledge!"
 msgstr ""
+"Jdi pro plášť - skoč přes římsu!"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -915,6 +965,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F35"
 msgid "Let him have this moment of wonder."
 msgstr ""
+"Dopřej mu tento okamžik úžasu."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -931,6 +982,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000FC30"
 msgid "With your feet firmly planted on the concrete, the noise of the harbour rushes back in."
 msgstr ""
+"S nohama pevně usazenýma na betonu k tobě opět doléhá hluk přístavu."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -955,6 +1007,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004AC1"
 msgid "Ignore the cloak. [Leave.]"
 msgstr ""
+"Nevšímej si toho pláště. [Odejdi.]"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -963,6 +1016,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004C17"
 msgid "As you leap in the air, a chilly breeze engulfs you, sharpening you senses."
 msgstr ""
+"Když vyskočíš do vzduchu, pohltí tě chladný vánek a zostří tvé smysly."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -979,6 +1033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004D25"
 msgid "The cloak looks like a bag of goodies floating in the wind. Who knows what its pockets may hide?!"
 msgstr ""
+"Plášť vypadá jako pytel dobrot, který se vznáší ve větru. Kdo ví, co se v jeho kapsách může skrývat?!"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -995,6 +1050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004F92"
 msgid "Looks like someone left his tarpaulin cloak hanging on the railing here. There is a white rectangle clearly visible on its back."
 msgstr ""
+"Vypadá to, že tu někdo nechal na zábradlí viset svůj nepromokavý plášť. Na jeho zádech je jasně vidět bílý obdélník."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -1003,6 +1059,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C00004F92"
 msgid "The tarpaulin cloak is still hanging on the railing. The white rectangle of the Revachol Citizens Militia is clearly visible on its back.\n"
 msgstr ""
+"Nepromokavý plášť stále visí na zábradlí. Na zádech je jasně vidět bílý obdélník Revacholské občanské milice.\n"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -1011,6 +1068,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100004C00004F92"
 msgid "Looks like someone left his tarpaulin cloak hanging on the railing here. The white rectangle of the Revachol Citizens Militia is clearly visible on its back.\n"
 msgstr ""
+"Vypadá to, že tu někdo nechal na zábradlí viset svůj nepromokavý plášť. Na jeho zádech je jasně vidět bílý obdélník Revacholské občanské milice.\n"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -1019,6 +1077,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000FBB6"
 msgid "A tarpaulin cloak is still caught on the railing. No one has claimed it for their own."
 msgstr ""
+"Na zábradlí je stále zachycen nepromokavý plášť. Nikdo se o něj nepřihlásil."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -1027,6 +1086,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000FBB6"
 msgid "A tarpaulin cloak with possible RCM markings is still caught on the railing. "
 msgstr ""
+"Na zábradlí je stále zachycen nepromokavý plášť s možným označením ROM."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -1051,6 +1111,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C00004ADA"
 msgid "\"Yes. It's probably yours. It bears the RCM insignia and you have a habit of being careless with your equipment...\" He judges the drop."
 msgstr ""
+"\"Ano. Pravděpodobně je váš. Je na něm znak ROM a vy máte ve zvyku se svým vybavením zacházet neopatrně...\" Posoudí vzdálennost."
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
@@ -1059,6 +1120,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004B8A"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = CONTAINERYARD / CLOAK JUMP
 #. Description = You see a policeman-cloak -- jump to it. Get it. If you're above, to be precise! Otherwise, you can just pick it up or whatever.
