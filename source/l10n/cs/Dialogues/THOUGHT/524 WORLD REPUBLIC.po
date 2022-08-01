@@ -1,8 +1,16 @@
+# Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jindřich Černý <cernyjindrich22@gmail.com>\n"
+"PO-Revision-Date: 2022-06-22 17:27+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500020619"
 msgid "Can't argue with that."
 msgstr ""
+"S tím nemůžu nesouhlasit."
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -59,6 +68,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000205EE"
 msgid "Yes, you. Word on the street is you're ready to start building *communism* again!"
 msgstr ""
+"Ano, ty. Slovo na ulice zní jsi připraven znovu *vybudovat* komunismus!"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -66,6 +76,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500020625"
 msgid "Love has worked out really well for me. I'm a love winner."
 msgstr ""
+"Mě se láska docela osvědčila. Jsem vítěz lásky."
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -73,6 +84,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C075"
 msgid "Get the fuck outta here! No. [Finish thought.]"
 msgstr ""
+"Vypadni kurva odtud! No. [Dokončit myšlenku.]"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -80,13 +92,16 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450002062E"
 msgid "Good. We need tender men like you building gargantuan communism. Word on the street is it's going to be ten thousand times larger than any communism previously attempted by human beings. Is that right?"
 msgstr ""
+"Dobře. Potřebujeme něžné muže jako jsi ty, kteří budují gargantuovský komunismus. Slovo ulice je bude to deset titísíc krát větší než jakýkoli jiný komunismus o který se kdy kdo pokusil. Je to pravda?"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
 #. Actor = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000045000206AF"
 msgid "Failure?"
 msgstr ""
+"Selhání"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -129,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450002061F"
 msgid "Yes, we should all stop building love."
 msgstr ""
+"Ano, všichni bychom měli přestat budovat lásku."
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -157,6 +173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500020634"
 msgid "This conversation isn't really about love. Try to keep up, okay? This is about the communism you've *promised* to build. Word on the street is it's going to be ten thousand times larger than any communism previously attempted. Is that true?"
 msgstr ""
+"Tento rozhovor není tak úplně o lásce. Zkus udržet krok, dobře? Tohle je o komunismmu, který jsi *slíbil* postavit. Slovo ulice je bude to deset titísíc krát větší než jakýkoli jiný komunismus o který se kdy kdo pokusil. Je to pravda?"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -185,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450002065F"
 msgid "So, what about all that communism you've promised to build? Word on the street is you've woken up from a thousand years of slumber, promising to erect a version of communism many times greater than any attempted before. Is that true?"
 msgstr ""
+"Takže, co všechen ten komunismus, který jsi slíbil vybudovat? Slovo ulice je probudil ses z tisíciletého spánku a slíbil jsi, že postavíš verzi komunismu mnohonásobně větší, než jakoukoli předchozí. Je to pravda?"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -213,6 +231,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000205E0"
 msgid "Hey, psst..."
 msgstr ""
+"Hej, psst..."
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -220,6 +239,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500020603"
 msgid "Yes -- you're ready to start building communism *again*. You've built it before, *they've* built it before. Hasn't really worked out yet, but neither has *love* -- should we just stop building love, too?"
 msgstr ""
+"Ano -- Jsi připraven *znovu* vybudovat  komunismus. Už jsi ho jednou postavil. *Oni* ho už jednou postavili. Zatím to moc nevyšlo, ale to ani *láska* -- měli bychom přestat budovat i lásku?"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -255,6 +275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450002060B"
 msgid "'Again'?"
 msgstr ""
+"\"Znovu\"?"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -297,6 +318,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000205E7"
 msgid "Who -- me?"
 msgstr ""
+"Kdo -- já?"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -304,6 +326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000205F4"
 msgid "Look around."
 msgstr ""
+"Rozhlédni se."
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
@@ -311,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000205FA"
 msgid "Psst, hey, you!"
 msgstr ""
+"Psst, hej, ty!"
 
 #. Title = THOUGHT / WORLD REPUBLIC
 #. Description = Rhetoric talks about Communism --The World Republic.
