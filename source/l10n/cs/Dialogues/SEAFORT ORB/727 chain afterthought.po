@@ -1,8 +1,16 @@
+# Pavel Horal <pavel.horal@orchitech.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Pavel Horal <pavel.horal@orchitech.cz>\n"
+"PO-Revision-Date: 2022-08-01 15:38+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C42A"
 msgid "Enemies of madness. Lunacy. Of the apocalypse taking place here."
 msgstr ""
+"Nepřáteli šílenství. Pomatenosti. Zdejší probíhající apokalypsy."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EED9"
 msgid "\"Technically -- no. It doesn't.\""
 msgstr ""
+"\"Ve skutečnosti -- ne. To neznamená.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C3FE"
 msgid "What kind of enemies?"
 msgstr ""
+"Jakými nepřáteli?"
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C45E"
 msgid "\"From enemies.\" He looks up ahead. \"Enemies of the Commune of Revachol. This seafort was a revolutionary fortification, I believe...\""
 msgstr ""
+"\"Před nepřáteli.\" Podívá se dopředu. \"Nepřátelé Revacholské komuny. Tahle námořní pevnost byla součást obrany revolucionářů.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C379"
 msgid "What for?"
 msgstr ""
+"K čemu?"
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001C379"
 msgid "(Point to it.) \"This leads to the depot in Land's End.\""
 msgstr ""
+"(Ukaž na to.) \"Tohle vede do skladiště v Konci světa.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C3E3"
 msgid "Enemies."
 msgstr ""
+"Před nepřáteli."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C424"
 msgid "Of the future. Enemies of mankind."
 msgstr ""
+"Nepřáteli budoucnosti... nepřáteli lidstva."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C457"
 msgid "\"Lock it from whom?\""
 msgstr ""
+"\"Uzavřít před kým?\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EED3"
 msgid "\"Dunno, pig, doesn't look like we behind a door right now -- just Cuno's 2 cents of course.\""
 msgstr ""
+"\"Ti nevim, fízle. Nepřijde mi, že bychom byli za nějakejma dveřma... to si teda myslí Kuno.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C398"
 msgid "For bringing supplies: munitions and fuel. You could also raise it, in order to lock the Western bay of Revachol."
 msgstr ""
+"Kvůli dopravě zásob: munice a paliva. A můžeš ho i zvednout, a tím tak uzavřít západní břeh Revacholu."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C3CA"
 msgid "\"For bringing munitions to the island, maybe? And supplies. You could also *lock* the bay, when you raise the chain.\""
 msgstr ""
+"\"Možná kvůli dopravě munice na ostrov? A zásob. A třeba jde zátoku i *uzavřít*, když se ten řetěz zvedne.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C405"
 msgid "Enemies of the Commune of Revachol."
 msgstr ""
+"Nepřáteli Revacholské komuny."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EEF7"
 msgid "He's right."
 msgstr ""
+"Má pravdu."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EF05"
 msgid "Technically -- no. Sorry."
 msgstr ""
+"Čistě technicky -- ne. Promiň."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C37F"
 msgid "[Finish thought.]"
 msgstr ""
+"[Ukonči myšlenku.]"
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C42F"
 msgid "Do not be too eager to greet these enemies, black hearted cavalier -- they were also the enemies of Revachol."
 msgstr ""
+"Na přivítání těchle nepřátel se nesmíš tolik těšit, krvelačný rytíři -- byly to i nepřátelé Revacholu."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EEC0"
 msgid "As a defensive measure locking off that side of the bay."
 msgstr ""
+"Jako obranný mechanismus pro uzavření téhle strany zátoky."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C3AA"
 msgid "The lieutenant looks at the mechanism overhead. \"Ah, yes... so it seems.\""
 msgstr ""
+"Poručík vzhlédne směrem k mechanismu. \"Ah, ano... vypadá to tak.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EEF1"
 msgid "This means I *sorta* got into the depot door."
 msgstr ""
+"To znamená, že jsem se *nějak* dostal přes dveře skladu."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C3DD"
 msgid "Lock it from whom?"
 msgstr ""
+"Uzavřít před kým?"
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001761"
 msgid "The boy stares at the mechanism. \"Cool fucking chain.\""
 msgstr ""
+"Chlapec pohlédne na mechanismus. \"Krutopřísnej řetěz.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001775"
 msgid "\"Fuck does Cuno know?\" He shrugs his shoulders. \"Cuno would use it to bring shit to the island.\""
 msgstr ""
+"\"Jak to má Kuno, do prdele, vědět?\" Pokrčí rameny. \"Kuno by tím tahal věci na ostrov.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EEC8"
 msgid "\"This means I *sorta* got into the depot door.\""
 msgstr ""
+"\"To znamená, že jsem se *nějak* dostal přes dveře skladu.\""
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C372"
 msgid "The chain trails off into the ocean, connecting the island to the supply depot on the coast."
 msgstr ""
+"Řetěz se táhne směrem do oceánu, spojuje ostrov se skladištěm na pobřeží."
 
 #. Title = SEAFORT ORB / chain afterthought
 #. Description = (afterthought about chain)
@@ -185,3 +218,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C3BD"
 msgid "\"What do you think it was used for?\""
 msgstr ""
+"\"K čemu myslíš, že to sloužilo?\""
