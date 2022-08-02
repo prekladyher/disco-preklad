@@ -17,7 +17,7 @@ function prettifyXml(xmlInput) {
       if (pad !== 0) {
         pad -= 1;
       }
-    } else if (line.match(/^<\w([^>]*[^\/])?>.*$/)) {
+    } else if (line.match(/^<\w([^>]*[^/])?>.*$/)) {
       indent = 1;
     } else {
       indent = 0;
@@ -44,43 +44,39 @@ async function generateGlossary() {
   await doc.loadInfo(); // loads document properties and worksheets
   console.log("DOCS: " + doc.title);
   const sheet = doc.sheetsByIndex[0]; // use doc.sheetsByIndex[0] or doc.sheetsById[id] or doc.sheetsByTitle[title]
-  const rows = await sheet.getRows();
-  var lastRow = sheet.headerValues[8] - 1;
-  let glossaryData = header;
+  await sheet.loadCells("A1:I10000");
+  const entriesCount = sheet.getCell(0, 8).value;
+  const entries = [];
   let usedIds = [];
+  let [id, vyraz, preklad, poznamka, velikost, schvaleno, tykani] = Array(7).fill("");
+  let glossaryData = header;
 
-  for (var i = 0; i < lastRow; i++) {
-    let id = "";
-    let poznamka = "";
-    let vyraz = "";
-    let preklad = "";
-    let schvaleno = "";
-    let velikost = "";
-    let tykani = "";
-
-
-    if (typeof rows[i].Poznámka !== "undefined") { poznamka = rows[i].Poznámka.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
-    if (typeof rows[i].Výraz !== "undefined") { vyraz = rows[i].Výraz.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
-    if (typeof rows[i].Překlad !== "undefined") { preklad = rows[i].Překlad.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
-    if (rows[i].OK == "x") { schvaleno = "[OK] "; }
-    if (rows[i].aA == "x") { velikost = "[aA] "; }
-    if (typeof rows[i].TV !== "undefined") {
-      if (rows[i].TV.toUpperCase() == "T") { tykani = "[TYKAT]"; }
-      else if (rows[i].TV.toUpperCase() == "V") { tykani = "[VYKAT]"; }
+  for (let idx = 1; idx < entriesCount; idx++) {
+    entries.push([sheet.getCell(idx, 1).value, sheet.getCell(idx, 2).value, sheet.getCell(idx, 3).value, sheet.getCell(idx, 5).value, sheet.getCell(idx, 7).value, sheet.getCell(idx, 4).value]);
+  }
+  entries.sort((a, b) => a[0].localeCompare(b[0], "en", { sensitivity: "base" }));
+  entries.forEach(entry => {
+    if (entry[0] !== null) {vyraz = entry[0].replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");}
+    if (entry[1] !== null) {preklad = entry[1].replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");}
+    if (entry[2] == "x") {velikost = "[aA] ";}
+    if (entry[3] !== null) {poznamka = entry[3].replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");}
+    if (entry[4] == "x") {schvaleno = "[OK] ";}
+    if (entry[5] !== null) {
+      if (entry[5].toUpperCase() == "T") { tykani = "[TYKAT] "; }
+      else if (entry[5].toUpperCase() == "V") { tykani = "[VYKAT] "; }
     }
 
-    let idx = usedIds.findIndex(el => el[0] === rows[i].Výraz);
+    let idx = usedIds.findIndex(el => el[0] === entry[0]);
     if (idx !== -1) {
-      id = rows[i].Výraz + (usedIds[idx][1] + 1);
+      id = entry[0] + (usedIds[idx][1] + 1);
       usedIds[idx][1]++;
     } else {
-      id = rows[i].Výraz;
+      id = entry[0];
       usedIds.push([vyraz, 1]);
     }
 
     glossaryData += "<termEntry id=\"" + id + "\"><descrip type=\"definition\">" + schvaleno + velikost + tykani + poznamka + "</descrip><langSet xml:lang=\"en\"><tig><term>" + vyraz + "</term></tig></langSet><langSet xml:lang=\"cs\"><tig><term>" + preklad + "</term></tig></langSet></termEntry>";
-  }
-
+  });
 
   glossaryData += footer;
   fs.writeFileSync(glossaryFile, prettifyXml(glossaryData));
