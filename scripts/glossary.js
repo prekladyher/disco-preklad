@@ -48,7 +48,6 @@ async function generateGlossary() {
   const entriesCount = sheet.getCell(0, 8).value;
   const entries = [];
   let usedIds = [];
-  let [id, vyraz, preklad, poznamka, velikost, schvaleno, tykani] = Array(7).fill("");
   let glossaryData = header;
 
   for (let idx = 1; idx < entriesCount; idx++) {
@@ -56,6 +55,8 @@ async function generateGlossary() {
   }
   entries.sort((a, b) => a[0].localeCompare(b[0], "en", { sensitivity: "base" }));
   entries.forEach(entry => {
+    let [id, vyraz, preklad, poznamka, velikost, schvaleno, tykani] = Array(7).fill("");
+
     if (entry[0] !== null) {vyraz = entry[0].replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");}
     if (entry[1] !== null) {preklad = entry[1].replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");}
     if (entry[2] == "x") {velikost = "[aA] ";}
