@@ -1,5 +1,6 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022.
 # Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
+# Pavel Horal <pavel.horal@orchitech.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,7 +12,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 22.04.3\n"
 
 msgctxt "Abilities/ABILITY_ADJUST_TITLE"
 msgid "Adjust abilities"
@@ -10321,7 +10322,7 @@ msgstr ""
 msgctxt "Conversation/0x010000450001C1E2/Description"
 msgid "This barrel says: ICM. You see a star with little specks in it."
 msgstr ""
-"Na tomto barelu je uvedeno: ICM. Vidíš hvězdu s malými skvrnami."
+"Na tomto barelu je uvedeno: IOM. Vidíš hvězdu s malými skvrnami."
 
 msgctxt "Conversation/0x010000450001C1E2/Title"
 msgid "SEAFORT ORB / barrel ICM logo"
@@ -16586,6 +16587,7 @@ msgstr ""
 msgctxt "Conversation/0x0100008F00002CF6/Description"
 msgid "No way to get up there. The stairs are gone"
 msgstr ""
+"Nahoru se nedá dostat. Schody jsou zničené."
 
 msgctxt "Conversation/0x0100008F00002CF6/Title"
 msgid "SEAFORT ORB / destroyedstairs"
