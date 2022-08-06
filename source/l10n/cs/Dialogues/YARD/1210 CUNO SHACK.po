@@ -1,16 +1,8 @@
-# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
-"PO-Revision-Date: 2022-08-04 10:42+0200\n"
-"Project-Id-Version: \n"
-"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
-"Language: cs\n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"Language: cs"
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -19,6 +11,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008832"
 msgid "\"I *phase-shifted* through the roofing material.\""
 msgstr ""
+"\"Prošel jsem fázovým posunem skrz střešní krytinu.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -27,6 +20,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008898"
 msgid "\"Uh...\" He looks confused. \"What is this shit... Fuckin' on yourself? This is weird-level shit, Cuno doesn't go there.\""
 msgstr ""
+"\"Co...\" Vypadá zmateně. \"Co je to za sračku... Sereš sám na sebe? Tohle jsou už úchylný sračky, do toho Kuno nejde.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -35,6 +29,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000088EE"
 msgid "\"Fuck your shit back to normal. What is this?\""
 msgstr ""
+"\"Hoď tu svou sračku do normálu. Co to má být?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -59,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008841"
 msgid "\"Pig, that's the past. You and Cuno are *now*. Let's talk about how you opened the secret door, fucking at Cuno's kingdom.\""
 msgstr ""
+"\"Prase, to je minulost. Ty a CKuno jste *teď*. Pojďme si promluvit o tom, jak jsi otevřel tajné dveře a jebal se v Kunově království.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -149,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000BE2"
 msgid "\"What's with the tube of Magnesolam, Cuno?\""
 msgstr ""
+"\"Co máš s tou tubou Magnesolamu, Kuno?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -182,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001825A"
 msgid "\"How did you like it in there, piggo-boy? Cuno's got a lot of cool shit there, right?\""
 msgstr ""
+"\"Jak se ti tam líbilo, praso-hošku? Cuno tam má spoustu super sraček, ne?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -190,6 +188,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000894D"
 msgid "\"Okay? Whatever?! You fucking *need* that shit to stay on top of your game. Cuno goes through like a tube a day. And you look like you could use a *barrel*.\""
 msgstr ""
+"\"Dobře? To je fuk? Tu sračku kurva potřebuješ, aby ses udržel na špici Kuno sjede tak tubu denně. A ty vypadáš, že bys potřeboval tak *sud*.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -206,6 +205,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008861"
 msgid "\"Shit... get the fuck out of here! You can't do that.\""
 msgstr ""
+"\"Do prdele... vypadni kurva odsud! To nedokážeš.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -214,6 +214,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000088DF"
 msgid "\"What?\""
 msgstr ""
+"\"Cože?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -222,6 +223,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000893F"
 msgid "\"It's magnesium, right?\""
 msgstr ""
+"\"Je to magnézium, že?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -230,6 +232,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000C18"
 msgid "\"I found a plate covered with powder residue -- know anything about it?\""
 msgstr ""
+"\"Našel jsem talíř pokrytý zbytky prášku - nevíš o tom něco?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -238,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001826A"
 msgid "Well played. *No one* saw that coming."
 msgstr ""
+"Dobře zahráno. *Nikdo to nečekal."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -254,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008877"
 msgid "\"Pigs can't displace, can't do that teleport shit...\" He says to himself, then turns to you."
 msgstr ""
+"\"Prasata se neumějí přemisťovat, neumějí ty teleportační sračky...\" Říká si pro sebe a pak se otočí k tobě."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -270,6 +275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000C06"
 msgid "\"I've heard enough of this.\""
 msgstr ""
+"\"Už jsem o tom slyšel dost.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -302,6 +308,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000890F"
 msgid "\"Uh...\" He looks you in the eye. \"Why you fuckin' on yourself in front of Cuno? Talk Kingdom to Cuno or fuck off.\""
 msgstr ""
+"\"Hm...\" Podívá se ti do očí. \"Proč na sebe před Kunem sereš? Mluv s ním o Království, nebo odprejskni.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -310,6 +317,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008932"
 msgid "\"It's a vitamin, pig. Don't you know anything?\" He looks at you like you just pointed at the sun and asked what it was."
 msgstr ""
+"\"Je to vitamín, prase. Copak nic nevíš?\" Podívá se na tebe, jako bys právě ukázal na slunce a zeptal se, co to je."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -318,6 +326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008945"
 msgid "\"Okay, whatever.\""
 msgstr ""
+"\"Dobře, to je fuk.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -358,6 +367,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008868"
 msgid "\"He's tryin'a fuck at you again, Cuno!\""
 msgstr ""
+"\"Zase se tě snaží ojebat, Kuno!\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -374,6 +384,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008824"
 msgid "\"You found Cuno's secret door to Cuno's secret shack?! It was closed for five thousand years. How the fuck did you get in?\""
 msgstr ""
+"\"Našel jsi Kunovy tajné dveře do Kunovy tajné boudy?! Pět tisíc let byla zavřená. Jak ses tam kurva dostal?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -382,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000882C"
 msgid "\"I pushed the panels aside, Cuno.\""
 msgstr ""
+"\"Odsunul jsem stranou ty desky, Kuno.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -390,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008976"
 msgid "\"Fuck you, pig! Don't do Mag! You're gonna OD and you're gonna fucking die!\""
 msgstr ""
+"\"Jdi do prdele, prase! Neber Mag! Předávkuješ se a chcípneš!\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -398,6 +411,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008966"
 msgid "\"I know all about magnesium. I rock it all the time.\""
 msgstr ""
+"\"O magnéziu vím všechno. Beru ho pořád.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -431,6 +445,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008891"
 msgid "\"Cool pig-head. I liked it. I got one too, this one.\" (Point to your head.) \"It's shit.\""
 msgstr ""
+"\"Parádní prasečí hlava. Líbila se mi. Já mám taky jednu, tuhle.\" (Ukaž si na hlavu.) \"Je to sračka.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -439,6 +454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000088D2"
 msgid "\"Too brutal for you, huh? Cuno fuck your tongue off?\""
 msgstr ""
+"\"To je na tebe moc brutální, co? Kuno ti odjebal jazyk?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -447,6 +463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000088F8"
 msgid "(Whisper.) \"Yes. I think I'm going insane, Cuno.\""
 msgstr ""
+"(Zašeptej.) \"Ano. Myslím, že se zblázním, Kuno.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -455,6 +472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000896C"
 msgid "\"C'mon, it's just magnesium, don't mystify it.\""
 msgstr ""
+"\"No tak, je to jen magnézium, nemystifikuj.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -479,6 +497,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000BEE"
 msgid "\"You're not getting this, pig! It *completely* takes away the hangover. It's like you didn't do *anything*! Like you stayed home playing with your choo-choo.\" He looks at you, eyes bulging."
 msgstr ""
+"\"Ty to nechápeš, prase! Úplně tě to zbaví kocoviny. Je to, jako bys nedělal *nic*! Jako bys zůstal doma a hrál si s vláčkem.\" Podívá se na tebe, oči vykulené."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -503,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000088CB"
 msgid "Forget it, I'm not saying those things..."
 msgstr ""
+"Zapomeň na to, tyhle věci neříkám..."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -520,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000C00"
 msgid "\"Good call pigmeister. Don't come and talk to Cuno about his Kingdom.\""
 msgstr ""
+"\"Dobrá volba, prasomistře. Nechoď sem a nemluv s Kunem o jeho Království.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -528,6 +549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000885A"
 msgid "\"And then what? You fuck in there? You fuck in Cuno's kingdom?\""
 msgstr ""
+"\"A co pak? Nasral ses tam? Nasral ses do Kunova království?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -536,6 +558,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008955"
 msgid "\"Don't teach him, Cuno! He's gonna use it against you, Cuno!\""
 msgstr ""
+"\"Neuč ho to, Kuno! Použije to proti tobě, Kuno!\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -544,6 +567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000902D"
 msgid "\"The fuck do you want with it?\""
 msgstr ""
+"\"Co s ní kurva chceš?\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -560,6 +584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008900"
 msgid "\"No, I just want to get back to the shack.\""
 msgstr ""
+"\"Ne, jen se chci vrátit k té boudě.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -568,6 +593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000C0C"
 msgid "\"That's where Cuno gets his daily hit of electric, Cuno's *shazam*. Cuno rides the fucking lightning in there, pig.\""
 msgstr ""
+"\"Tam si Kuno dává svou každodenní dávku elektřiny, Kunovo *abrakadabra*. Kuno tam jezdí na zasraným blesku, prase.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -576,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000C3C"
 msgid "Bet you'd like to ride the lightning too, wouldn't you? You feel tired and old, but you could have that sparkle in your eyes..."
 msgstr ""
+"Vsadím se, že bys taky chtěl jezdit na blesku, že? Cítíš se unavený a starý, ale mohl bys mít v očích tu jiskru..."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -601,6 +628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008870"
 msgid "\"He can't do that, Cuno! He's tryin'a fuck at you again!\""
 msgstr ""
+"\"To nedokáže, Kuno! Zkouší s tebou zase vyjebat!\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -609,6 +637,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008907"
 msgid "\"F'course you want back in there. Everyone wants back in there.\""
 msgstr ""
+"\"Samozřejmě, že se tam chceš vrátit. Každý se tam chce vrátit.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -626,6 +655,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008938"
 msgid "\"Yeah, it's the *Mag*! You fucking *need* that shit to stay on top of your game. Cuno goes through like a tube a day, rips Mag like a motherfucker. And you could use a *barrel*.\""
 msgstr ""
+"\"Jo, je to *Mag*! Tu sračku kurva potřebuješ, aby ses udržel na špici. Kuno sjede tak tubu denně, tahá Mag jako sviňa. A ty bys potřeboval tak *sud*.\""
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
@@ -634,6 +664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000895D"
 msgid "You could use some."
 msgstr ""
+"Nějaký by sis měl dát."
 
 #. Title = YARD / CUNO SHACK
 #. Description = Talk to Cuno about the content relating to his shack (after you've been inside)
