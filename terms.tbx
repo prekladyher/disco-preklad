@@ -311,7 +311,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Church of the Mother of Silence</term>
+            <term>Kostel Matky Ticha</term>
           </tig>
         </langSet>
       </termEntry>
@@ -433,7 +433,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Cuno">
-        <descrip type="definition">[OK] [TYKAT] drzý kluk, TYKAT i on tyká</descrip>
+        <descrip type="definition">[OK] [TYKAT] drzý kluk, TYKAT i on tyká; Kuno o sobě mluví ve třetí osobě</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Cuno</term>
@@ -1208,7 +1208,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>poručík-yefreitor</term>
+            <term>poručík-jefrejtor</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2443,7 +2443,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>ké</term>
+            <term>odbory (Dokařské odbory)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2613,6 +2613,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>(Odpoutaný) Wirrâl </term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="yefreitor">
+        <descrip type="definition">hodnostní označení ROM</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>yefreitor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>jefrejtor</term>
           </tig>
         </langSet>
       </termEntry>
