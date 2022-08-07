@@ -1,4 +1,4 @@
-import chalk from "chalk";
+import chalk, { supportsColor } from "chalk";
 import { program } from "commander";
 import { inspect } from "util";
 import { appendL10n } from "./l10n/append.js";
@@ -35,7 +35,7 @@ program.command("stats")
       stats.forEach(file => {
         console.log(
           chalk.green(`${file[0]}:\t`),
-          inspect(file[1], { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: true }));
+          inspect(file[1], { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: !!supportsColor }));
       });
     }
     // Print statistics summary
@@ -45,7 +45,7 @@ program.command("stats")
       });
       console.log(
         chalk.cyan(`Summary: `),
-        inspect(summary, { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: true }));
+        inspect(summary, { compact: true, breakLength: Number.MAX_SAFE_INTEGER, colors: !!supportsColor }));
       const completion = summary.targetCount / summary.sourceCount;
       console.log(chalk.cyan("Completion: "), chalk.red((completion * 100).toFixed(2) + " %"));
     }
