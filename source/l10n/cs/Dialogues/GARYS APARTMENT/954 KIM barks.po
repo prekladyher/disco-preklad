@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-08-10 13:34+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = GARYS APARTMENT / KIM barks
 #. Description = Kim tells you he's not comfortable being there.
@@ -10,3 +18,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800005BC6"
 msgid "\"I'm really not sure we should be in here.\""
 msgstr ""
+"\"Opravdu si nejsem jistý, jestli bychom tu měli být.\""
