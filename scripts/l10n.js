@@ -73,11 +73,11 @@ program.command("validate")
 
 program.command("merge")
   .description("Merge translation into existing file")
-  .argument("<target>", "target translation file (merge target)")
   .argument("<source>", "source translation file (merge overlay)")
+  .argument("<targets...>", "target translation files (merge target)")
   .option("-i, --ignore <ignore>", "file with ignored translations")
-  .action(async (target, source, options) => {
-    return mergeL10n(target, source, options.ignore);
+  .action(async (source, targets, options) => {
+    return mergeL10n(source, options.ignore, ...targets);
   });
 
 program.command("append")

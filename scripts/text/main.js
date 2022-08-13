@@ -66,12 +66,9 @@ function decodeEntry(entry) {
       fields[fields.length - 1][1] += JSON.parse(line);
       continue;
     }
-    const idx = line.indexOf(" ");
-    if (idx < 0) {
-      continue; // ignore invalid line
-    }
-    const type = line.substring(0, idx);
-    const value = line.substring(idx + 1);
+    const split = line.indexOf(" ");
+    const type = split >= 0 ? line.substring(0, split) : line;
+    const value = split >= 0 ? line.substring(split + 1) : '';
     if (line[0] === "#") {
       result[type] = result[type] !== undefined ? `${result[type]}\n${value}` : value;
     } else {

@@ -2,27 +2,35 @@ import { promises as fs } from "fs";
 import { decodeEntries } from "../text/main.js";
 import { encodeTextFile, writeTextFile } from "./utils.js";
 
-export async function mergeL10n(target, source, ignore) {
-  const sourceEntries = decodeEntries((await fs.readFile(source)).toString());
-  const sourceIdx = Object.fromEntries(sourceEntries
+async function loadIndex(file) {
+  const entries = decodeEntries((await fs.readFile(file)).toString());
+  return Object.fromEntries(entries
     .filter(entry => !!entry.msgid)
     .map(entry => [entry.msgctxt, entry]));
+}
 
-  const ignoreEntries = ignore ? decodeEntries((await fs.readFile(ignore)).toString()) : [];
-  const ignoreIdx = Object.fromEntries(ignoreEntries
-    .filter(entry => !!entry.msgid)
-    .map(entry => [entry.msgctxt, entry]));
+export async function mergeL10n(source, ignore, ...targets) {
+  const sourceIdx = await loadIndex(source);
+  const ignoreIdx = ignore ? await loadIndex(ignore) : {};
 
-  const mergedEntries = decodeEntries((await fs.readFile(target)).toString())
-    .filter(entry => !!entry.msgid)
-    .map(entry => {
-      const sourceEntry = sourceIdx[entry.msgctxt];
-      const ignoreString = ignoreIdx[entry.msgctxt]?.msgstr;
-      if (sourceEntry?.msgstr && sourceEntry.msgstr !== ignoreString) {
+  for (const target of targets) {
+    let changed = false;
+    const mergedEntries = decodeEntries((await fs.readFile(target)).toString())
+      .filter(entry => !!entry.msgid)
+      .map(entry => {
+        const sourceEntry = sourceIdx[entry.msgctxt];
+        const ignoreString = ignoreIdx[entry.msgctxt]?.msgstr;
+        if (!sourceEntry?.msgstr || sourceEntry.msgstr === ignoreString) {
+          return entry; // missing translation or ignored translation
+        }
+        if (sourceEntry.msgstr === entry.msgstr && sourceEntry['#'] === entry['#']) {
+          return entry; // nothing changed, no need to merge
+        }
+        changed ||= true;
         return { ...entry, msgstr: sourceEntry.msgstr, "#": sourceEntry["#"] || undefined };
-      } else {
-        return entry;
-      }
-    });
-  writeTextFile(target, encodeTextFile("cs", mergedEntries));
+      });
+    if (changed) {
+      writeTextFile(target, encodeTextFile("cs", mergedEntries));
+    }
+  }
 }
