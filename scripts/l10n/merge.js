@@ -23,7 +23,7 @@ export async function mergeL10n(source, ignore, ...targets) {
         if (!sourceEntry?.msgstr || sourceEntry.msgstr === ignoreString) {
           return entry; // missing translation or ignored translation
         }
-        if (sourceEntry.msgstr === entry.msgstr && sourceEntry['#'] === entry['#']) {
+        if (sourceEntry.msgstr === entry.msgstr && sourceEntry["#"] === entry["#"]) {
           return entry; // nothing changed, no need to merge
         }
         changed ||= true;

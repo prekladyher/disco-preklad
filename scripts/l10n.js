@@ -1,4 +1,5 @@
 import chalk, { supportsColor } from "chalk";
+import FastGlob from "fast-glob";
 import { program } from "commander";
 import { inspect } from "util";
 import { appendL10n } from "./l10n/append.js";
@@ -76,16 +77,20 @@ program.command("merge")
   .argument("<source>", "source translation file (merge overlay)")
   .argument("<targets...>", "target translation files (merge target)")
   .option("-i, --ignore <ignore>", "file with ignored translations")
+  .option("-g, --glob", "interpret target files as glob patterns")
   .action(async (source, targets, options) => {
-    return mergeL10n(source, options.ignore, ...targets);
+    const resolvedTargets = options.glob ? await FastGlob(targets) : targets;
+    return mergeL10n(source, options.ignore, ...resolvedTargets);
   });
 
 program.command("append")
   .description("Concatenate multiple translation files")
   .argument("<files...>", "list of source files or directories")
+  .option("-g, --glob", "interpret files as glob patterns")
   .option("-c, --cleanup", "remove translation metadata / comments", false)
-  .action((files, options) => {
-    process.stdout.write(appendL10n(files, options.cleanup));
+  .action(async (files, options) => {
+    const resolvedFiles = options.glob ? await FastGlob(files) : files;
+    process.stdout.write(appendL10n(resolvedFiles, options.cleanup));
   });
 
 program.command("copy")
