@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Language: cs"
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -19,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007518"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -27,6 +28,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007518"
 msgid "\"Let's move on.\" [Leave]"
 msgstr ""
+"\"Pojďme dál.\" [Odejdi.]"
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -35,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010E8B"
 msgid "This is so good it makes him forget the whole *Kimball* memory."
 msgstr ""
+"To je tak dobré, že zapomene na celou vzpomínku na *Kimball*."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -43,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010ECE"
 msgid "\"It means someone snuck through what seems like a secret route -- behind our rape victim's room. In the recent weeks. This may prove to be significant.\""
 msgstr ""
+"\"To znamená, že se někdo proplížil zdánlivě tajnou cestou - za pokoj oběti znásilnění. V posledních týdnech. To se může ukázat jako významné.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -51,6 +55,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800010ECE"
 msgid "\"It means someone snuck through what seems like a secret route -- behind Klaasje's room. In the recent weeks. This may prove to be significant.\""
 msgstr ""
+"\"Znamená to, že se někdo proplížil něčím, co vypadá jako tajná cesta - za Klaasjiným pokojem. V posledních týdnech. To se může ukázat jako významné.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -59,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010EFD"
 msgid "\"It means someone snuck through what seems like a *secret route* -- leading to the roof. The roof, from where you can *shoot* our victim. This is significant.\""
 msgstr ""
+"\"To znamená, že se někdo proplížil něčím, co vypadá jako *tajná cesta* - vede na střechu. Na střechu, odkud můžete naši oběť *zastřelit*. To je důležité.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -75,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000756C"
 msgid "Large prints, most likely made by boots. The size is hard to determine (sole could be bigger than vamp). The soles have left a pattern -- uniform, horizontal lines."
 msgstr ""
+"Velké otisky, pravděpodobně způsobené botami. Velikost je těžké určit (podrážka by mohla být větší než nárt). Podrážky zanechaly vzor - rovnoměrné vodorovné čáry."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -83,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010FF3"
 msgid "Everything around you is quiet. The prints criss-cross the workshop floor."
 msgstr ""
+"Všude kolem tebe je ticho. Otisky křižují podlahu dílny."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -99,6 +107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010EEC"
 msgid "\"It means someone snuck through what seems like a secret route -- behind our rape victim's room. In the recent weeks. This may prove to be significant.\""
 msgstr ""
+"\"To znamená, že se někdo proplížil zdánlivě tajnou cestou - za pokoj oběti znásilnění. V posledních týdnech. To se může ukázat jako významné.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -107,6 +116,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800010EEC"
 msgid "\"It means someone snuck through what seems like a secret route -- behind our rape victim's room. In the recent weeks. This may prove to be significant.\""
 msgstr ""
+"\"To znamená, že se někdo proplížil zdánlivě tajnou cestou - za pokoj oběti znásilnění. V posledních týdnech. To se může ukázat jako významné.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -115,6 +125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010FB2"
 msgid "Get up. (Conclude.)"
 msgstr ""
+"Vstaň. (Uzavři to.)"
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -131,6 +142,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003F51"
 msgid "This print doesn't look like the Odd Sole."
 msgstr ""
+"Tenhle otisk nevypadá jako Podivná podrážka."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -155,6 +167,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010E6C"
 msgid "\"Jackpot.\" The lieutenant takes out his notebook. \"These, unlike everything else here, are *new*.\""
 msgstr ""
+"\"Trefa.\" Poručík vytáhne svůj zápisník. \"Tyhle jsou na rozdíl od všeho ostatního tady *nové*.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -163,6 +176,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010F89"
 msgid "\"This print doesn't look like the Odd-soled print we found at the hanging, Kim.\""
 msgstr ""
+"\"Tenhle otisk nevypadá jako otisk Podivné podrážky, který jsme našli u oběšence, Kime.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -187,6 +201,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580000750C"
 msgid "\"Let's have a closer look then...\" (Crouch, study the footprints.)"
 msgstr ""
+"\"Tak se na to podíváme zblízka...\" (Dřepni si, prozkoumej stopy.)"
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -203,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010EF7"
 msgid "\"It means someone snuck through what seems like a secret route -- leading to the roof. From where you can *shoot* our victim. This is significant.\""
 msgstr ""
+"\"To znamená, že se někdo proplížil něčím, co vypadá jako tajná cesta - vede na střechu. Odtud můžete naši oběť zastřelit. To je důležité.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -243,6 +259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010F8F"
 msgid "\"This doesn't look like the workers boots from the hanging, does it?\""
 msgstr ""
+"\"Tohle nevypadá jako dělnické boty od oběšence, že ne?\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -259,6 +276,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800010E60"
 msgid "\"Someone's been here -- within the last week or two.\""
 msgstr ""
+"\"Někdo tu byl - během posledního týdne nebo dvou.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -267,6 +285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000074E9"
 msgid "You *clearly* see footprints in the downy carpet of dust covering the workshop floor."
 msgstr ""
+"V prachovém koberci pokrývajícím podlahu dílny jsou jasně vidět stopy."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -275,6 +294,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010E73"
 msgid "\"Three weeks maximum -- from the dust coverage. It could easily have been *one* week too. You know, officer...\" He looks at you."
 msgstr ""
+"\"Maximálně tři týdny - pak by je zakryl prach. Klidně to mohl být i *jeden* týden. Víte, detektive...\" Podívá se na tebe."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -291,6 +311,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800010EAD"
 msgid "\"Okay. What does this mean?\""
 msgstr ""
+"\"Dobře. Co to znamená?\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -315,6 +336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003F65"
 msgid "Get up."
 msgstr ""
+"Vstaň."
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -323,6 +345,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010EBB"
 msgid "\"This isn't bad at all -- it was a *good* idea to see where that door leads. Commendable work bringing us to this place.\""
 msgstr ""
+"\"To není vůbec špatné - byl to dobrý nápad podívat se, kam ty dveře vedou. Chvályhodná práce, která nás na tohle místo přivedla.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -347,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010F9E"
 msgid "\"No. These little... horizontal lines are different. They look custom made to me. Or some kind of foreign print? Hard to say. Still a *boot* though.\""
 msgstr ""
+"\"Ne. Tyhle malé... vodorovné čáry jsou jiné. Připadají mi jako vyrobené na zakázku. Nebo nějaký cizí vzor? Těžko říct. Ale pořád je to bota.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -371,6 +395,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010F96"
 msgid "He inspects the tracks closer. \"The size looks about the same, actually. They're not the same *shoe*, but they *could* be the same person.\""
 msgstr ""
+"Prohlíží si stopy zblízka. \"Vlastně vypadají stejně velké. Nejsou to stejné boty, ale mohla by to být stejná osoba.\""
 
 #. Title = WHIRLING F3 / FOOTPRINTS IN THE DUST
 #. Description = 1. See tracks from what seem to be boots.
@@ -387,3 +412,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003F5D"
 msgid "This doesn't look like the workers boots from the hanging, does it?"
 msgstr ""
+"Tohle nevypadá jako dělnické boty od oběšence, že ne?"
