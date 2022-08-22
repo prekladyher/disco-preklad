@@ -1,16 +1,8 @@
-# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
-"PO-Revision-Date: 2022-08-11 19:36+0200\n"
-"Project-Id-Version: \n"
-"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
-"Language: cs\n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"Language: cs"
 
 #. Title = YARD / CUNO
 #. Description = * All greeting except "Making amends".
@@ -1846,6 +1838,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100005ECD"
 msgid "\"Hey Cuno... got any speed?\""
 msgstr ""
+"\"Hej, Kuno... máš nějaký speed?\""
 
 #. Title = YARD / CUNO
 #. Description = * All greeting except "Making amends".
