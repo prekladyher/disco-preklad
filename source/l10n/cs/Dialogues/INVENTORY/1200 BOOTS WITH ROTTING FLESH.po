@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-08-22 18:08+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000363E"
 msgid "[Put the boots away.]"
 msgstr ""
+"[Odlož boty.]"
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000035B5"
 msgid "These boots were probably left on the corpse because they were impossible to pull off while it was hanging. They're not exactly pleasant to look at right now, much less smell."
 msgstr ""
+"Tyto boty byly pravděpodobně ponechány na mrtvole, protože je nebylo možné sundat, když visela. Není zrovna příjemné se na ně dívat, natož je cítit."
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000035E0"
 msgid "Hopefully you will know who they belonged to very soon."
 msgstr ""
+"Doufejme, že se brzy dozvíš, komu patřily."
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -52,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000367C"
 msgid "Isn't there a saying about walking in another man's shoes?"
 msgstr ""
+"Neříká se něco o chůzi v cizích botách?"
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -59,6 +71,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003688"
 msgid "The size seems about right. Once you get the foul-smelling flesh-gunk out."
 msgstr ""
+"Velikost se zdá být správná. Jakmile se zbavíš páchnoucího masa."
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -66,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000368F"
 msgid "You've seen too much to be that naive, even if you don't remember it. You'll never know what it was like to be him."
 msgstr ""
+"Zažil jsi toho příliš mnoho, než abys byl tak naivní, i když si to nepamatuješ. Nikdy se nedozvíš, jaké to bylo být jím."
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -129,3 +143,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003676"
 msgid "Will I ever be able to wear them?"
 msgstr ""
+"Budu je moci někdy nosit?"
