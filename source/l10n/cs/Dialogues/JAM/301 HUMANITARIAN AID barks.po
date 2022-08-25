@@ -1,8 +1,16 @@
+# Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jindřich Černý <cernyjindrich22@gmail.com>\n"
+"PO-Revision-Date: 2022-08-25 10:05+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.04.1\n"
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7AC"
 msgid "\"Everything is good here!\""
 msgstr ""
+"*Tady je vše dobré!*"
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7C1"
 msgid "\"Step right up, mister!\""
 msgstr ""
+"\"Přistupte blíže!\""
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7B3"
 msgid "\"There's something here for everyone!\""
 msgstr ""
+"\"Je tu něco pro každého!\""
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7CF"
 msgid "\"Astonishing quality! Unbelievable prices!\""
 msgstr ""
+"\"Úžasná kvalita! Neuvěřitelné ceny!\""
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7EA"
 msgid "\"Deals so good you just *can't* pass this up!\""
 msgstr ""
+"\"Nabídky tak výhodně, že si je *nemůžete* nechat ujít!\""
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7BA"
 msgid "\"I let the goods do the talking.\""
 msgstr ""
+"\"Mluvení přenechávám zboží.\""
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7F1"
 msgid "\"I'm practically giving goods away here.\""
 msgstr ""
+"\"V podstatě tu rozdávám zboží.\""
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A7C8"
 msgid "\"You're *guaranteed* to find something exciting!\""
 msgstr ""
+"\"Máte *zaručeno*, že najdete něco vzrušujícího!\""
