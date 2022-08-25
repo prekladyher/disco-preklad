@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-25 01:16+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9CE"
 msgid "Be very, very careful where you step here."
 msgstr ""
+"Dávej si tady velký pozor, kam šlapeš."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C1F"
 msgid "\"No, just this one at the back of his head.\""
 msgstr ""
+"\"Ne, jen tohle vzadu na hlavě.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BD7"
 msgid "\"Well, at least you're not married.\" The lieutenant points at the ring on the man's left hand, the flesh around it swollen and grey."
 msgstr ""
+"\"No, aspoň že nejste ženatý.\" Poručík ukáže na prsten na mužově levé ruce, maso kolem něj je oteklé a šedivé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DD4"
 msgid "A dried chunk of blood covers the hair at the back of his head -- an open wound. It's sticky and cold to your touch."
 msgstr ""
+"Na zátylku mu vlasy zakrývá kus zaschlé krve -- otevřená rána. Na dotek je lepkavá a studená."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C19"
 msgid "\"It's hard to say.\""
 msgstr ""
+"\"Těžko říct.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C27"
 msgid "\"Seems like the head wound was fatal. It's exactly the shape of the bench...\""
 msgstr ""
+"\"Vypadá to, že to poranění hlavy bylo smrtelné. Je přesně ve tvaru té lavičky...\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C66"
 msgid "\"The next thing to do is call the station from my Kineema and hand over the case. Then we can return to the murder investigation and be done with it.\""
 msgstr ""
+"\"Další věc, kterou musíme udělat, je zavolat na stanici z mé Kineemy a předat případ. Pak se můžeme vrátit k vyšetřování vraždy a skončit s tímto případem.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000F10"
 msgid "\"Yes, yes,\" the lieutenant seems impatient, \"but what *actual* facts do you have that connect him with this woman you met at the bookstand?\""
 msgstr ""
+"\"Ano, ano,\" poručík se zdá být netrpělivý, \"ale jaká *skutečná* fakta ho spojují s tou ženou, kterou jste potkal u stánku?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B7B"
 msgid "\"Looks like just another old drunkard to me.\""
 msgstr ""
+"\"Mně to připadá jen jako nějaký další starý ochlasta.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D64"
 msgid "\"A *sequence killer*?\" The lieutenant narrows his eyes in the wind. \"There's nothing that connects those two bodies. This is a completely different case -- an accident.\""
 msgstr ""
+"\"*Seriový vrah*?\" Poručík přivře ve větru oči. \"Ty dvě těla nic nespojuje. Tohle je úplně jiný případ -- nehoda.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000D69"
 msgid "\"Alright. We've already examined the library card -- let's call the Jamrock Library from my Kineema, see if we can learn anything about this Billie Méjean.\""
 msgstr ""
+"\"Dobrá tedy. Už jsme si prohlédli průkazku do knihovny -- zavoláme do Šprajclovské knihovny z mé Kineemy, jestli nám něco o tom Billie Méjeanovi neřeknou.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000096D"
 msgid "\"What do you think happened here?\""
 msgstr ""
+"\"Co mysliš, že se tu stalo?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009D0"
 msgid "Or maybe it was just dark."
 msgstr ""
+"A nebo prostě byla tma."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B69"
 msgid "\"Could it be related to the lynching?\""
 msgstr ""
+"\"Mohlo by to souviset s tím lynčováním?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007500000B69"
 msgid "\"Could it be related to the lynching? Ruby?\""
 msgstr ""
+"\"Může to nějak souviset s tím lynčováním? Ruby?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000CEC"
 msgid "\"What about it? The deceased ate some kebab.\" He shrugs. \"It's probably from a nearby place, maybe in the Pox...\""
 msgstr ""
+"\"Co s ním? Zesnulý snědl kebab.\" Pokrčí rameny. \"Nejspíš je to z nějakého blízkého podniku, možná z Poxu...\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019CA"
 msgid "\"Maybe, but we don't really have much time or resources to spare. The guys at Processing will take care of the rest.\""
 msgstr ""
+"\"Možná, ale opravdu nemáme tolik času ani zdrojů nazbyt. O zbytek se postarají kluci z Technického.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019DC"
 msgid "\"A field autopsy isn't necessary if the cause of death doesn't appear to be criminal -- and this looks like a simple accident to me.\""
 msgstr ""
+"\"Polní pitva není zapotřebí, pokud se příčina smrti nezdá být zločinné povahy -- a tohle mi přijde jako prostá nehoda.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000C01"
 msgid "A cool leather jacket with a bolt of blue? Oh no, this sounds terribly familiar..."
 msgstr ""
+"Parádní kožená bunda s kouskem modré? Ach ne, to zní hrozně povědomě..."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000C18"
 msgid "This is an omen, a sign from above -- that you need to stop drinking."
 msgstr ""
+"Je to znamení shůry -- musíš přestat chlastat."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D79"
 msgid "What if all of this is staged? He could have seen something that night in the yard..."
 msgstr ""
+"Co když je to všechno zinscenované? Mohl tu noc na dvoře něco vidět... "
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DFD"
 msgid "They screech under your feet, ominously. It's hard to say whether the dead man's weight was what caused the boardwalk to break... It definitely looks fragile."
 msgstr ""
+"Zlověstně ti skřípou pod nohama. Těžko říct, jestli váha toho mrtvého muže prkna prolomila... Rozhodně vypadají křehce."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007500000DFD"
 msgid "The boards screech under the weight of the T-500 ceramic sabatons. It's a good thing they're so light, cause it's hard to determine whether it was the dead man's weight that caused the boardwalk to break... It definitely looks fragile."
 msgstr ""
+"Desky skřípou pod tíhou keramických sabatonů T-500. Ještě že jsou tak lehké, protože je obtížné určit, jestli to byla váha mrtvého muže, co způsobilo, že se prkna prolomila... Rozhodně vypadají křehce."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000FD7"
 msgid "It's mid-market spirits. With a slight touch of menthol. The man meant to enjoy himself, have a good time."
 msgstr ""
+"Jedná se o lihovinu střední třídy. S lehkým nádechem mentolu. Ten chlapík se chtěl bavit, dobře se bavit."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019C4"
 msgid "\"You're right, I don't see anything criminal here. Let's leave it at that.\""
 msgstr ""
+"\"Pravdu díš, nevidím tady nic zločinného. Nechme to tak.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA17"
 msgid "The blackness of death. Stench. You think you see white chewing gum too."
 msgstr ""
+"Černočerná temnota smrti. Zápach. Zdá se ti, že vidíš i bílou žvýkačku."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A2A"
 msgid "\"Oh yes,\" the lieutenant nods."
 msgstr ""
+"\"Ach ano,\" přikývne poručík."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B59"
 msgid "\"Who is this man?\""
 msgstr ""
+"\"Co je to za muže?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BEC"
 msgid "Married to your drink, that's for sure."
 msgstr ""
+"Určitě, je to svazek s chlastem."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000C1F"
 msgid "\"What we're witnessing here is a demise of a great party beast. That leather jacket, an empty vodka bottle...\" (Kiss your fingers.)"
 msgstr ""
+"\"To, čeho jsme svědky, je zánik velkého večírkového zvířete. Kožená bunda, prázdná láhev od vodky...\" (Polib si prsty.)"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D4B"
 msgid "\"You're right, connecting it with the lynching is a stretch.\""
 msgstr ""
+"\"Máš pravdu, spojovat to s tím lynčováním je trochu přitažené za vlasy.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000E18"
 msgid "Step back."
 msgstr ""
+"Ustup zpátky."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA2D"
 msgid "Careful. The wind blows hard, from the east."
 msgstr ""
+"Opatrně. Fouká silný vítr od východu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA42"
 msgid "\"The library card! He was supposed to return a book.\""
 msgstr ""
+"\"Průkazka do knihovny! Měl vrátit knihu.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA67"
 msgid "The view from the lookout is beautiful..."
 msgstr ""
+"Je odtud krásný výhled..."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000EEC"
 msgid "\"The woman you met at the bookstand?\" He looks at the bundle of flesh and rags lying on the ground. \"Why do you think it's her husband?\""
 msgstr ""
+"\"Ta žena, kterou jste potkal u stánku s knihami?\" Zadívá se na uzlíček masa a hadrů ležící na zemi. \"Proč myslíš, že je to její manžel?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000EF3"
 msgid "\"The leather jacket.\" (Point at the man's clothes.) \"It matches her description perfectly.\""
 msgstr ""
+"\"Ta kožená bunda.\" (Ukazuješ prstem na oděv onoho muže.) \"Na její popis sedí perfektně.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009A9"
 msgid "\"Death by misadventure. He slipped and fell through the boardwalk. A truly unfortunate accident... If it wouldn't have been for that bench, he'd be alive.\""
 msgstr ""
+"\"Smolná smrt. Uklouzl a spadl na prkna. Opravdu nešťastná nehoda... Nebýt té lavičky, byl by naživu.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A52"
 msgid "\"Let's leave this case for the station, I don't want to spend time on it.\" (Don't take the case.)"
 msgstr ""
+"\"Nechme tenhle případ na stanici, nechci s tím trávit čas.\" (Neber si ten případ.)"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A6F"
 msgid "\"Alright. The station is going to want details, however. Let's examine that library card you found on the man's body, see if it has any clues. Then we can call the station from my Kineema and hand over the case.\""
 msgstr ""
+"\"Dobře. Stanice však bude chtít podrobnosti. Prozkoumáme tu kartičku do knihovny, kterou jste našli u těla toho muže, jestli na ní nejsou nějaké stopy. Pak můžeme zavolat na stanici z mé Kineemy a předat případ.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D5D"
 msgid "\"What if he *witnessed* something? All of this could be staged. We don't know the exact cause of death.\""
 msgstr ""
+"\"Co když byl něčeho svědkem? Všechno to může být narafičené. Neznáme přesnou příčinu smrti.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DDB"
 msgid "Step on the floorboards."
 msgstr ""
+"Stoupni na prkna."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003361"
 msgid "A man lies on the boardwalk, his limbs bent and neck turned at an unnatural angle. Right next to him is an empty bottle of spirits. In his cramped hand: a chewing gum wrapper."
 msgstr ""
+"Na lávce leží muž, jeho končetiny zkroucené a jeho krk v nepřirozeném úhlu. Vedle něj prázdná lahev lihoviny. V křečovitě sevřené ruce: obal od žvýkačky."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/_c30rrmong57c2bb"
 msgid "\"Looks like he's been dead for a while. I'm surprised no one found him before you came along.\" He stands up and shivers as a gust of wind blows through his bomber jacket."
 msgstr ""
+"\"Vypadá to, že už je nějakou dobu po smrti. Překvapuje mě, že ho nikdo nenašel dřív, než jste se objevil vy.\" Vstává a zachvěje se, když mu poryv větru provane bombarďáckou bundu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Alternate1/_c30rrmong57c2bb"
 msgid "\"Looks like he's been dead for a while. I'm surprised no one found him before you came along.\" He stands up and shivers as a gust of wind blows through his jacket."
 msgstr ""
+"\"Vypadá to, že už je nějakou dobu po smrti. Překvapuje mě, že ho nikdo nenašel dřív, než jste se objevil vy.\" Vstává a zachvěje se, když mu poryv větru provane bundu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA39"
 msgid "In a ditch off a road below the 8/81, he thinks. A young father. Then he shakes his head, to make the memory stop."
 msgstr ""
+"V příkopu u vozovky pod silnicí 8/81, pomyslí si. Mladý otec. Pak zavrtí hlavou, aby vzpomínku zastavil."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DAB2"
 msgid "Calm now. Carefully. Just another day, just another dead body. Breathe."
 msgstr ""
+"V klidu. Opatrně. Jen další den, jen další mrtvola. Dýchej."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BC3"
 msgid "\"But you're right, let's not run ahead. For now all we know is that he's an unidentified middle-aged man found dead on the Martinaise boardwalk.\""
 msgstr ""
+"\"Ale máte pravdu, nepředbíhejme. Zatím víme jen to, že jde o neznámého muže středního věku, nalezeného na Martinaiském molu.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9AC"
 msgid "The smell is... not as bad as a two-week-old corpse, but it's definitely heading there."
 msgstr ""
+"Ten zápach je... ne tak strašný jako dvoutýdenní mrtvola, ale rozhodně k tomu směřuje."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C6E"
 msgid "\"Alright. The station is going to want details, however. We already examined the library card we found on the body -- good, that should be enough for the first lead.\""
 msgstr ""
+"\"Dobře. Stanice však bude chtít podrobnosti. Už jsme prozkoumali kartičku do knihovny, kterou jsme našli u těla - dobrá, to by mělo stačit jako první stopa.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000EDC"
 msgid "\"Looks like he's been dead for a while. I'm surprised no one found him before you came along.\" He stands up and shivers as a gust of wind blows through his bomber jacket."
 msgstr ""
+"\"Vypadá to, že už je nějakou dobu po smrti. Překvapuje mě, že ho nikdo nenašel dřív, než jste se objevil vy.\" Vstává a zachvěje se, když mu poryv větru provane bombarďáckou bundu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000094F"
 msgid "\"Lividity is faintly pronounced. Whoever this is, he's been dead for two days, no longer.\" He stands up and shivers as a gust of wind blows through his bomber jacket. \"We need to investigate.\""
 msgstr ""
+"\"Lividita je slabě patrná. Ať je to kdokoli, je mrtvý dva dny, o nic déle.\" Vstává a zachvěje se, když mu poryv větru provane bombarďáckou bundu. \"Musíme to vyšetřit.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000979"
 msgid "The man has fallen through a crack in the boardwalk and hit his head against the metal bench. Coagulated blood covers his black hair. One of his feet is still dangling through the hole."
 msgstr ""
+"Propadl se puklinou v molu a udeřil se hlavou o kovovou lavičku. Jeho černé vlasy pokrývá sražená krev. Jedna z jeho nohou stále visí ve vzniklé díře."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B60"
 msgid "\"Looks like one of the locals -- he'd have to know this spot to come here. You don't *just* walk over here.\" He looks south, the way you came."
 msgstr ""
+"\"Vypadá to na jednoho z místních -- musel by tohle místo znát, aby sem přišel. Tudy se *jen tak* neprojdeš.\" Zadívá se na jich, odkud jste přišli."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DB3"
 msgid "There's some dried blood on the metal bench, right where the corpse's head rests. The floorboards are rotten and slippery wet around the hole. An empty bottle lies nearby. A chewing gum wrapper is clutched in his fist."
 msgstr ""
+"Na kovové lavici, přesně v místě, kde leží hlava mrtvoly, je zaschlá krev. Prkna v podlaze jsou kolem otvoru shnilá a kluzká. Nedaleko leží prázdná lahev. Mrtvola v pěsti svírá obal od žvýkaček."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DCE"
 msgid "Examine the man's head."
 msgstr ""
+"Prohlédni si jeho hlavu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019BD"
 msgid "\"Yes, but... isn't that kind of sloppy?\""
 msgstr ""
+"\"Ano, ale... není to tak trochu lajdácké?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA52"
 msgid "I'll have *one* drink before I get home."
 msgstr ""
+"Dám si *jedno* pivo. V jeho případě lahev. Vodky."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C10"
 msgid "\"I don't see any other major wounds. Do you?\""
 msgstr ""
+"\"Nevidím žádná další vážná zranění. Co vy?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -423,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C50"
 msgid "\"I'd prefer if you didn't collect them this time. It's not... proper.\""
 msgstr ""
+"\"Upřednostnil bych, když je tentokrát sbírat nebudete. Není to... vhodné.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -430,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000961"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -437,6 +506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B98"
 msgid "\"No, I don't see anything that points in that direction. For now let's treat this case as a simple -- albeit sad -- accident, unrelated to the murder case.\""
 msgstr ""
+"\"Ne, nejsem si vědom ničeho, co by tomu nasvědčovalo. Prozatím berme tento případ jako prostou -- i když smutnou -- nehodu, která s případem vraždy nesouvisí.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -444,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B9F"
 msgid "\"But let's try to not run ahead -- for now all we know is that he's an unidentified middle-aged man found dead on the Martinaise boardwalk.\""
 msgstr ""
+"\"Ale zkusme nepředbíhat - zatím víme jen to, že jde o neznámého muže středního věku, který byl nalezen mrtvý na Martinaiském molu.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -451,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D0B"
 msgid "\"They'll seal this place off after the news reaches the Coalition officials. I doubt that they have enough resources to actually repair the boardwalk.\""
 msgstr ""
+"\"Až se to dozví koaliční představitelé, tak to tady zapečetí. Pochybuji, že mají dost prostředků na to, aby lávku opravili.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -458,6 +530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D1E"
 msgid "\"Right.\" (Conclude.)"
 msgstr ""
+"\"Dobrá.\" (Uzavři to.)"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -465,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D6C"
 msgid "\"Without any further evidence -- yes.\""
 msgstr ""
+"\"Bez jakýhkoliv dalších důkazů -- ano.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -472,6 +546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019EE"
 msgid "\"Good call. The guys at Processing can take care of the rest.\""
 msgstr ""
+"\"Dobrá volba. O zbytek se postarají kluci z Technického.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -479,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000D70"
 msgid "\"Alright. We should first examine that library card you found. Then we can call the station from my Kineema, let them know we're taking the case.\""
 msgstr ""
+"\"Dobrá tedy. Nejdřív bychom se měli podívat na tu kartičku do knihovny, co jsi našel. Pak můžeme zavolat na stanici z mé Kineemy a dát jim vědět, že případ přebíráme.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -486,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000ED4"
 msgid "\"Hold on...\" The lieutenant leans over the corpse and examines his face. Two glassy eyes stare back at him, void of any signs of life."
 msgstr ""
+"\"Moment...\" Poručík se naklání nad mrtvolu, prohlížejíc si její obličej. Dvě skelné oči na něj hledí zpět bez známky života za nimi."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -493,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002DA9"
 msgid "\"We should take another look at the library card you found on him,\" the lieutenant says, straightening his back."
 msgstr ""
+"\"Měli bychom se znovu podívat na tu průkazku do knihovny, kterou jste u něj našel,\" říká poručík a narovnává si záda.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -500,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000995"
 msgid "Search his pockets."
 msgstr ""
+"Prohledej mu kapsy."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -507,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A1C"
 msgid "First you need to talk with the lieutenant, then report back to the station. This is too complicated to handle on your own."
 msgstr ""
+"Nejdřív si musíš promluvit s poručíkem a pak se ohlásit na stanici. Tohle je příliš složité na to, abyste to zvládli sami."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -514,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B91"
 msgid "\"Well, he's definitely *someone's* husband.\" The lieutenant points at the golden ring on the man's left hand, the flesh around it swollen and pale."
 msgstr ""
+"\"No, rozhodně je to *něčí* manžel.\" Poručík ukáže na zlatý prsten na mužově levé ruce, maso kolem něj je oteklé a bledé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -521,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BCF"
 msgid "\"And he was married.\" The lieutenant points at the ring on the man's left hand, the flesh around it swollen and grey."
 msgstr ""
+"\"A byl ženatý.\" Poručík ukáže na prsten na mužově levé ruce, maso kolem něj je oteklé a šedivé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -528,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D25"
 msgid "\"It does seem to be a pretty straightforward misadventure, although there's still the question of identifying the body...\""
 msgstr ""
+"\"Zdá se, že jde o docela prosté neštěstí, i když je tu ještě otázka identifikace těla...\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -535,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D45"
 msgid "\"We should consider the possibility that we're dealing with a sequence killer here.\""
 msgstr ""
+"\"Měli bychom zvážit možnost, že máme co do činění se sériovým vrahem.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -542,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DE8"
 msgid "This is where he came out of himself. Drop by drop when he was unconscious. It took three, maybe four minutes."
 msgstr ""
+"Tady vystoupil sám ze sebe. Kapku po kapce, když byl v bezvědomí. Trvalo to tři, možná čtyři minuty."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -549,6 +634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000E32"
 msgid "The entire boardwalk creaks in the wind as you take a step back."
 msgstr ""
+"Při couvnutí celá lávka skřípe ve větru."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -556,6 +642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019E3"
 msgid "\"But I think that death arrived through head trauma, not liver failure.\""
 msgstr ""
+"\"Ale myslím si, že smrt přišla následkem úrazu hlavy, nikoliv selháním jater.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -563,6 +650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9E6"
 msgid "True. It feels... disrespectful."
 msgstr ""
+"Pravda. Přijde mi to... neuctivé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -570,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA10"
 msgid "Look in."
 msgstr ""
+"Podívej se dovnitř."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -577,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA1E"
 msgid "Confirmed. Nearly the whole pack is there, solidified on his lower rear teeth."
 msgstr ""
+"Potvrzuji. Je tam téměř celé balení, ztvrdlé na jeho spodních stoličkách."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -584,6 +674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA5D"
 msgid "\"Damn it... He's definitely *someone's* husband.\" The lieutenant points at the golden ring on the man's left hand, the flesh around it swollen and pale."
 msgstr ""
+"\"Krucinál... Určitě je to něčí manžel.\" Poručík ukáže na zlatý prsten na mužově levé ruce, maso okolo něj je opuchlé a bledé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -591,6 +682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA8F"
 msgid "\"I'd say we should just write down 'head trauma' and leave it at that. Let's keep this detour as short as possible -- the sooner we get back to finding Ruby the better.\""
 msgstr ""
+"\"Řekl bych, že stačí do pitevní zprávy uvést 'poranění hlavy' jako příčinu smrti a nechat to tak. Ať je tahle zajížďka co nejkratší - čím dřív se vrátíme k hledání Ruby, tím líp.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -598,6 +690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000D9A"
 msgid "\"And while we're there we should also call the station, let them know that we're taking the case.\""
 msgstr ""
+"\"A když už tam budeme, měli bychom také zavolat na stanici, aby věděli, že ten případ bereme.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -605,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000F28"
 msgid "\"The bright blue lining?\" He nods, then points at the ring on the man's left hand: \"Well, he's definitely *someone's* husband.\""
 msgstr ""
+"\"Ta světle modrá podšívka?\" Přikývne a ukáže na prsten na mužově levé ruce: \"No, rozhodně je to *něčí* manžel.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -612,6 +706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000948"
 msgid "\"Hold on...\" The lieutenant squats next to the corpse and examines his face. Two bulging eyes stare back at him, void of any signs of life."
 msgstr ""
+"\"Moment...\" Poručík si dřepne vedle mrtvoly, prohlížejíc si její obličej. Dvě skelné oči na něj hledí zpět bez známky života za nimi."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -619,6 +714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000973"
 msgid "He's wearing mud-caked boots, beige trousers and an old brown leather jacket with a bright blue lining. There are traces of kebab sauce on his chest."
 msgstr ""
+"Má na sobě zabahněné boty, béžové kalhoty a starou hnědou koženou bundu s jasně modrou podšívkou. Na hrudi jsou stopy kebabové omáčky."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -626,6 +722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009BF"
 msgid "You have to be quite inebriated to fall that bad. Well over a litre of pure ethanol. Three bottles of wine or one and a half of spirits?"
 msgstr ""
+"Člověk musí bejt fakt namol, takhle blbě spadnout. Alespoň přes litr čistýho etanolu. Tři lahvinky vína nebo jedna a půl lihovinky?"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -633,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A69"
 msgid "\"No need to rush.\""
 msgstr ""
+"\"Žádný spěch.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -640,6 +738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B75"
 msgid "\"We know who this is. It's the working class woman's missing husband -- dead on the boardwalk.\""
 msgstr ""
+"\"Víme, kdo to je. Je to pohřešovaný manžel té dělnické ženy -- mrtvý na molu.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -647,6 +746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019B6"
 msgid "\"I'd say we should just write down 'head trauma' in the autopsy report and leave it at that. It would save us at least two hours of unnecessary work.\""
 msgstr ""
+"\"Řekl bych, že stačí do pitevní zprávy uvést 'poranění hlavy' jako příčinu smrti a nechat to tak. Ušetřilo by nám to nejméně dvě hodiny zbytečné práce.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -654,6 +754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C35"
 msgid "\"Tare, all around us...\" He looks at two other bottles forgotten near the coin-operated viewer."
 msgstr ""
+"\"Vratné lahve, všude kolem nás...\" Podívá se na další dvě láhve zapomenuté poblíž kukátka na mince."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -661,6 +762,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000988"
 msgid "The leather jacket suits him well. It must be custom-made."
 msgstr ""
+"Ta kožená bunda mu sedne dobře. Musí být šitá na zakázku."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -668,6 +770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A4D"
 msgid "\"I still need some time to decide how I want to solve this case.\" (Return to this later.)"
 msgstr ""
+"\"Potřebuji ještě nějakou chvilku na to, abych se rozhodl, jak tenhle případ vyřeším.\" (Vrať se k tomu později.)"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -675,6 +778,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BBD"
 msgid "A dead working class man with a bottle in his hand? Don't deceive yourself, you know who this is."
 msgstr ""
+"Mrtvý příslušník dělnické třídy s lahví v ruce? Nic si nenalhávej, víš, kdo to je."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -682,6 +786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000C34"
 msgid "This is an omen, a sign from above -- don't start drinking again."
 msgstr ""
+"Je to znamení shůry -- nezačínej znovu chlastat."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -689,6 +794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DEF"
 msgid "You see waves churning below... Something cracks beneath your feet."
 msgstr ""
+"Dole jsou vidět čeřící se vlny... Pod nohama ti něco zapraská."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -696,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019A8"
 msgid "\"What about alcohol poisoning and liver failure?\""
 msgstr ""
+"\"Co otrava alkoholem a selhání jater?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -703,6 +810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C49"
 msgid "\"Tare, all around us...\" He looks at two other bottles near the coin-operated viewer, then at your yellow plastic bag."
 msgstr ""
+"\"Vratné lahve, všude kolem nás...\" Podívá se na další dvě láhve zapomenuté poblíž kukátka na mince a pak na tvůj žlutý plastový pytlík."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -710,6 +818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000099C"
 msgid "You find some sunflower seeds and a rain-soaked library card, folded into two. His jacket feels sodden and heavy under your hand."
 msgstr ""
+"Nacházíš pár slunečnicových semínek a deštěm promočenou průkazku do knihovy, přeloženou na dvě části. Jeho bunda ti pod rukami přijde mokrá a těžká."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -717,6 +826,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009B8"
 msgid "Height: 170-175 cm, curly hair, stout build. Age: approximately 50-60 years."
 msgstr ""
+"Výška: 170-175 cm, kudrnaté vlasy, statná postava. Věk: přibližně 50-60 let."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -724,6 +834,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009ED"
 msgid "\"From where I stand I can see two options. We either take the case and follow the leads to identify the body on our own -- or we report back to the station and leave this for our colleagues to handle.\""
 msgstr ""
+"\"Z mého pohledu vidím dvě možnosti. Buď se případu ujmeme a budeme sledovat stopy, podle kterých identifikujeme tělo sami, nebo se ohlásíme zpět na stanici a necháme to na našich kolezích.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -731,6 +842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D95"
 msgid "\"Yes, but... I just wanted to make it clear it's not a sequence killer, okay?\""
 msgstr ""
+"\"Ano, ale... Jen jsem chtěl, aby bylo jasné, že to není seriový vrah, dobrá?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -738,6 +850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9F5"
 msgid "'Rubowski' spearmint chewing gum. Green leaves on the cover. The man's mouth is half-agape from the terror of the fall..."
 msgstr ""
+"Žvýkačky 'Rubowski', mátové. Zelené listy na obalu. Muž má ústa napůl otevřená hrůzou z pádu..."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -745,6 +858,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000F06"
 msgid "\"Bottles, all around him.\" (Point at the tare.) \"She said he was drinking somewhere in Martinaise.\""
 msgstr ""
+"\"Lahve, všude kolem něj.\" (Ukáže na sběr.) \"Říkala, že pil někde v Martináze.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -752,6 +866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002DC3"
 msgid "Only some sunflower seeds remain in his soaked pockets. You already took the library card."
 msgstr ""
+"V jeho promočených kapsách zůstalo jen pár slunečnicových semínek. Průkazku do knihovny už máš."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -759,6 +874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009DA"
 msgid "His expression is dull like the sea behind him, drops of water shining on his moustache. His eyes, empty and wide, look frightening in their frozen gaze."
 msgstr ""
+"Jeho výraz je mdlý jako moře za ním, na kníru se mu lesknou kapky vody. Jeho oči, prázdné a široké, vypadají ve svém ledovém pohledu děsivě."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -766,6 +882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BE4"
 msgid "Or what if you are...?"
 msgstr ""
+"Ale co když jsi...?"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -773,6 +890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D2E"
 msgid "Yes, but what if there's a killer on the loose? Two suspicious deaths in such a short time frame!"
 msgstr ""
+"Ano, ale co když tu pobíhá vrah? Dvě podezřelá úmrtí v tak krátké době!"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -780,6 +898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D57"
 msgid "\"It's possible, but let's take it step-by-step. We still haven't identified the man.\""
 msgstr ""
+"\"Je to možné, ale pojďme na to postupně. Stále jsme toho muže neidentifikovali.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -787,6 +906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D8D"
 msgid "\"I'm just saying that we should be open to all possibilities.\""
 msgstr ""
+"\"Jen říkám, že bychom měli být otevření všem možnostem.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -794,6 +914,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DE1"
 msgid "This is what killed him."
 msgstr ""
+"Tohle ho zabilo."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -801,6 +922,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9C6"
 msgid "A bad fall. It might have been dark outside? This place is a mine field in the dark."
 msgstr ""
+"Ošklivý pád. Možná byla venku tma? Tohle místo je za tmy přímo minové pole."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -808,6 +930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000935"
 msgid "A man lies on the boardwalk, his limbs bent and neck turned at an unnatural angle. Right next to him is an empty bottle of spirits. In his cramped hand: a chewing gum wrapper."
 msgstr ""
+"Na lávce leží muž, jeho končetiny zkroucené a jeho krk v nepřirozeném úhlu. Vedle něj prázdná lahev lihoviny. V křečovitě sevřené ruce: obal od žvýkačky."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -815,6 +938,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000955"
 msgid "Study the man's clothes."
 msgstr ""
+"Prozkoumej jeho oblečení."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -822,6 +946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BB0"
 msgid "\"I think labelling him as an alcoholic is a bit premature. We don't know anything yet.\""
 msgstr ""
+"\"Myslím, že označovat ho za alkoholika je trochu unáhlené. Zatím nic nevíme.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -829,6 +954,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000CF3"
 msgid "\"Someone should be held responsible for this broken boardwalk. It's dangerous.\""
 msgstr ""
+"\"Někdo by měl nést odpovědnost za tohle rozpadlé molo. Je to nebezpečné.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -836,6 +962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000E0E"
 msgid "A 0.75 litre 'Touloula' vodka with its cap missing. There's hardly anything left inside."
 msgstr ""
+"Vodka 'Toulula' o objemu 0.75 litru bez víčka. Uvnitř skoro nic nezbylo."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -843,6 +970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA07"
 msgid "The lieutenant shudders from the cold. \"I've seen it before: almost the same scenario. Even the chewing gum. It's always the same...\""
 msgstr ""
+"Poručík se zachvěje zimou. \"Už jsem to viděl: skoro stejný scénář. Dokonce i ty žvýkačky. Vždycky je to stejné...\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -850,6 +978,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA58"
 msgid "Just one drink. I have my cool jacket on. I took the book to the library. I've earned it."
 msgstr ""
+"Jen jednu láhvinku. Mám na sobě svou frajerskou bundu. Vrátil jsem knihu do knihovny. Zasloužím si to."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -857,6 +986,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000F01"
 msgid "Because it's the most working class death you've ever seen."
 msgstr ""
+"Protože je to ta nejvíc dělnická smrt, jakou jsi kdy spatřil."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -864,6 +994,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B81"
 msgid "\"He looks like me. I could have ended up just like him -- dead on some empty boardwalk with a bottle next to my corpse.\""
 msgstr ""
+"\"Vypadá jako já. Mohl jsem dopadnout stejně - mrtvý na nějakém prázdném molu s lahví vedle mojí mrtvoly.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -871,6 +1002,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003374"
 msgid "\"Good, we should take a look at that library card after this is done.\""
 msgstr ""
+"\"Dobrá, až tu skončíme, měli bychom se podívat na tu kartičku do knihovny.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -878,6 +1010,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9B9"
 msgid "Half of his body has slipped between the cracked boardwalk, starting with the right leg. The fall has left him broken, contorted like a sad puppet."
 msgstr ""
+"Půl jeho těla úspěšně uprchlo skrze popraskané dříví lávky, počínaje jeho pravou nohou. Pád ho zanechal zlomeného, zkrouceného jako smutnou loutku."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -885,6 +1018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA4A"
 msgid "\"I can't see a book...\" The lieutenant pats his pockets. \"So he took the book to the library, then came back and thought -- I'll have one.\""
 msgstr ""
+"\"Nevidím tu žádnou knihu...\" Poručík se poplácá po kapsách \" Takže vzal knihu do knihovny, pak se vrátil a řekl si -- dám si jedno.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -892,6 +1026,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000095B"
 msgid "Study the man himself."
 msgstr ""
+"Prozkoumej jeho."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -899,6 +1034,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000981"
 msgid "\"What should we do with him?\""
 msgstr ""
+"\"Co s ním budeme dělat?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -906,6 +1042,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A06"
 msgid "What should I do with the body?"
 msgstr ""
+"Co bych měl udělat s tím tělem?"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -913,6 +1050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000A24"
 msgid "\"Do you think he was drunk?\" (Point at the bottle.)"
 msgstr ""
+"\"Myslíš, že byl opilý?\" (Ukaž na láhev.)"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -920,6 +1058,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000E02"
 msgid "He could have easily disappeared into the sea through that hole. And you would have never found him."
 msgstr ""
+"Tou dírou mohl snadno zmizet v moři. A ty bys ho nikdy nenašel."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -927,6 +1066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9DE"
 msgid "He was *just* about to head home. The first step back home proved to be his last."
 msgstr ""
+"*Zrovna* se chystal vrátit domů. Jeho první krok domů se stal jeho posledním."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -934,6 +1074,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D9EE"
 msgid "Examine the chewing gum wrapper."
 msgstr ""
+"Prozkoumej obal od žvýkaček."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -941,6 +1082,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D8D"
 msgid "That's what the chewing gum seems to point to as well."
 msgstr ""
+"Zdá se, že na to poukazují i ty žvýkačky."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -948,6 +1090,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D12"
 msgid "\"Not that sealing it off would keep anyone away. All it does is keep the city council's hands clean.\" He smiles sourly."
 msgstr ""
+"\"Ne že by to někoho odradilo. Jediné, co to udělá, je, že městská rada bude mít čisté ruce.\" Usměje se trpce."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -955,6 +1098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000D51"
 msgid "\"Someone could have pushed him from behind with an intention to kill.\""
 msgstr ""
+"\"Někdo do něj mohl zezadu strčit s úmyslem vraždy.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -962,6 +1106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000019AF"
 msgid "\"Some symptoms of acute alcohol poisoning could have definitely played a role here: severe confusion, respiratory depression, unpredictable behaviour...\""
 msgstr ""
+"\"Některé příznaky akutní otravy alkoholem by zde určitě mohly hrát roli: silná zmatenost, respirační deprese, nepředvídatelné chování...\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -969,6 +1114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA01"
 msgid "\"He ate the whole pack, right? It's to cover the smell of alcohol before going home. The worst thing is...\""
 msgstr ""
+"\"Snědl celý balíček, že ano? To proto, aby zakryl pach alkoholu před návratem domů. Nejhorší je, že...\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -976,6 +1122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA72"
 msgid "Agreed. If this somehow converges later, why not. But keep it simple for now."
 msgstr ""
+"Souhlas. Pokud se to později nějak sejde, proč ne. Ale prozatím to nekomplikujme."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -983,6 +1130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA7A"
 msgid "Sometimes a kebab is just a kebab."
 msgstr ""
+"Někdy je kebab prostě jen kebab."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -990,6 +1138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000EF9"
 msgid "\"This is the most working class way to go -- completely alienated and forgotten.\""
 msgstr ""
+"\"Tohle je ta nejvíc dělnická forma smrti -- naprosto odcizený a zapomenutý.\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -997,6 +1146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D74"
 msgid "When damp these boards are really slippery, even a sober man could loose their balance here."
 msgstr ""
+"Za vlhka jsou tahle prkna opravdu kluzká, i za střízliva by tu kdokoliv mohl ztratit rovnováhu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1004,6 +1154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B87"
 msgid "\"But that's just a lazy assumption. What do you think?\""
 msgstr ""
+"\"Ale to je jen laický předpoklad. Co myslíte vy?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1011,6 +1162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000C2B"
 msgid "At least this man knew how to party! Imagine the same scene without the bottle -- now that would be just sad."
 msgstr ""
+"Tenhle chlapík se přinejmenším uměl bavit! Představte si stejnou scénu bez lahve -- to už by bylo jenom smutné."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1018,6 +1170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000CC6"
 msgid "Study the surroundings."
 msgstr ""
+"Prozkoumej okolí."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1025,6 +1178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000CCC"
 msgid "\"Hold on -- what about field autopsy?\""
 msgstr ""
+"\"Počkat -- a co pitva v terénu?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1032,6 +1186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000E08"
 msgid "Examine the bottle."
 msgstr ""
+"Prozkoumej lahev."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1039,6 +1194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000FCA"
 msgid "Another dead body. This is your job. Steel yourself."
 msgstr ""
+"Další mrtvola. Je to tvoje práce. Zocel se."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1046,6 +1202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000097000001B2"
 msgid "\"We found him. We should finish this.\" (Take the case.)"
 msgstr ""
+"\"My ho našli. A my bychom to měli dotáhnout do konce.\" (Vezmi případ.)"
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1053,6 +1210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA26"
 msgid "Back off."
 msgstr ""
+"Odstup."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1060,6 +1218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D62"
 msgid "To hide the stench of alcohol no doubt."
 msgstr ""
+"Nepochybně proto, aby zakryl pach alkoholu."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1067,6 +1226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000009C4"
 msgid "Examine his face."
 msgstr ""
+"Prohlédnii si jeho obličej."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1074,6 +1234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000BB7"
 msgid "\"We do know that he was married.\" The lieutenant points at the ring on the man's left hand, the flesh around it swollen and grey."
 msgstr ""
+"\"Víme, že byl ženatý.\" Poručík ukáže na prsten na mužově levé ruce, maso kolem něj je oteklé a šedé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1081,6 +1242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000C45"
 msgid "\"The wedding ring.\" The lieutenant points at the ring on the man's left hand, the flesh around it swollen and grey."
 msgstr ""
+"\"Snubní prsten.\" Poručík ukáže na prsten na mužově levé ruce, maso kolem něj je oteklé a šedé."
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1088,6 +1250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000CE6"
 msgid "\"What about the kebab?\""
 msgstr ""
+"\"A co ten kebab?\""
 
 #. Title = BOARDWALK / WCH
 #. Description = Dead working class husband who has fallen through the blanks and cut himself open and it's generally a very gruesome and sad death.
@@ -1095,3 +1258,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000FDF"
 msgid "He was confused when he died. Confused and alone, most likely. Overcome with the awful surprise of it all."
 msgstr ""
+"Při své smrti se cítil zmatený. Zmatený a osamělý, nejspíš. Přemožen strašlivým překvapením toho všeho."
