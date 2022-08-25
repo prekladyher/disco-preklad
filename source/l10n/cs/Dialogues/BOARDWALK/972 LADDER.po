@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-24 19:53+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014C93"
 msgid "\"That's not how physics work, detective. And even if it were -- wouldn't you need some kind of apparatus? A teleportation field or...\""
 msgstr ""
+"\"Detektive, takhle fyzika nefunguje. A i kdyby ano -- nepotřeboval byste na to nějaký aparát? Teleportační pole nebo...\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000998C"
 msgid "In addition, the first rung is going to be *tough* to reach. It's, what, three metres above ground, and you're -- 180...?"
 msgstr ""
+"Kromě toho bude *těžké* dosáhnout první příčky. Je to tak, kolik, tři metry nad zemí a ty měříš -- 180...?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002A9F"
 msgid "Assess the situation."
 msgstr ""
+"Vyhodnoť situaci."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B25"
 msgid "\"Oh my god! I can't believe it!\""
 msgstr ""
+"\"Panebože! Nemůžu tomu uvěřit!\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014C7A"
 msgid "Even if it isn't -- no one told you."
 msgstr ""
+"I kdyby nebyla -- nikdo ti to neprozradil."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E50"
 msgid "\"Okay, well. That's impressive, but...\""
 msgstr ""
+"\"Dobře, no. To je působivé, ale...\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AECA"
 msgid "The rusty ladder leads to the rooftop."
 msgstr ""
+"Na střechu vede zrezlý žebřík."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A14"
 msgid "\"Kim, it isn't happening! I'm not teleporting.\""
 msgstr ""
+"\"Kime, nefunguje to! Neteleportuju se.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E92"
 msgid "\"You know, for the record, you didn't teleport there. You just climbed the ladder with your eyes closed...\""
 msgstr ""
+"\"Víte, jen pro pořádek, vy jste se tam neteleportoval. Prostě jste vylezl po žebříku se zavřenýma očima...\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099B1"
 msgid "What if you were to do something more *subtle*?"
 msgstr ""
+"Co kdybys provedl něco trochu *méně okázalého*?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B2C"
 msgid "*BAM*! You find yourself on the roof... having mastered the art of physical displacement."
 msgstr ""
+"*BUM*! Ocitl ses na střeše... uměním přesunu fyzické hmoty!"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A1D"
 msgid "He looks at you, eyes wide with feigned surprise. \"You're not? Please don't try to *climb* the building, we'll get in another way.\""
 msgstr ""
+"Dívá se na tebe, oči doširoka vykulené předstíraným překvapením. \"Vážně? Prosím Vás, hlavně se nepokoušejte na tu budovu *vylézt*, dostaneme se tam jinudy.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A24"
 msgid "Don't say the stupid thing."
 msgstr ""
+"Neříkej tu hloupost nahlas."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C7F9"
 msgid "You're not ready to do this yet. [Leave.]"
 msgstr ""
+"Ještě na to nejsi připravený. [Odejdi.]"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000ACE"
 msgid "\"This really has nothing to do with... adventure. We're dealing with basic physics here.\""
 msgstr ""
+"\"Tohle opravdu nemá co do činění s... dobrodružstvím. Tady jde o základní fyziku.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B5E"
 msgid "The wind at the top of the building starts howling loudly, blowing away the lieutenant's voice... faintly you hear..."
 msgstr ""
+"Vítr na střeše budovy začíná hlasitě kvílet a odnáší poručíkův hlas... slabě slyšíš..."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E46"
 msgid "You shouldn't attempt to climb this ladder without the lieutenant here. What if you fall and need to be rushed to the hospital?"
 msgstr ""
+"Neměl by ses snažit po tom žebříku vylézt bez poručíka po tvém boku. Co když spadneš a bude třeba tě odvézt do nemocnice?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099BF"
 msgid "ASTRAL PROJECTION! Be *open-minded* about this."
 msgstr ""
+"ASTRÁLNÍ PROJEKCE! Buď ohledně toho šplhu hlava otevřená!"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014C8C"
 msgid "\"It is a thing for *me*. I can't *remember* it's not a thing.\""
 msgstr ""
+"\"Pro *mě* je to součást reality.* Nepamatuju* si, že by mi to někdo vyvracel.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E20"
 msgid "He *did*, he totally said something about the apparatus, god damn it..."
 msgstr ""
+"Ale *řekl*, stoprocentně něco říkal o aparátu, zatraceně..."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099B8"
 msgid "What if you were to *re-conceptualize* climbing the ladder?"
 msgstr ""
+"Co kdybys to celé šplhání překonceptualizoval?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E689"
 msgid "No -- not like a regular person. Like a phase spider."
 msgstr ""
+"Ne -- ne jako obyčejný člověk. Jako fázující pavouk!"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A34"
 msgid "\"Teleportation apparatus? I don't remember mentioning anything about teleportation apparatus. Please don't try to *climb* the building, we'll get in another way.\""
 msgstr ""
+"\"Teleportační aparát? Nevzpomínám si, že bych se zmínil o nějakém aparátu. Prosím, nepokoušejte se na tu budovu *vylézt*, dostaneme se tam jinudy.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C82C"
 msgid "Yes. Teleportation is completely not a thing. Perhaps if you were to, instead, climb the ladder with your eyes closed? This way it's less scary."
 msgstr ""
+"Ano. Teleportace vůbec není záležitostí reality. Možná kdybys vyšplhal po tom žebříku se zavřenýma očima? Bude to tak méně děsivé."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014CAA"
 msgid "\"Teleportation, Mikael. It's... generally thought impossible.\""
 msgstr ""
+"\"Teleportace, Míšo. Je to... obecně považováno za nemožné.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C83E"
 msgid "\"Officer, be careful! Officer!\""
 msgstr ""
+"\"Strážníku, opatrně! Strážníku!\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002AEC"
 msgid "Grab the second rung."
 msgstr ""
+"Uchop druhou příčku."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000AEE"
 msgid "Teleport to the roof."
 msgstr ""
+"Teleportuj se na střechu."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100008900000AEE"
 msgid "Inspired by Lo Manthang."
 msgstr ""
+"Inspirován Lo Manthangem."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100008900000AEE"
 msgid "Saw Tiago climbing."
 msgstr ""
+"Viděl jsi jak Tiago šplhá."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100008900000AEE"
 msgid "Remote Viewer bonus!"
 msgstr ""
+"Bonus z Pozorovatelů Vzdáleného"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100008900000AEE"
 msgid "Do it for Coach Physical!"
 msgstr ""
+"Do toho! Pro kouče Fyzická Vybavenost!"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100008900000AEE"
 msgid "The Magnetic Dice Set."
 msgstr ""
+"Sada Magnetických Kostek."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014EAA"
 msgid "Hear that? You're old. That's why you can't do it. Old and feeble. A let-down. A failure."
 msgstr ""
+"Slyšíš? Jsi dědek. Proto to nedáš. Starej a slabej. Zklamání. Selhání."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099C6"
 msgid "Yeah... Because falling from that height seems, well -- SPLAT! So don't do that. Just, you know..."
 msgstr ""
+"Jasně... Protože pád z takové výšky se zdá, no -- PLESK! A flek. Tak to radši nedělej. Prostě, víš co..."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005FE9"
 msgid "Brace yourself!"
 msgstr ""
+"Tak teď zatni hochu!"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B39"
 msgid "\"I did it, Kim! I teleported!\""
 msgstr ""
+"\"Kime! Já to zvládnul, teleportoval jsem se!\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014CA3"
 msgid "\"What are they talking about?\" the kid behind you whispers, asking his father."
 msgstr ""
+"\"O čem to mluví?\" zašeptá kluk za tebou ke svému otci."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C7D4"
 msgid "\"Yeah, that doesn't look good at all.\""
 msgstr ""
+"\"Jo, to nevypadá moc dobře.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000AC6"
 msgid "\"Teleportation *is* a thing. Just needs a bit of concentration...\""
 msgstr ""
+"\"Teleportace *je* záležitostí reality. Chce to jen trochu soustředění...\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B40"
 msgid "\"I just *saw* you climb the ladder,\" the lieutenant shouts from below. \"You just climbed it, like a regular person.\""
 msgstr ""
+"\"Vždyť jsem Vás zrovna *viděl* lézt po žebříku,\" poručík křičí zespodu. \"Prostě jste na střechu vylezl jako každý obyčejný člověk.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014CB9"
 msgid "Yes -- climbing it would be too *expensive*. The animations your body needs to make, interacting with the ladder, are beyond your capabilities at this moment in your career."
 msgstr ""
+"Ano -- šplhání by bylo příliš *drahé*. Animace, který by tvoje tělo při interakci se žebříkem muselo provádět, jsou v tuhle chvíli nad naše síly."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009995"
 msgid "One-eighty seems about right."
 msgstr ""
+"Jednaosmdesát se zdá být správně."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099FE"
 msgid "Because you're just standing there squeezing your buttocks and nothing is happening."
 msgstr ""
+"Protože tu jen stojíš, zatínáš půlky a stejně se nic neděje."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A53"
 msgid "Don't gloat. Just stand there like a Samaran master."
 msgstr ""
+"Nepyšni se. Jen tam stůj jako Samaranský mistr."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000AB3"
 msgid "\"What if I don't climb? What if I just... *teleport*?\""
 msgstr ""
+"\"Co když nebudu šplhat? Co když se prostě... *teleportuju*?\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B73"
 msgid "\"Never mind... find a way to let me in when you get inside! Don't go adventuring without backup, especially if we think the suspect may be hiding here.\""
 msgstr ""
+"\"Nevadí... najděte způsob jak mě pustit dovnitř, až se tam dostanete. Žádné dobrodružné výpravy bez posil, obvzláště když uvnitř čekáme podezřelého.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E64"
 msgid "\"Careful...\""
 msgstr ""
+"\"Opatrně...\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099F7"
 msgid "Why?"
 msgstr ""
+"Proč?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C844"
 msgid "The ladder gleams arrogantly with what remains of its metallic lustre as you hit the barrel and tumble onto the ground."
 msgstr ""
+"Žebrík se arogantně leskne zbytkem svého kovového potahu, zatímco ty dopadáš na sud a valíš se na zem."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E6C"
 msgid "It's not happening. You simply do not have the mind-over-matter athletic capacity to pull it off at this time."
 msgstr ""
+"To nepůjde. Momentálně prostě nemáš dostatečnou atletickou kapacitu na přesun časoprostorem."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099EA"
 msgid "On second thought, maybe teleportation isn't a thing."
 msgstr ""
+"Když o tom tak přemýšlím, možná teleportace vážně není záležitostí reality."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C80C"
 msgid "\"Oh yes. It could hurt. A lot.\""
 msgstr ""
+"\"Ale ano. Mohlo by být škody a to hodně.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000AC1"
 msgid "\"C'mon, Kim. Where's your adventurous spirit?\""
 msgstr ""
+"\"Noták, Kime. Kde je tvůj dobrodružný duch?\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B05"
 msgid "All you need to do is close your eyes and concentrate. Darkness *enfolds* you. You can *feel* the distance between the bench and the first rung of the ladder. All you need to is..."
 msgstr ""
+"Stačí zavřít oči a soustředit se. Obklopí tě *temnota*. Začínáš *cítit* vzdálenost mezi lavičkou a první příčkou žebříku. Vše, co potřebuješ, je..."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014E80"
 msgid "\"Enough of that now, officer...\" The lieutenant pats you on the back. \"There has got to be a better, more *age-appropriate* way in.\""
 msgstr ""
+"\"To už by stačilo, detektive...\" Poručík vás poplácá po zádech. \"Určitě musí existovat lepší, pro nás *věkově přístupnější* cesta dovnitř.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -459,6 +523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000ABA"
 msgid "\"Teleportation is not a thing.\" The lieutenant stares at you, stone-faced."
 msgstr ""
+"\"Teleportace není záležitostí reality.\" Poručík na tebe hledí s kamennou tváří."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -467,6 +532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000ADA"
 msgid "\"Okay, let's say teleportation is a thing. Wouldn't you need some kind of... scientific apparatus to create a teleportation field? You can't just do it without apparatus.\""
 msgstr ""
+"\"Dobře, řekněmě, že teleportace existuje. Nepotřeboval byste ale nějaký... vědecký aparát na vytvoření teleportačního pole? Bez přístroje to prostě nejde!\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -475,6 +541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C7ED"
 msgid "\"It won't hurt to try.\""
 msgstr ""
+"\"Nebude na škodu to zkusit.\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -483,6 +550,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B1E"
 msgid "*ZOOT*! *ZAP*! *POW*! *CRINKLE*! It's like magic, you feel yourself disappear, your atoms fading out of existence..."
 msgstr ""
+"*HOP*! *ŠVIH*! *PRÁSK*! *DRNK*! Je to jako nějaké kouzlo! Cítíš, jak mizíš, jak tvé atomy proplouvají předivem reality..."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -491,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099A3"
 msgid "Okay. But, still -- the roof is collapsing and the wind gets pretty brutal up there. Dismounting from the ladder is going to be *hard*. Perhaps if you were to... *not* climb the ladder? Instead..."
 msgstr ""
+"Dobře no. Ale stejně -- střecha je na spadnutí a vítr je tam nahoře docela brutální. Dostat se ze žebříku bude *těžké*. Možná bys... *neměl* na ten žebřík lézt?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -499,6 +568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C7C8"
 msgid "A rusty ladder leads to the rooftop. Some of the rungs are missing."
 msgstr ""
+"Zrezlý žebřík vede na střechu. Pár příček mu chybí."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -507,6 +577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C7DA"
 msgid "You shouldn't attempt to get to the roof without the lieutenant here. What if you fall and need to be rushed to the hospital?"
 msgstr ""
+"Neměl by ses snažit lézt na střechu bez poručíka po tvém boku. Co když spadneš a bude třeba tě odvézt do nemocnice?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -515,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002AE3"
 msgid "Your fingers slip from the rung..."
 msgstr ""
+"Prsty ti sklouznou z příčky..."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -523,6 +595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A0B"
 msgid "\"Kim, do you know where I could *get* that teleportation apparatus?\""
 msgstr ""
+"\"Kime, nevíš náhodou, kde bych mohl *sehnat* ten teleportační aparát?\""
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -531,6 +604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A2B"
 msgid "The lieutenant looks at you with that 'I-know-you're-thinking-the-stupid-thing' look -- as you grow tired of clenching your buttocks and give up."
 msgstr ""
+"Poručík se na tebe podívá pohledem \"já-vím-že-přemýšlíš-o-blbosti\" -- zatímco tebe už nebaví svírat hýždě a vzdáváš to."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -539,6 +613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C838"
 msgid "It doesn't crumble in your hand, as one might expect. In fact, it doesn't even bend."
 msgstr ""
+"Příčka se ti pod rukama nerozapdla, napříč očekávání. Dokonce se ani neprohýbá."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -547,6 +622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000999B"
 msgid "One-ninety. I'm a giant."
 msgstr ""
+"Jednadevadesát. Jsem obr."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -555,6 +631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C832"
 msgid "Grab the first rung."
 msgstr ""
+"Uchop první příčku."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -563,6 +640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000099AA"
 msgid "Not to mention that the roof is collapsing and the wind gets pretty brutal up there. Dismounting from the ladder is going to be *hard*. Perhaps if you were to... *not* climb the ladder? Instead..."
 msgstr ""
+"Nehledě na to, že střecha je na spadnutí a vítr je tam nahoře docela brutální. Dostat se ze žebříku bude *těžké*. Možná bys... *neměl* na ten žebřík lézt?"
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -571,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000C812"
 msgid "He is restraining himself from using a parental tone with you right now."
 msgstr ""
+"Právě teď se zdržuje toho, aby na tebe nepoužíval rodičovský tón."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -579,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005FFB"
 msgid "The ladder gleams arrogantly with what remains of its metallic lustre as you hit the barrel and tumble onto the ground."
 msgstr ""
+"Žebrík se arogantně leskne zbytkem svého kovového potahu, zatímco ty dopadáš na sud a valíš se na zem."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -587,6 +667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100002AA5"
 msgid "The distances between the remaining rungs are rather *wide*. You'd have to use the mounting brackets. However, they seem corroded and the peeling rust is razor-sharp."
 msgstr ""
+"Mezery mezi zbývajícími příčkami se zdají být poměrně *široké*. Musel bys využít montážních držáků. Jenže, ty se však zdají být zkorodované a odlupující se rez je ostrá jako břitva."
 
 #. Title = BOARDWALK / LADDER
 #. Description = Savoir Faire White Check to climb up.
@@ -595,3 +676,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000B0C"
 msgid "Do it."
 msgstr ""
+"Provést to."
