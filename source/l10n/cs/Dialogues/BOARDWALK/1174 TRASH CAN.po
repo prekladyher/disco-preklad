@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-24 14:20+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F30"
 msgid "Examine the tare."
 msgstr ""
+"Prohlédni si sběrné lahve."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F46"
 msgid "Examine the kebab wrapper."
 msgstr ""
+"Prohlédni si obal od kebabu."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F75"
 msgid "'Red Astra' is the black market version of 'Astra' cigarettes, known for their high tar content."
 msgstr ""
+"'Červené Astry' jsou verzí cigaret 'Astra' pro černý trh, známé pro svůj vysoký obsah dehtu."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D979"
 msgid "Now, this makes partying look *bad*. Still -- don't let it sway you. *You're* responsible."
 msgstr ""
+"No tak díky tomuhle paření vypadá *špatně*. Přesto -- nenech se tím rozhodit. *Ty* jsi přeci zodpovědný."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F70"
 msgid "No. There's more in there. 'Livis' strawberry liquor, plus some pilsner bottles too. Better not pick them up, they seem unhygienic."
 msgstr ""
+"Ne. Je toho víc. Jahodový likér 'Livis', k tomu pár lahví od ležáku. Raději nesbírat, nevypadají zrovna čistotně."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D970"
 msgid "\"A tragedy...\" The lieutenant looks in the can, eyes watering from the smell."
 msgstr ""
+"\"Tragédie...\" Poručík se dívá do koše, z jehož zápachu mu slzí oči."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C03"
 msgid "It's hard to concentrate in the smell. The sea air brings some relief."
 msgstr ""
+"S tím puchem je těžké se soustředit. Mořský vzduch přináší částečnou úlevu."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D986"
 msgid "He shakes his head with genuine sadness."
 msgstr ""
+"S upřímným smutkem zavrtí hlavou."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F36"
 msgid "Examine the cigarette package."
 msgstr ""
+"Prohlédni si balíček cigaret."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F5B"
 msgid "Two empty bottles of 'Touloula' vodka and a can of black 'Potent Porter' is all you find."
 msgstr ""
+"Dvě prázdné láhve vodky 'Toulula' a plechovka černého piva 'Silný Portýr' je vše, co jsi našel."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F3C"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F55"
 msgid "Whoever tossed it here was a heavy smoker: the brand name reads 'Red Astra'."
 msgstr ""
+"Kdokoli to tam hodil, musel být silný kuřák: značka 'Astra', červené."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D98E"
 msgid "It's no older than a day, or two. No mould yet."
 msgstr ""
+"Není starší než den či dva. Zatím žádná plíseň."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000DC5"
 msgid "There's some tare, an empty cigarette package, and a crumpled kebab wrapper in the trash bin."
 msgstr ""
+"V koši jsou nějaké lahve na sběr, prázdný balíček cigaret a zmačkaný obal od kebabu."
 
 #. Title = BOARDWALK / TRASH CAN
 #. Description = A TRASH CAN OH BOY. Its an interaction.
@@ -108,3 +130,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000F4F"
 msgid "You see traces of mayonnaise and ketchup on it, as well as a tomato wedge. The wrapper reads: 'SHISH KEBAB REVACHOL'."
 msgstr ""
+"Jsou na něm vidět stopy majonézy a kečupu a také plátek rajčat. Na obalu je napsáno: 'KEBABÁRNA REVACHOL'."
