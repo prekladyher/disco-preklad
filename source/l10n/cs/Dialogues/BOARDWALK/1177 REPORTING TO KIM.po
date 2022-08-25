@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-24 16:00+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000120A"
 msgid "\"But if all of this seems too much of a hassle, then there's also the option of reporting back to the station and leaving the case for our colleagues to solve.\""
 msgstr ""
+"\"Ale jestli se to všechno zdá jako moc práce, pak je tady také možnost podat hlášení na stanici a nechat případ k vyřešení našim kolegům.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000117A"
 msgid "\"If we take the case then we have to identify the man and take care of the corpse. I can take the body to the morgue on my own or we can ask for the help of the Hardie boys.\""
 msgstr ""
+"\"Pokud případ vezmeme, museli bychom tělo identifikovat a postarat se o mrtvolu. Mohu tělo do márnice odnést sám anebo můžeme požádat o pomoc hochy od Valchaře.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011A9"
 msgid "\"Alright. The station is going to want details, however. Let's make sure we didn't miss anything before we head back to my Kineema to make the call.\""
 msgstr ""
+"\"Dobrá. Komisařství bude ale potřebovat detaily. Ujistíme se, že jsme nic nevynechali, než se vrátíme k mému Kineema, abychom zavolali.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500001159"
 msgid "\"Are you serious?\" The lieutenant's face changes immediately, taking on a more sombre expression."
 msgstr ""
+"\"To myslíte vážně?\" Poručíkova tvář se okamžitě mění ve více zasmušilý výraz."
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011F8"
 msgid "\"Great, we should call the library -- maybe it can provide us with a lead. That is, if we decide to take the case.\""
 msgstr ""
+"\"Skvěle, měli bychom zavolat do té knihovny -- možná nám poskytnou vodítko. Pokud se tedy rozhodneme ten případ vzít.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000087E"
 msgid "\"Maybe, but we don't really have that much time or resources to spare. Still, if you want to go ahead -- be my guest.\""
 msgstr ""
+"\"Možná, ale opravdu nemáme tolik času ani zdrojů nazbyt. Přesto, jestli v tom chcete pokračovat -- poslužte si.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000866"
 msgid "\"Hold on -- what about field autopsy?\""
 msgstr ""
+"\"Počkat -- a co pitva v terénu?\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000088C"
 msgid "\"Good call.\""
 msgstr ""
+"\"Vhodný verdikt.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000118F"
 msgid "\"Let's leave this case for the station, I don't want to spend any time on it.\""
 msgstr ""
+"\"Nechme ten případ stanici, nechci nad tím trávit čas.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011F3"
 msgid "The lieutenant nods to himself, thinking. \"From where I stand I can see two options. We either take the case or report back to the station and leave it for our colleagues to handle.\""
 msgstr ""
+"Poručík přikyvuje a přemýšlí. \"Z mého pohledu máme dvě možnosti. Buďto případ vezmeme nebo jej nahlásíme zpět na stanici a necháme to na našich kolezích.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000097000001C3"
 msgid "\"I want us to solve the case completely on our own.\""
 msgstr ""
+"\"Chci, abychom ten případ vyřešili naprosto sami.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011D7"
 msgid "\"How long has he been dead? Did you *identify* him, search through his pockets? Is he still there?\""
 msgstr ""
+"\"Jak dlouho je po smrti? Zvládnul jste ho *identifikovat*, prohledat mu kapsy? Zůstal tam?\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000878"
 msgid "\"You're right, I don't see anything criminal here. Let's leave it at that.\""
 msgstr ""
+"\"Pravdu díš, nevidím tady nic zločinného. Nechme to tak.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500001203"
 msgid "\"Taking the case would mean that we need to identify the man and take care of the corpse. I can take the body to the morgue on my own or we could ask for the help of the Hardie boys.\""
 msgstr ""
+"\"Pokud případ vezmeme, museli bychom tělo identifikovat a postarat se o mrtvolu. Mohu tělo do márnice odnést sám anebo můžeme požádat o pomoc hochy od Valchaře.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000092000012F4"
 msgid "\"Let's make sure we didn't miss anything -- especially any identifying information -- before we go.\""
 msgstr ""
+"\"Pojďme se ujisti, jestli nám něco neuteklo -- obvzláště nějaké informace k identifikaci -- než půjdeme.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011DE"
 msgid "\"Whoah, easy now... I haven't done anything yet, I wanted to tell you first.\""
 msgstr ""
+"\"Panečku, v klidu.. Ještě jsem nic neprovedl, nejdřív jsem se chtěl ohlásit.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000860"
 msgid "\"Field autopsy isn't necessary if the cause of death doesn't appear to be criminal -- and this looks like a simple accident to me.\""
 msgstr ""
+"\"Polní pitva není zapotřebí, pokud se příčina smrti nezdá být zločinné povahy -- a tohle mi přijde jako prostá nehoda.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000086C"
 msgid "\"I'd say we should just write down 'head trauma' in the autopsy report and leave it at that. It would save us at least two hours of unnecessary work.\""
 msgstr ""
+"\"Řekl bych, že stačí do pitevní zprávy uvést 'poranění hlavy' jako příčinu smrti a nechat to tak. Ušetřilo by nám to nejméně dvě hodiny zbytečné práce.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000006C1"
 msgid "\"We should also give the Jamrock Library a call, see if we can learn anything about this Billie Méjean.\""
 msgstr ""
+"\"Měli bychom také zavolat do Šprajclovské Knihovny a zjistit, jestli se od nich něco nedozvíme o tom Billie Méjaenovi.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011EA"
 msgid "\"I found a library card from his pockets, issued to someone named Billie Méjean by the Jamrock Public Library. The body is still there.\""
 msgstr ""
+"\"Našel jsem v jeho kapse kartičku do knihovny, vystavená Šprajclovskou Veřejnou Knihovnou někomu se jménem Billie Méjean. Tělo tam pořád leží.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000097000001C9"
 msgid "\"Alright. We're still going to have to call the station to let them know we're taking on an additional case, and so they can take away the body.\""
 msgstr ""
+"\"Dobrá. Stejně musíme zavolat na stanici, abychom jim oznámili, že přijímáme další případ, a aby mohli odvést tělo.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011E3"
 msgid "\"I found a library card from his pockets, but I haven't examined it yet. The body is still there.\""
 msgstr ""
+"\"Našel jsem v jeho kapse kartičku do knihovny, ale ještě jsem ji neprozkoumal. Tělo tam pořád je.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -164,3 +194,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000872"
 msgid "\"Yes, but... isn't that kind of sloppy?\""
 msgstr ""
+"\"Ano, ale... není to tak trochu lajdácké?\""
