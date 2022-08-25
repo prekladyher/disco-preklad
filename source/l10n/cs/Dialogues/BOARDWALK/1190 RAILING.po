@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-24 17:04+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000BF0"
 msgid "A poet could write a dozen verses and still not begin to capture the profound vexation in that sigh."
 msgstr ""
+"Básnik by mohl napsat tucet veršů a přesto by ani troškou nevystihnu jak hluboké roztrpčení, v tom vzdechu se skrývajíce."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002239"
 msgid "\"It could have been multiple seagulls.\""
 msgstr ""
+"\"Mohlo to být vícero racků..\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000222D"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000224C"
 msgid "\"Me neither.\""
 msgstr ""
+"\"Já také ne.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000021AA"
 msgid "It seems likely that it was left in the surf until someone laid it out on this fence to dry out. Unfortunately that just seems to have stiffened it into a shapeless mass."
 msgstr ""
+"Zdá se to pravděpodobné, že byla ponechána v příboji, dokud ji někdo nedal vysušit na tenhle plot. Naneštěstí se zdá, že díky tomu jen vytuhla do jakési beztvaré hmoty."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000220E"
 msgid "\"It might be a clue.\""
 msgstr ""
+"\"Možná je to vodítko.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002226"
 msgid "\"A clue? You think our suspect is a seagull who's been defecating on unsuspecting jackets?\""
 msgstr ""
+"\"Vodítko? Myslíš, že náš podezřelý je racek, který kálí na nic netušící bundy?\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002195"
 msgid "Take a closer look."
 msgstr ""
+"Podívej se zblízka."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000020E7"
 msgid "Someone has left an unidentifiable article of clothing on this railing. It smells really bad."
 msgstr ""
+"\"Někdo na zábradlí nechal neidentifikovatelný kus oblečení. Strašně to zapáchá.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001BA4"
 msgid "Touch it."
 msgstr ""
+"Dotkni se ho."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017F09"
 msgid "You should still take it."
 msgstr ""
+"Stejně by sis ji měl vzít."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002101"
 msgid "Maybe later. [Leave.]"
 msgstr ""
+"Možná později. [Odejdi.]"
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000021CB"
 msgid "\"Why not?\""
 msgstr ""
+"\"Proč ne?\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002233"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002253"
 msgid "The cloth, if you can still call it that, makes a soft crunching sound as you thrust your finger into it."
 msgstr ""
+"Ten kus oděvu, pokud se tomu tak vůbec dá říkat, při tvém dotyku vydává jemný křupavý zvuk."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017EF9"
 msgid "You should still take it. It's probably Doom Spiral's."
 msgstr ""
+"Stejně by sis ji měl vzít. Pravděpodobně patří Spirále Zkázy."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002214"
 msgid "\"I think this is the jacket the Idiot Doom Spiral Guy wanted me to find.\""
 msgstr ""
+"\"Myslím, že tohle je ta bunda, kterou Idiotská Spirála Zkázy chtěla, abych našel.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000021C4"
 msgid "\"Please tell me you're not taking that with you.\""
 msgstr ""
+"\"Prosím Vás, řekněte mi, že si *to* s sebou nehodláte brát.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002242"
 msgid "The lieutenant sighs."
 msgstr ""
+"Poručík si povzdechne."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000011FD"
 msgid "Much as the thought of touching it causes you to cringe, this could be the jacket that the idiot in the colourful tracksuit was looking for..."
 msgstr ""
+"I když ti jen představa, že by ses jí měl dotknout, křiví obličej, tohle by mohla být ta bunda, kterou hledal ten idiot v barevné teplákové soupravě."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000221E"
 msgid "The lieutenant looks at the stinking rag and sniffs. \"I'm sure he'll be *thrilled* to have it returned.\""
 msgstr ""
+"Poručík se podívá na zapáchající cár látky a čichne si. \"Jsem si jist, že bude *nadšený* až mu ho vrátíme.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000219C"
 msgid "It's streaked with dried seagull shit and tangled with pieces of seaweed. A dangling arm suggests that there might be a jacket beneath the crust of filth."
 msgstr ""
+"Poseté sušeným racčím hovnem a propletené kousky mořských řas. Plandající rukáv naznačuje, že pod krustou špíny by se mohla schovávat bunda."
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000021EF"
 msgid "\"It's a guano-encrusted jacket. And you're already carrying around enough as it is.\""
 msgstr ""
+"\"Je to bunda posetá ptačím trusem. A už tak toho s sebou nosíte dost.\""
 
 #. Title = BOARDWALK / RAILING
 #. Description = You've discovered Idiot Doom Spiral's missing jacket.
@@ -171,3 +202,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001B90"
 msgid "This jacket reeks of loss and failure. It could be the one that the idiot in the colourful tracksuit was looking for..."
 msgstr ""
+"Z té bundy táhne závan ztráty a selhání. Mohla by to být ta, kterou hledal ten idiot v barevné teplákové soupravě..."
