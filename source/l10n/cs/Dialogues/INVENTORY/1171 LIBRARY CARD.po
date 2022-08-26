@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-08-26 22:40+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000AD3"
 msgid "The library card is folded into two and still slightly wet to the touch. The front side reads: \"Central Jamrock Public Library Card. Issued to Billie Méjean, expires July '53.\""
 msgstr ""
+"Čtenářský průkaz je přeložený na dvě části a na dotek je stále mírně vlhký. Na přední straně je napsáno: \"Průkazka veřejné knihovny v Středním Šprajclu. Čtenář/ka Míla Méjean, platnost do července 53.\""
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000D8C"
 msgid "Something tells you you should give them a call."
 msgstr ""
+"Něco ti říká, že bys jim měl zavolat."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000CA3"
 msgid "You put the library card away."
 msgstr ""
+"Odložíš průkazku do knihovny."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000006EA"
 msgid "\"We should first decide what to do with the body, before taking any other actions. Let's take another look at the body and talk things through.\""
 msgstr ""
+"\"Nejdříve bychom měli rozhodnout, co s tělem uděláme, a teprve potom podnikat další kroky. Ještě jednou se na tělo podíváme a promluvíme si o tom.\""
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000AF1"
 msgid "[Put it away.]"
 msgstr ""
+"[Odlož ho.]"
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DAA0"
 msgid "Billie is a unisex name. Could be the deceased *or* his family member?"
 msgstr ""
+"Míla je jméno pro oba pohlaví. Mohl by to být zemřelý *nebo* jeho rodinný příslušník?"
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000AE9"
 msgid "Look at the backside."
 msgstr ""
+"Podívej se na zadní stranu."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B00"
 msgid "Whoever owns this card is an avid reader: you find a list of books written in blue pencil: 'Radiothriller', 'Stand a Little Less Between Me and the Sun'. The last one in the list is 'The Glinting Curve', by M. Thibault. A library stamp indicates that the book has been returned."
 msgstr ""
+"Ať už tuto kartu vlastní kdokoli, je to vášnivý čtenář: vidíš na ní seznam knih psaný modrou tužkou: \"Rádiothriller\", \"Stůjte trochu méně mezi mnou a sluncem\". Poslední v seznamu je \"Třpytivá křivka\" od M. Thibaulta. Razítko knihovny ukazuje, že kniha byla vrácena."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000006F0"
 msgid "You should first decide what to do with the corpse, before taking any further actions. Talk to the lieutenant about it."
 msgstr ""
+"Než začneš podnikat další kroky, měl bys se nejprve rozhodnout, co s mrtvolou uděláte. Promluvte si o tom s poručíkem."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000C99"
 msgid "\"Good, we've examined the library card -- that should be enough for our colleagues. Now we can call the station from my Kineema and hand over the case.\""
 msgstr ""
+"\"Dobře, prověřili jsme průkazku do knihovny - to by našim kolegům mělo stačit. Teď můžeme zavolat na stanici z mé Kineemy a předat případ.\""
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000AF9"
 msgid "\"If lost, please return the card to the library. Dial 005-02-55-211 or visit us at Meroe Street 78, Jamrock. Business hours: 09.00 to 18.00.\""
 msgstr ""
+"\"Pokud jste průkaz nalezli, vraťte ho prosím do knihovny. Volejte 005-02-55-211 nebo nás navštivte na adrese Meroe 78, Šprajcl. Provozní doba: od 9.00 do 18.00 hod.\""
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DA98"
 msgid "Good idea. There was plenty of information here to go by."
 msgstr ""
+"Dobrý nápad. Bylo tu dost informací, po kterých se dá jít."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B1F"
 msgid "\"Good.\" He takes a note. \"We should give them a call from my Kineema, see if we can learn anything about Billie Méjean.\""
 msgstr ""
+"\"Dobře.\" Udělá si poznámku. \"Měli bychom jim zavolat z mé Kineemy, jestli se nedozvíme, kdo je Míla Méjean.\""
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000B08"
 msgid "Most of these titles seem to be in the sci-fi genre. Some thrillers too."
 msgstr ""
+"Zdá se, že většina těch titulů patří do žánru sci-fi. Několik thrillerů."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000006D6"
 msgid "\"We already decided to let the station handle this case, so there's no need for us to call the library.\""
 msgstr ""
+"\"Už jsme se rozhodli, že tenhle případ necháme na stanici, takže není třeba volat do knihovny.\""
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000006DC"
 msgid "You already decided to let the station handle the case, so there's no need to call the library."
 msgstr ""
+"Už jsi se rozhodl, že případ necháš vyřídit stanici, takže není třeba volat do knihovny."
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -122,3 +146,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500000AE3"
 msgid "Look inside."
 msgstr ""
+"Podívej se dovnitř."
