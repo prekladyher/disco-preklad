@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-08-26 21:52+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000031FF"
 msgid "The lieutenant looks at you as you remove the tape from the boombox. He doesn't say anything."
 msgstr ""
+"Poručík se na tebe podívá, když vyndáváš cívku z magneťáku. Nic neříká."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023815"
 msgid "Keep the porta-reel at the harmless distance and wait."
 msgstr ""
+"Drž magnetofon ve zdraví bezpečné vzdálenosti a vyčkej."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023865"
 msgid "Scratch that, I'm already crying. And I look dumb. And old."
 msgstr ""
+"Zapomenem na to, už teď brečím. A vypadám hloupě. A staře."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000237EF"
 msgid "You press the large button marked *Commencer* and the tape starts spinning. There's a small delay before the song starts playing..."
 msgstr ""
+"Stiskneš velké tlačítko označené *Spusť* a páska se začne otáčet. Než se skladba začne přehrávat, nastane malá prodleva..."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000023A5"
 msgid "Press play on tape."
 msgstr ""
+"Stiskni tlačítko přehrávání."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023852"
 msgid "Crying is good, it gives your performance authenticity. Besides, you already know the lyrics since you've listened to it, like, a million times!"
 msgstr ""
+"Pláč je dobrý, dodá tvému vystoupení autentičnost. Kromě toho už znáš text, protože jsi ho poslouchal snad milionkrát!"
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000990C"
 msgid "A click -- then silence, for a bit. Then the tape stops spinning."
 msgstr ""
+"Cvaknutí - a pak chvíli ticho. Pak se páska přestane točit."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023886"
 msgid "Nothing can stop me now."
 msgstr ""
+"Teď už mě nic nezastaví."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000031D4"
 msgid "The porta-reel is just what you needed -- the reels attach to the apparatus with a satisfying click. The tape is routed behind the magnetic reader."
 msgstr ""
+"Přenosný magnetofon je přesně to, co jsi potřeboval - cívky se k přístroji připojují s uspokojivým cvaknutím. Páska je vedena za magnetickou hlavou."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023827"
 msgid "Telling you about the tiniest church in Saint-Saëns, surrounded by even tinier yard. You almost feel the seaside mist on your skin. It's *mega* sad."
 msgstr ""
+"Vyprávi ti o malininkém kostelíku v Saint-Saëns, obklopeném ještě mrňavějším nádvoříčkem. Na kůži téměř cítíš přímořskou mlhu. Je to *mega* smutné."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023842"
 msgid "Could I sing this for karaoke? I think I could sing this."
 msgstr ""
+"Mohl bych to zazpívat na karaoke? Myslím, že bych to mohl zazpívat."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016C0B"
 msgid "Yup. They're all here. All three verses."
 msgstr ""
+"Jo. Jsou tady všechny. Všechny tři verše."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000031DF"
 msgid "Remove the tape."
 msgstr ""
+"Vyndej pásku."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016BDA"
 msgid "A pawnshop -- a pawnshop would have a tape player..."
 msgstr ""
+"Zastavárna - v zastavárně by měl být magnetofon..."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570002380F"
 msgid "Press your ear against the speaker."
 msgstr ""
+"Přitiskni ucho k reproduktoru."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570002388D"
 msgid "Garte. You have to convince Garte to let you sing karaoke in the Whirling. After you've won him over, you can *express* yourself. Let the pain out. Make everyone understand."
 msgstr ""
+"Gart. Musíš Garta přesvědčit, aby tě nechal zazpívat karaoke ve Cárech. Až si ho získáš, můžeš se *vyjádřit*. Dát průchod bolesti. Ať to všichni pochopí."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023820"
 msgid "Then the organ starts playing a simple melancholic tune, echoing in the hallway. A lone singing voice joins in..."
 msgstr ""
+"Pak začnou varhany hrát jednoduchou melancholickou melodii, která se rozléhá halou. Přidá se osamělý zpěv..."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023848"
 msgid "No, I couldn't! It's too sad, I might cry and trash the room again."
 msgstr ""
+"Ne, nemohl! Je to příliš smutné, mohl bych se rozplakat a znovu zničit pokoj."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000031EA"
 msgid "Immediately the boombox tunes itself back to the Friday night beats, vibrating on your shoulder."
 msgstr ""
+"Vzápětí se magneťák znovu naladí na Rytmy páteční noci a zavibruje ti na rameni."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002392"
 msgid "There's no way to listen to the tape without a working tape player or porta-reel at hand."
 msgstr ""
+"Bez funkčního přehrávače není možné tu pásku poslouchat."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016BF3"
 msgid "Nothing to do with this right now."
 msgstr ""
+"S tímhle teď nemůžeš nic dělat."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000239F"
 msgid "The porta-reel is just what you needed -- the reels attach to the apparatus with a satisfying click. The tape is routed behind the magnetic reader."
 msgstr ""
+"Přenosný magnetofon je přesně to, co jsi potřeboval - cívky se k přístroji připojují s uspokojivým cvaknutím. Páska je vedena za magnetickou hlavou."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023802"
 msgid "But even just holding the tape makes you feel a little sad..."
 msgstr ""
+"Ale už jen z toho, že držíš tu pásku, je ti trochu smutno..."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023858"
 msgid "Of course you could sing this! You could take sad to a whole new level with this. And you already know the lyrics since you've listened to it, like, a million times!"
 msgstr ""
+"Samozřejmě, že bys to mohl zazpívat! S tímhle bys mohl posunout srdceryvnost na úplně novou úroveň. A text už znáš, protože jsi ho poslouchal snad milionkrát!"
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570002385E"
 msgid "Within seconds you know -- this is the one. The *real shit* you've been looking for. The one you trashed your room to. This one tells it like it is. This is your tune."
 msgstr ""
+"Během několika vteřin víš, že tohle je to pravé. Ta *pravá sračka*, co jsi hledal. To, kvůli čemu jsi zdemoloval svůj pokoj. Tohle to říká tak, jak to je. Tohle je tvoje píseň."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000570002385E"
 msgid "Within seconds you know -- this is the one. The *real shit* you've been looking for. The one you trashed your room to that Klaasje told you about. Perform it!"
 msgstr ""
+"Během několika vteřin víš, že tohle je to pravé. Ta *pravá sračka*, co jsi hledal. To, kvůli čemu jsi zdemoloval svůj pokoj, jak ti řekla Klaasje. Zazpívej ji!"
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023877"
 msgid "*And* the B-side of the tape contains the instrumental version. It's like the world itself is telling you to do it. Only one obstacle stands on your way..."
 msgstr ""
+"*A* strana B pásky obsahuje instrumentální verzi. Jako by ti sám svět říkal, zazpívej to. V cestě ti stojí jen jedna překážka..."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016C1F"
 msgid "The lieutenant watches you pack up the boombox. He doesn't say anything."
 msgstr ""
+"Poručík se dívá, jak balíš magnetofon. Nic neříká."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570002380A"
 msgid "It sounds like someone's moving in the room, getting comfortable. Then the organ starts playing a simple melancholic tune, echoing in the hallway. A lone singing voice joins in..."
 msgstr ""
+"Zní to, jako by se v místnosti někdo pohyboval a dělal si pohodlí. Pak začnou varhany hrát jednoduchou melancholickou melodii, která se rozléhá na sálem. Přidá se osamělý zpívající hlas..."
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023880"
 msgid "What?"
 msgstr ""
+"Jaká?"
 
 #. Title = INVENTORY / SMALLEST CHURCH TAPE
 #. Description = tape interactable in inventory; smallest church in saint-saens with all the dialogue necessary. item pickup in world.
@@ -220,3 +258,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000023AB"
 msgid "Not now. [Put the tape away.]"
 msgstr ""
+"Teď ne. [Odlož pásku.]"
