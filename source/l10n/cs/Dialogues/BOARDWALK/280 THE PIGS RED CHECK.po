@@ -1,12 +1,20 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-26 16:09+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Interfacing
 #. Conversant = You
@@ -16,147 +24,161 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000144CD"
 msgid "Fire off a shot over her head and use the moment of confusion to close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Vystřel jí nad hlavu a využij chvíle zmatení, aby ses k ní dostal.  Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014526"
 msgid "\"Huh?\" The lieutenant studies the swaying firearm. \"My god, I think you're right.\""
 msgstr ""
+"\"Hmm?\" Poručík zkoumavě prohlíží pohupující se střelnou zbraň. \"Můj bože, asi máš pravdu.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000148A8"
 msgid "\"CONFINED QUARTERS, ASSAILANT COMING AT ME! SPLIT-SECOND DECISION, FIRE AT WILL!\""
 msgstr ""
+"\"STÍSNĚNÉ PODMÍNKY, ÚTOČNÍK SE KE MNĚ ŘÍTÍ! ROZHODNUTÍ VE ZLOMKU VTEŘINY, PALTE DLE LIBOSTI!\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000149C2"
 msgid "No... no-no-no-no. THEY'RE REALLY NOT. The gun wasn't even loaded. No shots fired. You're fine."
 msgstr ""
+"Ne... ne-ne-ne-ne. TO FAKT NEJSOU. Ta pistole ani nebyla nabitá. Žádné výstřely nepadly. Jsi v pořádku."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x01000007000149E1"
 msgid "\"You tried to kill me!!!\""
 msgstr ""
+"\"Pokusila jste se mě zabít!!!\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DC1"
 msgid "\"Looks like a bad case.\" He gives the woman a compassionate look. \"But the question is what to do with her right now.\""
 msgstr ""
+"\"Vypadá to na těžký případ.\" Soucitně se na ženu podívá. \"Ale otázkou je, co s ní teď udělat.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014E29"
 msgid "\"What...?\" The woman looks at the weapon in disbelief, her eyes suddenly reddish with tears. She looks straight down the barrel... and squeezes the trigger."
 msgstr ""
+"\"Co...?\" Žena se nevěřícně podívá na zbraň a oči jí náhle zarudnou pláčem. Podívá se přímo do hlavně... a stiskne spoušť."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Half Light
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001487F"
 msgid "Like when he had the hanged man in his sights? You're a dead man."
 msgstr ""
+"Jako když měl na mušce toho oběšence? Seš mrtvola Harry."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000148EA"
 msgid "\"Wh... what is this?\" The old woman looks at the treacherous weapon. \"This isn't police issue. Police weapons have bullets. This isn't real!\""
 msgstr ""
+"\"Co... co je tohle?\" Stařena se zadívá na tu zrádnou pistoli. \"Tahle není policejní. Policejní zbraně mají náboje. Tahle není skutečná!\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Half Light
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014906"
 msgid "OH MY GOD!!!!"
 msgstr ""
+"PROBOHA!!!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014A1C"
 msgid "(Pick up your gun.)"
 msgstr ""
+"(Zvedni svoji zbraň.)"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014AA8"
 msgid "\"Why would they cheat me like this?! I don't have *ANYONE*!\" She slams her heavy boot in the ground. The impact travelling through the planks, sends your gun through the crack, into the black nothingness below."
 msgstr ""
+"\"Proč mě takhle šidí?! Vždyť NIKOHO nemám!\" Dupne těžkou botou do země. Náraz procestuje prkny a škvírou odešle zbraň do černé nicoty pod sebou."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014D98"
 msgid "Nod. \"Neurodegenerative disease.\""
 msgstr ""
+"Přikývni. \"Neurodegenerativní onemocnění.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Logic
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DDB"
 msgid "She's in a stupor. There's no telling when she'll snap out of it. If ever."
 msgstr ""
+"Je v transu. Nedá se říct, kdy se z toho probere. Jestli vůbec."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Authority
 #. Conversant = You
@@ -166,67 +188,73 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700013D65"
 msgid "She's frantic, confused, teetering under all that gear... There's an opening, if you just move fast enough."
 msgstr ""
+"Je zběsilá, zmatená, zmítá se pod vším tím vybavením... Je tu příležitost, stačí se jen včas pohnout."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014513"
 msgid "\"You're right,\" the lieutenant agrees. \"Let's call her out on this.\""
 msgstr ""
+"\"Máte pravdu,\" souhlasí poručík. \"Vyhlásíme ji s tím.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014541"
 msgid "Hold on, why does that make me nauseous?"
 msgstr ""
+"Počkat, proč se mi z toho dělá na zvracení?"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Conceptualization
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D2A"
 msgid "*This* limbed and headed machine of pain and undignified suffering is grinding to a halt. Tired of walking the desert, it doesn't want to feel or think anymore."
 msgstr ""
+"*Tenhle* stroj bolesti a nepřístojného utrpení s končetinami a hlavou se pomalu začíná zastavovat. Unavený chůzí pustinou už nechce cítit ani myslet."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D44"
 msgid "Her scratched skin is warm to the touch, but the person inside doesn't even know you're there."
 msgstr ""
+"Její rozškrábaná kůže je na dotek teplá, ale osoba uvnitř ani neví, že tu jsi."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DF5"
 msgid "\"Nobody's ever around,\" the old woman mumbles, staring blank at the boardwalk, \"nobody ever comes to visit me.\""
 msgstr ""
+"\"Nikdy tu nikdo není,\" zamumlá stařena a upřeně hledí na prkna, \"nikdo mě nikdy nepřijde navštívit.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -236,7 +264,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -246,37 +274,40 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Inland Empire
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014446"
 msgid "No. A strange feeling fills your gut and suddenly you *know* the gun is empty. Thinking about it makes you nauseous."
 msgstr ""
+"Ne. Zvláštní pocit ti zaplní útroby a najednou víš, že zbraň je prázdná. Při pomyšlení na to se ti udělá nevolno."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x010000070001484B"
 msgid "No, I know myself. I know I'm gonna fail."
 msgstr ""
+"Ne, znám se. Vím, že to podělám."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Esprit de Corps
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014E17"
 msgid "Kim Kitsuragi is a nice guy. Wish he was here right now."
 msgstr ""
+"Kim Kitsuragi je fajn chlapík. Kéž by tu teď byl."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -286,7 +317,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Esprit de Corps
 #. Conversant = You
@@ -296,107 +327,117 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000060001D893"
 msgid "A click. Nothing happens. She looks at the useless weapon. \"This isn't police issue. Police weapons have bullets. This isn't real! What is this?\""
 msgstr ""
+"Cvaknutí. A nic. Zadívá se na neužitečný kus železa. \"Tahle není policejní. Policejní zbraně mají náboje. Tahle není pravá! Co je to?\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014391"
 msgid "Alright, this is how we do it: You hurl the tare bag in her face -- already darting right -- and *immediately* close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Dobrá, provedeme to takhle: Mrskneš jí tašku s lahvema do ksichtu - ve stejnou chvíli střemhlav do prava - a *hned* na to se k ní přiblížíš. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143FB"
 msgid "Alright, here's how we do it: As soon as that gun isn't pointed at you again, you dash right, then immediately close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Dobrá, provedeme to takhle: Jakmile na tebe přestane ukazovat tou hlavní, vrhneš se střemhlav doprava a *hned* na to se k ní přiblížíš. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Inland Empire
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014434"
 msgid "No. An ominous feeling fills your gut and suddenly you *know* the gun is empty. Thinking about it makes you nauseous."
 msgstr ""
+"Ne. Zlověstný pocit ti zaplní útroby a najednou víš, že zbraň je prázdná. Při pomyšlení na to se ti udělá nevolno."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Logic
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001449F"
 msgid "NO! Remember, 'Get the gun, it's okay. It's safe'? It must have meant the gun is not loaded. She's holding an empty gun."
 msgstr ""
+"NE! Vzpomínáš na, 'Dojděte pro tu zbraň, je to v pořádku, je to bezpečné'? Určitě tím myslel, že zbraň není nabitá. Míří na nás prázdnou pistolí."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x01000007000144FA"
 msgid "\"Go ahead, pull the trigger. I dare you.\""
 msgstr ""
+"\"Jen do toho, zmáčkněte to. To je výzva.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Inland Empire
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001455C"
 msgid "'Paint the wall with your brains' dark."
 msgstr ""
+"'Vymaluju tady svym mozkem' temného."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014851"
 msgid "\"No gun is worth this risk...\" (Slowly back away.)"
 msgstr ""
+"\"Žádná pistole nestojí za takové riziko...\" (Pomalu couvej.)"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Esprit de Corps
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014959"
 msgid "I was 80% sure the gun is empty and *still* the instinct almost took over."
 msgstr ""
+"Byl jsem si na 80 % jistý, že je zbraň prázdná, a *přesto* mě téměř přemohl instinkt."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x01000007000149F3"
 msgid "\"Should we just arrest her?\" (Proceed.)"
 msgstr ""
+"\"Měli bychom ji prostě zatknout?\" (Pokračuj.)"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -406,7 +447,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Authority
 #. Conversant = You
@@ -416,67 +457,73 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x01000007000144F4"
 msgid "(Whisper.) \"Kim, I'm almost certain there are no bullets in that gun.\""
 msgstr ""
+"(Šeptej.) \"Kime, jsem si téměř jistý, že v té pistoli nemá náboje.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014966"
 msgid "\"God...\" the lieutenant exhales loudly and uses his off-hand to wipe his forehead. \"I almost blew her head off...\""
 msgstr ""
+"\"Bože...\" poručík hlasitě vydechne a rukou si otírá čelo. \"Málem jsem jí ustřelil hlavu...\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001496D"
 msgid "\"Phew...\" The lieutenant exhales sharply. \"For a moment there...\""
 msgstr ""
+"\"Uff...\" Poručík prudce vydechne. \"Na malou chvíli..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000149D3"
 msgid "The gun lands on the wooden planks and tears run down her scratched cheeks. \"Police guns always have bullets... What is this? Why did you sell me this?\""
 msgstr ""
+"Zbraň přistane na dřevěných prknech a po jejích rozškrábaných tvářích stékají slzy. \"Policejní zbraně mají vždycky náboje... Co to má být? Proč jsi mi to prodal?\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014D6F"
 msgid "\"You're not alone. We're all here.\""
 msgstr ""
+"\"Nejste sama. Jsme tu my všichni.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DCA"
 msgid "\"There's a bit more to this than that,\" the lieutenant disagrees. \"But right now we need to decide what to do with her.\""
 msgstr ""
+"\"Je v tom něco víc,\" nesouhlasí poručík. \"Ale teď se musíme rozhodnout, co s ní uděláme.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -486,7 +533,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Conceptualization
 #. Conversant = You
@@ -496,7 +543,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Interfacing
 #. Conversant = You
@@ -506,57 +553,62 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Half Light
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000144E3"
 msgid "A madwoman is pointing a gun at a cop and you're thinking about warning shots?! Fuck the protocol! Shoot to kill."
 msgstr ""
+"Bláznivá ženská míří na poldu pistolí a ty uvažuješ o varovných výstřelech?! Mrdat protokol! Odpráskni ji."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014A5C"
 msgid "\"I'm done with this gun.\" (Leave it behind forever.)"
 msgstr ""
+"\"S touhle zbraní jsem skončil.\" (Nech ji tu, navždy.)"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D07"
 msgid "\"Poor woman...\" The lieutenant holsters his pistol.  \"We need to figure out what to do with her now.\""
 msgstr ""
+"\"Ubohá paní...\" Poručík schová pistoli do pouzdra.  \"Musíme vymyslet, co s ní teď uděláme.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014DAD"
 msgid "\"I guess we'll never know.\""
 msgstr ""
+"\"To se asi nikdy nedozvíme.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Empathy
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DE7"
 msgid "He's trying not to think about how bad it could have been had the gun been loaded."
 msgstr ""
+"Snaží se nemyslet na to, jak špatně to mohlo dopadnout, kdyby byla ta zbraň nabitá."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -566,7 +618,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -576,7 +628,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Authority
 #. Conversant = You
@@ -586,7 +638,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Rhetoric
 #. Conversant = You
@@ -596,77 +648,84 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Inland Empire
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000060001D8A4"
 msgid "In there she is alone, trapped in a world of blue and red lights."
 msgstr ""
+"Uvnitř je sama, uvězněná ve světě modrých a červených světel."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Logic
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000060001D8AC"
 msgid "Her children and their children, if there were any, stopped coming when it got really bad."
 msgstr ""
+"Její děti a děti jejích dětí, pokud nějaké byly, přestaly chodit, když to začalo být opravdu zlé."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Physical Instrument
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001452E"
 msgid "Yeah, with shit-eyes it must be, binoclard."
 msgstr ""
+"Jo, s očima na hovno asi jo, blbečku čtyřoká."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x01000007000149ED"
 msgid "\"What do you think is happening to her?\""
 msgstr ""
+"\"Co myslíš, že se s ní děje?\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Empathy
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014A12"
 msgid "She looks devastated."
 msgstr ""
+"Vypadá zdrceně."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014D9E"
 msgid "\"Yes. This is what happens when you listen to too many cop shows on the radio.\""
 msgstr ""
+"\"Jo. Takhle to dopadá, když v rádiu posloucháš přespříliš policejních pořadů.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DD3"
 msgid "\"Could be,\" agrees the lieutenant. \"Her hands were trembling and she did seem uncoordinated... But what are we gonna do with her?\""
 msgstr ""
+"\"Může být,\" souhlasí poručík. \"Třásly se jí ruce a vypadala nekoordinovaně... Ale co s ní budeme dělat?\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -676,7 +735,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -686,7 +745,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -696,67 +755,73 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Composure
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014493"
 msgid "No. Wait... Earlier the lieutenant noticed something. Something about the gun... Could it be empty without her knowing it?"
 msgstr ""
+"Ne, počkej... Poručík si předtím něčeho všimnul. Něco ohledně té pistole... Možná je prázdná a ona to netuší?"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014858"
 msgid "She's frantic, confused, teetering under all that gear... There's an opening, if you just move fast enough... If not, the lieutenant's got her on his sights."
 msgstr ""
+"Je zběsilá, zmatená, zmítá se pod vším tím vybavením... Je tu příležitost, stačí se jen včas pohnout... Jestli to nestihneš, poručík ji má na mušce."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000148A1"
 msgid "\"SUICIDE BY COP! SPLIT-SECOND DECISION. EAT LEAD, SCUMBAG!\""
 msgstr ""
+"\"SEBEVRAŽDA POLDOU! ROZHODNUTÍ VE ZLOMKU VTEŘINY. ŽER OLOVO, PARCHANTE!\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Reaction Speed
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001490E"
 msgid "In your peripheral vision the lieutenant releases the half-squeezed trigger."
 msgstr ""
+"Poručík ve tvém periferním vidění uvolňuje napůl stisknutou spoušť."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000149B4"
 msgid "Oh... I see. Okay, the gun was empty. All is good. You're fine."
 msgstr ""
+"Aha... chápu. Ok, pistole byla prázdná. Všechno je v pohodě. Jsi v pořádku."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014ABA"
 msgid "Weapon still trained on The Pigs, the lieutenant swiftly reaches down to snatch up the gun."
 msgstr ""
+"Poručík, stále mířejíc na Vepře, se rychle natáhne a zbraň sebere."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -766,7 +831,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Half Light
 #. Conversant = You
@@ -776,57 +841,62 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000060001D8BC"
 msgid "\"I've had... disturbances similar to this before. Many calls, but... never this bad.\""
 msgstr ""
+"\"Už jsem zažil... podobné potíže. Bylo hodně takových případů, ale... nikdy ne takhle vážných.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143C9"
 msgid "Here's the plan: You jerk left, dash right, close the distance and cut her hand off. Ready?"
 msgstr ""
+"Plán je následující: Trhneš s sebou do leva, sprint doprava, dostaneš se blíž a ufikneš jí ruku. Přípraven?"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143D7"
 msgid "Here's the plan: Shine the light straight in her eye and immediately dart right-- the light will blind her, allowing you to close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Plán je následující: Zasvítíš jí baterkou přímo do očí a okamžitě sprint doprava - světlo ji oslní a ty se budeš moct dostat blíž. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D5F"
 msgid "\"I don't think she actually...\" The lieutenant shakes his head. \"You're right of course. This could've been very bad.\""
 msgstr ""
+"\"Myslím si, že ona vlastně...\" Poručík zavrtí hlavou. \"Máte pravdu, samozřejmě. Mohlo to dopadnout velmi špatně.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D67"
 msgid "The person who did that is no longer there. No one is right now. The empty shell of an old woman is slowly rocking back and forth."
 msgstr ""
+"Ta osoba, co to měla na svědomí, už tam není. Nikdo tam už není. Jen prázdná skořápka stařeny kolébající se ve větru."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -836,7 +906,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -846,7 +916,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -856,7 +926,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -866,27 +936,29 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x010000060001D8B5"
 msgid "\"Understood.\""
 msgstr ""
+"\"Rozumím.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700013D43"
 msgid "Time to get my gun!"
 msgstr ""
+"Čas si dojít pro bouchačku!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -896,7 +968,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -906,7 +978,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -916,7 +988,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -926,7 +998,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -936,57 +1008,62 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Physical Instrument
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014403"
 msgid "...fingers lock behind her head, knee to the face, knee to the face, crush the ribcage, side-step and drop her with the hammer kick."
 msgstr ""
+"...prsty za hlavu, koleno do ksichtu, koleno do ksichtu, rozdrtit hrudní koš, úkrok a sundej ji kladivovým výkopem."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Inland Empire
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014ADA"
 msgid "That gun is a joke compared to the actual greatest thing he lost."
 msgstr ""
+"Ta zbraň je vtip ve srovnání s tím, o co skutečně přišel."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D4C"
 msgid "Okay, you need to figure out what to do with her now."
 msgstr ""
+"Dobře, teď musíš vykoumat, co s ní."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D7B"
 msgid "\"She's in a stupor,\" the lieutenant replies, inspecting the catatonic woman standing in the dark. \"I've seen this before. God knows for how long... Could be days when they get like this.\""
 msgstr ""
+"\"Je v transu,\" odpoví poručík a prohlíží si katatonickou ženu stojící ve tmě. \"Tohle už jsem viděl. Bůh ví, jak dlouho... Může to být i několik dní, když se takhle ocitnou.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014E06"
 msgid "The woman stands in front of you, motionless, unresponsive. Almost like an inanimate object now. A mountain of police paraphernalia."
 msgstr ""
+"Stařena před tebou stojí, nehybná, bez reakce. Téměř jako neživý předmět. Hora policejních rekvizit."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -996,7 +1073,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -1006,7 +1083,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -1016,57 +1093,62 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x010000060001D89A"
 msgid "\"Wait...\""
 msgstr ""
+"\"Počkejte...\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143AB"
 msgid "Alright, this is how we do it: You fling the prybar at her-- already darting right -- and *immediately* close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Dobrá, provedeme to takhle: Mrskneš po ní páčidlem - ve stejnou chvíli střemhlav do prava - a *hned* na to se k ní přiblížíš. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014519"
 msgid "\"I've been thinking that too. But it's impossible to tell for certain in these lighting conditions.\""
 msgstr ""
+"\"Taky jsem si to myslel. Ale v těchto světelných podmínkách se to nedá s jistotou určit.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Physical Instrument
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001488E"
 msgid "Host Almighty, don't count on *that*! You saw the binoclard can't shoot for shit!"
 msgstr ""
+"Všemohoucí Hospodine, s tím bych *fakt* nepočítal! Viděls, jak na hovno ten brejloun střílí!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DEF"
 msgid "But it feels like *you* are, because the old woman standing there is motionless, emotionless and unresponsive. Almost like an inanimate object."
 msgstr ""
+"Ale přijde ti, jako bys opravdu byl *sám*, protože ta babka, která tam stojí, se vůbec nehýbe. Bez emocí, bez odezvy. Téměř jako socha."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -1076,7 +1158,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Empathy
 #. Conversant = You
@@ -1086,7 +1168,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Physical Instrument
 #. Conversant = You
@@ -1096,27 +1178,29 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143B9"
 msgid "Here's the plan: Drop the multitool and immediately dart right -- the noise will startle her, allowing you to close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Plán je následující: Zahoď ten Kvalsund a střelhbitě do prava - lekne se rámusu a ty se budeš moct přiblížit. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Interfacing
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014A0B"
 msgid "Grab the gun! Right now! This might be your *ONLY* chance."
 msgstr ""
+"Popadni tu bouchačku! Hned! Tohle může být tvoje *JEDINÁ* šance."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -1126,7 +1210,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -1136,47 +1220,51 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Half Light
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001440E"
 msgid "OH MY GOD, YES!!!!"
 msgstr ""
+"Ó MŮJ BOŽE, ANO!!!!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Inland Empire
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014548"
 msgid "That knowledge comes from a very dark place."
 msgstr ""
+"To poznání pramení z velmi temného místa."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014DB4"
 msgid "\"Probably not,\" the lieutenant agrees. \"But more pressing is the question of what to do with her right now?\""
 msgstr ""
+"\"Pravděpodobně ne,\" souhlasí poručík. \"Ale naléhavější je otázka, co s ní teď udělat?\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D90"
 msgid "\"Honestly, I don't know. Dementia, probably,\" he lowers his voice. \"Dementia and Channel 8. And loneliness.\""
 msgstr ""
+"\"Upřímně řečeno, netuším. Nejspíš demence,\" ztiší hlas. \"Demence a Kanál 8. A osamění.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -1186,7 +1274,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -1196,7 +1284,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -1206,7 +1294,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
@@ -1216,7 +1304,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -1226,57 +1314,62 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Shivers
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014482"
 msgid "A drop of sweat runs down your nose and in it you see the Martinaise inlet, wrapped in the night. In the abandoned fish market two figures face each other in a spectacular light-show. One of them is forced to stare into the three empty barrels of a gun. Not an uncommon sight in the neighbourhood."
 msgstr ""
+"Po nose ti stéká kapka potu a v ní se zračí do noci zahalený přítok Martinézy. Na opuštěném rybím trhu proti sobě stojí dvě postavy v působivé světelné podívané. Jedna z nich je nucena hledět do tří prázdných hlavní pistole. V této čtvrti to není neobvyklý pohled."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014506"
 msgid "\"My god, it's not loaded... The gun isn't loaded!\""
 msgstr ""
+"\"Můj bože, není nabitá... Ta pistole není nabitá!\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Pain Threshold
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000149AC"
 msgid "CONDITION BLACK, ALL SYSTEMS CRITICAL!"
 msgstr ""
+"ČERNÝ STAV, VŠECHNY SYSTÉMY V KRITICKÉM STAVU!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x01000007000149E7"
 msgid "\"I'm very sorry this is how life turned out for you.\" (Gently touch her shoulder.)"
 msgstr ""
+"\"Je mi moc líto, že se vám život takhle zvrtnul.\" (Jemně se dotkni jejího ramene.)"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014D84"
 msgid "\"But why was she like this in the first place?\""
 msgstr ""
+"\"Ale proč byla vůbec taková?\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -1286,7 +1379,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Esprit de Corps
 #. Conversant = You
@@ -1296,57 +1389,62 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Half Light
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000144D5"
 msgid "A madwoman is pointing a gun at two police officers and you're thinking about warning shots?! Fuck the protocol! Take her out!"
 msgstr ""
+"Bláznivá ženská míří na dva poldy pistolí a ty uvažuješ o varovných výstřelech?! Mrdat protokol! Odkrágluj ji!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014555"
 msgid "How dark?"
 msgstr ""
+"Jak temného?"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Esprit de Corps
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001497E"
 msgid "I was 95% sure the gun is empty and *still* that instinctual muscle twitch could have ended in an unnecessary death."
 msgstr ""
+"Byl jsem si na 95 % jistý, že je zbraň prázdná, a přesto mohlo jedno instinktivní škubnutí svalů skončit zbytečnou smrtí."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Interfacing
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014AB4"
 msgid "That gun was the single greatest thing you had. This is an enormous loss."
 msgstr ""
+"Ta zbraň byla tou nejlepší věcí, co jsi měl. Je to obrovská ztráta."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014AE7"
 msgid "\"No one ever cares anymore,\" her voice is growing fainter as she rocks back and forth, slowly. \"Why would they cheat me like this...\""
 msgstr ""
+"\"Nikdo už se o nic nestará,\" její hlas slábne, jak se pomalu kolébá sem a tam. \"Proč by mě takhle ošidili...\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Logic
 #. Conversant = You
@@ -1356,7 +1454,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = The Pigs
 #. Conversant = You
@@ -1366,77 +1464,84 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014383"
 msgid "Alright, here's the plan: You fling the chaincutters in her face -- already darting right -- and *immediately* close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Dobrá, tady je plán: Mrskneš jí štípačky do ksichtu - ve stejnou chvíli střemhlav do prava - a *hned* na to se k ní přiblížíš. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143E5"
 msgid "Porta-reel is the key. Up the volume to the *MAX* and hit 'Play'. The sound will startle her, allowing you to close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Ten magneťák je klíčem k našemu úspěchu. Vohul to na *MAX* a zmáčkni 'Přehrát'. To ji vyděsí a ty se budeš moct přiblížit. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x01000007000143F3"
 msgid "The gun, throw it in her face -- she won't see it coming. As she tries to catch or evade, you close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Mrskni jí tu pistoli do ksichtu - to nebude čekat. Jak se bude pokoušet ji chytnout nebo uhnout, už budeš u ní.  Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Shivers
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001442A"
 msgid "A drop of sweat runs down your nose and in it you see the Martinaise inlet, wrapped in the night. In the abandoned fish market three figures stand in a spectacular light-show. A large, loud woman is pointing an empty firearm at the other two. She doesn't want to listen... or even to be heard."
 msgstr ""
+"Po nose ti stéká kapka potu a v ní se zračí do noci zahalený přítok Martinézy. Na opuštěném rybím trhu proti sobě stojí tři postavy v působivé světelné podívané. Na zbylé dva míří prázdnou střelnou zbraní mohutná, hlučná žena. Nechce poslouchat... ani být slyšena."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014977"
 msgid "\"Situation is under control!\" The lieutenant's voice rings over the police siren. \"You're not shot, she's not a threat, everybody stay calm!\""
 msgstr ""
+"\"Situace je pod kontrolou!\" Rozezní se poručíkův hlas skrze policejní hlásič. \"Nejste postřelen a ona není hrozbou, všichni zůstaňte v klidu!\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Conceptualization
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014D30"
 msgid "Great gears are grinding to a halt. The machine is powering down. She's all out of jolt."
 msgstr ""
+"Velká soukolí se zadrhávají. Stroj se vypíná. Došla jí všechna šťáva."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014E49"
 msgid "\"I don't think there's any need for that. In her current state -- and without the gun -- she isn't really a threat to anyone.\""
 msgstr ""
+"\"Nemyslím si, že je to nutné. V jejím současném stavu - a beze zbraně - není pro nikoho skutečnou hrozbou.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Horrific Necktie
 #. Conversant = You
@@ -1446,37 +1551,40 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Interfacing
 #. Conversant = You
 msgctxt "Dialogue Text/0x010000070001442F"
 msgid "No! Look how she's holding it. Like it's light in the nose. It must be... That means the gun is empty!"
 msgstr ""
+"Ne! Podívej, jak to drží. Jakoby byla ve špičce lehčí. To musí... To musí znamenat, že ta pistole je prázdná!"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014500"
 msgid "\"Ma'am, the weapon you're holding is mine and I *know* it has no bullets.\""
 msgstr ""
+"\"Madam, ta zbraň, co držíte, je moje a já *vím*, že není nabitá.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014DA4"
 msgid "\"You're probably right.\" (Nod.) \"Loneliness.\""
 msgstr ""
+"\"Nejspíš máš pravdu.\" (Přikývni.) \"Osamělost.\""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -1486,7 +1594,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Kim Kitsuragi
 #. Conversant = You
@@ -1496,7 +1604,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Logic
 #. Conversant = You
@@ -1506,7 +1614,7 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Authority
 #. Conversant = You
@@ -1516,47 +1624,51 @@ msgstr ""
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700013D5E"
 msgid "Alright, here's the plan: You hurl the ledger in her face -- already darting right -- and *immediately* close the distance. Left hand grabs the barrel, right one breaks the wrist..."
 msgstr ""
+"Dobrá, tady je plán: Mrskneš jí zápisník do ksichtu - ve stejnou chvíli střemhlav do prava - a *hned* na to se k ní přiblížíš. Levá ruka čapne hlaveň, pravá láme zápěstí..."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Visual Calculus
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014419"
 msgid "No. That won't be necessary. Look closer. The gun, all three barrels, red and blue light shining through -- it's not loaded."
 msgstr ""
+"Ne. To nebude nutné. Koukni se pořádně. Ta pistole, všechny tři hlavně, červené a modré světlo prosvítá skrz - není nabitá."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = You
 #. Conversant = The Pigs
 msgctxt "Dialogue Text/0x0100000700014845"
 msgid "\"Gun-gun, I'm coming!\" (Go for it.)"
 msgstr ""
+"\"Pistolko moje, jdu si pro tebeee!\" (Jdi na to.)"
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Hand/Eye Coordination
 #. Conversant = You
 msgctxt "Dialogue Text/0x0100000700014898"
 msgid "Sure, you're you. But how do we end this? She's not just gonna let you leave."
 msgstr ""
+"Jasně, seš to ty. Ale jak to dokončíme? Ona tě nenechá jen tak odejít."
 
 #. Title = BOARDWALK / THE PIGS RED CHECK
 #. Description = THE PIGS
-#. 
+#.
 #. Current Red Check
 #. Actor = Encyclopedia
 #. Conversant = You
