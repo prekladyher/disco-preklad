@@ -719,7 +719,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Feld">
-        <descrip type="definition">[OK] značka rádiokomputru</descrip>
+        <descrip type="definition">[OK] značka rádiokomputeru</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Feld</term>
@@ -759,7 +759,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Fortress Accident">
-        <descrip type="definition">[OK] značka vývojářského studia</descrip>
+        <descrip type="definition">[OK] značka rádioherního vývojářského studia</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Fortress Accident</term>
@@ -767,20 +767,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Pevnost Katastrof</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Fortress Accident SCA">
-        <descrip type="definition">[OK] rádioherní studio</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Fortress Accident SCA</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Pevnost Nehoda SCA</term>
+            <term>Pevnost katastrof</term>
           </tig>
         </langSet>
       </termEntry>
@@ -967,7 +954,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Innocence">
-        <descrip type="definition">[OK] vládce Okcidentu, mýtická postava, též ve významu Neposkvrněnci aka uctívači</descrip>
+        <descrip type="definition">[OK] vládce Okcidentu, mýtická postava</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Innocence</term>
@@ -1265,16 +1252,16 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="ĺieutenant-yefreitor">
-        <descrip type="definition">[OK] Hodnost postavy</descrip>
+      <termEntry id="ĺieutenant double yefreitor">
+        <descrip type="definition">[OK] Hodnost hrdiny - znamená to, že dvakrát odmítnul povýšení na kapitána (upravil dr)</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>ĺieutenant-yefreitor</term>
+            <term>ĺieutenant double yefreitor</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>poručík-jefrejtor</term>
+            <term>poručík dvojnásobný jefrejtor</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1396,7 +1383,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Mesque">
-        <descrip type="definition">[OK] občan Republiky Meska</descrip>
+        <descrip type="definition">[OK] Meskan je země i její obyvatel - v Revacholu žijí Meskanci přistěhovalci z Meskanu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Mesque</term>
@@ -1942,7 +1929,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="raver">
-        <descrip type="definition">[OK] označení mladých lidí, co si "užívají života"</descrip>
+        <descrip type="definition">[OK] označení mladých lidí, co si "užívají života" </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>raver</term>
@@ -2293,7 +2280,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Soona Luukanen-Kilde">
-        <descrip type="definition">[OK] [VYKAT] </descrip>
+        <descrip type="definition">[OK] [VYKAT] programátorka</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Soona Luukanen-Kilde</term>
