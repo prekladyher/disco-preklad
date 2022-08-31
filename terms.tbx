@@ -3,6 +3,19 @@
 <martif type="TBX" xml:lang="en_US">
   <text>
     <body>
+      <termEntry id=";;">
+        <descrip type="definition">[OK] svět hry, příd. jm. "inzulindický"</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>;;</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Inzulindie</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="(Her Innocence) Dolores Dei">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -338,6 +351,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>lamač obvodů</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Coalition Government's Articles of Dominion">
+        <descrip type="definition">Kus informace od Encyklopedie. Nejsem si jistý, jestli se objeví i v jiných replikách</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Coalition Government's Articles of Dominion</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Stanovy Koaliční Vlády</term>
           </tig>
         </langSet>
       </termEntry>
@@ -731,6 +757,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Feld Electrical">
+        <descrip type="definition">Kdysi velká elektrotechnická společnost. Dnes už prodávají jen tonery do tiskáren</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Feld Electrical</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Elektrotechnika/Elektro Feld</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="filament memory (filament)">
         <descrip type="definition">[OK] paměťový modul radiokomputeru</descrip>
         <langSet xml:lang="en">
@@ -914,6 +953,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Idiot Doom Spiral">
+        <descrip type="definition">George, jeho život se na základě jednoho hloupého rozhodnutí totálně rozesral. S překladem nejsem vůbec spokojený, bude to chtít vylepšit</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Idiot Doom Spiral</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Idiotská Spirála Zkázy</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Iilmaraa">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -976,19 +1028,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Strůjce</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Insulinde">
-        <descrip type="definition">[OK] svět hry, příd. jm. "inzulindický"</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Insulinde</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Inzulindie</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2562,6 +2601,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Ubi</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ULAN">
+        <descrip type="definition">Frekvence bledomeze. Použije je Ruby proti Harrymu jako zbraň. Nikde jsem tu zkratku nenašel rozepsanou - zatím nechávám originál</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ULAN</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>ULAN/Bledomezí Frekvenční Spektrum?/BFS?</term>
           </tig>
         </langSet>
       </termEntry>
