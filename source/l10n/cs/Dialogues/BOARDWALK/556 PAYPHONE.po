@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-08-31 21:11+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020E3"
 msgid "\"Yes, it's me -- Pierre.\""
 msgstr ""
+"\"Ano, to jsem já - Pierre.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002121"
 msgid "\"Yes, Pierre is dead.\""
 msgstr ""
+"\"Ano, Pierre je mrtvý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002134"
 msgid "\"But who are you then? A salesman of some sort? Modern goods are rubbish. And I can't afford them anyhow. It's a shame what you did to our country...\" The woman moans and the phone lines howl in unison with her."
 msgstr ""
+"\"Ale kdo tedy jste? Nějaký prodejce? Moderní zboží je šmejd. A já si je stejně nemůžu dovolit. Je to ostuda, co jste udělali naší vlasti...\" Žena zasténá a telefonní linky vyjí unisono s ní."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002211"
 msgid "Her voice is drowned in white noise. Sounds like waves washing a beach, growing in volume until the call suddenly disconnects."
 msgstr ""
+"Její hlas tone v bílém šumu. Zní jako vlny omývající pláž, které nabývají na hlasitosti, dokud se hovor náhle nepřeruší."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022E3"
 msgid "Keep dialling..."
 msgstr ""
+"Vytáčej dál..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000245D"
 msgid "\"You shouldn't mess with people like this...\" His voice is very calm. \"You go have a nice day now.\""
 msgstr ""
+"\"Neměl byste si takhle utahovat z lidí...\" Jeho hlas je velmi klidný. \"Tak vám přeji hezký zbytek dne.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002487"
 msgid "\"Guillaume. Guillaume le Million.\""
 msgstr ""
+"\"Guillaume. Guillaume le Million.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002535"
 msgid "\"Harry, please...\" A sad voice answers, dressed in distortion."
 msgstr ""
+"\"Harry, prosím...\" Ozve se smutný hlas, oděný do zkresleného zvuku."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002601"
 msgid "\"You were making *prank calls*.\" Not a muscle moves in the lieutenant's face."
 msgstr ""
+"\"*Žertovně* jste vytáčel náhodná čísla.\" Na poručíkově tváři se nehne ani sval."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002697"
 msgid "\"My *debt?* I don't fucking owe you, it's...\" The young man realises something. \"Who is... ah never mind, I don't have time for this...\""
 msgstr ""
+"\"Můj *dluh*?\" \"Já ti kurva nedlužím, to je...\" Mladík si něco uvědomí. \"Kdo je... to je jedno, na tohle nemám čas...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002853"
 msgid "Life is garbage."
 msgstr ""
+"Život je svinstvo."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000290F"
 msgid "\"Kim...\""
 msgstr ""
+"\"Kime...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000293F"
 msgid "He accepts your apology."
 msgstr ""
+"Přijímá tvou omluvu."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000297F"
 msgid "The saddest sound in the world."
 msgstr ""
+"Nejsmutnější zvuk na světě."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000305A"
 msgid "\"I'm not drunk.\""
 msgstr ""
+"\"Nejsem opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030F5"
 msgid "\"I want to talk about me. Who am I? You sound like you know me.\""
 msgstr ""
+"\"Chci mluvit o sobě. Kdo jsem? Mluvíš, jako bys mě znala.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003242"
 msgid "Right now. I'm gonna give you *one* chance."
 msgstr ""
+"Teď hned. Dám ti *jednu* šanci."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020A6"
 msgid "In the distorted distance you hear someone turning next to her. Bedsprings rattle."
 msgstr ""
+"Z dálky je slyšet, jak se vedle ní někdo otáčí. V posteli zarachotí pružiny."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020EF"
 msgid "\"So nice of you to find the time to call me! It gets so lonely. Even the animals have died.\""
 msgstr ""
+"\"Je od tebe hezké, že sis našel čas mi zavolat! Jsem tu tak osamělá. Dokonce i zvířata už pošla.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002115"
 msgid "\"He's my sister's grandson. He used to visit me as a lad... Fine young man...\""
 msgstr ""
+"\"Je to vnuk mé sestry. Jako malý mě navštěvoval... Je to dobrý mladý muž...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002146"
 msgid "\"This is because we are bred to be leaders. I can hear the common or mixed background from your voice.\""
 msgstr ""
+"\"Je to proto, že jsme vychováni k tomu, abychom byli vůdci. Z vašeho hlasu slyším běžný nebo smíšený původ.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021BD"
 msgid "\"You're either a salesman or a statistician of some kind. I am not interested in cooperating.\""
 msgstr ""
+"\"Jste buď prodejce, nebo nějaký statistik. Nemám zájem o spolupráci.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000238D"
 msgid "Again? Seriously?"
 msgstr ""
+"Znovu? Vážně?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023E0"
 msgid "\"I don't know why I said that.\""
 msgstr ""
+"\"Nevím, proč jsem to řekl.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000240E"
 msgid "\"What are you, like five?\" A woman's voice shouts something in the background and when Girard speaks again his voice is hushed..."
 msgstr ""
+"\"Kolik ti je, pět?\" V pozadí něco vykřikne ženský hlas, a když Girard znovu promluví, jeho hlas se ztiší..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024AC"
 msgid "Finish it."
 msgstr ""
+"Dokonči to."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002560"
 msgid "Now walk away. Forget about this. Walk away and do police work. *BURY* this in yourself and move on."
 msgstr ""
+"A teď zmiz. Zapomeň na to. Odejdi a věnuj se policejní práci. *POHŘBI* to v sobě a jdi dál."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025D4"
 msgid "Before it's too late, please."
 msgstr ""
+"Než bude příliš pozdě, prosím."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002724"
 msgid "What were you trying to achieve by closing your eyes? Did you want your muscle memory to take over and call somewhere? Where?"
 msgstr ""
+"Čeho jsi chtěl zavřením očí dosáhnout? Chtěls, aby to převzala svalová paměť a někam se dovolala? Kam?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002736"
 msgid "Pitiful and terrifying. You feel your pulse rise with each ring..."
 msgstr ""
+"Žalostné a děsivé. S každým zazvoněním cítíš, jak se ti zrychluje tep..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002753"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002782"
 msgid "You dialled 001. This is not the area code of Revachol. It is another destination -- on another isola. Some far-off nation state."
 msgstr ""
+"Vytočil jsi číslo 001. To není předvolba Revacholu. Je to jiná destinace - na jiném ostrově. Nějaký vzdálený národní stát."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027CA"
 msgid "Fuck it, it doesn't hurt."
 msgstr ""
+"Mrdat to, nebolí to."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000282B"
 msgid "A metal payphone under a yellow plastic dome. There's a bitter, caustic taste on the tip of your tongue as you look at the handset."
 msgstr ""
+"Kovový telefonní automat pod žlutou plastovou kopulí. Při pohledu na sluchátko se ti na špičce jazyka objeví trpká, sžíravá příchuť."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028E7"
 msgid "What *you* are is a *surprise*, get his wife on the phone..."
 msgstr ""
+"Kdo *ty* jsi, je *překvapení*, řekni mu, ať ti dá k telefonu manželku..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A1F"
 msgid "\"Writing. I hate writing so much... But I have to get back to it.\""
 msgstr ""
+"\"Ze psaní. Tak moc nesnáším psaní... Ale musím se k tomu vrátit.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002ED9"
 msgid "\"Is that you?\""
 msgstr ""
+"\"To jsi ty?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003123"
 msgid "\"Yes, I'm in Mirova. Sleeping.\""
 msgstr ""
+"\"Ano, v Mirově. Spím.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031CB"
 msgid "\"My heart hurts. I'm gonna have a heart attack.\""
 msgstr ""
+"\"Bolí mě srdce. Asi mám infarkt.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000072000031CB"
 msgid "\"My heart hurts. I'm gonna have another heart attack.\""
 msgstr ""
+"\"Bolí mě srdce. Budu mít další infarkt.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002094"
 msgid "Pick up the handset."
 msgstr ""
+"Zvedni sluchátko."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020A0"
 msgid "You hear the tone -- the machine is operable."
 msgstr ""
+"Je slyšet tón - přístroj je provozuschopný."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020C5"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002170"
 msgid "\"You ruined it and you sold it to foreigners. You don't own anything if everything is for sale.\""
 msgstr ""
+"\"Zničili jste ji a prodali cizincům. Nemáte nic, když všechno dáte na prodej.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002517"
 msgid "\"Get away from her, I'm a cop!\""
 msgstr ""
+"\"Nechte jí být, já jsem polda!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000253B"
 msgid "You can't make out a single word, just vague voices. One more, a child, has joined. Something breaks -- or falls over? Footsteps approaching!"
 msgstr ""
+"Nedokážeš rozeznat jediné slovo, jen nesrozumitelné hlasy. Ještě jeden, dětský, se přidal. Něco se rozbije - nebo spadne? Blíží se kroky!"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000255A"
 msgid "\"What the hell are you doing?\" The lieutenant has been keeping a distance, but steps closer now."
 msgstr ""
+"\"Co to ksakru provádíte?\" Poručík se držel stranou, ale teď přistoupil blíž."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000268B"
 msgid "\"You seem to be in some sort of trouble. Maybe I can help you, I'm a police officer.\""
 msgstr ""
+"\"Zdá se, že máte nějaké potíže. Možná bych vám mohl pomoci, jsem policista.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026D8"
 msgid "You just do. And you know it is going to hurt."
 msgstr ""
+"Prostě víš. A víš, že to bude bolet."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002718"
 msgid "Yeah, *bratan*. We've had all the fun there was to have here. And it wasn't much."
 msgstr ""
+"Jo, *bráško*. Užili jsme si všechnu zábavu, která se tu dala užít. A moc jí nebylo."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027D0"
 msgid "It didn't give you *any* fun for that money."
 msgstr ""
+"Za ty peníze ti to neposkytlo *žádnou* zábavu."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000284D"
 msgid "You can't. Some strange force is keeping the headset glued to your hand, your ear listening to the ring in the speaker..."
 msgstr ""
+"Nejde to. Nějaká podivná síla drží sluchátko přilepené k ruce, tvé ucho poslouchá zvonění v reproduktoru..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002909"
 msgid "\"You're not an amnesiac, Harry... You're drunk.\""
 msgstr ""
+"\"Netrpíš amnézií, Harry... Jsi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000306C"
 msgid "\"I'm not drunk -- I'm *high*.\""
 msgstr ""
+"\"Nejsem opilej - jsem *sjetej*.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003096"
 msgid "\"I don't understand what you're saying.\""
 msgstr ""
+"\"Já ti nerozumím.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D842"
 msgid "Twenty-two million people live in Mirova, the capital city of Graad. It is the capital of the world after Revachol was destroyed."
 msgstr ""
+"V Mirově, hlavním městě Graadu, žije 22 milionů lidí. Po zničení Revacholu je hlavním městem světa."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -459,6 +523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020CB"
 msgid "End of tone. Someone picks up."
 msgstr ""
+"Konec vyzvánění. Někdo to zvedne."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -467,6 +532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000232F"
 msgid "Put 10 cents in and dial a random number: 005-24-03-155."
 msgstr ""
+"Vhoď 10 centů a vytoč náhodné číslo: 005-24-03-155."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -475,6 +541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002341"
 msgid "\"You're naked, aren't you?\" (Beat the handset against the phone.)"
 msgstr ""
+"\"Jsi nahá, že?\" (Prašť sluchátkem o automat.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -483,6 +550,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002422"
 msgid "\"Wh-who is this?\" The man does not understand."
 msgstr ""
+"\"Kd-kdo je to?\" Muž nechápe."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -491,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024F3"
 msgid "More shouting. You're pretty sure you hear a man saying *fuck* several times. Then the crackle in the phone line gets violently loud, like the surf breaking."
 msgstr ""
+"Více řevu. Jsi si jistý, že slyšíš muže, který několikrát řekne *kurva*. Pak praskot v telefonní lince prudce zesílí, jako když se rozbíjí příboj."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -499,6 +568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002766"
 msgid "Keep dialling..."
 msgstr ""
+"Vytáčej dál..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -507,6 +577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003203"
 msgid "(Hang up.)"
 msgstr ""
+"(Zavěs.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -515,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000325C"
 msgid "She does not answer anymore."
 msgstr ""
+"Už ani neodpovídá."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -523,6 +595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021F3"
 msgid "\"It gets lonely even when you're with people.\""
 msgstr ""
+"\"Je to osamělé, i když jsi mezi lidmi.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -531,6 +604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021F9"
 msgid "You dial the number again -- as you've done many times. You remember it well now: 001 -- 41 -- 44 -- 47 -- 11 -- 17 -- 361 -- 451 -- 67 -- 451 -- 451."
 msgstr ""
+"Znovu vytočíš číslo - jako už mnohokrát. Už si ho dobře pamatuješ: 001 -- 41 -- 44 -- 47 -- 11 -- 17 -- 361 -- 451 -- 67 -- 451 -- 451."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -539,6 +613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002299"
 msgid "\"Are you sure you're Pierre? Your voice, it's different... I... there... chrysanthemum...\""
 msgstr ""
+"\" Jsi si jistý, že jsi Pierre? Tvůj hlas je jiný... Já... tam... chryzantéma...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -547,6 +622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023F2"
 msgid "Hang up. [Leave.]"
 msgstr ""
+"Zavěs. [Odejdi.]"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -555,6 +631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024B8"
 msgid "It looks like she does not want to pick it up, Harry. Stop scaring her."
 msgstr ""
+"Asi to nechce zvednout Harry. Přestaň ji děsit."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -563,6 +640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024E1"
 msgid "\"I am the last faithful kingsman. I will free the city of Revachol. I will turn back the sea. I will reverse time.\" (Proceed.)"
 msgstr ""
+"\"Jsem poslední věrný příslučník krále. Osvobodím město Revachol. Obrátím moře zpět. Obrátím čas nazpět.\" (Pokračuj.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -571,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002659"
 msgid "In the middle of it -- a familiar ring. Small. Distorted."
 msgstr ""
+"Uprostřed toho všeho - známý cinkot. Malý. Zkreslený."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -579,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002712"
 msgid "And calling -- for two minutes now. You're out of luck. No one's home there either. But the payphone still has your ten cents in there..."
 msgstr ""
+"A vyzvání - už dvě minuty. Máš smůlu. Ani tady se nezdá být nikdo doma. Ale v automatu je pořád tvých deset centů..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -587,6 +667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002814"
 msgid "You pick up the handset. There's a tone -- the machine is operable."
 msgstr ""
+"Zvedneš sluchátko. Ozve se tón - přístroj je funkční."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -595,6 +676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002955"
 msgid "Then the ocean breaks. Out of the depths, a woman's voice emerges. Small. The dearest thing you've ever heard."
 msgstr ""
+"Pak se oceán protrhne. Z hlubin se ozve ženský hlas. Drobný. Ten nejdražší, jaký jsi kdy slyšel."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -603,6 +685,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030A4"
 msgid "\"I'm not drunk or high, I'm just... hurt... why does it hurt to talk to you?\""
 msgstr ""
+"\"Nejsem opilý ani zfetovaný, jen... jsem ublížený... proč mě bolí s tebou mluvit?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -611,6 +694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006B0E"
 msgid "Static sings inside the phone glued to your ear. Ancient, sticky..."
 msgstr ""
+"V telefonu přilepeném k tvému uchu zpívá statická elektřina. Starodávné, lepkavé..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -619,6 +703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020D7"
 msgid "She does not answer. All you hear is hiss."
 msgstr ""
+"Neodpovídá. Vše, co slyšíš, je syčení."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -627,6 +712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000213A"
 msgid "Dora. The name feels like a *gift*. A gift that was meant for you -- to make it possible to live."
 msgstr ""
+"Dora. To jméno je jako *dar*. Dar, který byl určen pro tebe - aby ti umožnil žít."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -635,6 +721,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021C9"
 msgid "\"No, I'm a police officer.\""
 msgstr ""
+"\"Ne, jsem policista.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -643,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002365"
 msgid "\"Good bye.\""
 msgstr ""
+"\"Sbohem.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -651,6 +739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000241C"
 msgid "Just let it ring."
 msgstr ""
+"Jen to nech zvonit."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -659,6 +748,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024FF"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -667,6 +757,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025F1"
 msgid "\"You're right, you shouldn't have.\""
 msgstr ""
+"\"Máte pravdu, to jste neměl.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -675,6 +766,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002680"
 msgid "\"We could all be a bit kinder to each other, don't you think? Consider your debt paid, my friend.\""
 msgstr ""
+"\"Všichni bychom k sobě mohli být trochu laskavější, nemyslíš? Považuj svůj dluh za splacený, příteli.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -683,6 +775,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026A3"
 msgid "The phone gets hanged up fast as lightning, all you hear is a little shuffle of nylon as the hand moves on the other end."
 msgstr ""
+"Telefon se zavěsí rychlostí blesku, slyšíš jen malé zašustění nylonu, jak se na druhém konci pohybuje ruka."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -691,6 +784,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026DE"
 msgid "The handset starts slipping from your sweaty palm... your breathing is heavy."
 msgstr ""
+"Sluchátko ti začne vyklouzávat ze zpocené dlaně... těžce dýcháš."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -699,6 +793,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002788"
 msgid "Stop!"
 msgstr ""
+"Dost!"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -707,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028E1"
 msgid "\"You want my MONEY?!\" (Punch the phone.)"
 msgstr ""
+"\"Tak ty chceš moje PRACHY?!\" (Dej mu pěstí)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -715,6 +811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002903"
 msgid "The lieutenant is too far away to hear your yelp. The sea wind blows..."
 msgstr ""
+"Poručík je příliš daleko, aby slyšel tvůj tichoučký nářek. Mořský vítr vane..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -723,6 +820,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A19"
 msgid "Let it call more."
 msgstr ""
+"Nechej to vyzvánět dál."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -731,6 +829,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003060"
 msgid "\"Okay I'm drunk, what does it matter? I'm still *me*!\""
 msgstr ""
+"\"Dobře, jsem opilý, co na tom záleží? Furt jsem to *já*!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -739,6 +838,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000314B"
 msgid "You need to stop, Harry. You'll die."
 msgstr ""
+"Musíš přestat, Harry. Zemřeš."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -747,6 +847,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003263"
 msgid "\"I'm gonna solve it.\""
 msgstr ""
+"\"Vyřeším to.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -755,6 +856,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000211B"
 msgid "\"You're not a revolutionary, Harry... You're drunk.\""
 msgstr ""
+"\"Nejsi revolucionář, Harry... Jsi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -763,6 +865,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021DF"
 msgid "\"What a pity... I'm afraid I won't be coming to the funeral. I.... there... chrysanthemum...\""
 msgstr ""
+"\"Jaká to škoda... Obávám se, že na pohřeb nepřijdu. Já.... tam... chryzantéma...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -771,6 +874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022B5"
 msgid "\"A creature is a creature. I wish I was the wind.\""
 msgstr ""
+"\"Stvůra je stvůra. Chtěl bych být větrem.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -779,6 +883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002408"
 msgid "\"Your voice makes me want to turn into dust.\""
 msgstr ""
+"\"Z tvého hlasu se mi chce obrátit se v prach.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -787,6 +892,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024D5"
 msgid "\"I am an ultra-high-net-worth individual. I understand how reality works. I have *seen* into it. My mind is clear.\" (Proceed.)"
 msgstr ""
+"\"Jsem ultra mimořádně zámožný jedinec. Vím, jak funguje realita. *Nahlédl* jsem do ní. Moje mysl je čistá.\" (Pokračuj.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -795,6 +901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002529"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -803,6 +910,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000256C"
 msgid "The headset lands in the cradle with a clank."
 msgstr ""
+"Sluchátko s cinknutím dopadne do držáku."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -811,6 +919,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000259A"
 msgid "Hang up."
 msgstr ""
+"Polož to."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -819,6 +928,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002629"
 msgid "\"Who is this?\""
 msgstr ""
+"\"Kdo je to?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -827,6 +937,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002635"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -835,6 +946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002691"
 msgid "\"You're not a kingsman, Harry... You're drunk.\""
 msgstr ""
+"\"Nejsi králův muž, Harry... Jsi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -843,6 +955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026D2"
 msgid "\"You're not ominous, Harry... You're drunk.\""
 msgstr ""
+"\"Nejsi zlověstný, Harry... Jsi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -851,6 +964,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000276C"
 msgid "41 -- 44 -- 47 -- the rotary dial feels cold from the sea air."
 msgstr ""
+"41 -- 44 -- 47 -- otočný číselník je studený od mořského vzduchu."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -859,6 +973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000278E"
 msgid "Long windows... how do I know that?"
 msgstr ""
+"Podlouhlá okna... jak tohle vím?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -867,6 +982,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027E6"
 msgid "Who cares. Run. Go. Don't think about this. Do police work, it's all there is."
 msgstr ""
+"Koho to zajímá. Běž. Utíkej. Nepřemýšlej o tom. Dělej policejní práci, nic jiného ti nezbývá."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -875,6 +991,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027F2"
 msgid "\"Khm...\" A single *khm* lets you know the lieutenant is ready to move now."
 msgstr ""
+"\"Khm...\" Jediné *khm* ti dává najevo, že poručík je připraven vyrazit."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -883,6 +1000,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029DB"
 msgid "\"I'm tired...\" A man answers, fast this time. His voice is hoarse from cigarettes. You hear typing in the background."
 msgstr ""
+"\"Jsem unavený...\" Muž odpoví, tentokrát rychle. Jeho hlas je chraplavý od cigaret. V pozadí je slyšet ťukání na klávesnici."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -891,6 +1009,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A08"
 msgid "\"I'm tired too.\""
 msgstr ""
+"\"Taky jsem unavený.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -899,6 +1018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002ECE"
 msgid "He doesn't have a home. His home is under a boat."
 msgstr ""
+"Nemá domov. Jeho domov je pod lodí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -907,6 +1027,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003172"
 msgid "\"The Academy. Where I work.\""
 msgstr ""
+"\"Akademie. Tam, kde pracuju.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -915,6 +1036,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031AA"
 msgid "I'm making a funny prank call."
 msgstr ""
+"Provádím vtipný žertovný telefonát."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -923,6 +1045,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003249"
 msgid "Push the headset in the cradle with all the strength you have!"
 msgstr ""
+"Zatlač sluchátko do držáku vší silou, která ti zbyla!"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -931,6 +1054,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000326F"
 msgid "\"None of it matters -- not anymore.\""
 msgstr ""
+"\"Na ničem z toho nezáleží - už ne.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -939,6 +1063,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006B06"
 msgid "The cord dangles in the wind like a sickening worm."
 msgstr ""
+"Kabel visí ve větru jako nechutný červ."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -947,6 +1072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002140"
 msgid "\"I'm not a salesman, I was just calling a random number and you somehow ran with it.\""
 msgstr ""
+"\"Nejsem prodejce, jen jsem volal na náhodné číslo a tak nějak jsme se sem dostali.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -955,6 +1081,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002158"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -963,6 +1090,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002205"
 msgid "Don't react. Whatever you do, don't react to that last thing."
 msgstr ""
+"Nereaguj. Cokoliv budeš dělat, hlavně na tu poslední věc vůbec nereaguj."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -971,6 +1099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022F5"
 msgid "You get a sinking feeling. It makes you look if Lieutenant Kitsuragi overheard you. To your relief, he did not."
 msgstr ""
+"Začneš se cítit sklíčeně. Podíváš se, jestli tě poručík Kitsuragi nezaslechl. K tvojí úlevě ne."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -979,6 +1108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000234D"
 msgid "\"You're warm.\""
 msgstr ""
+"\"Jsi teplounká.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -987,6 +1117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000237B"
 msgid "\"Hello, Girard speaking!\""
 msgstr ""
+"\"Dobrý den, mluví Girard!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -995,6 +1126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002416"
 msgid "\"Thanks for calling, asshole!\""
 msgstr ""
+"\"Dík za zavolání, kreténe!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1003,6 +1135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002550"
 msgid "\"Mhm,\" she hums, her voice warm from sleep."
 msgstr ""
+"\"Mhm,\" zahuhlá - její hlas teplý ze spánku."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1011,6 +1144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002572"
 msgid "\"You're right, Kim -- it went wrong. Horribly wrong. I shouldn't have done this...\" (Hang up.)"
 msgstr ""
+"\"Máš pravdu, Kim - zvrtlo se to. Strašně se to zvrtlo. Neměl jsem to dělat...\" (Zavěs.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1019,6 +1153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002578"
 msgid "Strange. This is not how you started before."
 msgstr ""
+"Zvláštní. Takhle jsi předtím nezačínal."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1027,6 +1162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025A0"
 msgid "What in the name of god did you just do?"
 msgstr ""
+"Co jsi to proboha právě způsobil?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1035,6 +1171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025CE"
 msgid "451 -- you have dialled god knows how many numbers. The headset has been waiting silently to relay a signal -- surely nothing can come of this, you think. But it does. A connection."
 msgstr ""
+"451 - vytočili jsi bůhví kolik čísel. Sluchátka tiše čekají, aby předala signál - z toho určitě nic nebude, říkáš si. Ale ono ano. Spojení."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1043,6 +1180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000261D"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1051,6 +1189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026BA"
 msgid "There's a moment of silence before the voice speaks again, more calmly: \"You got the wrong number, don't call here again.\""
 msgstr ""
+"Chvíli je ticho, než hlas promluví znovu, už klidněji: \"Máte špatné číslo, už sem nevolejte.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1059,6 +1198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000271E"
 msgid "Time keeps passing. In the distance, seagulls squawk -- no one is home at this number. But the coin... it's still in there... you find yourself thinking:"
 msgstr ""
+"Čas stále plyne. V dálce skřehotají rackové - na tomhle čísle není nikdo doma. Ale ta mince... pořád je tam... přemýšlíš:"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1067,6 +1207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002776"
 msgid "Again you close your eyes -- and again your fingers move on the rotary dial. Ten metallic rings as the dial returns to zero after each number."
 msgstr ""
+"Znovu zavíráš oči - a znovu se tvé prsty pohybují po otočném číselníku. Deset kovových cinknutí, jak se číselník po každém čísle vrací na nulu."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1075,6 +1216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028D0"
 msgid "No, what *you* are is a *surprise*, get his wife on the phone..."
 msgstr ""
+"Ne, kdo *ty* jsi, je *překvapení*, řekni mu, ať ti dá k telefonu manželku..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1083,6 +1225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028D6"
 msgid "\"I don't know who I am. I am an amnesiac.\" (Proceed.)"
 msgstr ""
+"\"Nevím, kdo jsem. Trpím amnézií.\" (Pokračuj.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1091,6 +1234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A83"
 msgid "Still..."
 msgstr ""
+"Pořád..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1099,6 +1243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003054"
 msgid "\"Harry? How do you know my name?\""
 msgstr ""
+"\"Harry? Jaktože znáš moje jméno?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1107,6 +1252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031C5"
 msgid "\"Oh no... please stop. Please let's just hang up...\""
 msgstr ""
+"\"Ale ne... prosím, přestaň. Prosím, zavěsíme...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1115,6 +1261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006ADF"
 msgid "She sighs. \"Look, I don't understand what you're saying, or why you're calling me. You seem drunk.\""
 msgstr ""
+"Hele, nerozumím tomu, co říkáš nebo proč mi voláš. Přijdeš mi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1123,6 +1270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020AC"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1131,6 +1279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002101"
 msgid "\"Do you have any news about Pierre?\""
 msgstr ""
+"\"Máte nějaké novinky o Pierrovi?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1139,6 +1288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000228B"
 msgid "You can't hear her reply."
 msgstr ""
+"Neslyšíš její odpověď."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1147,6 +1297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000229F"
 msgid "Yes. 451 -- 67 -- 451 -- you are going deeper now, into some unknown place. Far away from this island of matter and its telecommunication networks...."
 msgstr ""
+"Ano. 451 - 67 - 451 - teď se noříš hlouběji, na neznámé místo. Daleko od tohoto ostrova hmoty a jeho telekomunikačních sítí....."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1155,6 +1306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022DD"
 msgid "No answer. You're not sure but you think you hear a *man's* voice in the background. It's covered in pain and white noise..."
 msgstr ""
+"Žádná odpověď. Nevíš to jistě, ale zdá se ti, že v pozadí slyšíš *mužský* hlas. Je zastřený bolestí a bílým šumem..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1163,6 +1315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022FB"
 msgid "Phone hanging up."
 msgstr ""
+"Zavěšeno."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1171,6 +1324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002347"
 msgid "Put 10 cents in and dial a random number: 005-99-77-313."
 msgstr ""
+"Vhoď 10 centů a vytoč náhodné číslo: 005-99-77-313."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1179,6 +1333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023C2"
 msgid "\"Hey, Girard, get your wife for me, will you?\""
 msgstr ""
+"\"Hej, Girarde, dej mi svou ženu, ano?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1187,6 +1342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023DA"
 msgid "\"Girard... what a douche name... Change it -- change your name!\""
 msgstr ""
+"\"Girrard... to je ale debilní jméno... Změň si ho - nech si změnit jméno!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1195,6 +1351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023EC"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1203,6 +1360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024E7"
 msgid "The sounds are muffled. You can make out two people: a man and a woman called *Bian*. They are talking to each other in agitated voices. There's a shuffle of feet, children maybe?"
 msgstr ""
+"Zvuky jsou tlumené. Rozlišuješ dvě osoby: muže a ženu jménem *Blanka*. Mluví spolu rozčilenými hlasy. Ozývá se šoupání nohou, možná dětí?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1211,6 +1369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002594"
 msgid "Something hits the phone with a loud crack of plastic and microphone hiss -- after that you are left with the disconnect tone."
 msgstr ""
+"Do telefonu něco udeří s hlasitým prasknutím plastu a zasyčením mikrofonu - poté se ozve tón odpojení."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1219,6 +1378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002647"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1227,6 +1387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002730"
 msgid "Home?"
 msgstr ""
+"Domů?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1235,6 +1396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002803"
 msgid "Put 10 cents in and dial the long phone number again."
 msgstr ""
+"Vlož 10 centů a znovu vytoč dlouhé telefonní číslo."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1243,6 +1405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028C4"
 msgid "That's right. You *can*. Whatever you're doing here, you can just stop it and go on with your life."
 msgstr ""
+"Přesně tak. Ty *můžeš*. Ať už tady provádíš cokoliv, můžeš toho nechat a žít klidně dál."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1251,6 +1414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000316C"
 msgid "\"To work.\""
 msgstr ""
+"\"Do práce.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1259,6 +1423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000323C"
 msgid "\"I am the law. I'm a detective. I'm doing a case. There's a hanged man.\""
 msgstr ""
+"\"Já jsem zákon. Jsem detektiv. Dělám na případu. Je tu oběšenec.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1267,6 +1432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000214C"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1275,6 +1441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000217C"
 msgid "\"Give it a thought. Goodbye.\""
 msgstr ""
+"\"Zamyslete se nad tím. Nashledanou.\" "
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1283,6 +1450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002335"
 msgid "\"I need answers to my *mystery*.\""
 msgstr ""
+"\"Potřebuji odpovědi na svou *záhadu*.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1291,6 +1459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002445"
 msgid "\"I'm sorry it was a stupid joke, I shouldn't have called, it's stupid -- I'm so sorry.\""
 msgstr ""
+"\" Promiňte, byl to hloupý vtip, neměl jsem volat, byla to hloupost - moc se omlouvám.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1299,6 +1468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000244B"
 msgid "\"Pick it up!\""
 msgstr ""
+"\"Zvedni to!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1307,6 +1477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002463"
 msgid "C'mon, you know why."
 msgstr ""
+"Notak, ty víš proč."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1315,6 +1486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000247B"
 msgid "\"I'm the guy who's fucking your wife, Girard. Now put her on before I lose my patience.\""
 msgstr ""
+"\"Jsem chlápek, co ti šoustá ženu, Girarde. Teď mi ji hezky dej k telefonu, než ztratím trpělivost.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1323,6 +1495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000248D"
 msgid "\"I'm Mazov. Kraz Mazov.\""
 msgstr ""
+"\"Jsem Mazov. Kraz Mazov.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1331,6 +1504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002499"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1339,6 +1513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002545"
 msgid "\"Who is this?\""
 msgstr ""
+"\"Kdo je tam?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1347,6 +1522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000258A"
 msgid "Let it call!"
 msgstr ""
+"Nech to vyzvánět!"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1355,6 +1531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002653"
 msgid "*Still* calling..."
 msgstr ""
+"*Pořád* to vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1363,6 +1540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000269D"
 msgid "\"Hello.\" She sounds sleepy."
 msgstr ""
+"\"Ano?\" Zní ospale."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1371,6 +1549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027E0"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1379,6 +1558,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002825"
 msgid "There's still some unused change in there -- the machine waits for a number to be dialled."
 msgstr ""
+"Je tam ještě nějaký nevyužitý drobák - ten přístroj čeká na vytočení čísla."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1387,6 +1567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000289C"
 msgid "Punch it again, the pain is good."
 msgstr ""
+"Dej mu znova, ta bolest je dobrá."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1395,6 +1576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000291B"
 msgid "Calling in the night...."
 msgstr ""
+"Vyzvánění v noci..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1403,6 +1585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002973"
 msgid "\"I'll get you your money, alright? I just need 'til tonight. Let me work.\""
 msgstr ""
+"\"Přinesu ti peníze, jo? Potřebuju jen do večera. Nech mě pracovat.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1411,6 +1594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002997"
 msgid "Disconnect tone."
 msgstr ""
+"Típnutí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1419,6 +1603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003087"
 msgid "\"Harry? Who's Harry -- are you sleeping with him? I'm also Harry!\""
 msgstr ""
+"\"Harry? Kdo je Harry - spíš s ním? Já jsem taky Harry!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1427,6 +1612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030C4"
 msgid "\"Do you know what time it is? It's so late here...\" Sounds like she's looking for a clock on the night stand."
 msgstr ""
+"\"Víš, kolik je hodin? Je tady tak pozdě...\" Zní to, jako by hledala hodiny na nočním stolku."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1435,6 +1621,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030D0"
 msgid "\"Ooo... are you there?\""
 msgstr ""
+"\"Ooo... jsi tam?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1443,6 +1630,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030FB"
 msgid "\"Where are you? You sound like you're in another world.\""
 msgstr ""
+"\"Kde jsi? Zníš, jako z jiného světa.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1451,6 +1639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003151"
 msgid "You need to stop. Harry. You're killing yourself."
 msgstr ""
+"Musíš přestat. Harry. Zabíjíš se."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1459,6 +1648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000322C"
 msgid "\"Is someone there with you?\""
 msgstr ""
+"\"Je tam s tebou někdo?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1467,6 +1657,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D850"
 msgid "It's over."
 msgstr ""
+"Je konec."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1475,6 +1666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020B8"
 msgid "It didn't give you *any* fun for that money. Nothing. Your hand is turning blue now... blood drips to the ground."
 msgstr ""
+"Za ty peníze ti to neposkytlo *žádnou* zábavu. Žádnou. Ruka ti modrá... krev kape na zem."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1483,6 +1675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000235D"
 msgid "Underneath it she is naked and warm under a blanket."
 msgstr ""
+"Pod peřinou je nahá a teplounká."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1491,6 +1684,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002493"
 msgid "\"I'm no one, I'm sorry, I shouldn't have done this...\""
 msgstr ""
+"\"Jsem nikdo, promiňte, neměl jsem tohle dělat...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1499,6 +1693,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025A6"
 msgid "That's it. You're caught in a trap. It'll take quite a while for the shit-circus to end now."
 msgstr ""
+"A je to. Chytili ses do pasti. Bude trvat ještě nějakou dobu, než tenhle cirkus sraček skončí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1507,6 +1702,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025C8"
 msgid "\"I was just having a bit of fun, what's the big deal?\""
 msgstr ""
+"\"Já se tady jen trochu bavím, o co jde?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1515,6 +1711,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026C0"
 msgid "\"You're not a high-net-worth individual, Harry... You're drunk.\""
 msgstr ""
+"\"Nejsi žádný ultra zámožný jedinec, Harry... Jsi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1523,6 +1720,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026E4"
 msgid "\"Are we about *done* with this now?\" The lieutenant has taken a few steps back."
 msgstr ""
+"\"Už jsme s tím snad *skončili*?\" Poručík ustoupil o několik kroků zpět."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1531,6 +1729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002840"
 msgid "Calling still..."
 msgstr ""
+"Pořád vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1539,6 +1738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A40"
 msgid "\"There is nothing.\""
 msgstr ""
+"\"Nic.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1547,6 +1747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003135"
 msgid "\"The Academy? That sounds better than my job. I'm happy.\""
 msgstr ""
+"\"Akademie? To zní líp než moje práce. To mě těší.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1555,6 +1756,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003145"
 msgid "I don't know... I don't understand what's happening."
 msgstr ""
+"Já nevím... Nechápu, co se děje."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1563,6 +1765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000315D"
 msgid "No response, only a sigh. The connection crackles, like burning paper."
 msgstr ""
+"Žádná odpověď, jen povzdech. Spojení praská jako hořící papír."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1571,6 +1774,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002152"
 msgid "\"I just so wanted it to be Pierre... Have a pleasant evening, prankster.\""
 msgstr ""
+"\"Tak moc jsem si přála, aby to byl Pierre... Přeji příjemný večer, vtipálku.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1579,6 +1783,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000219A"
 msgid "Pause. There is silence on the other end."
 msgstr ""
+"Odmlka. Na druhé straně je ticho."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1587,6 +1792,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021A5"
 msgid "\"You won't get me and you won't get my money!\""
 msgstr ""
+"\"Nedostanete mě a nedostanete moje peníze!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1595,6 +1801,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002285"
 msgid "There's a sigh."
 msgstr ""
+"Ozve se povzdech."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1603,6 +1810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023B1"
 msgid "Still, let it ring."
 msgstr ""
+"Nechej to vyzvánět."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1611,6 +1819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002402"
 msgid "\"No, but I got a feeling Al Kickurass is gonna make an appearance if you ever call this number again. Have a good one, asshole!\""
 msgstr ""
+"\"Ne, ale staví se kamarád Dostanesh Napiču, jestli ještě někdy zavoláš na tohle číslo. Přeji hezký den, kreténe!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1619,6 +1828,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025E6"
 msgid "\"Big deal?!\" Not a muscle moves in the lieutenant's face."
 msgstr ""
+"\"O co jde?!\" Na poručíkově tváři se nepohne ani sval."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1627,6 +1837,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027F8"
 msgid "The headset lands in the cradle with a clank. There it sits -- still warm from your hand. You have no idea what just happened."
 msgstr ""
+"Sluchátko s cinknutím dopadne do držáku. A tam leží - ještě teplé z tvé ruky. Nemáš tušení, co se právě stalo."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1635,6 +1846,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000288C"
 msgid "Phone hanging up."
 msgstr ""
+"Zavěšeno."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1643,6 +1855,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A13"
 msgid "\"Is there anything I can do to help you? I'm with the police.\""
 msgstr ""
+"\"Mohu vám nějak pomoci? Jsem od policie.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1651,6 +1864,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003101"
 msgid "\"You're in Mirova, right?\""
 msgstr ""
+"\"Jsi v Mirově, že jo?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1659,6 +1873,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003180"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1667,6 +1882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014938"
 msgid "Run. To the church. Home. Anywhere but here. Anything but calling her again."
 msgstr ""
+"Spusťte. Do kostela. Domů. Kamkoli, jen ne sem. Cokoliv, jen né další hovor s ní."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1675,6 +1891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021AB"
 msgid "There's more?"
 msgstr ""
+"Je toho víc?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1683,6 +1900,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021B1"
 msgid "\"Sure you do. No one has anything nowadays.\""
 msgstr ""
+"\"Jistěže ano. Dnes už nikdo nic nemá.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1691,6 +1909,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002235"
 msgid "Dial a random number -- with your eyes closed."
 msgstr ""
+"Vytoč náhodné číslo - se zavřenýma očima."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1699,6 +1918,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100007200002235"
 msgid "Caustic echo..."
 msgstr ""
+"Žíravá ozvěna..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1707,6 +1927,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100007200002235"
 msgid "White mourning..."
 msgstr ""
+"Bílý smutek..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1715,6 +1936,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100007200002235"
 msgid "Smells like betrayal..."
 msgstr ""
+"Zavání to zradou..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1723,6 +1945,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100007200002235"
 msgid "Sorry cop."
 msgstr ""
+"Lítostivý polda."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1731,6 +1954,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002301"
 msgid "A metal payphone under a yellow plastic dome. You could use it to call someone, unless you're out of change..."
 msgstr ""
+"Kovový telefonní automat pod žlutou plastovou kopulí. Můžeš si z něj někomu zavolat, pokud ti ovšem nedošly drobné..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1739,6 +1963,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002307"
 msgid "Phone hanging up."
 msgstr ""
+"Zavěšeno."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1747,6 +1972,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002324"
 msgid "\"'Harry please?!' -- I am going to *end* this call, dammit.\""
 msgstr ""
+"\"Harry, prosím?!\" - Já tenhle hovor *položím*, sakra.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1755,6 +1981,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000233B"
 msgid "Put 10 cents in and dial a random number: 005-51-17-912."
 msgstr ""
+"Vhoď 10 centů a vytoč náhodné číslo: 005-51-17-912."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1763,6 +1990,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002381"
 msgid "Someone with a masculine voice picks up:"
 msgstr ""
+"Ozve se mužný hlas:"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1771,6 +1999,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002387"
 msgid "Still calling..."
 msgstr ""
+"Pořád vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1779,6 +2008,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023E6"
 msgid "\"Sorry, wrong number.\""
 msgstr ""
+"\"Promiňte, špatné číslo.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1787,6 +2017,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000243F"
 msgid "\"Oh no, not this... what time is it?\""
 msgstr ""
+"\"Ale ne, tohle ne... kolik je hodin?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1795,6 +2026,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024ED"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1803,6 +2035,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000250B"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1811,6 +2044,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002511"
 msgid "\"Wait Girard! Let's just keep talking, buddy!\""
 msgstr ""
+"\"Počkej, Girarde! Jen si dál povídejme, příteli!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1819,6 +2053,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002617"
 msgid "Still calling..."
 msgstr ""
+"Pořád vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1827,6 +2062,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029A9"
 msgid "The area code for Revachol Zone of Control."
 msgstr ""
+"Oblastní kód pro kontrolní pásmo Revachol."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1835,6 +2071,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029E7"
 msgid "Sounds like he hasn't talked to anyone in quite a while."
 msgstr ""
+"Zní to, jako by už dlouho s nikým nemluvil."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1843,6 +2080,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029FD"
 msgid "\"What are you tired of?\""
 msgstr ""
+"\"Z čeho jste unavený?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1851,6 +2089,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A5C"
 msgid "Both pitiful and terrifying. You feel your pulse rising with each ring..."
 msgstr ""
+"Žalostné i děsivé. S každým zazvoněním cítíš, jak se ti zrychluje tep..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1859,6 +2098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003072"
 msgid "\"Harry? Who's Harry?\""
 msgstr ""
+"\"Harry? Kdo je Harry?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1867,6 +2107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030E2"
 msgid "\"It's four o'clock, Harry! I need to wake up in two hours.\""
 msgstr ""
+"\"Jsou čtyři ráno, Harry! Za dvě hodiny musím vstávat.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1875,6 +2116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003108"
 msgid "\"No, I want to go to sleep...\""
 msgstr ""
+"\"Ne, chci jít spát...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1883,6 +2125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003186"
 msgid "What are you doing to yourself right now?"
 msgstr ""
+"Co si to právě teď děláš?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1891,6 +2134,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031B0"
 msgid "Fun? You need to stop. Harry. You're killing yourself."
 msgstr ""
+"Vtipný? Musíš toho nechat. Harry. Zabíjíš se."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1899,6 +2143,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000327E"
 msgid "\"Harry...\""
 msgstr ""
+"\"Harry...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1907,6 +2152,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000210D"
 msgid "\"Who is Pierre?\""
 msgstr ""
+"\"Kdo je Pierre?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1915,6 +2161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002188"
 msgid "\"I don't know who I am... But who are you?\""
 msgstr ""
+"\"Netuším, kdo jsem... ale kdo jste vy?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1923,6 +2170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021FF"
 msgid "\"What kind of pets did you have?\""
 msgstr ""
+"\"Jaká zvířátka jste měla?\"S"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1931,6 +2179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022BB"
 msgid "This feels wrong. Should you be doing this?"
 msgstr ""
+"Mám z toho špatný pocit. Měl bys tohle dělat?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1939,6 +2188,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023B7"
 msgid "11 -- 17 -- 361 -- your fingers keep moving like a spider, every time the ring rotates back with a little ring of metal, like a bell tolling."
 msgstr ""
+"11 -- 17 -- 361 -- tvé prsty se dál pohybují jako pavouk, pokaždé, když otočíš číselníkem, otočí se zpět s malým kovovým cinknutím, jako když zvoní zvon."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1947,6 +2197,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023FC"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1955,6 +2206,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000242E"
 msgid "\"It's Harry, put her on, I don't like waiting.\""
 msgstr ""
+"\"Tady Harry, předej ji telefon, nerad čekám.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1963,6 +2215,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002481"
 msgid "Why?"
 msgstr ""
+"Proč:"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1971,6 +2224,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024B2"
 msgid "\"Very funny, asshole.\""
 msgstr ""
+"\"Fakt vtipný, kreténe.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1979,6 +2233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024F9"
 msgid "You hear a faint *thuck*. You could swear you're hearing furniture falling over."
 msgstr ""
+"Slyšíš slabé *buch*. Přísahal bys, že slyšíš, jak se převrací nábytek."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1987,6 +2242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002566"
 msgid "\"What? I'm just having a bit of fun, what's the big deal?\""
 msgstr ""
+"\"Co? Já se tady jen trochu bavím, o co jde?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -1995,6 +2251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002706"
 msgid "Still calling..."
 msgstr ""
+"Pořád vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2003,6 +2260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000277C"
 msgid "005 is Revachol ZoC -- 001 is Graad, on the Graadian isola, where the telephone was invented. The next two digits you dial are the area code for the city of Mirova..."
 msgstr ""
+"005 je Revachol -- 001 je Graad, na Graadianském ostrově, kde byl vynalezen telefon. Další dvě číslice, které vytočíš, jsou směrovací číslo města Mirova..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2011,6 +2269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027BC"
 msgid "\"Officer -- that's enough. Let's return to work...\""
 msgstr ""
+"\"Detektive - to stačí. Vraťme se k případu...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2019,6 +2278,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002859"
 msgid "The cold metal is hard and hurts your knuckles. You look at them turning purple."
 msgstr ""
+"Studený kov je tvrdý a bolí tě z něj klouby. Vidíš, jak se ti zbarvují do fialova."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2027,6 +2287,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002987"
 msgid "He does not seem to be overly thankful of your kindness as he hangs up."
 msgstr ""
+"Nezdá se, že by byl za tvoji laskavost příliš vděčný, neboť zavěsí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2035,6 +2296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003090"
 msgid "\"Because it's me... Look, I don't understand what you're saying or why you're calling me. You seem drunk.\""
 msgstr ""
+"\"Protože jsem to já... Hele, nerozumím tomu, co říkáš nebo proč mi voláš. Přijdeš mi opilý.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2043,6 +2305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030CA"
 msgid "\"Hey.\""
 msgstr ""
+"\"Haló.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2051,6 +2314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030D8"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2059,6 +2323,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003116"
 msgid "\"What do you want to talk about? That we haven't talked about already...\""
 msgstr ""
+"\"O čem chceš mluvit? O čem jsme ještě nemluvili...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2067,6 +2332,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003225"
 msgid "Disconnect tone -- the machine ran out of money."
 msgstr ""
+"Odpojovací tón - přístroji došly peníze."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2075,6 +2341,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003278"
 msgid "\"Can you help me solve it? I need to solve it. They won't take me back if I don't.\""
 msgstr ""
+"\"Pomůžeš mi ho vyřešit? Potřebuji to vyřešit. Jinak mě nevezmou zpátky.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2083,6 +2350,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020E9"
 msgid "\"No, this is not Pierre.\""
 msgstr ""
+"\"Ne, tady není Pierre.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2091,6 +2359,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002164"
 msgid "\"Is someone *there*?\""
 msgstr ""
+"\"Je *tam* někdo?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2099,6 +2368,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002182"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2107,6 +2377,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002505"
 msgid "\"Stop it! I was just kidding, I'm not sleeping with your wife!\""
 msgstr ""
+"\"Dost! Jen jsem si dělal legraci, nikdo tvojí ženu nebrousí!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2115,6 +2386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002523"
 msgid "A sigh. She heard you, but she does not hang up. And neither do you. You can't."
 msgstr ""
+"Povzdech. Slyšela tě, ale nezavěsila. A ty také ne. Nemůžeš."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2123,6 +2395,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000272A"
 msgid "41 -- 44 -- 47 --  it's too late now, the movement is almost mechanical."
 msgstr ""
+"41 -- 44 -- 47 -- už je pozdě, pohyb je téměř automatický."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2131,6 +2404,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000273C"
 msgid "His own *heart*."
 msgstr ""
+"Jeho vlastnímu *srdci*."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2139,6 +2413,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000281A"
 msgid "Hang up."
 msgstr ""
+"Zavěs."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2147,6 +2422,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000287A"
 msgid "Takes your mind away from that voice, for one second at least..."
 msgstr ""
+"Alespoň na chvilku tě to odpoutá od toho hlasu..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2155,6 +2431,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029ED"
 msgid "Calling still..."
 msgstr ""
+"Pořád vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2163,6 +2440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A56"
 msgid "Seems like it did not have time to swallow the coin. This sometimes happens."
 msgstr ""
+"Vypadá to, že automat nestihnul sežrat minci. To se někdy stává."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2171,6 +2449,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002EC8"
 msgid "He doesn't have a home. Not anymore."
 msgstr ""
+"Nemá domov. Už ne."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2179,6 +2458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000307A"
 msgid "\"Harry? Who's Harry -- are you sleeping with him? Is *Harry* there?!\""
 msgstr ""
+"\"Harry? Kdo je Harry - spíš s ním? Je *Harry* tam?!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2187,6 +2467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030EF"
 msgid "\"Do you want to party?\""
 msgstr ""
+"\"Nechceš si zakalit?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2195,6 +2476,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003209"
 msgid "Your hand isn't moving. The headset hisses in your ear with *evil* sadness."
 msgstr ""
+"Tvoje ruka se nehýbe. Sluchátka ti syčí v uchu se *zlověstným* smutkem."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2203,6 +2485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D84A"
 msgid "That's right. Walk away."
 msgstr ""
+"Přesně tak. Odejdi."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2211,6 +2494,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006AF4"
 msgid "Smash the headset into the cradle."
 msgstr ""
+"Zaklapni sluchátko do držáku."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2219,6 +2503,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020FB"
 msgid "\"There was someone there before. I heard someone. Who's there with you?\""
 msgstr ""
+"\"Předtím tam někdo byl. Někoho jsem slyšel. Kdo je tam s tebou?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2227,6 +2512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002194"
 msgid "\"Dora.\" She's still confused. \"Who is this? The connection is bad...\""
 msgstr ""
+"\"Dora.\" Je stále zmatená. \"Kdo je to? Spojení je špatné...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2235,6 +2521,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021E5"
 msgid "Don't react."
 msgstr ""
+"Nereaguj."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2243,6 +2530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022C1"
 msgid "Still calling..."
 msgstr ""
+"Pořád vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2251,6 +2539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022EF"
 msgid "Disconnect tone."
 msgstr ""
+"Típnutí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2259,6 +2548,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000230D"
 msgid "\"I need to know who you are. WHO ARE YOU?!\""
 msgstr ""
+"\"Potřebuji vědět, kdo jsi. KDO JSI?!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2267,6 +2557,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002319"
 msgid "\"Please. I am going to hang up now, okay?\""
 msgstr ""
+"\"Prosím. Teď zavěsím, ano?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2275,6 +2566,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023AB"
 msgid "Hang up."
 msgstr ""
+"Zavěs."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2283,6 +2575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002469"
 msgid "\"Who the fuck do you think you are talking to me like that?\" The voice on the phone is suddenly very agitated."
 msgstr ""
+"\"Kdo si kurva myslíš, že jsi, takhle se mnou mluvit?\" Hlas v telefonu je najednou velmi podrážděný."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2291,6 +2584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000246F"
 msgid "Just let it ring."
 msgstr ""
+"Jen to nech zvonit."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2299,6 +2593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025E0"
 msgid "\"I'm a revolutionary servant of humanity. I will free mankind and abolish the classes. I will raise the dead.\" (Proceed.)"
 msgstr ""
+"\"Jsem revoluční služebník lidstva. Osvobodím lidstvo a zruším třídy. Vzkřísím mrtvé.\" (Pokračuj.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2307,6 +2602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000262F"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2315,6 +2611,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000264D"
 msgid "\"I want to die.\""
 msgstr ""
+"\"Chci umřít.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2323,6 +2620,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002670"
 msgid "You dial the number again -- twenty six pulls of the rotary dial. The machine eats the coin and a terrifying ocean of distance rustles in your ear..."
 msgstr ""
+"Znovu vytočíš číslo - dvacet šestkrát stiskneš otočný číselník. Automat sežere minci a v uších ti zašumí děsivý oceán dálek..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2331,6 +2629,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002676"
 msgid "\"Yes, but a slight change of plans -- I want this delivered to the Whirling-in-Rags in Martinaise.\""
 msgstr ""
+"\"Ano, ale malá změna plánu - chci, aby to bylo doručeno do Cárů v Martináze.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2339,6 +2638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027EC"
 msgid "\"That's enough now, officer...\" The lieutenant stands at a distance."
 msgstr ""
+"\"To už by stačilo, detektive...\" Poručík stojí opodál."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2347,6 +2647,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000280E"
 msgid "\"No-no...\" She's waking up now. \"It's *you*, isn't it? It's you...\""
 msgstr ""
+"\"Ne-ne...\" Už se probouzí. \"Jsi to *ty*, že? Jsi to ty...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2355,6 +2656,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000285F"
 msgid "The cold metal is hard and your knuckles bleed a little..."
 msgstr ""
+"Chladný kov je tvrdý a tvé klouby trochu krvácejí..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2363,6 +2665,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028B8"
 msgid "Hello, Girard. Technically speaking, you're electricity."
 msgstr ""
+"Ahoj, Girarde. Technicky vzato mluví elektřina."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2371,6 +2674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000295F"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2379,6 +2683,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000299D"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2387,6 +2692,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A29"
 msgid "You do not hear the customary disconnect tone, just silence in the handset -- the machine is still waiting for you to dial a number."
 msgstr ""
+"Ve sluchátku není slyšet obvyklý odpojovací tón, ale jen ticho - přístroj stále čeká na vytočení čísla."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2395,6 +2701,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000317A"
 msgid "\"Where are you going in two hours?\""
 msgstr ""
+"\"Kam musíš za dvě hodiny?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2403,6 +2710,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031D1"
 msgid "This is bad, you feel your right hand on the handset cramping up with pain..."
 msgstr ""
+"Tohle je špaténka, cítíš, jak se ti bolestivou křečí svírá ruka na sluchátku..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2411,6 +2719,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000215E"
 msgid "Disconnect tone."
 msgstr ""
+"Típnutí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2419,6 +2728,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000218E"
 msgid "\"I was a baroness.\""
 msgstr ""
+"\"Bývala jsem baronkou.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2427,6 +2737,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021EB"
 msgid "\"That's... not good.\""
 msgstr ""
+"\"To... není dobré.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2435,6 +2746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023C8"
 msgid "\"I want to live -- with you...\""
 msgstr ""
+"\"Chci žít - s tebou...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2443,6 +2755,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000072000023C8"
 msgid "\"I want to live -- with you...\" (Take a sip from the bottle -- your throat is parched all of a sudden.) "
 msgstr ""
+"\"Chci žít - s tebou...\" (Napij se z láhve - najednou ti nějak vyschlo v krku.) "
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2451,6 +2764,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002428"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2459,6 +2773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002451"
 msgid "\"Don't worry about it, buddy -- happens to all of us. You have a nice day now!\""
 msgstr ""
+"\"Nic si z toho nedělej, člověče - stává se to každému z nás. Přeji vám hezký den!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2467,6 +2782,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024CA"
 msgid "\"Doesn't matter, put her on, I don't like waiting.\""
 msgstr ""
+"\"Na tom nezáleží, předej ji telefon, nerad čekám.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2475,6 +2791,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000251D"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2483,6 +2800,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025B1"
 msgid "\"What the hell are you doing?\" The lieutenant has been keeping a distance, but steps closer now."
 msgstr ""
+"\"Co to ksakru provádíte?\" Poručík se držel stranou, ale teď přistoupil blíž."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2491,6 +2809,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025C2"
 msgid "\"You're right, Kim -- this went wrong, I shouldn't have done this...\""
 msgstr ""
+"\"Máš pravdu, Kime - tohle se nepovedlo, neměl jsem to dělat...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2499,6 +2818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002641"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2507,6 +2827,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026F4"
 msgid "You close your eyes and put your index finger on the rotary dial, then pull down on the number, then move one up and repeat the motion, twice..."
 msgstr ""
+"Zavřeš oči a položíš ukazováček na otočný číselník, pak zatáhneš za číslo, pak ho posuneš jednou nahoru a pohyb zopakuješ, dvakrát..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2515,6 +2836,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000274D"
 msgid "Wait -- what did I just do?"
 msgstr ""
+"Počkat - co jsem to právě udělal?"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2523,6 +2845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000279F"
 msgid "Ringing by the bedside of a dark but capacious apartment with long windows... you know this to be true."
 msgstr ""
+"Vyzvánění u postele v tmavém, ale prostorném bytě s podlouhlými okny... víš, že je to tak."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2531,6 +2854,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029D3"
 msgid "Hang it up."
 msgstr ""
+"Zavěs to."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2539,6 +2863,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000311D"
 msgid "\"I'm in Mirova. Sleeping.\""
 msgstr ""
+"\"Jsem v Mirově. Spím.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2547,6 +2872,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000312F"
 msgid "Catastrophic damage."
 msgstr ""
+"Katastrofální škody."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2555,6 +2881,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031A2"
 msgid "\"My job is sad and terrible. It has dead bodies in it.\""
 msgstr ""
+"\"Moje práce je smutná a příšerná. Jsou v ní mrtvoly.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2563,6 +2890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020D1"
 msgid "\"Pierre? Is that you, Pierre?\" The voice is female and sounds about a hundred years old."
 msgstr ""
+"\"Pierre? Jsi to ty, Pierre?\" Hlas je ženský a zní asi sto let staře."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2571,6 +2899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002129"
 msgid "\"No, I have nothing.\""
 msgstr ""
+"\"Ne, nic nemám.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2579,6 +2908,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000216A"
 msgid "\"Yes, I'm a salesman. What exactly did we do to your country?\""
 msgstr ""
+"\"Ano, jsem prodejce. Co přesně jsme provedli vaší vlasti?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2587,6 +2917,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021D5"
 msgid "\"To hell with the police! To hell with you...\""
 msgstr ""
+"\"K čertu s policií! K čertu s vámi...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2595,6 +2926,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000225C"
 msgid "\"Hello.\""
 msgstr ""
+"\"Ahoj.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2603,6 +2935,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022A5"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2611,6 +2944,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022AB"
 msgid "It doesn't matter if you react or not. You still think you hear a *man's* voice in the background. It's covered in pain and white noise..."
 msgstr ""
+"Nezáleží na tom, jestli reaguješ, nebo ne. Stále si myslíš, že je v pozadí slyšet *mužský* hlas. Je zastřený bolestí a bílým šumem..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2619,6 +2953,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022D7"
 msgid "Hang up. [Leave.]"
 msgstr ""
+"Zavěs. [Odejdi.]"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2627,6 +2962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000023CE"
 msgid "\"Is Alec Tricity there? I need to speak with Alec Tricity, please.\""
 msgstr ""
+"\"To je Alek Třina? Musím mluvit s panem Alek Třinou, prosím.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2635,6 +2971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002457"
 msgid "\"What?\" It takes a second for her to realize what you said."
 msgstr ""
+"\"Cože?\" Chvíli jí trvá, než si uvědomí, co jsi řekl."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2643,6 +2980,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002475"
 msgid "\"Your voice is so beautiful.\""
 msgstr ""
+"\"Tvůj hlas je tak nádherný.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2651,6 +2989,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025B7"
 msgid "No. Let it call. I *must*."
 msgstr ""
+"Ne. Nech to vyzvánět. Já *musím*."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2659,6 +2998,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000270C"
 msgid "Followed by seven digits at random. The last one makes the silence turn into a ring. It's calling..."
 msgstr ""
+"Následuje sedm náhodně vybraných číslic. Poslední z nich způsobí, že se ticho změní ve vyzvánění. Zvoní to..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2667,6 +3007,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002747"
 msgid "It's *really* time to stop this now."
 msgstr ""
+"Teď už je *vážně* čas přestat."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2675,6 +3016,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002759"
 msgid "An ultra-long-distance call. Your ear fills with a crackle, the wash of a strange ocean full of white noise. A little bird starts ringing in there, not like the local calling tone before. No, a small ring in a cage of distortion, far away, a distant network of phones..."
 msgstr ""
+"Hovor na ultra dlouhou vzdálenost. Ucho se ti naplní praskotem, přílivem cizího oceánu plného bílého šumu. Začne v něm zvonit ptáček, ne jako předtím zdejší volací tón. Ne, malé zvonění v kleci plné distorze, daleko, ve vzdálené síti telefonů..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2683,6 +3025,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002896"
 msgid "Disconnect tone."
 msgstr ""
+"Típnutí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2691,6 +3034,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028FD"
 msgid "Say you're not Pierre... that seems like a better idea. (You don't know why.)"
 msgstr ""
+"Řekni, že nejsi Pierre... zdá se to jako lepší nápad. (Nevíš proč.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2699,6 +3043,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002979"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2707,6 +3052,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029B5"
 msgid "Put 10 cents in and dial a random number: 005-11-11-313."
 msgstr ""
+"Vhoď 10 centů a vytoč náhodné číslo: 005-11-11-313."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2715,6 +3061,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000029C1"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2723,6 +3070,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A4A"
 msgid "Lucky you. The call went too fast for the payphone to register. You can still make a new one without paying."
 msgstr ""
+"Máš štěstí. Hovor proběhl příliš rychle na to, aby ho telefonní automat zaregistroval. Stále můžeš uskutečnit nový hovor bez placení."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2731,6 +3079,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003233"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2739,6 +3088,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003269"
 msgid "\"It doesn't matter. This case doesn't matter.\""
 msgstr ""
+"\"Na tom nezáleží. Na tomhle případu nezáleží.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2747,6 +3097,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006AF9"
 msgid "No. I can't. I need the pain."
 msgstr ""
+"Ne. Nemůžu. Potřebuji tu bolest."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2755,6 +3106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000020DD"
 msgid "\"I might be? What's Pierre like?\""
 msgstr ""
+"\"Možná i jsem? Jaký je Pierre?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2763,6 +3115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021CF"
 msgid "And calling -- for who knows how long. But no one answers. You need to insert more money to call again."
 msgstr ""
+"A zvoní - kdo ví, jak dlouho. Ale nikdo to nezvedá. Musíš vložit další peníze, abys mohl zavolat znovu."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2771,6 +3124,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000220B"
 msgid "Put 10 cents in and dial the long phone number one more time."
 msgstr ""
+"Vlož 10 centů a vytoč dlouhé telefonní číslo ještě jednou."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2779,6 +3133,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000227D"
 msgid "Silence. The connection falters. You hear her last words repeated back to you in an echo:"
 msgstr ""
+"Ticho. Spojení slábne. Slyšíš její poslední slova, která se k tobě vracejí v ozvěně:"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2787,6 +3142,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002313"
 msgid "\"Please do. Just please do.\""
 msgstr ""
+"\"Prosím polož. Jen to polož.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2795,6 +3151,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002393"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2803,6 +3160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024BE"
 msgid "\"Very funny, asshole. Why don't you grow up! Oh, and disco is dead!\""
 msgstr ""
+"\"Fakt vtipný, kreténe. A co třeba takhle dospět! Jo a disko je mrtvý!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2811,6 +3169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024C4"
 msgid "\"I can't *tell* you who I am. I have a secret plan to win mankind three thousand years of peace on this planet. I have to be ominously vague...\" (Proceed.)"
 msgstr ""
+"\"Nemůžu ti *říct*, kdo jsem. Mám tajný plán, jak vydobýt lidstvu tři tisíce let míru na této planetě. Musím být zlověstně nekonkrétní...\" (Pokračuj.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2819,6 +3178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000252F"
 msgid "\"I'm not going to stop. I'm going to keep fucking your wife, Girard.\""
 msgstr ""
+"\"Nehodlám přestat. Budu ti dál píchat ženu, Girarde.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2827,6 +3187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025FB"
 msgid "\"Let's just go, I've had enough of this phone booth.\""
 msgstr ""
+"\"Prostě pojďme, už mám tehle telefonní budky dost.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2835,6 +3196,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000260B"
 msgid "Put it down."
 msgstr ""
+"Polož to."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2843,6 +3205,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026C6"
 msgid "Amid the howling in the wire you make out a woman's voice with a thick Samaran accent: \"Girard... Girard, this is a joke. Someone is making a joke...\""
 msgstr ""
+"Mezi kvílením v drátech slyšíš ženský hlas se silným samarským přízvukem: \"Girarde... Girarde, to je vtip. Někdo si z tebe utahuje...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2851,6 +3214,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026FC"
 msgid "You close your eyes and feel your finger move on the rotary dial. You start with 005, as before..."
 msgstr ""
+"Zavíráš oči a cítíš, jak se tvůj prst pohybuje na otočném číselníku. Začínáš na 005, jako předtím..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2859,6 +3223,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002799"
 msgid "You only have two, maybe three things left to say before the change runs out."
 msgstr ""
+"Zbývají ti už jen dvě, možná tři věci, co stačíš říct, než dojdou drobné."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2867,6 +3232,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027AA"
 msgid "It didn't give you *any* fun for that money. Your hand is turning blue now... blood drips to the ground."
 msgstr ""
+"Za ty peníze ti to neposkytlo *žádnou* zábavu. Ruka ti modrá... krev kape na zem."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2875,6 +3241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000027C4"
 msgid "Your hand is swelling up."
 msgstr ""
+"Ruka ti otéká."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2883,6 +3250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002915"
 msgid "The lieutenant shrugs apathetically, then walks a little distance away to concentrate on his notes. Looks like he'd rather not get into it again."
 msgstr ""
+"Poručík apaticky pokrčí rameny, popojde kousek stranou a soustředí se na své poznámky. Vypadá to, že by byl radši, aby se to už neopakovalo."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2891,6 +3259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002927"
 msgid "This has lowered his opinion of you -- but only a little."
 msgstr ""
+"Tím se jeho mínění o tobě snížilo - ale jen trochu."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2899,6 +3268,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002EEC"
 msgid "And fight."
 msgstr ""
+"A bojovat."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2907,6 +3277,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003066"
 msgid "\"I'm gonna get even drunker.\" (Take a big sip.)"
 msgstr ""
+"\"Chystám se opít ještě víc.\" (Pořádně si lokni.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2915,6 +3286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000030B3"
 msgid "\"Oh god...\" There's silence, it's heavy as tin. The white noise howls."
 msgstr ""
+"\"Bože...\" Nastane ticho, těžké jako cín. Bílý šum vyje."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2923,6 +3295,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000313B"
 msgid "\"Pfft, Academy... my job is *real*.\""
 msgstr ""
+"\"Pfft, Akademie... moje práce je *skutečná*.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2931,6 +3304,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000031DE"
 msgid "No. We're not gonna do this. Your hand is *not* going to cramp up, not now."
 msgstr ""
+"Ne. Nic takového. Tvoje ruka *nebude* v křeči, ne teď."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2939,6 +3313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000209A"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2947,6 +3322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002176"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2955,6 +3331,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021B7"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2963,6 +3340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000021C3"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2971,6 +3349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000022E9"
 msgid "This is too much... You need to recede..."
 msgstr ""
+"Tohle je moc... Musíš se stáhnout..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2979,6 +3358,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002355"
 msgid "\"Oh no... is that you?\" Her voice sounds like she's waking up now. Still plaintive, tired..."
 msgstr ""
+"\"Ale ne... to jsi ty?\" Její hlas zní, jako by se právě probouzela. Stále prostinký, unavený..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2987,6 +3367,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002439"
 msgid "\"It's Pierre, now put her on. I don't like waiting.\""
 msgstr ""
+"\"Tady Pierre, teď ji dej telefon. Nerad čekám.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -2995,6 +3376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000024DB"
 msgid "\"Just tell me what's going on here!\" Now you hear fear too. The voice gets further away from the microphone, then yells: \"Bian, come here!\""
 msgstr ""
+"\"Prostě mi řekněte, co se tu děje!\" Teď už v něm slyšíš i strach. Hlas se vzdaluje od mikrofonu a křičí \"Blanko, pojď sem!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3003,6 +3385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000025DA"
 msgid "\"I don't understand what I did wrong.\""
 msgstr ""
+"\"Nechápu, co jsem udělal špatně.\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3011,6 +3394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002611"
 msgid "\"Stop calling me, man!\" Someone picks up. The voice on the other end is slightly hysterical."
 msgstr ""
+"\"Přestaň mi volat, chlape!\" Někdo to zvedne. Hlas na druhém konci je mírně hysterický."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3019,6 +3403,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000263B"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3027,6 +3412,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000266A"
 msgid "\"Uh... who is this?\""
 msgstr ""
+"\"Eh... kdo je tam?\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3035,6 +3421,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000026AE"
 msgid "\"Tethys, I uh...\" The young man realises something. \"Hey, you're not Tethys! Screw you and don't ever call here again, you're fucking with some *serious* people!\""
 msgstr ""
+"\"Tome, hele já...\" Ten mladík si něco uvědomí. \"Hej, ty nejsi Tomáš! Táhni do prdele a už sem nikdy nevolej, zahráváš si s fakt *nebezpečnejma* lidma!\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3043,6 +3430,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028A6"
 msgid "The cold metal is hard and your knuckles bleed."
 msgstr ""
+"Chladný kov je tvrdý a tvé klouby krvácejí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3051,6 +3439,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000028CA"
 msgid "\"You want more money now, huh?! YOU WANT FUCKING MONEY?!!!?\" (Punch the phone again.)"
 msgstr ""
+"\"Teď chceš víc peněz, co?! CHCEŠ KURVA DALŠÍ PRACHY?!!!?\" (Vlep mu ještě jednou.)"
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3059,6 +3448,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000720000296D"
 msgid "Calling..."
 msgstr ""
+"Vyzvání..."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3067,6 +3457,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A2F"
 msgid "The man disappears with a sigh."
 msgstr ""
+"Muž se s povzdechem vytratí."
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3075,6 +3466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200002A3A"
 msgid "\"If I could go just one month without writing. No, two months... I could regenerate my brain. Fucking liberalism...\""
 msgstr ""
+"\"Kdybych mohl strávit alespoň jeden měsíc bez psaní. Ne, dva měsíce... Mohl bych si zregenerovat mozek. Zasranej liberalismus...\""
 
 #. Title = BOARDWALK / PAYPHONE
 #. Description = Payphone, for calling folk. Call everyone.
@@ -3083,3 +3475,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200003157"
 msgid "\"Where?\""
 msgstr ""
+"\"Kam?\""
