@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 11:32+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000020A2"
 msgid "\"Eyes up, detective. Something's not right here.\""
 msgstr ""
+"\" Oči vzhůru, detektive. Něco je tu špatně.\""
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D2D"
 msgid "The lieutenant has already brought a handkerchief to his nose."
 msgstr ""
+"Poručík si už stihl přiložit kapesník k nosu."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D960"
 msgid "Keep it in now. Don't overreact. Breathe."
 msgstr ""
+"Nech to uvnitř. Žádné přehnané reakce. Dýchej."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002CDB"
 msgid "The smell... It's awful and familiar."
 msgstr ""
+"Ten puch... Je příšerný a povědomý."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000033D6"
 msgid "No, it's much worse than that."
 msgstr ""
+"Ne, je to něco mnohem horšího."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002063"
 msgid "It's a dead corpse isn't it?"
 msgstr ""
+"Je to mrtvá mrtvola, že jo?"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002CFB"
 msgid "Don't be naive."
 msgstr ""
+"Nebuď naivní."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D952"
 msgid "Hold on, that *is* awful. (Cover your nose.)"
 msgstr ""
+"Počkat, ten *je* příšerný. (Zacpi si nos.)"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000203A"
 msgid "You've never smelled anything this bad before. It's pungent, but with a faintly cloying sweetness like cheap perfume on Death itself."
 msgstr ""
+"Nikdy předtím jsi nic tak strašného necítil. Je čpavý, ale s lehce vlezlou sladkostí jako levný parfém samotné Smrtky."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007B0000203A"
 msgid "Don't you recognize it? That hideous pungency, that faintly cloying sweetness? Only death smells like that."
 msgstr ""
+"Copak to nepoznáváš? Tu odpornou štiplavost, tu slabě vlezlou sladkost? Takhle voní jen smrt."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002071"
 msgid "The signs of decaying meat. It announces itself from two dozen metres away. A warning, a *memento mori*."
 msgstr ""
+"Známky rozkládajícího se masa. Ohlašuje se na vzdálenost dvou tuctů metrů. Varování, *memento mori*."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000BFB"
 msgid "Something cold wakes in the pit of your stomach: fear."
 msgstr ""
+"V žaludku se ti probouzí cosi chladného: strach."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D0A"
 msgid "What is it then?"
 msgstr ""
+"Co to teda je?"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D26"
 msgid "\"Heads up, lieutenant. Something's not right here.\""
 msgstr ""
+"\"Opatrně, poručíku. Něco je tu špatně.\""
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002093"
 msgid "\"Kim, what's that smell?\""
 msgstr ""
+"\"Kime, co je to za smrad?\""
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000209B"
 msgid "The lieutenant has already brought a handkerchief to his nose."
 msgstr ""
+"Poručík si už stihl přiložit kapesník k nosu."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000033DD"
 msgid "Oh no..."
 msgstr ""
+"A sakra..."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000020AB"
 msgid "Yes. A sense of dread washes over you as you look ahead."
 msgstr ""
+"Ano. Při pohledu kupředu tě zaplaví pocit hrůzy."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D35"
 msgid "Goddamnit..."
 msgstr ""
+"Krucinál..."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D44"
 msgid "I don't want to be here."
 msgstr ""
+"Já tu nechci být."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D959"
 msgid "It doesn't help. You can still smell it."
 msgstr ""
+"Nepomáhá to. Pořád ho cítíš."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002CE3"
 msgid "What is that awful smell?"
 msgstr ""
+"Co je to za příšerný puch?"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002033"
 msgid "What is it?"
 msgstr ""
+"Co je to?"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000033CF"
 msgid "Isn't it just the rotting fish?"
 msgstr ""
+"Nejsou to jen hnijící ryby?"
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002D3C"
 msgid "A sense of dread washes over you as you look ahead."
 msgstr ""
+"Při pohledu kupředu tě zaplaví pocit hrůzy."
 
 #. Title = BOARDWALK ORB / smell of death
 #. Description = You smell something awfully familiar...
@@ -185,3 +218,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000204F"
 msgid "It *is* death. It must be."
 msgstr ""
+"*Je* to smrt. Musí být."
