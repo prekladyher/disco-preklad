@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 13:14+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A407"
 msgid "\"Could I get a refill here, please?\""
 msgstr ""
+"\"Mohl byste mi prosím dolít?"
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A41E"
 msgid "\"Yes, yes, I'm very attractive. Great, thank you.\""
 msgstr ""
+"\"Ano, ano, jsem velmi atraktivní. Skvělé, děkuji.\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A401"
 msgid "\"Can't do it with class? Don't do it at all.\""
 msgstr ""
+"\"Nezvládneš to udělat na úrovni? Tak to nedělej vůbec.\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A425"
 msgid "\"Okay, *you* tell me this doesn't taste like shit...\""
 msgstr ""
+"\"Jasně, řekni, že to nechutná jako kus hovna...\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A410"
 msgid "\"Don't even get me started on beauty...\""
 msgstr ""
+"\"O kráse mi ani nezačínej...\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A42C"
 msgid "\"*Obviously* I'm gonna quit some day.\""
 msgstr ""
+"\"*Očividně* jednoho dne s tím seknu.\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A3FB"
 msgid "\"*How* can a bar be out of vermouth?\""
 msgstr ""
+"\"*Jak* může v baru dojít vermut?\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks whirling
 #. Description = Barks in Whirling.
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A417"
 msgid "\"I'm practically a shrink minus the diploma.\""
 msgstr ""
+"\"Jsem v podstatě cvokař bez titulu.\""
