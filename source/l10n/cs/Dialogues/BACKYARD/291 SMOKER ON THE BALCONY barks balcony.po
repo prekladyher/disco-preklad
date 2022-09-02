@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 13:07+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks balcony
 #. Description = Barks on the balcony.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019F14"
 msgid "\"So much for a quiet smoke.\""
 msgstr ""
+"\"Tolik ke krátké cigaretě.\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks balcony
 #. Description = Barks on the balcony.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019F1A"
 msgid "\"I *knew* I should've quit...\""
 msgstr ""
+"\"Já *věděl*, že jsem s tím měl seknout...\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks balcony
 #. Description = Barks on the balcony.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019F02"
 msgid "\"Hey, what's that noise down there?\""
 msgstr ""
+"\"Hej, co je to tam dole za hluk?\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks balcony
 #. Description = Barks on the balcony.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019F0E"
 msgid "\"I can't get involved in this...\""
 msgstr ""
+"\"Nemůžu se do toho zaplést...\""
 
 #. Title = BACKYARD / SMOKER ON THE BALCONY barks balcony
 #. Description = Barks on the balcony.
@@ -38,3 +50,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019F08"
 msgid "\"It's been a week and now they show up?\""
 msgstr ""
+"\"Už je to týden a teď se tu objeví?\""
