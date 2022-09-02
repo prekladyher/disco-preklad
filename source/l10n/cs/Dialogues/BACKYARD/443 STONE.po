@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 13:18+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002912"
 msgid "Ignore it. [Leave.]"
 msgstr ""
+"Ignoruj to. [Odejdi.]"
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000400000291C"
 msgid "There's a key beneath it, rusty from the dirt."
 msgstr ""
+"Je pod ním klíč, zrezivělý od hlíny."
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001677B"
 msgid "\"We'll just have to go in and see.\""
 msgstr ""
+"\"Budeme muset dovnitř a uvidíme.\""
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000F148"
 msgid "\"This must be for the front door. Pity it doesn't have the apartment number on it. This building has many apartments and the man can be in any of them...\""
 msgstr ""
+"\" Tenhle musí být od vchodových dveří. Škoda, že na něm není číslo bytu. Tahle budova má stovky bytů.\""
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002900"
 msgid "A stone like any other, lying in a whorl of sleet and mud. Maybe there's something under it?"
 msgstr ""
+"Kámen jako každý jiný, ležící ve změti bláta a sněhu. Možná je něco pod ním?"
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002953"
 msgid "Put the stone back. [Leave.]"
 msgstr ""
+"Polož kámen zpět. [Odejdi.]"
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001638C"
 msgid "\"How are we going to find the right one?\""
 msgstr ""
+"\"Jak najdeme ten správný?\""
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016771"
 msgid "\"This must be for the front door. Let's see if it works.\""
 msgstr ""
+"\"Tenhle musí být od vchodových dveří. Zkusíme jestli to půjde.\""
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000F14D"
 msgid "Looks like it could belong to the building's front door."
 msgstr ""
+"Vypadá to, že by mohl být od vstupních dveří budovy."
 
 #. Title = BACKYARD / STONE
 #. Description = First follow-up convo with Kim where you discover keys under the stone.
@@ -73,3 +90,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000400000290C"
 msgid "Turn it over."
 msgstr ""
+"Otoč ho."
