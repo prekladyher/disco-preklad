@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 13:54+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000322A"
 msgid "Why am I looking at this wall?"
 msgstr ""
+"Proč se dívám na tuhle zeď?"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000160000322A"
 msgid "In the dimming light, some things become clearer."
 msgstr ""
+"V šeru se některé věci stávají jasnějšími."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "tooltip2/0x010000160000322A"
 msgid "Dodge ball, really? You don't even have a ball for that."
 msgstr ""
+"Vybíjená, vážně? Vždyť na to ani nemáš míč."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "tooltip3/0x010000160000322A"
 msgid "You have a keen aesthetic sensibility."
 msgstr ""
+"Máš vytříbené estetické cítění."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "tooltip4/0x010000160000322A"
 msgid "Cindy's artistic impulses are infectious."
 msgstr ""
+"Artistické impulzy Cindy jsou nakažlivé."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "tooltip5/0x010000160000322A"
 msgid "Dresscode: Pseudo-SKULL."
 msgstr ""
+"Oděvní norma: Pseudo-LEBKA"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000032E8"
 msgid "Yes, I must paint this wall, ADD to it! (Get task.)"
 msgstr ""
+"Ano, musím tu zeď vymalovat, PŘIDAT ji! (Vezmi úkol.)"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033D4"
 msgid "He sighs, then adds in a resigned tone: \"If you must.\""
 msgstr ""
+"Povzdechne si a pak rezignovaně dodá: \"Jestli je to nutné.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000341B"
 msgid "There it is -- the most beautiful of walls. Stop and admire it for a moment."
 msgstr ""
+"Tady je - nejkrásnější ze všech zdí. Chvíli tu zůstaň a obdivuj ji."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000160000341B"
 msgid "The pastels of the wall seem still more luminous in the falling snow."
 msgstr ""
+"Pastelové barvy zdi se v padajícím sněhu zdají být ještě zářivější."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000160000341B"
 msgid "Rain darkens the surface of the most beautiful of all walls, but does not in any way diminish its beauty."
 msgstr ""
+"Déšť ztmavuje povrch nejkrásnější ze všech zdí, ale nijak jí neubírá na kráse."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000032E2"
 msgid "\"Kim! I *must* paint this wall, add even MORE beauty to it.\""
 msgstr ""
+"\"Kime! *Musím* na tu zeď něco namalovat, přidat na ni ještě více krásy.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000335D"
 msgid "This is a wall on the side of an apartment building."
 msgstr ""
+"Jedná se o zeď na boku obytného domu."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000336B"
 msgid "The wall waits mutely."
 msgstr ""
+"Stěna mlčky čeká."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000340A"
 msgid "Your hands shake as they reach for the wall..."
 msgstr ""
+"Ruce se ti třesou, jak se natahují ke zdi..."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000022E0"
 msgid "Cindy the SKULL has all the necessary materials. Talk to her?"
 msgstr ""
+"Lebka Cindy má všechny potřebné propriety. Promluv si s ní?"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B0000295A"
 msgid "He sounds tired of it all."
 msgstr ""
+"Zní z toho všeho unaveně."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003282"
 msgid "Maybe this would be a good wall for dodge ball?"
 msgstr ""
+"Možná by to byla dobrá zeď pro vybíjenou?"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033E6"
 msgid "Yes, do that. The wall will be waiting."
 msgstr ""
+"Ano, to udělej. Ta zeď na tebe počká."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033F0"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033CE"
 msgid "\"I'm sure I'll find the materials. Then we can come back to this magnificent wall.\""
 msgstr ""
+"\"Jsem si jistý, že pomůcky seženu. Pak se můžeme vrátit k téhle velkolepé zdi.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003343"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003230"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000326A"
 msgid "You have no clue. It's just a wall."
 msgstr ""
+"Nemáš tucha. Je to jen zeď."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000327C"
 msgid "Because -- you see it, finally -- this wall is *sublime*! LOOK AT IT! The shadows, the colours..."
 msgstr ""
+"Protože - vidíš to, konečně - tahle zeď je *vznešená*! KOUKNI NA TO! Ty stíny, ty barvy..."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003331"
 msgid "Look the wall over again, carefully. Think about what you could paint there..."
 msgstr ""
+"Znovu si zeď pozorně prohlédni. Přemýšlej, co bys tam mohl namalovat..."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100001600003331"
 msgid "\"I changed my mind. I *will* paint this wall.\" "
 msgstr ""
+"\"Rozmyslel jsem si to. Tu zeď *vymaluju*.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033DA"
 msgid "\"I suppose we'll have to pass by it again at some point anyway,\" he says in a tone of resignation."
 msgstr ""
+"\"Předpokládám, že kolem ní stejně budeme muset někdy znovu projít,\" řekne rezignovaně."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003499"
 msgid "All the other walls on all the other houses must make a pilgrimage in adoration of this, the uncontested pinnacle of wall-craft. Colour peeled from the very face of god."
 msgstr ""
+"Všechny ostatní stěny na všech ostatních domech musí vykonat pouť, aby se poklonily tomuto nespornému vrcholu nástěnného umění. Barva loupajíc se z tváře samotného boha."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000321E"
 msgid "Blank, conveying nothing."
 msgstr ""
+"Prázdná, nic neříkající."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003270"
 msgid "Yeah, why? It's a wall, an ordinary wall."
 msgstr ""
+"Jo, proč? Je to zeď, obyčejná zeď."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003382"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B4E0"
 msgid "Your loss. Farewell, snow-flecked wall at the end of the world."
 msgstr ""
+"Tvoje mínus. Sbohem, sněhem posetá zdi na konci světa."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B4EA"
 msgid "Your loss. Farewell, wall at the end of the world, draped in shadow."
 msgstr ""
+"Tvoje mínus. Sbohem, zdi na konci světa, zahalená do stínu."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003399"
 msgid "Cindy the SKULL has what I need."
 msgstr ""
+"Lebka Cindy má vše, co potřebuji."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100001600003399"
 msgid "I already have heavy fuel oil, and Cindy the SKULL has a paintbrush..."
 msgstr ""
+"Už mám ten těžký motorový olej a Lebka Cindy má štětec..."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003403"
 msgid "\"Mhm, sure.\" The lieutenant looks up at the wall reluctantly, then back at you."
 msgstr ""
+"\"Mhm, jistě.\" Poručík se neochotně podívá na zeď a pak zpátky na tebe."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000329D"
 msgid "(Let the conceptual joy flow into your pupils and blossom into thoughts in your brain.)"
 msgstr ""
+"(Nechej konceptuální radost proudit do svých zorniček a rozkvétat v myšlenkách tvého mozku.)"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033C8"
 msgid "\"I must talk to Cindy. Get the necessary *materials* from her.\""
 msgstr ""
+"\"Musím si promluvit se Cindy. Získat od ní potřebné *pomůcky*.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000016000033C8"
 msgid "\"I already have the paint. Just need to get a paintbrush from Cindy the SKULL.\""
 msgstr ""
+"\"Barvu už mám, teď jen potřebuju štětec od Lebky Cindy."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033E0"
 msgid "Yes, great thinking, go talk to her. The wall will be waiting."
 msgstr ""
+"Ano, skvělá myšlenka, jdi si s ní promluvit. Zeď bude čekat."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003436"
 msgid "Because this is no ordinary wall. It is *sublime*! LOOK AT IT! The shadows, the colours..."
 msgstr ""
+"Protože tohle není obyčejná zeď. Je *vznešená*! KOUKNI NA TO! Ty stíny, ty barvy..."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DB09"
 msgid "You already have the heavy fuel oil to use as paint -- it's red! -- and Cindy the SKULL has a paintbrush. This is on."
 msgstr ""
+"Už máš těžký motorový olej, který můžeš použít jako barvu - je červený! - A Lebka Cindy má štětec. Tohle půjde."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003294"
 msgid "The lieutenant sighs. \"Why must we stop to look at this wall every time we pass by? We have business to attend to.\""
 msgstr ""
+"Poručík si povzdechne. \"Proč se musíme zastavovat a dívat se na tuhle zeď pokaždé, když tudy procházíme? Měli bychom se věnovat práci.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000032CD"
 msgid "More!"
 msgstr ""
+"Víc!"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003364"
 msgid "Just an ordinary wall. Nothing to see here."
 msgstr ""
+"Jen obyčejná zeď. Není tu nic k vidění."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003393"
 msgid "\"Huh?\""
 msgstr ""
+"\"Co?\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000339F"
 msgid "I'm sure I'll find them. And then I'll return to this wall."
 msgstr ""
+"Určitě je najdu. A pak se vrátím k téhle zdi."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000033FD"
 msgid "\"First, I know you're tired, Kim, but take another look at this wall. Draw *nourishment* from its beauty.\""
 msgstr ""
+"\"Hele, vím, že jsi unavený Kime, ale podívej se ještě jednou na tuhle zeď. Načerpej *živiny* z její krásy.\""
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000346B"
 msgid "Cindy the SKULL has a paintbrush and paint. Talk to her."
 msgstr ""
+"Lebka Cindy má štetec a barvu. Promluv si s ní."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003288"
 msgid "So many walls all over Martinaise -- weatherworn, cracked, their paint peeling..."
 msgstr ""
+"Tolik zdí po celé Martinéze - zvětralé, popraskané, s odlupující se barvou..."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000032D6"
 msgid "O WALLFATHER!"
 msgstr ""
+"Ó PRAOTČE VŠECH ZDÍ!"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000032EE"
 msgid "No. There is nothing to add to perfection. (Back off.)"
 msgstr ""
+"Ne. K dokonalosti už není co přidat. (Odstup.)"
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003471"
 msgid "You already have the heavy fuel oil to use as paint, and Cindy the SKULL has a paintbrush. This is completely doable."
 msgstr ""
+"Jako barvu už máš těžký motorový olej a Lebka Cindy má štětec. Je to naprosto proveditelné."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000338C"
 msgid "Absolutely. Now you just need the materials."
 msgstr ""
+"Rozhodně. Teď už jen potřebujeme pomůcky."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B4D9"
 msgid "Your loss. Farewell, light-drenched wall at the end of the world."
 msgstr ""
+"Tvoje mínus. Sbohem, světlem zalitá stěno na konci světa."
 
 #. Title = BACKYARD / MOTHER OF ALL WALLS
 #. Description = Stop everything and direct all attention to that wall -- it's sublime!
@@ -459,3 +523,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000029E2"
 msgid "Your loss. Farewell, rain-washed wall at the end of the world."
 msgstr ""
+"Tvoje mínus. Sbohem, deštěm omývaná zdi na konci světa."
