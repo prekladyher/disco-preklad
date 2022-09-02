@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 15:07+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001679"
 msgid "\"But why? We work twelve-hour shifts. We get shot at, spat on...\""
 msgstr ""
+"\"Ale proč? Pracujeme na dvanáctihodinové směny. Střílejí po nás, plivou na nás...\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000034D7"
 msgid "\"THIS IS REALLY A MIRROR\""
 msgstr ""
+"\"TOHLE JE VE SKUTEČNOSTI ZRCADLO\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DD3F"
 msgid "\"Hmh...\" Just a hum. No reply."
 msgstr ""
+"\"Hmh...\" Jen zabručení. Žádná odpověď."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001697"
 msgid "\"But what do we work on? KEEPING EVERYTHING THE WAY IT IS.\""
 msgstr ""
+"\"Ale na čem pracujeme? NA TOM, ABY VŠECHNO ZŮSTALO TAK, JAK TO JE.\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000110000169D"
 msgid "Keep it to yourself."
 msgstr ""
+"Nech si to pro sebe."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001680"
 msgid "The lieutenant raises his eyebrows, then sighs."
 msgstr ""
+"Poručík povytáhne obočí a pak si povzdechne."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002D0000963C"
 msgid "You've spoken. The wall will now silently repeat the message. For a decade or so, until the sea air degrades the paint, adding another layer of *detritus* to the city."
 msgstr ""
+"Promluvil jsi. Zeď nyní zprávu tiše převypráví. Asi deset let, dokud mořský vzduch nezničí barvu a nepřidá městu další vrstvu *detritu*."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000110000166B"
 msgid "\"Yeah -- fuck us.\""
 msgstr ""
+"\"Jo - nasrat na nás.\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001663"
 msgid "\"But we *are* the police...\""
 msgstr ""
+"\"Ale my *jsme* policie...\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000022EB"
 msgid "\"NO PARKING\""
 msgstr ""
+"\"NEPARKOVAT\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001108F"
 msgid "Let the wall remain blank. For now. [Leave.]"
 msgstr ""
+"Nechej stěnu holou. Prozatím. [Odejdi.]"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B577"
 msgid "You've spoken. The wall will now silently repeat the message. For a decade or so, until the sea air degrades the paint, adding another layer of *detritus* to the city."
 msgstr ""
+"Promluvil jsi. Zeď nyní zprávu tiše převypráví. Asi deset let, dokud mořský vzduch nezničí barvu a nepřidá městu další vrstvu *detritu*."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B531"
 msgid "\"I LOVE YOU CUNO\""
 msgstr ""
+"\"MILUJU TĚ KUNO\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001689"
 msgid "Hah! Maybe there's a *reason* for that!"
 msgstr ""
+"Hah! Možná to má nějaký *důvod*!"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000011000016B4"
 msgid "You've spoken. The wall will now silently repeat the message -- for a decade or so, until the sea air degrades the paint."
 msgstr ""
+"Promluvil jsi. Zeď teď bude tento vzkaz tiše opakovat - asi deset let, dokud mořský vzduch nezničí barvu."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001100F"
 msgid "The paintbrush in your hand is like a loaded revolver. What will it be, desperado? Quite a few things come to mind..."
 msgstr ""
+"Štětec ve tvé ruce je jako nabitý revolver. Co to bude, až to bude, kovboji? Napadá mě tolik věcí..."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000110000168F"
 msgid "The wall towers over you with its indelible message."
 msgstr ""
+"Zeď se nad tebou tiše tyčí se svým nesmazatelným vzkazem."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B55A"
 msgid "\"SOMETHING BEAUTIFUL IS GOING TO HAPPEN\""
 msgstr ""
+"\"STANE SE NĚCO NÁDHERNÉHO\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001101C"
 msgid "\"MOTHER OF ALL WALLS\""
 msgstr ""
+"\"MATKA VŠECH ZDÍ\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B538"
 msgid "(Draw a 3,500 year old pictogram of a human being.)"
 msgstr ""
+"(Nakresli 3500 let starý piktogram člověka.)"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400011028"
 msgid "\"RENE LIVES!\""
 msgstr ""
+"\"RENÉ ŽIJE!\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000110000163F"
 msgid "\"FUCK THE POLICE\""
 msgstr ""
+"\"NASRAT NA POLICII\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001671"
 msgid "\"You're right, you're right. Is it too late to change it?\""
 msgstr ""
+"\"Máš pravdu, máš pravdu. Je už pozdě to změnit?\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000105A"
 msgid "Paintbrush -- check, heavy fuel oil -- check... Now the only thing left to do is paint the wall."
 msgstr ""
+"Štětec - máme, těžký motorový olej - máme... Teď už zbývá jen vymalovat zeď."
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000110D1"
 msgid "\"WHAT SHADOW LIES THERE, BENEATH THE BRIGHT GLEAM\""
 msgstr ""
+"\"JAKÝ STÍN LEŽÍ TAM, POD JASNÝM TŘPYTEM\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001655"
 msgid "The lieutenant looks at the wall in dismay:"
 msgstr ""
+"Poručík se znepokojeně podívá na zeď:"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -192,3 +226,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DD35"
 msgid "\"Very poetic.\" The lieutenant nods in appreciation -- it doesn't sound sincere. \"Real poetry. Should we return to our murder investigation? I hear there's a really *bad* one we're supposed to solve.\""
 msgstr ""
+"\"Velmi poetické.\" Poručík uznale přikývne - nezní to upřímně. \"Opravdová poezie. Mohli bychom se vrátit k vyšetřování vraždy? Slyšel jsem, že máme vyřešit jednu opravdu *nešťastnou*.\""
