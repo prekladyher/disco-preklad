@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 13:06+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BACKYARD / KIM barks
 #. Description = Kim barks when you step in the courtyard.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00023898"
 msgid "\"This could be our witness.\""
 msgstr ""
+"\"Tohle by mohl být náš svědek.\""
 
 #. Title = BACKYARD / KIM barks
 #. Description = Kim barks when you step in the courtyard.
@@ -17,3 +26,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00023893"
 msgid "\"Look, a smoker on the balcony.\""
 msgstr ""
+"\"Podívejte, kuřák na balkóně.\""
