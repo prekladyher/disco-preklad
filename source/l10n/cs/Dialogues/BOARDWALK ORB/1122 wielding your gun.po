@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-02 13:02+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001539F"
 msgid "You sorry *fuck*!"
 msgstr ""
+"Lítostivej *sráči*!"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015379"
 msgid "At last! The fastest hand in Revachol reunited with the slickest tool in North. You're gonna be the envy of the town, baby!"
 msgstr ""
+"Konečně! Nejrychlejší ruka v Revacholu se spojila s nejhbitějším nástrojem na severu. Bude ti závidět celé město, brouku!"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000026CC"
 msgid "This is your gun. Now if we could only find your personality..."
 msgstr ""
+"Tohle je tvoje pistole. Teď už jen najít tvou osobnost..."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153AF"
 msgid "They don't."
 msgstr ""
+"Nemají."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001535E"
 msgid "This is your gun and in the world of unarmed civilians a man with a gun is king. But in a wholesome and life-affirming way. You just keep the wheels of the world spinning and maybe there's some money to be made on the side?"
 msgstr ""
+"Tohle je tvoje pistole a ve světě neozbrojených civilistů je muž se zbraní králem. Ale ve zdravém a život podporujícím smyslu. Jen dál udržuj soukolí světa v pohybu a možná v tom budou i nějaké ty peníze bokem?"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000267B"
 msgid "Holding the gun feels natural and satisfying. It's like an extension of your arm, the polished wooden handle almost fusing into your palm."
 msgstr ""
+"Držet tu pistoli ti přijde přirozené a uspokojivé. Je to jako prodloužená ruka, leštěná dřevěná rukojeť ti téměř splývá s dlaní."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001536C"
 msgid "This is your gun. Yours and -- by extension -- the People's. But mostly yours. Now go and serve the People."
 msgstr ""
+"Tohle je tvoje zbraň. Tvoje - tím pádem - i Lidu. Ale hlavně tvoje. Teď jdi a slouž Lidu."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000026AE"
 msgid "Sheathe your sidearm, officer. A serious law official -- cop-by-the-book -- should know to only unholster their service weapon when using it is unavoidable."
 msgstr ""
+"Schovejte ji do pouzdra, detektive. Řádný strážce zákona - polda dodržující pravidla - by měl vědět, že služební zbraň se z pouzdra vytahuje jen tehdy, když je její použití nevyhnutelné."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000026B8"
 msgid "A Villiers 9mm pistol -- where Insulindian steel meets Revachol craftsmanship. With it thou wilt protect the fair people of thine homeland and keep the *visitors* in check."
 msgstr ""
+"Pistole Villiers ráže 9 mm - setkání inzulindické oceli a řemeslného zpracování Revacholu. Budeš s ní chránit poctivý lid své vlasti a držet *návštěvníky* na uzdě ."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000026BD"
 msgid "This is your gun. It's more of a symbol than anything else, because there is always, *ALWAYS* a rational, sensible, reasonable solution to every situation. Sheathe it and know: You have the moral high-ground."
 msgstr ""
+"Tohle je tvoje pistole. Je to spíš symbol než cokoli jiného, protože vždycky, *vždycky* existuje racionální, rozumné a přiměřené řešení každé situace. Schovej ji a věz: Máš morální převahu."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002680"
 msgid "It reminds you of the day you first held it. With fear and respect. Hoping you don't have to use it -- in vain. The sun was out in Jamrock. It was so long ago..."
 msgstr ""
+"Připomíná ti to den, kdy jsi ji poprvé držel v ruce. Se strachem a úctou. Doufáš, že ji nebudeš muset použít - marně. Ve Šprajclu bylo slunečno. Bylo to tak dávno..."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001538A"
 msgid "The pig iron's yours, boss. You should blaze one right now to celebrate... and then shoot some cans or chickens or something."
 msgstr ""
+"Prasečí kvér je tvůj, šéfe. Měl bys na oslavu hned jednu odpálit... a pak si zastřílet na nějaké plechovky nebo kuřata nebo tak něco."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000026B3"
 msgid "This gun -- Sunrise, Parabellum -- will be the only thing standing between you and the all-consuming nothingness that threatens to eat the world. Sheathe it and wait, Herald. It won't be long now."
 msgstr ""
+"Tahle pistole - Rozbřesk, Parabellum - bude jedinou věcí, která má stát mezi tebou a všepohlcující nicotou, která hrozí pozřit svět. Schovej ji a čekej, věstníku. Už to nebude trvat dlouho."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015326"
 msgid "No time for this. [Discard thought.]"
 msgstr ""
+"Na tohle nemáme čas. [Zapuď myšlenku.]"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015365"
 msgid "The gun -- your gun -- can be an item of destruction, but *also* creation. The Villiers-LaSalle Art Project. Time to shoot some beauty through the heart of Martinaise."
 msgstr ""
+"Pistole - tvoje pistole - může být předmětem destrukce, ale také *tvorby*. Umělecký projekt Villiers-LaSalle. Je čas nastřílet trochu krásy do srdce Martinézy."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015391"
 msgid "This is your gun. It's angry at you for losing it. Everyone is. The least you can do is press your lips against the cold steel to apologize... and then just try to go on living."
 msgstr ""
+"Tohle je tvoje pistole. Zlobí se na tebe, že jsi ji ztratil. Všichni se zlobí. To nejmenší, co můžeš udělat, je přitisknout rty na chladnou ocel a omluvit se... a pak se prostě pokusit žít dál."
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015372"
 msgid "Although only useful against assailants made of flesh and blood, the gun is still yours. Maybe Remote Viewers also have some other... non-conventional weaponry?"
 msgstr ""
+"I když je zbraň užitečná pouze proti agresorům z masa a kostí, je stále tvoje. Možná mají Pozorovatelé Vzdáleného i nějaké další... nekonvenční zbraně?"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153A7"
 msgid "Yeah, why aren't you smoking right now?"
 msgstr ""
+"Jo, proč právě teď nekouříš?"
 
 #. Title = BOARDWALK ORB / wielding your gun
 #. Description = This is what it feels to equip your gun after such a long time.
@@ -136,3 +162,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001531F"
 msgid "I think my hand recognizes it."
 msgstr ""
+"Myslím, že ji moje ruka poznává."
