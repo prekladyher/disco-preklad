@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-09-04 18:07+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / CUNO BODY
 #. Description = * Ask Cuno about the hanged man.
@@ -37,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000583C"
 msgid "The city's too large for him to have left. But he wasn't *here* either... So where was he?"
 msgstr ""
+"Město je příliš velké na to, aby ho opustil. Ale nebyl ani tady... Tak kde byl?"
 
 #. Title = YARD / CUNO BODY
 #. Description = * Ask Cuno about the hanged man.
@@ -746,6 +755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400008E0B"
 msgid "\"Told you, pig bacon. Cuno doesn't do regional. Cuno's been to places you wouldn't dream of.\""
 msgstr ""
+"\"Říkal ti to, prasečí slanino. Kuno nedělá regionální. Kuno byl na místech, o kterých se ti ani nesnilo.\""
 
 #. Title = YARD / CUNO BODY
 #. Description = * Ask Cuno about the hanged man.
@@ -902,6 +912,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400008E11"
 msgid "\"You didn't really leave the city. Where were you?\""
 msgstr ""
+"\"Ty jsi ve skutečnosti město neopustil. Kde jsi byl?\""
 
 #. Title = YARD / CUNO BODY
 #. Description = * Ask Cuno about the hanged man.
