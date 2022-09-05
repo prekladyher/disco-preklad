@@ -3,19 +3,6 @@
 <martif type="TBX" xml:lang="en_US">
   <text>
     <body>
-      <termEntry id=";;">
-        <descrip type="definition">[OK] svět hry, příd. jm. "inzulindický"</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>;;</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Inzulindie</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="(Her Innocence) Dolores Dei">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
@@ -1044,6 +1031,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Insulindia">
+        <descrip type="definition">[OK] svět hry, příd. jm. "inzulindický"</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Insulindia</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Inzulindie</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Interim">
         <descrip type="definition">[OK] značka tiskáren</descrip>
         <langSet xml:lang="en">
@@ -1071,7 +1071,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="isola">
-        <descrip type="definition">[OK] cosi jako světadíl, nebo planeta</descrip>
+        <descrip type="definition">[OK] cosi jako světadíl, nebo planeta, izoly jsou od sebe odděleny bledomezí</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>isola</term>
@@ -1279,7 +1279,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="leitmotiv">
-        <descrip type="definition">[OK] motto</descrip>
+        <descrip type="definition">[OK] zde jako motto na erbu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>leitmotiv</term>
@@ -1287,7 +1287,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>leitmotiv</term>
+            <term>motto</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1396,7 +1396,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Martineisa">
-        <descrip type="definition">[OK] Nej</descrip>
+        <descrip type="definition">[OK] čtvrť v Revacholu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Martineisa</term>
@@ -1643,7 +1643,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="off-site copy">
-        <descrip type="definition">[OK] U kostky</descrip>
+        <descrip type="definition">[OK] obsah kapilární paměti (kopie projektu Odpoutaný Wirrál)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>off-site copy</term>
@@ -1773,7 +1773,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="pig">
-        <descrip type="definition">[OK] Kuno takhle říká fízlům (necháváme prase, protože to má spojení i na zvířecí prasata)</descrip>
+        <descrip type="definition">[OK] v Martinéze slangový výraz pro policistu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>pig</term>
@@ -1833,7 +1833,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Přenosný magneťák</term>
+            <term>Přenosný magnetofon</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1903,7 +1903,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Queen Irene the Navigator">
-        <descrip type="definition">[OK] [VYKAT] </descrip>
+        <descrip type="definition">[OK] [VYKAT] mýtická postava</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Queen Irene the Navigator</term>
@@ -1937,12 +1937,12 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>rádiokomputer</term>
+            <term>rádiokomputer (rádiopočítač)</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="radio engineer">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] místí IT</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>radio engineer</term>
@@ -1989,7 +1989,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>rádiokomputer</term>
+            <term>rádiokomputer, rádiopočítač</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2020,7 +2020,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Reál Belt">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] zóna zemí, které používají jako měnu reál </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Reál Belt</term>
@@ -2124,7 +2124,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Saint Brune">
-        <descrip type="definition">[OK] kostel</descrip>
+        <descrip type="definition">[OK] ulice. na které stojí kostel</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Saint Brune</term>
@@ -2132,7 +2132,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Svatý Bruno</term>
+            <term>Svatého Bruna</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2540,7 +2540,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="The Pigs">
-        <descrip type="definition">[VYKAT] Marianne LePlante, šílená babka posedlá policií. Má Harryho zbraň. Přemýšlím, že vypustím 'Prasata' i když to zní fakt pěkně úderně a nechám 'Vepři'. Protože to funguje i jako oslovení 'Strážníku Vepři'.</descrip>
+        <descrip type="definition">[VYKAT] Mariana LePlantová, šílená babka přesvědčená, že je policejní hlídka (prase = slangové označení policisty viz pig)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>The Pigs</term>
@@ -2548,7 +2548,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Prasata/Vepři</term>
+            <term>Prasata</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2566,7 +2566,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Therriers">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] garda Dolores Božské</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Therriers</term>
@@ -2605,7 +2605,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Tricentennial Electrics">
-        <descrip type="definition"></descrip>
+        <descrip type="definition">kdysi konkurence Feldu (viz)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Tricentennial Electrics</term>
@@ -2613,7 +2613,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Třistaleté Energetické Závody/Třistaletka</term>
+            <term>Elektrotechnika tří století</term>
           </tig>
         </langSet>
       </termEntry>
