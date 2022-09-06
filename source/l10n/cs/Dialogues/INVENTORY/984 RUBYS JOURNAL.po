@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-09-06 18:39+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -24,6 +32,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001043B"
 msgid "Put the journal away. [Leave.]"
 msgstr ""
+"Odlož deník. [Odejdi.]"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -31,6 +40,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104BB"
 msgid "Schneller is a stationary brand from Gottwald beloved among architects and engineers."
 msgstr ""
+"Schneller je papírenská značka z Gottwaldu, která je oblíbená mezi architekty a inženýry."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -38,6 +48,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010510"
 msgid "The large cursive of someone who writes quickly and confidently."
 msgstr ""
+"Rozmáchlé písmo někoho, kdo píše rychle a s jistotou."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -45,6 +56,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010587"
 msgid "What did she write the day Lely died?"
 msgstr ""
+"Co napsala v den, kdy Lely zemřel?"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -80,6 +92,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104F0"
 msgid "It's a mix of logistical notes, diagrams, and personal reflections, all dated."
 msgstr ""
+"Je to směs logistických poznámek, diagramů a osobních úvah, vše datované."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -87,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010528"
 msgid "The first entry is from August 2nd of last year. It reads simply: \"I know my position is precarious. All I can do is make myself as useful as I can while looking for a way out. (Remember: no one is indispensable.)\""
 msgstr ""
+"První záznam je z 2. srpna loňského roku. Zní jednoduše: \"Vím, že moje pozice je nejistá. Jediné, co mohu udělat, je být co nejužitečnější a zároveň hledat cestu ven. (Nezapomeň: nikdo není nepostradatelný.)\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -94,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010531"
 msgid "Hard to tell exactly -- it's mostly noted down in code. Looks like contact information, quantities, directions."
 msgstr ""
+"Těžko říct přesně - většinou je to zapsáno v kódu. Vypadá to jako kontaktní informace, množství, pokyny."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -111,6 +126,9 @@ msgid ""
 "\n"
 "Man, I was really looking forward to winning.\""
 msgstr ""
+"\"I když odsud odejdu (pokud odsud odejdu živá) - co bude můj další krok?... Zinscenovat lynčování je zločin, i kdybych navrch nebyla obviněna z vraždy. Navždy na útěku? To není zrovna moje představa o volné cestě.\n"
+"\n"
+"Lidi, já se fakt těšila, že vyhraju.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -132,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000105BB"
 msgid "The most recent entry is from today. It reads:"
 msgstr ""
+"Nejnovější záznam je z dnešního dne. Stojí v něm:"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -146,6 +165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104B4"
 msgid "It's made of full-grain leather. The lower left corner of the back cover sports an embossed brand name: \"SCHNELLER.\""
 msgstr ""
+"Je vyrobena z hrubé kůže. V levém dolním rohu zadní strany obálky je vyražený název značky: \"SCHNELLER.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -167,6 +187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A890"
 msgid "\"We could learn a lot from this.\""
 msgstr ""
+"\"Mohli bychom se z toho hodně dozvědět.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -216,6 +237,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A810"
 msgid "\"Seems plausible.\""
 msgstr ""
+"\"Vypadá to pravděpodobně.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -223,6 +245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A826"
 msgid "\"Either way, we need to keep an eye on her.\""
 msgstr ""
+"\"Každopádně na ni musíme dávat pozor.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -272,6 +295,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A7A5"
 msgid "\"So she died for nothing?\""
 msgstr ""
+"\"Takže zemřela zbytečně?\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -279,6 +303,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A7ED"
 msgid "\"Then who do you think killed Lely?\" (Conclude.)"
 msgstr ""
+"\"Kdo tedy podle vás Lelyho zabil?\" (Uzavři.)"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -286,6 +311,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000160000A7ED"
 msgid "\"Then who do you think killed the merc?\" (Conclude.)"
 msgstr ""
+"\"Tak kdo si myslíte, že zabil toho žoldáka?\" (Uzavři.)"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -300,6 +326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010491"
 msgid "The journal falls open. About two thirds of its ruled pages have been filled."
 msgstr ""
+"Deník se otevře. Asi dvě třetiny jeho linkovaných stránek jsou zaplněny."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -307,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010537"
 msgid "Short, wry observations of people and places -- probably a way to pass the time on the road. Also, what appear to be attempts to sort through some difficult decisions. There are a few passages with many questions in them."
 msgstr ""
+"Krátké, vtipné postřehy o lidech a místech - pravděpodobně způsob, jak si ukrátit čas na cestách. A také něco, co se zdá být pokusem o vyřešení některých obtížných rozhodnutí. V několika pasážích je mnoho otázek."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -342,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E7F9"
 msgid "You have no idea what she means. These are personal notes, don't expect to understand all of it."
 msgstr ""
+"Nemáš ponětí, co tím myslí. Jsou to osobní poznámky, nečekej, že všemu porozumíš."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -349,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A7F9"
 msgid "\"Klaasje was the one who pointed the finger at Ruby. Perhaps she was trying to steer us away from herself? Or...\" He stops to think."
 msgstr ""
+"\"Klaasje byla ta, která na Ruby ukázala prstem. Možná se nás snažila odvést od sebe? Nebo...\" Zarazí se a zamyslí."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -363,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104F6"
 msgid "How far back do the entries go?"
 msgstr ""
+"Jak daleko do minulosti ty záznamy sahají?"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -370,6 +401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010502"
 msgid "Anything personal?"
 msgstr ""
+"Něco osobního?"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -377,6 +409,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010545"
 msgid "\"There could be useful information about local operations in those notes. We have a junior sergeant at my station who's good with codes -- I can give this to her after we finish this.\""
 msgstr ""
+"\"V těch poznámkách by mohly být užitečné informace o místních operacích. Na mé stanici máme mladší seržantku, která se vyzná v kódech - můžu jí to dát, až to dokončíme.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -387,6 +420,9 @@ msgid ""
 "\n"
 "Man, I was really looking forward to winning.\""
 msgstr ""
+"\"I když odsud odejdu (pokud odsud odejdu živá) - co bude můj další krok?... Zinscenovat lynčování je zločin, i kdybych navrch nebyla obviněna z vraždy. Navždy na útěku? To není zrovna moje představa o volné cestě.\n"
+"\n"
+"Lidi, já se fakt těšila, že vyhraju.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -408,6 +444,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A8CB"
 msgid "Staff issues, always tough on the leadership. You smell traces of betrayal."
 msgstr ""
+"Personální problémy, vždy náročné pro vedení. Cítíš stopy zrady."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -429,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001046E"
 msgid "Flip through the pages."
 msgstr ""
+"Listuj stránkami."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -443,6 +481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104FC"
 msgid "What kinds of logistics?"
 msgstr ""
+"Jaké druhy logistiky?"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -450,6 +489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000105A5"
 msgid "What's the most recent entry? (Conclude with journal.)"
 msgstr ""
+"Jaký je nejnovější záznam? (Skonči s deníkem.)"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -457,6 +497,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000105A5"
 msgid "What's the most recent entry? "
 msgstr ""
+"Jaký je nejnovější záznam? "
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -499,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F6C5"
 msgid "A thick journal. The cover is worn, like someone used to carry it around in their back pocket."
 msgstr ""
+"Tlustý deník. Obálka je opotřebovaná, jako by ho někdo nosil v zadní kapse."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -604,6 +646,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A799"
 msgid "\"She was in plenty of trouble even without the murder charge.\" He looks down. \"Still, it's a nasty business.\""
 msgstr ""
+"\"Měla spoustu problémů i bez obvinění z vraždy.\" Podívá se dolů. \"Stejně je to ošklivá záležitost.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -632,6 +675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010435"
 msgid "Unwind the strap. (Move on.)"
 msgstr ""
+"Odviň řemínek. (Pokračuj.)"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -639,6 +683,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001049B"
 msgid "Study the handwriting."
 msgstr ""
+"Prozkoumej rukopis."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -646,6 +691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104AD"
 msgid "Examine the cover."
 msgstr ""
+"Prohlédni si obálku."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -660,6 +706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000105B2"
 msgid "Esoteric radio technology. The most recent ones probably pertain to the Latitude Compressor: sketches, calculations of distance and density. You make out a familiar spiral shape."
 msgstr ""
+"Esoterická rádio technologie. Ta nejnovější se pravděpodobně týkají kompresoru Latitude: náčrtky, výpočty vzdálenosti a hustoty. Rozpoznáš známý spirálovitý tvar."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -688,6 +735,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A845"
 msgid "\"I don't think she killed the mercenary.\" The lieutenant taps on the page. \"It looks like she might have been... framed?\""
 msgstr ""
+"\"Myslím, že toho žoldáka nezabila.\" Poručík poklepe na stránku. \"Vypadá to, že to na ni možná někdo... hodil?"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -695,6 +743,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000160000A845"
 msgid "\"I don't think she killed the mercenary.\" The lieutenant taps on the page. \"It looks like she might have been... framed? Too bad we didn't really get to hear her side of the story.\""
 msgstr ""
+"\"Myslím, že toho žoldáka nezabila.\" Poručík poklepe na stránku. \"Vypadá to, že to na ni možná někdo... hodil? Škoda, že jsme si nevyslechli její verzi příběhu.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -702,6 +751,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A97F"
 msgid "This whole thing was a detour -- and a fatal one, he thinks."
 msgstr ""
+"Celá tahle věc byla oklika - a podle něj osudová."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -737,6 +787,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000105AB"
 msgid "What are the diagrams of?"
 msgstr ""
+"Co je to za diagramy?"
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -758,6 +809,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A80A"
 msgid "\"One thing is for certain: We have business back in the Whirling-in-Rags. Questions to ask. We should get to it.\""
 msgstr ""
+"\"Jedno je jisté: Máme ve Víření-v-hadrech zase práci. Otázky, které je třeba položit. Měli bychom se do toho pustit.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -765,6 +817,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000160000A80A"
 msgid "\"One thing is for certain: We have business back in the Whirling-in-Rags. Questions to ask. Let's be careful though -- the tip she gave us about the tribunal was... disturbing.\""
 msgstr ""
+"\"Jedno je jisté: Máme ve Víření-v-hadrech zase práci. Otázky, které je třeba položit. Ale buďme opatrní - ten tip, který nám dala o tribunálu, byl... znepokojivý.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -786,6 +839,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A9E3"
 msgid "Flip through the pages again."
 msgstr ""
+"Znovu prolistuj stránky."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -793,6 +847,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001058E"
 msgid "Nothing on March 4th... March 5th, though: \"Well, *that's* bound to come back and bite me in the ass. I'm bad at this -- loyal to a fault. Except... But that's another matter entirely.\""
 msgstr ""
+"4. března nic... 5. března: \"Dobrá, *tohle* se mi určitě vrátí a kousne mě to do zadku. Jsem v tomhle špatná - loajální až do morku kostí. Až na to, že... Ale to je úplně jiná věc.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -814,6 +869,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010453"
 msgid "The thick journal bound in brown leather is full of candour and diagrams."
 msgstr ""
+"Tlustý deník vázaný v hnědé kůži je plný upřímnosti a diagramů."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -828,6 +884,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A7B6"
 msgid "\"Seems plausible.\""
 msgstr ""
+"\"Vypadá to pravděpodobně.\""
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
@@ -849,6 +906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000104D5"
 msgid "She had good taste and must have taken what she recorded here seriously."
 msgstr ""
+"Měla dobrý vkus a to, co zde zaznamenala, musela brát vážně."
 
 #. Title = INVENTORY / RUBY'S JOURNAL
 #. Description = Here you can learn about Ruby's involvement with La Puta Madre.
