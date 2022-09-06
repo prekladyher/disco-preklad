@@ -1,8 +1,16 @@
+# Jan Bartoš <takechihar@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-06 08:25+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.08.0\n"
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A031"
 msgid "\"There was a confirmed sighting in Mirova in December.\""
 msgstr ""
+"\"V prosinci byl potvrzen výskyt v Mirově.\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A037"
 msgid "\"The evidence is right there -- we can't just ignore it.\""
 msgstr ""
+"\"Důkazy jsou všude kolem - nemůžeme je jen tak ignorovat.\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A054"
 msgid "\"Hate to break it to you, Gary, but rhinos don't just combust in flames.\""
 msgstr ""
+"\"Nerad ti to říkám, Gary, ale nosorožci z ničeho nic jen tak nevzplanou.\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A04D"
 msgid "\"God, I hope the traps will hold...\""
 msgstr ""
+"\"Bože, doufám, že ty pasti vydrží...\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A023"
 msgid "\"It's a bit crowded in here.\""
 msgstr ""
+"\"Je tu trochu těsno.\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A043"
 msgid "\"C'mon, Gary, it's never that black and white.\""
 msgstr ""
+"\"No tak, Gary, nikdy to není tak černobílé.\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A029"
 msgid "\"Are you enjoying yourself, darling?\""
 msgstr ""
+"\"Bavíš se, miláčku?\""
 
 #. Title = COAST / MORELL barks whirling
 #. Description = Morel says this stuff in Whirling.
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A03D"
 msgid "\"An *unconfirmed* sighting is just a story.\""
 msgstr ""
+"\"*Nepotvrzené* spatření je jen příběh.\""
