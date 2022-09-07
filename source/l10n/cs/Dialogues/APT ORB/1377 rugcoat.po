@@ -1,8 +1,16 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-07 21:37+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002968"
 msgid "I will be there soon. Wherever it is!"
 msgstr ""
+"Budu tam brzy. Ať je to, kde je to."
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000296D"
 msgid "You better be ready when I find you, weird voice! I'm going to hurt you!"
 msgstr ""
+"Buď připravený, až si tě najdu, divný hlase. Ublížím ti!"
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002972"
 msgid "Yes... Reunion...! Listen within the circles that capture the electrical world… If you can hear me then, we will be united…"
 msgstr ""
+"Ano...Znovusetkání...!.Poslouchej uvnitř kruhů, které zachycují elektrický svět..pokud mě tehdy uslyšíš, budeme sjednoceni."
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000295C"
 msgid "I am yours... So nearly..."
 msgstr ""
+"Jsem tvoje...tak blízko..."
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000297C"
 msgid "So near... Listen within the circles that capture the electrical world… If you can hear me then, we will be united…"
 msgstr ""
+"Tak blízko...Poslouchej uvnitř kruhů, které zachycují elektrický svět..pokud mě tehdy uslyšíš, budeme sjednoceni."
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002961"
 msgid "That's great. Tell me what circle I've got to run into this time."
 msgstr ""
+"To je skvělé. Pověz mi, do jakého kruhu mám vběhnout tentokrát."
 
 #. Title = APT ORB / rugcoat
 #. Description = This is the fifth Shivers in the coat quest. It is Very Difficult.
@@ -52,3 +66,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002986"
 msgid "Please do not... Just listen within the circles that capture the electrical world… If you can hear me then, we will be united…"
 msgstr ""
+"Prosím ne...Poslouchej uvnitř kruhů, které zachycují elektrický svět..pokud mě tehdy uslyšíš, budeme sjednoceni."

@@ -1,8 +1,16 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-07 21:37+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E0B2"
 msgid "What happened here?"
 msgstr ""
+"Co se tu stalo?"
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E16F"
 msgid "You can't foreclose on an apartment with a hole in the wall."
 msgstr ""
+"Není možné zabavit byt s dírou ve zdi."
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2EA"
 msgid "This looks so sad..."
 msgstr ""
+"Smutný pohled..."
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2E2"
 msgid "There's always a little something in the fridge."
 msgstr ""
+"Vždycky je něco malého v ledničce."
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2F2"
 msgid "Put your emotions aside. Try to focus on abstract, impersonal things."
 msgstr ""
+"Dej své emoce stranou. Snaž se soustředit na abstraktní, neosobní záležitosti."
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2F8"
 msgid "But this reeks of sadness!"
 msgstr ""
+"Ale z toho táhne smutek!"
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2DC"
 msgid "Except the stuff in the fridge."
 msgstr ""
+"Kromě toho v ledničce."
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E307"
 msgid "Indeed!"
 msgstr ""
+"Vskutku!"
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E175"
 msgid "[Discard thought.]"
 msgstr ""
+"[Opusť myšlenku.]"
 
 #. Title = APT ORB / foreclosed apt logic
 #. Description = Logic wonders what happened in this apartment.
@@ -73,3 +90,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E17E"
 msgid "It will still be accessible through the apartment next to it. That one didn't have a door... Sadly, nothing of great value remains here."
 msgstr ""
+"Pořád je přístupný skrz vedlejší byt. Ten neměl dveře...bohužel tu nezůstalo nic hodnotného."

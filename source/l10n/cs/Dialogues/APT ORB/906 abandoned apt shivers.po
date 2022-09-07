@@ -1,8 +1,16 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-07 21:37+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E0A6"
 msgid "Look around yourself..."
 msgstr ""
+"Rozhlédneš se..."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2C0"
 msgid "She had an eye for beauty."
 msgstr ""
+"Měla cit pro krásu."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E06D"
 msgid "A former architect stands before a slice of window, a room plan in her hand. A cold wave has made the air in the building stand still and frozen, with temperatures falling down to -20°C."
 msgstr ""
+"Dávná architektka stojí před okenní tabulkou s plánem místnosti v ruce. Vlna mrazů způsobila, že vzduch stojí nehybně zmrzlý v místnosti. Teploty padají až k -20 °C."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E086"
 msgid "Shiver. [Finish thought.]"
 msgstr ""
+"Přejede ti mráz po zádech. [Dokonči myšlenku.]"
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E090"
 msgid "...is red from the cold. She's breathing on her fingers clasping the plan. Traces of sadness are visible in her expression."
 msgstr ""
+"...je rudá mrazem. Dýchá si na prsy svírající plán. V jejím výrazu jsou znatelné stopy smutku."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001505A"
 msgid "A shift in temperature. The air chills around you. Dust settles on the stony floor."
 msgstr ""
+"Teplota se změnila. Vzduch kolem tebe ochladne. Prach sedá na kamennou podlahu."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E080"
 msgid "The plan..."
 msgstr ""
+"Plán..."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015067"
 msgid "Rub your sides for warmth."
 msgstr ""
+"Tři si boky, aby ses zahřál."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E096"
 msgid "... faint pencil lines on paper depict the same place, but a missing eastern wall connects the room with the neighbouring apartment. Ideas for arranging the furniture have been jotted down."
 msgstr ""
+"...slabé tahy tužkou zobrazují stejné místo, ale chybí východní zeď spojující místnost se sousedním bytem. Zaspány jsou také nápady na uspořádání nábytku."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001505F"
 msgid "[Discard thought.]"
 msgstr ""
+"[Opusť myšlenku.]"
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E07A"
 msgid "Her face..."
 msgstr ""
+"Její tvář..."
 
 #. Title = APT ORB / abandoned apt shivers
 #. Description = This is a shivers orb showing the former tenant.
@@ -87,3 +106,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E09E"
 msgid "It's clean and empty, with new tapestry embellishing the walls. A standard HB graphite pencil has fallen off a three-legged stool in the middle of the room."
 msgstr ""
+"Je čistá a prázdná, nové gobelíny zdobí zdi. Klasická tužka spadla ze třínohé stoličky uprostřed místnosti."

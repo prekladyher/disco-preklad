@@ -1,8 +1,16 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-07 21:36+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000005A3"
 msgid "Maybe just a little..."
 msgstr ""
+"Možná jen trošičku..."
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000B66"
 msgid "Fuck you. You used to be cool. Why can't you just take the bottle and snort snort snort?"
 msgstr ""
+"Naser si. Býval jsi hustej. Proč si prostě nemůžeš vzít tu láhev a šňup šňup šňup?"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000054F"
 msgid "No. Not right now, anyway. [Discard thought.]"
 msgstr ""
+"Ne. Tedy, ne teď. [Opusť myšlenku.]"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000053C"
 msgid "Take the speed. Take that glorious stuff. You have it now. You've got it! TAKE IT!"
 msgstr ""
+"Vezmi si ten speed. Božskou látku. Teď už ho máš. Máš ho. TAK SI HO VEM!"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000005A9"
 msgid "I said I discard the thought! [Discard thought.]"
 msgstr ""
+"Řekl jsem, že opouším myšlenku! [Opusti myšlenku.]"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000B6D"
 msgid "Just a little. Then a lot. Come on, party boy! Let's get FUCKED!"
 msgstr ""
+"Jen trošku. A pak hodně. Dělej, párty začíná! Koukej se SJET!"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000558"
 msgid "Come on. Come on! A little! Just a little bit! Whaddya say, huh?"
 msgstr ""
+"No tak. No tak! Trochu! Jen trošku! Co ty na to, hm?"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000055E"
 msgid "FUCKING RIGHT! PUT THAT BOTTLE IN YOUR HAND AND PARTY DOWN!"
 msgstr ""
+"KURVA JO! CHYTNI TU LÁHEV A ZAČNI KALIT!"
 
 #. Title = APT ORB / electrochem after picking up speed
 #. Description = Upon picking up the speed, electrochem chimes in. Needs a wa to go away if you give it up to cuno or take it yourself?
@@ -66,3 +82,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000549"
 msgid "Let's get fucked up."
 msgstr ""
+"Čas se zprasit."
