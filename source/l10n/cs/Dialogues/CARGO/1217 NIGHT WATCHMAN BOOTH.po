@@ -1,8 +1,16 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-06 20:15+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000242"
 msgid "The drawers are empty save for old time sheets and receipts. One small box, however, does hold some cheap painkillers. They are slightly out of date."
 msgstr ""
+"Zásuvky jsou prázdné až na staré pracovní výkazy a účtenky.Jedna malá krabička však obsahuje levné léky proti bolesti. Jsou nedávno prošlé."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC52"
 msgid "Nothing incriminating catches your eye. The cabinets are clean and their sparse contents meticulously organized. There's a framed photograph on the table."
 msgstr ""
+"Nic inkriminujícího nevidíš. Skříňky jsou čisté a jejich skrovný obsah pečlivě uspořádaný. Na stole leží zarámovaná fotografie."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000ECA5"
 msgid "\"It's something to remember him by.\""
 msgstr ""
+"\"Je to něco, co mi ho bude připomínat.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F449"
 msgid "This is the nightwatchman's booth. The name on the door reads *René Arnoux*. A colourful uniform lies neatly folded on the table."
 msgstr ""
+"Tohle je budka nočního hlídače. Na dveřích je napsáno *René Arnoux*. Na stole leží úhledně složená barevná uniforma."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC87"
 msgid "René looks like he's about to smile. This photo must be tied to some good memories."
 msgstr ""
+"René vypadá, že se co nevidět začne usmívat. Tato fotka mu musí připomínat hezké chvíle."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002A1"
 msgid "Oh boy, where to start. Elevated risk of dementia? Mini-strokes? Prophet's disease? Sudden death? Hair death? Erectile malfunction? Critical flatulence? Watery blood? Black mucous? Uncontrollable weeping? Increased sensitivity to l'Opéra? Inoperable joint disorder? Total spinal collapse?"
 msgstr ""
+"A jéje, kde začít. Zvýšené riziko demence? Mini mrtvice? Prorokova choroba? Náhlá smrt? Vypadání vlasů? Porucha erekce? Prudké větry? Vodnatá krev? Černý hlen? Nekontrolovatelný pláč? Zvýšená citlivost na l'Operu? Neoperovatelné kloubní potíže? Naprostý kolaps páteře?"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000260"
 msgid "The lieutenant shrugs. \"I'm not here to tell you what to do, detective.\""
 msgstr ""
+"Poručík pokrčí rameny. \"Nejsem tu od toho, abych vám říkal, co máte dělat, detektive.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F4AC"
 msgid "Looks like the inhabitant is rather pedantic when it comes to order."
 msgstr ""
+"Zdá se, že obyvatel je poněkud pedantský, pokud jde o pořádek."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000970000425B"
 msgid "The young man looks happy as well. He's about to smile, right after this moment frozen in time. You're sure of that."
 msgstr ""
+"Mladík vypadá také šťastně. Usměje se, hned jakmile je tento moment zachycen v čase. Tím jsi si jistý."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000219"
 msgid "Have a seat. Rest."
 msgstr ""
+"Posaď se. Odpočívej."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000278"
 msgid "Breathe deep."
 msgstr ""
+"Zhluboka dýchej."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000360"
 msgid "You stand and exit the booth."
 msgstr ""
+"Postavíš se a opustíš budku."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000368"
 msgid "You stand and exit the booth."
 msgstr ""
+"Postavíš se a opustíš budku."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000970000422D"
 msgid "Looks like the inhabitant was rather pedantic when it came to order."
 msgstr ""
+"Zdá se, že obyvatel byl poněkud pedantský, pokud šlo o pořádek."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000ECAC"
 msgid "\"You really took an interest in that old soldier.\" The lieutenant sounds surprised. \"I guess there's no harm taking the picture. The dockworkers would probably throw it in the trash anyway.\""
 msgstr ""
+"\"Opravdu se o toho starého vojáka zajímáte.\" Poručík zní překvapeně. \"Myslím, že není na škodu si tu fotku vzít. Dělníci by ji stejně nejspíš vyhodili do koše.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000303"
 msgid "I don't see what the big deal is. This sounds pretty normal to me."
 msgstr ""
+"Nechápu, co je za problém. Mně to přijde normální."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000326"
 msgid "I'm a cop. I have cop things to do. Murders to solve. People to help. Kim's counting on me."
 msgstr ""
+"Jsem policista. Mám policejní věci na práci. Vraždy k vyřešení. Lidi, kterým musím pomoct. Kim na mě spoléhá."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F456"
 msgid "This is the nightwatchman's booth. The name on the door reads *René Arnoux*. René left his uniform neatly folded on the table."
 msgstr ""
+"Tohle je budka nočního hlídače. Na dveřích je napsáno *René Arnoux*. René nechal na stole svoji úhledně složenou barevnou uniformu."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F493"
 msgid "Nothing incriminating catches your eye. The cabinets are clean and their sparse contents meticulously organized. Apart from the uniform, the only noteworthy item is a framed photograph on the table."
 msgstr ""
+"Nic inkriminujícího nevidíš. Skříňky jsou čisté a jejich skrovný obsah pečlivě uspořádaný. Kromě uniformy stojí za zmínku jen zarámovaná fotografie na stole."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000970000424F"
 msgid "As you take the colourful uniform, a few cookie crumbs fall to the floor. The owner must have a sweet tooth."
 msgstr ""
+"Když zvedneš barevnou uniformu, tak na zem spadne několik drobků ze sušenek. Její majitel musí být na sladké."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000970000424F"
 msgid "As you take the colourful uniform, a few cookie crumbs fall to the floor. René must have had a sweet tooth."
 msgstr ""
+"Když zvedneš barevnou uniformu, tak na zem spadne několik drobků ze sušenek. René musel být na sladké."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000970000424F"
 msgid "As you take the colourful uniform, a few cookie crumbs fall to the floor. René must have a sweet tooth."
 msgstr ""
+"Když zvedneš barevnou uniformu, tak na zem spadne několik drobků ze sušenek. René musí být na sladké."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC78"
 msgid "It's a black and white photo of a young couple out in a street fair. The man -- René -- is dressed in a Royal Carabineer uniform. The girl is young and very pretty. She is smiling playfully at the camera."
 msgstr ""
+"Je to černobílá fotka mladého páru na pouličním jarmarku. Muž - René - je oblečený do uniformy královského karabiníka. Dívka je mladá a velmi krásná. Hravě se usmívá do objektivu."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC90"
 msgid "\"I'm gonna ask him about it.\""
 msgstr ""
+"\"Zeptám se ho na to.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000209"
 msgid "Listen... It's okay to take a few minutes to yourself. Sit down and have a breather."
 msgstr ""
+"Poslouchej...Je v pořádku udělat si pár minut pro sebe. Posaď se a dej si oddych."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002EB"
 msgid "Disco. Mirror balls. Kick-ass moves. Boogie beat."
 msgstr ""
+"Disko. Zrcadlové koule. Prďácké pohyby. Rytmus boogie."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F450"
 msgid "This is the nightwatchman's booth. The name on the door reads *René Arnoux*."
 msgstr ""
+"Tohle je budka nočního hlídače. Na dveřích je napsáno *René Arnoux*."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F475"
 msgid "Maybe René is hiding something interesting here. (Search the booth.)"
 msgstr ""
+"Možná tady René schovává něco zajímavého. (Prohledej budku.)"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F47D"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000020E"
 msgid "You need to rest. Your body is aching. Getting in here has taken something out of you. Have a seat."
 msgstr ""
+"Potřebuješ si odpočinout. Bolí tě celé tělo. Dostat se sem tě něco stálo. Posaď se."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000229"
 msgid "Get up."
 msgstr ""
+"Vstaň."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002BA"
 msgid "Maybe this was a bad idea..."
 msgstr ""
+"Možná to byl špatný nápad..."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000343"
 msgid "Yes. Moving along."
 msgstr ""
+"Ano. Pokračujeme."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F4D5"
 msgid "The photo remains neatly placed on the edge of the table."
 msgstr ""
+"Fotka zůstává pečlivě uložená na okraji stolu."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F503"
 msgid "\"Why did you take that?\" the lieutenant asks, glancing at the photo."
 msgstr ""
+"\"Proč jste si to vzal?\" zeptá se poručík, když pohledem zavadí o fotku."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000820001F503"
 msgid "\"Why did you take that picture of René?\" the lieutenant asks, glancing at the photo.\n"
 msgstr ""
+"\"Proč jste si vzal tu Reného fotku?\" zeptá se poručík, když o ni zavadí pohledem. \n"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F55C"
 msgid "\"I don't know about stealing people's *very colourful* clothes like that...\" He looks on disapprovingly."
 msgstr ""
+"\"No nevím, jestli bych takhle kradl lidem *velmi barevné* oblečení...\" Dívá se nesouhlasně."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F56A"
 msgid "\"This is gonna take my shit to the next level.\""
 msgstr ""
+"\"Tohle mě vykopne na vyšší úroveň.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002C7"
 msgid "Don't think about that! Quick, think about something else!"
 msgstr ""
+"Na to nemysli! Rychle mysli na něco jiného!"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002F0"
 msgid "... oh my God, I went up to a woman and actually said *I want to have fuck with you* earlier. What the hell is wrong with me?"
 msgstr ""
+"...Bože, není to tak dlouho, co jsem doslova řekl ženě *Chci si s tebou zašukat*. Co je se mnou sakra špatně?"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000351"
 msgid "Get up."
 msgstr ""
+"Vstaň."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F461"
 msgid "\"Kim, I'm gonna take a quick look inside.\" (Search the booth.)"
 msgstr ""
+"\"Kime, rychle se uvnitř porozhlédnu.\" (Prohledej budku.)"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000224"
 msgid "Search for a little something-something to help you out."
 msgstr ""
+"Hledej něco malého, co by ti mohlo pomoct."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F46F"
 msgid "Let's see what the nightwatchman keeps in here. (Search the booth.)"
 msgstr ""
+"Tak se podíváme, co si tu noční hlídač schovává. (Prohledej budku.)"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F51C"
 msgid "\"I'm making an artistic photo collage, Kim.\""
 msgstr ""
+"\"Pracuji na umělecké fotokoláži, Kime\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000026C"
 msgid "You take the painkillers. They are yours now."
 msgstr ""
+"Vezmeš si léky proti bolesti. Teď už jsou tvoje."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000033D"
 msgid "Moving along!"
 msgstr ""
+"Pokračujeme!"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F468"
 msgid "\"So this is where René works. I'm gonna look around.\" (Search the booth.)"
 msgstr ""
+"\"Tak tady René pracuje. Porozhédnu se tady.\" (Prohledej budku.)"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000820001F468"
 msgid "\"So this is where René worked. I'm gonna look around.\" (Search the booth.)\n"
 msgstr ""
+"\"Tak tady René pracoval. Porozhlédnu se tady.\" (Prohledej budku.) \n"
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F4BA"
 msgid "Leave the picture alone."
 msgstr ""
+"Nechej obrázek být."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000024E"
 msgid "Take the painkillers."
 msgstr ""
+"Vezmi si léky proti bolesti."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000287"
 msgid "Stale air floods through your nostrils. Not a single mote of dust floats inside your lungs, though. The inside of the booth is immaculate."
 msgstr ""
+"Zatuchlý vzduch zaplaví tvé nozdry. Do plic ti však nevnikne jediné snítko prachu. Vnitřek budky je naprosto vzorný."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F571"
 msgid "\"I'm done here.\""
 msgstr ""
+"\"Tady jsem skončil.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC5B"
 msgid "Nothing incriminating catches your eye. The cabinets are clean and their sparse contents meticulously organized. There's a framed photograph on the table."
 msgstr ""
+"Nic inkriminujícího nevidíš. Skříňky jsou čisté a jejich skrovný obsah pečlivě uspořádaný. Na stole leží zarámovaná fotografie."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F4C1"
 msgid "It's a black and white photo of a young couple out in a street fair. The man is young, dark-skinned, and dressed in a Royal Carabineer uniform. The girl is smiling playfully at the camera."
 msgstr ""
+"Je to černobílá fotka mladého páru na pouličním jarmarku. Muž je mladý s tmavou kůží, oblečený do uniformy královského karabiníka. Dívka je mladá a velmi krásná. Hravě se usmívá do objektivu."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F4CE"
 msgid "\"Let's get going,\" the lieutenant says impatiently. \"The entire neighbourhood can see us up here.\""
 msgstr ""
+"\"Pohněme sebou,\" poručík pronese netrpělivě. \"Tady nahoře nás může vidět celá čtvrť.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000253"
 msgid "\"Kim, would you mind if I helped myself to some meds?\""
 msgstr ""
+"\"Kime, nevadilo by vám, kdybych si přivlastnil nějaké léky?\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002F5"
 msgid "I hope I'm not fucking René over by taking his painkillers."
 msgstr ""
+"Doufám, že Reného neojebu, když mu vezmu prášky proti bolesti."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000309"
 msgid "I am scared I will never be held or loved in this world again."
 msgstr ""
+"Bojím se, že mě už na tomto světě nikdy nikdo neobejme a nebude milovat."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -423,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000311"
 msgid "Your nihilistic humour renders the list of side-effects null and void. Just like everything else in this empty world."
 msgstr ""
+"Tvůj nihilistický humor zneplatní seznam vedlejších účinků. Stejně jako všechno v tomhle prázdném světě."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -430,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F48D"
 msgid "\"If you must.\" The lieutenant looks around. \"But please hurry -- we're pretty easy to spot up here.\""
 msgstr ""
+"\"Pokud musíte.\" Poručík se rozhlédne.\"Ale prosím, pospěšte si - tady je snadné nás zahlédnout.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -437,6 +506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F54E"
 msgid "\"I suppose René is not going to be needing it anymore.\" He studies the uniform. \"It's a bit too colourful for my taste, though.\""
 msgstr ""
+"\"Předpokládám, že René už ji nebude potřebovat.\" Prohlíží si uniformu. \"Na můj vkus je ale trochu moc pestrá.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -444,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CB0D"
 msgid "\"It's, uhm, needed for work and all that.\""
 msgstr ""
+"\"Je to, uh, nutné k práci a tak.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -451,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CB1B"
 msgid "Take it. It's just there. Who cares? It's not like anyone's gonna need it."
 msgstr ""
+"Vezmi si ji. Prostě tu leží. Koho to zajímá? Ne že by ji někdo potřeboval."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -458,6 +530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000032C"
 msgid "The enormity of the case before you dwarfs the list of side-effects. You can't even see the side-effects anymore. They're nothing to you."
 msgstr ""
+"Rozsáhlost případu, který máš před sebou, upozadí seznam vedlejších účinků. Ani už je nevidíš. Nic pro tebe neznamenají."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -465,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000336"
 msgid "That's kind of sad, actually..."
 msgstr ""
+"To je vlastně docela smutné..."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -472,6 +546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200010CD7"
 msgid "This is the nightwatchman's booth. The name on the door reads *René Arnoux*."
 msgstr ""
+"Tohle je budka nočního hlídače. Na dveřích je napsáno *René Arnoux*."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -479,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F52C"
 msgid "\"Fine.\" He nods. \"But let's move. I don't want to be seen snooping around here.\""
 msgstr ""
+"\"Dobrá.\" Pokýve hlavou. \"Ale hoďme sebou. Nechci být viděn, jak tu šmucháme.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -486,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000021E"
 msgid "The chair is not as austere as the rest of the booth. A thin grey pillow is attached to the seat, secured to the stiles by black ribbons."
 msgstr ""
+"Židle není tak strohá jako zbytek budky. K sedadlu je připevněn tenký šedý polštář, držený na místě černými stuhami."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -493,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F510"
 msgid "\"I'm a cop. It's instinctual to collect evidence.\""
 msgstr ""
+"\"Jsem policista. Instinktivně sbírám důkazy.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -500,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F516"
 msgid "\"*Something* about this man peaks my interest. I think this can be a side-thing.\""
 msgstr ""
+"\"*Něco* mě na něm zaujalo. Myslím, že by to mohla být moje bokovka.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -507,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CB22"
 msgid "Generally speaking, it would be *dishonourable* to take it. But then... it looks like a military uniform! And wearing that is very honourable. So, a conflict of honour. It's up to you."
 msgstr ""
+"Obecně řečeno by bylo *nečestné* si ji vzít. Ale...vypadá jako vojenská uniforma! A tu nosit je velmi čestné. Takže konflikt cti. Je to na tobě."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -514,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC97"
 msgid "\"You're *really* interested in that old soldier,\" he remarks, surprised. \"Not sure I understand your fascination, but sure -- as long as it doesn't take up a whole lot of time.\""
 msgstr ""
+"\"Vy se *opravdu* zajímáte o toho starého vojáka,\" překvapeně poznamená. \"Příliš nechápu vaši fascinaci, ale proč ne - pokud to nezabere příliš času.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -521,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000029B"
 msgid "Read the side-effects."
 msgstr ""
+"Přečti si vedlejší účinky."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -528,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000042000002DC"
 msgid "The imagined dazzle of light overwhelms any list of potential side-effects. Any negative thoughts are drowned out by the fantastic blast of *disco*."
 msgstr ""
+"Imaginární oslňující záře zahltí každý seznam možných vedlejších účinků. Jakékoli negativní myšlenky jsou přehlušeny fantastickým výbuchem *diska*."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -535,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F486"
 msgid "Take the uniform."
 msgstr ""
+"Vezmi si uniformu."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -542,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F4B3"
 msgid "Take the picture."
 msgstr ""
+"Vezmi si obrázek."
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -549,6 +634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F525"
 msgid "\"Of course you are,\" he says matter-of-factly. \"What murder investigation would be complete without an arbitrary photo collage.\""
 msgstr ""
+"\"Ach samozřejmě,\" prohlásí suše. \"Jaké vyšetřování vraždy by bylo kompletní bez arbitrární fotokoláže.\""
 
 #. Title = CARGO / NIGHT WATCHMAN BOOTH
 #. Description = René's booth dialogue shall be in here
@@ -556,3 +642,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F578"
 msgid "\"Fantastic. Try not to wear it with other similarly colourful clothes, okay?\""
 msgstr ""
+"\"Fantastické. Snažte se ji nenosit s dalším obdobně pestrým oblečením, ano?\""
