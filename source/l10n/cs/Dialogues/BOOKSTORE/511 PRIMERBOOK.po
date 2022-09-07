@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-09-07 18:46+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D358"
 msgid "\"Madam, what's this book?\""
 msgstr ""
+"\"Paní, co je tohle za knihu?\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D369"
 msgid "\"A highly educational primer. It's exceptional for the young mind... and obviously, very popular.\""
 msgstr ""
+"\"Velmi poučná učebnice. Je vynikající pro mladou mysl... a samozřejmě velmi oblíbená.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D386"
 msgid "\"You're a grown man, though. It's a bit too late for that... this is a book for small children.\""
 msgstr ""
+"\"Ale vy jste dospělý muž. Na to už je trochu pozdě... tohle je knížka pro malé děti.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001B67"
 msgid "You now proudly own a primer book for small children which, to be honest, barely cost anything."
 msgstr ""
+"Nyní hrdě vlastníš učebnici pro malé děti, která, upřímně řečeno, skoro nic nestála."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D36F"
 msgid "It's exactly like a primer -- a word on every page relating to a letter of the alphabet."
 msgstr ""
+"Je to přesně jako slabikář - na každé stránce je slovo vztahující se k jednomu písmenu abecedy."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D37A"
 msgid "\"Oh wow, that's cool. I want to become smarter.\""
 msgstr ""
+"\"Páni, to je špica. Chci být chytřejší.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002206"
 msgid "\"Okay. Cool.\""
 msgstr ""
+"\"Dobře. Špica.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D38C"
 msgid "\"Uh... you have kids?\" She shudders uncomfortably. \"Okay, I guess. Enjoy it.\""
 msgstr ""
+"\"Co... máte děti?\" Nepříjemně se zavrtí. \"Dobře, asi ano. Užijte si to.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00011C8A"
 msgid "I'm not sure what you're planning to get from this. It's meant for babies. Literal babies."
 msgstr ""
+"Nejsem si jistý, co z toho chceš získat. Je to určeno pro děti. Doslova pro děti."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001B61"
 msgid "Slowly, you move your hand towards the small book. Before you even can reach it, you're interrupted:"
 msgstr ""
+"Pomalu přiblížíš ruku k malé knize. Ještě než na ni dosáhneš, jsi vyrušen:"
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001B6D"
 msgid "\"Sir, please, no touching the merchandise.\""
 msgstr ""
+"\"Pane, prosím, nedotýkejte se zboží.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D39E"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001B57"
 msgid "You peek at the storekeep, waiting for her to be distracted. When she's not looking, you deftly swipe the small booklet off the shelf and stuff it in your pocket."
 msgstr ""
+"Podíváš se na prodavačku a čekáš, až ji něco rozptýlí. Když se nedívá, šikovně sundáš z regálu malou brožurku a strčíš si ji do kapsy."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D3DA"
 msgid "You see a colourful primer. The title reads: \"A Primer for Small Kids.\""
 msgstr ""
+"Vidíte pestrobarevný slabikář. Název zní: \"Slabikář pro malé děti.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001B43"
 msgid "Steal the Primer."
 msgstr ""
+"Ukradni slbikář."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100006B00001B43"
 msgid "Angry storekeeper stare-down."
 msgstr ""
+"Rozzlobená prodavačka zírá."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001B77"
 msgid "The lieutenant coughs sharply, then whispers: \"Let's not. Defrauding small business owners is not our *thing*.\""
 msgstr ""
+"Poručík si prudce odkašle a zašeptá: \"Ne. Okrádání drobných podnikatelů není naše parketa*.\""
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D352"
 msgid "Flip through the pages."
 msgstr ""
+"Listuj stránkami."
 
 #. Title = BOOKSTORE / PRIMERBOOK
 #. Description = A primer-book (quest item for Arx)
@@ -155,3 +181,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D392"
 msgid "I want to buy this Primer."
 msgstr ""
+"Chci si koupit tenhle slabikář."
