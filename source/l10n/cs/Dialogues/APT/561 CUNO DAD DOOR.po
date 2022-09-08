@@ -1,8 +1,16 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-08 14:57+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200001198"
 msgid "This is not something you should be attempting to do with your bare hands. You're just going to get hurt."
 msgstr ""
+"Tohle není něco o co by ses měl pokoušet s holýma rukama. Jen si ublížíš."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000001FF"
 msgid "Your heartbeat quickens, palms go sweaty... The siren of amphetamine is singing you her song."
 msgstr ""
+"Tep ti zrychluje, dlaně se ti potí. To tě vábí amfetaminová siréna svou písní."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002DD3"
 msgid "The lieutenant shakes his head. \"We've no business here. Let's get back to the investigation.\""
 msgstr ""
+"Poručík zavrtí hlavou. \"Tady nemáme co dělat. Pokračujme ve vyšetřování.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000001D2"
 msgid "A shabby door hangs oddly on its hinges, secured to the doorframe with a safety chain. An unpaid energy bill is attached, threatening to cut off the electricity. It's addressed to Mr. Uuno de Ruyter."
 msgstr ""
+"Ošuntělé dveře podivně visí na pantech. Jsou připevněné k rámu bezpečnostním řetízkem. Visí na nich nezaplacený účet za energie, který vyhrožuje odstřihnutím od elektřiny. Adresován je panu Uunovi de Ruyterovi."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000020E"
 msgid "The lieutenant looks worried. \"I know there's no stopping you -- but let's at least make this quick.\""
 msgstr ""
+"Poručík vypadá ustaraně. \"Vím, že vás nic nezastaví - ale alespoň ať je to rychlé.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002D7C"
 msgid "Use the cutters on the chain."
 msgstr ""
+"Použij štípačky na řetízek."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100008F00002D7C"
 msgid "Tool not in hand."
 msgstr ""
+"Nemáš v ruce žádný nástroj."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100008F00002D7C"
 msgid "Won't be beat by a goddamn door."
 msgstr ""
+"Přece mě neporazí zatracené dveře."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100008F00002D7C"
 msgid "Cursed Iilmaraan Die."
 msgstr ""
+"Prokletá kostka z Ostrova přání."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100008F00002D7C"
 msgid "One More Door."
 msgstr ""
+"Ještě jedny dveře."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008DC1"
 msgid "You'll need to equip the chaincutters to enter. Snip right through the metal!"
 msgstr ""
+"Musíš si vzít do ruky štípačky. Procvakni se přímo skrz kov!"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008DD0"
 msgid "Good thing you already have the chaincutters in your hand! Nothing left to do now but *snip-snip*!"
 msgstr ""
+"Skvělé, že už máš štípačky v ruce! Nezbývá nic než *cvak-cvak*!"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002DDF"
 msgid "The lieutenant smiles. \"Trouble with the chain, officer?\""
 msgstr ""
+"Poručík se ušklíbne. \"Problém s řetízkem, strážníku?\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012C85"
 msgid "Like a goddamn maniac, you rip the chain off the door. The links lie on the floor, scattered."
 msgstr ""
+"Jako zatracený šílenec vythneš řetízek ze dveří. Články leží na zemi, všude rozházené."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000256"
 msgid "Snip! The cutter goes through them like dead leaves. The links fall to the ground on the other side of the door."
 msgstr ""
+"Cvak! Kleště projdou skrz jako horký nůž máslem. Články popadají na zem na druhé straně dveří."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E11"
 msgid "\"*Supreme-titanium*?\" The lieutenant blinks. \"Sure. A door inside this complex has super-hard, super-expensive chains.\""
 msgstr ""
+"\"*Nejlepší titan*? Poručík zamrká. \"Jistě. Dveře v tomto komplexu mají super tvrdé, super drahé řetězy.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002D8D"
 msgid "It should be easy, but... it's just an awkward angle, okay? The door doesn't *really* open wide enough to really get the cutters through. You can't get the leverage you need. And the cutters are blunt. AND the chain is... just super strong, okay? It's not your fault you can't cut it!"
 msgstr ""
+"Mělo by to jít lehce, ale...přece jen je to nepříjemný úhel, jo? Dveře se neotvírají dost na to, aby jsi mohl prostrčit kleště pořádně skrz. Nemáš potřebnou páku. A štípačky jsou tupé! A k TOMU je ten řetěz...super silný, jasné? Není tvoje chyba, že ho nemůžeš přeštípnout!"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000001D8"
 msgid "The apartment numbers have fallen off the door, leaving the panel with a sticky '1'-shaped shadow and a marker-drawn '2'."
 msgstr ""
+"Číslo bytu dávno upadlo ze dveří. Zůstal jen panel s ulepeným stínem po jedničce a dvojkou nakreslenou fixem."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E05"
 msgid "The lieutenant arches his eyebrows, surprised. \"Well... no. I guess not.\""
 msgstr ""
+"Poručík zvedne obočí překvapením. \"No...ne. Myslím, že ne.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E44"
 msgid "Stupid chain... Come on, try it again. We won't be defeated so easily!"
 msgstr ""
+"Blbý řetěz! No tak, zkus to znova! Tak snadno se nedáš."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012C9B"
 msgid "Like a goddamn maniac, you rip the chain off the door. The links lie on the floor, scattered."
 msgstr ""
+"Jako zatracený šílenec vythneš řetízek ze dveří. Články leží na zemi, všude rozházené."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000001ED"
 msgid "Knock lightly."
 msgstr ""
+"Lehce zaťukej."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002DC7"
 msgid "The handle is loose from violent, fruitless yanking. Paint at the door's bottom is chipped from kicking. People have tried often, and apparently without success, to enter."
 msgstr ""
+"Klika je povolená od bezúčelného násilného škubání. Barva dole na dveřích je oloupaná od kopání. Někdo se často, bezúspěšně, snaží dostat dovnitř."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000250"
 msgid "No response."
 msgstr ""
+"Bez odezvy."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000396"
 msgid "Don't let the quiet fool you -- the beast is in there somewhere, ready to rip you to shreds with a broken bottle..."
 msgstr ""
+"Nenech se zmást tichem - stvůra tam někde je, připravená rozpárat tě rozbitou lahví."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E5B"
 msgid "How... how can this be?! How can such a simple chain defy our best efforts? Are you *that* bad with your hands? I do not understand..."
 msgstr ""
+"Jak...je tohle možné? Jak může tak obyčejný řetízek ustát naeš nejlepší úsilí? To jsi *tak* levý? Nechápu..."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E1E"
 msgid "Fabric rustles. The lieutenant's chin catches against his collar. He is looking on, shaking his head in disappointment."
 msgstr ""
+"Zašustí tkanina. To poručíkova brada se zachytí o jeho límec. Dívá se a zklamaně kroutí hlavou."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000021A"
 msgid "\"And the place comes with three months' worth of utility bills.\""
 msgstr ""
+"\"K bytu patří účty za energie tři měsíce dozadu.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002DF2"
 msgid "\"Hey, don't look at me! You're the one packing shitty chaincutters.\""
 msgstr ""
+"\"Hej, na mě nekoukej! To ty máš na hovno štípačky.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00000214"
 msgid "Nothing happens?! It must be an ambush... Let's get your adrenaline pumping, just in case."
 msgstr ""
+"Nic se nestalo?! Musí to být léčka...Pro jistotu ti zvednu hladinu adrenalinu."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002DF8"
 msgid "\"I'll be honest: I'm just not that good with my hands.\""
 msgstr ""
+"\"Budu upřímný: Jsem prostě levý.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E0B"
 msgid "\"Of course, officer.\" The lieutenant smiles obligingly. \"My RCM regulation, recently distributed cutters are the problem.\""
 msgstr ""
+"\"Ale samozřejmě, strážníku.\" Poručík se úslužně usměje. \"Moje nejnovější štípací kleště, splňující všechna nařízení ROM, jsou ten problém.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000001F3"
 msgid "\"Looks like we found where Cuno's dad lives.\" (Point to the bill on the door.)"
 msgstr ""
+"\"Vypadá to, že jsme objevili, kde žije Kunův táta.\" (Ukaž na účet na dveřích.)"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002DEC"
 msgid "\"These are no ordinary chains... they are *titanium* chains. *Supreme-titanium*, Kim.\""
 msgstr ""
+"\"Tohle není žádný obyčejný řetízek...je to *titanový* řetěz. *Nejlepší titan*, Kime.\""
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E51"
 msgid "You can't stand for that! Come on, show him what you can REALLY do!"
 msgstr ""
+"To si přece nenecháš líbit! No tak, ukaž mu, co opravdu umíš!"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002E7E"
 msgid "Snip! So much for that goddamn chain. The links fall to the ground on the other side of the door. You have bested the titanium menace."
 msgstr ""
+"Cvak! Tak končí ten blbý řetízek. Články popadají na zem na druhé straně dveří. Překonal jsi titanovou hrozbu."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FEA5"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200008DBB"
 msgid "The door is locked by a chain. If only you had some kind of standard police device for the cutting of chains. Something, perhaps, that could be found in an RCM motor carriage..."
 msgstr ""
+"Dveře jsou zamčeny řetízkem. Kdybys jen měl nejaký standardizovaný policejní nástroj na přecvakávání řetězů. Nějaký, který by mohl být třeba v motorovém kočáru ROM."
 
 #. Title = APT / CUNO DAD DOOR
 #. Description = DOOR, APARTMENT #12
@@ -315,3 +361,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E64E"
 msgid "You can just go in now..."
 msgstr ""
+"Teď už můžeš snadno dovnitř..."
