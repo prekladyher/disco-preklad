@@ -95,7 +95,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Angie">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [TYKAT] zdrobněle Angus (Tlusťoch Angus - jeden z Valchařových hochů)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Angie</term>
@@ -103,7 +103,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Angela</term>
+            <term>Angy</term>
           </tig>
         </langSet>
       </termEntry>
@@ -325,6 +325,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Apartmány u Mysu</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Capital">
+        <descrip type="definition">neznám kontext, je to něco s komunismem  "w. class against Capital." Město? Pojem? Kapitalismus?</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Capital</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kapitál?</term>
           </tig>
         </langSet>
       </termEntry>
@@ -836,19 +849,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="gandarme / gandamerie">
-        <descrip type="definition">ve významu četník / četnictvo, říká kuřák na balkoně a Štěbán - francouzský přízvuk</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>gandarme / gandamerie</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>žandarm / žandamerie</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="Gareth Morrand">
         <descrip type="definition">[OK] Blíže nespecikovaný člen ROM, idolizován babkou Marianne</descrip>
         <langSet xml:lang="en">
@@ -872,6 +872,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Gart, Vavřinec</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="gendarme / gendarmerie">
+        <descrip type="definition">ve významu četník / četnictvo, říká kuřák na balkoně a Štěbán - francouzský přízvuk</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gendarme / gendarmerie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>žandarm / žandarmerie</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1430,7 +1443,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>bederní rouška</term>
+            <term>bederní rouška / křovák v pejorativním významu</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1483,6 +1496,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>mariachi</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Martin Martinaise">
+        <descrip type="definition">přezdívka, nepamatuji si, kde všude zaznívá</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Martin Martinaise</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Martin Martinéza</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2990,7 +3016,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>V-cárech-vířící (Cáry)</term>
+            <term>V-Cárech-vířící (Cáry)</term>
           </tig>
         </langSet>
       </termEntry>
