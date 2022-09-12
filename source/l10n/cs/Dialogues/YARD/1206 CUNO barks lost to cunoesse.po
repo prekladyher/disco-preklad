@@ -1,50 +1,63 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-09-12 19:13+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / CUNO barks lost to cunoesse
 #. Description = OBSOLETE
-#. 
+#.
 #. Now Cuno lockout is handled in greeting.
 #. Actor = Cuno
 msgctxt "Dialogue Text/0x0100000700019498"
 msgid "\"You're dead to Cuno.\""
 msgstr ""
+"\"Pro Kuna jsi mrtvý.\""
 
 #. Title = YARD / CUNO barks lost to cunoesse
 #. Description = OBSOLETE
-#. 
+#.
 #. Now Cuno lockout is handled in greeting.
 #. Actor = Cuno
 msgctxt "Dialogue Text/0x0100000700019492"
 msgid "\"Cuno's got nothing to say to you.\""
 msgstr ""
+"\"Kuno ti nemá co říct.\""
 
 #. Title = YARD / CUNO barks lost to cunoesse
 #. Description = OBSOLETE
-#. 
+#.
 #. Now Cuno lockout is handled in greeting.
 #. Actor = Cuno
 msgctxt "Dialogue Text/0x01000007000194A4"
 msgid "\"Shouldn't have antagonized the Cuno.\""
 msgstr ""
+"\"Neměl jsi si Kuna znepřátelit.\""
 
 #. Title = YARD / CUNO barks lost to cunoesse
 #. Description = OBSOLETE
-#. 
+#.
 #. Now Cuno lockout is handled in greeting.
 #. Actor = Cuno
 msgctxt "Dialogue Text/0x010000070001949E"
 msgid "\"Just fuck off, alright?\""
 msgstr ""
+"\"Prostě jdi do prdele, jo?\""
 
 #. Title = YARD / CUNO barks lost to cunoesse
 #. Description = OBSOLETE
-#. 
+#.
 #. Now Cuno lockout is handled in greeting.
 #. Actor = Cuno
 msgctxt "Dialogue Text/0x0100008100005E6F"
 msgid "\"Get lost, loser!\""
 msgstr ""
+"\"Vypadni, ubožáku!\""
