@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-09-12 19:56+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000077A5"
 msgid "This is the inside of the barred door you've seen before."
 msgstr ""
+"Toto je vnitřní strana zamřížovaných dveří, které jsi viděl dříve."
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000077CC"
 msgid "Unbar the door. [Leave]"
 msgstr ""
+"Odemkni dveře. [Odejdi]"
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800011017"
 msgid "Folded M dimension. A reference to the popular science fiction series *In System*. Look who's in a good mood suddenly (and reads science fiction)."
 msgstr ""
+"Rozměr M ve složeném stavu. Odkaz na populární sci-fi seriál *V soustavě*. Podívej se, kdo má najednou dobrou náladu (a čte sci-fi)."
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000077C6"
 msgid "Lightly punch the door once more. Just in case."
 msgstr ""
+"Ještě jednou lehce udeř do dveří. Pro jistotu."
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007796"
 msgid "The door is small but heavy-looking. It's barred from the inside."
 msgstr ""
+"Dveře jsou malé, ale těžké. Zevnitř jsou zamřížované."
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000077DA"
 msgid "The door shudders a bit, as though it were laughing at you."
 msgstr ""
+"Dveře se trochu zachvějí, jako by se ti smály."
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001BD23"
 msgid "Yes. It *is* quite likely that we will re-emerge on the M-Plain. Brace for psychokinetic impact. (Or the roof.)"
 msgstr ""
+"Ano, je docela pravděpodobné, že se znovu objevíme na pláni M. Připrav se na psychokinetický náraz. (Nebo na střechu.)"
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000077D2"
 msgid "Let the door remain barred. [Leave.]"
 msgstr ""
+"Nechť dveře zůstanou zavřené. [Odejdi.]"
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800011001"
 msgid "\"So what's on the other side?\""
 msgstr ""
+"\"A co je na druhé straně?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003FF8"
 msgid "\"Unless we've veered off into a folded M dimension, I'm expecting to step out on the roof.\""
 msgstr ""
+"\"Pokud jsme se neodklonili do složené dimenze M, očekávám, že vystoupíme na střechu.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800011008"
 msgid "\"Unless we've veered off into a folded M dimension, I'm expecting to step out on the roof -- we could ask Klaasje about this route, see how she reacts?\""
 msgstr ""
+"\"Pokud jsme neodbočili do složené dimenze M, očekávám, že vystoupíme na střechu - mohli bychom se na tuhle cestu zeptat Klaasje, uvidíme, jak bude reagovat?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR INSIDE
 #. Description = From the inside, the door opens easily.
@@ -87,3 +106,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000077B7"
 msgid "This is the barred door you tried to kick in before."
 msgstr ""
+"Tohle jsou ty zamřížované dveře, které jsi se předtím snažil vykopnout."
