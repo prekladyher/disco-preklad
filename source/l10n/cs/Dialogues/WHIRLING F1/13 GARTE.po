@@ -1,8 +1,16 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: Drakefran <drakefranddrakefran@gmail.com>\n"
+"PO-Revision-Date: 2022-09-12 21:49+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -659,7 +667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00003A93"
 msgid "\"No! He called me a f****t!\""
 msgstr ""
-"\"Ne! Nazval mě f****tou!\""
+"\"Ne! Nazval mě f****tem!\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -803,7 +811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006AAC"
 msgid "Let's bail! Time to push the EJECT button. Sounds like a *responsibility*. You don't like those."
 msgstr ""
-"Vykašleme se na to! Je čas stisknout tlačítko EJECT. To zní jako *zodpovědnost*. Tu nemáš rád."
+"Vykašleme se na to! Je čas stisknout tlačítko VYSUNOUT. Tohle zní jako *zodpovědnost*. Tohle nemáš rád."
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -1415,7 +1423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006731"
 msgid "\"Sir, I understand your concern, but we're here to do a job, and for us to do it, I need you to stay calm.\""
 msgstr ""
-"\"Pane, chápu vaše obavy, ale jsme tady, abychom odvedli práci, a abychom ji odvedli, potřebuji, abyste zůstal v klidu.\""
+"\"Pane, chápu vaše obavy, ale jsme tady, abychom udělali práci, kterou máme udělat, potřebuji, abyste zůstal v klidu.\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -1531,6 +1539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000071E0"
 msgid "\"No, I don't think so.\""
 msgstr ""
+"\"Ne, to si nemyslím.\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -1672,6 +1681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006B13"
 msgid "Who does that CLOWN think he is? Arrest him!"
 msgstr ""
+"Kdo si tenhle KLAUN myslí, že je? Zatkni ho!"
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -2065,6 +2075,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006B44"
 msgid "The lieutenant watches you fiddle with your horrific tie, sweat stains forming under your armpits. He puts his hand on your shoulder."
 msgstr ""
+"Poručík se dívá, jak si pohráváš s příšernou kravatou a v podpaží se ti tvoří skvrny od potu. Položí ti ruku na rameno."
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -2304,6 +2315,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000060001017B"
 msgid "\"Ah, the dead body. I didn't actually get it down, did I?\""
 msgstr ""
+"\"Aha, to mrtvé tělo. Vlastně jsem ho nesundal, že ne?\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -2375,6 +2387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000634D"
 msgid "No one is saying that. No one is saying the tie can talk -- that would be ludicrous. It's just that... you should arrest him. It would be *wiser*. He wants to take your money."
 msgstr ""
+"To nikdo netvrdí. Nikdo neříká, že kravata může mluvit - to by bylo směšné. Jde jen o to, že... bys ho měl zatknout. Bylo by to *moudřejší*. Chce si vzít tvoje peníze."
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -2781,6 +2794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006B80"
 msgid "\"If you don't have the money, it's okay. None of us are in this for the wages.\""
 msgstr ""
+"\"Pokud nemáte peníze, nevadí. Nikdo z nás to nedělá kvůli výplatě.\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -2999,7 +3013,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006C61"
 msgid "\"Money is what grown up people use to pay for things. Things like this hostel room or...\" He peeks into the ledger: \"...or eight bottles of 'Potent Blend' and nine packs of 'Royal Extra'. We use it for everything, really.\""
 msgstr ""
-"\"Peníze jsou to, čím dospělí lidé platí za věci. Věci jako pokoj v tomhle hostelu nebo...\" Nahlédne do účetní knihy: \"...nebo osm lahví \"Potent Blend\" a devět krabiček \"Royal Extra\". Používáme je vlastně na všechno.\""
+"\"Peníze jsou to, čím dospělí lidé platí za věci. Věci jako pokoj v tomhle hostelu nebo...\" Nahlédne do účetní knihy: \"...nebo osm lahví \"Silné směsi\" a devět krabiček \"Royal Extra\". Používáme je vlastně na všechno.\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -3363,6 +3377,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100000400006B8B"
 msgid "Lost your nerve before."
 msgstr ""
+"Předtím jsi ztratil nervy."
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -3371,6 +3386,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100000400006B8B"
 msgid "Really lost your nerve before."
 msgstr ""
+"Opravdu jsi předtím ztratil nervy."
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -3739,7 +3755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00003EF3"
 msgid "\"This stuff gets on my nerves. I am a feminist.\""
 msgstr ""
-"\"Tyhle věci mi lezou na nervy. Jsem feminista.\""
+"\"Tyhle věci mi lezou na nervy. Jsem feministka.\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -4295,6 +4311,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000636D"
 msgid "I'm not comfortable with this. (Try to somehow tuck the tie away.)"
 msgstr ""
+"Tohle se mi nelíbí. (Zkus kravatu nějak schovat.)"
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
@@ -4356,6 +4373,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400006C7A"
 msgid "\"What are you, brain-damaged?\""
 msgstr ""
+"\"Co jste zač, máte poškozený mozek?\""
 
 #. Title = WHIRLING F1 / GARTE
 #. Description = ltn Kitsuragi suggests you talk to the manager of the Whirling-in-Rags first. Garte is a hub of knowledge on the area and the case and you will come back to him later. He is also a problem, asking you to pay for the night, to pay for "the damages". It does not reflect well on you.
