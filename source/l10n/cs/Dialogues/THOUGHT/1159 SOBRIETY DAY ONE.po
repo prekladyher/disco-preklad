@@ -1,16 +1,17 @@
 # Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Jindřich Černý <cernyjindrich22@gmail.com>\n"
-"PO-Revision-Date: 2022-06-06 17:27+0200\n"
+"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"PO-Revision-Date: 2022-09-13 18:39+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -34,7 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F0A"
 msgid "What?! I've been sober for *over two days* already!"
 msgstr ""
-"Cože? Jsem už střízlivý *přes dva týdny*."
+"Cože? Jsem už střízlivý *přes dva dny*."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -98,7 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F53"
 msgid "You've shown you can get through two days of detox. You can certainly endure a little more..."
 msgstr ""
-"Ukázal jsi že zvládneš dva dny detoxikace. Určitě vydržíš i trochu déle..."
+"Ukázal jsi, že zvládneš dva dny detoxikace. Určitě vydržíš i trochu déle..."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -106,7 +107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F65"
 msgid "You're going to feel all kinds of contradictory, confusing things for months to come. But don't get discouraged -- you just have to keep going, right foot in front of left, left foot in front of right..."
 msgstr ""
-"V následujících měsících ucítíš všemožné protikladya matoucí věci. Ale nenech se odratit - musíš jít dál, pravá noha střídá levou. Pravá, levá, pravá, levá."
+"V následujících měsících ucítíš všemožné protiklady a matoucí věci. Ale nenech se odradit - musíš jít dál, pravá noha střídá levou. Pravá, levá, pravá, levá."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -114,7 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A234"
 msgid "Do you know what today is?"
 msgstr ""
-"Víš co je dnes za den?"
+"Víš, co je dnes za den?"
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -138,7 +139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F9E"
 msgid "Reality... (Study your surroundings with your newly sober eyes.)"
 msgstr ""
-"Realita... (Prozkoumat svoje okolí se svými nově střízlivými očima.)"
+"Realita... (Prozkoumat svoje okolí se svýma nově střízlivými očima.)"
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -146,7 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000EEB"
 msgid "No, believe it or not, this isn't about *her*. Well, not exactly..."
 msgstr ""
-"Ne, věř tomu nebo ne, ale tohle se *ji* netýka. No, ne tak docela..."
+"Ne, věř tomu nebo ne, ale tohle se *jí* netýká. No, ne tak docela..."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -186,7 +187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F2B"
 msgid "No, you don't. You're well into detoxing now. *Reality* is beginning to come into focus -- just look around."
 msgstr ""
-"To teda nepotřebuješ. Jseš ted na dobré cestě k detoxikaci. *Realita* se začína zaostřovat - Jen se kolem sebe rozhlédni."
+"To teda nepotřebuješ. Jseš teď na dobré cestě k detoxikaci. *Realita* se začína zaostřovat - Jen se kolem sebe rozhlédni."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -210,7 +211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E2D"
 msgid "(Lie.) Yes."
 msgstr ""
-"(Lhát.) Ano."
+"(Lži.) Ano."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -226,7 +227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000EF9"
 msgid "It's your first day sober."
 msgstr ""
-"Je první den, kdy jsi stříslivý."
+"Je první den, kdy jsi střízlivý."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -234,7 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F1D"
 msgid "It takes a while for that shit to get out of your system, and for reality to come back into focus."
 msgstr ""
-"Chvíli trvá, než se ti ty sračky dostanou ze sytému ven a realitě než se znovu zaostří."
+"Chvíli trvá, než se ti ty sračky dostanou ze systému ven a realitě, než se znovu zaostří."
 
 #. Title = THOUGHT / SOBRIETY DAY ONE
 #. Description = Endurance -- about staying clean. Not an initiation dialogue, but UPON FIXING thought?
@@ -250,4 +251,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000F96"
 msgid "...and together we will walk the waste land of reality. Because even if you haven't had your last drink or your last line, you will never really, truly enjoy either again."
 msgstr ""
-"...a společně projdeme pustou zemí reálity. Protože i přesto, že jsi neměl svoje poslední pití nebo svou poslední čáru, ani jedno si nikdy skutečně neužiješ."
+"...a společně projdeme pustou zemí reality. Protože i přesto, že jsi neměl svoje poslední pití nebo svou poslední čáru, ani jedno si nikdy skutečně neužiješ."
