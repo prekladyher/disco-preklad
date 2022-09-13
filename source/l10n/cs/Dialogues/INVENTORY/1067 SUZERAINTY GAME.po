@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001E92"
 msgid "Shake the box."
 msgstr ""
+"Zatřes krabicí."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -35,6 +43,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001544"
 msgid "The actual scoring system appears infinitely complex, with a series of tables and appendices required to compute each player's final victory point total. You skip that part for now."
 msgstr ""
+"Samotný systém bodování se zdá být nekonečně složitý, protože k výpočtu konečného počtu vítězných bodů každého hráče je zapotřebí řada tabulek a příloh. Tuto část prozatím přeskoč."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -43,6 +52,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001587"
 msgid "You open up a number of pouches containing wooden tokens. There are also several punchboards with other cardboard components that will need to be punched out before you can play."
 msgstr ""
+"Otevřeš několik váčků s dřevěnými žetony. Je zde také několik destiček s dalšími kartonovými komponenty, které je třeba před hrou vyděrovat."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -51,6 +61,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000015AA"
 msgid "In addition to the worker and building tokens used by each player, there are also several piles of colourful resource tokens, each representing one of the game's four principal resources..."
 msgstr ""
+"Kromě žetonů dělníků a budov, které používá každý hráč, je zde také několik hromádek barevných žetonů surovin, z nichž každý představuje jednu ze čtyř hlavních surovin ve hře..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -59,6 +70,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001684"
 msgid "\"That's a market. It's worth *two victory points*.\""
 msgstr ""
+"\"To je trh. Má hodnotu *dva vítězné body*.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -75,6 +87,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000016B1"
 msgid "\"Don't worry, it was mostly just luck. You'll earn some points soon enough.\""
 msgstr ""
+"\"Nebojte se, bylo to z větší části jen štěstí. Brzy získáte nějaké body.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -83,6 +96,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000019C7"
 msgid "Oh, yeah, baby. Cocaine and rock music go together like... cocaine and rock music."
 msgstr ""
+"Jo, zlato. Kokain a rocková hudba jdou dohromady jako... kokain a rocková hudba."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -139,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005291"
 msgid "Now's your chance. Show the lieutenant what happens when he patronizes you."
 msgstr ""
+"Teď máš šanci. Ukaž poručíkovi, co se stane, když se nad tebou bude povyšovat."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -155,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005468"
 msgid "Well, the suzerain was looking for new markets for all the cocaine it was producing, and it settled on Safre..."
 msgstr ""
+"Takže, suzerén hledal nové trhy pro veškerý kokain, který produkoval, a rozhodl se pro Safru..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -163,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054AC"
 msgid "Those aren't your *only* options."
 msgstr ""
+"To nejsou tvé *jediné* možnosti."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -171,6 +188,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000561A"
 msgid "\"Holy shit, the average playing time for this game is one to *six* hours...\""
 msgstr ""
+"\"Sakra, průměrná herní doba téhle hry je jedna až *šest* hodin...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -203,6 +221,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001E98"
 msgid "Remove the plastic wrap."
 msgstr ""
+"Odstraň fólii."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -211,6 +230,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EC4"
 msgid "Even before you open it, you can tell that this will be a meaty game of grand strategy and complex player interactions."
 msgstr ""
+"Ještě než hru otevřeš, poznáš, že se bude jednat o velkou strategii a komplexní interakci mezi hráči."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -219,6 +239,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EF0"
 msgid "There's a hiss as the lid slides off. Inside you find a thick, full-colour rulebook and more than a dozen pouches of various wooden components."
 msgstr ""
+"Víko se se sykotem odsune. Uvnitř najdeš tlustou barevnou knihu pravidel a více než tucet sáčků s různými dřevěnými dílky."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -235,6 +256,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001554"
 msgid "Boring, boring, BORING. Tear up this rulebook and commit some old-school atrocities!"
 msgstr ""
+"Nuda, nuda, NUDA. Roztrhej tu knihu pravidel a spáchej pár zvěrstev ze staré školy!"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -251,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004BF8"
 msgid "\"More or less,\" the lieutenant says, but he's thinking less about matters of historical wrongdoing than how to get out of the jam you've put him in..."
 msgstr ""
+"\"Víceméně,\" řekne poručík, ale nepřemýšlí ani tak o historických křivdách, jako spíš o tom, jak se dostat ze šlamastyky, do které jsi ho dostal..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -259,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004C25"
 msgid "\"For almighty Revachol!\" (Go for the victory column.)"
 msgstr ""
+"\"Za všemocný Revachol!\" (Jdi do sloupu vítězství.)"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -283,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005162"
 msgid "\"Who came up with such a concept?\""
 msgstr ""
+"\"Kdo přišel s takovým konceptem?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -299,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000535D"
 msgid "\"A risky gambit, detective. Sorry it didn't pay off.\""
 msgstr ""
+"\"Riskantní gambit, detektive. Je mi líto, že se nevyplatil.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -307,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000053AB"
 msgid "Okay, make them work a little, but not *too* much."
 msgstr ""
+"Dobře, ať trochu pracují, ale ne moc."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -315,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005525"
 msgid "Computing the final scores is almost a game unto itself. You each spend an inordinate amount of time making stacks of coins, consulting tables, and struggling with basic addition and multiplication..."
 msgstr ""
+"Výpočet konečného skóre je téměř hra sama pro sebe. Každý z vás stráví nadměrné množství času skládáním mincí, konzultováním tabulek a zápolením se základním sčítáním a násobením..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -323,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000552D"
 msgid "Computing the final scores is almost a game unto itself. You each spend an inordinate amount of time making stacks of coins, consulting tables, and struggling with basic addition and multiplication..."
 msgstr ""
+"Výpočet konečného skóre je téměř hra sama pro sebe. Každý z vás stráví nadměrné množství času skládáním mincí, konzultováním tabulek a zápolením se základním sčítáním a násobením..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -339,6 +368,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005582"
 msgid "\"Guess I should have gone with a more consistent strategy.\""
 msgstr ""
+"\"Asi jsem měl zvolit důslednější strategii.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -371,6 +401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005732"
 msgid "After double- and then triple-checking your maths, you have your final score..."
 msgstr ""
+"Po dvojí a trojí kontrole svých výpočtů získáš konečné skóre..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -379,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005748"
 msgid "After double- and then triple-checking your maths, you have your final score..."
 msgstr ""
+"Po dvojí a trojí kontrole svých výpočtů získáš konečné skóre..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -427,6 +459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001ED8"
 msgid "Open the box."
 msgstr ""
+"Otevři krabici."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -435,6 +468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000151C"
 msgid "How do you accumulate victory points?"
 msgstr ""
+"Jak sbíráte vítězné body?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -491,6 +525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005709"
 msgid "\"Don't be glum, detective. There's always next time. Figuratively, I mean. There's no way we have time to play this game again...\""
 msgstr ""
+"\"Nebuďte zasmušilý, detektive. Vždycky je nějaké příště. Obrazně, myslím. V žádném případě nemáme čas hrát tuhle hru znovu...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -499,6 +534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000057A1"
 msgid "After double- and then triple-checking your maths, you have your final score..."
 msgstr ""
+"Po dvojí a trojí kontrole svých výpočtů získáš konečné skóre..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -523,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EF7"
 msgid "Ahhh! Savour that new board game smell! A mix of wood, paper, and ink, all wrapped in the sweet must of cardboard."
 msgstr ""
+"Achhh! Vychutnej si tu vůni nové deskové hry! Směs dřeva, papíru a inkoustu, to vše zabalené do sladkém moštu kartonu."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -531,6 +568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F16"
 msgid "[Put the game away.]"
 msgstr ""
+"[Odlož hru.]"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -547,6 +585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000015B2"
 msgid "Put the components away."
 msgstr ""
+"Odlož součásti."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -563,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004D94"
 msgid "Now it's the lieutenant's turn to respond. He moves aggressively onto the Safre territory. Soon his workers are producing a steady supply of extremely valuable *apricots*..."
 msgstr ""
+"Nyní je řada na poručíkovi, aby odpověděl. Agresivně se přesouvá na území Safry. Brzy jeho dělníci produkují stálý přísun nesmírně cenných *meruněk*..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -571,6 +611,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000520F"
 msgid "Gaze on your workers like a harsh, but proud, deity."
 msgstr ""
+"Shlížej se na své dělníky jako na přísné, ale hrdé božstvo."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -587,6 +628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005454"
 msgid "Tell me more."
 msgstr ""
+"Řekni mi víc."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -603,6 +645,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054E7"
 msgid "\"Yes, precisely.\""
 msgstr ""
+"\"Ano, přesně tak.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -635,6 +678,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000579B"
 msgid "Computing the final scores is almost a game unto itself. You each spend an inordinate amount of time making stacks of coins, consulting tables, and struggling with basic addition and multiplication..."
 msgstr ""
+"Výpočet konečného skóre je téměř hra sama pro sebe. Každý z vás stráví nadměrné množství času skládáním mincí, konzultováním tabulek a zápolením se základním sčítáním a násobením..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -699,6 +743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000053B6"
 msgid "That's more like it. You produce a handful of archaeological treasures and a smattering of other resources."
 msgstr ""
+"To se mi líbí víc. Vyprodukuješ hrstku archeologických pokladů a několik dalších zdrojů."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -715,6 +760,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054E1"
 msgid "\"You see in Table 8c that investing in territorial infrastructure multiplies your final victory point total by 1x, which is to say, not at all, whereas erecting monuments in Revachol gives you a multiplier of *5x*...\""
 msgstr ""
+"\"V tabulce 8c vidíš, že investice do územní infrastruktury násobí tvůj konečný součet vítězných bodů 1x, tedy vůbec, zatímco vztyčení památníků v Revacholu jej násobí *5x*...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -739,6 +785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005C61"
 msgid "Alternatively, you could throw the whole game away by trying to build a *public education system* for the children of your workers..."
 msgstr ""
+"Případně můžeš celou hru zahodit tím, že se pokusíš vybudovat *veřejný vzdělávací systém* pro děti svých zaměstnanců..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -755,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F4D"
 msgid "What is detective work if not an elaborate game? You need logical inference, attention to detail, the ability to analyse your opponents' motives..."
 msgstr ""
+"Co je detektivní práce, když ne promyšlená hra? Potřebuješ logické závěry, smysl pro detail, schopnost analyzovat motivy protivníků..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -787,6 +835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004D3C"
 msgid "Using your powers of 'persuasion', you 'convince' more workers to join your cause..."
 msgstr ""
+"Užitím svých přesvědčovacích schopností \"přesvědčíš\" další dělníky, aby se přidali k tvé věci..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -867,6 +916,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001516"
 msgid "That's where the suzerain's vassals come in. The game features four vassal nations, each one home to an economically important resource..."
 msgstr ""
+"Tady přicházejí na řadu suzerénovi vazalové. Hra obsahuje čtyři vazalské národy, z nichž každý je domovem nějakého ekonomicky důležitého zdroje..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -875,6 +925,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000153D"
 msgid "Each turn the player collects resources from vassals where they've placed workers. They may then rearrange their workers, fulfil contracts for coin and bonuses, or build structures back in Revachol..."
 msgstr ""
+"V každém tahu hráč sbírá suroviny od vazalů, ke kterým umístil dělníky. Poté může přeskupit své dělníky, plnit smlouvy za peníze a bonusy nebo stavět stavby v Revacholu..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -883,6 +934,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000015EB"
 msgid "\"I'm not sure we can afford to set aside *that* kind of time for a *game*.\""
 msgstr ""
+"\"Nejsem si jistý, jestli si můžeme dovolit vyhradit tolik času na *hru*.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -915,6 +967,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000518E"
 msgid "Nonsense. Remember what the lieutenant said? If points are arbitrary, who cares about *winning*? You should reject their system and just play how you want."
 msgstr ""
+"Nesmysl. Pamatuješ, co říkal poručík? Pokud jsou body libovolné, koho zajímá *výhra*? Měl bys jejich systém odmítnout a prostě hrát, jak chceš."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -955,6 +1008,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000562B"
 msgid "There's also a neat little log to keep track of your progress, in case you need to put the game away and return to it later..."
 msgstr ""
+"K dispozici je také malý záznamník, ve kterém můžete sledovat svůj postup, kdybyste potřebovali hru odložit a vrátit se k ní později..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1011,6 +1065,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000546F"
 msgid "By introducing cocaine into Safre under exclusive contract, the suzerain created an extremely valuable captive market for an extremely *addictive* product."
 msgstr ""
+"Uvedením kokainu do Safry na základě exkluzivní smlouvy vytvořil suzerén nesmírně cenný trh s extrémně *návykovým* produktem."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1027,6 +1082,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005573"
 msgid "Computing the final scores is almost a game unto itself. You each spend an inordinate amount of time making stacks of coins, consulting tables, and struggling with basic addition and multiplication..."
 msgstr ""
+"Výpočet konečného skóre je téměř hra sama pro sebe. Každý z vás stráví nadměrné množství času skládáním mincí, konzultováním tabulek a zápolením se základním sčítáním a násobením..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1051,6 +1107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EAF"
 msgid "In your hands you hold a brand new copy of the game 'Suzerainty'. It's snugly wrapped in a skin of plastic..."
 msgstr ""
+"V rukou držíš zbrusu novou kopii hry Suzerainty. Je pevně zabalená v plastovém obalu..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1059,6 +1116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EBD"
 msgid "The box has a nice heft to it. You hear the rattle of individual wooden tokens and feel their weight shifting back and forth..."
 msgstr ""
+"Krabice má pěknou výšku. Slyšíš chrastění jednotlivých dřevěných žetonů a cítíš, jak se jejich váha posouvá sem a tam..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1067,6 +1125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001ED1"
 msgid "The plastic wrap rips off as easily as a bodice in a tawdry historical romance."
 msgstr ""
+"Fólie se trhá stejně snadno jako živůtek v laciném historickém románu."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1075,6 +1134,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F70"
 msgid "\"I don't know, let's wing it.\""
 msgstr ""
+"\"Já nevím, prostě to zkusíme.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1083,6 +1143,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000150F"
 msgid "You soon figure out the basic conceit: Each player represents an administrator for the *Suzerain of Revachol*. Your objective is to increase the suzerain's wealth and renown by accumulating *victory points*."
 msgstr ""
+"Brzy pochopíš na základní myšlenku: každý hráč představuje správce *Revacholského suzeréna*. Vaším cílem je zvýšit bohatství a proslulost panovníka sbíráním *vítězných bodů*."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1115,6 +1176,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004D58"
 msgid "After several turns your worker tokens greatly outnumber the lieutenant's. A vast army of expendable labour is at your command."
 msgstr ""
+"Po několika tazích počet tvých žetonů s dělníky výrazně převýší počet žetonů poručíka. Máš na povel obrovskou armádu postradatelné pracovní síly."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1131,6 +1193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004D85"
 msgid "\"Hmmm, too bad investing in your workers just isn't worth many points.\""
 msgstr ""
+"\"Hmmm, škoda, že investice do vašich dělníků nemají velkou cenu.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1139,6 +1202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000051F1"
 msgid "\"Let's tally up the scores, shall we?\""
 msgstr ""
+"\"Tak sečteme skóre, ano?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1155,6 +1219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005515"
 msgid "\"Now, let's tally up the scores, shall we?\""
 msgstr ""
+"\"A teď sečteme skóre, ano?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1163,6 +1228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000556D"
 msgid "\"Now, let's tally up the scores, shall we?\""
 msgstr ""
+"\"A teď sečteme skóre, ano?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1179,6 +1245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000057C8"
 msgid "\"Now, let's clean up and get back to work.\""
 msgstr ""
+"\"Tak, uklidíme to a vrátíme se k práci.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1187,6 +1254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005BF4"
 msgid "See? He's doing the hard work himself. All he needed was a little nudge..."
 msgstr ""
+"Vidíš? Sám dělá tu těžkou práci. Stačilo ho jen trochu pošťouchnout..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1195,6 +1263,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000014AB"
 msgid "The lieutenant flips through the manual more quickly than you're able to keep up with. Then you each take your bags of tokens and counters and unfold the board between you..."
 msgstr ""
+"Poručík listuje příručkou rychleji, než jsi schopen stíhat. Pak si každý z vás vezme svůj sáček s žetony a počítadly a rozložíte si mezi sebou hrací desku..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1203,6 +1272,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001578"
 msgid "As you leaf through the pages, your eye catches on a sidebar labelled 'ADVICE FOR BEGINNERS'."
 msgstr ""
+"Jak listuješ stránkami zaujme tě postranní panel s nápisem \"RADY PRO ZAČÁTEČNÍKY'."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1211,6 +1281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000164C"
 msgid "The lieutenant goes first. He draws a contract card and moves several of his workers to the Safre territory of the board and the others to the Semenine Islands..."
 msgstr ""
+"Poručík začíná. Vytáhne si kartu smlouvy a přesune několik svých dělníků na území Safry a další na Semeninské ostrovy..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1219,6 +1290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001693"
 msgid "\"Hey, why don't I get one of those?\""
 msgstr ""
+"\"Hele, proč nemám taky jeden takový?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1235,6 +1307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004BEB"
 msgid "\"Just like they did to Safre.\""
 msgstr ""
+"\"Stejně jako to udělali Safře.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1267,6 +1340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005632"
 msgid "\"Alright, detective. Your turn.\""
 msgstr ""
+"\"Dobře, detektive. Jste na řadě.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1275,6 +1349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005658"
 msgid "Put the game away."
 msgstr ""
+"Odlož hru."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1283,6 +1358,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000056F9"
 msgid "Fifteen victory points. The suzerain will not be impressed."
 msgstr ""
+"Patnáct vítězných bodů. Na suzeréna to neudělá dojem."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1315,6 +1391,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005C5B"
 msgid "Or do you ignore his aggression and focus on building the mighty *victory column* structure in Revachol herself?"
 msgstr ""
+"Nebo budeš jeho agresi ignorovat a soustředíš se na budování mohutné stavby *sloupu vítězství* v samotném Revacholu?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1339,6 +1416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001754"
 msgid "\"Oh, those are nice.\" The lieutenant picks up a sugar token and admires it."
 msgstr ""
+"\"Tyhle jsou pěkné.\" Poručík zvedne žeton cukru a obdivuje ho."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1347,6 +1425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004CC3"
 msgid "\"Now, let's tally up the scores, shall we?\""
 msgstr ""
+"\"A teď sečteme skóre, ano?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1379,6 +1458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004F05"
 msgid "The choice is yours."
 msgstr ""
+"Volba je na tobě."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1395,6 +1475,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005168"
 msgid "The lieutenant nods. \"Now, I believe it's your turn...\""
 msgstr ""
+"Poručík přikývne. \"Myslím, že teď je řada na vás...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1411,6 +1492,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005337"
 msgid "\"Remember, there are many paths to victory in *Suzerainty*, but successful players will find *one* strategy and commit to it wholeheartedly.\""
 msgstr ""
+"\"Pamatujte, že ve hře *Suzerenitay* existuje mnoho cest k vítězství, ale úspěšní hráči si najdou *jednu* strategii a budou se jí věnovat celým srdcem.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1451,6 +1533,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F0A"
 msgid "Examine the components."
 msgstr ""
+"Prozkoumej součásti hry."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1459,6 +1542,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F69"
 msgid "\"Alright, you've convinced me. How do we play?\""
 msgstr ""
+"\"Dobře, přesvědčil jste mě. Jak budeme hrát?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1467,6 +1551,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001FA2"
 msgid "Apricots from Safre, archaeological treasures from Ile Marat, sugar from the Semenine Islands, and magenta cocaine from Supramundi and Saramiriza..."
 msgstr ""
+"Meruňky ze Safry, archeologické poklady z Ile Marat, cukr ze Semeninských ostrovů a purpurový kokain ze Supramundi a Saramirizy..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1483,6 +1568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000155C"
 msgid "How is the winner determined?"
 msgstr ""
+"Jak se určuje vítěz?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1491,6 +1577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001594"
 msgid "Check out the wooden tokens."
 msgstr ""
+"Podívej se na dřevěné žetony."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1499,6 +1586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001660"
 msgid "Let your workers rest for a while."
 msgstr ""
+"Nech své dělníky chvíli odpočívat."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1571,6 +1659,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005565"
 msgid "Computing the final scores is almost a game unto itself. You each spend an inordinate amount of time making stacks of coins, consulting tables, and struggling with basic addition and multiplication..."
 msgstr ""
+"Výpočet konečného skóre je téměř hra sama pro sebe. Každý z vás stráví nadměrné množství času skládáním mincí, konzultováním tabulek a zápolením se základním sčítáním a násobením..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1587,6 +1676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F21"
 msgid "The lieutenant looks over the rulebook before he sees something that makes his eyes go wide..."
 msgstr ""
+"Poručík si prohlíží příručku pravidel, než spatří něco, z čeho se mu rozšíří oči..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1643,6 +1733,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000514B"
 msgid "\"Game designers, I imagine.\""
 msgstr ""
+"\"Předpokládám, že herní designéři.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1659,6 +1750,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054BA"
 msgid "You could also show your workers how much you appreciate them by *investing* some of that wealth in them. After all, they're the ones *producing* wealth for the suzerain."
 msgstr ""
+"Můžeš také ukázat svým dělníkům, jak si jich vážíš, tím, že do nich část tohoto bohatství investuješ. Koneckonců, to oni *produkují* bohatství pro suzeréna."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1667,6 +1759,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005597"
 msgid "\"That might have helped, yes...\""
 msgstr ""
+"\"To by mohlo pomoci, ano...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1675,6 +1768,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005679"
 msgid "Put the game away."
 msgstr ""
+"Odlož hru."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1691,6 +1785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005702"
 msgid "The lieutenant looks up from his tabulations. \"I've got 26 points,\" he says, a barely contained smile breaking out across his face..."
 msgstr ""
+"Poručík vzhlédne od svých tabulek. \"Mám 26 bodů,\" řekne a na tváři se mu objeví stěží zadržovaný úsměv..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1699,6 +1794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005795"
 msgid "\"Now, let's tally up the scores, shall we?\""
 msgstr ""
+"\"A teď sečteme skóre, ano?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1715,6 +1811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005C55"
 msgid "The endgame is upon you. Do you escalate the *trade war* with the lieutenant in hopes of crushing him with your economic might?"
 msgstr ""
+"Konec hry je před tebou. Vyhrotíš *obchodní válku* s poručíkem v naději, že ho rozdrtíš svou ekonomickou silou?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1739,6 +1836,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000158E"
 msgid "Punch out the cardboard pieces, one by one."
 msgstr ""
+"Vymačkej kousky kartonu jeden po druhém."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1747,6 +1845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000159C"
 msgid "Each cardboard token makes a satisfying *chhhk* as you pop it out. Soon a neat pile of cardboard coins and counters has accumulated before you."
 msgstr ""
+"Každý kartonový žeton vydá při vyjmutí uspokojivé *čššk*. Brzy se před tebou nahromadí úhledná hromádka kartonových mincí a žetonů."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1755,6 +1854,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000015DD"
 msgid "\"What, you're not going to offer to let *me* punch any of them out?\""
 msgstr ""
+"\"Cože, vy mi nenabídnete, abych některé z nich vymačkal?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1795,6 +1895,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004E23"
 msgid "For several turns you struggle to respond to the lieutenant's burgeoning apricot empire. Eventually you relocate the majority of your workers to Supramundi and Saramiriza, where they begin producing a bumper crop of cocaine tokens..."
 msgstr ""
+"Několik tahů se snažíš reagovat na poručíkovo rozrůstající se meruňkové impérium. Nakonec přesuneš většinu svých dělníků do Supramundi a Saramirizy, kde začnou produkovat bohatou úrodu kokainových žetonů..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1811,6 +1912,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000510B"
 msgid "\"I'm not even sure what points *are* -- that's part of the problem.\""
 msgstr ""
+"\"Nejsem si ani jistý, co jsou to body - to je část problému.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1819,6 +1921,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000528A"
 msgid "What is that patronizing tone? You're one of the suzerain's trusted administrators! You may need to put the lieutenant in his place..."
 msgstr ""
+"Co je to za povýšený tón? Jsi jedním z důvěryhodných správců suzeréna! Možná bys měl poručíka poslat, kam patří..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1827,6 +1930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000534F"
 msgid "Building the ultimate structure requires diligent economic planning, which you completely failed to do..."
 msgstr ""
+"Vybudování ultimátní stavby vyžaduje pečlivé ekonomické plánování, které jsi naprosto nezvládl..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1843,6 +1947,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005494"
 msgid "Can you even *do* that?"
 msgstr ""
+"Můžu to vůbec *udělat*?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1851,6 +1956,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054C1"
 msgid "Well, sure, you *can* do that. It's just not a terribly *effective* strategy. But then, it's up to you..."
 msgstr ""
+"Jistě, můžeš to udělat. Jen to není příliš *efektivní* strategie. Ale je to jen na tobě..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1859,6 +1965,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005622"
 msgid "\"Hmmm, I do feel like my thinking has become somewhat *rigid*. Maybe a little diversion to keep the mind limber is just what's in order...\""
 msgstr ""
+"\"Hmmm, mám pocit, že moje myšlení se stalo poněkud *ztuhlým*. Možná by to chtělo trochu rozptýlení, aby se mysl rozproudila...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1867,6 +1974,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005673"
 msgid "Keep playing."
 msgstr ""
+"Hraj dál."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1875,6 +1983,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000056D5"
 msgid "After double- and then triple-checking your maths, you have your final score..."
 msgstr ""
+"Po dvojí a trojí kontrole svých výpočtů získáš konečné skóre..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1883,6 +1992,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005716"
 msgid "After double- and then triple-checking your maths, you have your final score..."
 msgstr ""
+"Po dvojí a trojí kontrole svých výpočtů získáš konečné skóre..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1899,6 +2009,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F85"
 msgid "\"I see you bring the same *unorthodox technique* to playing board games as you do to detective work...\""
 msgstr ""
+"\"Vidím, že při hraní deskových her používáte stejně *neortodoxní techniku* jako při detektivní práci...\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1907,6 +2018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001653"
 msgid "You have a few options available to you: Will you try to fulfil contracts right away or rearrange your workers to maximize production on future turns?"
 msgstr ""
+"Máš několik možností: Pokusíš se naplnit kontrakty hned, nebo přeskupíš své pracovníky tak, abys maximalizoval produkci v budoucích kolech?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1923,6 +2035,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001954"
 msgid "With each passing turn you slowly bleed the lieutenant of coins as his own workers become less productive and more dependent on your magenta cocaine tokens."
 msgstr ""
+"S každým dalším tahem pomalu připravuješ poručíka o mince, protože jeho vlastní dělníci jsou méně produktivní a více závislí na tvých purpurových žetonech kokainu."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2027,6 +2140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F30"
 msgid "Convince Kim to play with you."
 msgstr ""
+"Přesvědč Kima, aby si s tebou zahrál."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2043,6 +2157,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100007B00001F30"
 msgid "Intriguing components."
 msgstr ""
+"Úchvatné komponenty."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2067,6 +2182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F62"
 msgid "\"Come on, it might help us think of more creative solutions to the case.\""
 msgstr ""
+"\"No tak, mohlo by nám to pomoci vymyslet kreativnější řešení případu.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2083,6 +2199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001815"
 msgid "You draw a new contract card. According to the text, there's an aristocrat willing to trade a large supply of cocaine for a number of coins and access to a rare bonus: amplified music, worth *seven victory points*..."
 msgstr ""
+"Vytáhneš si novou kartu s kontraktem. Podle textu je zde šlechtic ochotný vyměnit velkou zásobu kokainu za množství mincí a přístup ke vzácnému bonusu: zesílené hudbě v hodnotě *sedmi vítězných bodů*..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2107,6 +2224,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004DD3"
 msgid "How can you let the lieutenant *dominate* you like that? You need to hit back, and *hard*!"
 msgstr ""
+"Jak se můžeš nechat takhle *ovládat* poručíkem? Musíš mu to vrátit, a to *tvrdě*!"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2115,6 +2233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005111"
 msgid "\"Points are nothing. They don't exist. They're just an arbitrary convention that games use to reward or punish players for certain behaviours.\""
 msgstr ""
+"\"Body nejsou nic. Neexistují. Jsou jen libovolnou konvencí, kterou hry používají k odměňování nebo trestání hráčů za určité chování.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2131,6 +2250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005356"
 msgid "Rather than build a glorious monument to Revachol's economic superiority, you have to settle for a handful of post offices and school for the blind."
 msgstr ""
+"Místo toho, abys postavil slavný pomník ekonomické převahy Revacholu, musíš se spokojit s několika poštami a školou pro slepce."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2147,6 +2267,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005448"
 msgid "You know, this isn't *unlike* the situation the historical Revacholian suzerainty faced in Safre in the middle of the last century..."
 msgstr ""
+"Víš, není to nic jiného než situace, v níž se v polovině minulého století nacházela historická revacholská suzerenita v Safře..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2155,6 +2276,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054D5"
 msgid "\"What do you mean?\""
 msgstr ""
+"\"Co tím myslíte?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2163,6 +2285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054ED"
 msgid "\"So you're saying I fucked up?\""
 msgstr ""
+"\"Takže říkáte, že jsem to posral?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2187,6 +2310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000056E3"
 msgid "The lieutenant looks up from his tabulations. \"I've got 26 points,\" he says, slightly disappointed..."
 msgstr ""
+"Poručík vzhlédne od svých tabulek. \"Mám 26 bodů,\" řekne mírně zklamaně..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2203,6 +2327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F8C"
 msgid "\"When I thrash you I want to make sure it's *by the book*.\""
 msgstr ""
+"\"Až vás pobiju, chci si být jistý, že to bude *podle pravidel*.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2211,6 +2336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001536"
 msgid "From the Empire of Safre: orange apricot tokens. From Ile Marat (the ancestral name of Iilmaraa): gray marble block tokens. From the Semenine Islands: white sacks of sugar tokens. And from Supramundi and Saramiriza: magenta tokens for unprocessed cocaine leaves."
 msgstr ""
+"Z říše Safra: oranžové meruňkové žetony. Z Ile Marat (rodový název Iilmaraa): žetony šedých mramorových bloků. Ze Semeninských ostrovů: žetony bílých pytlů cukru. A ze Supramundi a Saramirizy: purpurové žetony nezpracovaných kokainových listů."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2227,6 +2353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001676"
 msgid "What? It's the very beginning of the game. Your workers haven't even done any work yet."
 msgstr ""
+"Cože? Tohle je úplný začátek hry. Tvoji dělníci ještě neodvedli žádnou práci."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2235,6 +2362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001808"
 msgid "You've reached a critical strategic juncture. How do you respond to the lieutenant's aggression?"
 msgstr ""
+"Dosáhl jsi kritického strategického bodu. Jak zareaguješ na poručíkovu agresi?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2243,6 +2371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001822"
 msgid "\"Sorry, Kim, you're not going to like this...\" (Introduce the lieutenant's workers to cocaine.)"
 msgstr ""
+"\"Je mi to líto, Kime, ale tohle se vám nebude líbit...\" (Seznam poručíkovi dělníky s kokainem.)"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2251,6 +2380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000018F8"
 msgid "\"Hrm...\" The lieutenant's face goes stony as you take your turn. He does not appreciate you getting all his workers addicted to cocaine..."
 msgstr ""
+"\"Hrm...\" Když přijdeš na řadu ty, poručíkovi ztuhne tvář. Nelíbí se mu, že jsi všechny jeho zaměstnance přivedl k závislosti na kokainu..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2259,6 +2389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000195B"
 msgid "Realising victory is slipping away, the lieutenant launches a desperate gambit: *Protectionism*. By erecting tariffs on your cocaine he hopes to starve you out of the market at the risk of incurring the suzerain's disfavour..."
 msgstr ""
+"Poručík si uvědomuje, že se mu vítězství vzdaluje, a proto se pouští do zoufalého gambitu: *Protekcionismus*. Zavedením cel na tvůj kokain doufá, že tě vyřadí z trhu, i když riskuje, že si tím vyslouží suzerénovu nemilost..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2267,6 +2398,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004CE2"
 msgid "Glancing over the board, you see several possible strategies: Pressing more workers into service would increase your economic output and help you survive a possible conflict with the lieutenant, or you could ignore your labour supply and focus on fulfilling contracts for points and resources..."
 msgstr ""
+"Při pohledu na hrací plochu vidíš několik možných strategií: Zapojení většího počtu dělníků do služby by zvýšilo tvůj ekonomický výkon a pomohlo ti přežít případný konflikt s poručíkem, nebo můžeš ignorovat svou zásobu pracovních sil a soustředit se na plnění kontraktů za body a zdroje..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2323,6 +2455,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005327"
 msgid "Read the advice."
 msgstr ""
+"Přečti si rady."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2411,6 +2544,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000014C6"
 msgid "'Welcome to Suzerainty: A game of economic strategy for the whole family!' The rulebook is sumptuously illustrated and thick as a Graadian novel."
 msgstr ""
+"\"Vítejte v Suzerenitě: hře hospodářské strategie pro celou rodinu! Kniha pravidel je bohatě ilustrovaná a tlustá jako graadský román."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2427,6 +2561,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000167D"
 msgid "Meanwhile, the lieutenant spends two of his sugar and one of his apricot tokens to complete his contract card. He is rewarded with four coins and a round wooden token that he places in the centre of the board..."
 msgstr ""
+"Poručík mezitím utratí dva ze svých žetonů cukru a jeden ze svých žetonů meruněk, aby doplnil svou kartu kontraktů. Odměnou mu jsou čtyři mince a kulatý dřevěný žeton, který umístí doprostřed hrací plochy..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2443,6 +2578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00004CF6"
 msgid "Press more workers into service."
 msgstr ""
+"Pošli do práce více dělníků."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2467,6 +2603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005129"
 msgid "\"Oh, that makes sense.\""
 msgstr ""
+"\"Aha, to dává smysl.\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2499,6 +2636,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000054DB"
 msgid "\"Take a look at the scoring tables in the back...\" The lieutenant turns to one of those appendices you skipped over earlier..."
 msgstr ""
+"\"Podívejte se dozadu na tabulky s bodováním...\" Poručík nalistuje jednu z těch příloh, které jsi předtím přeskočil..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2539,6 +2677,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EE4"
 msgid "What treasures wait in store for you?"
 msgstr ""
+"Jaké poklady na tebe uvnitř čekají?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2547,6 +2686,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F04"
 msgid "Read the rulebook."
 msgstr ""
+"Přečti si příručku pravidel."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2555,6 +2695,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F10"
 msgid "\"Hey, Kim, wanna play?\""
 msgstr ""
+"\"Hej, Kime, chcete si zahrát?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2571,6 +2712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001F9B"
 msgid "In the centre is the crown of Revachol. Radiating outward are her colourful vassals, each one supplying some raw material desired by the suzerain..."
 msgstr ""
+"Uprostřed je revacholská koruna. Z ní vyzařují její pestrobarevní vazalové, z nichž každý dodává nějakou surovinu, po které suzerén touží..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2587,6 +2729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000014CD"
 msgid "'Economic strategy'? More like rapacious plunder and exploitation."
 msgstr ""
+"\"Hospodářská strategie\"? Spíše drancování a vykořisťování."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2603,6 +2746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000014F0"
 msgid "The colourful illustrations depict cheerful workers picking apricots, hauling marble sculptures out of crumbling temples, and harvesting a strange, magenta-leafed plant. Everyone is smiling."
 msgstr ""
+"Barevné ilustrace zobrazují veselé dělníky, kteří sbírají meruňky, vytahují mramorové sochy z rozpadajících se chrámů a sklízejí zvláštní rostlinu s purpurovými listy. Všichni se usmívají."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2611,6 +2755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001508"
 msgid "The instructions are opaque at first, and introduce many concepts you're not familiar with. Fortunately, there are many diagrams and examples throughout..."
 msgstr ""
+"Návod je zpočátku nepřehledný a zavádí mnoho pojmů, které neznáš. Naštěstí je v celém textu mnoho schémat a příkladů..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2619,6 +2764,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000157F"
 msgid "You begin to suspect there may be a *political* agenda to this so-called 'family game'. Only one way to find out..."
 msgstr ""
+"Začínáš mít podezření, že v této takzvané \"rodinné hře\" může být *politická* agenda. Je jen jeden způsob, jak to zjistit..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2627,6 +2773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000015C4"
 msgid "You hold the open game box before you."
 msgstr ""
+"Držíš před sebou otevřenou krabici s hrou."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2635,6 +2782,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00001A0B"
 msgid "As a matter of historical fact, this is almost *exactly* what happened in Safre. To this day, fully half of the former Safre Empire remains dependant on international aid in exchange for a steady supply of cheap produce."
 msgstr ""
+"Z historického hlediska je to téměř *přesně* to, co se stalo v Safře. Plná polovina bývalého Impéria Safra je dodnes závislá na mezinárodní pomoci výměnou za stabilní přísun levné produkce."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2699,6 +2847,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E00005482"
 msgid "What does that have to do with the game?"
 msgstr ""
+"Co to má společného s hrou?"
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2707,6 +2856,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000550F"
 msgid "Computing the final scores is almost a game unto itself. You each spend an inordinate amount of time making stacks of coins, consulting tables, and struggling with basic addition and multiplication..."
 msgstr ""
+"Výpočet konečného skóre je téměř hra sama pro sebe. Každý z vás stráví nadměrné množství času skládáním mincí, konzultováním tabulek a zápolením se základním sčítáním a násobením..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2715,6 +2865,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000555F"
 msgid "\"Now, let's tally up the scores, shall we?\""
 msgstr ""
+"\"A teď sečteme skóre, ano?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2723,6 +2874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000056F3"
 msgid "After double- and then triple-checking your maths, you have your final score..."
 msgstr ""
+"Po dvojí a trojí kontrole svých výpočtů získáš konečné skóre..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2747,6 +2899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00000777"
 msgid "The cover features a charming illustration depicting a mass of grinning labourers loading goods onto a ship while a richly dressed administrator oversees their work."
 msgstr ""
+"Na obálce je půvabná ilustrace, která znázorňuje masu usměvavých dělníků nakládajících zboží na loď, zatímco na jejich práci dohlíží bohatě oděný správce."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2755,6 +2908,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001EB6"
 msgid "The exact location and time period are left deliberately vague, but it's clearly meant to represent the economic relationship between the Revacholian Suzerainty and its many vassals."
 msgstr ""
+"Přesné místo a časové období jsou záměrně nejasné, ale je zřejmé, že má představovat ekonomické vztahy mezi Revacholskou suzerenitou a jejími mnoha vazaly."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2763,6 +2917,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000014D9"
 msgid "Keep reading."
 msgstr ""
+"Čti dál."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2843,6 +2998,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000548B"
 msgid "If you could somehow get the lieutenant's workers *addicted* to your cocaine, you could not only make them less productive, you would also force the lieutenant to *pay* you for your cocaine tokens *each turn*..."
 msgstr ""
+"Kdyby se ti podařilo nějakým způsobem přimět poručíkovy dělníky, aby se stali *závislými* na tvém kokainu, mohl bys nejen snížit jejich produktivitu, ale také donutit poručíka, aby ti *každé kolo platil* za tvé žetony kokainu..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2851,6 +3007,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000549B"
 msgid "Yes, you can. It's right there in the rules..."
 msgstr ""
+"Ano, můžeš. Je to přímo tady v pravidlech..."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2859,6 +3016,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E0000565E"
 msgid "Keep playing."
 msgstr ""
+"Hraj dál."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
