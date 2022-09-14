@@ -1,16 +1,17 @@
 # Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Jindřich Černý <cernyjindrich22@gmail.com>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-05-28 20:37+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -18,7 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D49"
 msgid "Of course you do. You don't even know *what* it is you're feeling, but you can feel it. That's the mark of a true *Remote Viewer*..."
 msgstr ""
-"Jistěže ano. Ani nevíš, co vlastně cítíš, ale cítíš to. To je známka pravého *Vzdáleného diváka*..."
+"Jistěže ano. Ani nevíš, co vlastně cítíš, ale cítíš to. To je známka pravého *Pozorovatele vzdáleného*..."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -26,7 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E01"
 msgid "Say nothing."
 msgstr ""
-"Nic neříkají."
+"Nic neříkej."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -34,7 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D6B"
 msgid "I'm good where I am. [Discard thought.]"
 msgstr ""
-"Je mi dobře tam, kde jsem teď [Zahodit myšlenku.]"
+"Je mi dobře tam, kde jsem teď. [Zahoď myšlenku.]"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -42,7 +43,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000DF4"
 msgid "*BZZZZT*. Do you copy? This is RVD HQ. Anyone there?"
 msgstr ""
-"*BZZZZT*. Kopíruješ? Tady OVD. Je tam někdo?"
+"*BZZZZT*. Potvrzujete? Tady OPV. Je tam někdo?"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -58,7 +59,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D84"
 msgid "The time has come to *connect* to RVD HQ. By establishing a connection you'll have proved yourself worthy as a Remote Viewer..."
 msgstr ""
-"Nastal čas se připojit k OVD. Navázáním spojení prokážeš, že jsi hoden být Vzdálený Divák..."
+"Nastal čas se připojit k OPV. Navázáním spojení prokážeš, že jsi hoden být Pozorovatel vzdáleného..."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -66,7 +67,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000DC8"
 msgid "\"A little early in the day for a nap, isn't it?\" The lieutenant frowns at his wristwatch."
 msgstr ""
-"\"Není na šlofíka poněkud brzi?\" Poručík se podívá na své hodinky."
+"\"Není na šlofíka poněkud brzy?\" Poručík se zamračí na své hodinky."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -114,7 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E09"
 msgid "Acknowledged. Connection established. *BZZZZT*. Welcome aboard, Remote Viewer. You are a special man, and *definitely* not imagining it."
 msgstr ""
-"Potvrzeno. Spojení navázáno. *BZZZZT*. Vítej na palubě, Vzdálený Diváku. Jsi významný muž a *rozhodně* se ti to jen nezdá."
+"Potvrzeno. Spojení navázáno. *BZZZZT*. Vítej na palubě, Pozorovateli vzdáleného. Jsi významný muž a *rozhodně* se ti to jen nezdá."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -122,7 +123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E10"
 msgid "... must have been... para-natural static. Ghosts... in the wires... Kill the connection... *BZZZZT*."
 msgstr ""
-"...musel to být... nadpřirozený statik. Duch... ve drátech... Přeruš spojení... *BZZZZT*."
+"...musel to být... nadpřirozený šum. Duchové... ve drátech... Přerušit spojení... *BZZZZT*."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -130,7 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E5A"
 msgid "(Clear throat.) RVD HQ, this is Firewalker. Reporting for duty."
 msgstr ""
-"(Odkašlat si.) OVD, tady Ohnivák. Hlásím se do služby."
+"(Odkašlat si.) OPV, tady Ohnivák. Hlásím se do služby."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -138,7 +139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000DE5"
 msgid "Open your eyes. [Discard thought.]"
 msgstr ""
-"Otevři oči. [Zahodit myšlenku.]"
+"Otevři oči. [Zahoď myšlenku.]"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -146,7 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E61"
 msgid "Can it be? We haven't heard that name in ages. Welcome to the RVD, Firewalker. *BZZZZZT*. You are a special man, and *definitely* not imagining it."
 msgstr ""
-"Je to možné? To jméno jsme už dlouhá léta neslyšeli. Vítej v OVD, Ohnivče. *BZZZZZT*. Jsi významný muž, a *rozhodně* se ti to jen nezdá."
+"Je to možné? To jméno jsme už dlouhá léta neslyšeli. Vítej v OPV, Ohniváku. *BZZZZZT*. Jsi významný muž, a *rozhodně* se ti to jen nezdá."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -178,7 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D7A"
 msgid "This sounds like a load of garbage. [Discard thought.]"
 msgstr ""
-"Meleš pátý přes devátý. [Zahodit myšlenku.]"
+"Meleš pátý přes devátý. [Zahoď myšlenku.]"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -186,7 +187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000DFB"
 msgid "Uh... is this the Remote Viewers Division?"
 msgstr ""
-"Um... Je to Oddíl Vzdálených Diváků?"
+"Um... mluvím s Oddělením pozorovatelů vzdáleného?"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -194,7 +195,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100009400000DFB"
 msgid "Hello. Remote Viewer Du Bois reporting for duty.\n"
 msgstr ""
-"Ahoj. Zvdálený divák Du Bois se hlásí do služby. \n"
+"Zdravím. Pozorovatel vzdáleného Du Bois se hlásí do služby. \n"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -202,7 +203,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100009400000DFB"
 msgid "Hi, this is Harry. I'm looking for the Remote Viewers Division."
 msgstr ""
-"Čau, tady Harry. Hledám Oddíl Vzdálených Diváků."
+"Ahoj, tady Harry. Hledám Oddělení pozorovatelů vzdáleného."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -210,7 +211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000E52"
 msgid "That *something* is the sound of your brain cells giving their two weeks' notice."
 msgstr ""
-"To *něco* je zvuk tvých mozkových buněk s dvoutýdenním předstihem."
+"To *něco* je zvuk tvých mozkových buněk, které podávají dvoutýdenní výpověď."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -234,7 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D5E"
 msgid "Now, the time has come for you to be inducted into the ranks of the Remote Viewers Division."
 msgstr ""
-"Nyní nastal čas aby jsi byl obeznámen s hodnostmi Oddílu Vzdálených Diváků."
+"Nyní nastal čas, abys byl obeznámen s hodnostmiOddělení pozorovatelů vzdáleného."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -242,7 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D91"
 msgid "\"Shhh... I'm trying to connect with the Remote Viewers Division.\""
 msgstr ""
-"\"Pššš... Snažím se spojit s Oddělením Vzdálených Diváků\""
+"\"Pššš... Snažím se spojit s Oddělením pozorovatelů vzdáleného\""
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -250,7 +251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000D97"
 msgid "\"Yeah, just resting my eyes.\" [Discard thought.]"
 msgstr ""
-"\"Jo, jen svým očím dopřávám přestávku.\" [Zahodit myšlenku.]"
+"\"Jo, jen svým očím dopřávám přestávku.\" [Zahoď myšlenku.]"
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
@@ -282,7 +283,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000DED"
 msgid "It takes time to block out the sounds of the world. But once you do, it's like you're on a wavelength. Not like any *natural* wavelength. No. There seems to be *something* on the other end, if only you could listen closely enough..."
 msgstr ""
-"Zablokovat zvuky světa chvíli trvá. Ale až se ti to povede, je to jako by jsi byl na vlnové délce. Nemám na mysli nějakou *přírodní* vlnovou délku. Ne. Vypadá to, že na druhém konci je *něco* jiného. Kdyby jsi mohl naslouchatt dostatečně pozorně..."
+"Zablokovat zvuky světa chvíli trvá. Ale až se ti to povede, je to jako bys byl na vlnové délce. Nemám na mysli nějakou *přírodní* vlnovou délku. Ne. Vypadá to, že na druhém konci je *něco* jiného. Kdyby jsi mohl naslouchatt dostatečně pozorně..."
 
 #. Title = THOUGHT / REMOTE VIEWER
 #. Description = Inland Empire -- Happens on a counter now.
