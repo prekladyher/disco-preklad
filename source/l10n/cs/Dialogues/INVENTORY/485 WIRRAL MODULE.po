@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008458"
 msgid "The options are, in order of importance: the welkin, the dweorgr, the humans, the faerie folk, and the pygmies."
 msgstr ""
+"Možnosti jsou následující (v pořadí podle důležitosti): nebešťané, dweorgrové, lidé, vílí lid a pygmejové."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084D7"
 msgid "With fewer items inside, the box now rattles with less enthusiasm. Only the map and booklet shuffle around, hitting the sides of the box."
 msgstr ""
+"S menším počtem předmětů uvnitř nyní krabice chrastí s menším nadšením. Pouze mapa a brožura se přehazují a narážejí na stěny krabice."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008492"
 msgid "Take the die."
 msgstr ""
+"Vezmi si kostku."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084F3"
 msgid "\"Huh, interesting. A communard.\""
 msgstr ""
+"\"Hm, zajímavé. Komunard.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008507"
 msgid "Look at the map."
 msgstr ""
+"Podívej se na mapu."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008533"
 msgid "You hear the die rattling inside the box, bumping against the sides."
 msgstr ""
+"Slyšíš, jak kostka uvnitř krabice chrastí a naráží na stěny."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008481"
 msgid "The dweorgr also come in a few different sub-races: hill dweorgr, shield dweorgr, and dark dweorgr."
 msgstr ""
+"Dweorgrové se také dělí na několik různých podras: horský dweorgr, štítový dweorgr a temný dweorgr."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008477"
 msgid "Read about the dweorgr."
 msgstr ""
+"Přečtěte si o dweorgrech."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008518"
 msgid "You don't know much about dice, but this one looks pretty damn fancy."
 msgstr ""
+"O kostkách toho moc nevíš, ale tahle vypadá zatraceně efektně."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000847C"
 msgid "A grand race of industrious mountain people. They're short, stout and muscular, and enjoy digging for gold and other precious minerals. They're also well-versed in the art of combat, where they prefer to use axes and hammers."
 msgstr ""
+"Impozantní rasa pracovitých horalů. Jsou malí, statní a svalnatí a rádi kopou zlato a jiné vzácné nerosty. Jsou také dobře zběhlí v umění boje, při němž nejraději používají sekery a kladiva."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000085BB"
 msgid "You stuff it back inside the box."
 msgstr ""
+"Vrátíš ji zpět do krabice."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000085EC"
 msgid "Read about the faerie folk."
 msgstr ""
+"Přečti si o vílím lidu."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D300"
 msgid "A blurb on the back reads: \"Tired of the tedium and toil of modern life? Escape to Wirrâl! Leave behind isolas and nations with their petty squabbles. Discard electricity, magnets, and boring technological widgets...\""
 msgstr ""
+"Na zadní straně je uvedeno: \"Unaveni nudou a dřinou moderního života? Utečte do Wirrâlu! Opusťte izoly a národy s jejich malichernými hádkami. Odhoďte elektřinu, magnety a nudné technologické vymoženosti...\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D415"
 msgid "Enough inspecting."
 msgstr ""
+"Dost bylo prohlížení."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000848D"
 msgid "Look at the die."
 msgstr ""
+"Podívej se na kostku."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000861A"
 msgid "They're just humans... what else is there to tell? They're average in all stats and jacks-of-all-trades."
 msgstr ""
+"Jsou to prostě lidé... co jiného říct? Ve všech statistikách jsou průměrní a jsou to všeumělové."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001FEF"
 msgid "\"A communard. One of the leftist revolutionaries in the Antecentennial Revolution.\""
 msgstr ""
+"\"Komunard. Jeden z njlevicovějších revolucionářů Antecentiální revoluce.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DB33"
 msgid "And most importantly, never forget to rage-quit if the dice don't go your way!"
 msgstr ""
+"A co je nejdůležitější, nikdy nezapomeň vztekle odejít, když kostky nepadají, jak chceš!"
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DB51"
 msgid "It's not. It's for pansies. Man from Hjelmdall is way more awesome."
 msgstr ""
+"Není. Je to pro buzíky. Muž z Hjelmdallu je mnohem úžasnější."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008545"
 msgid "You hear the figurine rattling inside the box, bumping against the sides."
 msgstr ""
+"Slyšíš, jak figurka uvnitř krabice chrastí a naráží do stěn."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008574"
 msgid "\"That doesn't sound very Wirrâl-like.\""
 msgstr ""
+"\"To nezní moc Wirrâlovsky.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008580"
 msgid "An odd-looking fellow... he doesn't seem to fit the rest of the setting. He has more of a... *revolutionary* tinge."
 msgstr ""
+"Podivný chlapík... zdá se, že se ke zbytku prostředí nehodí. Má spíše... *revoluční* nádech."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D2DC"
 msgid "Shake the box."
 msgstr ""
+"Zatřes krabicí."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D407"
 msgid "\"Succumb to a world of high-Pasternal fantastique, unleash your imagination and create an adventure of endless possibilities. Discover the terrible secret threatening Wirrâl -- can your band of adventurers save the world?\""
 msgstr ""
+"\"Podlehněte světu vysokohorské fantazie, popusťte uzdu své představivosti a vytvořte dobrodružství nekonečných možností. Odhalte strašlivé tajemství ohrožující Wirrâl - dokáže vaše skupina dobrodruhů zachránit svět?\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D43F"
 msgid "I'm not sure I can handle all this responsibility."
 msgstr ""
+"Nejsem si jistý, jestli zvládnu všechnu tu zodpovědnost."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -185,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000856F"
 msgid "\"What's so interesting about that?\""
 msgstr ""
+"\"Co je na tom tak zajímavého?\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -192,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000845D"
 msgid "You pry open the box. Inside you find a folded-up map, a small booklet, a 24-sided die, and a little plastic figurine."
 msgstr ""
+"Otevři krabici. Uvnitř najdeš složenou mapu, malou brožurku, 24strannou kostku a malou plastovou figurku."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -199,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000846C"
 msgid "Read about the welkin."
 msgstr ""
+"Přečti si o nebešťanech."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -206,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000200C"
 msgid "\"Hmm. Good luck finding people who'd want to play as communards.\""
 msgstr ""
+"\"Hmm. Hodně štěstí při hledání lidí, kteří by chtěli hrát za komunardy.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -213,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D41F"
 msgid "A colourful box with the title \"Wirrâl\" in bold letters. It's a board game."
 msgstr ""
+"Barevná krabice s tučným nápisem \"Wirrâl\". Je to stolní hra."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -220,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084AB"
 msgid "It's made from some sort of wood and has been decorated with peculiar plant motifs."
 msgstr ""
+"Je vyrobena z nějakého druhu dřeva a zdobí ji zvláštní rostlinné motivy."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -227,6 +265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084BA"
 msgid "You pick the figurine up by the base to meet your gaze. The little plastic man stares back at you, his face contorted into a disturbing shout. Then you pocket it."
 msgstr ""
+"Zvedneš figurku za podstavec, aby se setkala s tvým pohledem. Malý plastový mužík na tebe zírá s tváří zkřivenou do znepokojivého výkřiku. Pak ji strčíš do kapsy."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -234,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000085FA"
 msgid "Read about the pygmies."
 msgstr ""
+"Přečti si o pygmejích."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -241,6 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001FF8"
 msgid "\"Does this mean we can't play?\""
 msgstr ""
+"\"Znamená to, že nemůžeme hrát?\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -248,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000859C"
 msgid "\"It is not. The communards are not a part of the game setting... I guess someone misplaced it during the packaging process.\""
 msgstr ""
+"\"Není. Komunardi nejsou součástí herního prostředí... Asi je někdo při balení špatně umístil.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -255,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001FE8"
 msgid "\"A what?\""
 msgstr ""
+"\"Cože?\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -262,6 +305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D40F"
 msgid "Look at the back."
 msgstr ""
+"Podívej se na zadní stranu."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -269,6 +313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DB20"
 msgid "And beer. Lots of beer."
 msgstr ""
+"A pivo. Spousty piva."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -276,6 +321,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000085E4"
 msgid "The welkin come with a variety of exciting sub-races: high welkin, forest welkin, lake welkin, and snow welkin. But if you're not feeling experimental -- a basic welkin will always do."
 msgstr ""
+"Nebešťané mají řadu zajímavých podras: vysocí nebešťané, lesní nebešťané, jezerní nebešťané a snežní nebešťané. Ale pokud se necítíš na experimenty - základní nebešťan ti vždycky postačí."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -283,6 +329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000085F2"
 msgid "A very small race of flying people, known for being mischievous, full of trickery. They often lure people into their maegical traps. There are no sub-races for the faeries."
 msgstr ""
+"Velmi malá rasa létajících lidí, která je známá svou zlomyslností a lstivostí. Často lákají lidi do svých maegických pastí. Neexistují žádné podrasy víl."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -290,6 +337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D44C"
 msgid "Definitely not, it sounds too dangerous."
 msgstr ""
+"Určitě ne, zní to příliš nebezpečně."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -297,6 +345,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D458"
 msgid "It's not dangerous, it's fun, structured fun! All you have to do is read an intricate rulebook, study an assortment of maps, unfold the illustrated gameboard, and start rolling dice."
 msgstr ""
+"Není to nebezpečné, je to zábava, strukturovaná zábava! Stačí si přečíst složitou knihu pravidel, prostudovat mapy, rozložit ilustrovanou hrací desku a začít házet kostkami."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -304,6 +353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008471"
 msgid "Put the booklet away."
 msgstr ""
+"Odlož brožuru."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -311,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008497"
 msgid "Look at the figurine."
 msgstr ""
+"Podívej se na figurku."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -318,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008591"
 msgid "\"The figurine is not a part of the Wirrâl game setting... I guess someone misplaced it during the packaging process.\""
 msgstr ""
+"\"Figurka není součástí herního prostředí Wirrâlu... Asi ji někdo při balení špatně umístil.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -325,6 +377,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001FFE"
 msgid "The lieutenant shrugs. \"I have a feeling the figurines are more there to set the scene than anything else.\""
 msgstr ""
+"Poručík pokrčí rameny. \"Mám pocit, že ty figurky vás mají spíš uvést do obrazu než cokoli jiného.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -332,6 +385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D050"
 msgid "Large letters on the front form a title: \"Wirrâl.\" The colourful box is illustrated with bucolic vistas. The cover art also features odd-looking humanoids, some short, some taller, some with pointy ears, others with ephemeral wings."
 msgstr ""
+"Velká písmena na přední straně tvoří název: \"Wirrâl.\" Barevná krabice je ilustrována bukolickými výjevy. Na obálce jsou také podivně vypadající humanoidi, někteří malí, jiní vyšší, někteří se špičatýma ušima, jiní s efemérními křídly."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -339,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D0F9"
 msgid "Put the box away."
 msgstr ""
+"Odlož krabici."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -346,6 +401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D46F"
 msgid "In no time you could be romping through grasslands with low-level characters, hunted by iyskel riders... or battling unspeakable monsters in endless dungeons fraught with danger and despair, conjuring up forceful maegics to aid your quest."
 msgstr ""
+"V okamžení se můžete s postavami na nízkých úrovních prohánět po pastvinách, pronásledováni jezdci na iyskelských koních... nebo bojovat s nevýslovnými příšerami v nekonečných kobkách plných nebezpečí a beznaděje a vyvolávat mocné maegiky, aby vám pomohli v pátrání."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -353,6 +409,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008524"
 msgid "It doesn't seem to correspond with anything you've seen thus far. It's not a very helpful map."
 msgstr ""
+"Zdá se, že to neodpovídá ničemu, co jsi dosud viděl. Není to příliš užitečná mapa."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -360,6 +417,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000085C9"
 msgid "Look at the booklet."
 msgstr ""
+"Podívej se do brožury."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -367,6 +425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008613"
 msgid "Read about the humans."
 msgstr ""
+"Přečti si o lidech."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -374,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D439"
 msgid "Yes, we're ready to take on this challenge."
 msgstr ""
+"Ano, jsme připraveni tuto výzvu přijmout."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -381,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DB59"
 msgid "Yes, the Wirrâl setting is known for its complicated system of political alignments. But if you're not into that you can just hack your way through dungeons in search of loot. That's what most people do."
 msgstr ""
+"Ano, prostředí Wirrâlu je známé svým komplikovaným systémem politických uspořádání. Ale pokud tě to nezajímá, můžeš si prostě prosekat cestu dungeony a hledat kořist. To dělá většina lidí."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -388,6 +449,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084B0"
 msgid "You place the die into your pocket. It's always good to have luck on your side."
 msgstr ""
+"Vložíš kostku do kapsy. Vždy je dobré mít štěstí na své straně."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -395,6 +457,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002006"
 msgid "\"Maybe someone should make a role-playing game set during the Revolution.\""
 msgstr ""
+"\"Možná by někdo měl vytvořit RPG zasazené do období revoluce.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -402,6 +465,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000849C"
 msgid "Take the figurine."
 msgstr ""
+"Vezmi si figurku."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -409,6 +473,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084B5"
 msgid "You see a man in ragged clothes wearing a lopsided hat and wielding some sort of a firearm."
 msgstr ""
+"Vidíš muže v otrhaném oblečení, který má na hlavě šišatý klobouk a v ruce drží nějakou střelnou zbraň."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -416,6 +481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D104"
 msgid "Examine the box."
 msgstr ""
+"Prohlédni si krabici."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -423,6 +489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D447"
 msgid "Exactly, that's the spirit! All you have to do is read an intricate rulebook, study an assortment of maps, unfold the illustrated gameboard, and start rolling dice."
 msgstr ""
+"Přesně tak, to je duch! Stačí si přečíst složitou příručku pravidel, prostudovat mapy, rozložit ilustrovanou hrací desku a začít házet kostkami."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -430,6 +497,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023200"
 msgid "None of that witless Man from Hjelmdall fascist dross hidden behind faux-realistic allegory. Wirrâl is no cliché-ridden apologia for colonial violence. Wirrâl is pure *imagination*."
 msgstr ""
+"Žádná z těch bezduchých fašistických slátanin typu Muž z Hjelmdalu, schovaných za falešně realistickou alegorií. Wirrâl není žádnou klišovitou apologií koloniálního násilí. Wirrâl je čistá *imaginace*."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -437,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008447"
 msgid "Open the box."
 msgstr ""
+"Otevři krabici."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -444,6 +513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000850E"
 msgid "A reprint of a crude hand-drawn map. The top left corner reads: 'Lands of Wirrâl.' The map features both small villages and mid-sized towns (with odd names), in addition to meadows, forests, hills, lakes and seas (also with odd names)."
 msgstr ""
+"Přetisk hrubé ručně kreslené mapy. V levém horním rohu je napsáno: \"Země Wirrâlu\". Na mapě jsou kromě luk, lesů, kopců, jezer a moří (rovněž s podivnými názvy) vyznačeny malé vesnice i středně velká města)."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -451,6 +521,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008600"
 msgid "The least popular of the Wirrâl races, the pygmies are short, rotund and dim-witted. Pygmies live in small villages made of shoddy wooden dwellings. They spend most their days tilling the earth and smoking their pipes. There are no sub-races for the pygmies."
 msgstr ""
+"Pygmejové, nejméně oblíbená rasa Wirrâlu, jsou malí, zavalití a mdlého rozumu. Pygmejové žijí v malých vesnicích z chatrných dřevěných obydlí. Většinu dne tráví obděláváním půdy a kouřením dýmky. Neexistují žádné podrasy pygmejů."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -458,6 +529,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D055"
 msgid "Text underneath the title, in smaller typeface, reads: \"Third Edition, Mega-Setting Supplements Module.\" The side panel adds: \"A sword and sorcery adventure board game. With new maps and miniatures.\""
 msgstr ""
+"Pod názvem je menším písmem napsáno: \"Třetí edice, doplňkový modul mega-rozšíření\" Na bočním panelu je doplněno: \"Dobrodružná desková hra meče a kouzel. S novými mapami a miniaturami.\""
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -465,6 +537,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D2C3"
 msgid "Mysterious things rattle inside. What could they be? Dice? Plastic miniatures? A fantastical alternate world full of magic and wonder?"
 msgstr ""
+"Uvnitř chrastí tajemné věci. Co by to mohlo být? Kostky? Plastové miniatury? Fantastický alternativní svět plný kouzel a zázraků?"
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -472,6 +545,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000D453"
 msgid "Man up, this is about having structured fun! All you have to do is read an intricate rulebook, study an assortment of maps, unfold the illustrated gameboard, and start rolling dice."
 msgstr ""
+"Vzmuž se, jde o strukturovanou zábavu! Stačí si přečíst složitou knihu pravidel, prostudovat řadu map, rozložit ilustrovanou hrací desku a začít házet kostkami."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -479,6 +553,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DB18"
 msgid "Don't forget heated arguments escalating to physical confrontation with your friends."
 msgstr ""
+"Nezapomínej na prudké hádky s přáteli přerůstající ve fyzickou konfrontaci."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -486,6 +561,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084A1"
 msgid "Close the box."
 msgstr ""
+"Zavři krabici."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -493,6 +569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000084F8"
 msgid "A leftist revolutionary... a communard. He looks lost, a stranger in a strange land. Most likely, he was just stuck in the wrong box on accident."
 msgstr ""
+"Levičácký revolucionář... komunard. Vypadá ztraceně, jako cizinec v cizí zemi. Nejspíš jen omylem uvízl ve špatné krabici."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -500,6 +577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008453"
 msgid "A quick guide to the maegical races of Wirrâl. Create your own hero choosing from any of these completely unique and fantastical backgrounds."
 msgstr ""
+"Stručný průvodce maegickými rasami Wirrâlu. Vytvořte si svého vlastního hrdinu, výběrem z některého z těchto zcela jedinečných a fantastických prostředí."
 
 #. Title = INVENTORY / WIRRAL MODULE
 #. Description = Super-popular binoclard fantasy board game (module), feat. faeries and welkin and pygmies and such fantasy folk. The non-grimdark pastoral-bucolic version with maps & miniatures. Basic Wirral info.
@@ -507,3 +585,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00008467"
 msgid "The welkin -- tall, lithe and graceful, with long flowing hair and pointy ears. They're known for being powerful maegic users, but can also hold their own in a brawn-driven fight."
 msgstr ""
+"Nebešťané - vysocí, štíhlí a půvabní, s dlouhými splývavými vlasy a špičatýma ušima. Jsou známí jako mocní uživatelé maegie, ale dokážou se prosadit i v boji vedeném silou."
