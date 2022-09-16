@@ -3,19 +3,6 @@
 <martif type="TBX" xml:lang="en_US">
   <text>
     <body>
-      <termEntry id=" Big Communism Builder">
-        <descrip type="definition">Harry s komunistickou ideou</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term> Big Communism Builder</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Velký budovatel komunismu</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="(Her Innocence) Dolores Dei">
         <descrip type="definition">[OK] [aA] jedna z Neposkvrněných, hlavní postava doloriánství</descrip>
         <langSet xml:lang="en">
@@ -185,11 +172,11 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Areopagite">
+      <termEntry id="Areopagites">
         <descrip type="definition">[OK] </descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Areopagite</term>
+            <term>Areopagites</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
@@ -238,7 +225,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Binoclard">
-        <descrip type="definition">[OK] [aA] Pejorativum pro Kima, kvůli jeho brýlím. Určitě by to šlo i lépe, zatím jsem to přeložil takhle</descrip>
+        <descrip type="definition">[OK] [aA] Pejorativum pro Kima, kvůli jeho brýlím</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Binoclard</term>
@@ -246,7 +233,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>vládce suzerenity (osoba / stát) , tj. forma vlády nad jinými státy (protektorát, vazalství - najděte si to ve Wikipediii -dr)</term>
+            <term>brejlotard</term>
           </tig>
         </langSet>
       </termEntry>
@@ -290,7 +277,7 @@
         </langSet>
       </termEntry>
       <termEntry id="cafeteria">
-        <descrip type="definition">[OK] [aA] </descrip>
+        <descrip type="definition">[OK] [aA] jde zřejmě výhradně o Cáry</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>cafeteria</term>
@@ -350,7 +337,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Kostel Matky Ticha</term>
+            <term>kostel Matky ticha</term>
           </tig>
         </langSet>
       </termEntry>
@@ -368,7 +355,7 @@
         </langSet>
       </termEntry>
       <termEntry id="circuit bender">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [aA] analogie k hackerovi, co se nabourává do systémů</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>circuit bender</term>
@@ -381,7 +368,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Coalition Government's Articles of Dominion">
-        <descrip type="definition">Kus informace od Encyklopedie. Nejsem si jistý, jestli se objeví i v jiných replikách</descrip>
+        <descrip type="definition">V Revacholu proběhla revoluce, ktrá byla potlačena Koalicí národů, současnosti jsou jeho části spravovány Koaliční vládou -dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Coalition Government's Articles of Dominion</term>
@@ -389,12 +376,12 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Stanovy Koaliční Vlády</term>
+            <term>Stanovy Koaliční vlády</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Coalition of Nations">
-        <descrip type="definition">[OK] [aA] </descrip>
+        <descrip type="definition">[OK] [aA] koaalice vytvořená proti revacholské revoluci -dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Coalition of Nations</term>
@@ -536,21 +523,8 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Cursed Iilmaraan Die">
-        <descrip type="definition"></descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Cursed Iilmaraan Die</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Prokletá kostka z Ostrova přání</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="Cursed Ilmaraan Die">
-        <descrip type="definition"></descrip>
+        <descrip type="definition">[OK] [aA] herní artefakt, když ji máš jako hráč, máš bonusy k čemusi -dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Cursed Ilmaraan Die</term>
@@ -563,7 +537,7 @@
         </langSet>
       </termEntry>
       <termEntry id="débardeur">
-        <descrip type="definition">[OK] [aA] </descrip>
+        <descrip type="definition">[OK] [aA] přístavní dělník</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>débardeur</term>
@@ -727,7 +701,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Edvard Jasný</term>
+            <term>Evrart Jasný</term>
           </tig>
         </langSet>
       </termEntry>
@@ -849,6 +823,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Founding Party">
+        <descrip type="definition">[OK] strana zakladatalů systému neposkvrněných - dr</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Founding Party</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Zakládající strana</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Gareth Morrand">
         <descrip type="definition">[OK] [aA] Blíže nespecikovaný člen ROM, idolizován babkou Marianne</descrip>
         <langSet xml:lang="en">
@@ -885,6 +872,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>žandarm / žandarmerie</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="gossamer State">
+        <descrip type="definition">[OK] [aA] idea ultraliberálního státního zřízení - cosi jako utopie -dr</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gossamer State</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Země babího léta</term>
           </tig>
         </langSet>
       </termEntry>
@@ -963,6 +963,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Bezhlavý FALN jezdec</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Herald of Destruction">
+        <descrip type="definition">[OK] [aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Herald of Destruction</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Hlasatel zkázy</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1058,7 +1071,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Idiot Doom Spiral">
-        <descrip type="definition">[OK] [aA] George, jeho život se na základě jednoho hloupého rozhodnutí totálně rozesral. S překladem nejsem vůbec spokojený, bude to chtít vylepšit</descrip>
+        <descrip type="definition">[OK] [aA] jeden ze tří alkoholických bezdomovců</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Idiot Doom Spiral</term>
@@ -1066,12 +1079,12 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Idiotská Spirála Zkázy</term>
+            <term>Idiotská spirála zkázy</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Iilmaraa">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">izola (cosi jako světadíl)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Iilmaraa</term>
@@ -1079,20 +1092,20 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ostrov přání</term>
+            <term>Ilmaráie</term>
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Ilmaraan">
-        <descrip type="definition"></descrip>
+      <termEntry id="Iilmaraan">
+        <descrip type="definition">adj. od Ilmaraa = izola, obyvatel Ilmary</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Ilmaraan</term>
+            <term>Iilmaraan</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ilmarán</term>
+            <term>ilmaránský, Ilmarán</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1214,7 +1227,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Joyce Messier">
-        <descrip type="definition">[aA] [VYKAT] zástupkyně Divokých Pinií</descrip>
+        <descrip type="definition">[aA] [VYKAT] zástupkyně Divokých pinií</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Joyce Messier</term>
@@ -1630,7 +1643,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Mundi">
-        <descrip type="definition">[aA] jedna z izol Elysia</descrip>
+        <descrip type="definition">[OK] [aA] jedna z izol Elysia</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Mundi</term>
@@ -1638,7 +1651,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Svět</term>
+            <term>Mundi</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1669,7 +1682,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Neha">
-        <descrip type="definition">[OK] [VYKAT] kostkařka</descrip>
+        <descrip type="definition">[VYKAT] kostkařka</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Neha</term>
@@ -1808,6 +1821,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Důstojník</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="officer">
+        <descrip type="definition">[OK] [aA] pokud tak Kim osloví Harryho - Kim ho tak oslovuje, když se na něj zlobí</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>officer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>strážník (pokud tak Kim osloví Harryho)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1968,7 +1994,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Polychrome">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Polychrome</term>
@@ -1976,7 +2002,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>polichrom</term>
+            <term>polychrom</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1989,7 +2015,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Přenosný magnetofon</term>
+            <term>přenosný magnetofon</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2007,7 +2033,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Precinct">
-        <descrip type="definition">[OK] [aA] název okrsků policie (psáno s velkým poč. písmenem)</descrip>
+        <descrip type="definition">[OK] [aA] název okrsků policie (psáno s velkým poč. písmenem, v ČJ psát s malým)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Precinct</term>
@@ -2054,7 +2080,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Pyrolidon</term>
+            <term>pyrolidon</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2080,7 +2106,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Rasová enigma</term>
+            <term>rasová enigma</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2098,7 +2124,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="radio engineer">
-        <descrip type="definition">[OK] [aA] místí IT</descrip>
+        <descrip type="definition">[OK] [aA] místní IT</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>radio engineer</term>
@@ -2249,7 +2275,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Okruh Sever</term>
+            <term>Okruh sever</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2288,7 +2314,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ulice Svatého Gisléna</term>
+            <term>Ulice svatého Gisléna</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2319,7 +2345,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Saint-Batiste Pharmaceuticals">
-        <descrip type="definition">[OK] výrobce léčiv</descrip>
+        <descrip type="definition">[OK] [aA] výrobce léčiv</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Saint-Batiste Pharmaceuticals</term>
@@ -2327,7 +2353,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Farmaceutika Svatý Batista</term>
+            <term>Svatobatistská farmaceutika</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2509,7 +2535,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Kostel u borového lesíku</term>
+            <term>kostel u borového lesíku</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2631,7 +2657,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Supramundi">
-        <descrip type="definition">část světa</descrip>
+        <descrip type="definition">[OK] [aA] země</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Supramundi</term>
@@ -2639,7 +2665,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Suprasvět</term>
+            <term>Supramundi</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2679,6 +2705,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Suzerenita</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="swallow">
+        <descrip type="definition">[OK] [aA] druh anomálie</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>swallow</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>polykavka</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2734,45 +2773,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="The Founding Party">
-        <descrip type="definition">[OK] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>The Founding Party</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Zakládající strana</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="The gossamer State">
-        <descrip type="definition">[OK] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>The gossamer State</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Země babího léta</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="The Herald of Destruction">
-        <descrip type="definition">[OK] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>The Herald of Destruction</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Hlasatel zkázy</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="The New">
         <descrip type="definition">[OK] [aA] disko éra v  Revacholu</descrip>
         <langSet xml:lang="en">
@@ -2796,19 +2796,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Prasata</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="the swallow">
-        <descrip type="definition">[OK] [aA] druh anomálie</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>the swallow</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>polykavka</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2877,16 +2864,16 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="ULAN">
-        <descrip type="definition">Frekvence bledomeze. Použije je Ruby proti Harrymu jako zbraň. Nikde jsem tu zkratku nenašel rozepsanou - zatím nechávám originál</descrip>
+      <termEntry id="ULAN frequency">
+        <descrip type="definition">[OK] [aA] Frekvence bledomeze. Použije je Ruby proti Harrymu jako zbraň. Nikde jsem tu zkratku nenašel rozepsanou - zatím nechávám originál</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>ULAN</term>
+            <term>ULAN frequency</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>ULAN/Bledomezí Frekvenční Spektrum?/BFS?</term>
+            <term>ULAN frekvence</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2930,7 +2917,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Valley of the Thousand Heads">
-        <descrip type="definition">[OK] [aA] </descrip>
+        <descrip type="definition">[OK] [aA] herní lokace v Odpoutaném Wirralu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Valley of the Thousand Heads</term>
@@ -2943,7 +2930,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Vesper-Messina">
-        <descrip type="definition">[OK] [aA] souvisí s významem slova "Advesperascit", pro kontext lepší nepřekládat</descrip>
+        <descrip type="definition">[OK] [aA] republika na izole Mundi, později rozdělena na Vesper a Messinu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Vesper-Messina</term>
@@ -2982,7 +2969,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Vox">
-        <descrip type="definition">[OK] asi programovací jazyk</descrip>
+        <descrip type="definition">[OK] programovací jazyk</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Vox</term>
@@ -3003,7 +2990,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Cesta Cestovatelů</term>
+            <term>Cesta cestovatelů</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3029,7 +3016,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Poutnický zákon</term>
+            <term>poutnický zákon</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3099,7 +3086,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Wompty-Dompty-Dom Centre">
-        <descrip type="definition">[OK] Trent H. ho zmiňuje v hoře expozice, pravděpodobně nepříliš podstatné</descrip>
+        <descrip type="definition">jedna z Idejí</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Wompty-Dompty-Dom Centre</term>
@@ -3107,7 +3094,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Centrum současného umění Bumbác-Bada-Bum</term>
+            <term>Centrum Vompty Dompty Dom</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3125,7 +3112,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Yekokataa">
-        <descrip type="definition">[OK] místo, něco jako symbol klidu</descrip>
+        <descrip type="definition">místo, něco jako symbol klidu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Yekokataa</term>
@@ -3133,12 +3120,12 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Nirvána</term>
+            <term>Jekokata</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Yougo-Graad">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [aA] země</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Yougo-Graad</term>
