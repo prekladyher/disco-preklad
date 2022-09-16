@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800001280"
 msgid "\"Easy, detective. No need to jump to conclusions.\" He eyes the spectacled man near the window, who smiles and spreads his hands."
 msgstr ""
+"\"V klidu, detektive. Není nutné dělat unáhlené závěry.\" Podívá se na muže u okna, který se usměje a rozpříhne náruč."
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000EFE6"
 msgid "Perhaps your new friends in the tent might be able to help you?"
 msgstr ""
+"Možná tvoji noví přátelé ve stanu by ti mohli pomoci?"
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -34,6 +43,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700015D90"
 msgid "\"You still haven't told me who he is.\""
 msgstr ""
+"\"Stále jste mi neřekl, kde to je.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -41,6 +51,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700015F55"
 msgid "\"La communauté internationale is what Revacholians colloquially call *the Coalition*. In other words, the nations that stopped the disaster of the Revolution.\""
 msgstr ""
+"\"La communauté internationale je to, čemu Revacholiané běžně říkají *Koalice*. Jinými slovy, jsou to ty národy, které zastavily tu tragédii, kterou byla Revoluce.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -49,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016107"
 msgid "\"What about the rest of Revachol? Is it part of the normal world?\""
 msgstr ""
+"\"A co zybtek Revacholu? Je součástí normálního světa?\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -57,6 +69,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700016183"
 msgid "\"It's like every time I'm talking to people I'm choosing Option D, 'none of the above'... Is that moralism?\""
 msgstr ""
+"\"Je to jako, když mluvím s lidmi a vybírám možnost D, \"nic z výše uvedeného\"...je to moralismus?\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -65,6 +78,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570002328C"
 msgid "(Show him the silk robe.) \"Before we get to that, tell me where you got this *beautiful* silk robe from?\""
 msgstr ""
+"(Ukaž mu hedvábný koupací plášť .)\"Než budeme pokračovat, řekněte mi, odkud máte tenhle *překrásný* hedvábný koupací plášť?"
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -386,6 +400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006595"
 msgid "\"Enjoying the view? There's a dead body hanging in the tree!\""
 msgstr ""
+"\"Užíváte si výhled? Na stromě tam visí mrtvé tělo!\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -1000,6 +1015,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700015FD6"
 msgid "\"Exactly. *I* don't find it boring, I find it *fulfilling*. Peace is what allows me to have my morning coffee, my afternoon golf, my sundown friends.\""
 msgstr ""
+"\"Přesně. *Mně* nepřijde nudný, mně přijde *naplňující*. Mír mi dovoluje dát si ranní kávu, odpolední golf a nedělní přátele.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -1134,6 +1150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000177"
 msgid "\"For some reason he gives you a discount if you trash the cafeteria.\""
 msgstr ""
+"\"Z nějakého důvodu dává slevu, když to tam rozmlátíte.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -1554,6 +1571,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006216"
 msgid "\"Harrier Du Bois, and don't forget it.\""
 msgstr ""
+"\"Harrier Du Bois. Nezapomeňte to.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -1599,6 +1617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006649"
 msgid "\"Good god, detective. One more stunt like that and they'll have you institutionalized.\""
 msgstr ""
+"\"Dobrý bože, detektive. Ještě jeden takový kousek a dají tě vás do ústavu.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -1747,6 +1766,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700015CEA"
 msgid "\"Fine, but what's his real name?\""
 msgstr ""
+"\"Fajn, ale jaké je jeho skutečné jméno?\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -1926,6 +1946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006B7A"
 msgid "\"Evrart Claire? Surely you're mistaken.\""
 msgstr ""
+"\"Evrart Jasný? Určitě se pletete.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -2312,6 +2333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000F0DF"
 msgid "\"Fascinating. I always thought it was more like a dragonfly. But isn't it interesting how humanity always finds inspiration in nature?\""
 msgstr ""
+"\"Fascinující. Já vždycky myslel, že vypadá spíše jako vážka. Ale není zajímacé, jak lidstvo vždy hledá inspiraci v přírodě?\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -2959,6 +2981,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000063E1"
 msgid "\"Eventually their shouts died down, and that was all. There were no gunshots, no celebratory shouts, no anything.\""
 msgstr ""
+"\"Nakonec jejich pokřikování ustalo a to bylo vše. Nepadly žádné výstřely, nijak neslavili, nic.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -3408,6 +3431,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000136CA"
 msgid "\"Ellis Kortenaer? That's an interesting name.\""
 msgstr ""
+"\"Elis Kortenaer? Zajímavé jméno.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -3594,6 +3618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006913"
 msgid "\"Extremely distasteful behaviour. I cannot condone either drug use or needless boasting...\""
 msgstr ""
+"\"Mimořádně nechutné jednání. Nemohu schvalovat ani užívání drog, ani zbytečné chvástání..\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -3655,6 +3680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006D4D"
 msgid "\"Every one of us has our role to play.\""
 msgstr ""
+"\"Každý z nás má roli, kterou musí hrát.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
@@ -4451,6 +4477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006EBF"
 msgid "\"For almighty Revachol.\""
 msgstr ""
+"\"Za všemocný Revachol.\""
 
 #. Title = APT / TOMAS THE SPONSOR
 #. Description = The sponsor, in Smoker's apartment #28.
