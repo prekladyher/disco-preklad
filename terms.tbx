@@ -16,6 +16,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="(koalition warship) Archer">
+        <descrip type="definition">[OK] [aA] válečná loď</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(koalition warship) Archer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(koaliční válečná loď) Lukostřelec</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="[Finish thought.]">
         <descrip type="definition">[OK] [aA] Volba pro ukončení dialogu s vnitřní úvahou. Alternativa [Ukonči úvahu.].</descrip>
         <langSet xml:lang="en">
@@ -156,19 +169,6 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Arkádové ostrovy</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Archer">
-        <descrip type="definition">[OK] [aA] válečná loď</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Archer</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Lukostřelec</term>
           </tig>
         </langSet>
       </termEntry>
@@ -653,6 +653,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Ellis Kortenaer">
+        <descrip type="definition">oběšený žoldák</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Ellis Kortenaer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Elis Kortenaer</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Eminent Domain">
         <descrip type="definition">[OK] pracovní čtvrť ve Šprajclu</descrip>
         <langSet xml:lang="en">
@@ -1092,7 +1105,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ilmaráie</term>
+            <term>Ilmara</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1105,7 +1118,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>ilmaránský, Ilmarán</term>
+            <term>ilmařanský, Ilmařan</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1682,7 +1695,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Neha">
-        <descrip type="definition">[VYKAT] kostkařka</descrip>
+        <descrip type="definition">[OK] [aA] [VYKAT] kostkařka</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Neha</term>
@@ -1690,7 +1703,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Libuše</term>
+            <term>Nea, -y ž.</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1825,7 +1838,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="officer">
-        <descrip type="definition">[OK] [aA] pokud tak Kim osloví Harryho - Kim ho tak oslovuje, když se na něj zlobí</descrip>
+        <descrip type="definition">[OK] [aA] pokud tak Kim osloví Harryho: Kim říká harrymu detective když je ok, strážníku (officer) když ne. Říká Policejní duch</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>officer</term>
@@ -3112,7 +3125,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Yekokataa">
-        <descrip type="definition">místo, něco jako symbol klidu</descrip>
+        <descrip type="definition">[OK] [aA] oblast komunistických pracovních táborů v Graadu, samotný název je zkratka z graadského termínu "zóna ekologické katastrofy". :)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Yekokataa</term>
