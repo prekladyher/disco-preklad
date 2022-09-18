@@ -68,6 +68,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="aerostatic">
+        <descrip type="definition">Vznášedlo v DE, něco mezi vzducholodí a letadlem. To, co odstřel. Revach. (např Lukostřelec)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>aerostatic</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>aerostat</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Al Gul">
         <descrip type="definition">[OK] [aA] duchovní personifikace alkoholu, *al-kohol*</descrip>
         <langSet xml:lang="en">
@@ -328,6 +341,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Charles Villedroiun">
+        <descrip type="definition">Nedělní přítel</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Charles Villedroiun</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Karel Villedrouin</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Church of the Mother of Silence">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -406,6 +432,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Comitee">
+        <descrip type="definition">moralistický činný orgán</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Comitee</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Výbor</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Commodore Red">
         <descrip type="definition">[OK] [aA] víno</descrip>
         <langSet xml:lang="en">
@@ -468,6 +507,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>poldotyp</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="corporate espionage">
+        <descrip type="definition">to, co dělá Klaasje, zmiňováno docela často</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>corporate espionage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>průmyslová špionáž</term>
           </tig>
         </langSet>
       </termEntry>
@@ -654,7 +706,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Ellis Kortenaer">
-        <descrip type="definition">oběšený žoldák</descrip>
+        <descrip type="definition">[OK] [aA] oběšený žoldák</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Ellis Kortenaer</term>
@@ -689,6 +741,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>entroponetika</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="EPIS">
+        <descrip type="definition">program Moralinterny na podporu jiných států</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>EPIS</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>EPIS</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1395,6 +1460,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="la responsabilité">
+        <descrip type="definition">součást úkolu Take on la Responsibilité (moralistický)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>la responsabilité</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>le odpòvědnôst</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Land's End">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -1487,7 +1565,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Magnetic Dice Set">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Magnetic Dice Set</term>
@@ -2786,6 +2864,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="The Bristelmüne Conventions">
+        <descrip type="definition">series of international agreements governing the treatment of military personnel and civilians </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>The Bristelmüne Conventions</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Bristelmünské konvence</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="The New">
         <descrip type="definition">[OK] [aA] disko éra v  Revacholu</descrip>
         <langSet xml:lang="en">
@@ -3107,7 +3198,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Centrum Vompty Dompty Dom</term>
+            <term>Centrum Vompty-dompty-dom</term>
           </tig>
         </langSet>
       </termEntry>
