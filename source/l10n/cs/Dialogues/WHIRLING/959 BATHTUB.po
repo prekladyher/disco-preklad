@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008535"
 msgid "This is not the cleanest bathtub in the world, but it's cleaner than you are right now."
 msgstr ""
+"Není to nejčistší vana na světě, ale právě teď je čistší než ty."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100002333"
 msgid "Hold it right there! Keep your head above water, or you'll lose all those pheromones Morell sprayed on you."
 msgstr ""
+"Drž ji přesně tam! Drž hlavu nad vodou, jinak přijdeš o všechny ty feromony, které na tebe Morell nastříkal."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000854A"
 msgid "Run yourself a bath."
 msgstr ""
+"Napusť si vanu."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008657"
 msgid "Leave the beer cans in."
 msgstr ""
+"Plechovky od piva nech uvnitř."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008651"
 msgid "Take the beer cans out."
 msgstr ""
+"Vyndej plechovky od piva."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000869F"
 msgid "What are you doing? You're not some fat fish in a fucking aquarium. Time to get moving."
 msgstr ""
+"Co to děláš? Nejsi žádná tlustá ryba v akváriu. Je čas se pohnout."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000867E"
 msgid "Get out. (Conclude.)"
 msgstr ""
+"Vylez ven. (Uzavři to.)"
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008692"
 msgid "The water line recedes as you stand. You are cold now. Your clothes stick to your still moist skin."
 msgstr ""
+"Jak vstáváš, hladina ustupuje. Teď je ti zima. Oblečení se ti lepí na stále vlhkou kůži."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008550"
 msgid "I want to live forever with the corpse smell. Memento mori and stuff. [Leave.]"
 msgstr ""
+"Chci žít navždy s pachem mrtvoly. Memento mori a tak. [Odejdi.]"
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008699"
 msgid "Your fingers grow pale and are covered with tiny whorls as the water cools."
 msgstr ""
+"Jak voda chladne, tvé prsty blednou a pokrývají je drobné záděrky."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008542"
 msgid "Ah, that soap scum smell. It smells like life. At least compared to you."
 msgstr ""
+"Ach, ten zápach mýdlové špíny. Voní jako život. Alespoň ve srovnání s tebou."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100002347"
 msgid "I don't care. I just want to be engulfed."
 msgstr ""
+"Je mi to jedno. Chci být jen pohlcen."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A8BE"
 msgid "Then -- houses along a narrow street. A video rental. Darkness on the planet's curvature."
 msgstr ""
+"Pak - domy podél úzké ulice. Videopůjčovna. Tma na zakřivení planety."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000865F"
 msgid "Now you are alone with your thoughts in the tub. But it's easier than being alone with your thoughts outside the tub."
 msgstr ""
+"Nyní jsi ve vaně sám se svými myšlenkami. Ale je to jednodušší než být sám se svými myšlenkami mimo vanu."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008678"
 msgid "Linger in the tub a little."
 msgstr ""
+"Chvíli se ve vaně zdrž."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000095000001D0"
 msgid "The water doesn't feel particularly clean. A few beer cans are bobbing up and down along your flanks like sad duckies. You pause to think before letting your head go under."
 msgstr ""
+"Voda není nijak zvlášť čistá. Několik plechovek od piva se pohupuje po bocích jako smutné kachničky. Než ponoříš hlavu pod hladinu, zastavíš se a přemýšlíš."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000095000001D9"
 msgid "The lukewarm water is comforting, like amniotic fluid."
 msgstr ""
+"Vlažná voda je uklidňující, jako plodová voda."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008665"
 msgid "The cans continue to bob, as do your thoughts, aimlessly splashing up against the sides of the tub."
 msgstr ""
+"Plechovky se dál pohupují, stejně jako tvé myšlenky, a bezcílně šplouchají o stěny vany."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000086B3"
 msgid "You feel nice and lonely. And so, so tired."
 msgstr ""
+"Cítíš se příjemně a osaměle. A tak moc unavený."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000091C5"
 msgid "Imagine something."
 msgstr ""
+"Představuj si něco."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008606"
 msgid "Undress, close your eyes, and submerge."
 msgstr ""
+"Svlékni se, zavři oči a ponoř se."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000860F"
 msgid "The water is only lukewarm, but still comforting, like amniotic fluid. A few beer cans are bobbing up and down along your flanks like sad duckies."
 msgstr ""
+"Voda je jen vlažná, ale přesto uklidňující, jako plodová voda. Několik plechovek od piva se pohupuje nahoru a dolů podél tvých boků jako smutné kachničky."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008558"
 msgid "The bathtub slowly fills with water. The water beckons."
 msgstr ""
+"Vana se pomalu naplní vodou. Voda láká."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000086C6"
 msgid "They're not even really thoughts. Just assorted sensations, none of them acute enough to focus on."
 msgstr ""
+"Ve skutečnosti to ani nejsou myšlenky. Jsou to jen různé pocity, z nichž žádný není dost jasný na to, aby se na něj dalo soustředit."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000091CC"
 msgid "You see the corpse. You can still smell the cadaver on you. It's going to take more than one bath to get rid of that stench."
 msgstr ""
+"Vidíš mrtvolu. Ještě pořád to mrtvé tělo cítíš na sobě. Bude to chtít víc než jednu koupel, aby ses toho zápachu zbavil."
 
 #. Title = WHIRLING / BATHTUB
 #. Description = You can take a bath and wash that corpse stench off.
@@ -185,3 +217,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000234D"
 msgid "Keep your head above water, just in case."
 msgstr ""
+"Pro všechny případy měj hlavu nad vodou."
