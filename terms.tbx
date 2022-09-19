@@ -69,7 +69,7 @@
         </langSet>
       </termEntry>
       <termEntry id="aerostatic">
-        <descrip type="definition">Vznášedlo v DE, něco mezi vzducholodí a letadlem. To, co odstřel. Revach. (např Lukostřelec)</descrip>
+        <descrip type="definition">[OK] [aA] Vznášedlo v DE, něco mezi vzducholodí a letadlem. To, co odstřel. Revach. (např Lukostřelec)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>aerostatic</term>
@@ -342,7 +342,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Charles Villedroiun">
-        <descrip type="definition">Nedělní přítel</descrip>
+        <descrip type="definition">[OK] [aA] Nedělní přítel</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Charles Villedroiun</term>
@@ -441,7 +441,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Výbor</term>
+            <term>Komitét</term>
           </tig>
         </langSet>
       </termEntry>
@@ -511,7 +511,7 @@
         </langSet>
       </termEntry>
       <termEntry id="corporate espionage">
-        <descrip type="definition">to, co dělá Klaasje, zmiňováno docela často</descrip>
+        <descrip type="definition">[OK] [aA] to, co dělá Klaasje, zmiňováno docela často</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>corporate espionage</term>
@@ -576,7 +576,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Cursed Ilmaraan Die">
-        <descrip type="definition">[OK] [aA] herní artefakt, když ji máš jako hráč, máš bonusy k čemusi -dr</descrip>
+        <descrip type="definition">[OK] [aA] herní artefakt, když ji máš jako hráč, máš bonusy k ověřením-dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Cursed Ilmaraan Die</term>
@@ -623,7 +623,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Doloriánský kostel lidskosti v Martinéze</term>
+            <term>doloriánský kostel Lidskosti v Martinéze</term>
           </tig>
         </langSet>
       </termEntry>
@@ -745,7 +745,7 @@
         </langSet>
       </termEntry>
       <termEntry id="EPIS">
-        <descrip type="definition">program Moralinterny na podporu jiných států</descrip>
+        <descrip type="definition">[OK] [aA] program Moralinterny na podporu jiných států</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>EPIS</term>
@@ -1461,7 +1461,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="la responsabilité">
-        <descrip type="definition">součást úkolu Take on la Responsibilité (moralistický)</descrip>
+        <descrip type="definition">bude v úkolu Take on la Responsibilité-musí dodržet ten, kdo bude překladádat tento quest</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>la responsabilité</term>
@@ -1469,7 +1469,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>le odpòvědnôst</term>
+            <term>la responsabilité</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2084,19 +2084,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Polychrome">
-        <descrip type="definition">[OK] [aA] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Polychrome</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>polychrom</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="Porta-reel/Boombox">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -2345,7 +2332,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="René Arnoux">
-        <descrip type="definition">[aA] </descrip>
+        <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>René Arnoux</term>
@@ -2618,7 +2605,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Small Pinewood Church">
-        <descrip type="definition">[OK] </descrip>
+        <descrip type="definition">je to míněno jako z borovicového dřeva - možná by bylo lepší dřevěný - dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Small Pinewood Church</term>
@@ -2626,7 +2613,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>kostel u borového lesíku</term>
+            <term>Borovicový (Píniový) kostelík</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2683,7 +2670,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Standard Anti-Wirrâl Die">
-        <descrip type="definition">není už přeloženo jinak?</descrip>
+        <descrip type="definition">[OK] [aA] jedna z kostek, které přidávají bonusy k ověření apod.</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Standard Anti-Wirrâl Die</term>
@@ -2838,6 +2825,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Tequilla Sunset">
+        <descrip type="definition">harryho nové jméno, "upít se k smrti" v revacholském slangu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tequilla Sunset</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Tequila Sunset</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Terrific Necktie (Beautiful Necktie)">
         <descrip type="definition">[OK] [aA] Kus oblečení, mluví</descrip>
         <langSet xml:lang="en">
@@ -2865,7 +2865,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="The Bristelmüne Conventions">
-        <descrip type="definition">series of international agreements governing the treatment of military personnel and civilians </descrip>
+        <descrip type="definition">[OK] [aA] series of international agreements governing the treatment of military personnel and civilians </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>The Bristelmüne Conventions</term>
@@ -2994,11 +2994,11 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Union (Débardeur's Union)">
+      <termEntry id="Union (Débardeur's Union, Dockworker´s Union)">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Union (Débardeur's Union)</term>
+            <term>Union (Débardeur's Union, Dockworker´s Union)</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
