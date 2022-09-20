@@ -3,6 +3,19 @@
 <martif type="TBX" xml:lang="en_US">
   <text>
     <body>
+      <termEntry id="(coalition warship) Archer">
+        <descrip type="definition">[OK] [aA] válečná loď</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(coalition warship) Archer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(koaliční válečná loď) Lukostřelec</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="(Her Innocence) Dolores Dei">
         <descrip type="definition">[OK] [aA] jedna z Neposkvrněných, hlavní postava doloriánství</descrip>
         <langSet xml:lang="en">
@@ -13,19 +26,6 @@
         <langSet xml:lang="cs">
           <tig>
             <term>(Její Neposkvrněnost) Dolores Božská</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="(koalition warship) Archer">
-        <descrip type="definition">[OK] [aA] válečná loď</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>(koalition warship) Archer</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>(koaliční válečná loď) Lukostřelec</term>
           </tig>
         </langSet>
       </termEntry>
@@ -94,6 +94,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Alain">
+        <descrip type="definition">jeden z Valchařových hochů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Alain</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Alan</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Andre">
         <descrip type="definition">[OK] [aA] [VYKAT] </descrip>
         <langSet xml:lang="en">
@@ -155,7 +168,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Antecentiální revoluce</term>
+            <term>Antecenteniální revoluce</term>
           </tig>
         </langSet>
       </termEntry>
@@ -169,6 +182,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Předdoloriánský dvůr</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Apocalypse Cop">
+        <descrip type="definition">jeden z poldotypů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Apocalypse Cop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>apokalyptický polda</term>
           </tig>
         </langSet>
       </termEntry>
@@ -211,6 +237,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="art cop">
+        <descrip type="definition">jeden z poldotypů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>art cop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>artový polda</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="badge">
         <descrip type="definition">[OK] [aA] průkaz ROM, je to plastová kartička nikoli odznak</descrip>
         <langSet xml:lang="en">
@@ -238,7 +277,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Binoclard">
-        <descrip type="definition">[OK] [aA] Pejorativum pro Kima, kvůli jeho brýlím</descrip>
+        <descrip type="definition">[OK] [aA] Pejorativum pro Kima, kvůli jeho brýlím (ale je možné i brejloun, brejlovec apod.)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Binoclard</term>
@@ -433,7 +472,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Comitee">
-        <descrip type="definition">moralistický činný orgán</descrip>
+        <descrip type="definition">[OK] [aA] moralistický činný orgán</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Comitee</term>
@@ -499,6 +538,19 @@
       </termEntry>
       <termEntry id="copotype">
         <descrip type="definition">[OK] [aA] vlastnost hrdiny, která se vyvíjí podle toho, jakým stylem řešíš problémy - můžeš být hodný/zlý policajt, lítostivý, znuděný, čestný, policajt z apokalypsy  a superstar...</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>copotype</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>poldotyp</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="copotype">
+        <descrip type="definition">vlastnost hrdiny, po získání 4 bodů je zpřístupněna odpovídající Idea</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>copotype</term>
@@ -770,6 +822,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Eugene">
+        <descrip type="definition">jeden z Valchařových hochů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Eugene</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Evžen</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Evrart Claire">
         <descrip type="definition">[aA] [VYKAT] odborářský funkcionář</descrip>
         <langSet xml:lang="en">
@@ -953,6 +1018,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="gimp">
+        <descrip type="definition">Kunův výraz</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gimp</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>pazgřivec</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="gossamer State">
         <descrip type="definition">[OK] [aA] idea ultraliberálního státního zřízení - cosi jako utopie -dr</descrip>
         <langSet xml:lang="en">
@@ -963,6 +1041,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Země babího léta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Gottwald">
+        <descrip type="definition">země /  oblast</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Gottwald</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Gottwald</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1002,6 +1093,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>haploskupina</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Hardie Boys (Hardies)">
+        <descrip type="definition">militantní odnož odborů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hardie Boys (Hardies)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Valchařovi hoši (Valchařovci)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1054,6 +1158,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Hlasatel zkázy</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hobocop">
+        <descrip type="definition">jeden z poldotypů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hobocop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>pobucajt</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1249,6 +1366,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Inzulindie</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Insulindian Bay">
+        <descrip type="definition"></descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Insulindian Bay</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Inzulindický záliv</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1461,7 +1591,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="la responsabilité">
-        <descrip type="definition">bude v úkolu Take on la Responsibilité-musí dodržet ten, kdo bude překladádat tento quest</descrip>
+        <descrip type="definition">[OK] bude v úkolu Take on la Responsibilité-musí dodržet ten, kdo bude překladádat tento quest</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>la responsabilité</term>
@@ -1691,6 +1821,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Meskan, meskanský</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Mirova">
+        <descrip type="definition">hlavní město Graadu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mirova</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Mirova</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2605,7 +2748,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Small Pinewood Church">
-        <descrip type="definition">je to míněno jako z borovicového dřeva - možná by bylo lepší dřevěný - dr</descrip>
+        <descrip type="definition">[aA] je to míněno jako z borovicového dřeva - možná by bylo lepší dřevěný - dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Small Pinewood Church</term>
@@ -2734,6 +2877,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="superstar cop">
+        <descrip type="definition">jeden z poldotypů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>superstar cop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>superstar polda</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Supramundi">
         <descrip type="definition">[OK] [aA] země</descrip>
         <langSet xml:lang="en">
@@ -2826,7 +2982,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Tequilla Sunset">
-        <descrip type="definition">harryho nové jméno, "upít se k smrti" v revacholském slangu</descrip>
+        <descrip type="definition">[OK] [aA] harryho nové jméno, "upít se k smrti" v revacholském slangu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Tequilla Sunset</term>
@@ -2900,6 +3056,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Prasata</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Theo">
+        <descrip type="definition">jeden z Valchařových hochů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Theo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Teo</term>
           </tig>
         </langSet>
       </termEntry>
