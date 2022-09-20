@@ -29,7 +29,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007701"
 msgid "\"'Confiscated'? Next he's probably going to say it was civil asset forfeiture...\""
 msgstr ""
-"\"'Zabaveno'? Dále pravděpodobně řekne, že to bylo propadnutí občanského majetku...\""
+"\"\"Zabaveno\"? Dále pravděpodobně řekne, že to bylo zabavení civilního majetku...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -38,7 +38,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000090FB"
 msgid "\"It's really nothing like that.\" The young man scoffs. \"A book club is a place for talking about the plot points of bourgeois social novels and sipping effervescent cocktails.\""
 msgstr ""
-"\"O nic takového opravdu nejde.\" Mladý muž se ušklíbne. \"Knižní klub je místo, kde se mluví o zápletkách buržoazních společenských románů a popíjí šumivé koktejly.\""
+"\"O nic takového opravdu nejde.\" Mladý muž se ušklíbne. \"Čtenářský kroužek je místo, kde se mluví o zápletkách buržoazních společenských románů a popíjí šumivé koktejly.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -683,7 +683,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000078DA"
 msgid "(Whisper.) \"Kim, did *you* do the reading?\""
 msgstr ""
-"(Zašeptej.) \"Kime, vy máte načteno?\""
+"(Zašeptej.) \"Kime, *vy* máte načteno?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -692,6 +692,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000078E7"
 msgid "\"You have? Excellent. Let's hear your critique then.\""
 msgstr ""
+"\"Máte? Výtečně. Tak si poslechněme vaši kritiku.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1188,6 +1189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000075DC"
 msgid "\"Damn. Hardly any difference...\" The young man shakes his head, and then looks up at you with barely concealed irritation..."
 msgstr ""
+"\"Sakra. Skoro žádný rozdíl...\" Mladík zavrtí hlavou a pak se na tebe podívá se stěží skrývaným podrážděním..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1196,6 +1198,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F000075DC"
 msgid "\"Damn. Hardly any difference...\" The young man shakes his head, and then looks up at you and the lieutenant with barely concealed irritation..."
 msgstr ""
+"\"Sakriš, skoro nevidím rozdíl...\" Mladík zavrtí hlavou a pak se na tebe a poručíka podívá se stěží skrývaným podrážděním..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1204,6 +1207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077C0"
 msgid "\"And now they've sent one of their agents to *infiltrate* our meeting.\" He rubs his hands together excitedly."
 msgstr ""
+"\"A teď poslali jednoho ze svých agentů, aby *inflitroval* naše setkání.\" Vzrušeně si mne ruce."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1212,6 +1216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007801"
 msgid "One leader and one follower, the most ancient power dynamic."
 msgstr ""
+"Jeden vůdce a jeden následovník, nejstarší mocenská dynamika."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1220,6 +1225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000090DE"
 msgid "\"Sounds just like a regular book club.\""
 msgstr ""
+"\"To zní jako obyčejný čtenářský kroužek."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1666,6 +1672,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C6D8"
 msgid "His companion nods, but offers no further solace."
 msgstr ""
+"Jeho společník přikývne, ale nenabídne další útěchu."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1674,6 +1681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000770E"
 msgid "He is neither of those, of course. He is simply a poor student, putting on airs. Also, he doesn't have the shoulders to fill out such a jacket."
 msgstr ""
+"Není ovšem ani jedno z toho. Je to prostě chudý student, který se jen chvástá. Také nemá ramena, aby takové sako vyplnil."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1682,6 +1690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077D0"
 msgid "\"Hold on, I'm not here to *infiltrate* your meeting. I want to *join* your meeting!\""
 msgstr ""
+"\"Počkejte, já tu nejsem, abych *inflitroval* vaše setkání. Chci se *přidat*!\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -1690,6 +1699,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F000077D0"
 msgid "\"Hold on, we're not here to *break up* your meeting. We want to *join* your meeting!\"\n"
 msgstr ""
+"\"Počkejte, nejsme tu proto, abychom vás *rozehnali*. Chceme se *připojit* k vaší schůzce!\"\n"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2182,6 +2192,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C6C6"
 msgid "\"What does this question say about me?\""
 msgstr ""
+"\"Co tato otázka říká o mně?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2190,6 +2201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000076D5"
 msgid "\"Hey, Steban. Isn't that *your* jacket?\""
 msgstr ""
+"\"Hej, Štěbáne. Není to *tvoje* sako?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2198,6 +2210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000076DD"
 msgid "\"It certainly *looks* like my jacket, Ulixes. Where did you get that, gendarme?\""
 msgstr ""
+"\"Rozhodně to *vypadá* jako moje sako, Ulixi. Odkud ho máte, žandarme?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2206,6 +2219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000773C"
 msgid "\"I assumed it was Maurice who broke into my room, to play a trick on me. I didn't think I'd *actually* been raided by the RCM!\""
 msgstr ""
+"\"Domníval jsem se, že to byl Maurice, kdo se vloupal do mého pokoje, aby si ze mě vystřelil. Nemyslel jsem si, že na mě skutečně vlítla ROM!\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2214,6 +2228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000776E"
 msgid "\"Listen, comrade, it's not what it looks like...\""
 msgstr ""
+"\"Poslouchejte, soudruhu, není to tak, jak to vypadá...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2222,6 +2237,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007823"
 msgid "Don't let them see you *flustered*, ssssire. Play along..."
 msgstr ""
+"Nedovol jim, aby tě viděli rozrušeného, ssssire. Hraj jejich malou hru..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2230,6 +2246,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007831"
 msgid "\"Before we move on, do you recognise this jacket?\" (Show him the Saramirizian jacket.)"
 msgstr ""
+"\"Než budeme pokračovat, poznáváte toto sako?\" (Ukaž mu saramirizské sako.)"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2544,6 +2561,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000A8E0"
 msgid "The young man can hardly conceal his disappointment. He was apparently looking forward to being punched by you."
 msgstr ""
+"Mladík jen těžce skrývá své zklamání. Očividně se velmi těšil, jak od tebe dostane pěstí."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2570,6 +2588,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000AA62"
 msgid "\"... but I'm still trying to figure out how the *pale* fits into all this...\""
 msgstr ""
+"\"... ale stále se snažím přijít na to, jak do toho všeho zapadá *bledomez*...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -2820,6 +2839,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007918"
 msgid "\"I have not had time to seek out pretentious communist book clubs, nor have I done their 'reading'.\""
 msgstr ""
+"\"Ještě jsem neměl čas vyhledat si domýšlivé komunistické \"čtenářské kroužky\" a ani nemám \"načteno\".\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3233,6 +3253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077DC"
 msgid "\"The RCM wants to join us?\" A quizzical expression..."
 msgstr ""
+"\"ROM se k nám chce přidat?\" Tázavý výraz..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3241,6 +3262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000783B"
 msgid "\"What am I late *for* exactly?\""
 msgstr ""
+"\"K *čemu* jdu pozdě?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3258,6 +3280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007899"
 msgid "He's taking your measure. Like an ideological boxer stepping into the ring."
 msgstr ""
+"Měří si tvoje míry. Jako ideologický boxer, který vstupuje do ringu."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3266,6 +3289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000078D0"
 msgid "\"What is this *reading*? I thought this was a revolutionary group!\""
 msgstr ""
+"\"Jak jako *načteno*? Myslel jsem, že jde o skupinu revolucionářů!\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3282,6 +3306,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000790A"
 msgid "\"Maybe they can explain themselves.\""
 msgstr ""
+"\"Možná to vysvětlí sami.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3530,6 +3555,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000A21B"
 msgid "\"There has to be some other element to it. We don't have the full story yet...\""
 msgstr ""
+"\"Musí v tom být něco dalšího. Ještě nemáme celý příběh...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -3758,6 +3784,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077F5"
 msgid "\"Interesting. Does that mean you've done the reading?\""
 msgstr ""
+"\"Zajímavé. Znamená to tedy, že máte načteno?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4107,6 +4134,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000AC85"
 msgid "\"Who's in La Delta?\""
 msgstr ""
+"\"Kdo je v La Deltě?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4267,6 +4295,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000075EA"
 msgid "\"He should know the meeting starts at 22.00 *sharp*.\" His companion looks up at you and squints."
 msgstr ""
+"\"Měl vědět, že setkání začíná v 22:00 *přesně*.\" Jeho společník vzhlédne a přimhouří oči."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4275,6 +4304,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F000075EA"
 msgid "\"They should know the meeting starts at 22.00 *sharp*...\" His companion looks up at you and squints."
 msgstr ""
+"\"Měli vědět, že setkání začíná v 22:00 *přesně*...\" Jeho společník vzhlédne a přimhouří oči."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4283,6 +4313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000076E9"
 msgid "\"Must be a coincidence. I see these jackets all the time.\""
 msgstr ""
+"\"To musí být náhoda. Tyhle saka vidím v jednom kuse.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4291,6 +4322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000771D"
 msgid "\"See, Uli? It's just like Mazov wrote. How does it go again?\""
 msgstr ""
+"\"Vidíš, Uli? Je to přesně tak, jak napsal Mazov. Jak to je?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4315,6 +4347,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F000093B2"
 msgid "\"In any case, it's not like the SRV has established a party line on the subject of lynchings in Martinaise...\" The two young men look at one another.\n"
 msgstr ""
+"\"V každém případě to není tak, že by SLR stanovila za cíl lynčovat v Martinéze...\" Oba mladí muži se na sebe podívají."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4363,6 +4396,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F00009594"
 msgid "\"And the Gottwaldians, what's so bad about them?\""
 msgstr ""
+"\"A Gottwalďané, co je na nich špatného?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4807,6 +4841,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007774"
 msgid "\"Why do you sound *excited* to be raided by the RCM?\""
 msgstr ""
+"\"Proč zníte tak nadšeně, že na vás vlítla RCM?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4815,6 +4850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077EE"
 msgid "\"My partner, of course, is acting in a strictly *personal capacity*, not as an official representative of the RCM.\""
 msgstr ""
+"\"Můj partner samozřejmě jedná čistě *osobně*, nikoli jako oficiální zástupce ROM.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4823,6 +4859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007808"
 msgid "There's a great deal of tension in this young man's shoulders, more than someone his age should bear..."
 msgstr ""
+"V ramenou tohoto mladého muže je cítit velké napětí, větší, než by člověk v jeho věku měl snášet..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4831,6 +4868,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000781B"
 msgid "Just a moment -- could this be the former owner of a certain jacket you 'acquired' recently?"
 msgstr ""
+"Moment - mohl by toto být bývalý majitel jistého saka, které jsi nedávno \"získal\"?"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -4847,6 +4885,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000090C6"
 msgid "It's obvious they take this 'group' of theirs extremely seriously. Whatever you do, *don't* compare it to a common book club."
 msgstr ""
+"Je jasné, že tuto jejich \"skupinu\" berou smrtelně vážně. Ať uděláš cokoli, *nepřirovnávej* ji k běžnému čtenářskému kroužku."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -5282,6 +5321,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007779"
 msgid "\"Look, man, it doesn't even fit you, anyway.\""
 msgstr ""
+"\"Hele, chlape, stejně ti nesedí.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -5290,6 +5330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077C9"
 msgid "The lieutenant sighs. \"Something tells me these young men are not very experienced with law enforcement.\""
 msgstr ""
+"Poručík si povzdechne. \"Něco mi říká, že tito mladíci nemají s vymáháním práva moc zkušeností.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -5657,6 +5698,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000ADEA"
 msgid "For a long moment, no one says a word. Even the lieutenant is transfixed."
 msgstr ""
+"Dlouhou chvíli nikdo neřekne ani slovo. Dokonce i poručík je zaražený."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -5859,6 +5901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000772D"
 msgid "\"'Those committed to the rights of property are those most apt to violate them'.\" His companion nods emphatically."
 msgstr ""
+"\"'Ti, kdo se zavázali k vlastnickým právům, jsou nejnáchylnější k jejich porušování'.\" Jeho společník důrazně přikývne."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -5867,6 +5910,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007836"
 msgid "\"You weren't exactly easy to find.\""
 msgstr ""
+"\"Nebylo nadné vás nalézt.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -5875,6 +5919,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000078CB"
 msgid "(Just wing it.) \"The reading, yes. I've *definitely* done that.\""
 msgstr ""
+"(Improvizuj.) \"Načteno, ano. To *rozhodně* mám.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6125,6 +6170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000A8ED"
 msgid "And yet you can't help but sense a slight disappointment on his part. It seems a part of him hoped you would hit the pretentious young communist..."
 msgstr ""
+"A přesto z něj cítíš lehké zklamání. Zdá se, že jedna jeho část doufala, že uhodíš mladého domýšlivého komunistu..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6327,6 +6373,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000075CC"
 msgid "It's definitely not holding. Those matchboxes are stacked so haphazardly it's like they *want* them to collapse."
 msgstr ""
+"Rozhodně nedrží. Ty krabičky od sirek jsou naskládané tak chaoticky, jako by *chtěli*, aby se zhroutily."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6335,6 +6382,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000760B"
 msgid "\"The gendarme returns.\" The young man turns to you. \"What do you need?\""
 msgstr ""
+"\"Návrat žandarma.\" Mladík se na tebe otočí. \"Co potřebujete?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6343,6 +6391,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000786F"
 msgid "\"To say nothing of Gottwaldians and Econoclards.\""
 msgstr ""
+"\"A to ani nemluvím o Gottwalďanech a Ekonotardech.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6351,6 +6400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000078AE"
 msgid "This must be the *theory combat* the boiadeiro warned you about! En garde!"
 msgstr ""
+"Tohle musí být ten *teoretický boj*, před kterým tě varoval bojadejro! Do střehu!"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6375,6 +6425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00009100"
 msgid "\"It's nothing like that. A yank-fest is a decadent bourgeois phenomenon, a pastime for over-educated office workers who lack proper revolutionary outlets for their social dissatisfactions and repressed sexuality.\""
 msgstr ""
+"\"Nic takového to není. Trapárna je dekadentní buržoazní fenomén, zábava převzdělaných kancelářských pracovníků, kterým chybí řádné revoluční odreagování pro jejich sociální nespokojenost a potlačovanou sexualitu.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6407,6 +6458,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000935F"
 msgid "\"Are you sure? My working theory is that *communism* killed the hanged man.\""
 msgstr ""
+"\"Jste si jistý? Moje pracovní teorie je, že toho oběšeného zabil *komunismus*.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6559,6 +6611,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F00009FC6"
 msgid "\"I have to say, I never realised cockatoos could be such needy emotional disasters, just like people.\""
 msgstr ""
+"\"Musím říct, že jsem si nikdy neuvědomil, že kakaduové mohou být takové katastrofy plné citů, stejně jako lidé.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6807,6 +6860,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100005300002261"
 msgid "Beat Measurehead."
 msgstr ""
+"Porazil Hlavoměra."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6881,6 +6935,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002E19"
 msgid "\"Oh, sure. But you can always join a *book club* if that's what you're into.\""
 msgstr ""
+"\"Ale jistě. Ale vždy se můžete stát členem *čtenářského kroužku*, pokud to je váš šálek čaje.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6905,6 +6960,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000075BE"
 msgid "\"I think it's holding, Ulixes...\""
 msgstr ""
+"\"Myslím, že to drží, Ulixi...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -6970,7 +7026,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00009572"
 msgid "\"Kim and *I*...\" the lieutenant mutters under his breath. He scribbles something in his notebook but adds nothing else."
 msgstr ""
-"\"*Mně* a Kima...\" poručík si zamumlá. Něco načmárá do zápisníku, ale nedodá nic dalšího"
+"\"*Mě* a Kima...\" poručík si zamumlá. Něco načmárá do zápisníku, ale nedodá nic dalšího."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7019,6 +7075,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000986F"
 msgid "\"You two wrote that article in La Fumée, didn't you?\""
 msgstr ""
+"\"Vy dva jste napsali ten článek do Dýmu, že ano?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7051,6 +7108,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100000F000099F3"
 msgid "Sub-literate nematode."
 msgstr ""
+"Pologramotná hlístice."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7059,6 +7117,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100000F000099F3"
 msgid "Harmless book slug."
 msgstr ""
+"Neškodný knižní plž."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7067,6 +7126,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100000F000099F3"
 msgid "Somewhat bookish toad."
 msgstr ""
+"Poněkud knižní žába."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7075,6 +7135,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100000F000099F3"
 msgid "Proud bookshop ruminant."
 msgstr ""
+"Hrdý přežvýkavec z knihkupectví."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7083,6 +7144,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100000F000099F3"
 msgid "Voracious biblophilic teratorn."
 msgstr ""
+"Nenasytný bibliofilní teratornis."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7091,7 +7153,7 @@ msgstr ""
 msgctxt "tooltip6/0x0100000F000099F3"
 msgid "UNSTOPPABLE LITERARY WÜRM."
 msgstr ""
-"NEZSTAVITELNÝ LITERÁRNÍ WÜRM"
+"NEZASTAVITELNÝ LITERÁRNÍ WÜRM"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7205,6 +7267,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000A0C5"
 msgid "\"So have you figured out his real identity?\""
 msgstr ""
+"\"Takže už jste přišel na jeho pravou identitu?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7524,6 +7587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000761E"
 msgid "His eyes are tracing an invisible line back and forth from your jacket to his companion."
 msgstr ""
+"Jeho oči sledují neviditelnou čáru od tvého saka ke svému společníkovi."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7532,6 +7596,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007725"
 msgid "Damn right. If he keeps mouthing off, you should take his pants too."
 msgstr ""
+"To máš sakra pravdu. Jestli bude takhle mluvit dál, měl bys mu vzít i kalhoty."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7548,6 +7613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000077BB"
 msgid "\"And now they've shown up *in force* to break up our meeting!\" He rubs his hands together excitedly."
 msgstr ""
+"\"A teď se ukázali *v plné síle*, aby rozehnali naše setkání!\" S očekáváním si tře ruce o sebe."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7556,6 +7622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007815"
 msgid "Meanwhile, his companion inclines toward him, eager to catch every word that dribbles from his friend's mouth."
 msgstr ""
+"Mezitím se k němu nakloní jeho společník a dychtivě hltá každé slovo, které vykápne z úst jeho přítele."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7564,6 +7631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007840"
 msgid "(Play along.) \"My apologies, comrades. I had to be sure I wasn't being tailed... by our *class enemies*.\""
 msgstr ""
+"(Předstírej dál.) \"Omlouvám se, soudruzi. Musel jsem se ujistit, že mě nesledují... naši *třídní nepřátelé*.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7580,6 +7648,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000791F"
 msgid "\"It doesn't sound like they've done the reading, Steban.\""
 msgstr ""
+"\"Nezní to, že mají načteno, Štěbáne.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7821,6 +7890,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000A273"
 msgid "\"Alright, you maniac.\" The young man takes a moment to massage his bruised jaw. \"Let's see if you can use your brain as well as you use your fists.\""
 msgstr ""
+"\"Dobře, ty maniaku.\" Mladík si chvíli masíruje pohmožděnou čelist. \"Uvidíme, jestli dokážete používat mozek stejně dobře jako pěsti.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -7895,6 +7965,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000A91E"
 msgid "\"I really want to hear more about these hyper-revolutionary figures.\""
 msgstr ""
+"\"Opravdu chci slyšet více o těchto hyper-revolučních osobnostech.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8122,6 +8193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007610"
 msgid "\"You're back.\" The young man turns to you."
 msgstr ""
+"\"Jste zpět.\" Mladík se k tobě otočí."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8138,6 +8210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007783"
 msgid "\"Absolutely not. You have to keep it...\""
 msgstr ""
+"\"Ani náhodou. Musíte si ho nechat...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8146,6 +8219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007792"
 msgid "\"You're right. It was a gift from my grandmother. But now you've *got* to keep it...\""
 msgstr ""
+"\"Máte pravdu. Byl to dárek od babičky. Ale teď si ho musíte nechat...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8154,6 +8228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007884"
 msgid "\"Are you saying you *haven't* done the reading for tonight?\"  The two young men look at one another."
 msgstr ""
+"\"Chcete říct, že *nemáte* na dnešní večer načteno?\"  Oba mladí muži se na sebe podívají."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8170,6 +8245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000091EE"
 msgid "One of Kras Mazov's closest associates, Ignus Nilsen was a leading political and military figure in the Antecentennial Revolution."
 msgstr ""
+"Jeden z nejbližších spolupracovníků Krase Mazova, Ignus Nilsen byl vůdčí politická a vojenská osobnost za Antecenteniální revoluce."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8596,6 +8672,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005300003421"
 msgid "(Point to the art supplies.) \"I'm guessing all this art stuff belongs to Cindy?\""
 msgstr ""
+"(Ukaž na výtvarné potřeby.) \"Hádám, že všechny tyhle výtvarné věci patří Cindy?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8604,6 +8681,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100005300003421"
 msgid "(Point to the art supplies.) \"I'm guessing these pots of gouache belong to Cindy?\""
 msgstr ""
+"(Ukaž na výtvarné potřeby.) \"Hádám, že tyhle kvaše patří Cindy?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8612,6 +8690,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100005300003421"
 msgid "(Point to the art supplies.) \"Gouache, huh? Is that the medium of the proletariat?\""
 msgstr ""
+"(Ukaž na výtvarné potřeby.) \"Kvaš, co? To je médium proletariátu?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8636,6 +8715,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007625"
 msgid "What a coincidence! You two have the *same* jacket. What are the odds?"
 msgstr ""
+"Jaká náhodička! Vy dva máte *stejné* sako? Jaká je pravděpodobnost?"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8644,6 +8724,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007706"
 msgid "\"Unlikely. That's real Saramirizian twill. Only old Saramirizian communists and drug smugglers wear those anymore...\""
 msgstr ""
+"\"To je nepravděpodobné. To je pravý saramiriziánský kepr. Ten nosí jen staří saramirizští komunisté a pašeráci drog..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8652,6 +8733,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000785C"
 msgid "\"That's the whole point, of course. We can't just have *anybody* waltzing in here. Martinaise is crawling with reactionary infiltrators.\""
 msgstr ""
+"\"O to samozřejmě jde. Nemůžeme si sem nechat jen tak *někoho* nakráčet. Martinéza se hemží zpátečnickými infiltrátory.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8660,6 +8742,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007892"
 msgid "\"Mmmm.\" The young man considers you a moment..."
 msgstr ""
+"\"Mmmm.\" Mladý muž tě na okamžik zhodnotí..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8668,6 +8751,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000078D5"
 msgid "\"There must be some misunderstanding. No one mentioned any reading.\""
 msgstr ""
+"\"Musí jít o nedorozumění. Nikdo nezmínil žádné čtení."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -8796,6 +8880,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F000099D5"
 msgid "\"Steban, you can't be serious... for these gendarmes?\"\n"
 msgstr ""
+"\"Štěbáne, to nemůžeš myslet vážně... pro tyhle dva žandarmy?\"\n"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9128,6 +9213,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000075D5"
 msgid "\"Careful, careful!\""
 msgstr ""
+"\"Opatrně, opatrně!\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9136,6 +9222,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000075E2"
 msgid "\"You're late.\""
 msgstr ""
+"\"Jdete pozdě.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9144,6 +9231,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F000075E2"
 msgid "\"You two. You're late.\""
 msgstr ""
+"\"Vy dva. Jdete pozdě.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9152,6 +9240,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000076E4"
 msgid "\"I just found it... in a room.\""
 msgstr ""
+"\"Prostě jsem ho našel...v místnosti.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9160,6 +9249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007767"
 msgid "\"So, do you want your jacket *back*?\""
 msgstr ""
+"\"Takže, chcete zpátky své sako?\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9240,7 +9330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00009567"
 msgid "\"Two's all you need. Me and Kim are the same way.\" (Turn to Kim.)"
 msgstr ""
-"\"Dva jsou, vše co je potřeba. Vemte si za příklad mě a Kima.\" (Otoč se na Kima.)"
+"\"Dva jsou vše co je potřeba. Vemte si za příklad mně a Kima.\" (Otoč se na Kima.)"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9615,6 +9705,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000076CE"
 msgid "Based on the prevalence of white Saramirizian suits in Martinaise? Extremely low."
 msgstr ""
+"Na základě výskytu bílých saramirizských salónních sak? Extrémně nízká."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9623,6 +9714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000076EE"
 msgid "\"This jacket is RCM property. It's been confiscated as part of an ongoing investigation.\""
 msgstr ""
+"\"Toto sako je majetkem ROM. Bylo zabaveno v rámci probíhajícího vyšetřování.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9631,6 +9723,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000779D"
 msgid "\"He'll shit himself! Positively.\""
 msgstr ""
+"\"Posere se! Na sto pro.\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9639,6 +9732,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000788A"
 msgid "Uh oh. No one said anything about *reading*. You'll just have to wing this one."
 msgstr ""
+"O ou. Nikdo neřekl nic o žádném *čtení*.  Budeš muset improvizovat."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9872,6 +9966,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000A1DF"
 msgid "\"... but I'm still not sure how *communism* could have killed him...\""
 msgstr ""
+"\"ale nejsem si jistý, jak ho mohl zabít *komunismus*...\""
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -9947,6 +10042,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000A912"
 msgid "You'll be leading this conversation, so wherever you take it, they'll be glad to follow."
 msgstr ""
+"Ty povedeš tuto konverzaci a kamkoli ji zavedeš, oni budou rádi následovat."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -10014,6 +10110,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100000F0000AAF7"
 msgid "Did all the reading."
 msgstr ""
+"Máš totálně načteno."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -10031,6 +10128,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100000F0000AAF7"
 msgid "Gave good edits."
 msgstr ""
+"Dal jsi dobré připomínky."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -10057,6 +10155,7 @@ msgstr ""
 msgctxt "tooltip8/0x0100000F0000AAF7"
 msgid "Called it a yank-fest."
 msgstr ""
+"Nazval jsi to trapárnou."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -10065,6 +10164,7 @@ msgstr ""
 msgctxt "tooltip9/0x0100000F0000AAF7"
 msgid "Called it a book club."
 msgstr ""
+"Nazval jsi to čtenářským klubem."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -10186,6 +10286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00007741"
 msgid "Just a minute. Steban... Ulixes... *why* do those names ring the faintest of bells?"
 msgstr ""
+"Počkejte chvilku. Šťěbán... Ulixes... *proč* mi ta jména něco říkají?"
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
@@ -10194,6 +10295,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000774F"
 msgid "Probably because they're the real names of 'Nasteb' and 'Exilus', the authors of that so-called essay about TipTop Tournée you read..."
 msgstr ""
+"Pravděpodobně proto, že jsou to skutečná jména \"Našťeb\" a \"Exilus\", autorů takzvané eseje o TipTop Turné, kterou jsi četli..."
 
 #. Title = APT / STUDENT COMMUNIST
 #. Description = The Student Communist and his underground reading group (PART OF THE COMMUNIST DREAM QUEST)
