@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012D46"
 msgid "The boy shakes his head. \"You need these pants. But you ain't gonna get these pants, pig!\""
 msgstr ""
+"Chlapec zavrtí hlavou. \"Potřebuješ ty kalhoty. Ale tyhle kalhoty nedostaneš, prase!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -37,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000763C"
 msgid "\"Cuno, there's a stack of eternite back there...\" (Point to the shack.)"
 msgstr ""
+"\"Kuno, vzadu je hromada eternitu...\" (Ukaž na chatrč.)"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -54,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000784E"
 msgid "Of course, sire. Better not anger the Cuno with this silliness. We regret bringing it up. A thousand years of misfortune upon us for bringing it up!"
 msgstr ""
+"Samozřejmě, sire. Raději si touto hloupostí Kuno nerozhněvej. Lituji, že jsme o tom mluvili. Tisíc let neštěstí na nás za to, že jsme o tom začali mluvit!"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -62,6 +72,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007856"
 msgid "\"Pig... if Cuno was hiding something, it would be hidden,\" he says with exaggerated confidence."
 msgstr ""
+"\"Prase... kdyby Kuno něco skrýval, bylo by to skryté,\" říká s přehnanou jistotou."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -97,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000751E"
 msgid "You'd have to be blind not to notice the giant white letters \"F-A-L-N\" running down his trouser leg."
 msgstr ""
+"Musel bys být slepý, abys si nevšiml obřích bílých písmen \"F-A-L-N\" na nohavici jeho kalhot."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -105,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000796D"
 msgid "\"Not just that. I also think the hypothethical *mug fucker* lives in that apartment there.\" (Point to Gary's apartment.)"
 msgstr ""
+"\"Nejen to. Taky si myslím, že v tom bytě bydlí ten hypotetický *hrnkový sráč*.\" (Ukaž na Garyho byt.)"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -140,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400009753"
 msgid "\"No, it's not fucking Cuno's, it's ancient -- look at it.\""
 msgstr ""
+"\"Ne, není to kurva Kunovo, je to starodávné - podívej se na to.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -166,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007822"
 msgid "He's hiding something."
 msgstr ""
+"Něco skrývá."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -174,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400009850"
 msgid "\"Look, it's basic police work. If there's a trash container on the crime scene you have to investigate it.\""
 msgstr ""
+"\"Podívejte, je to základní policejní práce. Pokud je na místě činu kontejner na odpadky, musíte ho prozkoumat.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -182,6 +198,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006400009850"
 msgid "\"Look, it's basic police work. If there's a trash container on the crime scene you have to investigate it thoroughly. I may have missed something when I checked it before.\""
 msgstr ""
+"\"Podívejte, je to základní policejní práce. Když je na místě činu kontejner na odpadky, musíte ho důkladně prozkoumat. Možná jsem něco přehlédl, když jsem ho předtím kontroloval.\" \"To je pravda.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -199,6 +216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007810"
 msgid "Cuno is actually a *little* interested."
 msgstr ""
+"Kuno má ve skutečnosti *malý* zájem."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -207,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078C2"
 msgid "We are *way* beyond normal already. We are in the STAR CHAMBER."
 msgstr ""
+"Už jsme *daleko* za hranicí normálu. Jsme ve HVĚZDNÉ KOMNATĚ."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -224,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400009781"
 msgid "\"Someone might have stashed something in there. Maybe there's even a lead...\""
 msgstr ""
+"\"Někdo tam mohl něco schovat. Možná je tam i nějaká stopa...\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -232,6 +252,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006400009781"
 msgid "\"Perps might have stashed something more in that container.\""
 msgstr ""
+"\"Pachatelé mohli do kontejneru schovat ještě něco dalšího.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -240,6 +261,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100006400009781"
 msgid "\"Found something of mine in there. Maybe perps stashed something in there too. Might even be a solid lead.\""
 msgstr ""
+"\"Našel jsem tam něco svého. Možná tam pachatelé taky něco schovali. Mohla by to být i solidní stopa.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -248,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000986E"
 msgid "\"Yes, yes, absolutely, absolutely... Why the fuck are you telling this shit to Cuno?!\""
 msgstr ""
+"\"Ano, ano, rozhodně, rozhodně... Proč to kurva říkáš Kunovi?!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -274,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000781B"
 msgid "\"That's just some shit roofing-gimps left behind. Lazy dinks.\""
 msgstr ""
+"\"To je jenom nějaká sračka, co tam nechali pokrývačský pazgřivci. Líní flákači.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -282,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000788F"
 msgid "\"You can't hide it, I see without vision.  With my inner eye.\""
 msgstr ""
+"\"Nemůžeš to skrýt, vidím to bez zraku.  Svým vnitřním okem.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -290,6 +315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400009837"
 msgid "\"What do you want Cuno to do about it? Cuno's fucking twelve!\""
 msgstr ""
+"\"Co chceš, aby s tím Kuno udělal? Kuno je kurva dvanáct!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -298,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100005E2A"
 msgid "Or alcohol, if you don't want to do drugs. Alcohol is just as rewarding, but it isn't a drug. This has been going on for quite a while, hasn't it? You've been thinking about drugs and alcohol for a long time now. Juicy drugs, tasty alcohol..."
 msgstr ""
+"Nebo alkohol, pokud nechceš brát drogy. Alkohol je stejně prospěšný, ale není to droga. Tohle už se táhne docela dlouho, že? O drogách a alkoholu přemýšlíš už dlouho. Šťavnaté drogy, chutný alkohol..."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -324,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078C9"
 msgid "\"Inner eye?! Fuck are you talking about?!\" He loses his cool for a moment and starts yelling. \"Ask me a normal question, pig!\""
 msgstr ""
+"\"Vnitřní oko?! O čem to kurva mluvíš?!\" Na chvíli ztratí klid a začne křičet. \"Zeptej se mě na něco normálního, prase!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -332,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078E3"
 msgid "Better not to bother the lieutenant with my Star Chamber. He wouldn't understand."
 msgstr ""
+"Raději nebudu poručíka obtěžovat svou Hvězdnou komnatou. Nepochopil by to."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -349,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000B81D"
 msgid "\"Right, pig, this is where Cuno plays with his little wooden choo-choo. Fuck do you want with it?\""
 msgstr ""
+"\"Správně, prase, tady si Kuno hraje se svým malým dřevěným vláčkem. Co s tím kurva chceš dělat?\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -357,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000975F"
 msgid "An evil squeak comes from behind the fence. \"He thinks you're fucking four, Cuno! He says you climb the ladder up to your *magic tree house*!\""
 msgstr ""
+"Zpoza plotu se ozve zlý kvikot. \"Myslí si, že jsou ti zkurvené čtyři, Kuno! Říká, že lozíšš po žebříku do svého *magického stromového domku*!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -365,6 +396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100005E30"
 msgid "Seems kinda boring now, going back to... What was this about? Some yard? Yards aren't interesting. Only drugs are interesting. Drugs and alcohol. You feel sad now, but what can you do. Life has to go on. With a heavy sigh, you say..."
 msgstr ""
+"Zdá se, že je to docela nuda, když se vracíme k... O čem to bylo? Nějaký dvůr? Dvory nejsou zajímavé. Zajímavé jsou jen drogy. Drogy a alkohol. Teď je ti smutno, ale co naděláš. Život musí jít dál. S těžkým povzdechem řekneš..."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -409,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000077E3"
 msgid "\"The fuck does this have to do with the Cuno? Cuno doesn't give a shit who she is.\""
 msgstr ""
+"\"Co to má kurva společného s Kunem? Kunovi je úplně u prdele, kdo je.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -426,6 +459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007703"
 msgid "\"Look it up in the library. Cuno's not a fucking dictionary...\" He shakes his head. \"Fuckin' small-brain. Cuno means the gardener, alright?\""
 msgstr ""
+"\"Najdi si to v knihovně. Kuno není zasranej slovník...\" Zavrtí hlavou. \"Zasraný bezmozek. Kuno myslí zahradnici, jasný?\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -434,6 +468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007868"
 msgid "Was there something here you were supposed to pick up on? As soon as it crosses your mind, the thought is gone..."
 msgstr ""
+"Bylo tady něco, čeho jsi se měl chytit? Jakmile tě to napadne, myšlenka je pryč ..."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -442,6 +477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007895"
 msgid "\"So you say, but I saw *past the veil*.\""
 msgstr ""
+"\"To říkáte vy, ale já jsem nahlédl *za závoj*.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -450,6 +486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000074B1"
 msgid "\"No. Cuno, you don't know anything about the tampering I'm investigating, and I already have pants.\""
 msgstr ""
+"\"Ne, Kuno, nevíš nic o manipulaci, kterou vyšetřuju, a já už mám kalhoty.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -485,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000074B7"
 msgid "\"Whatever. Cuno was trying to help you. But you're too fat for FALN anyway, pig.\""
 msgstr ""
+"\"To je jedno. Kuno se ti snažil pomoct. Ale na FALN jsi stejně moc tlustý, prase.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -493,6 +531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000076C8"
 msgid "\"Wait, what did you mean by *kipt*?\""
 msgstr ""
+"\"Počkej, co jsi myslel tím *kipt*?\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -501,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000076FA"
 msgid "\"The gardener? She's actually not a gardener. Turns out she's a union fixer.\""
 msgstr ""
+"\"Zahradnice? Ona vlastně není zahradnice. Ukázalo se, že je to zástupkyně odborů.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -527,6 +567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000785E"
 msgid "But it is not hidden, is it, sire? You picked up on it. You should examine the pile of roofing material again."
 msgstr ""
+"Ale není to skryté, že ne, sire? Všiml sis toho. Měl bys si znovu prohlédnout tu hromadu střešní krytiny."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -535,6 +576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078B4"
 msgid "Don't I have a single normal thing to say?"
 msgstr ""
+"Copak nemám na srdci jedinou normální věc?"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -579,6 +621,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000776C"
 msgid "Fish is sometimes used to fertilize the soil a few weeks before planting something. Maybe she was preparing  the garden beds?"
 msgstr ""
+"Ryby se někdy používají k hnojení půdy několik týdnů před výsadbou. Možná připravovala záhony na zahradě?"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -587,6 +630,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007836"
 msgid "\"Are you hiding something?\""
 msgstr ""
+"\"Tajíš něco?\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -595,6 +639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007846"
 msgid "Shit 'some gimps' left behind. Sounds legitimate. Let's move on."
 msgstr ""
+"Sračky, které po sobě zanechali \"nějací pazřivci\". To zní legitimně. Pojďme dál."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -603,6 +648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078F1"
 msgid "\"Huh...\" The lieutenant has his nose in his notebook. \"I have no idea what you just said.\""
 msgstr ""
+"\"Co...\" Poručík má nos v zápisníku. \"Nemám ponětí, co jste právě řekl.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -620,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007535"
 msgid "\"Shoot that shit at Cuno, dumpster diver.\""
 msgstr ""
+"\"Pojď s tou sračkou do Kuna, ty popelnicový potápěči.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -628,6 +675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000753F"
 msgid "\"You respected the Cuno. Ten times discount to Cuno's personal pig.\" He gives you a wink and snaps his fingers. \"Now let's get this weird shit done. Trash container shit, or something...\""
 msgstr ""
+"\"Respektoval jsi Kuna. Desetinásobná sleva pro Kunovo osobní prase.\" Mrkne na tebe a luskne prsty. \"A teď už pojďme tyhle divné sračky vyřídit. Sračky z kontejneru na odpadky, nebo tak něco...\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -645,6 +693,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000791F"
 msgid "You glance again at the roofing material in front of the shack -- yes, you should go back there."
 msgstr ""
+"Znovu se podíváš na střešní krytinu před chatrčí - ano, měl by ses tam vrátit."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -662,6 +711,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400009B9B"
 msgid "You can't help but notice a little approving nod the lieutenant makes. He agrees."
 msgstr ""
+"Nemůžeš si nevšimnout, že poručík malounko souhlasně přikývne. Souhlasí."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -679,6 +729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000075AE"
 msgid "\"Right. About something else, then...\""
 msgstr ""
+"\"Správně. O něčem jiném...\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -696,6 +747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000077CF"
 msgid "\"The fuck are you staring at with your mouth open? Ask Cuno a question or get the fuck out of here.\""
 msgstr ""
+"\"Co tu kurva čumíš s otevřenou hubou? Zeptej se Kuna na něco, nebo vypadni.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -704,6 +756,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078EA"
 msgid "\"Are you having a seizure in Cuno's yard now?\" He sounds agitated."
 msgstr ""
+"\"Máš teď na Kunové dvoře záchvat?\" Zní rozrušeně."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -739,6 +792,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078A4"
 msgid "\"The fuck are you talking about? Cuno doesn't know what-handed gimps they were.\""
 msgstr ""
+"\"O čem to kurva mluvíš? Kuno neví, co to bylo za pazgřivce.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -747,6 +801,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000079C0"
 msgid "The kid may have something there. He's already come up with an interrogation technique too."
 msgstr ""
+"Ten kluk v té hlavě možná něco má. Už přišel i s technikou výslechu."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -791,6 +846,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007909"
 msgid "\"They're trying to make you feel stupid, Cuno!\""
 msgstr ""
+"\"Chtějí z tebe udělat hlupáka, Kuno!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -799,6 +855,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007911"
 msgid "He loses his cool for a moment and starts yelling. \"The fucking wellll... ?! The fuck are you talking about?! Ask me a normal question, pig!\""
 msgstr ""
+"Na chvíli ztratí klid a začne křičet. \"Ta zasraná studna... ?! O čem to kurva mluvíš?! Zeptej se mě na něco normálního, prase!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -816,6 +873,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000976B"
 msgid "\"That ladder yours?\""
 msgstr ""
+"\"Ten žebřík je tvůj?\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -869,6 +927,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000076A5"
 msgid "\"Get the fuck out of here, pig! Cuno doesn't have a magic tree house!\""
 msgstr ""
+"\"Vypadni odsud, prase! Kuno nemá kouzelný domek na stromě!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -877,6 +936,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000077C2"
 msgid "Yes, it was probably fish. I'm not gonna waste more time asking about it. (Refuse task.)"
 msgstr ""
+"Ano, pravděpodobně to byla ryba. Nebudu ztrácet čas tím, že se na to budu ptát. (Odmítni úkol.)"
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -894,6 +954,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012D4D"
 msgid "\"That's what the f****t gets for trying to split us up, Cuno! NO FUCKING PANTS!\""
 msgstr ""
+"\"To má ten f****t za to, že se nás snaží rozdělit, Kuno! ŽÁDNÝ ZASRANÝ KALHOTY!\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -956,6 +1017,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000077EA"
 msgid "You were expecting relaying this information to him to be more rewarding, right? Telling him you found out she isn't a gardener. You know what you should do, if you want to get rewarded? Drugs. Drugs are more rewarding than work."
 msgstr ""
+"Očekával jsi, že předání této informace mu bude přínosnější, že? Že mu řekneš, že jsi zjistil, že není zahradnice. Víš, co bys měl udělat, pokud chceš být odměněn? Drogy. Drogy jsou větší odměnou než práce."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1009,6 +1071,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000756C"
 msgid "Despite the early spring chill, the boy is wearing short track pants that leave his legs exposed below the knee. They look dynamic."
 msgstr ""
+"Navzdory chladu časného jara má chlapec na sobě krátké tepláky, které mu odhalují nohy pod koleny. Vypadají dynamicky."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1026,6 +1089,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007882"
 msgid "There it is! That strange *feeling* again! As if... there was more than meets the eye about that pile of roofing material."
 msgstr ""
+"Tady je! Zase ten divný pocit! Jako by... v té hromadě střešní krytiny bylo něco víc, než se na první pohled zdá."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1034,6 +1098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000078DC"
 msgid "\"Kim, I think I'm *already* in the Star Chamber.\""
 msgstr ""
+"\"Kime, myslím, že *už* jsem ve Hvězdné komnatě.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1060,6 +1125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000767B"
 msgid "Cuno knows the ladder is unclimbable."
 msgstr ""
+"Kuno ví, že žebřík je neschůdný."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1068,6 +1134,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000797D"
 msgid "The lieutenant turns to see where you are pointing. He looks interested."
 msgstr ""
+"Poručík se otočí, aby viděl, kam ukazuješ. Vypadá, že ho to zajímá."
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1094,6 +1161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007503"
 msgid "\"We need the money, C! Cuno knows what he's doing.\" He turns to you. \"Right when this body-shit is discussed Cuno will sell 'em to you.\""
 msgstr ""
+"\"Potřebujeme peníze, K! Kuno ví, co dělá.\" Otočí se k tobě. \"Hned, jak se probere tohle posrané tělo, Kuno ti je prodá.\""
 
 #. Title = YARD / CUNO SCENE
 #. Description = * Ask Cuno about the yard.
@@ -1102,3 +1170,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000789B"
 msgid "\"Yes, yes... some shit gimps left behind. Were those gimps...\" (Suddenly raise your eyes.) \"...left-handed?\""
 msgstr ""
+"\"Ano, ano... nějaké sračky, co tam nechali ti pazgřivci. Byli ti pazgřivci...\" (Náhle zvedne oči.) \"...leváci?\""
