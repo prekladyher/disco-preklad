@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005D04"
 msgid "Uh-huh, great. I somehow doubt old coffee is how the police solve investigations."
 msgstr ""
+"Jo, jo, skvělý. Pochybuji, že policie řeší případy pomocí starého kafe."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CE5"
 msgid "A clue about the person behind all the murders."
 msgstr ""
+"Vodítko k osobě za všemi těmi vraždami."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005D18"
 msgid "If you can't trust your own eyes, who can you trust..."
 msgstr ""
+"Pokud nemůžeš věřit vlastním očím, tka čemu..."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CC9"
 msgid "If you squint your eyes enough the coffee grounds almost seem to make up two letters: F... and K."
 msgstr ""
+"Když přimhouříš oči, zdá se, že kávová sedlina tvoří téměř dvě písmena: Č... a K."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000022E9"
 msgid "You snatch up the red plastic card. It features a black contour of a crane lifting a container. The name 'Etienne Hogarth' is written in the middle, below it in smaller text: 'Member of the board'. It comes with a magnetic strip -- meant to open electronic doors."
 msgstr ""
+"Vezmeš si červenou plastovou kartu. Je na ní černý obrys jeřábu zvedajícího kontejner. Uprostřed je napsáno jméno \"Etiene Hogár\" a pod ním menším písmem: \"Člen představenstva\". Je opatřena magnetickým proužkem - určeným k otevírání elektronických dveří."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CDE"
 msgid "A clue of what?"
 msgstr ""
+"Stopa k čemu?"
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002179"
 msgid "Pick up the card."
 msgstr ""
+"Zvedni kartu."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000217E"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005C90"
 msgid "Look into one of the old coffee cups."
 msgstr ""
+"Nahlédni do jednoho kelímku na kávu."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CD6"
 msgid "It's a clue!"
 msgstr ""
+"Je to vodítko!"
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CA8"
 msgid "What am I supposed to see here?"
 msgstr ""
+"Co mám jako vidět?"
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CFA"
 msgid "It's meaningful, I *swear*! You just wait... I've got the case nearly busted wide open."
 msgstr ""
+"Dává to smysl, *přísahám*! Jen počkej... Mám případ skoro rozlousknutý."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CC2"
 msgid "Look closer!"
 msgstr ""
+"Podívej se blíž!"
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CAE"
 msgid "Huh, okay. Thanks, this certainly wasn't a waste of time."
 msgstr ""
+"Hm, dík. Tohle rozhodně nebyla ztráta času."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CB5"
 msgid "You throw the cup back into the trash bin."
 msgstr ""
+"Hodíš kelímek zpět do odpadu."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005D28"
 msgid "You would be correct."
 msgstr ""
+"Měl bys pravdu."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005D3A"
 msgid "If you can't trust your own eyes, who can you trust? Certainly not Kim. He's so... suspicious."
 msgstr ""
+"Pokud nemůžeš věřit vlastním očím, tak čemu? Rozhodně ne Kimovi. Je tak... podezřelý."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002173"
 msgid "A large table with two huge vacuum-insulated thermal coffee dispensers. Someone has forgotten a small plastic card next to the stacks of cups."
 msgstr ""
+"Velký stůl se dvěma obrovskými vakuově izolovanými termálními zásobníky na kávu. Vedle hromady kelímků někdo zapomněl malou plastovou kartičku."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005D0B"
 msgid "It *is* a sign! Just like a remote viewer would operate. Signs hidden inside the mundane..."
 msgstr ""
+"*Je* to znamení! Přesně jak by měl pracovat pozorovatel vzdáleného. Vodítka skrytá ve všednosti..."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CA1"
 msgid "You see nothing exceptional. It's a dirty cup, smudged brown, with old ground coffee stuck to the bottom... slowly getting mouldy."
 msgstr ""
+"Nevidíte nic výjimečného. Je to špinavý kelímek, hnědý, se starou mletou kávou přilepenou na dně... která pomalu plesniví."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005CD0"
 msgid "Yeah. Of course. It's certainly not just an example of *paréidolie*, noticing patterns in noise. Worth it."
 msgstr ""
+"Jo. Samozřejmě. Rozhodně to není jen příklad *paréidolie*, všímání si vzorců v šumu. Stojí to za to."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005D11"
 msgid "You got it, pal. I would *never* make such a thing up."
 msgstr ""
+"Zvládáš to, kámo. *Nikdy* bych si nic takového nevymyslel."
 
 #. Title = EVRART / COFFEE TABLE
 #. Description = a quick table interaction where you find a different key card to get out of the harbour at night.
@@ -164,3 +193,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005C95"
 msgid "Peer into a discarded coffee cup!"
 msgstr ""
+"Nahlédněte do vyhozeného kelímku na kávu!"
