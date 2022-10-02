@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009B2D"
 msgid "This trash container is locked. The sliding lid has a padlock that says \"Whirling-in-Rags.\""
 msgstr ""
+"Tento kontejner na odpadky je uzamčený. Na posuvném víku je visací zámek s nápisem \"V-Cárech-vířící\"."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -147,6 +155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000720"
 msgid "Unsatisfying. Hurtful. You hear a ringing sound, but not quite hollow. The can seems to be full..."
 msgstr ""
+"Neuspokojivé. Zraňující. Slyšíš řinčivý zvuk, ale ne zcela dutý. Plechovka se zdá být plná..."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -211,6 +220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C4C3"
 msgid "\"Yes, I *feel* like there's something in there.\""
 msgstr ""
+"\"Ano, *cítím*, že tam něco je.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -315,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000716"
 msgid "He's enjoying your little failure. He finds it amusing, he's revelling in the sweaty rage on your face."
 msgstr ""
+"Těší se z tvého malého selhání. Připadá mu to zábavné, libuje si ve zpoceném vzteku na tvé tváři."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -364,6 +375,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C421"
 msgid "\"I'm so disappointed right now. I thought there was a Remote Viewers Division.\""
 msgstr ""
+"\"Jsem teď tak zklamaný. Myslel jsem, že Oddělení pozorovatelů vzdáleného existuje.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -388,6 +400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700003E41"
 msgid "There's something in there. Not necessarily connected to the case -- but still..."
 msgstr ""
+"Něco tam uvnitř je. Nemusí to nutně souviset s případem, ale přesto..."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -444,6 +457,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C3FD"
 msgid "\"What do you mean *feel*?\""
 msgstr ""
+"\"Jak to myslíte, *cítím*?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -452,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C432"
 msgid "\"All the detectives from all the Precincts who experience extrasensory perception go to the Remote Viewers Division. Their work is invaluable to the force.\""
 msgstr ""
+"\"Všichni detektivové ze všech okrsků, kteří mají zkušenosti s mimosmyslovým vnímáním, chodí na Oddělení pozorovatelů vzdáleného. Jejich práce je pro policii neocenitelná.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -460,6 +475,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C54D"
 msgid "\"How do we get the lock open?\""
 msgstr ""
+"\"Jak otevřeme zámek?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -484,6 +500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001073"
 msgid "\"We could try using a prybar -- the one you took from my motor carriage. Or...\""
 msgstr ""
+"\"Mohli bychom zkusit použít páčidlo - to, které vzal vzal z mého motorového vozu. Nebo...\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -557,6 +574,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C3F1"
 msgid "\"No, because they don't exist.\""
 msgstr ""
+"\"Ne, protože neexistují.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -565,6 +583,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C4C9"
 msgid "Why am I looking at you, trash container? You're just a trash container."
 msgstr ""
+"Proč se na tebe dívám, kontejnere na odpadky? Jsi jen kontejner na odpadky."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -717,6 +736,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C5AB"
 msgid "\"No *or*. Prybar!\""
 msgstr ""
+"\"Žádné *nebo*. Páčidlo!\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -741,6 +761,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006BB"
 msgid "Force time isn't happening. You've jammed the prybar under the lid but it just isn't bending."
 msgstr ""
+"Čas síly se nekoná. Zasekl jsi páčidlo pod víko, ale to se prostě nehne."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -838,6 +859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C415"
 msgid "\"There isn't -- but we should still access this container.\""
 msgstr ""
+"\"Není, ale i tak bychom se měli dostat do toho kontejneru.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -846,6 +868,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C46A"
 msgid "The body is downwind from here. Maybe you prefer the smell of garbage to the smell of death?"
 msgstr ""
+"Tělo je odtud po větru. Možná dáváš přednost pachu odpadků před pachem smrti?"
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -862,6 +885,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009B66"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -950,6 +974,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006E2"
 msgid "Kick the container."
 msgstr ""
+"Nakopni kontejner."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -958,6 +983,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006FB"
 msgid "\"The quality of metal is not the problem. From what I see, it's sturdy enough.\""
 msgstr ""
+"\"Kvalita kovu není problém. Podle toho, co vidím, je dostatečně pevný.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1078,6 +1104,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C4A1"
 msgid "Keep the hunch to yourself."
 msgstr ""
+"Nechte si to tušení pro sebe."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1262,6 +1289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C4B9"
 msgid "\"Trash? Food waste from the cafeteria? They lock these containers to keep the derelicts from flocking in. Could be evidence too.\""
 msgstr ""
+"\"Odpadky? Odpad z jídelny hostelu? Tyhle kontejnery zamykají, aby se do nich nehrnuli bezdomovci. Mohl by to být i důkaz.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1278,6 +1306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000818"
 msgid "\"Another time maybe.\" [Leave.]"
 msgstr ""
+"\"Možná někdy jindy.\" [Odejdi.]"
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1358,6 +1387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C464"
 msgid "\"There is no Remote Viewers Division, is there?\""
 msgstr ""
+"\"Žádné Oddělení pozorovatelů vzdáleného neexistuje, že ne?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1398,6 +1428,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006EE"
 msgid "\"That's it, I can't pry it open.\""
 msgstr ""
+"\"A je to, nemůžu to vypáčit.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1486,6 +1517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C3F7"
 msgid "\"Wow! Could we get them here?\""
 msgstr ""
+"\"Páni! Mohli bychom je dostat sem?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1502,6 +1534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C56B"
 msgid "\"Or we could ask for a key from the manager of the Whirling-in-Rags. He probably has one.\""
 msgstr ""
+"\"Nebo si můžeme vyžádat klíč od manažera V-Cárech-vířící. Nejspíš nějaký má.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1534,6 +1567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000069E"
 msgid "Force time -- jam the tool under the lid and pull!"
 msgstr ""
+"Čas síly - zasuň nástroj pod víko a zapač!"
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1550,6 +1584,7 @@ msgstr ""
 msgctxt "tooltip2/0x010000450000069E"
 msgid "Tool not equipped."
 msgstr ""
+"Nástroj není vybaven."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1663,6 +1698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C438"
 msgid "\"What is the Remote Viewers Division?\""
 msgstr ""
+"\"Co je to Oddělení pozorovatelů vzdáleného?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1847,6 +1883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C3DB"
 msgid "\"I agree. We should get someone from the Remote Viewers Division here.\""
 msgstr ""
+"\"Souhlasím. Měli bychom sem zavolat někoho z Oddělení pozorovatelů vzdáleného.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -1936,6 +1973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000729"
 msgid "*Full* of itself. Content, happy you failed. This snickering trash container is having a grand old time."
 msgstr ""
+"*Plný* sám sebe. Spokojený, šťastný, že jsi neuspěl. Tenhle hihňající se kontejner na odpadky si to náramně užívá."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2016,6 +2054,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000734"
 msgid "There's a creaking sound as the prybar slips under the lid. You hang from it, like a moron, huffing and puffing. Clearly the technique is wrong -- but nothing else comes to mind."
 msgstr ""
+"Ozve se skřípavý zvuk, jak páčidlo vklouzne pod víko. Visíš na něm jako blbec, funíš a fučíš. Technika je zjevně špatná - ale nic jiného tě nenapadá."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2104,6 +2143,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C485"
 msgid "\"Lieutenant, what do you think could be in there?\""
 msgstr ""
+"\"Poručíku, co myslíte, že by tam mohlo být?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2152,6 +2192,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006D4"
 msgid "WHAT IS THIS? Your triceps ache for the metal to bend, but it resists... this calls for a potent curse to help break it's resistance. Utter the POWER WORDS!"
 msgstr ""
+"CO JE TO? Tvé tricepsy touží ohnout kov, ale ten se brání... to si žádá silnou kletbu, která pomůže zlomit jeho odpor. Vyslov MOCNÁ SLOVA!"
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2160,6 +2201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006E8"
 msgid "Hang from the prybar with all your weight."
 msgstr ""
+"Zavěs se na páčidlo celou svou vahou."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2176,6 +2218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000079D"
 msgid "\"Let's ask the manager for the key, this is clearly not working.\""
 msgstr ""
+"\"Požádáme manažera o klíč, tohle zjevně nefunguje.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2304,6 +2347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C4B3"
 msgid "\"It's extrasensory perception. Whatever is in there holds a special *significance*.\""
 msgstr ""
+"\"Je to mimosmyslové vnímání. Cokoli v něm je, má zvláštní *význam*.\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2312,6 +2356,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C5B7"
 msgid "\"*Or*, lieutenant?\""
 msgstr ""
+"\"*Nebo*, poručíku?\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2336,6 +2381,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000006DC"
 msgid "\"The FUCK kind of metal is this, this is fucking SHIT!\""
 msgstr ""
+"\"Co je tohle KURVA za kov, tohle je kurva HOVNO!\""
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
@@ -2408,6 +2454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001C3CF"
 msgid "He's being sarcastic. Do *not* ask what the Remote Viewers Division is."
 msgstr ""
+"Je sarkastický. Neptej se, co Oddělení pozorovatelů vzdáleného."
 
 #. Title = YARD / TRASH
 #. Description = You can click on the trash container. This lets you see the padlock has a Whirling-in-Rags logo on it -> go to Garte -> ask for key -> open container - > get your paperwork
