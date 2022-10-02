@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -19,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003E59"
 msgid "The door stands silent, unmoved by your words. You still feel like you should look into it if you get the chance..."
 msgstr ""
+"Dveře mlčky stojí, tvá slova se jich nedotýkají. Přesto máš pocit, že by ses do nich měl podívat, pokud budeš mít příležitost..."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -277,6 +285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003E0E"
 msgid "The door stands silent, unmoved by your words."
 msgstr ""
+"Dveře mlčky stojí, tvá slova se jich nedotýkají."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -376,6 +385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003E08"
 msgid "\"I'll be back, door. Mark my words.\" [Leave.]"
 msgstr ""
+"\"Vrátím se, dveře. Pamatujte si má slova.\" [Odejdi.]"
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
@@ -393,6 +403,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001970E"
 msgid "You immediately feel *drawn* to the colour. Blue is for mystery."
 msgstr ""
+"Ta barva tě okamžitě *přitáhne*. Modrá je barva tajemství."
 
 #. Title = WHIRLING F1 / STEEL DOOR
 #. Description = The steel door in the back of the kitchen. Leads to the storage area with the elevator.
