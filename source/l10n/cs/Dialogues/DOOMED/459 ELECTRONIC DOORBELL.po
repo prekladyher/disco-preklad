@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -19,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCA1"
 msgid "\"Main Hall, Building A.\""
 msgstr ""
+"\"Hlavní hala, budova A.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCBD"
 msgid "\"REVACHOL ICE CITY.\""
 msgstr ""
+"\"REVACHOL MĚSTO LEDU.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -51,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E1F1"
 msgid "\"...but the doorbell is broken and the bookstore shouldn't even be on the list anymore, so I can't help you. Please don't call here again. Thanks.\""
 msgstr ""
+"\"...ale domovní telefon je rozbitý a knihkupectví by už nemělo být ani na seznamu, takže vám nemohu pomoci. Prosím, už sem nevolejte. Děkuji.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -83,6 +93,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000F74"
 msgid "\"I don't know what happened either.\" The lieutenant inspects the doorbell. \"We should probably stop playing with this thing.\""
 msgstr ""
+"\"Taky nevím, co se stalo.\" Poručík si prohlíží zvonky. \"Asi bychom si s tím měli přestat hrát.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -107,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200002084"
 msgid "\"It's so nice to be able to finally forget about you.\""
 msgstr ""
+"\"Je to tak příjemné, že na tebe můžu konečně zapomenout.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -123,6 +135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DEA7"
 msgid "An off-key melody starts playing after you ring the doorbell... Then a woman picks up the receiver..."
 msgstr ""
+"Po zazvonění začne hrát falešná melodie... Pak zvedne sluchátko žena..."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -131,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DFB2"
 msgid "Nothing happens after you ring the doorbell... They don't want to talk to you."
 msgstr ""
+"Po zazvonění se nic neděje... Nechtějí s tebou mluvit."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -147,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000920000012D"
 msgid "You hear the same waiting room music, but no one picks up the receiver anymore..."
 msgstr ""
+"Slyšíš stejnou melodii, ale nikdo už nezvedá sluchátko..."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -155,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C64"
 msgid "\"Have you come to place an order?\""
 msgstr ""
+"\"Přišli jste si něco objednat?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -163,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D0D"
 msgid "\"Forget about what?\""
 msgstr ""
+"\"Zapomenout na co?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -171,6 +188,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D34"
 msgid "She doesn't answer."
 msgstr ""
+"Neodpovídá."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -179,6 +197,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D66"
 msgid "You press the number sign on the keypad that terminates the call. Twelve name cards on the call box read:"
 msgstr ""
+"Stisknutím číselného znaku na klávesnici hovor ukončíš. Dvanáct jmenovek na domovním telefonu zní:"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -219,6 +238,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DEE2"
 msgid "Looks like someone has melted half the plastic off with a lighter -- the doorbell doesn't work anymore."
 msgstr ""
+"Vypadá to, jako by někdo zapalovačem roztavil polovinu plastu - zvonek už nefunguje."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -251,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C50"
 msgid "\"Yes, hello, this is Tricentennial Electrics.\" This is a woman's voice, crackling and fragile through the static."
 msgstr ""
+"\"Ano, dobrý den, tady Tricenteniální elektronika.\" Přes statickou elektřinu se ozve křehký ženský hlas."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -275,6 +296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00086E96"
 msgid "\"Plaisance, it's me! Please open the door, I'm trying to get in.\""
 msgstr ""
+"\"Plaisance, to jsem já! Prosím, otevřete dveře, chci se dostat dovnitř.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -283,6 +305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D2C"
 msgid "Hang up the call."
 msgstr ""
+"Zruš hovor."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -339,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCC9"
 msgid "\"East Delta Pinball (Entrance from building B).\""
 msgstr ""
+"\"Pinball Východní delta (vchod z budovy B).\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -371,6 +395,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000FEF"
 msgid "\"My god...\""
 msgstr ""
+"\"Můj bože...\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -411,6 +436,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCAD"
 msgid "\"Emma's Fashion Atelier.\""
 msgstr ""
+"\"Módní ateliér Ema.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -419,6 +445,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCD9"
 msgid "\"ARTEMITEP's Boxing for Young Athletes & Gym.\""
 msgstr ""
+"\"ARTEMITEP - Box pro mladé atlety & tělocvična.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -427,6 +454,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002B0007CCD9"
 msgid "\"ARTEMITEP's Boxing for...\" (The rest is destroyed.)"
 msgstr ""
+"\"ARTEMITEP - Box pro...\" (Zbytek je zničený.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -435,6 +463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DEA1"
 msgid "You wait for a minute or two, but all you get from the call box is silence -- no one answers the call."
 msgstr ""
+"Čekáš minutu nebo dvě, ale z reproduktoru se ozývá jen ticho - nikdo neodpovídá na volání."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -443,6 +472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DEBA"
 msgid "\"Cuno! Please stop calling here! Grown-ups don't have time for your stupid games.\""
 msgstr ""
+"\"Kuno! Prosím, přestaň sem volat! Dospělí nemají čas na tvoje hloupé hry.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -459,6 +489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CA8"
 msgid "No, something's wrong here... are you sure she's talking to *you*?"
 msgstr ""
+"Ne, něco tu nehraje... jsi si jistý, že mluví s *tebou*?"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -467,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CD8"
 msgid "\"Why did you even call? I don't understand... You've been gone for months.\" She sounds like she's shaking. \"I thought you didn't care.\""
 msgstr ""
+"\"Proč jsi vůbec volal? Nerozumím tomu... Byl jsi pryč celé měsíce.\" Zní to, jako by se třásla. \"Myslela jsem, že je ti to jedno.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -491,6 +523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCE7"
 msgid "\"Slipstream SCA.\""
 msgstr ""
+"\"Aerodynamik k. s.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -515,6 +548,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000235EE"
 msgid "\"Hello? Is anyone there?\""
 msgstr ""
+"\"Haló? Je tam někdo?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -523,6 +557,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D26"
 msgid "\"Hello?\""
 msgstr ""
+"\"Haló?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -531,6 +566,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D4C"
 msgid "\"Oh god, please don't cry.\""
 msgstr ""
+"\"Bože, prosím, neplač.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -539,6 +575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D71"
 msgid "The lieutenant exchanges a look with you."
 msgstr ""
+"Poručík si s tebou vymění pohled."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -547,6 +584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000F3E"
 msgid "A spot of static overrides her words; when she speaks again it sounds like she's submerged:"
 msgstr ""
+"Její slova překryje statická elektřina; když znovu promluví, zní to, jako by byla pod vodou:"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -555,6 +593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000F4F"
 msgid "\"What just happened?\""
 msgstr ""
+"\"Co se to právě stalo?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -563,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000F64"
 msgid "Another seagull passes by... It's getting cold standing here, staring at the silent call box."
 msgstr ""
+"Kolem proletí další racek... Začíná ti být zima, jak tu stojíš a zíráš na tichý interkom."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -571,6 +611,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DE95"
 msgid "All you hear is static, but no one answers the call."
 msgstr ""
+"Slyšíš jen statickou elektřinu, a nikdo neodpovídá na volání."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -627,6 +668,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00085C58"
 msgid "\"Yes, hello, can you let me inside the building please?\""
 msgstr ""
+"\"Ano, dobrý den, můžete mě pustit dovnitř budovy, prosím?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -643,6 +685,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CAF"
 msgid "\"Do we know each other?\""
 msgstr ""
+"\"My se známe?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -651,6 +694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D3C"
 msgid "The cold is deep under your skin, as if you were talking to someone who's a hundred years away. Somewhere inside the building water is flooding the cellar floor."
 msgstr ""
+"Chlad se ti dostane hluboko pod kůži, jako bys mluvil s někým, kdo je vzdálený sto let. Někde uvnitř budovy voda zaplavuje podlahu sklepa."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -659,6 +703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D9B"
 msgid "Silence. The only thing you can hear now is static and waves, washing ashore on the bay."
 msgstr ""
+"Ticho. Jediné, co je teď slyšet, je statická elektřina a vlny, které omývají břehy zálivu."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -667,6 +712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000920000206F"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -691,6 +737,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C93"
 msgid "It's a woman and she knows you! Your heart beats faster."
 msgstr ""
+"Je to žena a zná tě! Srdce se ti rozbuší rychleji."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -699,6 +746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CEC"
 msgid "\"Hold on, tell me what's going on. What did I do?\""
 msgstr ""
+"\"Počkej, řekni mi, co se děje. Co jsem udělal?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -707,6 +755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200001056"
 msgid "\"Ever since I came to work here it's been different...\""
 msgstr ""
+"\"Od chvíle, kdy jsem sem přišla pracovat, je to tu jiné...\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -715,6 +764,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCE0"
 msgid "\"Fabron's Taxi...\" (The rest has been burned off.)"
 msgstr ""
+"\"Fabronova taxi...\" (Zbytek je vypálen.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -723,6 +773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DF9B"
 msgid "Silence. No one answers the doorbell."
 msgstr ""
+"Ticho. Nikdo neodpovídá zvonek."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -731,6 +782,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E1B4"
 msgid "\"Who's Cuno? This is the police, please open the door.\""
 msgstr ""
+"\"Kdo je Kuno? Tady policie, otevřete, prosím, dveře.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -763,6 +815,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000920000205F"
 msgid "\"My god, I didn't think I would hear your voice again.\""
 msgstr ""
+"\"Můj bože, nemyslela jsem si, že ještě někdy uslyším tvůj hlas.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -779,6 +832,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCC3"
 msgid "\"Main hall, building B: WHIRLING-IN-RAGS.\""
 msgstr ""
+"\"Hlavní hala, budova B: V-CÁRECH-VÍŘÍCÍ.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -787,6 +841,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E053"
 msgid "(Empty card.)"
 msgstr ""
+"(Prázdná jmenovka.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -803,6 +858,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E1C6"
 msgid "\"This is the police, please open the door.\""
 msgstr ""
+"\"Tady policie, otevřete, prosím, dveře.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -859,6 +915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200001036"
 msgid "\"Why did you even call? I don't understand... You've been gone for months,\" she continues. \"I thought you didn't care.\""
 msgstr ""
+"\"Proč jsi vůbec volal? Nerozumím tomu... Byl jsi pryč celé měsíce,\" pokračuje. \"Myslela jsem, že je ti to jedno.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -883,6 +940,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200002036"
 msgid "\"It's so nice to be able to finally forget.\""
 msgstr ""
+"\"Je tak příjemné konečně zapomenout.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -899,6 +957,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DFAC"
 msgid "Silence. No one answers your call."
 msgstr ""
+"Ticho. Nikdo neodpovídá na tvé volání."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -923,6 +982,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C8C"
 msgid "\"It's you. My god, I didn't think I would hear your voice again...\""
 msgstr ""
+"\"To jsi ty. Můj bože, nemyslela jsem si, že ještě někdy uslyším tvůj hlas...\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1019,6 +1079,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E20F"
 msgid "A single beep indicates that the line has gone dead."
 msgstr ""
+"Jediné pípnutí signalizuje, že linka byla přerušena."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1027,6 +1088,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081D3A"
 msgid "\"Hmm... this button looks new. It's probably not connected yet.\" He takes a step back, inspecting the other names on the list."
 msgstr ""
+"\"Hmm... tohle tlačítko vypadá nově. Pravděpodobně ještě není připojené.\" Udělá krok zpět a prohlíží si další jména na seznamu."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1043,6 +1105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000120"
 msgid "\"This is the police, I need you to let me in because I heard there's a fridge in the cellar.\""
 msgstr ""
+"\"Tady policie, potřebuju, abyste mě pustili dovnitř, protože jsem slyšel, že ve sklepě je lednička.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1051,6 +1114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000F45"
 msgid "\"...It's so nice.\""
 msgstr ""
+"\"...Je to tak příjemné.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1075,6 +1139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00085B97"
 msgid "Just seeing the words \"Andro-Orlando\" gets your hackles up. It's very existence is a *threat* to your masculinity, to say nothing of your hair."
 msgstr ""
+"Už jen když se podíváš na ta slova, \"Andro-Orlando\", zvedne se ti žaludek. Už samotná jejich existence je *ohrožením* tvé mužnosti, o tvých vlasech nemluvě."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1107,6 +1172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000FBA"
 msgid "\"Yes, hello, this is Tricentennial Electrics.\" It's the same voice you heard before. \"Have you come to place an order?\""
 msgstr ""
+"\"Ano, dobrý den, tady Tricenteniální elektronika.\" Je to stejný hlas, který jsi slyšel předtím. \"Přišli jste zadat objednávku?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1123,6 +1189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200001097"
 msgid "(Hang up the call.)"
 msgstr ""
+"(Zruš hovor.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1156,6 +1223,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DECD"
 msgid "You ring the doorbell, but nothing happens."
 msgstr ""
+"Zvoníš, ale nic se neděje."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1164,6 +1232,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DEFE"
 msgid "\"Andro-Orlando Hair SCA.\""
 msgstr ""
+"\"Kadeřnictví Andro-Orlando k.s.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1204,6 +1273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00085C52"
 msgid "\"Hold on, Tricentennial Electrics? I thought I was calling Slipstream SCA.\""
 msgstr ""
+"\"Počkejte,  Tricenteniální elektronika? Myslel jsem, že volám Aerodynamik k. s.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1212,6 +1282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00085D2A"
 msgid "\"Slipstream SCA.\""
 msgstr ""
+"\"Aerodynamik k. s.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1228,6 +1299,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100002B00085D2A"
 msgid "Slipstream SCA."
 msgstr ""
+"Aerodynamik k. s."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1268,6 +1340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CD1"
 msgid "Sounds like a ghost. Wind blows through your clothes and you feel detached from your surroundings. Inside the building -- a cold memory hangs."
 msgstr ""
+"Zní to jako duch. Vítr ti profukuje skrz oblečení a ty se cítíš odtržen od okolí. Uvnitř budovy - visí chladná vzpomínka."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1276,6 +1349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CF2"
 msgid "She sounds like she's about to cry."
 msgstr ""
+"Zní to, jako by se chtěla rozplakat."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1284,6 +1358,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000DA1"
 msgid "\"Alright, it's a good-bye then.\" (Hang up the call.)"
 msgstr ""
+"\"Dobře, tak tedy sbohem.\" (Zruš hovor.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1308,6 +1383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000920000207D"
 msgid "\"It's so nice.\""
 msgstr ""
+"\"Je to tak příjemné.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1316,6 +1392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018DEB"
 msgid "Another seagull passes by... It's getting cold standing here, staring at the silent call box."
 msgstr ""
+"Kolem proletí další racek... Začíná ti být zima, jak tu stojíš a zíráš na tichý interkom."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1324,6 +1401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018E70"
 msgid "(Just hang up the call.)"
 msgstr ""
+"(Prostě zruš hovor.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1332,6 +1410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F00000561"
 msgid "\"Hmm... this button looks new. I wouldn't be surprised if it hasn't been connected yet. Is it the dicemaker's?\" He takes a step back, inspecting the other names on the list."
 msgstr ""
+"\"Hmm... tohle tlačítko vypadá nově. Nedivil bych se, kdyby ještě nebylo připojeno. Patří kostkařce?\" Udělá krok zpět a prohlíží si další jména na seznamu."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1348,6 +1427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005B5C9"
 msgid "An old call box with a matrix of push buttons lists all the companies in the East Delta Commerce Centre."
 msgstr ""
+"Starý domovní telefon s tabulkou tlačítek obsahuje seznam všech firem v obchodním centru Východní delta."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1356,6 +1436,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCA7"
 msgid "\"24h Window.\""
 msgstr ""
+"\"Okna 24h.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1364,6 +1445,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E058"
 msgid "This button looks new, but someone has removed the name card. Nothing happens when you try to ring it."
 msgstr ""
+"Toto tlačítko vypadá jako nové, ale někdo z něj odstranil jmenovku. Při pokusu o zazvonění se nic nestane."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1372,6 +1454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E06C"
 msgid "You ring the doorbell, but no one answers."
 msgstr ""
+"Zvoníš, ale nikdo neodpovídá."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1388,6 +1471,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00085EF0"
 msgid "\"In any case, I'm afraid you won't get any help here.\" He looks up to the towering ghost house. \"This place is deserted.\""
 msgstr ""
+"\"Každopádně se obávám, že tady vám nikdo nepomůže.\" Podívá se na tyčící se dům duchů. \"Tohle místo je opuštěné.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1404,6 +1488,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000235D9"
 msgid "You hear static from the intercom speaker. It sounds as if someone has picked up the receiver, but isn't saying anything."
 msgstr ""
+"Z reproduktoru interkomu se ozve statická elektřina. Zní to, jako by někdo zvedl sluchátko, ale nic neříká."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1412,6 +1497,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C6E"
 msgid "\"Who is this? I've been inside this building, but I didn't see anyone from Tricentennial Electrics. This place is deserted.\""
 msgstr ""
+"\"Kdo je to? Byl jsem v uvnitř téhle budovy, ale nikoho z Tricenteniální elektroniky jsem neviděl. Je to tu opuštěné.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1420,6 +1506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CC8"
 msgid "\"Michel, just please...\" She stops and you can hear her breathe heavily. Her breath distorted by ancient static."
 msgstr ""
+"\"Micheli, prosím tě...\" Zmlkne a je slyšet, jak ztěžka dýchá. Její dech zkresluje prastará statická elektřina."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1428,6 +1515,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D93"
 msgid "\"You said it was nice. What's so nice about forgetting?\""
 msgstr ""
+"\"Říkala jsi, že je to příjemné. Co je tak příjemného na zapomínání?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1436,6 +1524,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000F56"
 msgid "\"Fuck!\" (Hang up the call.)"
 msgstr ""
+"\"Kurva!\" (Zruš hovor.)"
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1516,6 +1605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007CCEE"
 msgid "\"Fortress Accident SCA.\""
 msgstr ""
+"\"Pevnost katastrof k. s.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1524,6 +1614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007DE9B"
 msgid "Silence. No one's home at Fortress Accident."
 msgstr ""
+"Ticho. V Pevnosti katastrof není nikdo doma."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1556,6 +1647,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0007E1DD"
 msgid "\"Oh, I'm sorry, officer, I thought you were...\" There's a spot of static that overrides her words."
 msgstr ""
+"\"Ach, promiňte, detektive, myslela jsem, že jste...\" Její slova přehluší praskání statické elektřiny."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1572,6 +1664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00081D99"
 msgid "\"Kim, what's Revachol Ice City?\""
 msgstr ""
+"\"Kime, co je to Revachol město ledu?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1588,6 +1681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00085D36"
 msgid "No, hold on. The last thing you need in your life is more hysteric emotions. Forget it. Find something else to do."
 msgstr ""
+"Ne, počkej. Poslední věc, kterou ve svém životě potřebuješ, jsou další hysterické emoce. Zapomeň na to. Najdi si něco jiného na práci."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1596,6 +1690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C74"
 msgid "(Lie.) \"Yes, I've come to place an order.\""
 msgstr ""
+"(Lži.) \"Ano, přišel jsem si objednat.\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1604,6 +1699,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000CFD"
 msgid "\"Ever since I came to work here it's been different... as if my mind's been wiped clean...\""
 msgstr ""
+"\"Od chvíle, kdy jsem sem přišla pracovat, je to jiné... jako by mi někdo vymazal paměť...\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1652,6 +1748,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000235F4"
 msgid "Hang up the call."
 msgstr ""
+"Zruš hovor."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1660,6 +1757,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023606"
 msgid "\"My god...\""
 msgstr ""
+"\"Můj bože...\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1668,6 +1766,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000C85"
 msgid "\"Sorry?\""
 msgstr ""
+"\"Promiňte?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1676,6 +1775,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200000D8D"
 msgid "\"Hey, are you still there?\""
 msgstr ""
+"\"Hej, jsi tam ještě?\""
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
@@ -1708,6 +1808,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200001030"
 msgid "\"Michel, just please...\" Even her breathing, the way her voice drops when she finishes the sentence sounds exactly the same."
 msgstr ""
+"\"Micheli, prosím tě...\" Dokonce i její dech, způsob, jakým klesá hlas, když dokončuje větu, zní úplně stejně."
 
 #. Title = DOOMED / ELECTRONIC DOORBELL
 #. Description = This is a doorbell intercom that lets you call up all the failed businesses in the Doomed Commercial Area.
