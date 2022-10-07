@@ -1773,7 +1773,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="marietti">
-        <descrip type="definition">[aA] styl hudby v Mesce</descrip>
+        <descrip type="definition">[OK] [aA] styl hudby v Mesce</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>marietti</term>
@@ -1781,7 +1781,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>mariachi</term>
+            <term>marietti</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2679,6 +2679,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>seržant Mason</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="SCA">
+        <descrip type="definition">komerční zkratka - komanditní společnost</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>SCA</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>k. s.</term>
           </tig>
         </langSet>
       </termEntry>
