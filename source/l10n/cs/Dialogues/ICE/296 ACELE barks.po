@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A6E9"
 msgid "*teeth clattering*"
 msgstr ""
+"*klepání zubů*"
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A44F"
 msgid "\"It's creaking really loud.\""
 msgstr ""
+"\"Opravdu hlasitě to tu vrže.\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A703"
 msgid "\"This place must have a mind of its own...\""
 msgstr ""
+"\"Tohle místo musí mít vlastní úmysly...\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A45D"
 msgid "\"Damn it's cold outside...\""
 msgstr ""
+"\"Sakra to je venku ale zima...\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A6F0"
 msgid "\"Much warmer in here.\""
 msgstr ""
+"\"Tady je mnohem tepleji.\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A464"
 msgid "\"Oh, here we go...\""
 msgstr ""
+"\"Ach, jdeme na to...\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A455"
 msgid "\"Sounds like it's smiling.\""
 msgstr ""
+"\"Zní to, jako že se *to* usmívá.\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A6FB"
 msgid "\"Beautiful...\""
 msgstr ""
+"\"Nádhera...\""
 
 #. Title = ICE / ACELE barks
 #. Description = Things Acele says, when on ice.

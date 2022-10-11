@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / KIM CHURCH barks
 #. Description = Kim reacts to the church getting shot up by the police a few months ago. Creates question option in Kim Main Dialogue.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CC6D"
 msgid "\"What a shame. Look at all the damage done to the church...\""
 msgstr ""
+"\"Taková škoda. Podívejte na všechnu tu škodu na kostelu...\""
 
 #. Title = ICE / KIM CHURCH barks
 #. Description = Kim reacts to the church getting shot up by the police a few months ago. Creates question option in Kim Main Dialogue.
@@ -17,3 +25,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CAF5"
 msgid "\"Hmm... I heard about the assault after it had already gone down.\""
 msgstr ""
+"\"Hmm... Doslechl jsem se o útoku, až když bylo po něm.\""
