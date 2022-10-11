@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015EA3"
 msgid "Why did I fondle the shit jacket again?"
 msgstr ""
+"Proč jsem se zase mazlil s tou posranou bundou?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001BE2"
 msgid "As you hold it in your hands, it makes an uncomfortable crunching sound..."
 msgstr ""
+"Když ji držíš v rukou, vydává nepříjemný vrzavý zvuk..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000074C"
 msgid "On second thought, let's *do* think about it."
 msgstr ""
+"Když o tom tak přemýšlím, tak se nad tím zamysleme."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007C3"
 msgid "What happened once someone put it on the railing?"
 msgstr ""
+"Co se stalo, když ji někdo položil na zábradlí?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007E4"
 msgid "*SPLAT*. An explosion of white on a man's shoe. A curse goes up, but the birds do not hear."
 msgstr ""
+"*PLESK*. Výbuch bílé barvy na mužské botě. Vzlétne kletba, ale ptáci ji neslyší."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000822"
 msgid "It's probably better that way."
 msgstr ""
+"Je to tak pravděpodobně lepší."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007AC"
 msgid "What? No! Then it'll just be on your *pants*. This is a disaster. You'll never get the smell out."
 msgstr ""
+"Cože? Ne! Pak to budeš mít jen na *kalhotách*. To je katastrofa. Nikdy se toho zápachu nezbavíš."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000744"
 msgid "Good choice. The less you think about the jacket, the better."
 msgstr ""
+"Dobrá volba. Čím méně o bundě přemýšlíš, tím lépe."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000736"
 msgid "It occurs to you that you're not even *holding* the jacket itself, but rather the thick crust of jetsam and seagull shit that ensconces it."
 msgstr ""
+"Napadne tě, že ani *nedržíš* bundu samotnou, ale spíš tlustou krustu z naplavenin a racčího trusu, která ji obaluje."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000813"
 msgid "I feel like I really understand this jacket now. [Put the jacket away.]"
 msgstr ""
+"Mám pocit, že teď té bundě opravdu rozumím. [Odlož bundu.]"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000819"
 msgid "Why did I just spend all this time thinking about seagull shit?"
 msgstr ""
+"Proč jsem právě strávil všechen ten čas přemýšlením o racčích sračkách?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015EA9"
 msgid "There is no why."
 msgstr ""
+"Není žádné proč."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007B3"
 msgid "Somehow it was carried or dragged to the boardwalk, if not by human hands than perhaps the feral dogs that prowl the beaches at night..."
 msgstr ""
+"Nějakým způsobem to na promenádu přinesly nebo přitáhly ne-li lidské ruce, tak možná divocí psi, kteří se v noci potulují po plážích..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C02"
 msgid "Some secrets are better left uncovered. Don't even try, seriously."
 msgstr ""
+"Některá tajemství je lepší nechat neodhalená. Ani se o to nepokoušej, vážně."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000071E"
 msgid "Don't think about it."
 msgstr ""
+"Nepřemýšlej o tom."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007A5"
 msgid "Maybe if I wipe my hands on my pants?"
 msgstr ""
+"Možná když si utřu ruce do kalhot?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000796"
 msgid "Okay, but what's the crust *made* of?"
 msgstr ""
+"Dobře, ale z čeho je ta krusta *vytvořená*?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007FB"
 msgid "Now you're just flicking that shit everywhere! This is a disaster. You'll never get the smell out."
 msgstr ""
+"Teď už to svinsto rozhazuješ prostě všude! To je katastrofa. Nikdy se toho smradu nezbavíš."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000839"
 msgid "Man, how did this jacket get so disgusting?"
 msgstr ""
+"Páni, jak se tahle bunda stala tak nechutnou?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000718"
 msgid "Think about it."
 msgstr ""
+"Přemýšlej o tom."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007D2"
 msgid "They are like the bombardiers of the aerostatic brigades, gliding above a *target-rich environment*..."
 msgstr ""
+"Jsou jako bombometčíci aerostatických brigád, kteří plachtí nad *prostředím bohatým na cíle*..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000790"
 msgid "Gross."
 msgstr ""
+"Hrubý."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007F5"
 msgid "Ew, ew, ew! (Flick your hands.)"
 msgstr ""
+"Fuj, fuj, fuj! (Švihni rukou.)"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007CB"
 msgid "The crust is hard. This jacket spent at least a day baking in the sun. Who knows what happened to it then?"
 msgstr ""
+"Krusta je tvrdá. Tahle bunda se nejméně jeden den pekla na slunci. Kdo ví, co se s ní dělo pak?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007DE"
 msgid "All of a sudden, the bomb bay doors open, and their white glittering payload rushes to the ground..."
 msgstr ""
+"Najednou se otevřou dveře pumovnice a jejich bíle se třpytící náklad se řítí k zemi..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -185,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007D8"
 msgid "Somewhere, high above the city, a pair of seagulls trace loops through the air..."
 msgstr ""
+"Kdesi, vysoko nad městem, se vzduchem proplétá dvojice racků..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -192,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C0E"
 msgid "[Put the filthy jacket away.]"
 msgstr ""
+"[Odlož špinavou bundu.]"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -199,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000083F"
 msgid "Let's not think about that right now. [Put the filthy jacket away.]"
 msgstr ""
+"O tom teď nepřemýšlejme. [Odlož špinavou bundu.]"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -206,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015EB1"
 msgid "Let's just put it away then."
 msgstr ""
+"Tak to prostě odložíme."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -213,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000007BD"
 msgid "Okay, that's pretty disgusting. I've had enough."
 msgstr ""
+"Dobře, to je dost nechutné. Už toho mám dost."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -220,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000080B"
 msgid "I'm just going to pretend I didn't think about any of this."
 msgstr ""
+"Budu předstírat, že jsem o ničem z toho nepřemýšlel."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -227,6 +265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000082A"
 msgid "It's too late! You've already thought about it. And now your hands are covered in muck!"
 msgstr ""
+"Je příliš pozdě! Už jsi o tom přemýšleli. A teď máš ruce pokryté sajrajtem!"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -234,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000848"
 msgid "It's a sordid, filthy tale, not for the weak. Are you sure you can stomach it?"
 msgstr ""
+"Je to nechutný, špinavý příběh, který není pro slabé povahy. Jsi si jistý, že to zvládneš?"
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -241,6 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000753"
 msgid "It smells like a dead sea creature, tangled in grey strands of seaweed. It must have spent quite some time in the water before the tide deposited it ashore..."
 msgstr ""
+"Páchne jako mrtvý mořský tvor, zamotaný do šedých chaluh. Musela strávit nějakou dobu ve vodě, než ji příliv vyvrhl na břeh..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -248,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000775"
 msgid "The faint impressions of many footprints are also present, though it's impossible to tell what kind or how many. Suffice to say, the jacket spent some time on the ground before someone draped it over the railing..."
 msgstr ""
+"Jsou tu také slabé otisky mnoha šlápot, i když není možné určit, jakých a kolik jich bylo. Stačí říct, že bunda strávila nějaký čas na zemi, než ji někdo přehodil přes zábradlí..."
 
 #. Title = INVENTORY / FILTHY JACKET
 #. Description = an inventory interaction so you can't sell the filthy garbage because clothing items cannot be sold, oiii.
@@ -255,3 +297,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000079E"
 msgid "Why, why did you think about it? Look at your hands -- They're covered in muck!"
 msgstr ""
+"Proč, proč jsi o tom přemýšlel? Podívej se na své ruce - jsou celé pokryté sajrajtem!"
