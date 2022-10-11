@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C46"
 msgid "[Leave it as is.]"
 msgstr ""
+"[Nech ho, jak je.]"
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000020DD"
 msgid "\"We should ask that girl on the ice what's going on here.\" The lieutenant gestures toward the young woman next to the tent."
 msgstr ""
+"\"Měli bychom se zeptat té dívky na ledu, o co tu jde.\" Poručík gestem ukáže na mladou dívku vedle stanu."
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C3B"
 msgid "A pane of eternite has been planted into the snow. Two poles are holding it up."
 msgstr ""
+"Panel eternitu byl zasunut do sněhu. Drží ho dva kůly."
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C94"
 msgid "*Barely* holding it up. It could fall over any minute... a stronger gust of wind might be enough."
 msgstr ""
+"*Sotva* ho drží. Každou chvílí se může převrátit... silnější poryc větru by mohl stačit."
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C9D"
 msgid "What is this?"
 msgstr ""
+"Co je to?"
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001CAD"
 msgid "Looks like a makeshift bridge, currently drawn up."
 msgstr ""
+"Vypadá to, jako provizorní most, momentáně zvednutý."
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001509B"
 msgid "\"What is this?\""
 msgstr ""
+"\"Co je to?\""
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C41"
 msgid "Push the eternite over."
 msgstr ""
+"Převrhni eternit."
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001CA7"
 msgid "When junior researcher Õlari Taal invented eternite in the un-prestigious Värtna Polytechnic Institute some thirty odd years ago, he thought it would last forever -- hence the name eternite. The only lasting thing about it turned out to be its carcinogenic effect."
 msgstr ""
+"Když mladší výzkumník Õlari Taal vynalezl eternit na neprestižním Polytechnickém institutu ve Värtně před nějakými třiceti lety, tak si myslel, že vydrží navěky - proto jméno eternit. Jediná dlouhotrvající věc na něm se ale ukázaly být jeho karcinogenní účinky."
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001C4F"
 msgid "The pane falls into the icy snow with a soft thunk."
 msgstr ""
+"Panel spadne do zmrzlého sněhu s měkkým žuchnutím.\""
 
 #. Title = ICE / ETERNITE
 #. Description = this dialogue for pushing over eternite for you know very darksoulsy shortcut, yes, gut design.
@@ -80,3 +97,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000150A0"
 msgid "\"It looks like a makeshift bridge.\" The lieutenant adjusts his collar against a cool breeze. \"Could be convenient.\""
 msgstr ""
+"\"Vypadá to jako provizorní most.\" Poručík si narovná límec v poryvu studeného větru. \"Mohl by se hodit.\""
