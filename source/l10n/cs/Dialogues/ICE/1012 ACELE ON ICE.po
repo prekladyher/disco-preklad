@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -129,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000097F6"
 msgid "\"Thanks.\" She puts it on. It's a bit large for her."
 msgstr ""
+"\"Díky.\" Nasadí si ji. Je jí trochu velká."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -206,6 +214,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006E5B"
 msgid "\"Probably a hangout for junior delinquents. Back to the mic, if you will.\""
 msgstr ""
+"\"Dost možná útočiště pro mladé delinkventy. Zpátky k mikrofonu.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -381,6 +390,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00007469"
 msgid "Just nod."
 msgstr ""
+"Prostě kývni."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -430,6 +440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000013AC"
 msgid "\"Oh, okay. Good to know.\""
 msgstr ""
+"\"Ou, dobře. Dobré vědět.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -437,6 +448,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000097E1"
 msgid "\"Thanks.\" She puts it on. It's a bit large for her."
 msgstr ""
+"\"Díky.\" Nasadí si ji. Je jí trochu velká."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -493,6 +505,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000705B"
 msgid "\"I'm not sure, but I have concrete evidence that I rock. In the form of a wrecked tape player and a totally trashed hostel room.\""
 msgstr ""
+"\"Nejsem si jistý, ale mám solidní důkazy, že válím. Zničený magnetofon a totálně roztřískaný hostelový pokoj.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -619,6 +632,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006EAA"
 msgid "\"Oh yeah, I remember. The Paliseum sounds like a place for congregating homo-sexuals.\""
 msgstr ""
+"\"No jo, vzpomínám si. Paliseum zní jako místo, kde se schází homosexuálové.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -633,6 +647,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006EBC"
 msgid "\"Interesting. This the guy your friend Egg Head likes?\""
 msgstr ""
+"\"Zajímavé. Je to ten týpek, kterého má rád tvůj kamarád Eyckstein?\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -738,6 +753,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000097EF"
 msgid "\"Thanks.\" She puts it on. It's a bit large for her."
 msgstr ""
+"\"Díky.\" Nasadí si ji. Je jí trochu velká."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -780,6 +796,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000707A"
 msgid "\"Fuck that! I'm completely problem free -- except for alcohol -- and you can't tell me otherwise.\""
 msgstr ""
+"\"Ani hovno! Jsem naprosto bezproblémový - až na alkohol - a to mi nerozmluvíš.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1011,6 +1028,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006EA2"
 msgid "\"Oh yeah...\" She looks you over, assessing your age. \"I guess even with your modern take on sexuality you wouldn't be in the van Eyck demographic.\""
 msgstr ""
+"\"No jo...\" Prohlédne si tě, snažíc se uhodnout tvůj věk. \"Hádám, že i s tvým moderním pojetím sexuality nezapadáš úplně do van Eyckovy cílové skupiny.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1060,6 +1078,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000013B3"
 msgid "\"Yeah...\""
 msgstr ""
+"\"Jo...\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1151,6 +1170,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006DB6"
 msgid "Yeah? Any news on my wife's name? How about my mother?"
 msgstr ""
+"Jo? Něco nového se jménem mojí ženy? Nebo mojí matky?"
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1186,6 +1206,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000743A"
 msgid "\"Didn't you see it yourself? It's mostly music stuff, like this tape recorder. But bigger.\""
 msgstr ""
+"\"To jste si sám nevšiml? Hudební náčiní, jako tenhle magnetofon. Ale větší.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1242,6 +1263,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000097FD"
 msgid "\"Thanks.\" She puts it on. It's a bit large for her."
 msgstr ""
+"\"Díky.\" Nasadí si ji. Je jí trochu velká."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1291,6 +1313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000097DA"
 msgid "\"Thanks.\" She puts it on. It's a bit large for her."
 msgstr ""
+"\"Díky.\" Nasadí si ji. Je jí trochu velká."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1298,6 +1321,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000001CF"
 msgid "\"Oh, yeah. Egg's *really* into him. Maybe even *too* into him. He's a pretty intense personality.\""
 msgstr ""
+"\"No jo, Eyckstein je *fakt* do něj. Možná až *moc*. Má dost intenzivní osobnost.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1375,6 +1399,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000097E8"
 msgid "\"Thanks.\" She puts it on. It's a bit large for her."
 msgstr ""
+"\"Díky.\" Nasadí si ji. Je jí trochu velká."
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1480,6 +1505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00006D16"
 msgid "\"A contact mic records sounds from inside things. Like this ice.\""
 msgstr ""
+"\"Kontaktní mikrofon nahrává zvuky zevnitř věcí. Jako z tohoto ledu.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1487,6 +1513,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006D16"
 msgid "Concentrating on the device seems to calm her nerves. \"A contact mic records sounds from inside things. Like this ice.\" "
 msgstr ""
+"Soutředění se na zařízení se zdá, že jí uklidňuje. \"Konktaktní mikrofon nahrává zvuky zevnitř věcí. Jako z tohoto ledu.\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1515,6 +1542,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A00006F4F"
 msgid "\"Is that some kind of term from the homo-sexual underground?\""
 msgstr ""
+"\"To je nějaký termín z homo-sexuálního undergroundu?\""
 
 #. Title = ICE / ACELE ON ICE
 #. Description = this is where the "recording device", "what are you doing here on the ice?" and "questioning" branches are located.
@@ -1578,3 +1606,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008E000001D6"
 msgid "\"I'm pretty intense, too.\""
 msgstr ""
+"\"Taky jsem dost intenzivní.\""
