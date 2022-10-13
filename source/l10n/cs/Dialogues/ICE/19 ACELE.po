@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -259,6 +266,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000040000131C"
 msgid "\"Huh?\""
 msgstr ""
+"\"Co?\""
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -275,6 +283,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400001341"
 msgid "\"But I am!\" (Point at your hat.)"
 msgstr ""
+"\"Ale já ji mám!\" (Ukaž si na čepici.)"
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -451,6 +460,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400002752"
 msgid "\"So, the thing that's got you crying in front of strangers... is rich people not having enough money?\""
 msgstr ""
+"\"Takže, ten důvod, proč pláčeš před cizími lidmi... je, že bohatí nemají dost peněz?\""
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -731,6 +741,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000040000270B"
 msgid "\"So, the thing that's got you crying in front of strangers... is social justice?\""
 msgstr ""
+"\"Takže, ten důvod, proč pláčeš před cizími lidmi... je sociální spravedlnost?\""
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -899,6 +910,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400001B16"
 msgid "\"Let's talk about your contact mic again.\""
 msgstr ""
+"\"Promluvme si znovu o tvém kontatním mikrofonu.\""
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -1867,6 +1879,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000040000189D"
 msgid "\"We're done here.\" [Leave.]"
 msgstr ""
+"\"Tady jsme skončili.\" [Odejdi.]"
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -2267,6 +2280,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000040000148D"
 msgid "\"*I* don't have to do anything. I am the law. *You* have to do what the law says.\"\n"
 msgstr ""
+"\"*Já* nemusím dělat nic. Já jsem zákon. *Ty* musíš dělat, co praví zákon.\"\n"
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
@@ -2771,6 +2785,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000004000018C0"
 msgid "\"We're done here. Wear the hat or get sick, I don't care.\" [Leave.]"
 msgstr ""
+"\"Tady jsme skončili. Vezmi si čepici nebo si buď nemocná, je mi to fuk.\" [Odejdi.]"
 
 #. Title = ICE / ACELE
 #. Description = Lead-in to the speedfreaks, out on the ice
