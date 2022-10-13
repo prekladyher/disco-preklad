@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / ANDRE
 #. Description = Talking to the speedfreaks' leader
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200001312"
 msgid "\"Come on, man. You've gotta talk to her for us!\" He attempts to conceal his disappointment."
 msgstr ""
+"\"Ale no tak, kámo. Musíš s ní za nás promluvit!\" Snaží se skrýt zklamání."
 
 #. Title = ICE / ANDRE
 #. Description = Talking to the speedfreaks' leader
@@ -1219,6 +1227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005B39"
 msgid "\"No, detective. It is not.\" The lieutenant looks toward the church door. \"We really should get to the Whirling-in-Rags. Now.\""
 msgstr ""
+"\"Ne, detektive. To tedy není.\" Poručík se podívá na dveře kostela. \"Musíme se dostat do V-Cárech-vířící. Hned.\""
 
 #. Title = ICE / ANDRE
 #. Description = Talking to the speedfreaks' leader
@@ -1395,6 +1404,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005B2E"
 msgid "\"Now's not a great time to dance, is it?\""
 msgstr ""
+"\"Teď není nejlepší čas na tanec, že?\""
 
 #. Title = ICE / ANDRE
 #. Description = Talking to the speedfreaks' leader
@@ -1403,6 +1413,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400002B3F"
 msgid "\"Who exactly are these people inside the church?\""
 msgstr ""
+"\"Co je to přesně za lidi v kostele?\""
 
 #. Title = ICE / ANDRE
 #. Description = Talking to the speedfreaks' leader
@@ -1739,6 +1750,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400002EE4"
 msgid "\"Yes?\""
 msgstr ""
+"\"Ano?\""
 
 #. Title = ICE / ANDRE
 #. Description = Talking to the speedfreaks' leader
