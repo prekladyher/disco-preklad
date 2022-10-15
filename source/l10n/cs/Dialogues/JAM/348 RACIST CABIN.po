@@ -1,8 +1,15 @@
+# Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = JAM / RACIST CABIN
 #. Description = You can view the racist lorryman's cabin to get a load of his racist paraphernalia.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D272"
 msgid "Look in the window."
 msgstr ""
+"Koukni se do okénka."
 
 #. Title = JAM / RACIST CABIN
 #. Description = You can view the racist lorryman's cabin to get a load of his racist paraphernalia.
@@ -38,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000011000016C5"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = JAM / RACIST CABIN
 #. Description = You can view the racist lorryman's cabin to get a load of his racist paraphernalia.
@@ -73,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D2B2"
 msgid "A lorry stuck in the traffic jam. This big, heavy Graad-made machine is well kept for such an old machine."
 msgstr ""
+"Náklaďák zaseklý v dopravní zácpě. Velký stroj od Graadu je na svůj věk v dobrém stavu."
 
 #. Title = JAM / RACIST CABIN
 #. Description = You can view the racist lorryman's cabin to get a load of his racist paraphernalia.
@@ -115,6 +125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00004E6F"
 msgid "Fumes of heavy fuel oil waft over you, making your eyes sting. The odour mixes with cigarette residue."
 msgstr ""
+"Valí se na vás výpary těžkého topného oleje, až vás z toho pálí oči. Zápach se mísí se zbytky cigaret."
 
 #. Title = JAM / RACIST CABIN
 #. Description = You can view the racist lorryman's cabin to get a load of his racist paraphernalia.
@@ -157,6 +168,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015797"
 msgid "The windows are clear, they've been recently washed. You can see a lorryman's cabin with personal belongings, stickers, insignia..."
 msgstr ""
+"Okénka jsou čistá, nedávo umyta. Vidíte kabinu řidiče s jeho osobními věcmi, nálepkami, odznaky..."
 
 #. Title = JAM / RACIST CABIN
 #. Description = You can view the racist lorryman's cabin to get a load of his racist paraphernalia.
@@ -164,3 +176,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D278"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
