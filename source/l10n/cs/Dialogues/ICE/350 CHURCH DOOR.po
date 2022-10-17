@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000011A1"
 msgid "The lieutenant takes a step back and looks at the church looming overhead. \"Yes, there's a toolbox in the Kineema...\""
 msgstr ""
+"Poručík udělá krok zpátky a podívá se na kostel tyčící se do výšky. \"Ano, v Kineemě mám skříňku s nářadím...\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000027"
 msgid "Heavy wooden doors more than twice your height stand shut in front of you. The rectangular, sea-worn ornamentation appears in stark contrast to the padlock carelessly drilled into the wood."
 msgstr ""
+"Předtebou stojí těžké dřevěné dveře, které jsou více než dvakrát vyšší než ty. Obdélníkové, mořem ošlehané ornamenty působí ostře kontrastují s visacím zámkem nedbale zavrtaným do dřeva."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -35,6 +44,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000003FF"
 msgid "\"How about we go and check out that tent again?\" He nods at the shabby piece of canvas set up on the ice next to the church."
 msgstr ""
+"\"Co tak, kdybychom šli a okoukli ten stan ještě jednou?\" Kývne na ošuntělou plachtu postavenou na ledě vedle kostela."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -75,6 +85,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B0000278C"
 msgid "\"Let's go.\" The lieutenant nods at you."
 msgstr ""
+"\"Pojďme.\" Poručík na tebe kývne."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -83,6 +94,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CC1F"
 msgid "The broken edge of the snapped prybar is smooth. Took the tip right off..."
 msgstr ""
+"Lom na páčidle je čistý. Jeho konec neměl šanci..."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -91,6 +103,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000010B7"
 msgid "Inspect the staple."
 msgstr ""
+"Prohlédni si skobu."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -99,6 +112,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000011D9"
 msgid "\"Can you hear the pulsing bass underneath the wind?\" He raises his hand to his ear. \"A sure sign of junior delinquency -- somewhere east of here.\""
 msgstr ""
+"\"Slyšíte pulzující basy ve větru?\" Zvedne ruku k uchu. \"Jistá známka mladdistvých delinkventů - někde na východ odsud.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -123,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000000A6"
 msgid "THERE IS A HOLE IN MY HEART."
 msgstr ""
+"V SRDCI MÁM DÍRU."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -131,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002AB6"
 msgid "\"Besides, we should really get to the island.\" He looks at the sea."
 msgstr ""
+"\"Kromě toho bychom se měli dostat na ostrov.\" Podívá se na moře."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -139,6 +155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002AC0"
 msgid "... in the heart of the city."
 msgstr ""
+"... v srdci města."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -147,6 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000082FF"
 msgid "\"It does seem rather irrelevant to our case.\" The lieutenant nods."
 msgstr ""
+"\"Zdá se poněkud irelevantní vzhledem k našemu případu.\" Poručík kývne."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -155,6 +173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DDC6"
 msgid "As you do, you hear and the echo of the Doomed Commercial Area. Its black halls and dusty machines. Then the feeling passes."
 msgstr ""
+"Když se to stane tak slyšíš hlas Prokletých komerčních prostor. Jejích černých chodeb a zaprášených strojů. Pak pocit pomine."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -187,6 +206,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000040000230E"
 msgid "You dried your hands."
 msgstr ""
+"Usušil sis ruce."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -219,6 +239,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E3A8"
 msgid "You enter the church."
 msgstr ""
+"Vstoupíš do kostela."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -227,6 +248,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B0000004A"
 msgid "Rattle the doors to see if they open."
 msgstr ""
+"Zatřes dveřmi, jestli se otevřou."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -235,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B0000277F"
 msgid "The lock turns easily. You hear a click as the shackle pops open."
 msgstr ""
+"Zámek se snadno otáčí. Když se otevře, ozve se cvaknutí."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -243,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000003C9"
 msgid "\"But maybe we should look for another way in first... The building has seen enough mistreatment.\""
 msgstr ""
+"\"Možná bychom měli nejdřív hledat jiný způsob, jak se dostat dovnitř... Tato budova už zažila dost špatného zacházení.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -251,6 +275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000667E"
 msgid "\"The fuck? How is this even *possible*?\""
 msgstr ""
+"\"Co kurva? Jak je tohle vůbec *možný*?\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -275,6 +300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000000CC"
 msgid "High above, the wind wraps the church in its rush. Cold and wet from the ocean bay, it parts around the massive keel-shaped roof. Like a test tunnel washing both sides, the way it has done for three-hundred-and-forty years. The wind keeps its distance. So should you."
 msgstr ""
+"Vysoko nad tebou vítr ovívá kostel ve svém spěchu. Studený a vlhký od oceánského zálivu se rozráží o masivní střechu ve tvaru kýlu. Jako ve zkušebním tunelu omývá obě strany, tak jak to dělá už tři sta čtyřicet let. Vítr si udržuje odstup. Stejně tak bys to měl udělat i ty."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -283,6 +309,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00002778"
 msgid "Open the padlock with the key."
 msgstr ""
+"Otevři visací zámek klíčem."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -291,6 +318,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000081C3"
 msgid "\"Can you hear the pulsing bass underneath the east wind?\" He raises his hand to his ear. \"A sure sign of junior delinquency.\""
 msgstr ""
+"\"Slyšíte pulzující basy ve východním větru?\" Zvedne ruku k uchu. \"Jistá známka mladdistvých delinkventů - někde na východ odsud.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -323,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000000AD"
 msgid "The lieutenant looks at the padlock. He didn't hear you asking, you were quiet enough."
 msgstr ""
+"Poručík se podívá na visací zámek. Neslyše tvou otázku, byl jsi příliš potichu."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -331,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000010AA"
 msgid "The padlock passes through a staple that's been hastily attached to the wood. Closer inspection reveals that one of the screws is not a screw at all, but a nail. The work has been done recently and is unprofessional, to say the least."
 msgstr ""
+"Visací zámek je provlečený skrz skobu, která byla ke dřevu připevněna ve spěchu. Po bližším prozkoumání vidíš, že jeden ze šroubů je ve skutečnosti hřebík. Práce byla odvedena nedávno a je neprofesionální, mírně řečeno."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -419,6 +449,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DEAB"
 msgid "It'll be easier to break the staple than the lock. Also -- that sticker is interesting, somehow..."
 msgstr ""
+"Je jednodušší zlomit skobu než zámek. Také - ta samolepka je zajímavá..."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -427,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DF0B"
 msgid "\"I thought this was a lousy way to enter a place of worship that's already in disrepair. I guess the church agreed.\""
 msgstr ""
+"\"Myslel jsem si, že je to mizerný způsob, jak vstoupit do modlitebny, která je už tak v havarijním stavu. Myslím, že kostel se mnou souhlasil.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -435,6 +467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000073"
 msgid "\"No, I'm just curious.\""
 msgstr ""
+"\"Ne, jsem jen zvědavý.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -443,6 +476,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000665D"
 msgid "\"Welcome to Revachol, lock!\""
 msgstr ""
+"\"Vítej v Revacholu, zámku!\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -451,6 +485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000830B"
 msgid "\"I'm actually not that interested in the church right now.\""
 msgstr ""
+"\"Zas tolik mě ten kostel teď nezajímá.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -467,6 +502,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000011B8"
 msgid "\"Where do you think we should start?\""
 msgstr ""
+"\"Kdy myslíte, že bychom měli začít?\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -539,6 +575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400001242"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -571,6 +608,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000128"
 msgid "Back off."
 msgstr ""
+"Ustup."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -579,6 +617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000003F2"
 msgid "He takes a step back. \"Maybe we should look for another way in first... The church has seen enough mistreatment.\""
 msgstr ""
+"Udělá krok zpět. \"Možná bychom měli nejdřív hledat jiný způsob, jak se dostat dovnitř... Tento kostel už zažil dost špatného zacházení.\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -587,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00006663"
 msgid "\"RAAARRRRRG!\""
 msgstr ""
+"\"ARRRRRRGHHH!\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -651,6 +691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000000C5"
 msgid "The carving on the door is blocklike and angular, like the church itself. Two large beams shoot downwards, sinking into the wood before they reach the threshold."
 msgstr ""
+"Řezba na dveřích je kvádrovitá a hranatá, stejně jako kostel sám. Dva velké trámy vystřelují dolů a zaboří se do dřeva, než dosáhnou prahu."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -659,6 +700,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00006650"
 msgid "You jam the prybar between the lock and the staple and apply force -- your biceps bulge from the strain. The metal creaks and squeals..."
 msgstr ""
+"Vecpeš páčidlo mezi zámek a skobu a zatlačíš - bicepsy se ti nadouvají námahou. Kov skřípe a vrzá..."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -667,6 +709,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000056"
 msgid "Take a closer look at the padlock."
 msgstr ""
+"Podívej se pečlivěji na zámek."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -675,6 +718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B0000009E"
 msgid "Back up and look at the door."
 msgstr ""
+"Ustup a podívej se na dveře."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -683,6 +727,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000081BB"
 msgid "\"Where do you think we should start?\""
 msgstr ""
+"\"Kde myslíte, že bychom měli začít?\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -755,6 +800,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000089"
 msgid "The lieutenant nods silently."
 msgstr ""
+"Poručík tiše přikývne."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -763,6 +809,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000663B"
 msgid "The pathetic old wood, rusty screws (and one nail) stand no chance against the forces of *leverage*. From deep within, a bellow rips..."
 msgstr ""
+"Ubohé staré dřevo, rezavé šrouby (a jeden hřebík) nemají proti silám *pákového efektu* žádnou šanci. Z hloubi duše se ozve řev..."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -771,6 +818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00006640"
 msgid "A minute or so of mauling away at the lock has led to no success. The prybar in your hand has given you... zero mechanical advantage."
 msgstr ""
+"Zhruba minuta zápasu se zámkem nevedla k žádnému úspěchu. Páčidlo ve vaší ruce vám poskytlo... nulovou mechanickou výhodu."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -787,6 +835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00006674"
 msgid "Suddenly, the prybar snaps. Metal shavings fly everywhere. The upper half, between the lock and the staple, falls to the ground with a *thunk*."
 msgstr ""
+"Nejednou páčidlo praskne. Všude létají kovové třísky. Jeho horní polovina dříve mezi zámkem a skobou se zařinčením dopadne na zem."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -795,6 +844,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CC0A"
 msgid "Look at the broken tool in your hand."
 msgstr ""
+"Podívej se na rozbitý nástroj ve své ruce."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -803,6 +853,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CC27"
 msgid "A bad omen. Beware of this church."
 msgstr ""
+"Špatné znamení. Dej si na tento kostel pozor."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -827,6 +878,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CC57"
 msgid "This was surely just a freak accident."
 msgstr ""
+"Rozhodně to byla jen divoká náhoda."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -891,6 +943,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000050"
 msgid "Inspect the carpentry."
 msgstr ""
+"Prohlédni si řezbu."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -899,6 +952,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000098"
 msgid "\"What is this feeling?\""
 msgstr ""
+"\"Co je to za pocit?\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -907,6 +961,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000000D9"
 msgid "This cheap-looking padlock is sturdily built. It shackles together a hasp and a staple screwed into the wooden door. The lock is adorned with a yellow sticker."
 msgstr ""
+"Tento levně vypadající visací zámek má robustní konstrukci. Spojuje petlici a skobu našroubovanou do dřevěných dveří. Zámek zdobí žlutá nálepka."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -915,6 +970,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000B000000D9"
 msgid "This cheap-looking padlock is sturdily built. It shackles together a hasp and a staple screwed into the wooden door. "
 msgstr ""
+"Tento levně vypadající visací zámek má robustní konstrukci. Spojuje petlici a skobu našroubovanou do dřevěných dveří."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -923,6 +979,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000014000021F4"
 msgid "Nothing happens, only the sound of the padlock rattling against the door."
 msgstr ""
+"Nic se neděje, jen zvuk visacího zámku narážejícího do dveří."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -947,6 +1004,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B00000064"
 msgid "\"I don't think that's going to work...\""
 msgstr ""
+"\"Nemyslím, že to bude fungovat...\""
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -955,6 +1013,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E3A0"
 msgid "Pull on the doors..."
 msgstr ""
+"Zatáhni za dveře..."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -987,6 +1046,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000003F8"
 msgid "There is a touch of something in his voice. Hard to say what."
 msgstr ""
+"V jeho hlase je slyšet náznak něčeho. Těžko říct čeho."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -1003,6 +1063,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000011B1"
 msgid "There is a touch of guilt in his voice."
 msgstr ""
+"V jeho hlase je slyšet náznak viny."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -1011,6 +1072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000011FE"
 msgid "Apply some official force on the padlock."
 msgstr ""
+"Použij na visací zámek svou oficiální sílu."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -1019,6 +1081,7 @@ msgstr ""
 msgctxt "tooltip1/0x01000004000011FE"
 msgid "Objects Must Fall."
 msgstr ""
+"Objekty musí padnout."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -1027,6 +1090,7 @@ msgstr ""
 msgctxt "tooltip2/0x01000004000011FE"
 msgid "Tool not equipped."
 msgstr ""
+"Nástroj není vybaven."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -1043,6 +1107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000B000000B6"
 msgid "The doors remain unchanged -- closed with a padlock."
 msgstr ""
+"Dveře zůstavájí nezměněny - zavřené na zámek."
 
 #. Title = ICE / CHURCH DOOR
 #. Description = Initiating the Get Into The Church TO-DO
@@ -1051,3 +1116,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00006684"
 msgid "\"I broke the prybar. Where do I get a new one?\" (Proceed.)"
 msgstr ""
+"\"Zlomil jsem páčidlo. Kde dostanu další?\" (Pokračuj.)"
