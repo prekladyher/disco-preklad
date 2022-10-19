@@ -1,16 +1,17 @@
 # Jan Bartoš <takechihar@gmail.com>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-09-06 08:23+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.08.0\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = COAST / GARY barks coast
 #. Description = Things Gary says on the coast.
@@ -66,4 +67,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019ABA"
 msgid "\"I'm just saying, as a *Revacholian*, I am slightly worried.\""
 msgstr ""
-"\"Jen říkám, že jako *revašol* mám mírné obavy.\""
+"\"Jen říkám, že jako *Revacholian* mám mírné obavy.\""
