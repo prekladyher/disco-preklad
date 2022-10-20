@@ -1,16 +1,17 @@
 # Pavel Horal <pavel.horal@orchitech.cz>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Pavel Horal <pavel.horal@orchitech.cz>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-08-11 22:08+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.3\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = SEAFORT INT / READING MATERIALS
 #. Description = bookshelf with critical theory (communist books) under gun
@@ -541,7 +542,7 @@ msgstr ""
 msgctxt "tooltip3/0x010000450001CC10"
 msgid "Dresscode: Winter revolutionary."
 msgstr ""
-"Dresscode: zimní revolucionář."
+"Styl oblečení: Zimní revolucionář."
 
 #. Title = SEAFORT INT / READING MATERIALS
 #. Description = bookshelf with critical theory (communist books) under gun

@@ -1,16 +1,17 @@
 # skywolf <skywolf@email.cz>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: skywolf <skywolf@email.cz>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-05-23 14:54+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
@@ -82,7 +83,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100005A0000DB17"
 msgid "Dresscode: True man."
 msgstr ""
-"Vzhled jako pravý muž."
+"Styl oblečení: Pravý muž."
 
 #. Title = HQ / WASHBASIN
 #. Description = A washbasin An interactable dialogue where you can shave your beard/muttonchops! This changes the portrait in the mirror dialogue, and the one on UI.
