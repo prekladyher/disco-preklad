@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -35,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008947"
 msgid "\"Well -- it's down.\" (Celebrate in a more reserved manner.)"
 msgstr ""
+"\"No - je dole.\" (Oslavuj zdrženlivěji.)"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -141,6 +149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003654"
 msgid "*El Bigo Mistako*, lieutenant!"
 msgstr ""
+"*El chybo giganto*, poručíku!"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -205,6 +214,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003B92"
 msgid "\"Of course, I under-compensated.\" He pockets the tape."
 msgstr ""
+"\"Samozřejmě, nedostatečně jsem ji kompenzoval.\" Dá si pásmo do kapsy."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -248,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004032"
 msgid "This is clearly what they've been waiting for. Ever since the autopsy began. The lieutenant is trying to make it as boring as possible."
 msgstr ""
+"Na tohle zjevně čekali. Od chvíle, kdy začala pitva. Poručík se snaží, aby byla co nejnudnější."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -258,6 +269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004132"
 msgid "The lieutenant looks relieved. \"Back is symmetrical and intact. Upper and lower extremities are intact -- but asymmetrical. There are old combat injuries on the right hand, thigh, and hip.\""
 msgstr ""
+"Poručík vypadá, že se mu ulevilo. \"Záda jsou symetrická a neporušená. Horní a dolní končetiny jsou neporušené - ale asymetrické. Na pravé ruce, stehně a kyčli jsou stará bojová zranění.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -268,7 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000423B"
 msgid "I did, Cobo, I did. Reminded me of when I was just a small boy. Before *this* happened to my face and my body. You did me a kindness there."
 msgstr ""
-"Líbilo, Ulíbilo. Připomnělo mi to časy, když jsem byl ještě malý kluk. Předtím, než se stalo to s mým obličejem a tělem. Prokázal jsi mi laskavost."
+"Líbilo, Bobo. Připomnělo mi to časy, když jsem byl ještě malý kluk. Předtím, než se stalo to s mým obličejem a tělem. Prokázal jsi mi laskavost."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -312,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000457C"
 msgid "\"Is he touching it again? What is *wrong* with these *mulkkus*?\""
 msgstr ""
+"\"Zase mu na něj sahá? S těma *mulkus* je fakt něco *špatně*!\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -791,6 +804,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004074"
 msgid "\"Ah, yes -- your hunch, before.\" He takes a moment to breathe. \"We could have a semen analysis requested from Processing, but we're already requesting toxicology. There's a one test limit.\""
 msgstr ""
+"\"Ach, ano - vaše tušení, předtím.\" Nechá si chvilku, než se nadechne. „Mohli bychom si od Technického vyžádat analýzu spermatu, ale už teď žádáme o toxikologii. Je tu limit jednoho testu.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -801,6 +815,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004099"
 msgid "\"No, I was trying to get a *psychic* read.\""
 msgstr ""
+"\"Ne, snažil jsem se získat *psychický* pohled na věc.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -822,6 +837,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000041EE"
 msgid "I'm from..."
 msgstr ""
+"Jsem z..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -843,6 +859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000045A4"
 msgid "The corpse with his pants down does not have an opinion on the subject. All he has is genitals and a deathly odour."
 msgstr ""
+"Mrtvola se staženými spodky nemá na věc názor. Má jen genitálie a mrtvolný zápach."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1034,7 +1051,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400011F05"
 msgid "\"I mean when I need you to. Until then -- I should handle physical contact and you should take notes.\""
 msgstr ""
-"\"Myslím, že vás potřebuju. Do té doby – já bych měl zvládnout fyzický kontakt a vy byste si měl dělat poznámky.\""
+"\"Myslím, až vás budu potřebovat. Do té doby – bych já měl zvládnout fyzický kontakt a vy byste měl dělat zápis.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1115,6 +1132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000194EE"
 msgid "What was that about no clawing around the neck? You'd be clawing for your life..."
 msgstr ""
+"Co to bylo s tím, že kolem krku nejsou žádné škrábance? Ty by ses drápal jako o život..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1328,6 +1346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000406E"
 msgid "\"Ah, yes -- your hunch, before. We can have a semen analysis requested -- from Processing -- if that's what you meant.\""
 msgstr ""
+"\"Ach, ano -  vaše tušení, předtím. Můžeme si vyžádat analýzu spermatu - od Technického - pokud jste měl na mysli tohle.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1338,6 +1357,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004093"
 msgid "\"Yes. Processing. Science. That's what I meant.\""
 msgstr ""
+"\"Ano. Technické. Věda. To jsem měl na mysli.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1546,6 +1566,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008F2C"
 msgid "Please get yourself together, the lieutenant from Precinct 57 thinks."
 msgstr ""
+"Prosím, dejte se dohromady, myslí si poručík z okrsku 57."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1654,6 +1675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003C2B"
 msgid "\"There there, baby.\""
 msgstr ""
+"\"Tak, tak, zlato.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1686,6 +1708,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000453E"
 msgid "\"Yes, better to leave it at that. More important.\""
 msgstr ""
+"\"Ano, je lepší to nechat tak. Je to důležitější.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1962,6 +1985,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000042"
 msgid "\"Where should I take these notes? In my paperwork?\" (Take out your ledger.)"
 msgstr ""
+"\"Kde ten zápis vezmu? V mých papírech?\" (Vyndej fascikl.)"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2166,6 +2190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004915"
 msgid "You should touch it."
 msgstr ""
+"Měl bys se ho dotknout."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2271,6 +2296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000194AB"
 msgid "You don't even have a joke."
 msgstr ""
+"Nenapadá tě ani vtip."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2400,6 +2426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003C7C"
 msgid "\"That was some sick shit, *sekopää*.\""
 msgstr ""
+"\"To byla fakt ujetá sračka, *sekopää*.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2454,6 +2481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004108"
 msgid "It's an experiment. To see what happens."
 msgstr ""
+"Je to experiment. Uvidíme, co se stane."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2475,6 +2503,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000043CD"
 msgid "You manage to suppress the contractions trying to empty your stomach -- all it takes is concentration. Through it, you see nothing but darkness. More meat and darkness..."
 msgstr ""
+"Podaří se ti potlačit křeče, které se ti snaží vyprázdnit žaludek - stačí se jen soustředit. Skrz ústa nevidíš nic než tmu. Více masa a tmy..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2885,6 +2914,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000049D0"
 msgid "The lieutenant's admission has caused great gratitude in Cuno. He is silent with it."
 msgstr ""
+"Poručíkovo uznání vyvolalo v Kunovi velkou vděčnost. Mlčí s ní."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3196,6 +3226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003C39"
 msgid "The lieutenant watches you, in silence."
 msgstr ""
+"Poručík tě pozoruje, mlčky."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3217,6 +3248,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004102"
 msgid "I'm detecting. Police work. Doesn't have to be *solicited*."
 msgstr ""
+"Pátrám. Policejní práce. Nemusí být *žádaná*."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3410,6 +3442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000050C1"
 msgid "He's thinking: Did I miss something?"
 msgstr ""
+"Přemýšlí: Přehlédl jsem něco?"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3695,6 +3728,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000040A1"
 msgid "\"No you weren't, officer -- that would be preposterous.\" He shakes his head. \"Just write down that we request a semen, vaginal, and anal fluids analysis.\""
 msgstr ""
+"\"Ne, nesnažil, strážníku, to by bylo absurdní.\" Zavrtí hlavou. \"Jen zapište, že požadujeme analýzu spermatu, vaginálních a análních tekutin.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3705,6 +3739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000040E6"
 msgid "\"My pig's so *FUCKIN' ILL* right now...\" His voice swells with pride."
 msgstr ""
+"\"Moje prase je tak *ZKURVENĚ UJETÉ*, právě teď...\" Hlas se mu dme pýchou."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3876,6 +3911,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004B73"
 msgid "\"At least for the time being.\" He nods. \"If we don't like it, I can always amend this later. In my paperwork.\""
 msgstr ""
+"\"Alespoň prozatím.\" Přikývne. \"Pokud se nám to nebude líbit, vždycky to můžu později změnit. V mých papírech.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4069,6 +4105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003756"
 msgid "Also of note -- your unconscious racial profiling machine ruled out Messinian before. Despite all the *copporoonies* and *cobos*. That leaves Vespertine or Oranjese. Continue."
 msgstr ""
+"Za zmínku stojí i to, že váš podvědomý stroj na rasové profilování už dříve vyloučil Messiniana. Navzdory všem těm *poldoroníkům* a *bobům*. Zbývají tedy Vespertinec nebo Oranžan. Pokračuj."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4100,6 +4137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003C57"
 msgid "There-there dead man, you were someone's child. It's all over now."
 msgstr ""
+"Tadk, tak, mrtvý muži, byl jsi něčí dítě. A teď je po všem."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4131,6 +4169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000414A"
 msgid "Bullets have bitten little pieces out of him. It must have been excruciating, especially the hip... Before you is a temple of pain that knew little tenderness in life."
 msgstr ""
+"Kulky z něj ukously malé kousky. Muselo to být nesnesitelné, hlavně ta kyčel... Před tebou je chrám bolesti, který v životě nepoznal mnoho něhy."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4163,7 +4202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000041FD"
 msgid "I'm only fucking with you! I know where you're from -- from Coppodocia! And your name is *Il Cobo*. What can I do you for, Il Cobo di Coppodocia?"
 msgstr ""
-"Jen si z tebe dělám prdel! Vím, odkud jsi - z Poldolusie! A jmenuješ se *Il Ulito*. Co pro tebe můžu udělat, Il Ulito di Poldolusia?"
+"Jen si z tebe dělám prdel! Vím, odkud jsi - z Poldolusie! A jmenuješ se *Il Bobo*. Co pro tebe můžu udělat, Il Ulito di Poldolusia?"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4332,7 +4371,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100006B00008B07"
 msgid "Look in the mouth! "
 msgstr ""
-"Podívej se do úst! "
+"Pohled do úst! "
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4478,6 +4517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008A00"
 msgid "\"I don't think I'm a detective.\""
 msgstr ""
+"\"Myslím, že nejsem detektiv.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4530,6 +4570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019498"
 msgid "As it ought to. This is where its grip on the curdled meat is gentlest, pulling up..."
 msgstr ""
+"Jak by to mělo být. Tady je sevření stisknutého masa nejjemnější a vytahuje ho nahoru..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4667,6 +4708,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004500003B52"
 msgid "\"The deceased has a cargo lashing belt around his neck, tied with a hangman's knot. Colour -- yellow; length -- three metres. There is a buckle on the other end.\""
 msgstr ""
+"\"Zesnulý má kolem krku stahovací nákladní pás, uvázaný na katovský uzel. Barva - žlutá; délka - tři metry. Na druhém konci je přezka.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4743,6 +4785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000040BE"
 msgid "Touch it."
 msgstr ""
+"Dotkni se ho."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4753,6 +4796,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000040C5"
 msgid "Doesn't feel like anything. A cold spot under your gardening gloves, unremarkable and un-alive."
 msgstr ""
+"Nepřipadá ti to jako nic. Studené místo pod zahradnickými rukavicemi, nenápadné a neživé."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4763,6 +4807,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000040EE"
 msgid "\"Ya pig's pretty sick, I gotta say...\""
 msgstr ""
+"\"Tvoje prase je parádně ujeté, to musím uznat...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5005,6 +5050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003B7B"
 msgid "The spine is bent more than the lieutenant compensated for. This buster's actual height is about 1.85. And no, you could not take him *straight on*."
 msgstr ""
+"Páteř je ohnutá více, než poručík kompenzoval. Skutečná výška tohoto bouchače je asi 1,85. A ne, nemohli jste ho změřit *přímo*."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5080,6 +5126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003F5E"
 msgid "Concentrate on the belt, not on who is  whose pig. There is no pig. There are only the chaincutters -- and the belt."
 msgstr ""
+"Soustřeď se na ten pás, ne na to, kdo je čí prase. Žádné prase neexistuje. Existují jen štípačky na řetězy - a pás."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5123,7 +5170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000043E4"
 msgid "THERE ARE ANCIENT MYSTERIES DOWN THERE, COBO... ASK ME LATER."
 msgstr ""
-"TAM DOLE JSOU PRASTARÉ ZÁHADY, ULITO... ZEPTEJ SE MĚ POZDĚJI."
+"TAM DOLE JSOU PRASTARÉ ZÁHADY, BOBO... ZEPTEJ SE MĚ POZDĚJI."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5207,6 +5254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004C53"
 msgid "Being Cuno's pig has a steadying effect on your hand. Go with the flow, man..."
 msgstr ""
+"Být Kunovým prasetem má na tvou ruku stabilizační účinek. Pluj s proudem, chlape..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5323,6 +5371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000049"
 msgid "\"Yes, you see...\" He points to the bright red pages at the end. \"The field autopsy form is the one on red copier paper.\""
 msgstr ""
+"\"Ano, správně...\" Ukáže na jasně červené stránky na konci. \"Polní pitevní formulář je ten na červeném kopírovacím papíře.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5694,6 +5743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000089E8"
 msgid "\"Got it.\""
 msgstr ""
+"\"Mám to.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5704,6 +5754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001947E"
 msgid "Teeming with opportunistic micro-organisms, letting out a foul-smelling diamine compound. Your eyes turn watery..."
 msgstr ""
+"Hemží se prospěchářskými mikroorganismy a vypouští páchnoucí sloučeninu diaminu. Oči ti slzí..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5788,6 +5839,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003B84"
 msgid "\"I'm going to write 1.85 metres lieutenant.\""
 msgstr ""
+"\"Napíšu 1,85 metru, poručíku.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5831,6 +5883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500003C8F"
 msgid "\"Khm,\" he coughs. \"Lividity is consistent with *hanging*. The head is congested. Contusions are present on the head, chest, and thighs -- consistent with stones thrown; low velocity...\""
 msgstr ""
+"\"Khm,\" odkašle si. \"Zsinalost odpovídá *oběšení*. Hlava je překrvená. Na hlavě, hrudníku a stehnech jsou přítomny pohmožděniny - odpovídají vrženým kamenům; nízká rychlost...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5841,6 +5894,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004500003C8F"
 msgid "\"Khm,\" he coughs. \"Lividity is consistent with hanging -- albeit *faint*, as noted. The head is congested. Contusions are present on the head, chest, and thighs -- indicating stones thrown; low velocity...\""
 msgstr ""
+"\"Khm,\" odkašle si \"Zsinalost odpovídá *oběšení* - i když je *slabá*, jak bylo zaznamenáno. Hlava je překrvená. Na hlavě, hrudníku a stehnech jsou přítomny pohmožděniny - svědčí o vržených kamenech; nízká rychlost\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5905,6 +5959,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004384"
 msgid "From here it looks as though the clown-faced man is screaming. The tendons of his jaw are torn apart, hyoid ripped from the force of the lieutenant's hands."
 msgstr ""
+"Odtud to vypadá, že muž s tváří klauna křičí. Šlachy čelisti jsou roztržené, jazylka vytržená silou poručíkových rukou."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5915,6 +5970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000043B5"
 msgid "No, you don't. You can keep it in. You can keep *anything* in."
 msgstr ""
+"Ne, nepozvracíš. Dokážeš to zadržet. Dokážeš zadržet *cokoli*."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5936,6 +5992,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004511"
 msgid "\"We only have one test, as per regulation -- and we already requested semen.\""
 msgstr ""
+"\"Podle předpisů máme jen jeden test - a už jsme si vyžádali sperma.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -6041,6 +6098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004A7A"
 msgid "He is deep in thought, eyes fixed on the bright red ring around the dead man's neck."
 msgstr ""
+"Je hluboce zamyšlený, oči upřené na jasně červený kruh na krku mrtvého muže."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -6178,6 +6236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008A57"
 msgid "\"It's not about cutting...\" He squints at the corpse. \"And no -- you and I are *detectives*. The honorary rank of 'detective' signifies our ability to handle *the entire incident chain* -- from autopsy to clean-up. To social work...\""
 msgstr ""
+"\"Nejde o řezání...\" Přimhouří oči nad mrtvolou. \"A ne - my dva jsme *detektivové*. Čestná hodnost \"detektiva\" znamená naši schopnost zvládnout *celý řetězec událostí* - od pitvy po úklid. A po sociální práci...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -6404,6 +6463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000042A1"
 msgid "You *get* me, Cobo. I feel like you were once for tenderness and kisses yourself... but then shit went *south* and now you're ahead of even me on the pain front!"
 msgstr ""
+"Ty mě chápeš, Bobo. Mám pocit, že kdysi jsi byl sám pro něhu a polibky... ale pak se to posralo a teď jsi v bolesti dokonce i přede mnou!"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -6658,6 +6718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000422D"
 msgid "That you have, Cobo, that you have! We're real tight that way. In that special, special way..."
 msgstr ""
+"To máš, Bobo, to máš! Takhle jsme si opravdu blízcí. Takovým zvláštním, zvláštním způsobem..."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7007,6 +7068,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000405F"
 msgid "\"Does it look like he was *enjoying* his moment of death?\""
 msgstr ""
+"\"Vypadá to, že si *užíval* okamžik smrti?\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7091,6 +7153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004B22"
 msgid "\"I agree.\""
 msgstr ""
+"\"Souhlasím.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7133,6 +7196,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004D26"
 msgid "\"We requested a test to be run on the genitals -- that was *de règle*. The results should arrive in a couple of weeks, if we're lucky. I would not hold my breath...\""
 msgstr ""
+"\"Požádali jsme o test genitálií - to bylo *de règle*. Výsledky by měly dorazit za pár týdnů, pokud budeme mít štěstí. Ale moc bych na to nesázel...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7217,6 +7281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000194BB"
 msgid "He's really *doing* it -- the dead man's teeth cut into his gloved hands."
 msgstr ""
+"Opravdu to *dělá* - zuby mrtvého se mu zařezávají do rukou v rukavicích."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7314,6 +7379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004117"
 msgid "The lieutenant is unaware of what's happening in your head and why you're touching it. He merely expects you to write down his notes on the man's genitalia so you can move on."
 msgstr ""
+"Poručík neví, co se děje ve tvé hlavě a proč se ho dotýkáš. Pouze očekává, že zapíšeš jeho poznámky o mužových genitáliích, abyste mohli pokračovat dál."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7389,6 +7455,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004523"
 msgid "\"Pigs requestin' semen like it's no big deal.\""
 msgstr ""
+"\"Prasata si žádají sperma, jako by o nic nešlo.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7535,6 +7602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008A51"
 msgid "\"Don't we have someone else to *cut his shit open*?\""
 msgstr ""
+"\"Nemáme někoho jiného, kdo by mu *rozřezal* hovno?\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7566,6 +7634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008EF9"
 msgid "\"Khm.\" A cough. \"Lividity *appears* consistent with hanging -- but is not. The head is congested. Contusions are present on the head and chest, consistent with stones thrown; low velocity...\""
 msgstr ""
+"\"Khm.\" Kašel. \"Zsinalost *vypadá* jako u oběšení - ale není. Hlava je překrvená. Na hlavě a hrudníku jsou přítomny pohmožděniny odpovídající hozeným kamenům; nízká rychlost...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7576,6 +7645,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000600008EF9"
 msgid "\"Khm.\" A cough. \"Lividity appears consistent with hanging -- albeit *faint*, ergo: postmortem. The head is congested. Contusions are present on the head and chest, consistent with stones thrown; low velocity...\""
 msgstr ""
+"\"Khm.\" Kašel. \"Zsinalost odpovídá oběšení - i když *nepatrně*, ergo: posmrtnému. Hlava je překrvená. Na hlavě a hrudníku jsou přítomny pohmožděniny odpovídající hozeným kamenům; nízká rychlost...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7586,6 +7656,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019486"
 msgid "Don't overdo it. It's okay to be unsure."
 msgstr ""
+"Nepřežeň to. Je v pořádku být nejistý."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7788,6 +7859,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000404E"
 msgid "Write it down -- add semen sample."
 msgstr ""
+"Zapiš to - přidej vzorek spermatu."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7808,6 +7880,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000407B"
 msgid "\"Mhm. Just write down that we request an analysis.\""
 msgstr ""
+"\"Mhm. Prostě napište, že žádáme o analýzu.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -7818,6 +7891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004244"
 msgid "Pleasure's all mine -- tell me, are you a temple of pain and a stranger to tenderness?"
 msgstr ""
+"Potěšení je mojí straně - řekni mi, jsi chrámem bolesti a něha ti je cizí?"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -8125,6 +8199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000036CC"
 msgid "How did you not know that?! Aren't you a *cop*? You're leaving a weak impression here, say something sure handed!"
 msgstr ""
+"Jak to, že jsi to nevěděl?! Nejsi náhodou policajt? Teď děláš špatný dojem, řekni něco sebejistého!"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -8167,6 +8242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000040F6"
 msgid "This wasn't necessary. What's going on here? Why are you doing that?"
 msgstr ""
+"Tohle nebylo nutné. Co se tu děje? Proč to děláš?"
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -8198,6 +8274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500004234"
 msgid "Do you need the assistance of private security services? Cobo, I'm afraid even *we* can't protect you from what's after you... The Great Shadow."
 msgstr ""
+"Potřebuješ pomoc soukromé bezpečnostní služby? Bobo, obávám se, že ani my tě neochráníme před tím, co po tobě jde... Před Velkým stínem."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -8219,6 +8296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000428C"
 msgid "Working so close to the fumes coming from the corpse must be hard. You realize suddenly that the lieutenant has been barely keeping it together these past two items."
 msgstr ""
+"Pracovat tak blízko výparů z mrtvoly musí být těžké. Najednou si uvědomíš, že poručík se při posledních dvou bodech sotva držel."
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -8251,7 +8329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000476A"
 msgid "\"Let's see.\" He tilts his head: \"We have: bitemarks, contusions on the head and chest -- and a ligature mark encircling the neck. You'll need three fields. Leave a fourth one too...\""
 msgstr ""
-"\"Tak se na to podíváme.\" Nakloní hlavu: \"Máme tu: stopy po kousnutí, pohmožděniny na hlavě a hrudníku - a stopy po škrcení kolem krku. Budete potřebovat tři políčka. Čtvrté si nechte taky...\""
+"\"Tak se na to podíváme.\" Nakloní hlavu: \"Máme tu: stopy po klovnutí, pohmožděniny na hlavě a hrudníku - a stopy po škrcení kolem krku. Budete potřebovat tři políčka. Čtvrté si nechte taky...\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
