@@ -523,6 +523,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Contact Mike">
+        <descrip type="definition">[aA] boxer - zaměňován s kontaktním mikrofonem (Contact Mike - contact mic)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Contact Mike</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kontaktní Mik (bez Mika)</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Cop of the Apocalypse">
         <descrip type="definition">[OK] [aA] myšlenka</descrip>
         <langSet xml:lang="en">
@@ -693,7 +706,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Dresscode">
-        <descrip type="definition">[OK] zřejmě modifikátor u ověření (pokud má Harry sladěný / odpovídající oblečení)</descrip>
+        <descrip type="definition">[OK] [aA] zřejmě modifikátor u ověření (pokud má Harry sladěný / odpovídající oblečení)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Dresscode</term>
