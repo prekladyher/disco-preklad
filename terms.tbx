@@ -757,16 +757,16 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Egg Head">
+      <termEntry id="Egg Head (Egg)">
         <descrip type="definition">[OK] [aA] [TYKAT] mladík, snad DJ, TYKAT</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Egg Head</term>
+            <term>Egg Head (Egg)</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Eyckstein</term>
+            <term>Eyckstein (Eyckyn)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2250,6 +2250,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Perikarnasén</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Perikarnassian Church">
+        <descrip type="definition">[aA] Nezaměňovat Perikarnassian (perikarnasénská) s Perikarnassian (Perikarnasén) - osoba</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Perikarnassian Church</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Církev perikarnasénská</term>
           </tig>
         </langSet>
       </termEntry>
