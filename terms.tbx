@@ -29,6 +29,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="(to) cramp style">
+        <descrip type="definition">[aA] např. the were cramping my style - ucpávali mi styl</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(to) cramp style</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>ucpávat styl </term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="[Finish thought.]">
         <descrip type="definition">[OK] [aA] Volba pro ukončení dialogu s vnitřní úvahou. Alternativa [Ukonči úvahu.].</descrip>
         <langSet xml:lang="en">
@@ -524,7 +537,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Contact Mike">
-        <descrip type="definition">[aA] boxer - zaměňován s kontaktním mikrofonem (Contact Mike - contact mic)</descrip>
+        <descrip type="definition">[OK] [aA] boxer - zaměňován s kontaktním mikrofonem (Contact Mike - contact mic)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Contact Mike</term>
@@ -989,6 +1002,32 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Zakladatelská strana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Franconegro">
+        <descrip type="definition">[aA] historická postava, jeden z neposkvrněných</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Franconegro</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Frankonegro, -ra m.</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Franconigerian cavalry">
+        <descrip type="definition">[aA] těžká jízda vedená Frankonegrem</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Franconigerian cavalry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Frankonigeriáská kavalerie</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2241,7 +2280,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Perikarnassian">
-        <descrip type="definition">[OK] [aA] -a, m. mýtická postava , prvni Neposkvrněný, zakladatel Perikarnasénské církve</descrip>
+        <descrip type="definition">[OK] [aA] -a, m. mýtická postava , prvni neposkvrněný, zakladatel Perikarnasénské církve</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Perikarnassian</term>
@@ -2254,7 +2293,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Perikarnassian Church">
-        <descrip type="definition">[aA] Nezaměňovat Perikarnassian (perikarnasénská) s Perikarnassian (Perikarnasén) - osoba</descrip>
+        <descrip type="definition">[OK] [aA] Nezaměňovat Perikarnassian (perikarnasénská) s Perikarnassian (Perikarnasén) - osoba</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Perikarnassian Church</term>
