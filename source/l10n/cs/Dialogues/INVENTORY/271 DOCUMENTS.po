@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B39"
 msgid "He won't say it outright, but he's suggesting forgery."
 msgstr ""
+"Neřekne to přímo, ale naznačuje padělání."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000BD4"
 msgid "He is not altogether comfortable with your contribution to progress in this instance."
 msgstr ""
+"V tomto případě se mu tvůj příspěvek k pokroku příliš nezamlouvá."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000012D5"
 msgid "Try to find a loophole in the deal."
 msgstr ""
+"Snaž se v dohodě najít mezeru."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "tooltip1/0x01000007000012D5"
 msgid "Centre's very close to houses."
 msgstr ""
+"Centrum je velmi blízko domů."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "tooltip2/0x01000007000012D5"
 msgid "Ominous shape."
 msgstr ""
+"Zlověstný tvar."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -51,6 +63,7 @@ msgstr ""
 msgctxt "tooltip3/0x01000007000012D5"
 msgid "Cool cubic pyrite."
 msgstr ""
+"Parádní kubický pyrit."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -59,6 +72,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000014A2"
 msgid "\"I should have seen it,\" the lieutenant says with regret. \"The people in the village are going to move out on their own accord sooner or later.\""
 msgstr ""
+"\"Měl jsem to vidět,\" řekne poručík s lítostí. \"Lidé z vesnice se dříve nebo později sami odstěhují.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -67,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000014A8"
 msgid "What are the ramifications here?"
 msgstr ""
+"Jaké jsou důsledky?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005F3A"
 msgid "You are of course going to have to find a new weapon and hope you can finish this case without Evrart's help."
 msgstr ""
+"Budeš si samozřejmě muset najít novou zbraň a doufat, že se ti podaří tento případ dokončit bez Evrartovy pomoci."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -83,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B0A"
 msgid "Wait, what are the ramifications of this?"
 msgstr ""
+"Počkat, jaké to má důsledky?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -91,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005B87"
 msgid "\"Yes...\" He reluctantly nods. \"It's probably the smart choice.\""
 msgstr ""
+"\"Ano...\" Neochotně přikývne. \"Asi je to rozumná volba.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -99,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005F10"
 msgid "This is either an ominous or cool architectural choice -- hard to say."
 msgstr ""
+"Je to buď zlověstná, nebo chladná architektonická volba - těžko říct."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -107,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B15"
 msgid "This is terrible. Poor people. Can't I do something?"
 msgstr ""
+"To je hrozné. Chudáci lidé. Nemůžu něco udělat?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -115,6 +135,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000200000B15"
 msgid "\"Look, Kim...\" (Point to the photocopy.) \"These people are going to have to move away because of the noise.\""
 msgstr ""
+"\"Podívejte, Kime...\" (Ukaž na fotokopii.) \"Ti lidé se budou muset kvůli hluku odstěhovat.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -123,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B51"
 msgid "\"I am not sure whether working with Evrart is particularly ethical either... But I understand and respect your position.\" He looks off to the side, deep in thought."
 msgstr ""
+"\"Nejsem si jistý, zda je spolupráce s Evrartem etická... Ale chápu a respektuji váš postoj.\" Podívá se stranou, hluboce zamyšlený."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -131,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000C85"
 msgid "All you need to do now is mail the signatures to Evrart's accountant in La Delta."
 msgstr ""
+"Nyní stačí podpisy zaslat Evrartovu účetnímu  v Deltě."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -139,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015C3B"
 msgid "You take the legal documents out of the envelope: a 12-40 month construction period and the zoning plan in the addendum. Underneath all this -- Lilienne's signature and an empty line, waiting for a signee."
 msgstr ""
+"Z obálky vytáhneš právní dokumenty: 12-40měsíční lhůtu výstavby a územní plán v dodatku. Pod tím vším - Lilienin podpis a prázdný řádek, který čeká na podepisující osobu."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -147,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015C42"
 msgid "You take the legal documents out of the envelope: a 12-40 month construction period and the zoning plan in the addendum. Underneath all this -- your failed forgery."
 msgstr ""
+"Z obálky vytáhnete právní dokumenty: 12-40měsíční lhůtu výstavby a územní plán v dodatku. Pod tím vším - tvůj nepovedený padělek."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -155,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015DA4"
 msgid "Well, you *could* trick Evrart. Get someone random to sign the document. By the time the Union boss finds out, your business here will already be concluded."
 msgstr ""
+"No, Evrarta bys *mohl* obelstít. Dej dokument podepsat někomu náhodnému. Než se to šéf Odborů dozví, bude už tvoje záležitost uzavřená."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -163,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000132E"
 msgid "There are none. The signatures of the drunks are worthless and once Evrart is ready to start the construction, he'll need to actually get Lilienne and Isobel to sign."
 msgstr ""
+"Žádné nejsou. Podpisy opilců jsou bezcenné, a jakmile bude Evrart připraven zahájit stavbu, bude muset Lilianu a Izabelu skutečně přimět k podpisu."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -171,6 +198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000140F"
 msgid "\"I should have seen it.\" The lieutenant frowns as he reads over the document again."
 msgstr ""
+"\"Měl jsem to vidět.\" Poručík se zamračí a znovu si dokument přečte."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -179,6 +207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005B55"
 msgid "\"Fuck these people. What have they ever done for me? We move on.\""
 msgstr ""
+"\"Na tyhle lidi kašlu. Co pro mě kdy udělali? Jdeme dál.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -187,6 +216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B27"
 msgid "\"Of course... I should have seen it.\" The lieutenant frowns as he reads over the document again."
 msgstr ""
+"\"Samozřejmě... Měl jsem to vidět.\" Poručík se zamračí a znovu si dokument přečte."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -195,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B2D"
 msgid "How very rational of you. Rational of Evrart, too -- he will, no doubt, benefit from the village being abandoned."
 msgstr ""
+"To je od vás velmi racionální. A od Evrarta je to také racionální - z opuštění vesnice bude mít nepochybně prospěch."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -203,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700000E51"
 msgid "The name: \"Isobel Sadie.\""
 msgstr ""
+"Jméno: \"Izabela Sadiová.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -211,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000129C"
 msgid "\"Kim, what do you think of this?\""
 msgstr ""
+"\"Kime, co si o tom myslíte?\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -219,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000136F"
 msgid "\"Hmmmm,\" the lieutenant hums, watching you examine the document again."
 msgstr ""
+"\"Hmmmm,\" zabručí poručík a sleduje, jak si dokument znovu prohlížíš."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -227,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000013DE"
 msgid "There is no loophole. The simple truth is the current residents are going to lose their street access and for the next 12-40 months their lives will be dominated by constant construction noise right next door."
 msgstr ""
+"Neexistuje žádná mezera. Pravdou je, že současní obyvatelé přijdou o přístup do ulice a po dobu 12-40 měsíců bude jejich životy ovládat neustálý hluk ze stavby hned vedle."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -235,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001730"
 msgid "It appears you have drawn a line instead of a signature. A puny line. Looks like the late stages of dementia."
 msgstr ""
+"Zdá se, že jsi místo podpisu nakreslil čáru. Mizernou čáru. Vypadá to jako pozdní stádium demence."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -243,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012658"
 msgid "\"However... We'll need access to the coast before we do anything. Evrart won't believe you got villagers' signatures if you can't even get to the village.\" He shrugs. \"You can try a forgery as soon as we can cross the water lock.\""
 msgstr ""
+"\"Nicméně... Než něco podnikneme, budeme potřebovat přístup k pobřeží. Evrart vám neuvěří, že jste získal podpisy vesničanů, když se nemůžete dostat ani do vesnice.\" Pokrčí rameny. \"Můžete je zkusit padělat, jakmile se nám podaří dostat se za zdymadlo.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -251,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B03"
 msgid "There is no loophole. The simple truth is the current residents are going to lose their street access and for the next 12-40 months their lives will be dominated by constant construction noise right next door."
 msgstr ""
+"Neexistuje žádná mezera. Pravdou je, že současní obyvatelé přijdou o přístup do ulice a po dobu 12-40 měsíců bude jejich životy ovládat neustálý hluk ze stavby hned vedle."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -259,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000BCD"
 msgid "How very rational of you. Rational of Evrart, too -- he will, no doubt, benefit from the village being abandoned."
 msgstr ""
+"To je od vás velmi racionální. A od Evrarta je to také racionální - z opuštění vesnice bude mít nepochybně prospěch."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -267,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015DD4"
 msgid "Or! You *could* try to trick Evrart. Get someone random to sign the document. By the time the Union boss finds out, your business here will already be concluded."
 msgstr ""
+"Nebo se můžeš pokusit Evrarta oklamat. Nechat dokument podepsat někoho náhodného. Než se to šéf Odborů dozví, bude už tvoje záležitost uzavřená."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -275,6 +315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001475"
 msgid "Good thing I forged the signatures."
 msgstr ""
+"Ještě že jsem ty podpisy zfalšoval."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -283,6 +324,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000700001475"
 msgid "\"Good thing I forged the signatures.\""
 msgstr ""
+"\"Ještě že jsem ty podpisy zfalšoval.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -291,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000170D"
 msgid "\"Did I just ruin it?\""
 msgstr ""
+"\"Zničil jsem to?\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -299,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005B68"
 msgid "\"We'll need to find you a new weapon -- and we'll need to hope to finish the case without Evrart's help.\" He sighs."
 msgstr ""
+"\"Budeme vám muset najít novou zbraň - a budeme muset doufat, že případ dokončíme bez Evrartovy pomoci.\" Povzdechne si."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -307,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002CA5"
 msgid "\"Good. Evrart will have to start over with his scheming.\" The lieutenant nods. \"When Isobel disputes her signature the document will be rendered null and void.\""
 msgstr ""
+"\"Dobře. Evrart bude muset se svými intrikami začít znovu.\" Poručík přikývne. \"Když Izabela zpochybní svůj podpis, bude dokument neplatný.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -315,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B91"
 msgid "\"I am not sure whether working with Evrart is particularly ethical either... But I understand and respect your position.\" He looks off to the side, deep in thought."
 msgstr ""
+"\"Nejsem si jistý, zda je spolupráce s Evrartem etická... Ale chápu a respektuji váš postoj.\" Podívá se stranou, hluboce zamyšlený."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -323,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000167F"
 msgid "\"Good. Evrart will have to start over with his scheming.\" The lieutenant nods. \"When she denies that this is her signature the document will be rendered null and void.\""
 msgstr ""
+"\"Dobře. Evrart bude muset se svými intrikami začít znovu.\" Poručík přikývne. \"Když popře, že je to její podpis, bude dokument neplatný.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -331,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001737"
 msgid "Have I ruined the document?"
 msgstr ""
+"Zničil jsem ten dokument?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -339,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700009716"
 msgid "Two names: *Isobel Sadie* and *Lilienne Carter*."
 msgstr ""
+"Dvě jména: *Izabela Sadiová* a *Liliana Carter*."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -347,6 +396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B83"
 msgid "He nods approvingly. \"Not a decision I would normally condone, but, under the circumstances...\""
 msgstr ""
+"Souhlasně přikývne. \"Normálně bych takové rozhodnutí neschvaloval, ale za daných okolností...\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -355,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000BB6"
 msgid "I guess that's just the cost of progress."
 msgstr ""
+"To je asi daň za pokrok."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -363,6 +414,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000200000BB6"
 msgid "\"The noise will be tough on the villagers, but I guess that's just the cost of progress.\""
 msgstr ""
+"\"Hluk bude pro vesničany tvrdý, ale to je asi daň za pokrok.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -371,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700000E24"
 msgid "Okay, let's do this! (Commence the forgery.)"
 msgstr ""
+"Dobře, jdeme na to! (Začni padělat.)"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -379,6 +432,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100000700000E24"
 msgid "Evrart's people could be watching you here."
 msgstr ""
+"Evrartovi lidé by tě tu mohli sledovat."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -387,6 +441,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100000700000E24"
 msgid "Indirect Modes of Taxation."
 msgstr ""
+"Nepřímé způsoby zdanění."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -395,6 +450,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100000700000E24"
 msgid "Dresscode: Interisolar business class."
 msgstr ""
+"Styl oblečení: Interizolární obchodník."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -403,6 +459,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100000700000E24"
 msgid "Dresscode: Paper-jockey."
 msgstr ""
+"Styl oblečení: Ouřada."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -411,6 +468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000014C3"
 msgid "There is no loophole. The simple truth is the current residents are going to lose their street access and for the next 12-40 months their lives will be dominated by constant construction noise right next door."
 msgstr ""
+"Neexistuje žádná mezera. Pravdou je, že současní obyvatelé přijdou o přístup do ulice a po dobu 12-40 měsíců bude jejich životy ovládat neustálý hluk ze stavby hned vedle."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -419,6 +477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001531"
 msgid "Putting the good of others before your own... You're a good man, Harry. A good and honourable man. And guns can be replaced -- people can't."
 msgstr ""
+"Upřednostňování dobra druhých před svým vlastním... Jsi dobrý člověk, Harry. Dobrý a čestný člověk. A zbraně se dají nahradit - lidé ne."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -427,6 +486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005F47"
 msgid "Alright, I'm ready to take the damage for the sake of my conscience."
 msgstr ""
+"Dobře, jsem připraven nést škodu v zájmu svého svědomí."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -435,6 +495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015C1A"
 msgid "You take the legal documents out of the envelope: a 12-40 month construction period and the zoning plan in the addendum. It's signed by Lilienne Carter and 'Idiot Doom Spiral'."
 msgstr ""
+"Z obálky vytáhneš právní dokumenty: 12-40měsíční lhůtu výstavby a územní plán v dodatku. Je to podepsané Lilianou Carterovou a \"Idiotskou spirálou zkázy'."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -443,6 +504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000146F"
 msgid "What are the ramifications here?"
 msgstr ""
+"Jaké jsou důsledky?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -451,6 +513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000148C"
 msgid "There are none. Your forged signatures are worthless and once Evrart is ready to start the construction, he'll need to actually get Lilienne and Isobel to sign."
 msgstr ""
+"Žádné nejsou. Tvoje zfalšované podpisy jsou bezcenné a až bude Evrart připraven zahájit stavbu, bude muset Lilianu a Izabelu skutečně přimět k podpisu."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -459,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000153D"
 msgid "No one would judge you. After all, what is a cop without his gun? Is he really even a cop anymore?"
 msgstr ""
+"Nikdo tě nebude soudit. Koneckonců, co je to za policajta bez zbraně? Je to vůbec ještě policajt?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -467,6 +531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000168C"
 msgid "But it's not, and the document will be nullified if she disputes it. That means Evrart will have to start over."
 msgstr ""
+"Ale není, a pokud ho zpochybní, bude dokument anulován. To znamená, že Evrart bude muset začít znovu."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -475,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000174F"
 msgid "No, it's just a line. Forgery obviously isn't your strong suit -- sorry for suggesting it. If you get someone to *actually* sign this, it should be fine."
 msgstr ""
+"Ne, je to jen čára. Padělání zjevně není tvou silnou stránkou - omlouvám se, že jsem ti to naznačil. Pokud to někdo *skutečně* podepíše, mělo by to být v pořádku."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -483,6 +549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005F02"
 msgid "...how else are you going to build something? It's always inconvenient to build things, and citizens inevitably have disagreements over such construction projects, but there's no other way."
 msgstr ""
+"...jak jinak chceš něco postavit? Stavět věci je vždycky nepohodlné a občané mají kvůli takovým stavbám nevyhnutelně neshody, ale jinak to nejde."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -491,6 +558,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005F59"
 msgid "This is probably the smart choice. Now go mail the document and don't think about it anymore."
 msgstr ""
+"To je pravděpodobně chytrá volba. Nyní jdi dokument odeslat a už o něm nepřemýšlej."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -499,6 +567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B77"
 msgid "\"I thought of forging Isobel Sadies signature, but then decided against it. But now I see it may be the right thing to do.\""
 msgstr ""
+"\"Přemýšlel jsem, že bych zfalšoval podpis Izabely Sadiové, ale pak jsem se rozhodl, že to neudělám. Teď ale vidím, že by to mohlo být správné.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -507,6 +576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000C32"
 msgid "He feels guilty about failing to protect the inhabitants of the fishing village from a greedy mob boss."
 msgstr ""
+"Cítí se provinile, protože nedokázal ochránit obyvatele rybářské vesnice před chamtivým gangsterským bossem."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -515,6 +585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015C0A"
 msgid "You take the legal documents out of the envelope: a 12-40 month construction period and the zoning plan in the addendum. It's signed by 'Idiot Doom Spiral' and someone called 'Domwtclall Abheqoeel', apparently."
 msgstr ""
+"Z obálky vytáhneš právní dokumenty: 12-40měsíční lhůtu výstavby a územní plán v dodatku. Je to podepsané \"Idiotskou spirálou zkázy\" a někým, kdo se zřejmě jmenuje \"Domwtclall Abheqoeel."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -523,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001729"
 msgid "What have I done?"
 msgstr ""
+"Co jsem udělal?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -531,6 +603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005F6C"
 msgid "\"Any halfway competent notary should be able to handle this. *Not* getting her signature was probably the best thing to do.\""
 msgstr ""
+"\"Tohle by měl zvládnout každý alespoň trochu schopný notář. *Nezískat její podpis bylo asi to nejlepší, co jsem mohl udělat.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -539,6 +612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700009761"
 msgid "There was a mail delivery box in the plaza, near the corner of the bookstore."
 msgstr ""
+"Na náměstí, poblíž rohu knihkupectví, byla poštovní schránka."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -547,6 +621,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000C6F"
 msgid "\"Now all we have to do is mail these. I think I saw a mailbox on the plaza.\""
 msgstr ""
+"\"Teď už je jen musíme poslat poštou. Myslím, že jsem na náměstí viděl poštovní schránku.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -555,6 +630,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015C29"
 msgid "You take the legal documents out of the envelope: a 12-40 month construction period and the zoning plan in the addendum."
 msgstr ""
+"Z obálky vytáhneš právní dokumenty: 12-40měsíční lhůtu výstavby a územní plán v dodatku."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -563,6 +639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700000E69"
 msgid "With a confident flourish you complete your forgery. What do you see on the signature line?"
 msgstr ""
+"Sebejistě dokončíš svůj padělek. Co vidíš na řádku s podpisem?"
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -571,6 +648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000013F9"
 msgid "Once the construction starts it'll probably take a few months -- a year maybe -- for even the most stubborn occupants to get tired of living like this. After that they'll sell their property for cheap and move out."
 msgstr ""
+"Jakmile se začne stavět, bude pravděpodobně trvat několik měsíců - možná rok - než se i ti nejotrlejší obyvatelé nabaží takového bydlení. Potom svůj majetek levně prodají a odstěhují se."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -579,6 +657,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001415"
 msgid "Well, you *could* trick Evrart. Get some random people to sign the document. By the time the Union boss finds out, your business here will already be concluded."
 msgstr ""
+"No, Evrarta bys *mohl* obelstít. Přimět pár náhodných lidí, aby dokument podepsali. Než se to šéf Odborů dozví, bude už tvá záležitost uzavřena."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -587,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005B5C"
 msgid "\"Yes -- being an *asshole* makes this much easier. Let's go.\""
 msgstr ""
+"\"Ano - když jsem blbec, je to mnohem snazší. Jdeme.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -595,6 +675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C90"
 msgid "Indeed. Your forgery looks very convincing right next to Lilienne's actual signature. It might as well be real."
 msgstr ""
+"Vskutku. Tvůj padělek vypadá velmi přesvědčivě hned vedle skutečného podpisu Liliany. Klidně by mohl být pravý."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -603,6 +684,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B4B"
 msgid "He purses his lips. \"Forgery, yes. It would render the document invalid.\""
 msgstr ""
+"Sevře rty. \"Padělání, ano. Tím by se dokument stal neplatným.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -611,6 +693,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000C02"
 msgid "\"You probably don't have a pen.\" He takes one out of his pocket. \"Here, you can keep this. I have another one.\""
 msgstr ""
+"\"Pravděpodobně nemáte pero.\" Vytáhne jedno z kapsy. \"Tady, tohle si můžete nechat. Já mám ještě jedno.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -619,6 +702,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000C20"
 msgid "\"Oh yeah, let's do this.\""
 msgstr ""
+"\"Jo, jdeme na to.\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -627,6 +711,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015C15"
 msgid "You take the legal documents out of the envelope: a 12-40 month construction period and the zoning plan in the addendum. It's signed by Isobel Sadie and Lilienne Carter."
 msgstr ""
+"Z obálky vytáhneš právní dokumenty: 12-40měsíční lhůtu výstavby a územní plán v dodatku. Je podepsaný Izabelou Sadiovou a Lilianou Carterovou."
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
@@ -1051,6 +1136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000B6B"
 msgid "\"I was actually thinking of forging Isobel Sadie's signature...\""
 msgstr ""
+"\"Vlastně jsem přemýšlel, že bych zfalšoval podpis Izabely Sadiové...\""
 
 #. Title = INVENTORY / DOCUMENTS
 #. Description = Interaction with the documents Evrart asks you to sign.
