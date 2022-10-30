@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F1B"
 msgid "It seems to contain descriptions of the medicinal properties of various ingredients that may be gathered from the pale, as well as instructions for producing a variety of herbal remedies."
 msgstr ""
+"Zdá se, že obsahuje popisy léčivých vlastností různých ingrediencí, které lze sbírat z bledomezi, a také návody na výrobu různých bylinných léků."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F55"
 msgid "I don't even know what this 'pale' thing is, how could I have walked through it?"
 msgstr ""
+"Ani nevím, co je to ta \"bledomez\", jak jsem jí mohl projít?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F71"
 msgid "And on your walks, do you stop to meditate on the nature of your being?"
 msgstr ""
+"A zastavuješ se na svých procházkách, abys rozjímal o podstatě svého bytí?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004126"
 msgid "The rue and aloe vera make this poultice ideal for alleviating minor injuries and inflammation. It won't do anything for your hangover, though."
 msgstr ""
+"Díky obsahu routy a aloe vera je tento obklad ideální pro zmírnění drobných poranění a zánětů. Na kocovinu však nic nezmůže."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004284"
 msgid "Would you like to try again?"
 msgstr ""
+"Chceš to zkusit znovu?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042E6"
 msgid "Great, so where can I get all this stuff?"
 msgstr ""
+"Skvělé, takže kde to všechno seženu?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C5E"
 msgid "This book contains serious ancient wisdom, not whacko conspiracy theories. If you don't respect it, it will never reveal its secrets."
 msgstr ""
+"Tato kniha obsahuje seriózní starověkou moudrost, ne potrhlé konspirační teorie. Pokud ji nebudeš respektovat, nikdy ti svá tajemství neodhalí."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005EA3"
 msgid "You close the book and find yourself staring at the familiar cover once more."
 msgstr ""
+"Zavřeš knihu a znovu se zadíváš na známou obálku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FC4"
 msgid "What? No."
 msgstr ""
+"Cože? Ne."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F4E"
 msgid "Have you taken any walks through the pale recently?"
 msgstr ""
+"Už jsi se v poslední době procházel bledomezí?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F63"
 msgid "The book is frustratingly vague on this topic, but it seems that if you've walked through the pale, you would know it."
 msgstr ""
+"Kniha je v tomto tématu frustrujícím způsobem vágní, ale zdá se, že kdybys prošel bledomezí, věděl bys to."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F86"
 msgid "No, I don't."
 msgstr ""
+"Ne, nemám."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FE7"
 msgid "I could, I just don't feel like it."
 msgstr ""
+"Mohl bych, jen se mi nechce."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FFC"
 msgid "That feeling is the weight of society bearing down on you. Until you get out from under it, you will never feel true freedom."
 msgstr ""
+"Tento pocit je tíha společnosti, která na tebe doléhá. Dokud se z něj nedostaneš, nikdy nepocítíš skutečnou svobodu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040B6"
 msgid "Mix it with a dram of whiskey."
 msgstr ""
+"Smíchej ji s trochou whisky."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040FB"
 msgid "The ginger root will help with the nausea and the birch bark tea will help you flush out the toxins. The ginseng should give you more energy, as a nice bonus."
 msgstr ""
+"Kořen zázvoru pomůže od nevolnosti a čaj z březové kůry ti pomůže vyplavit toxiny. Ženšen by ti měl dodat více energie, což je příjemný bonus."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004238"
 msgid "Would you like to try again?"
 msgstr ""
+"Chceš to zkusit znovu?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004278"
 msgid "Yeah, let's try again."
 msgstr ""
+"Jo, zkusíme to znovu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000410A"
 msgid "I want to try concoct one of those hangover-cures again."
 msgstr ""
+"Chci zase zkusit namíchat jeden z těch léků na kocovinu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003EF3"
 msgid "What's a pharmacopoeia?"
 msgstr ""
+"Co je to lékopis?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000400E"
 msgid "Your partner is even more repressed than you are. It would do you both a world of good to spend a little more time getting in touch with your bodies."
 msgstr ""
+"Tvůj partner je ještě více potlačovanější než vy. Oběma by vám prospělo, kdybyste věnovali více času kontaktu se svými těly."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000405E"
 msgid "(Rub your hands together.) Alright, book, let's see what you got."
 msgstr ""
+"(Promni si ruce.) Dobře, kniho, podíváme se, co máš k mání."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004271"
 msgid "No, this stuff is all a bunch of hooey, anyway. (Close the book.)"
 msgstr ""
+"Ne, tohle všechno jsou stejně jenom bláboly. (Zavři knihu.)"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042CA"
 msgid "Alright, time to get back to work. (Close the book.)"
 msgstr ""
+"Dobře, je čas vrátit se k práci. (Zavři knihu.)"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C4C"
 msgid "Well, yeah, on your junk, too."
 msgstr ""
+"No jo, taky na tvé nádobíčko."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -185,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F14"
 msgid "You come across the following explanation: \"While modern pharmacopoeia are continually updated by so-called 'experts' based on the results of 'clinical trials,' readers will find assembled here the timeless wisdom relied upon by generations of traditional Seolite medicine practitioners, Mesque mystics, and Iilmaraan folk doctors.\""
 msgstr ""
+"Narazíš na následující vysvětlení: \"Zatímco moderní lékopisy jsou neustále aktualizovány takzvanými \"odborníky\" na základě výsledků \"klinických studií\", čtenáři zde najdou shromážděnou nadčasovou moudrost, na kterou spoléhaly generace tradičních lékařů seolitské medicíny, meskanských mystiků a iilmaraanských lidových lékařů.\""
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -192,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FD9"
 msgid "You're doing everything as you should. Regular pale meditation has been shown to help keep your body lithe and strong, your mind alert and expansive..."
 msgstr ""
+"Děláš vše, jak máte. Bylo prokázáno, že pravidelná meditace v bledomezi pomáhá udržovat tělo pružné a silné, mysl bdělou a expanzivní..."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -199,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000404F"
 msgid "There's nothing in here that speaks to hangovers directly. However, while browsing through the various descriptions you become convinced that you could assemble something from the ingredients listed here. Want to give it a shot?"
 msgstr ""
+"Není zde nic, co by se přímo týkalo kocoviny. Při procházení různých popisů se však přesvědčíš, že bys z uvedených ingrediencí mohl něco sestavit. Chceš to zkusit?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -206,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004340"
 msgid "A note of caution, however. Be sure to limit your exposure to the pale to no more than an hour a day, and no more than three hours total per week."
 msgstr ""
+"Pozor však na jedno upozornění. Dbej na to, abys se bledomezi vystavoval maximálně hodinu denně a maximálně tři hodiny týdně."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -213,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C28"
 msgid "Nor should you. Nudity is *shameful*. No officer of the law should ever be caught *sans pantalones*."
 msgstr ""
+"Ani ty bys neměl. Nahota je *hanebná*. Žádný strážce zákona by nikdy neměl být přistižen *bez kalhot*."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -220,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FEE"
 msgid "I could, but Kim's here."
 msgstr ""
+"Mohl bych, ale je tu Kim."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -227,6 +265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004056"
 msgid "I don't have time for this."
 msgstr ""
+"Nemám na to čas."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -234,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000406E"
 msgid "Next, you'll need to combine the base ingredient with an appropriate vehicle."
 msgstr ""
+"Poté je třeba zkombinovat základní složku s vhodným prostředkem."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -241,6 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040F5"
 msgid "The ginger root will help with the nausea and the birch bark tea will help you flush out the toxins. The pomegranate seeds are a natural aphrodisiac, as a nice bonus."
 msgstr ""
+"Kořen zázvoru pomůže od nevolnosti a čaj z březové kůry ti pomůže vyplavit toxiny. Semínka granátového jablka jsou jako příjemný bonus přírodním afrodiziakem."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -248,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004134"
 msgid "The ginger and aloe vera make this poultice ideal for the treatment of arthritis. It won't do anything for your hangover, though."
 msgstr ""
+"Díky zázvoru a aloe vera je tento obklad ideální pro léčbu artritidy. Na kocovinu to ale nic nezmůže."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -255,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004224"
 msgid "If only you could find one of these right now and drink the shit out of it. The book said it's good for you, so it would be okay."
 msgstr ""
+"Kéž bys teď mohl jednu takovou najít a pořádně se z ní napít. V knize se píše, že je to pro tebe dobré, takže by to bylo v pořádku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -262,6 +305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000426A"
 msgid "Yeah, let's try again."
 msgstr ""
+"Jo, zkusíme to znovu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -269,6 +313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004290"
 msgid "Very well. First, choose a base ingredient."
 msgstr ""
+"Velmi dobře. Nejprve si vyber základní složku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -276,6 +321,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042F5"
 msgid "From the pale, of course. Or perhaps from some enterprising entroponaut. Where you would find one of those, though, the book does not say."
 msgstr ""
+"Samozřejmě z bledomazi. Nebo možná od nějakého podnikavého entroponauta. Kde bys takového člověka našel, se však v knize nepíše."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -283,6 +329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F29"
 msgid "Anything about curing an apocalyptic hangover?"
 msgstr ""
+"Něco o léčbě apokalyptické kocoviny?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -290,6 +337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F9C"
 msgid "They're a series of psychic nodes located throughout your body. Unfortunately, the stresses of modern life often cause us to close off our agiogenous zones, which can result in all manner of physical and psychic ailments..."
 msgstr ""
+"Jedná se o řadu psychických uzlů rozmístěných po celém těle. Bohužel stresy moderního života často způsobují, že si své agiogenní zóny uzavíráme, což může mít za následek nejrůznější fyzické i psychické potíže..."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -297,6 +345,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000401E"
 msgid "There are a number of Seolite tonics that promise to improve your short-term memory, but nothing that speaks to your condition."
 msgstr ""
+"Existuje řada tonik ze Seolitu, která slibují zlepšení krátkodobé paměti, ale nic, co by odpovídalo tvému stavu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -304,6 +353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004092"
 msgid "This tastes so bad it can only be good for you. According to the pharmacopoeia, it should help you perform your *marital obligations*."
 msgstr ""
+"Chutná to tak špatně, že ti to může jen prospět. Podle lékopisu by ti to mělo pomoci plnit tvé *manželské povinnosti*."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -311,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004260"
 msgid "Be that as it may, it might have been useful to have such a thing for the trials you'll soon be facing. It's a shame you can't get your hands on these ingredients."
 msgstr ""
+"Ať je to jak chce, možná by bylo užitečné mít takovou věc pro zkoušky, které tě brzy čekají. Je škoda, že se ti tyto ingredience nedaří sehnat."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -318,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042B7"
 msgid "You imagine yourself with a mug of this tea in a chair by the window. It's a beautiful image, but will it ever come true for you?"
 msgstr ""
+"Představ si sám sebe s hrnkem tohoto čaje v křesle u okna. Je to krásná představa, ale splní se ti někdy?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -325,6 +377,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C21"
 msgid "Remote Viewers Division? What kind of woo-woo shit is that?"
 msgstr ""
+"Oddělení pozorovatelů vzdáleného? Co je to za vú-vú sračku?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -332,6 +385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040A4"
 msgid "A sprig of fresh mint."
 msgstr ""
+"Větvička čerstvé máty."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -339,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040D4"
 msgid "A few pomegranate seeds."
 msgstr ""
+"Několik semínek granátového jablka."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -346,6 +401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000420E"
 msgid "You should drink it anyway."
 msgstr ""
+"Stejně bys to měl pít."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -353,6 +409,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042C3"
 msgid "Mmmm. (Savour the feeling a moment longer.)"
 msgstr ""
+"Mmmm. (Vychutnej si ten pocit ještě chvíli.)"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -360,6 +417,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C34"
 msgid "Free your body! You long to feel the cool breeze tickle against your inner thighs and midriff."
 msgstr ""
+"Osvoboď své tělo! Toužíš cítit chladivý vánek, který tě šimrá na vnitřní straně stehen a pdobříšku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -367,6 +425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F5C"
 msgid "Maybe?"
 msgstr ""
+"Možná?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -374,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040DA"
 msgid "A spoonful of sugar."
 msgstr ""
+"Lžička cukru."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -381,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040E0"
 msgid "Some wild ginseng root."
 msgstr ""
+"Kořen divokého ženšenu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -388,6 +449,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004256"
 msgid "The very thought of this tea causes your muscles to relax and your mind to clear. You're more present and in control than you were a moment ago."
 msgstr ""
+"Už při pomyšlení na tento čaj se ti uvolní svaly a mysl se pročistí. Jsi více přítomný a pod kontrolou než před chvílí."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -395,6 +457,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042EC"
 msgid "You close the book and find yourself staring at the familiar cover once more."
 msgstr ""
+"Zavřeš knihu a znovu se zadíváš na známou obálku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -402,6 +465,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000040E8"
 msgid "Oh... then I do, very much so. I meditate *all the time*."
 msgstr ""
+"Aha... pak tedy ano, velmi. Medituji *pořád*."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -409,6 +473,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003ECE"
 msgid "[Put the book away.]"
 msgstr ""
+"[Odlož knihu.]"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -416,6 +481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000413C"
 msgid "The combination of mint and birch bark make this tea relaxing and good for the digestion. It won't do much for your hangover, though."
 msgstr ""
+"Kombinace máty a březové kůry činí tento čaj uvolňujícím a prospěšným pro trávení. Na kocovinu však příliš nezabere."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -423,6 +489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004215"
 msgid "Whoever wrote this never heard of the hair of the dog. Fuck this book. See if there's a bar open that'll still serve you."
 msgstr ""
+"Ten, kdo to napsal, nikdy neslyšel o psích chlupech. Ser na tuhle knihu. Podívej se, jestli je ještě někde otevřený bar, kde tě obslouží."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -430,6 +497,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F0D"
 msgid "It's all quackery, in other words."
 msgstr ""
+"Jinými slovy, je to všechno šarlatánství."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -437,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F30"
 msgid "Is there anything in there about restoring lost memories?"
 msgstr ""
+"Je tam něco o obnově ztracených vzpomínek?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -444,6 +513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F3E"
 msgid "Finally, something to calm the angry spirits that have been plaguing you."
 msgstr ""
+"Konečně něco na uklidnění rozzlobených duchů, kteří tě sužují."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -451,6 +521,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F47"
 msgid "What you're describing is booze. You don't need any herbs for that."
 msgstr ""
+"To, co popisuješ, je chlast. Na to nepotřebuješ žádné bylinky."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -458,6 +529,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F6A"
 msgid "Yes, twice a week."
 msgstr ""
+"Ano, dvakrát týdně."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -465,6 +537,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000041C2"
 msgid "The tincture you've invented sounds intriguing, but its medicinal value is suspect, to say the least. Safe to say it won't cure your hangover."
 msgstr ""
+"Tinktura, kterou jsi vymyslel, zní zajímavě, ale její léčivá hodnota je přinejmenším pochybná. Dá se s jistotou říct, že tvou kocovinu nevyléčí."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -472,6 +545,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F95"
 msgid "What are agiogenous zones?"
 msgstr ""
+"Co jsou to agiogenní zóny?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -479,6 +553,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FCB"
 msgid "Oh, yeah. Buck naked."
 msgstr ""
+"Ach, ano. Nahatý frajer."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -486,6 +561,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004304"
 msgid "You close the book and find yourself staring at the familiar cover once more."
 msgstr ""
+"Zavřeš knihu a znovu se zadíváš na známou obálku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -493,6 +569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004348"
 msgid "You glance over at the lieutenant, who is standing, as usual, with his hands neatly folded behind his back. What he's thinking about, if he's thinking about anything at all, is absolutely opaque to you."
 msgstr ""
+"Podíváš se na poručíka, který jako obvykle stojí s rukama úhledně složenýma za zády. O čem přemýšlí, pokud vůbec o něčem přemýšlí, je pro tebe naprosto nejasné."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -500,6 +577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FE0"
 msgid "You probably can't even take off your pants, can you?"
 msgstr ""
+"Pravděpodobně si ani nedokážeš sundat kalhoty, že?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -507,6 +585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000403B"
 msgid "Enough of this."
 msgstr ""
+"Už dost o tomhle."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -514,6 +593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003EEC"
 msgid "Flipping through the book you find a number of sections on the general benefits of the pale. A large pharmacopoeia makes up nearly half of the book."
 msgstr ""
+"Při listování knihou najdeš řadu kapitol o obecných výhodách bledomezi. Téměř polovinu knihy tvoří rozsáhlý lékopis."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -521,6 +601,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FA3"
 msgid "Regular meditation in the pale, however, can help to open up these zones, permitting the freeflow of psychic energy throughout the body."
 msgstr ""
+"Pravidelná meditace v bledomezi však může pomoci tyto zóny otevřít a umožnit tak volný tok psychické energie v celém těle."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -528,6 +609,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004098"
 msgid "Ginger root."
 msgstr ""
+"Kořen zázvoru."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -535,6 +617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000409E"
 msgid "Common meadow rue."
 msgstr ""
+"Ruta luční."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -542,6 +625,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000421C"
 msgid "The cool damp of the city has penetrated to your very marrow. Summer is a long way away."
 msgstr ""
+"Chladná vlhkost města ti pronikla až do morku kostí. Léto je ještě daleko."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -549,6 +633,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FF5"
 msgid "Oh god, you're right. I *can't* take my pants off!"
 msgstr ""
+"Bože, máš pravdu. *Nedokážu* si ani sundat kalhoty!"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -556,6 +641,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004074"
 msgid "You've created a julep of mint. It won't help your hangover, but it does seem like it would be refreshing on a warm summer's day."
 msgstr ""
+"Vytvořil jsi mátový džus. Na kocovinu ti nepomůže, ale vypadá to, že by byl osvěžující v horkém letním dni."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -563,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000407A"
 msgid "God only knows what to call this thing you've created, but drinking it would likely make your problems worse, not better."
 msgstr ""
+"Bůhví, jak nazvat tu věc, kterou jsi stvořil, ale její pití by tvé problémy pravděpodobně ještě zhoršilo, ne zlepšilo."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -570,6 +657,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040C5"
 msgid "Lastly, is there anything else you'd like to add?"
 msgstr ""
+"A nakonec, je ještě něco, co bys chtěl dodat?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -577,6 +665,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000410C"
 msgid "The mint and aloe vera make this poultice ideal for soothing inflammation and minor burns. It won't do anything for your hangover, though."
 msgstr ""
+"Díky mátě a aloe vera je tento obklad ideální pro zklidnění zánětů a drobných popálenin. Na kocovinu však nic nezmůže."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -584,6 +673,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C1A"
 msgid "At the Remote Viewers Division we're trained to keep our agiogenous zones maximally dilated."
 msgstr ""
+"V Oddělení pozorovatelů vzdáleného jsme vycvičeni k tomu, abychom udržovali své agiogenní zóny maximálně rozšířené."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -591,6 +681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C54"
 msgid "Your genitalia are the site of your most important agiogenous zone. It's vitally important to aerate them in the pale."
 msgstr ""
+"Tvé genitálie jsou místem tvé nejdůležitější agiogenní zóny. Je životně důležité je provětrat v bledomezi."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -598,6 +689,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C67"
 msgid "Excellent."
 msgstr ""
+"Vynikající."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -605,6 +697,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FAA"
 msgid "Okay, that's enough. (Close the book.)"
 msgstr ""
+"Dobře, to by stačilo. (Zavři knihu.)"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -612,6 +705,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004065"
 msgid "First, you need to choose a base ingredient."
 msgstr ""
+"Nejprve je třeba zvolit základní složku."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -619,6 +713,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040BC"
 msgid "Mash it into a paste with some aloe vera extract."
 msgstr ""
+"Rozmačkej ji na pastu s výtažkem z aloe vera."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -626,6 +721,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040EF"
 msgid "The ginger root will help with the nausea and the birch bark tea will help you flush out the toxins. The sugar just makes it taste better."
 msgstr ""
+"Kořen zázvoru pomůže od nevolnosti a čaj z březové kůry ti pomůže vyplavit toxiny. Cukr jen zlepšuje chuť."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -633,6 +729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000041BB"
 msgid "You've created a delicious tincture of whiskey and ginger. According to the pharmacopoeia, it should increase your energy and focus, though in your experience it's only done the opposite."
 msgstr ""
+"Vytvořil jsi lahodnou tinkturu z whisky a zázvoru. Podle lékopisu by měla zvýšit tvou energii a soustředění, ačkoli podle tvých zkušeností způsobuje pouze pravý opak."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -640,6 +737,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000427E"
 msgid "No, this stuff is all a bunch of hooey anyway. (Close the book.)"
 msgstr ""
+"Ne, stejně jsou to všechno jenom bláboly. (Zavři knihu.)"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -647,6 +745,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003ED5"
 msgid "\"Medicinal Purposes of the Pale.\" The cover of this heavy tome features a number of esoteric symbols."
 msgstr ""
+"\"Léčebné účinky bledomezi.\" Na obálce tohoto těžkého svazku je řada esoterických symbolů."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -654,6 +753,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F01"
 msgid "I think I just want some general health advice."
 msgstr ""
+"Myslím, že chci jen nějaké obecné zdravotní rady."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -661,6 +761,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F8E"
 msgid "You need to do that. It's important for opening up your agiogenous zones."
 msgstr ""
+"Musíš to udělat. Je to důležité pro otevření tvých agiogenních zón."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -668,6 +769,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FD2"
 msgid "Nudity is the most important part. Of the many ways modern society prevents our true selves from manifesting, clothing may be the most repressive..."
 msgstr ""
+"Nejdůležitější je nahota. Z mnoha způsobů, kterými moderní společnost brání projevení našeho pravého já, je oblečení možná tím nejrepresivnějším..."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -675,6 +777,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000040B0"
 msgid "Boil it with a tea made from birch bark."
 msgstr ""
+"Vař ji s čajem z březové kůry."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -682,6 +785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000040ED"
 msgid "That's just ridiculous. (Close the book.)"
 msgstr ""
+"To je prostě směšné. (Zavři knihu.)"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -689,6 +793,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005E94"
 msgid "The tome seems to get heavier with every passing minute."
 msgstr ""
+"S každou další minutou se zdá, že je svazek těžší a těžší."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -696,6 +801,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F80"
 msgid "Totally. Every time."
 msgstr ""
+"Zcela. Pokaždé."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -703,6 +809,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000004178"
 msgid "The tincture you've invented sounds intriguing, but its medicinal value is suspect, to say the least. Safe to say it won't cure your hangover."
 msgstr ""
+"Tinktura, kterou jsi vymyslel, zní zajímavě, ale její léčivá hodnota je přinejmenším pochybná. Dá se s jistotou říct, že tvou kocovinu nevyléčí."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -710,6 +817,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042D2"
 msgid "A tingle rushes down your spine and you feel your toes uncurl. If only it could always be like this."
 msgstr ""
+"Po páteři ti přeběhne mravenčení a cítíš, jak se ti kroutí prsty u nohou. Kéž by to tak bylo vždycky."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -717,6 +825,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000006C3A"
 msgid "What about your junk?"
 msgstr ""
+"A co tvé harampádí?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -724,6 +833,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003EE5"
 msgid "Open the book."
 msgstr ""
+"Otevři knihu."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -731,6 +841,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003F36"
 msgid "I just want something that will soothe the relentless torment of my existence."
 msgstr ""
+"Chci jen něco, co by utišilo neúprosná muka mé existence."
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -738,6 +849,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003FBD"
 msgid "Good. And when you meditate, are you in the nude?"
 msgstr ""
+"Dobré. A když medituješ, jsi nahý?"
 
 #. Title = INVENTORY / PALE MEDICINE
 #. Description = Medicinal Purposes of the Pale.
@@ -745,3 +857,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000042DE"
 msgid "You close the book and find yourself staring at the familiar cover once more."
 msgstr ""
+"Zavřeš knihu a znovu se zadíváš na známou obálku."
