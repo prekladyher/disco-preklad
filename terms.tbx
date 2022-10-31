@@ -355,7 +355,7 @@
         </langSet>
       </termEntry>
       <termEntry id="bröther">
-        <descrip type="definition">[aA] </descrip>
+        <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>bröther</term>
@@ -363,7 +363,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>brötr</term>
+            <term>brötr,-a m.</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1019,7 +1019,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Franconegro">
-        <descrip type="definition">[aA] historická postava, jeden z neposkvrněných</descrip>
+        <descrip type="definition">[OK] [aA] historická postava, jeden z neposkvrněných</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Franconegro</term>
@@ -1032,7 +1032,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Franconigerian cavalry">
-        <descrip type="definition">[aA] těžká jízda vedená Frankonegrem</descrip>
+        <descrip type="definition">[OK] [aA] těžká jízda vedená Frankonegrem</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Franconigerian cavalry</term>
@@ -1512,6 +1512,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Isobel Sadie">
+        <descrip type="definition">[aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Isobel Sadie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Izabela Sadiová</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="isola">
         <descrip type="definition">[OK] [aA] uskupení geografických lokací - pevniny i moře (svět DE se skládá z izol oddělených bledomezí)</descrip>
         <langSet xml:lang="en">
@@ -1795,6 +1808,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>poručík dvojnásobný jefrejtor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Lilienne Carter">
+        <descrip type="definition">[aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Lilienne Carter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Liliana Carterová</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3281,7 +3307,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="toque dork">
-        <descrip type="definition"></descrip>
+        <descrip type="definition">[OK] [aA] nadšenec do závodů motorových vozů</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>toque dork</term>
@@ -3289,7 +3315,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>krouťákohňup</term>
+            <term>otáčkofil</term>
           </tig>
         </langSet>
       </termEntry>
