@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -218,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000003016"
 msgid "Well, at least now you know."
 msgstr ""
+"No, teď už to alespoň víš."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -226,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AB62"
 msgid "Endure the stench. It has to come out eventually, right?"
 msgstr ""
+"Vydrž ten zápach. Nakonec to přece musí ven, ne?"
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -261,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A8DC"
 msgid "Far away, in the darkness of a makeshift morgue behind Station 41's lazareth, Dr. Nix Gottlieb cuts into the cold, dead feet of a murder victim. The veins are oddly black, he suspects a neurotoxin..."
 msgstr ""
+"Daleko odtud, v temnotě provizorní márnice za lazaretem Stanice 41, se doktor Nix Gottlieb zařezává do chladných mrtvých nohou oběti vraždy. Žíly jsou podivně černé, má podezření na neurotoxin..."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -269,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002FA8"
 msgid "No way, I'm not touching it."
 msgstr ""
+"V žádném případě, nedotknu se toho."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -277,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002FDC"
 msgid "Few more moments and the boots will be ready."
 msgstr ""
+"Ještě pár okamžiků a boty budou připraveny."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -285,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000A7CB"
 msgid "The stove is unmoved by your comings and goings."
 msgstr ""
+"Kamna se neohlížejí na tvé příchody a odchody."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -320,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000003003"
 msgid "Of course it tastes vile. Look at the effort you put in the culinary side of this? Not exactly fine dining, is it?"
 msgstr ""
+"Samozřejmě chutná odporně. Podívej, kolik úsilí jsi vynaložil na kulinářskou stránku věci? To není zrovna špičková gastronomie, že?"
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -328,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000A7D2"
 msgid "The lieutenant said you'd need to boil the boots in acid to get the corpse smell out, but this huge pot, industrial dish soap, white vinegar, and patience might do the trick."
 msgstr ""
+"Poručík říkal, že bys musel boty vyvařit v kyselině, aby se zbavily mrtvolného zápachu, ale tenhle obrovský hrnec, průmyslové mýdlo na nádobí, bílý ocet a trpělivost by to mohly zvládnout."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -345,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100003152"
 msgid "Whatever you had planned, you have to do it when the lieutenant's gone."
 msgstr ""
+"Ať už jsi plánoval cokoli, musíš to udělat, až bude poručík pryč."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -353,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002FFA"
 msgid "You're tasting another human being. You shouldn't."
 msgstr ""
+"Ochutnáváš jinou lidskou bytost. To bys neměl."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -361,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000A7BD"
 msgid "\"What are you planning to do, throw a dinner party? Please refrain from culinary experiments until after we've finished the investigation.\""
 msgstr ""
+"\"Co máte v plánu, uspořádat večírek? Prosím, zdržte se kulinářských experimentů, dokud nedokončíme vyšetřování.\""
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -369,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000400000300A"
 msgid "You have awakened the *hunger*. There is no turning back now, better invest in a good cook book and stock up on salt."
 msgstr ""
+"Probudili jsi v sobě *hlad*. Teď už není cesty zpět, raději investuj do dobré kuchařky a zásob se solí."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -386,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002FB6"
 msgid "The scorching hot 'stew' burns your finger and tastes absolutely vile."
 msgstr ""
+"Horký \"guláš\" ti spálí prst a chutná naprosto odporně."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -394,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002FF3"
 msgid "Your hands are protected from the heat, but the 'stew' tastes absolutely vile."
 msgstr ""
+"Tvé ruce jsou chráněny před žárem, ale \"guláš\" chutná naprosto odporně."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -429,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AAE5"
 msgid "The boots are *really* disgusting. Pour some dish soap *and* the bottle of white vinegar into the pot."
 msgstr ""
+"Ty boty jsou *opravdu* nechutné. Nalij do hrnce trochu mýdla na nádobí *a* láhev bílého octa."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -473,6 +495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AB54"
 msgid "A pair of real beauties! The boots are shiny, hot and reek of vinegar. Just perfect."
 msgstr ""
+"Pár opravdových krásek! Boty jsou lesklé, horké a páchnou octem. Prostě dokonalé."
 
 #. Title = WHIRLING F1 / INDUSTRIAL STOVE
 #. Description = You can use the stove to boil the hanged man's boots when Kim is not around.
@@ -490,3 +513,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D244"
 msgid "The delicious smells of cheap soap and vinegar waft up from the pot."
 msgstr ""
+"Z hrnce se line lahodná vůně levného mýdla a octa."
