@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CAB"
 msgid "And from his perch at the end of the table, Titus Hardie himself stares at you with a cold contempt that makes you want to leave the cafeteria straightaway."
 msgstr ""
+"A sám Titus Valchař na tebe ze svého místa na konci stolu hledí s chladným opovržením, které tě nutí okamžitě opustit jídelnu."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002C89"
 msgid "What do you mean? Aren't they Evrart's guys?"
 msgstr ""
+"Co tím myslíš? Nejsou to Evrartovi lidé?"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002C8F"
 msgid "Alright, guess I'll look elsewhere then. [Leave.]"
 msgstr ""
+"Dobře, asi se tedy poohlédnu jinde. [Odejdi.]"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CA6"
 msgid "No, they don't. Glen seems to be contemplating grievous bodily harm while he massages his raw knuckles..."
 msgstr ""
+"Ne, nemají. Zdá se, že Glen uvažuje o těžkém ublížení na zdraví, zatímco si masíruje odřené klouby na rukou..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CD6"
 msgid "A little man, hardly bigger than a child, with a lean, hateful face..."
 msgstr ""
+"Malý muž, sotva větší než dítě, s hubenou, nenávistnou tváří..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CF4"
 msgid "Let's keep moving, then. [Leave.]"
 msgstr ""
+"Pokračujme tedy dál. [Odejdi.]"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CED"
 msgid "Let's keep moving, then. [Leave.]"
 msgstr ""
+"Pokračujme tedy dál. [Odejdi.]"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002D5A"
 msgid "Meanwhile, Fat Angus keeps shooting you furtive glances and mumbling uneasily to himself..."
 msgstr ""
+"Tlustý Angus po tobě mezitím neustále vrhá kradmé pohledy a nespokojeně si mumlá pro sebe..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CC0"
 msgid "What do you mean? Who are they?"
 msgstr ""
+"Co tím myslíš? Kdo jsou?"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CC7"
 msgid "You may not know them, but they seem to know exactly who *you* are..."
 msgstr ""
+"Možná je neznáš, ale zdá se, že oni přesně vědí, kdo jsi..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CDB"
 msgid "You've seen the expression on this one's face before, on a dozen hardened thieves and killers..."
 msgstr ""
+"Výraz v jeho tváři jsi už viděl, na tuctu otrlých zlodějů a vrahů..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CE0"
 msgid "And here, guarding the entrance to his den, the undisputed alpha wolf, radiating contempt for you and all you represent."
 msgstr ""
+"A tady hlídá vchod do svého doupěte, nesporný alfa vlk, který vyzařuje pohrdání tebou a vším, co představuješ."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002D62"
 msgid "Meanwhile, the fat one keeps shooting you furtive looks while mumbling uneasily to himself..."
 msgstr ""
+"Ten tlustý po tobě mezitím neustále vrhá kradmé pohledy a přitom si pro sebe nespokojeně mumlá..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002C98"
 msgid "They are, but they don't seem too keen to talk with you, do they?"
 msgstr ""
+"Jsou, ale nezdá se, že by s tebou chtěli mluvit, že?"
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002CB0"
 msgid "In the far back, Eugene is doing his best to ignore you..."
 msgstr ""
+"V zadní části se tě Evžen snaží ignorovat..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002C82"
 msgid "Wait... No, something about this bunch doesn't smell right..."
 msgstr ""
+"Počkej... Ne, něco mi na téhle partě nevoní..."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002C9F"
 msgid "Besides, you're pretty sure they consider themselves social democrats."
 msgstr ""
+"Kromě toho jsi si jisty, že se považují za sociální demokraty."
 
 #. Title = WHIRLING F1 / orb communist quest
 #. Description = Orb for wondering whether the Hardies are a communist cell. PART OF THE COMMUNIST DREAM QUEST.
@@ -129,3 +153,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002D31"
 msgid "They look pretty organised to me."
 msgstr ""
+"Připadá mi, že jsou pěkně organizovaní."
