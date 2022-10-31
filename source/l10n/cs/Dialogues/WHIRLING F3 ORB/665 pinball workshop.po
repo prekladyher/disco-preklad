@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000171B3"
 msgid "It's not a ghost story. It's a curse -- and Garte ought be made knowledgeable so he can perform counter-spells."
 msgstr ""
+"Není to duchařský příběh. Je to kletba - a Gart by měl být poučen, aby mohl provádět protikouzla."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000075E3"
 msgid "This seems to be some kind of workshop. For fixing up pinball machines -- a long time ago. Everything is covered with dust now..."
 msgstr ""
+"Zdá se, že se jedná o nějakou dílnu. Na opravu pinballových automatů - už je to dávno. Všechno je teď pokryté prachem..."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010D64"
 msgid "\"Looks like it. I'm guessing Martinaise North 22 used to be a pinball arcade before it became a hostel. There are machines left over...\" He taps his foot."
 msgstr ""
+"\"Vypadá to tak. Hádám, že Martinéza Sever 22 bývala pinballová herna, než se z ní stal hostel. Zbyly tady nějaké stroje...\" Poklepe nohou."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010DBA"
 msgid "\"Could this mean the Whirling-in-Rags really *is* part of the Doomed Commercial Area?\""
 msgstr ""
+"\"Může to znamenat, že Cáry jsou opravdu součástí Prokletých komerčních prostor?\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800010DBA"
 msgid "\"Could this mean the Whirling-in-Rags really *is* part of the Doomed Commercial Area?\""
 msgstr ""
+"\"Může to znamenat, že Cáry jsou opravdu součástí Prokletých komerčních prostor?\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -51,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003EFF"
 msgid "As the Dicemaker said, yes; it all fits. Not that it has anything to do with the case, but it is a nice connection!"
 msgstr ""
+"Jak řekla Kostkařka, ano; vše do sebe zapadá. Ne že by to mělo něco společného s případem, ale je to pěkné spojení!"
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -59,6 +72,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000762F"
 msgid "\"Doesn't look like that pinball machine will ever get fixed.\""
 msgstr ""
+"\"Nevypadá to, že by ten pinballový automat někdy opravili.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -67,6 +81,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580000762F"
 msgid "Doesn't look like that pinball machine will ever get fixed."
 msgstr ""
+"Nevypadá to, že by ten pinballový automat někdy opravili."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010DA6"
 msgid "\"Ah, yes -- as the novelty dicemaker said.\" He makes a note in his notebook. \"This has absolutely nothing to do with the case, I'm sure. But I do like a nice little *connection*.\""
 msgstr ""
+"\"Ach, ano - jak říkala ta výrobkyně kostek.\" Udělá si poznámku do zápisníku. \"Tohle nemá s případem vůbec nic společného, tím jsem si jistý. Ale líbí se mi takové malé pěkné *spojení*.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -83,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010D86"
 msgid "Remember the *Dicemaker*?! Then that means..."
 msgstr ""
+"Vzpomínáš na *Kostkařku*?! Pak to znamená..."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -91,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010D99"
 msgid "\"Whirling-in-Rags was once the East Delta Pinball arcade. This is all left over from that.\""
 msgstr ""
+"\"V-Cárech-vířící byla kdysi herna Pinbally Východní delty. Tohle všechno po ní zbylo.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -99,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000075BA"
 msgid "So this is where they brought faulty pinball machines to fix them up -- a long time ago. Everything is covered with dust now..."
 msgstr ""
+"Takže sem vozili vadné pinballové automaty, aby je opravili - už je to dávno. Všechno je teď pokryté prachem..."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -107,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001BD0A"
 msgid "The lieutenant looks around the dusty, crowded room, inspecting the tools on the shelf."
 msgstr ""
+"Poručík se rozhlédne po zaprášené, přeplněné místnosti a prohlédne si nářadí na polici."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -115,6 +135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003ED4"
 msgid "Yes. Pinball hasn't enjoyed a heyday for fifteen or twenty years."
 msgstr ""
+"Ano. Pinball nezažívá období rozkvětu už patnáct nebo dvacet let."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -123,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010DC5"
 msgid "\"If that's true then our *cafeteria manager* is not going to like it.\" He looks around. \"We should tell him what we found up here -- *omitting* that suspicion.\""
 msgstr ""
+"\"Jestli je to pravda, tak se to našemu *manažerovi hostelů* nebude líbit.\" Rozhlédne se kolem. \"Měli bychom mu říct, co jsme tady nahoře našli... a *zbavit se* toho podezření.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -131,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010DE0"
 msgid "\"He does not appear to be the kind of man who likes his establishment to be part of a neighbourhood ghost story. About *bankruptcy*.\""
 msgstr ""
+"\"Nezdá se, že by byl typem člověka, který má rád, když je jeho podnik součástí duchařského příběhu ze sousedství. O *bankrotu*.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -139,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003F17"
 msgid "And Garte would not like that. He should probably be made aware that his establishment is part of the neighbourhood ghost story."
 msgstr ""
+"A to by se Gartovi nelíbilo. Měl by si nejspíš uvědomit, že jeho podnik je součástí duchařského příběhu ze sousedství."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -147,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000171AC"
 msgid "Stupid superstition. But still -- it would be *interesting* to see what the cafeteria manager thinks of this..."
 msgstr ""
+"Hloupá pověra. Ale stejně - bylo by zajímavé zjistit, co si o tom myslí manažer hostelu..."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -155,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000076B7"
 msgid "Not interested. [Discard thought.]"
 msgstr ""
+"Nemám zájem. [Zahoď myšlenku.]"
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -163,6 +189,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000076B7"
 msgid " [Finish thought.]"
 msgstr ""
+"[Ukonči myšlenku.]"
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -171,6 +198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007657"
 msgid "\"This used to be a... pinball workshop.\""
 msgstr ""
+"\"Bývala to... dílna na pinball.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -179,6 +207,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007657"
 msgid "This used to be a... pinball workshop."
 msgstr ""
+"Bývala to... dílna na pinbally."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -187,6 +216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003F11"
 msgid "Yes. It would mean that."
 msgstr ""
+"Ano. To by znamenalo, že."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -195,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010D6B"
 msgid "A creak, some dust falls off a shelf."
 msgstr ""
+"Zaskřípe to, z police spadne prach."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -203,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000075F3"
 msgid "\"Looks like they gave up on fixing the pinball machines at some point.\""
 msgstr ""
+"\"Vypadá to, že opravu pinballových automatů v určitém okamžiku vzdali.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -211,6 +243,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000075F3"
 msgid "Looks like they gave up on fixing the pinball machines at some point."
 msgstr ""
+"Vypadá to, že opravu pinballových automatů v určitém okamžiku vzdali."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -219,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003EF8"
 msgid "And it has been forgotten. Now, there is only one working machine in the main hall -- the rest is lost to dust."
 msgstr ""
+"A na to se zapomnělo. Nyní je v hlavní hale pouze jeden funkční stroj - ostatní jsou zaprášené."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -227,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010DCB"
 msgid "But then it went bankrupt... your skin crawls from making the connection!"
 msgstr ""
+"Ale pak zkrachovala... naskakuje ti husí kůže, když si to spojíš!"
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -235,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000760E"
 msgid "\"At some point -- twenty years ago? Fifteen maybe. Before pinball went out of vogue.\""
 msgstr ""
+"\"Někdy - před dvaceti lety? Možná před patnácti. Než pinball vyšel z módy.\""
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -243,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003EEA"
 msgid "Yes. Martinaise North 22 used to be a pinball arcade."
 msgstr ""
+"Ano. Martinéza Sever 22 bývala herna pinballu."
 
 #. Title = WHIRLING F3 ORB / pinball workshop
 #. Description = 1. This was a pinball workshop.
@@ -251,3 +288,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010D72"
 msgid "\"Downstairs in the hall -- next to the main door. One of them even works. I've seen one of the Hardies bang away at it.\""
 msgstr ""
+"\"Dole v hale - vedle hlavních dveří. Jeden z nich dokonce funguje. Viděl jsem, jak do něj jeden z Valchařů buší.\""
