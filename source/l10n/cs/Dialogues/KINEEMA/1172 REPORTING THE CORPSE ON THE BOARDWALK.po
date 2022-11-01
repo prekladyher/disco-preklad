@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK
 #. Description = You report to the station that you have found a dead body from the boardwalk.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000CF9"
 msgid "\"There might be a *sequence killer* on the loose.\""
 msgstr ""
+"\"Máme tu *sériového vraha* utrženého ze řetězu.\""
 
 #. Title = KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK
 #. Description = You report to the station that you have found a dead body from the boardwalk.
@@ -178,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000D1B"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK
 #. Description = You report to the station that you have found a dead body from the boardwalk.
@@ -213,6 +222,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000D20"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK
 #. Description = You report to the station that you have found a dead body from the boardwalk.
