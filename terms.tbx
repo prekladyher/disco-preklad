@@ -29,6 +29,32 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="(Opt in.)">
+        <descrip type="definition">[aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(Opt in.)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(Ztotožni se s tím.)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="(Opt out.)">
+        <descrip type="definition">[aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>(Opt out.)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(Neztotožni se s tím.)</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="(to) cramp style">
         <descrip type="definition">[OK] [aA] např. the were cramping my style - kazili mi styl</descrip>
         <langSet xml:lang="en">
@@ -420,7 +446,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Chester McLaine">
-        <descrip type="definition">[aA] [TYKAT] všichni na Stanici 41 si tykají</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] všichni na okrsku 41 si tykají</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Chester McLaine</term>
@@ -472,7 +498,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Coalition government">
-        <descrip type="definition">[aA] velké K, bereme to jako název a ne jako "koaliční vládu - nějakou vládu Koalice"</descrip>
+        <descrip type="definition">[OK] [aA] velké K, bereme to jako název a ne jako "koaliční vládu - nějakou vládu Koalice"</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Coalition government</term>
@@ -823,7 +849,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Elizabeth Beaufort">
-        <descrip type="definition">[aA] [VYKAT] nejprve zahradnice, později právnička odborů</descrip>
+        <descrip type="definition">[OK] [aA] [VYKAT] nejprve zahradnice, později právnička odborů</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Elizabeth Beaufort</term>
@@ -1032,7 +1058,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Firewalker">
-        <descrip type="definition">[aA] přezdívka, kterou si dal Harry sám</descrip>
+        <descrip type="definition">[OK] [aA] přezdívka, kterou si dal Harry sám</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Firewalker</term>
@@ -1604,7 +1630,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Jean &quot;Vic&quot; Vicquemare ">
-        <descrip type="definition">[aA] [TYKAT] všichni na Stanici 41 si tykají (vykat, když vystupuje jako Muž se slunečními brýlemi)</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] všichni na okrsku 41 si tykají (vykat, když vystupuje jako Muž se slunečními brýlemi)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Jean "Vic" Vicquemare </term>
@@ -1824,6 +1850,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="ledger">
+        <descrip type="definition">[OK] [aA] ve významu Harry policejních spisů / zápisníku</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ledger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>fascikl</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="leitmotiv">
         <descrip type="definition">[OK] [aA] zde jako motto na erbu</descrip>
         <langSet xml:lang="en">
@@ -1903,7 +1942,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Mack &quot;The Torso&quot; Torson">
-        <descrip type="definition">[aA] [TYKAT] všichni na Stanici 41 si tykají</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] všichni na okrsku 41 si tykají</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Mack "The Torso" Torson</term>
@@ -2033,7 +2072,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Measurehead">
-        <descrip type="definition">[OK] [aA] [VYKAT] obrovský černoch - pokročilý rasista</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] obrovský černoch - pokročilý rasista, tyká všem</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Measurehead</term>
@@ -2176,7 +2215,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Nix Gottlieb">
-        <descrip type="definition">[aA] [TYKAT] harry vyká, nix jako nihilistický doktor tyká zpět</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] harry vyká, nix jako nihilistický doktor tyká zpět</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Nix Gottlieb</term>
