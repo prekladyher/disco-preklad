@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PAWNSHOP / KIM GLASS barks
 #. Description = Kim reacts to you clicking on the glass.
@@ -10,3 +17,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002D79"
 msgid "\"Not top-of-the-line glass. Hope he never has to rely on it.\""
 msgstr ""
+"\"Ne úplně nejlepší sklo. Snad na něj nebude muset nikdy spoléhat.\""
