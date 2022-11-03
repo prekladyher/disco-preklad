@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -346,6 +353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A42D"
 msgid "\"Do you know the *Wirrâl Untethered* setting? I want a die for that.\""
 msgstr ""
+"\"Znáte sadu *Odpoutaný Wirrâl*? Chci do ní kostku.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -640,6 +648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A98C"
 msgid "\"Okay. I'd like to order a die from you.\""
 msgstr ""
+"\"Dobře. Rád bych si u vás objednal kostku.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -931,6 +940,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B59D"
 msgid "\"Maybe you have some other ideas for dice?\""
 msgstr ""
+"\"Možná máte nápady na  nějaké další kostky?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -947,7 +957,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000BAB5"
 msgid "\"Hey, Neha... The curse is real and I figured out why it has spared you.\""
 msgstr ""
-"\"Hej, Libuše... Kletba je skutečná a já jsem zjistil, proč vás ušetřila.\""
+"\"Hej, Neo... Kletba je skutečná a já jsem zjistil, proč vás ušetřila.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1241,6 +1251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A7D7"
 msgid "She's thankful for the security they provide her."
 msgstr ""
+"Je vděčná za bezpečí, které jí poskytují."
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1299,6 +1310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B5CB"
 msgid "\"It's a deal.\" (Order the dice set.)"
 msgstr ""
+"\"Platí.\" (Objednej si sadu kostek.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1315,7 +1327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000BBB4"
 msgid "\"Why?\" Neha starts laughing. \"You're not scared, officer, are you?\""
 msgstr ""
-"\"Proč?\" Libuše se začne smát. \"Vy se nebojíte, detektive, že ne?\""
+"\"Proč?\" Nea se začne smát. \"Vy se nebojíte, detektive, že ne?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1557,6 +1569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B53F"
 msgid "\"What do you mean by *cursed*?\""
 msgstr ""
+"\"Co myslíte tím *prokleté*?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1565,6 +1578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B56A"
 msgid "\"As cursed as my life.\""
 msgstr ""
+"\"Prokleté jako můj život.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1573,6 +1587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B6E4"
 msgid "\"Hm... I should maybe get a different one.\" (Back off.)"
 msgstr ""
+"\"Hm... Možná bych si měl pořídit jinou.\" (Odstup.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1772,6 +1787,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700003B90"
 msgid "\"The Wirrâl Untethered die is a variation of a standard role-playing die, only instead of plants it uses motifs of ice and death. And loss, of course.\""
 msgstr ""
+"\"Kostka do Odpoutaného Wirrâlu je variací standardní kostky pro hraní her na hrdiny, jen místo rostlin používá motivy ledu a smrti. A samozřejmě ztráty.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -1804,6 +1820,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B6D8"
 msgid "\"It's a deal.\" (Order the die.)"
 msgstr ""
+"\"Platí.\" (Objednej si kostku.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -2092,6 +2109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B6BF"
 msgid "\"What's a standard role-playing die?\""
 msgstr ""
+"\"Co je to standardní kostka pro hraní her na hrdiny?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -2100,6 +2118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B6C6"
 msgid "\"It's an *icositetrahedron* -- a 24-sided die that can produce results for a 2-sided, 3-sided, 4-sided, 6-sided, and 12-sided die with a single roll. Technically you can also use it for many other sizes, but you may need to re-roll results.\""
 msgstr ""
+"\"Je to *ikozitraedr* - 24stěnná kostka, se kterou dokážete jedním hodem získat výsledky pro 2stěnnou, 3stěnnou, 4stěnnou, 6stěnnou a 12stěnnou kostku. Technicky ji můžete použít i pro mnoho dalších velikostí, ale možná budete muset výsledky přehazovat.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -2108,6 +2127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B6FA"
 msgid "\"It's an *icositetrahedron* -- a 24-sided die that can produce results for a 2-sided, 3-sided, 4-sided, 6-sided, and 12-sided die with a single roll. Technically you can also use it for many other sizes, but you may need to re-roll results.\""
 msgstr ""
+"\"Je to *ikozitraedr* - 24stěnná kostka, se kterou dokážete jedním hodem získat výsledky pro 2stěnnou, 3stěnnou, 4stěnnou, 6stěnnou a 12stěnnou kostku. Technicky ji můžete použít i pro mnoho dalších velikostí, ale možná budete muset výsledky přehazovat.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -2408,6 +2428,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B54C"
 msgid "\"As cursed as this commercial area.\""
 msgstr ""
+"\"Prokleté jako tyto komerční prostory.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -2697,6 +2718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A7C1"
 msgid "\"Understood.\""
 msgstr ""
+"\"Rozumím.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -2990,7 +3012,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700005856"
 msgid "\"Hello, I'm Neha.\" A bird-like woman sits on a throne of tools, with emerald light shining through her hair."
 msgstr ""
-"\"Ahoj, já jsem Libuše.\" Na trůnu z nástrojů sedí žena podobná ptáku a vlasy jí prosvítají smaragdovým světlem."
+"\"Ahoj, já jsem Nea.\" Na trůnu z nástrojů sedí žena podobná ptáku a vlasy jí prosvítají smaragdovým světlem."
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3032,6 +3054,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B522"
 msgid "\"A star that fell from the firmament? Those cost more than seven reál. Are you sure?\""
 msgstr ""
+"\"Hvězda, která spadla z nebeské klenby? Ty stojí víc než sedm reálů. Jste si jistý?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3040,6 +3063,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B537"
 msgid "\"Yes, you definitely have the proper attitude. How about a pair of 100-sided dice? Made of ivory and inlaid with lodestone, a naturally occurring magnet, to complement your magnetic personality.\""
 msgstr ""
+"\"Ano, rozhodně máte správný přístup. Co takhle pár stostěnných kostek? Vyrobených ze slonoviny a vykládaných magnetovcem, přirozeně se vyskytujícím magnetem, který doplní vaši magnetickou osobnost.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3056,6 +3080,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B645"
 msgid "\"It's a deal.\" (Order the die.)"
 msgstr ""
+"\"Platí.\" (Objednej si kostku.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3064,6 +3089,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B71B"
 msgid "\"Why do you need to cast it in resin?\""
 msgstr ""
+"\"Proč ji musíte zalévat do pryskyřice?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3363,6 +3389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A4DD"
 msgid "\"I'm thinking something made from alligator jawbone, cast in black resin. The reptile bone is as white as ice and dead as... well... death,\" she smiles. \"For seven reál I could have it ready in eight hours.\""
 msgstr ""
+"\"Přemýšlím o něčem z aligátoří čelisti, zalité v černé pryskyřici. Plazí kost je bílá jako led a mrtvá jako... no... smrt,\" usměje se. \"Za sedm reálů bych to mohla mít hotové za osm hodin.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3622,6 +3649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A51F"
 msgid "As she speaks her bone-like fingers fiddle with a ring. Her bones light, but her hands strong."
 msgstr ""
+"Zatímco mluví, její kostnaté prsty si pohrávají s prstenem. Její kosti jsou lehké, ale ruce silné."
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3721,6 +3749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B5D6"
 msgid "\"I need to think about it first.\" (Back off.)"
 msgstr ""
+"\"Nejdřív si to musím promyslet.\" (Ustup.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3729,6 +3758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B6F4"
 msgid "\"What's a *standard* role-playing die?\""
 msgstr ""
+"\"Co je to *standardní* kostka pro hraní her na hrdiny?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -3960,6 +3990,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A7AE"
 msgid "\"Some of my friends were role-players. They asked me to make some polyhedral dice out of cobalt. That was my first order. I grew it from there.\""
 msgstr ""
+"\"Někteří z mých přátel hráli hry na hrdiny. Požádali mě, abych vyrobila mnohostěnné kostky z kobaltu. To byla moje první zakázka. Od té doby jsem to rozvíjela.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4041,6 +4072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A9A4"
 msgid "\"Of course,\" she nods -- this is what she's here for. \"Tell me what you have in mind.\""
 msgstr ""
+"\"Samozřejmě,\" přikývne - od toho tu je. \"Řekněte mi, co máte na mysli.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4049,6 +4081,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B562"
 msgid "\"Alright, how about I surprise you? Come back in eight hours with seven reál and I'll give you your *cursed die*.\""
 msgstr ""
+"\"Dobře, co kdybych vás překvapila? Přijďte za osm hodin se sedmi reály a já vám dám vaši *prokletou kostku*.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4315,6 +4348,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B51B"
 msgid "\"Do you have any *cursed dice*?\""
 msgstr ""
+"\"Máte nějaké *prokleté kostky*?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4323,6 +4357,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B58E"
 msgid "\"Actually, I need to think about it first.\" (Back off.)"
 msgstr ""
+"\"Vlastně si to musím nejdřív promyslet.\" (Ustup.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4331,6 +4366,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B5C4"
 msgid "\"Ten reál and I can get these ready in eight hours.\""
 msgstr ""
+"\"Deset reálů a já je můžu mít hotové za osm hodin.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4347,6 +4383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B5ED"
 msgid "\"It's true, magnetic dice are definitely different. When rolled together, the magnetic fields of the pips interact with each other to push and pull on each other as they are rolled. Just like all magnetic personalities do.\""
 msgstr ""
+"\"Je pravda, že magnetické kostky jsou rozhodně jiné. Když se hází dohromady, magnetická pole kostek na sebe vzájemně působí a při házení se tlačí a táhnou. Stejně jako to dělají všechny magnetické osobnosti.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4595,6 +4632,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A79C"
 msgid "\"How did you become a dicemaker?\""
 msgstr ""
+"\"Jak jste se stala výrobcem kostek?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4720,6 +4758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002FD5"
 msgid "\"Maybe. I'm not really sure why I'm here, honestly.\""
 msgstr ""
+"\"Možná. Upřímně řečeno, nejsem si jistý, proč jsem tady.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4927,6 +4966,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B5BC"
 msgid "\"Tell me about your most extraordinary die!\""
 msgstr ""
+"\"Povězte mi o vaší nejneobyčejnější kostce!\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4943,6 +4983,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B698"
 msgid "\"It's a deal.\" (Order the die.)"
 msgstr ""
+"\"Platí.\" (Objednej si kostku.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -4951,6 +4992,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B722"
 msgid "\"Untreated bone is porous and prone to chipping. Cast it in something hard like resin, though, and *voila*, it's perfect.\""
 msgstr ""
+"\"Neošetřená kost je porézní a náchylná k štěpení. Zalijte ji ale do něčeho pevného, jako je pryskyřice, a *voila*, je dokonalá.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5040,6 +5082,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002FFD"
 msgid "\"Take a look around and see if there's any particular stone you want to use.\" The walls around her are covered with rows of precious stones and minerals."
 msgstr ""
+"\"Rozhlédněte se kolem a podívejte se, jestli tu není nějaký konkrétní kámen, který byste chtěl použít.\" Stěny kolem ní jsou pokryty řadami drahých kamenů a minerálů."
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5116,6 +5159,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A527"
 msgid "This person means you -- or no one else -- absolutely no harm. She will answer freely and honestly."
 msgstr ""
+"Tahle osoba tobě - ani nikomu jinému - nechce absolutně ublížit. Bude odpovídat otevřeně a upřímně."
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5124,6 +5168,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A7A3"
 msgid "\"How did I *become* one? It was a business decision. I was a regular jeweller at first, but that's an unfocused field -- with too much competition.\""
 msgstr ""
+"\"Jak jsem se jím stala? Bylo to obchodní rozhodnutí. Nejdřív jsem byla obyčejný klenotník, ale to je nezaměřený obor - s příliš velkou konkurencí.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5165,6 +5210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A4BF"
 msgid "\"Ah, yes, Fortress Accident.\" She shakes her head lightly. \"It's too bad they never finished their game...\""
 msgstr ""
+"\"Ach, ano, Pevnost katastrof.\" Lehce zavrtí hlavou. \"Škoda, že tu hru nikdy nedokončili...\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5281,6 +5327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002FF6"
 msgid "\"How strange,\" she says. \"Well, if you're interested, my rate is 10 reál per set, unless you want something really unusual...\""
 msgstr ""
+"\"To je zvláštní,\" řekne. \"No, jestli máte zájem, moje sazba je 10 reálů za sadu, pokud nechcete něco opravdu neobvyklého...\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5379,6 +5426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A7B5"
 msgid "\"Do you like role-playing games yourself?\""
 msgstr ""
+"\"Vy sama máte ráda hry na hrdiny?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5428,6 +5476,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B529"
 msgid "\"Yes, I'm a star myself, a *superstar* -- and superstars don't care about money.\""
 msgstr ""
+"\"Ano, sám jsem hvězda, *superhvězda* - a superhvězdy se o peníze nestarají.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5436,6 +5485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B5E7"
 msgid "\"But do magnetic dice even roll properly?\""
 msgstr ""
+"\"Ale padají magnetické kostky vůbec správně?\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5673,6 +5723,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A7C9"
 msgid "\"Not especially. I like working with rare materials and a steady pay. And role-players as customers -- they're nice people.\""
 msgstr ""
+"\"Nijak zvlášť. Mám ráda práci se vzácnými materiály a stálý příjem. A hráči jako zákazníci - jsou to milí lidé.\""
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
@@ -5740,6 +5791,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000B588"
 msgid "\"It's a deal.\" (Order the die.)"
 msgstr ""
+"\"Platí.\" (Objednej si kostku.)"
 
 #. Title = DOOMED / DICEMAKER
 #. Description = New thought: The Precarious World
