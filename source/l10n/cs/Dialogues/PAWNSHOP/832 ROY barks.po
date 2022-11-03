@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015767"
 msgid "\"The light... wow.\""
 msgstr ""
+"\"Světla... tý jo.\""
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015776"
 msgid "\"... yeah...\""
 msgstr ""
+"\"...no jo...\""
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002BEE"
 msgid "\"If you want to pawn... you're here...\""
 msgstr ""
+"\"Pokud chcete něco zastavit... tak jste tady...\""
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800001277"
 msgid "\"Welcome to the pawnshop!\""
 msgstr ""
+"\"Vítejte v zastavárně!\""
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015762"
 msgid "\"Yeah, man...\""
 msgstr ""
+"\"Jo, chlape...\""
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015771"
 msgid "\"Like... yeah.\""
 msgstr ""
+"\"Jako... jo.\""
 
 #. Title = PAWNSHOP / ROY barks
 #. Description = Roy greets you.
@@ -52,3 +65,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001576C"
 msgid "\"Radiowaves...\""
 msgstr ""
+"\"Rádiové vlny...\""
