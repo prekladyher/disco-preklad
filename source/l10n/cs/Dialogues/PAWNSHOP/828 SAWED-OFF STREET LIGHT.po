@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00013F02"
 msgid "\"Hm?\" He surfaces from a daydream. \"Oh, right. That's... good,\" he replies, unsure of what you said."
 msgstr ""
+"\"Co?\" Vynoří se z denního snění. \"Ach, jistě. To je... dobře,\" odpoví, nejistý si tím, co jsi právě říkal."
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014379"
 msgid "The lieutenant catches your movements and meets your eyes with a look of confusion."
 msgstr ""
+"Poručík postřehne tvé pohyby a podívá se ti do očí se zmatením."
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -35,6 +44,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000143E7"
 msgid "Silence..."
 msgstr ""
+"Ticho..."
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -59,6 +69,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000002A2"
 msgid "\"Excellent choice. I'm almost sad to part with it.\""
 msgstr ""
+"\"Skvělá volba. Skoro je mi líto, že se s ní musím rozloučit.\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -67,6 +78,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000163DC"
 msgid "Leave your street light be for now. [Leave.]"
 msgstr ""
+"Zatím nech svoji pouliční lampu být. [Odejdi.]"
+""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -83,6 +96,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000133A0"
 msgid "\"Actually, no.\""
 msgstr ""
+"\"Vlastně, ne.\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -99,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00013F08"
 msgid "\"I've got big plans for this light. Your shop's gonna be a landmark one day.\""
 msgstr ""
+"\"S touto lampou mám velká plány. Váš obchod bude jednou pamětihodností.\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -107,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014380"
 msgid "(Pretend to browse the shop from where you're stood.)"
 msgstr ""
+"(Předstírej, že si prohlížíš zboží odtamtud, kde stojíš.)"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -123,6 +139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000146BB"
 msgid "He's trying to cut you with its sharp edge!"
 msgstr ""
+"Snaží se tě pořezat jejím ostrým okrajem!"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -139,6 +156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014905"
 msgid "\"Oh, right. Perfect. Thank you.\""
 msgstr ""
+"\"Ach, dobře. Perfektní. Díky.\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -147,6 +165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000029C4"
 msgid "\"Even taking into account the risk of obtaining the light, that seems a bit steep....\""
 msgstr ""
+"\"I když započítám riziko při jejím získávání, se mi to zdá přestřelené...\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -155,6 +174,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003856"
 msgid "This would make quite a statement in your living room."
 msgstr ""
+"Ta by byla silným prohlšením ve tvém obývacím pokoji."
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -163,6 +183,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0001432E"
 msgid "\"But... I don't have a truck.\""
 msgstr ""
+"\"Ale... já nemám náklaďák.\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -171,6 +192,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014755"
 msgid "\"Yes please,\" he says eagerly."
 msgstr ""
+"\"Ano, prosím,\" řekne nedočkavě."
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -187,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000142B9"
 msgid "Or has another light shining on the ceiling caught his eye? It's hard to tell."
 msgstr ""
+"Nebo ho zaujalo jiné světlo na stropě? Těžko říct"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -195,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014362"
 msgid "What if he's grabbing a GUN?!"
 msgstr ""
+"Co když sahá po ZBRANI?!"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -203,6 +227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014463"
 msgid "(Search for something you can defend yourself with.)"
 msgstr ""
+"(Hledej něco, čím se můžeš bránit.)"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -219,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000295D"
 msgid "\"Where did you get this?\""
 msgstr ""
+"\"Jak jste k ní přišel?\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -227,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000142EF"
 msgid "(Ready your hands on your pistol.)"
 msgstr ""
+"(Připrav si ruku na zbraň.)"
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
@@ -235,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014322"
 msgid "\"That's alright, I can keep it here for you until you find one.\""
 msgstr ""
+"\"Nic se neděje, pohlídám vám ji tu, než si nějaký seženete.\""
 
 #. Title = PAWNSHOP / SAWED-OFF STREET LIGHT
 #. Description = You look at and ask Roy about a street light.
