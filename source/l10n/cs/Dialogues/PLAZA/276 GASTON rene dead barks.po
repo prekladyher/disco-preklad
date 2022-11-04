@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / GASTON rene dead barks
 #. Description = René has passed away and Gaston is sitting on a bench.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E923"
 msgid "\"I wonder if Leo knows pétanque...\""
 msgstr ""
+"\"Zajímalo by mě, jestli Leo umí petank...\""
 
 #. Title = PLAZA / GASTON rene dead barks
 #. Description = René has passed away and Gaston is sitting on a bench.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E91C"
 msgid "\"Maybe fishing... or crossword puzzles?\""
 msgstr ""
+"\"Možná rybaření... nebo křížovky?\""
 
 #. Title = PLAZA / GASTON rene dead barks
 #. Description = René has passed away and Gaston is sitting on a bench.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E932"
 msgid "\"I should be hungry -- why am I not hungry?\""
 msgstr ""
+"\"Měl bych mít hlad -- proč nemám hlad?\""
 
 #. Title = PLAZA / GASTON rene dead barks
 #. Description = René has passed away and Gaston is sitting on a bench.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E929"
 msgid "\"Have the days always been this long?\""
 msgstr ""
+"\"Byly dny vždycky tak dlouhé?\""
 
 #. Title = PLAZA / GASTON rene dead barks
 #. Description = René has passed away and Gaston is sitting on a bench.
@@ -38,3 +49,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E916"
 msgid "\"Never thought I'd miss that angry prick...\""
 msgstr ""
+"\"Nikdy jsem si nemyslel, že mi ten vzteklý zmetek bude tak chybět...\""

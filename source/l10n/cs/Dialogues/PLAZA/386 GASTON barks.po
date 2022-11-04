@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000AB79"
 msgid "*chews loudly*"
 msgstr ""
+"*hlasitě žvýká*"
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2F0"
 msgid "\"Yes, yes, the good old days. The all or nothing days.\""
 msgstr ""
+"\"Ano, ano, staré dobré časy, kdy šlo o všechno, nebo nic.\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600002BE0"
 msgid "\"*Mon dieu*, the pain is exceptionally bad today...\""
 msgstr ""
+"\"*Mon dieu*, ta bolest je dnes vyjímečně silná...\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100001A1F"
 msgid "\"Argh.. my back! I swear it's getting worse...\""
 msgstr ""
+"\"Au.. moje záda! Přísahám, že se to zhoršuje...\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2F7"
 msgid "\"Would you like to play alone tomorrow?\""
 msgstr ""
+"\"Chtěl by sis zítra zahrát sám?\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A305"
 msgid "\"You are the angriest man I know, René.\""
 msgstr ""
+"\"Ty jsi ten nejnaštvanější člověk, kterého znám, René.\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2FE"
 msgid "\"How long have we known each other? Almost eighty years?\""
 msgstr ""
+"\"Jak dlouho se známe? Skoro osmdesát let?\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100001A19"
 msgid "\"Not bad, René, you might stand a chance this time.\""
 msgstr ""
+"\"To není špatné, René, tentokrát bys mohl mít šanci.\""
 
 #. Title = PLAZA / GASTON barks
 #. Description = Playing pétanque and cheating.
@@ -66,3 +81,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100001A27"
 msgid "\"I'll just measure... *ouch*. I can barely move...\""
 msgstr ""
+"\"Jen to změřím... *jau*. Sotva se hýbu...\""

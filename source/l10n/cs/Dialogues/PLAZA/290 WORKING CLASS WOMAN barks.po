@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019B52"
 msgid "\"Think I read this one already.\""
 msgstr ""
+"\"Myslím, že tohle jsem už četla.\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019EE6"
 msgid "\"I really should get this. For myself.\""
 msgstr ""
+"\"Tohle bych si opravdu měla koupit. Pro sebe.\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019EDA"
 msgid "\"Oh... it's a prequel?\""
 msgstr ""
+"\"Aha... to je první díl?\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019EE0"
 msgid "\"So melodramatic. Victor would hate it.\""
 msgstr ""
+"\"To je tak procítěné. Viktor by to nesnášel.\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019B46"
 msgid "\"Not sure about this one...\""
 msgstr ""
+"\"S touhle si nejsem jista...\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019B40"
 msgid "\"Oh my...\""
 msgstr ""
+"\"Oh můj...\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019EEC"
 msgid "\"It must be true, if it's in a book.\""
 msgstr ""
+"\"To musí být pravda, píše se to v knize.\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019EF2"
 msgid "\"Wonder if I could bring some of my old books here?\""
 msgstr ""
+"\"Zajímalo by mě, jestli bych sem mohla přinést nějaké své staré knihy?\""
 
 #. Title = PLAZA / WORKING CLASS WOMAN barks
 #. Description = What it says on the box.
@@ -66,3 +81,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019B4C"
 msgid "\"Wait... is this where he fakes his own death?\""
 msgstr ""
+"\"Počkat, je to ta ve které předstírá vlastní smrt?\""
