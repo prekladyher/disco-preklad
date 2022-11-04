@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AD62"
 msgid "The white ceramic cuirass hugs your torso, shielding your vitals without adding much bulk to your form..."
 msgstr ""
+"Bílý keramický kyrys obepíná tvůj trup a chrání tvoje životně důležité orgány, aniž by ti nějak přidával na objemu..."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2E9"
 msgid "Certainly, but you may want to hold on to the armour you have for long enough to properly analyse it, figure out its vulnerabilities."
 msgstr ""
+"Jistě, ale možná si budeš chtít ponechat zbroj, kterou máš, dostatečně dlouho na to, abys ji řádně analyzoval a objevil její slabiny."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2FA"
 msgid "Remember, this is a highly specialized kinetic re-distributor meant to stop bullets. Wear it, observe its properties. See if there's a *weakness* in the design."
 msgstr ""
+"Nezapomeň, že se jedná o vysoce specializovaný kinetický přerozdělovač určený k zastavení střel. Nos ho a sleduj jeho vlastnosti. Zjisti, zda se v jeho konstrukci není nějaká *slabina*."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013156"
 msgid "Your movements cause tiny little clicks, like dice rolling somewhere far away, as the plates reorient to your motions."
 msgstr ""
+"Tvoje pohyby způsobují drobná cvakání, jako když se někde daleko kutálí kostky, jak se desky přeorientovávají podle tvých pohybů."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000131B2"
 msgid "Two? Are you sure you're correct there? There was a helmet too. Three pieces more like. You were *ambitious*."
 msgstr ""
+"Dva? Jsi si jistý? Byla tam ještě helma. Spíš tři kusy. Byl jsi *ambiciózní.\""
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012A51"
 msgid "Well, it's a bit late to think about all this now, isn't it?"
 msgstr ""
+"No, teď už je trochu pozdě o tom přemýšlet, co?"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AD6F"
 msgid "As you fold your fingers into a fist, you realize you could knock anyone out with one punch... the white ceramic gloves wrap around your digits comfortably."
 msgstr ""
+"Když složíš prsty v pěst, uvědomíš si, že bys mohl kohokoli sundat jedinou ranou... bílé keramické rukavice ti pohodlně obepínají prsty."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2B6"
 msgid "I remember a feeling -- being worried about crossing paths with someone in this armour."
 msgstr ""
+"Pamatuji si pocit - strach, že skřížím cesty s někým taktéž v tomto brnění."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2C8"
 msgid "This gear could line my pockets with cash. I could probably sell it to some other cops."
 msgstr ""
+"Tato výbavička by mi mohla naplnit kapsy penězi. Pravděpodobně bych ho mohl prodat jiným policistům."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013171"
 msgid "[Discard thought.]"
 msgstr ""
+"[Zavrhni ideu.]"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A36C"
 msgid "Vulnerabilities?"
 msgstr ""
+"Slabiny?"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012A5F"
 msgid "I guess so."
 msgstr ""
+"Hádám."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B300"
 msgid "Remember, the vitreous enamel material acts as a kinetic re-distributor. It's meant to stop bullets. Wear it, observe its properties. See if there's a *weakness* in the design."
 msgstr ""
+"Nezapomeň, že skelný smalt funguje jako kinetický přerozdělovač. Je určený k zastavení střel. Nos ho a sleduj jeho vlastnosti. Zjisti, zda se v konstrukci nenachází nějaká *slabina*."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2E3"
 msgid "It may be a while before you have all the pieces. In the meantime, you should analyse the armour, figure out its vulnerabilities."
 msgstr ""
+"Může chvíli trvat, než budeš mít všechny kusy. Mezitím bys měl zbroj analyzovat a objevit její slabiny."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2BC"
 msgid "This is the long sought after *enemy technology*. I can't just enjoy it -- I must *study* it."
 msgstr ""
+"Jedná se o dlouho hledanou *nepřátelskou technologii*. Nemohu si ji jen užívat - musím ji *studovat*."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001318D"
 msgid "You really do feel more confident. Invulnerability does that. Even partial invulnerability."
 msgstr ""
+"Opravdu se cítíš sebejistěji. To dělá ta nezranitelnost. Dokonce i částečná."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2DD"
 msgid "Yes. You should analyse the armour, figure out its vulnerabilities."
 msgstr ""
+"Ano. Měl bys analyzovat brnění a objevit jeho slabiny."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001319C"
 msgid "Well, you found that one piece you were after, anyway. Don't forget to enjoy it!"
 msgstr ""
+"No, každopádně jsi našel ten jeden kus, který jsi chtěl. Nezapomeň si ho užít!"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012C03"
 msgid "It is good to be an unstoppable ceramic man."
 msgstr ""
+"Je to dobré být nezastavitelný keramický muž."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001316B"
 msgid "Decked out in future-armour. Like a cop ought to be."
 msgstr ""
+"Zakován do brnění budoucnosti. Přesně jako by polda měl být."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AD69"
 msgid "You look down at the white ceramic sabatons hugging your arches and calves, surprised at how well they fit."
 msgstr ""
+"Podíváš se dolů na bílé keramické sabatony, které obepínají tvé kotníky a lýtka, a jsi překvapený, jak dobře ti padnou."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2D7"
 msgid "Then you should prepare -- analyse this armour, figure out its vulnerabilities."
 msgstr ""
+"Pak by ses měl tedy připravit - analyzuj toto brnění, objev jeho slabiny."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B31B"
 msgid "You really do feel more confident. Invulnerability does that. Even partial invulnerability."
 msgstr ""
+"Opravdu se cítíš sebejistěji. To dělá ta nezranitelnost. Dokonce i částečná."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AD56"
 msgid "The hardened vitreous enamel, at once sleek and light, adds a glow to your cheeks and a spring to your step. Just imagine what a full suit of this stuff could do for you!"
 msgstr ""
+"Tvrzený skelný smalt, elegantní a lehký zároveň, dodá tvým tvářím lesk a kroku pružnost. Jen si představ, co všechno by s tebou mohl udělat celá výbava z tohoto materiálu!"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B2C2"
 msgid "Yeah, I *want* the full suit!"
 msgstr ""
+"Jo, *chci* celé brnění!"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -185,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000131AB"
 msgid "One down -- two pieces to go. Here I come."
 msgstr ""
+"Jeden mám - ještě dva kusy. Jdu na to."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -192,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012A4A"
 msgid "As your head is ensconced in the ceramic helm, you realize --"
 msgstr ""
+"Když se tvá hlava zabydlí v keramické helmě, uvědomíš si, že..."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -199,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012A59"
 msgid "Better late than never, huh?"
 msgstr ""
+"Lepší pozdě, nežli později, ne?"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -206,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013187"
 msgid "The hardened vitreous enamel, at once sleek and voluptuous, adds a glow to your cheeks and a spring to your step. Just imagine what a full suit of this stuff could do for you!"
 msgstr ""
+"Tvrzený skelný smalt, elegantní a smyslný zároveň, dodá tvým tvářím lesk a kroku pružnost. Jen si představ, co všechno by s tebou mohla udělat celá výbava z tohoto materiálu!"
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -213,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013165"
 msgid "I will be responsible with this. This is just to protect me from harm, not to show off."
 msgstr ""
+"Budu s ním zodpovědný. Je na ochranu, ne na předvádění se."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -220,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000131C2"
 msgid "This is the long sought after *enemy technology*. I can't just enjoy it -- I must *study* it."
 msgstr ""
+"Jedná se o dlouho hledanou *nepřátelskou technologii*. Nemohu si ji jen užívat - musím ji *studovat*."
 
 #. Title = THOUGHT / FAIRWEATHER T-500
 #. Description = Visual Calculus wants you to research Enemy Technology. Get it after equipping any piece of the dead man's armour.
@@ -227,3 +265,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A8F0"
 msgid "For the day you have to *fight* someone covered in the same material."
 msgstr ""
+"Až budeš msuet jednoho dne *bojovat* s někým pokrytým stejným materiálem."
