@@ -8,17 +8,17 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    env: 
+    env:
       GS_CLIENT_EMAIL: ${{ secrets.GS_CLIENT_EMAIL }}
-      GS_PRIVATE_KEY: ${{ secrets.GS_PRIVATE_KEY }}       
+      GS_PRIVATE_KEY: ${{ secrets.GS_PRIVATE_KEY }}
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '17'
           cache: npm
-      - run: npm install google-spreadsheet  
+      - run: npm install google-spreadsheet
       - run: node scripts/glossary.js
       - run: |
           git config --global user.name "github-actions"
@@ -26,5 +26,3 @@ jobs:
           git add terms.tbx
           git commit -m "Glossary file update" || echo "Nothing to commit"
           git push
-
-
