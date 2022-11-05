@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C39"
 msgid "\"Sod off ye pisser!\""
 msgstr ""
+"\"Vysmahni, ty chcípáku!\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C51"
 msgid "\"I'm a scum, just a scummy ol' scum...\""
 msgstr ""
+"\"Jsem šmejd, jenom starej šmejd...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C6A"
 msgid "\"I don't deserve 'er, I don't deserve anybody...\""
 msgstr ""
+"\"Nezasloužím si ji, nezasloužím si nikoho.\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00001388"
 msgid "\"I's hard you know... It's j'st so hard sometimes... (hic).\""
 msgstr ""
+"\"Je to těžké, víš... Někdy je to tak těžké... (škyt).\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000138E"
 msgid "\"I'm scum, just a scummy ol' scum...\""
 msgstr ""
+"\"Jsem šmejd, jenom starej šmejd...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C33"
 msgid "\"Y'gotta problem with me?\""
 msgstr ""
+"\"Máš se mnou problém?\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C58"
 msgid "\"MY MISSUS! She be better without me...\""
 msgstr ""
+"\"MOJE PANÍ! Beze mě jí bude líp...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C45"
 msgid "\"I'm so sorry, me missus!\""
 msgstr ""
+"\"Moc se omlouvám, má paní!\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00001374"
 msgid "\"The fuckin' piss-shitter...\""
 msgstr ""
+"\"Ten zasranej hajzl...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000137B"
 msgid "\"Y'r ded to me, y'hear y'r DEAD!\""
 msgstr ""
+"\"Jsi pro mě mrtvý, slyšíš? JSI MRTVÝ!\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00001382"
 msgid "\"T's shit ain't nothing to me...\""
 msgstr ""
+"\"Tahle sračka není nic pro mě...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000502D"
 msgid "\"All I got I built with my bare hands...\""
 msgstr ""
+"\"Všechno, co mám, jsem si postavil vlastníma rukama...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C4B"
 msgid "\"I ain't got shit...\""
 msgstr ""
+"\"Mám akorát tak lautr hovno...\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005022"
 msgid "\"I work hard, I play hard... *Nobody* works harder!\""
 msgstr ""
+"\"Tvrdě pracuju, tvrdě hraju... *Nikdo* nepracuje tvrději!\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C3F"
 msgid "\"Y'gotta problem with me too?\""
 msgstr ""
+"\"Ty se mnou máš taky problém?\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002C71"
 msgid "\"I make my own way, t's all. Always have, always will.\""
 msgstr ""
+"\"Jdu si svou vlastní cestu, to je všecko. Vždycky jsem to tak dělal a vždycky to tak dělat budu.\""
 
 #. Title = PLAZA / WORKING CLASS DRUNK barks
 #. Description = Barks from a working class man with a drinking problem. Triggers an authority orb if you've met the working class woman.
@@ -122,3 +145,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005540"
 msgid "\"They don't know me... no one *knows* me... (hic).\""
 msgstr ""
+"\"Neznají mě... nikdo mě *nezná*... (škyt).\""
