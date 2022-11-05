@@ -26,3 +26,4 @@ jobs:
       with:
         name: generated
         path: target/text
+        retention-days: 7
