@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2E9"
 msgid "\"Wouldn't even pick it up, if my heart wasn't in it.\""
 msgstr ""
+"\"Tu bych nezvedl, ani kdyby mi na ní záleželo.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100001A0A"
 msgid "\"Stop complaining and hurry up!\""
 msgstr ""
+"\"Přestaň si stěžovat a pospeš si!\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100001A11"
 msgid "\"Don't get mayonnaise on the measuring tape.\""
 msgstr ""
+"\"Pozor ať si nezaděláš měřicí pásku majonézou.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2C7"
 msgid "\"I'm fine, just a little heart burn...\""
 msgstr ""
+"\"Jsem v pořádku, jen mě trošku pálí u srdce.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2D4"
 msgid "\"*Mon dieu*, how much can a man whine, Gaston?\""
 msgstr ""
+"\"*Mon dieu*, jak moc může člověk fňukat, Gastone?\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2DB"
 msgid "\"Goddamn ticker...\""
 msgstr ""
+"\"Zatracený klíště...\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600002BDA"
 msgid "\"Strange, I could have sworn...\""
 msgstr ""
+"\"Zvláštní, přísahal bych, že...\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2C0"
 msgid "\"I feel 20 years younger every time it rains.\""
 msgstr ""
+"\"Vždycky když prší, cítím se o 20 let mladší.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600002BCE"
 msgid "\"So the wind is... yes, perfect.\""
 msgstr ""
+"\"Takže, vítr je... ano, perfektní.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A2E2"
 msgid "\"It's a different game in the snow.\""
 msgstr ""
+"\"Na sněhu je to jiná hra.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A30C"
 msgid "\"Build a solid routine and stick to it. That's all there is.\""
 msgstr ""
+"\"Vytvoř si pevnou rutinu a drž se jí. To je vše.\""
 
 #. Title = PLAZA / RENE barks
 #. Description = Playing pétanque.
@@ -87,3 +105,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600002BD4"
 msgid "\"Is my aim really *that* off?\""
 msgstr ""
+"\"To je moje muška opravdu tak špatná?\""
