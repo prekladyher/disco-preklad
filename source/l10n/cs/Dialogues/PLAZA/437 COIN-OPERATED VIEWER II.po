@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005265"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000120A3"
 msgid "\"Vandalism.\" (Shake your head.)"
 msgstr ""
+"\"Vandalismus.\" (Zakruť hlavou.)"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B54B"
 msgid "Around the large wooden building you see chunks of sea ice, gathered on the beach. And a small tent set up on the ice."
 msgstr ""
+"Kolem té velké dřevěné budovy vidíš kusy mořského ledu, nahromaděné na pláži. A také malý stan postavený na ledu."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B06E"
 msgid "Shift your focus to the background."
 msgstr ""
+"Přesuň pozornost na pozadí."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -42,6 +53,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B000052A7"
 msgid "A thick layer of graffito covers the lenses -- you spell out the word \"ONUC\" written on the other side -- with N and C scribbled backwards."
 msgstr ""
+"Silná vrstva graffita pokrývá čočky -- hláskuješ slovo \"ONUC\" napsané na druhé straně -- s písmenem N a C načmáraném obráceně."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -50,6 +62,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00050B42"
 msgid "\"Poor little viewer...\" (Pat it.)"
 msgstr ""
+"\"Chudák ten malý dalekohled...\" (Poklepej na něj.)"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -58,6 +71,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000120A9"
 msgid "\"Probably some kids...\" The lieutenant inspects the rigged slot."
 msgstr ""
+"\"Nejspíš nějaké děti...\" Poručík si prohlédne tento upravený otvor na mince."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -66,6 +80,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B543"
 msgid "The church looks old and weather-worn. There are no lights in the windows."
 msgstr ""
+"Kostel vypadá staře a zchátrale. V oknech nejsou žádná světla."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -74,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000097CD"
 msgid "But yes -- it was vandalism."
 msgstr ""
+"Ale ano -- byl to vandalismus."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -81,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000524D"
 msgid "This coin-operated viewer is facing southwest. Its coin-slot is full of fossilized bubblegum, rendering the machine permanently inaccessible."
 msgstr ""
+"Tento dalekohled na mince je otočený na jihozápad. Jeho otvor na mince je zaplněný zkamenělou žvýkačkou, takže je trvale nepoužitelný."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -89,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B53B"
 msgid "That's CUNO on the lens."
 msgstr ""
+"Na těch čočkách je CUNO."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -96,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00050B48"
 msgid "The metal feels cold and wet under your palm. It looks unhygienic."
 msgstr ""
+"Kov je pod tvou dlaní studený a vlhký. Vypadá to nehygienicky."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -104,6 +123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000038000014C9"
 msgid "You know this to be the Star of Perikarnassis, or the Chi-Rho. The central symbol of the Perikarnassian church -- a star, a great moral height to be strived towards."
 msgstr ""
+"Víš, že je to Perikarnasénova hvězda neboli Chi-Rho. Ústřední symbol perikarnasénské církve -- hvězda, velká morální výška, o kterou je třeba usilovat."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -111,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000330000112E"
 msgid "Under the graffito a sea of blues and greys appears -- behind the water lies a coast studded with concrete and reeds. On it -- a church on stilts, lanky weather-worn wooden planks, an x-shaped cross topping its tower."
 msgstr ""
+"Pod graffitem sem objeví moře modré a šedé barvy -- za vodou se rozkládá pobřeží poseté betonem a rákosím. Na něm -- kostel na kůlech, s vytáhlými a počasím zničenými starými fošnami, a na jeho vršku kříž ve tvaru písmene X."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -119,6 +140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000529F"
 msgid "Look inside."
 msgstr ""
+"Podívej se dovnitř."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -126,6 +148,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000097C6"
 msgid "The mute machine is unable to confirm or deny your theory."
 msgstr ""
+"Tento němý stroj není schopen vaší teorii potvrdit, ale ani vyvrátit."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER II
 #. Description = A coin-operated viewer on the plaza. It offers a view to the church.
@@ -134,3 +157,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B061"
 msgid "A simple but clever solution to ruining a coin-operated viewer. It took ingenuity."
 msgstr ""
+"Jednoduché, ale chytré řešení, jak zničit dalekohled na mince. To chtělo vynalézavost."
