@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / HARDIE TELLS YOU ABOUT LYNCHING
 #. Description = The Lynching HUB
@@ -531,7 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000B17C"
 msgid "The River Esperance Correctional Facility -- a military prison run by the Coalition, dubbed *Reunion* by the inmates. The origin of the name is unknown."
 msgstr ""
-"Nápravné zařízení na řece Naděje - vojenská věznice provozovaná Koalicí, které vězni přezdívají *Reunion*. Původ názvu není znám."
+"Nápravné zařízení na řece Naděje - vojenská věznice provozovaná Koalicí, které vězni přezdívají *Znovushledání*. Původ názvu není znám."
 
 #. Title = WHIRLING F1 / HARDIE TELLS YOU ABOUT LYNCHING
 #. Description = The Lynching HUB
@@ -1172,7 +1179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000CD13"
 msgid "\"Or sent them to Reunion to *rot* -- for twenty years, for *life*?!\" He says it as if it were worse than dying."
 msgstr ""
-"\"Nebo je poslal do Reunionu, aby tam *hnili* - na dvacet let, na *doživotí*?\" Říká to, jako by to bylo horší než zemřít."
+"\"Nebo je poslal do Znovushledání, aby tam *hnili* - na dvacet let, na *doživotí*?\" Říká to, jako by to bylo horší než zemřít."
 
 #. Title = WHIRLING F1 / HARDIE TELLS YOU ABOUT LYNCHING
 #. Description = The Lynching HUB
@@ -1810,7 +1817,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000B161"
 msgid "And Reunion, what's that?"
 msgstr ""
-"A Reunion, co to je?"
+"A Znovushledání, co to je?"
 
 #. Title = WHIRLING F1 / HARDIE TELLS YOU ABOUT LYNCHING
 #. Description = The Lynching HUB
