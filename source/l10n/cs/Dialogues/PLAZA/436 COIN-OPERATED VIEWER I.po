@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00050B5B"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0D0"
 msgid "Could the shot have come from there? Then entered the window upstairs the Whirling-in-Rags?"
 msgstr ""
+"Mohl ten výstřel přijít odtamtud? A pak vletět do okna ve vrchním patře V-Cárech-vířící?"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001B0D0"
 msgid "\"Could the shot have come from there?\""
 msgstr ""
+"\"Mohla přijít ta střela odtud?\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B07C"
 msgid "Insert a coin."
 msgstr ""
+"Vlož minci."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B082"
 msgid "\"What's a tourist attraction doing... here?\""
 msgstr ""
+"\"Co dělá turistická atrakce... tady?\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -50,6 +62,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0E7"
 msgid "It's not possible to know from this distance. The details are blurry, there's water vapour in the way and waves cut into the islet..."
 msgstr ""
+"Z této vzdálenosti to není možné zjistit. Detaily jsou rozmazané, v cestě stojí vodní výpary a do ostrůvku se zařezávají vlny..."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -58,6 +71,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B144"
 msgid "\"That's odd. I could swear you were a *police officer*...\""
 msgstr ""
+"\"To je zvláštní. Přísahal bych, že jste *policista.*...\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -65,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000517E"
 msgid "Your money disappears into the coin-slot. A clunk, the ring of metal..."
 msgstr ""
+"Tvé peníze zmizí v otvoru na peníze. Je slyšet cinknutí, a zazvonění kovu."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -73,6 +88,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0DE"
 msgid "\"Really? I don't have the eyesight to make it out...\" The lieutenant takes off his glasses and cleans them."
 msgstr ""
+"\"Opravdu? Nemám zrak na to, abych to rozeznal...\" Poručík si sundá brýle a očistí je."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -81,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B125"
 msgid "\"Can't we... do something about it?\""
 msgstr ""
+"\"Můžeme s tím... něco udělat?\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -89,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0F5"
 msgid "\"Can you tell? From this distance? I don't think it's possible.\""
 msgstr ""
+"\"Poznáte to? Z této vzdálenosti? Myslím, že to není možné.\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -97,6 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B000051C9"
 msgid "Why place a tourist attraction in the middle of such poverty?"
 msgstr ""
+"Proč by někdo dával turistickou atrakci doprostřed takovéhle chudiny?"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -105,6 +124,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B089"
 msgid "\"There was a revitalization project in '49. A design studio tried restoring Martinaise to its pre-war glory.\" The lieutenant looks around and concludes: \"It didn't stick.\""
 msgstr ""
+"\"Ve čtyřicátém  devátém zde probíhal projekt obnovy. Jedno návrhářské studio se pokoušelo navrátit Martinéze její předválečnou slávu.\" Poručík se podívá kolem sebe a dojde k závěru: \"Nepovedlo se to.\" "
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -113,6 +133,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B11F"
 msgid "\"Cool. I dig organized crime. It's the best.\""
 msgstr ""
+"\"Super. Miluji organizovaný zločin. Ten je nejlepší.\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -121,6 +142,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B12B"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -129,6 +151,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000516E"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -137,6 +160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B132"
 msgid "\"We should have *done* something about the Union ten years ago. That ship has sailed, officer.\""
 msgstr ""
+"\"S odbory jsme měli něco udělat už před deseti lety. Tahle loď už odplula, strážníku.\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -144,6 +168,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003800001495"
 msgid "It looks as if it was abandoned quite some time ago, nothing but a rotten tooth remains of the anti-aircraft tower. A lonely birch tree grows out of it."
 msgstr ""
+"Vypadá to, že už je opuštěna nějakou dobu, z protiletadlové věže zbyl jen ztrouchnivělý zub. Vyrůstá z ní osamělá bříza."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -152,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00050B50"
 msgid "\"Hang in there, little one.\""
 msgstr ""
+"\"Vydrž, maličká.\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -159,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00050B60"
 msgid "The little brave birch-tree seems to wave back in the wind."
 msgstr ""
+"Vypadá to, jako by ta malá odvážná bříza mávala zpátky ve větru."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -166,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B000051F1"
 msgid "The curtains on the display open. You lean in to catch the view -- it's blurry, different blues and greens. In the middle of the shimmer stands a drab grey shape, like a ghost."
 msgstr ""
+"Clony na displeji se otevřou. Nakloníš se blíž, abys zachytil výhled -- je rozmazaný, různě modrý a zelený. Uprostřed všeho toho odlesku stojí fádní šedý tvar, jako duch."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -174,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005217"
 msgid "Turn the knob to focus your vision."
 msgstr ""
+"Otoč knoflíkem, abys zaostřil svůj zrak."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -182,6 +211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0C5"
 msgid "\"There are ruins of some kind of building there...\""
 msgstr ""
+"\"Jsou tam ruiny nějaké budovy...\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -190,6 +220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B13C"
 msgid "The lieutenant adjusts his collar. It's frisky outside."
 msgstr ""
+"Poručík si upraví límec. Dnes je skotačivé počasí."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -197,6 +228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005162"
 msgid "This coin-operated viewer is facing South. The instruction manual says to insert twenty five *centims* and pull the handle while looking inside, then use the focus knob to zoom in if necessary."
 msgstr ""
+"Tento dalekohled na mince míří na jih. V návodu k použití se uvádí, že je třeba vložit dvacet pět *centimů* a zatáhnout za rukojeť, zatímco se díváš dovnitř, a v případě potřeby použít knoflík pro zaostření a přiblížení."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -204,6 +236,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002B00005162"
 msgid "This coin-operated viewer is facing South. It has given up all its secrets -- there seems to be a sunken seafort on the islet in the bay..."
 msgstr ""
+"Tento dalekohled na mince je orientovaný na jih. Vydal všechny svá tajemství -- zdá se, že na ostrůvku v zátoce je zaplavená mořská pevnost..."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005224"
 msgid "The lenses shift, the ghost sharpens into an islet in the bay. In the ruins a man-made structure is visible: a half-sunken sea-fort, its concrete almost reconquered by nature."
 msgstr ""
+"Obraz v kukátkách se mění, ten duch se zaostří na ostrůvek v zátoce. V troskách je vidět stavba vytvořená člověkem: napůl potopená mořská pevnost, jejíž beton téměř znovu dobyla příroda."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0B0"
 msgid "Its leaves ripped from it by the winter wind..."
 msgstr ""
+"Zimní vítr z ní strhal všechny listy..."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -226,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B0FC"
 msgid "It's not. The details are blurry, there's water vapour in the way and waves cut into the islet..."
 msgstr ""
+"\"Není to možné. Detaily jsou rozmazané, v cestě stojí vodní pára a do ostrůvku se zařezávají vlny..."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -234,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B000051E0"
 msgid "Pull the handle and look inside."
 msgstr ""
+"Zatáhni za rukojeť a podívej se dovnitř."
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -242,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B090"
 msgid "\"They got as far as the street lamps and the statue on that intersection. Then something went sour.\" He lowers his voice. \"I suspect that *something* was Evrart Claire -- the Union leader. He muscled them out. It's how it usually goes around here.\""
 msgstr ""
+"\"Dostali se dokonce až k pouličním lampám a soše na křižovatce. Pak se ale něco zvrtlo.\" Ztišil hlas. \"Mám podezření, že to něco byl Evrart Jasný -- vůdce odborů. Vyhnal je. Tak to tady obvykle chodí.\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -250,6 +288,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001B090"
 msgid "\"They got as far as the street lamps and that statue on the intersection before something went sour.\" He lowers his voice. \"I suspect it was Evrart Claire's doing. He muscled them out -- it's how it usually goes around here.\""
 msgstr ""
+"\"Dostali se dokonce až k pouličním lampám a soše na křižovatce, než se něco zvrtlo.\" Ztišil hlas. \"Mám podezření, že za to může Evrart Jasný. Vyhnal je -- tak to tady obvykle chodí.\""
 
 #. Title = PLAZA / COIN-OPERATED VIEWER I
 #. Description = A coin-operated viewer on the plaza. It offers a view to the sunken sea-fort.
@@ -258,3 +297,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001B096"
 msgid "\"What happened?\""
 msgstr ""
+"\"Co se stalo?\""
