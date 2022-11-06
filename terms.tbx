@@ -432,6 +432,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Centims">
+        <descrip type="definition">peníze - centy</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Centims</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Centimy </term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Central Jamrock">
         <descrip type="definition">[aA] čtvrť Revacholu</descrip>
         <langSet xml:lang="en">
@@ -819,6 +832,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Droamin, -u m.</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="DynaWave">
+        <descrip type="definition">[aA] značka audiosystému v Kineemě, na který je Kim náramně pyšný</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>DynaWave</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>DynaVlna</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3498,6 +3524,32 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>otáčkofil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="transceiver">
+        <descrip type="definition">[aA] k hovoru přes rádio s Lukostřelcem - shání se napříč mapou</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>transceiver</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>transcíver</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="transmitter">
+        <descrip type="definition">[aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>transmitter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>(rádiový) vysílač</term>
           </tig>
         </langSet>
       </termEntry>
