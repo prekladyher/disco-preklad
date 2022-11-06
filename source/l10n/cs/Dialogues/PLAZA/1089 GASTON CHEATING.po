@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -12,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EAF8"
 msgid "\"I know what I saw, cheater.\""
 msgstr ""
+"\"Vím, co jsem viděl, podvodníku.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -21,6 +29,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB4F"
 msgid "All that blunt data must have triggered an information hoarding reflex of sorts. Think of it like a small seizure. It will pass."
 msgstr ""
+"Všechna ta zbytečná data musela vyvolat jakýsi reflex na hromadění informací. Představte si to jako malý záchvat. To přejde."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -30,6 +39,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB69"
 msgid "\"This is getting weird, better hit the brakes.\""
 msgstr ""
+"\"Tohle začíná být divné, radši šlápnu na brzdu.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -39,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB70"
 msgid "... aaaaaand that's how you break a man if the good cop and the bad cop have left for the day. Disturbing Cop to the rescue!"
 msgstr ""
+"...aaaaaa takhle se láme člověk, když hodný a zlý polda má pro dnešek volno. Znepokojující polda vás zachrání."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -48,6 +59,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100001516"
 msgid "\"Uh... thanks. Is there something we can help you with, officer?\" He avoids your gaze."
 msgstr ""
+"\"Uh... děkuji. Můžeme vám s něčím vám můžeme pomoci, detektive?\" Snaží se vyhnout tvému pohledu."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -57,6 +69,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000AB48"
 msgid "Oh, he knows what you mean. Keeping it to yourself now, may yield some leverage if you ever need it."
 msgstr ""
+"Však on ví, co tím myslíš. Když si to teď necháš pro sebe, můžeš získat v budoucnu nějakou páku, kdybys jí někdy potřeboval."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -66,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000CA11"
 msgid "\"I don't like where this is going, officer. Don't you think we should do something else now?\""
 msgstr ""
+"\"Nelíbí se mi, kam to směřuje, strážníku. Nemyslíte si, že bychom teď měli dělat něco jiného?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -75,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000CA3A"
 msgid "\"Sure. We got a case to solve!\" [Leave.]"
 msgstr ""
+"\"Jistě. Musíme vyřešit případ!\" [Odejdi.]"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -84,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EBDD"
 msgid "Let's cool Mr. Fight-Or-Flight down, before he kills someone. He gets overstimulated. But seriously, enough with the pétanque already."
 msgstr ""
+"Je čas zklidnit pana Bojuj-nebo-uteč, než někoho zabije. Je příliš nabuzený. Ale vážně, už dost o petanku."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -93,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000CA34"
 msgid "\"No. I want to talk to him. I promise it won't be about pétanque.\""
 msgstr ""
+"\"Ne. Chci s ním mluvit. Slibuji, že to nebude o petanku.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -102,6 +119,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000940"
 msgid "\"I saw what you did there, Gaston. How's your back?\""
 msgstr ""
+"\"Viděl jsem, co jste udělal, Gastone. Co vaše záda?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -111,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000096D"
 msgid "\"Getting older does present a whole new set of challenges...\" (Keep it to yourself.)"
 msgstr ""
+"\"S přibývajícím věkem přichází nové problémy...\" (Nech si to pro sebe.)"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -120,6 +139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000009A0"
 msgid "\"Lately my eyes just aren't the same and even getting out of the bed is pretty difficult...\""
 msgstr ""
+"\"Poslední dobou to už s mýma očima není ono a i vstávání z postele je dost obtížné...\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -129,6 +149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000A29"
 msgid "\"Of course, officer.\" He waits for you to speak."
 msgstr ""
+"\"Samozřejmě, detektive.\" Čeká, až promluvíte."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -138,6 +159,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002C00000149"
 msgid "\"Well... first you draw a circle about a half a metre in diameter. We made ours out of rope,\" he explains. \"Then the order of play is determined by a coin toss. You win it -- you get to throw the *cochonnet*.\""
 msgstr ""
+"\"No... nejprve nakreslíte kruh o průměru asi půl metru. My jsme ho udělali z provazu,\" vysvětluje. \"Pak se pořadí hráčů určuje hodem mincí. Když vyhrajete, můžete házet *košonet*.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -147,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EAE4"
 msgid "This guy can act. Not sure I would have caught it if we hadn't *seen* him cheating."
 msgstr ""
+"Tenhle chlapík umí hrát. Nejsem si jistý, jestli bych ho chytil, kdybychom jsme ho *neviděli* podvádět."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -156,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000040F1"
 msgid "He sighs. \"Hurry up then.\""
 msgstr ""
+"Povzdechne si. \"Tak si pospěšte.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -165,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB59"
 msgid "Can you believe this clown?! This is information you MUST have and he's stalling. Lives *could* be on the line and he's just running out the clock?!"
 msgstr ""
+"Věřil bys tomuhle klaunovi?! Tohle jsou informace, které musíš mít, a on takhle otálí. V sázce *mohou* být životy, a on takhle protahuje čas?!"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -174,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002C00000133"
 msgid "\"Interesting. Tell me more about it.\""
 msgstr ""
+"\"Zajímavé. Povězte mi o tom víc.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -183,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000522"
 msgid "\"Then the players aim to throw their *boules* as close to the *cochonnet* as possible. They must stay in the circle and keep both feet planted.\""
 msgstr ""
+"\"Pak se hráči snaží hodit své *boule* co nejblíže ke *košonetu*. Musí ale u toho zůstat v kruhu a držet obě nohy na zemi.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -192,6 +219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000009E7"
 msgid "\"Why don't the two of you get a tomb and take your whining there.\" He looks at you, disgusted. \"I am ashamed to even stand in the same crater with you.\""
 msgstr ""
+"\"Proč si vy dva neseženete hrobku a nevezmete si to kňourání tam.\" Znechuceně se na tebe podívá. \"Stydím se, že s vámi vůbec stojím v jednom kráteru."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -201,6 +229,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB78"
 msgid "\"*So* weird... what was that, officer?\" The old man is visibly shaken, but tries to force a smile. \"Actually, *please*, let's talk about something else.\""
 msgstr ""
+"\"Tak *divné*... co prosím, detektive?\" Starý muž je viditelně otřesený, ale snaží se přinutit k úsměvu. \"Vlastně, *prosím*, promluvme si o něčem jiném.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -210,6 +239,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB8C"
 msgid "\"Six months go by and I realize you must think I've gone blind from all the shrapnel in my head. Because only a blind man wouldn't see through that.\""
 msgstr ""
+"\"Uplynulo půl roku a já si uvědomil, že si musíš myslet, že jsem oslepl ze všech těch střepin v mojí hlavě, protože jenom slepý by to neprohlédl.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -219,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002C00000117"
 msgid "\"Oh? The goal is to throw your *boule*...\" He holds out the orb. \"... as close to the *cochonnet* as you can.\""
 msgstr ""
+"\"Oh? Cílem je hodit svou *boulí*\"... Ukáže ti v rukou kouli. \"... co nejblíže ke *košonetu* jak je to jde.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -228,6 +259,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002C00000117"
 msgid "\"Yes, pétanque. The goal is to throw the *boule*...\" He holds out the orb. \"... as close to the *cochonnet* as you can.\""
 msgstr ""
+"\"Ano, petank. Cílem je hodit *bouli*... \" Drží kouli v ruce.\"... co nejblíž ke *košonetu* jak jen to jde."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -237,6 +269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000009F5"
 msgid "\"Easy now, René.\" He snickers. \"I *will* join the seniors swimming class later, but right now I don't want to keep the officer waiting -- police business is usually urgent.\""
 msgstr ""
+"\"Klídek, René.\" Ušklíbne se. \"*Později* se připojím k plavecké skupině seniorů, ale teď nechci nechat detektiva čekat - policejní záležitosti jsou obvykle naléhavé.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -246,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100004090"
 msgid "\"Yes, yes. I'm sorry, officer.\" The senior is visibly shaking before you."
 msgstr ""
+"\"Ano, ano. Omlouvám se, detektive.\" Senior se před tebou viditelně třese."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -255,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC02"
 msgid "Oh, he must have already figured out Gaston's cheating."
 msgstr ""
+"Oh, už určitě musel přijít na to, že Gaston podvádí."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -264,6 +299,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000040CD"
 msgid "\"We should leave quickly before it happens again.\" He looks around. \"Right now is a good moment.\""
 msgstr ""
+"\"Měli bychom rychle odejít, než se to stane znovu.\" Rozhlédne se kolem. \"Právě teď je vhodná chvíle.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -273,6 +309,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000AB50"
 msgid "\"Nothing... just a lowly law-man rambling to himself.\" (Tap on the side of your nose.) \"Watch that back.\""
 msgstr ""
+"\"Aaale nic... jen nějaký bezvýznamný muž zákona, který si blábolí pro sebe.\" (Poklepej si stranu nosu.) \"Dávejte si pozor na záda.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -282,6 +319,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EADC"
 msgid "He got the message."
 msgstr ""
+"Pochopil tvůj vzkaz."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -291,6 +329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB86"
 msgid "\"You were a rat when we were boys and you are a rat now. Of course I knew!\" He spits. \"Your deception was so bad at first I thought you were play-acting for my amusement.\""
 msgstr ""
+"\"Byl jsi krysa, když jsme byli kluci, a jsi krysa i teď. Samozřejmě, že jsem to věděl!\" Odplivne si. \"Tvoje podvody byly zpočátku tak hrozné, že jsem si myslel, že to hraješ pro mé pobavení.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -300,6 +339,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000050A"
 msgid "\"Trivial? Ha. Ahaha.\" (Grin at the man.) \"You can still tell me, you know. Before anything *happens*.\""
 msgstr ""
+"\"Nepodstatné detaily?\" Ha. Ahaha.\" (Ušklíbni se na muže.) \"Pořád mi to můžete říct, víte? Než se něco *přihodí*.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -309,6 +349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000561"
 msgid "\"That's the *cochonnet*.\" He points to a small wooden ball in the middle of the crater."
 msgstr ""
+"\"Támhle to je *košonet*.\" Ukáže na malou dřevěnou kouli uprostřed kráteru."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -318,6 +359,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000973"
 msgid "\"Cut the crap, bozo! I saw you cheating!\""
 msgstr ""
+"\"Přestaň kecat, blbečku! Viděl jsem tě podvádět!\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -327,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F438"
 msgid "That hurt. The man knows where to sting."
 msgstr ""
+"To zabolelo. Ten muž ví, kam bodnout."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -336,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000982"
 msgid "\"Who did you think you were fooling with your moaning, Gaston?\" He doesn't even glance at his partner."
 msgstr ""
+"\"Koho sis myslel, že tím svým sténáním oblbuješ, Gastone?\" Ani se nepodívá na svého partnera."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -345,6 +389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000A14"
 msgid "\"Why don't *you* get a tomb yourself!\""
 msgstr ""
+"Proč si neseženeš hrobku *sám*?!\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -354,6 +399,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000A21"
 msgid "\"Already got one, smart ass.\" He utters through his teeth. \"Comes with the rank and my service record.\""
 msgstr ""
+"\"Jednu už mám, chytráku.\" Řekne skrz zuby. \"Patří k mé hodnosti a služebním záznamům.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -363,6 +409,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000AB41"
 msgid "\"What do you mean, officer?\" He looks startled."
 msgstr ""
+"\"Co tím myslíte, detektive?\" Vypadá vyděšeně."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -372,6 +419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EBB3"
 msgid "If you wanna expose him, get straight to the point. If you start japing about old age, it's *never* gonna happen."
 msgstr ""
+"Pokud ho chceš odhalit, přejdi rovnou k věci. Jestli začnete žvanit o stáří, *nikdy* se to nestane."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -381,6 +429,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F5C6"
 msgid "\"Yes, officer, yes!!! I swear, I don't know anything else about pétanque! It's all I know, I swear!\""
 msgstr ""
+"\"Ano, detektive, ano!!! Přísahám, že o petanku nic jiného nevím! To je vše, co vím, přísahám!"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -390,6 +439,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002C00000166"
 msgid "\"I could, but I'd rather not.\" He smiles. \"I don't want to take up your time with trivial details, officer.\""
 msgstr ""
+"\"Mohl bych, ale raději bych to neříkal.\" Usměje se. \"Nechci vás zdržovat nepodstatnými detaily, detektive.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -399,6 +449,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000040B8"
 msgid "\"What was that all about? Some experimental interrogation technique you're honing?\""
 msgstr ""
+"\"Co to mělo znamenat? Nějaká experimentální výslechová technika, kterou zdokonalujete?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -408,6 +459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC1F"
 msgid "Just please ask them normal questions."
 msgstr ""
+"Jen jim prosím polož normální otázky."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -417,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000054E"
 msgid "\"The opponent has a right to re-measure if he has doubts about the result and...\" He is trying to think of something else to say, but then -- seeing your beady eyes -- stops."
 msgstr ""
+"\"Soupeř má právo na opakované měření, pokud má pochybnosti o výsledku a...\" Snaží se vmyslet něco dalšího, co by řekl, ale pak - když vidí tvé zářící oči - přestane."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -426,6 +479,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000097B"
 msgid "\"What?!\" The man tries to act surprised."
 msgstr ""
+"\"Cože?!\" Muž se snaží tvářit překvapeně."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -435,6 +489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB48"
 msgid "Yes, yes, you do. Knowledge is power, bathe in it, empower yourself, trust me."
 msgstr ""
+"Ano, ano, potřebuješ. Znalosti jsou síla, koupej se v nich, posiluj se, věř mi."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -444,6 +499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000966"
 msgid "\"Ugh... it's not very good, officer. I'm an old man and sciatica is gnawing on my joints.\" There's a look of hopelessness in his eyes. \"Some days the pain is almost too much...\""
 msgstr ""
+"\"Uf... není to moc dobré, detektive. Jsem starý muž a ischias mi okusuje klouby.\" V očích má výraz beznaděje. \"Někdy je ta bolest až příliš silná...\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -453,6 +509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002C00000139"
 msgid "\"I think that's all I need to know about pétanque.\""
 msgstr ""
+"\"Myslím, že to je vše, co potřebuji vědět o petanku.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -462,6 +519,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002C00000139"
 msgid "\"Good, good, Gaston... see, how it's all *good* now?\""
 msgstr ""
+"\"Dobrá, dobrá, Gastone... vidíš, jak je teď všechno *dobré*?"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -471,6 +529,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000040BF"
 msgid "\"I was hoarding information and had a seizure. I'm fine now.\""
 msgstr ""
+"\"Hromadil jsem informace a dostal jsem záchvat. Teď už jsem v pořádku.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -480,6 +539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EACE"
 msgid "He's faking."
 msgstr ""
+"Jenom to hraje."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -489,6 +549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EAEC"
 msgid "\"*Pardon*, René,\" he quickly turns back to you. \"We must pick this up later, I'm helping the officer right now.\""
 msgstr ""
+"\"*Pardón*, René,\" rychle se k tobě otočí. Musíme si to vyřešit později, právě teď pomáhám tady detektivovi \""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -498,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB61"
 msgid "\"Stop stalling and talk, goddamnit! Is that all?! Cause I swear to god, if you're holding back...\""
 msgstr ""
+"\"Přestaňte zdržovat a mluvte, zatraceně! To je všechno?! Protože přísahám bohu, jestli mi něco tajíte...\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -507,6 +569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EBA9"
 msgid "That guy is a fraud."
 msgstr ""
+"Ten chlap je podvodník."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -516,6 +579,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F440"
 msgid "\"I don't understand, René...\" He looks around with an expression of complete bafflement."
 msgstr ""
+"\"Nerozumím tomu, René...\" Rozhlédne se kolem sebe s výrazem naprostého zmatení."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -525,6 +589,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F839"
 msgid "\"I think I get it. Thanks, Gaston!\""
 msgstr ""
+"\"Myslím, že to chápu. Děkuji, Gastone!\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -534,6 +599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002C0000015E"
 msgid "\"Is there *anything* else you can tell me about pétanque?\""
 msgstr ""
+"\"Je tu ještě *něco* jiného, co mi můžete říct o petanku?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -543,6 +609,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000504"
 msgid "Is he *denying* you information, when you clearly requested it?! That's it. We're blowing the lid off this man-jar! You *need* to know... things!"
 msgstr ""
+"Vážně ti *odpírá* informace, když sis o ně jasně požádal?! To je ono. Posvítíme si na něj. *Potřebuješ* znát... věci!"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -552,6 +619,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000009A7"
 msgid "\"Should've built yourself a better body, Mossback. The kind that lasts.\" (Secretly flex.)"
 msgstr ""
+"\"Měl jste si vybudovat lepší tělo, staříku. Takové, které vydrží.\" (Potají ukaž svoje svaly.)"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -561,6 +629,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000040E9"
 msgid "\"I'm relieved to hear that.\" He peers at you over his glasses. \"Are you well enough to move on to something else now?\""
 msgstr ""
+"\"To se mi ulevilo.\" Zadívá se na tebe přes brýle. \"Jste už v pořádku na to přejít k něčemu jinému?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -570,6 +639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB1A"
 msgid "\"The hangovers must be getting worse too... Don't think I used to lose my memory every time I had a little drink...\""
 msgstr ""
+"\"Kocovina se musí taky zhoršovat... Nemyslete si, že jsem dřív ztrácel paměť pokaždé, když jsem se trošku napil...\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -579,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000A1A"
 msgid "\"That sounds blissful, but right now I've got some questions for Gaston.\""
 msgstr ""
+"\"To zní báječně, ale teď mám pro Gastona pár otázek.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -588,6 +659,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000040C6"
 msgid "\"Honestly, I don't know what it was.\""
 msgstr ""
+"\"Upřímně řečeno, nevím, co to bylo.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -597,6 +669,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EAFF"
 msgid "\"Actually...\""
 msgstr ""
+"\"No vlastně...\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -606,6 +679,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB22"
 msgid "\"But *not* with a monetary pension unfortunately,\" the checkered suit snaps at his partner and turns to you. \"What can I do for you, officer?\""
 msgstr ""
+"\"Ale bohužel ne s bohatým důchodem,\" zašustí svou kostkovanou košilí na svého partnera, a pak se otočí k tobě. \"Co pro vás mohu udělat, detektive?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -615,6 +689,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB41"
 msgid "But do I really and *why*?"
 msgstr ""
+"Opravdu je potřebuju znát? *Proč*?"
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -624,6 +699,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC11"
 msgid "\"Yeah, how did you know?\""
 msgstr ""
+"\"Jasně, jak to víte?\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -633,6 +709,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EC18"
 msgid "\"I know a *Weird Cop* when I see one.\" The lieutenant adjusts his glasses. \"It doesn't work. *Weird Cop* only confuses the suspect and the *Weird Cop* himself, while all he should have done was ask normal questions.\""
 msgstr ""
+"\"Poznám *divného poldu*, když ho vidím.\" Poručík si upraví brýle. \"Nefunguje to. *Divný polda* pouze zmate podezřelého, i samotného *divného poldu*, přitom jediné, co měl udělat, bylo se ptát na normální otázky."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -642,6 +719,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000EB9F"
 msgid "He's known Gaston all his life. Probably knows his every move better than himself. Of course he saw right through the deceit."
 msgstr ""
+"Gastona zná celý svůj život. Nejspíš zná každý jeho krok lépe než on sám. Samozřejmě, že prohlédl jeho podvod."
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -651,6 +729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000051A"
 msgid "\"Uh...\" Your keen interest is making him uncomfortable. \"Then there's measuring the distance between the *boule* and the *cochonnet*. I always measure ours, but usually it's done by the player who threw last.\""
 msgstr ""
+"\"Uh... \"Tvůj veliký zájem ho zneklidňuje. \"Pak je tu měření vzdálenosti mezi *boulí* a *košonetem*. Já vždycky měřím tu naší, ale většinou to dělá ten hráč, který házel poslední.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -660,6 +739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000009C1"
 msgid "\"I know what you mean, officer,\" he says excitedly. \"Then there's the blood sugar and don't even get me started on the bladder troubles...\""
 msgstr ""
+"\"Vím, co máte na mysli, detektive,\" říká vzrušeně. \"Pak je tu ještě cukr v krvi a to ani nebudu začínat o problémech s močákem...\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -669,6 +749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000031000009EE"
 msgid "\"Goddamn right, son!\" The old soldier nods in agreement. \"No use complaining about it.\""
 msgstr ""
+"\"Zatraceně správně, synu!\" Starý voják souhlasně přikývne. \"Nemá cenu si stěžovat.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -678,6 +759,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100004097"
 msgid "\"Good. Gaston finally understands the rules now.\" An evil smile runs across his lips. \"Let's see if it makes him a better *petanquista*.\""
 msgstr ""
+"\"Dobře. Gaston konečně pochopil pravidla.\" Na jeho obličeji se objeví zlý úsměv. \"Uvidíme, jestli to z něho udělá lepšího *petankistu*.\""
 
 #. Title = PLAZA / GASTON CHEATING
 #. Description = * Rat or don't rat out cheating Gaston
@@ -687,3 +769,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000409F"
 msgid "\"You'll put that knowledge to good use in twenty... I mean fifty years. I'm sure of that officer.\""
 msgstr ""
+"\"Tyto znalosti využijete za dvacet... Chci říct, za padesát let. Tím jsem si jistý, detektive.\""
