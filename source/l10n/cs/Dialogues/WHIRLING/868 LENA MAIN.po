@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -207,6 +214,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000AF8"
 msgid "\"Why did you need to use the phone, anyway?\""
 msgstr ""
+"\"Proč jste vlastně potřebovala telefonovat?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -243,6 +251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000005E1"
 msgid "\"I was also hoping she'd heard from Morell...\" She looks down."
 msgstr ""
+"\"Taky jsem doufala, že se jí Morell ozval...\" Skloní hlavu."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -423,6 +432,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000120000005B"
 msgid "\"I hate to ask, but *if* your investigation takes you to the other side of the coast, please do keep an eye out for my husband...\""
 msgstr ""
+"\"Nerada se ptám, ale pokud vás vaše vyšetřování zavede na druhou stranu pobřeží, podívejte se prosím po mém manželovi...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -459,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000012000003AA"
 msgid "\"And if you see him, let him know Lena is waiting for him here at the Whirling. He gets so tangled up in his work that he may not know the water lock's been repaired. And it's *cold* out there...\""
 msgstr ""
+"\"A jestli ho uvidíte, řekněte mu, že Lena na něj čeká tady v Cárech. Je tak zahloubaný do své práce, že možná ani neví, že zdymadlo bylo opraveno. A venku je *zima*...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -639,6 +650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000F20"
 msgid "\"Searching for such species -- called *cryptids* -- is difficult and often thankless, and frankly, many scientists are too lazy to do it. Universities these days are rarely interested in supporting *real* research.\""
 msgstr ""
+"\"Pátrání po takových druzích - nazývaných *kryptidi* - je obtížné a často nevděčné a upřímně řečeno, mnoho vědců je na to příliš líných. Univerzity mají v dnešní době jen zřídkakdy zájem podporovat *skutečný* výzkum.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -651,6 +663,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000F91"
 msgid "\"The water lock on the canal is broken, so your husband is probably just stuck on the other side of the coast.\""
 msgstr ""
+"\"Vodní zdymadlo na kanálu je rozbité, takže váš manžel pravděpodobně uvízl na druhé straně pobřeží.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -663,6 +676,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005400000F91"
 msgid "\"The water lock on the canal was broken, so your husband probably just got stuck on the other side of the coast.\""
 msgstr ""
+"\"Zdymadlo na kanálu bylo rozbité, takže váš manžel nejspíš jen uvízl na druhé straně.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -939,6 +953,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000BC6"
 msgid "\"What is this *expedition* your husband was on?\""
 msgstr ""
+"\"Co je to za *expedici*, na které byl váš manžel?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -975,6 +990,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000027C"
 msgid "\"The manager was vague about it.\" She frowns."
 msgstr ""
+"\"Manažer se k tomu vyjádřil nejasně.\" Zamračí se."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -1215,6 +1231,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001200000275"
 msgid "The water lock! That was broken. Could this be it?"
 msgstr ""
+"Zdymadlo! To bylo rozbité. Mohlo by to být ono?"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -1311,6 +1328,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000031C"
 msgid "\"That's just it! This isn't like him at all. He always plans his expeditions so carefully...\""
 msgstr ""
+"\"To je právě to! Tohle se mu vůbec nepodobá. Vždycky si své výpravy tak pečlivě plánuje...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -1779,6 +1797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000AD7"
 msgid "\"Please don't trouble yourself about me, sweetie. I was just hoping to make a call, but the Whirling's phone line isn't working.\""
 msgstr ""
+"\"Prosím, nedělejte si se mnou starosti, zlatíčko. Jen jsem doufala, že si zavolám, ale telefonní linka Cárů nefunguje.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2163,6 +2182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000CD8"
 msgid "\"But they should have returned by now. They were just going down the coast, across the water lock, to set a few traps. He said they'd be back on Monday...\" She sighs. \"What could be keeping them?\""
 msgstr ""
+"\"Ale už se měli vrátit. Šli jen dolů na pobřeží, přes zdymadlo, aby nastražili pár pastí. Říkal, že se vrátí v pondělí...\" Povzdechla si. \"Co by je mohlo zdržet?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2199,6 +2219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800001195"
 msgid "\"The closest phone booth is down the coast. Sorry for the inconvenience, ma'am.\" He appears to be genuinely apologetic."
 msgstr ""
+"\"Nejbližší telefonní budka je na dole pobřeží. Omlouvám se za nepříjemnosti, madam.\" Zdá se, že se skutečně omlouvá."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2247,6 +2268,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001FE6"
 msgid "\"I was also hoping she'd heard from Morell...\" She looks down."
 msgstr ""
+"\"Taky jsem doufala, že se jí Morell ozval...\" Skloní hlavu."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2487,6 +2509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000ABC"
 msgid "\"The Union office probably has a phone, but I can't really get there, or to the phone booth down the coast... And Gary's phone is dead, too...\" She sighs."
 msgstr ""
+"\"V kanceláři Odborů je nejspíš telefon, ale tam se opravdu nedostanu, ani do telefonní budky dole na pobřeží... A Garyho telefon je taky hluchý...\" Povzdechne si."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2499,6 +2522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000ADE"
 msgid "A faint smile tells you she appreciates the effort, but at the moment her mind is on more serious matters..."
 msgstr ""
+"Slabý úsměv ti prozradí, že si tvé snahy váží, ale v tuto chvíli má na mysli vážnější věci..."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2691,6 +2715,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017577"
 msgid "This will *surely* lead to a cryptozoological mystery with that *extremely rare insect*..."
 msgstr ""
+"To *zaručeně* povede ke kryptozoologické záhadě s tím *velmi vzácným hmyzem*..."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -2811,6 +2836,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000009B0"
 msgid "\"Howdy, Lena! What's kicking?\""
 msgstr ""
+"\"Ahoj, Leno! Jak vám dupou králíci?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3063,6 +3089,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001200000042"
 msgid "\"Probably just some technical problem.\""
 msgstr ""
+"\"Pravděpodobně jde jen o nějaký technický problém.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3147,6 +3174,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000B69"
 msgid "\"So your husband is some kind of scientist?\""
 msgstr ""
+"\"Takže váš manžel je nějaký vědec?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3171,6 +3199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000033B"
 msgid "“But you have more important things to worry about.” She glances out the window toward the bay."
 msgstr ""
+"\"Ale vy máte důležitější věci na starosti.\" Podívá se z okna směrem k zálivu."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3267,6 +3296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001F80"
 msgid "The lady is distressed. Perhaps something more up-beat might cheer her up?"
 msgstr ""
+"Paní je rozrušená. Možná by ji mohlo rozveselit něco optimističtějšího?"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3483,6 +3513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000D3E"
 msgid "\"Gary's as loyal as they come. I'd trust him with my husband's life any day.\""
 msgstr ""
+"\"Gary je tak loajální, jak jen to jde. Svěřila bych mu život svého manžela kdykoli.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3675,6 +3706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018CDE"
 msgid "Doing some *good* will alleviate the hangover. At least you're of use to *someone*."
 msgstr ""
+"Když uděláš něco *dobrého*, zmírníš kocovinu. Přinejmenším budeš *někomu* užitečný."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -3819,6 +3851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800001186"
 msgid "\"It's fine, I understand. Thank you anyway.\" She turns back to you with a weary smile. \"I'm glad to see you again, dear.\""
 msgstr ""
+"\"To je v pořádku, chápu to. I tak vám děkuji.\" Otočí se k tobě s unaveným úsměvem. \"Ráda vás zase vidím, drahý.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4035,6 +4068,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017598"
 msgid "\"You're welcome, ma'am.\""
 msgstr ""
+"\"Není zač, madam.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4083,6 +4117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001200000052"
 msgid "\"Well, whatever the cause, I'm thankful. You've spared me another sleepless night.\""
 msgstr ""
+"\"Ať už je příčina jakákoli, jsem vděčná. Ušetřil jste mě další bezesné noci.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4095,6 +4130,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100001200000052"
 msgid "\"Well, whatever the cause, I'm thankful... \" She turns to the lieutenant. \"To *both* of you. You've spared me another sleepless night.\""
 msgstr ""
+"\"Ať už je příčina jakákoli, jsem vděčná... \" Otočí se k poručíkovi. \"Vám oběma. Ušetřili jste mě další bezesné noci.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4239,6 +4275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000D2B"
 msgid "\"Wait, who's this 'Gary' person? Do you trust him?\""
 msgstr ""
+"\"Počkat, kdo je ten \"Gary\"? Věříte mu?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4251,6 +4288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400001182"
 msgid "\"Oh, my! What happened to the water lock?\""
 msgstr ""
+"\"Ach, můj bože! Co se stalo se zdymadlem?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4395,6 +4433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018D2B"
 msgid "She's completely internalized her husband's struggles. They are her own."
 msgstr ""
+"Zcela si osvojila manželovy problémy. Jsou její vlastní."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4587,6 +4626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000B1A"
 msgid "\"Wait, what's wrong with the phone line?\""
 msgstr ""
+"\"Počkejte, co je s tou telefonní linkou?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4611,6 +4651,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000004E5"
 msgid "A cold breeze hisses through dense thickets of reeds.... Something sweet in it, somnolent. A damp chill goes down your spine. When you look around, you're still in the Whirling-in-Rags."
 msgstr ""
+"Studený vítr syčí hustou spletí rákosí.... Je v něm něco sladkého, ospalého. Po páteři ti přeběhne vlhký chlad. Když se rozhlédneš, jsi stále ve V-Cárech-vířící."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4623,6 +4664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800000509"
 msgid "You hear that? Someone's *missing*. There could be *foul play* afoot!"
 msgstr ""
+"Slyšíš to? Někdo je *nezvěstný*. Mohlo by jít o nekalou hru!"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4635,6 +4677,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000005CC"
 msgid "That's right. Now skip the foreplay. Time to dive into the dark alleys, start shaking down the usual suspects -- you know, *legwork*."
 msgstr ""
+"Přesně tak. Teď přeskoč předehru. Je čas ponořit se do temných uliček a zmáčknout obvyklé podezřelé - však víš, *práce v terénu*."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4647,6 +4690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800001178"
 msgid "\"And there's no public phones nearby?\""
 msgstr ""
+"\"A v okolí nejsou žádné veřejné telefony?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4875,6 +4919,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018D04"
 msgid "\"What is cryptozoology?\""
 msgstr ""
+"\"Co je to kryptozoologie?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4899,6 +4944,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001200000291"
 msgid "\"The water lock to the other side of the coast is broken. They're probably just stuck over there.\" (Proceed.)"
 msgstr ""
+"\"Zdymadlo na druhou stranu pobřeží je rozbité. Pravděpodobně tam uvízli.\" (Pokračuj.)"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -4911,6 +4957,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100001200000291"
 msgid "\"The water lock to the other side of the coast was broken. They probably just got stuck over there.\" (Proceed.)"
 msgstr ""
+"\"Zdymadlo na druhou stranu pobřeží bylo rozbité. Pravděpodobně tam prostě uvízli.\" (Pokračuj.)"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5031,6 +5078,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000AE4"
 msgid "\"Please don't trouble yourself about me, sweetie. I was just hoping to make a call, but the Whirling's phone line isn't working.\""
 msgstr ""
+"\"Prosím, nedělejte si se mnou starosti, zlatíčko. Jen jsem doufala, že si zavolám, ale telefonní linka Cárů nefunguje.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5043,6 +5091,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000BD3"
 msgid "\"It's a pseudo-science that attempts to legitimize *research* into mythological beasts and urban legends.\" The lieutenant sounds unimpressed."
 msgstr ""
+"\"Je to pseudověda, která se snaží legitimizovat *výzkum* mytologických zvířat a městských legend.\" Poručík nevypadá, že by to něj udělalo dojem."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5055,6 +5104,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000BD9"
 msgid "\"That's one opinion, yes. And people are entitled to their opinions...\""
 msgstr ""
+"\"To je jeden z názorů, ano. A lidé mají právo na svůj názor...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5079,6 +5129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800000591"
 msgid "I love missing persons cases."
 msgstr ""
+"Miluji případy nezvěstných osob."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5091,6 +5142,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000005EA"
 msgid "\"Okay, I'll bite. Has your husband gone missing before?\""
 msgstr ""
+"\"Dobře, beru. Pohřešoval se váš manžel už někdy?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5487,6 +5539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000BC0"
 msgid "Maybe you could convince her to tell you about some *cool* cryptids?"
 msgstr ""
+"Možná bys ji mohl přesvědčit, aby ti řekla o nějakých *prďáckých* kryptidech?"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5499,6 +5552,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100005400000BC0"
 msgid "Less worried about husband."
 msgstr ""
+"Méně starostí o manžela."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5535,6 +5589,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100005400000BC0"
 msgid "Has the green ape pen."
 msgstr ""
+"Má zelené opičí pero."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5583,6 +5638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000011DA"
 msgid "\"If I see him, I'll let him know you're here -- when or *if* I get there.\" (Accept task.)"
 msgstr ""
+"\"Jestli ho uvidím, dám mu vědět, že jste tady - až nebo *jestli* se tam dostanu.\" (Přijmi úkol.)"
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5595,6 +5651,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000026E"
 msgid "\"Wait, what's wrong with the phone line?\""
 msgstr ""
+"\"Počkejte, co je s tou telefonní linkou?\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5607,6 +5664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800000315"
 msgid "\"To let the young woman who's house-sitting for us know that we may be delayed. Morell -- my husband -- and our friend Gary were supposed to get back by Monday night, but they're still missing and I haven't heard from them...\""
 msgstr ""
+"\"Abych dala vědět mladé ženě, která nám hlídá dům, že se možná zdržíme. Morell - můj manžel - a náš přítel Gary se měli vrátit v pondělí večer, ale stále jsou nezvěstní a zatím se mi neozvali...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5619,6 +5677,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000117F"
 msgid "\"The closest phone booth is down the coast. Sorry for the inconvenience, ma'am.\" The cafeteria manager appears genuinely apologetic."
 msgstr ""
+"\"Nejbližší telefonní budka je dole na pobřeží. Omlouvám se za nepříjemnosti, madam.\" Manažer hostelu vypadá, že se skutečně omlouvá."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5823,6 +5882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600008E0D"
 msgid "\"My apologies, ma'am. I did not mean to undermine your hobby.\""
 msgstr ""
+"\"Omlouvám se, madam. Nechtěl jsem znevažovat váš koníček.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5835,6 +5895,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600008E13"
 msgid "\"It's not a hobby, dear. It's a *sub-field* of zoology, one specializing in animal species that are so exceedingly rare that many assume them to be *extinct* or even *fictitious*...\""
 msgstr ""
+"\"Není to koníček, drahoušku. Je to *podobor* zoologie, který se specializuje na živočišné druhy, které jsou tak mimořádně vzácné, že je mnozí považují za *domnělé* nebo dokonce *fiktivní*...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -5919,6 +5980,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000CD2"
 msgid "\"Just some field work, sweetie. Morell is a highly trained scientist. He and his assistant, Gary, are studying an *extremely rare* species of insect...\""
 msgstr ""
+"\"Jen nějaká práce v terénu, zlatíčko. Morell je vysoce kvalifikovaný vědec. On a jeho asistent Gary zkoumají jeden extrémně vzácný druh hmyzu...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -6231,6 +6293,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000099D"
 msgid "\"Just a moment.\" The old woman turns back to the cafeteria manager."
 msgstr ""
+"\"Moment.\" Stará žena se otočí k manažerovi hostelu."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -6243,6 +6306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000003E5"
 msgid "\"To let the young woman who's house-sitting for us know that we may be delayed. Morell, my husband, and Gary were supposed to get back by Monday night, but they're still missing and I haven't heard from them...\""
 msgstr ""
+"\"Abych dala vědět mladé ženě, která nám hlídá dům, že se možná zdržíme. Morell, můj manžel a Gary se měli vrátit v pondělí večer, ale stále jsou nezvěstní a zatím se mi neozvali...\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -6435,6 +6499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018CFD"
 msgid "\"Oh yes,\" she says with a pinch of pride. \"A zoologist -- a *crypto*zoologist to be more precise.\""
 msgstr ""
+"\"Ach ano,\" řekne se špetkou hrdosti. \"Zoolog - přesněji řečeno *krypto*zoolog.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -6519,6 +6584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000D38"
 msgid "\"Oh, sweetie. It's nothing like that...\" She smiles."
 msgstr ""
+"\"Zlatíčko. Tak to není...\" Usměje se."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -6531,6 +6597,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000004C6"
 msgid "\"Oh, you're such a dear! Thank you, sweetie.\""
 msgstr ""
+"\"Ach, vy jste takový drahoušek! Děkuji vám, zlatíčko.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -6891,6 +6958,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000119B"
 msgid "\"It's fine, I understand. Thank you anyway.\" She turns back to you with a weary smile. \"Now, then.\""
 msgstr ""
+"\"To je v pořádku, chápu to. I tak vám děkuji.\" Otočí se k tobě s unaveným úsměvem. \"Tak tedy.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -7095,6 +7163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000B21"
 msgid "\"The manager was vague about it.\" She frowns."
 msgstr ""
+"\"Manažer se k tomu vyjádřil nejasně.\" Zamračí se."
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
@@ -7191,6 +7260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001F34"
 msgid "\"Please don't trouble yourself about me, sweetie. I was just hoping to make a call, but the Whirling's phone line isn't working.\""
 msgstr ""
+"\"Prosím, nedělejte si se mnou starosti, zlatíčko. Jen jsem doufala, že si zavolám, ale telefonní linka Cárů nefunguje.\""
 
 #. Title = WHIRLING / LENA MAIN
 #. Description = 1. Learn Morell is missing.
