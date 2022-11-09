@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001629F"
 msgid "\"Okay.\" He doesn't bat an eye. \"I don't like either set too much, to be honest.\""
 msgstr ""
+"\"Tak jo.\" Ani nemrkne. \"Upřímně, ani já ten set nemám moc rád.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001639C"
 msgid "He doesn't elaborate on these 'wrong hands' -- it's unlikely that he ever will."
 msgstr ""
+"Nijak dál tyto \"špatné ruce\" nerozvádí - a nejspíš nikdy nerozvede."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046C5"
 msgid "\"Of course.\" (Nod knowingly.)"
 msgstr ""
+"\"Samozřejmě.\" (Vědoucně kývni.)"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000007BE"
 msgid "Step away from the table. [Leave.]"
 msgstr ""
+"Ustup od stolu. [Odejdi.]"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000007FA"
 msgid "(Point at the blue figurines.) \"What exactly are these?\""
 msgstr ""
+"(Ukaž na modré figurky.) \"Kdo mají být tyhle?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -51,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000800"
 msgid "(Point at the blue figurines.) \"Are these royalist soldiers?\""
 msgstr ""
+"(Ukaž na modré figurky.) \"Jsou toto roajalističtí vojáci?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -59,6 +72,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000366B"
 msgid "Inspect the knights on horseback."
 msgstr ""
+"Prohlédni si rytíře v sedlech."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -67,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000855"
 msgid "\"Maybe.\""
 msgstr ""
+"\"Možná.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F32A"
 msgid "Try to find something pretty and cool here. Then use it to win her back!"
 msgstr ""
+"Zkus tu najít něco hustého a pěkného. Pak to použij, abys ji získal zpátky!"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -83,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046CB"
 msgid "\"*Who*?\""
 msgstr ""
+"\"*Kdo*?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -91,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046D3"
 msgid "\"There's been a lot of *interest* in that particular figurine. I had to hide it so it wouldn't fall into the wrong hands.\""
 msgstr ""
+"\"O tuto konkrétní figurku byl velký *zájem*. Musel jsem ji schovat, aby nepadla do špatných rukou.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -99,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046DA"
 msgid "\"The Headless FALN Rider. It's an urban legend -- about a man who rides the streets of Revachol sporting a FALN tracksuit. As you can see, he's missing his head.\" He points at the decapitated figurine."
 msgstr ""
+"\"Bezhlavý FALN jezdec. Městská legenda - muž, který jezdí ulicemi Revacholu v teplákové soupravě od FALN. Jak vidíte, chybí mu hlava.\" Ukáže na figurku bez hlavy."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -107,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004686"
 msgid "That was a very smooth salesman's grin that almost comes off as earnest. You should learn from him."
 msgstr ""
+"Byl to velmi uhlazený úsměv prodejce, který působil téměř upřímně. Měl by ses od něj učit."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -115,6 +135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016254"
 msgid "\"Franconigerian knights.\" He looks at the dusty figurines in the dim light. \"I used to be very serious about these guys.\""
 msgstr ""
+"\"Frankongerští rytíře.\" Pohládne na zapráčené figurky v tlumeném světle. \"Tihle mě dávno dost brali.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -123,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046BD"
 msgid "\"Oh, that's the Headless FALN Rider.\""
 msgstr ""
+"\"Ach, to je bezhlavý FALN jezdec.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -131,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000042F4"
 msgid "Purchase the Headless FALN Rider and his cap."
 msgstr ""
+"Kup bezhlavého FALN jezdce a jeho čepičku."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -139,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00004878"
 msgid "The lieutenant studies the tiny figurine in your hand. \"I've heard about it,\" he says with amusement, \"I've heard the Headless FALN Rider rides a headless bull.\""
 msgstr ""
+"Poručík si prohlíží figurku ve tvé ruce. \"Slyšel jsem o něm,\" řekne pobaveně, \"Slyšel jsem, že bezhlavý FALN jezdec jezdí na bezhlavém býku.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -147,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000085C"
 msgid "\"I don't like either set very much, to be honest, but there are many parents among my customers.\""
 msgstr ""
+"\"Upřímně, ani já ten set nemám moc rád, ale mezi mými zákazníky je mnoho rodičů.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -155,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016292"
 msgid "\"It is impossible to win against the cohorts of capital. Ask my friend Garte, whose bitch it made me.\""
 msgstr ""
+"\"Proti kohortám kapitálu nelze zvítězit. Zeptejte se mého přítele Garteho, jehož děvkou jsem se stal.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -163,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000163A4"
 msgid "\"Fifty cents. Bargain-priced! I'll throw in the tiny cap too -- I think he's looking for it, or something. That part of the story has many interpretations.\""
 msgstr ""
+"\"Padesát centů. Skvělá nabídka! Přihodím i malinkou čepičku - myslím, že ji hledá nebo tak. Ta část příběhu má mnoho variant.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -171,6 +198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F332"
 msgid "Win 'her' back?"
 msgstr ""
+"Získat \"ji\" zpátky?"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -179,6 +207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F338"
 msgid "Yes! Buy something nice! A figurine."
 msgstr ""
+"Ano! Kup něco pěkného! Figurku."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -187,6 +216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000042B5"
 msgid "Inspect the figurines in rags."
 msgstr ""
+"Prohlédni si figurky v hadrech."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -195,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000431A"
 msgid "Big men on big horses clad in lamellar armour and carrying flintlocks. The kind that would mow down a line of enemy soldiers in the blink of an eye."
 msgstr ""
+"Velcí muži na velkých koních v lamelové zbroji a s křesadlovými zbraněmi. Takoví, kteří by mrknutím oka zkosili řadu nepřátelských vojáků."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -203,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000808"
 msgid "\"Which ones?\" The man peers from his glass box. \"Ah! Royalist soldiers from the time of the Revolution. The uniforms are painted a bit too brightly, I suppose.\""
 msgstr ""
+"\"Které?\" Muž nakoukne ze své skleněné budky. \"Ach! Roajalističtí vojáci z dob Revoluce. Uniformy jsou natřené možná až moc křiklavě, předpokládám.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -211,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000847"
 msgid "\"It's meant to give people hope -- even *we* can do it.\""
 msgstr ""
+"\"Mají dodávat lidem naději - dokonce i *my* to zvládneme.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -219,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000CDD"
 msgid "Cool rider, right? I knew we'd find something worthwhile here! Buy it!"
 msgstr ""
+"Hustý jezdec, co? Já věděl, že tu nadjdeme něco, co za to stojí. Kup ho!"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -227,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001623D"
 msgid "\"Wait, this looks like René, the old guy who was playing petanque.\""
 msgstr ""
+"\"Počkat, tyhle vypadají jako René, ten stařík, co hraje petank.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -235,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016394"
 msgid "He doesn't elaborate on what that means -- it's unlikely that he will."
 msgstr ""
+"Dál nerozvádí, co to znamená - a nejspíš nikdy nerozvede."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -243,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046AF"
 msgid "\"What is this?\" (Show it to the shopkeep.)"
 msgstr ""
+"\"Co je tohle?\" (Ukaž ji prodavači.)"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -251,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000CC3"
 msgid "\"Indeed.\" He immediately knows what you're talking about. \"I think I even have his cap somewhere down here...\" He looks for it. \"A tiny miniature FALN cap to go with it. Yours for 50 cents.\""
 msgstr ""
+"\"Vskutku.\" Hned ví, o čem mluvíš. \"Myslím, že tu dole mám ještě jeho čapku...\" Hledá ji. \"Miniaturní FALN čepičku, která k němu patří. Vaše za 50 centů.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -259,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001624E"
 msgid "(Point at the knights on horseback.) \"Who are they?\""
 msgstr ""
+"(Ukaž na rytíře na koních.) \"Kdo to je?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -267,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001626B"
 msgid "...a long, long time ago."
 msgstr ""
+"... před dlouhou, dlouhou dobou."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -275,6 +315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000365E"
 msgid "You see rows of toy soldiers guarding the rest of the trinkets displayed on the table: some on horseback, others in rags, others yet in bright blue uniforms. All are stern and unyielding in their duty."
 msgstr ""
+"Vidíš řady vojáčků, kteří stráží zbytek drobností vystavených na stole: někteří na koních, jiní v hadrech, další v jasně modrých uniformách. Všichni jsou přísní a neústupní ve svých povinnostech."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -283,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000080F"
 msgid "\"Which ones?\" The man peers from his glass box. \"Ah, those! Yes, they are. I find the paint job a bit gaudy, but children like bright colours indiscriminately.\""
 msgstr ""
+"\"Které?\" Muž vykoukne z jeho skleněné budky. \"Ach, tyhle! Ano, to jsou. Přijdou mi trochu křiklavé, ale děti bez rozdílu mají rády pestré barvy.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -291,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001627E"
 msgid "\"This is what the loyalists looked like, yes.\" He inspects the figurine. \"At first. Then they wised up and got camouflage.\""
 msgstr ""
+"\"Takto vypadali loajalisté, ano.\" Prohlíží si figurku. \"Ze začátku. Pak zmoudřeli a pořídili si maskáče.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -299,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000036B3"
 msgid "Dig up a truly *cool* figurine in the box under the table."
 msgstr ""
+"Vyhrabej vážne *hustou* figurku z krabice pod stolem."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -307,6 +351,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100004D000036B3"
 msgid "Dresscode: Extreme performance."
 msgstr ""
+"Styl oblečení: Extrémní výkon."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -315,6 +360,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100004D000036B3"
 msgid "Dresscode: Rummager."
 msgstr ""
+"Styl oblečení: Z bazaru."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -323,6 +369,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100004D000036B3"
 msgid "Heard about FALN rider."
 msgstr ""
+"Slyšel jsi o FALN jezdci."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -331,6 +378,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100004D000036B3"
 msgid "Standard Wirrâl Die."
 msgstr ""
+"Standardní Wirrâl kostka"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -339,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000831"
 msgid "\"You're probably talking about the revolutionaries, yes?\" the man behind the glass answers. \"Yes -- they are soldiers. Revolutionary soldiers.\""
 msgstr ""
+"\"Nejspíš mluvíte o revolucionářích, že?\" odpoví muž zpoza skla. \"Ano - to jsou vojáci. Revolucionářští vojáci.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -347,6 +396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000863"
 msgid "He seems to have his own take on the conflict played out in perpetuity by these toys. Might be interesting to find out what it is..."
 msgstr ""
+"Zdá se, že má svůj vlastní pohled na konflikt, který se v těchto hračkách odehrává donekonečna. Mohlo by být zajímavé zjistit, jaký  je..."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -355,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001625A"
 msgid "\"Mhm. I used to be very serious about my Franconigerian knights...\" He looks at the dusty figurines in the dim light."
 msgstr ""
+"\"Mhm. Kdysi jsem byl vážně zapálený do svých frankonigerských rytířů...\" V tlumeném světle si prohlíží zaprášené figurky."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -363,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F347"
 msgid "This sounds... off. You shouldn't trust this guy."
 msgstr ""
+"To zní... mimo. Tomuhle týpkovi bys neměl důvěřovat."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -371,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FF0A"
 msgid "(Look at Kim, then back at Roy.) \"Sorry, what are we talking about again?\""
 msgstr ""
+"(Podívej se na Kima a pak zpátky na Roye.) \"Pardon, co se řeší?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -379,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000007F3"
 msgid "This set of soldiers isn't meant to look impressive. A few have rifles, but most of them carry pistols -- some even shovels and tall sticks."
 msgstr ""
+"Tento set vojáčků nemá vypadat působivě. Jen pár jich má pušky, většina z nich má jen pistole - někteří dokonce jen lopaty a dlouhé tyče."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -387,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016299"
 msgid "\"I wish it was more *nuanced*. As it stands, I cannot comment.\""
 msgstr ""
+"\"Přál bych si, aby to bylo více *citlivé*. V současné podobě to nemohu komentovat.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -395,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FF31"
 msgid "Toy soldiers stand guard over bowls filled with bracelets, rings, and used cigarette lighters."
 msgstr ""
+"Vojáčci na hraní stráží misky s náramky, prstýnky a použitými zapalovači."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -403,6 +459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016248"
 msgid "(Point at the knights on horseback.) \"These are Franconigerian cavalry, right?\""
 msgstr ""
+"(Ukaž na rytíře na koních.) \"Tyhle jsou frankonigerská kavalerie, že?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -411,6 +468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016285"
 msgid "That they do -- the uniforms are precisely the same. Some even have the same shape medals pinned to their chests."
 msgstr ""
+"To ano - ty uniformy jsou totožné. Některé mají dokonce medaile stejného tvaru připíchnuté na hrudníčky."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -419,6 +477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000042AE"
 msgid "Inspect the blue uniforms."
 msgstr ""
+"Prohlédni si modré uniformy."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -427,6 +486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000046A8"
 msgid "Why, what's this? A headless man riding a horse? A headless man wearing futuristic track suit trousers that say FALN!"
 msgstr ""
+"Ale, ale, copak to tu máme? Bezhlavý muž jedoucí na koni? Bezhlavý muž oděný v futuristické teplákovce s nápisy FALN!"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -435,6 +495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000081D"
 msgid "(Point at the figurines in rags.) \"Are these even soldiers?\""
 msgstr ""
+"(Ukaž na figurky v hadrech.) \"Jsou tyhle vůbec vojáci?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -443,6 +504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000CBC"
 msgid "\"The Headless FALN Rider!\""
 msgstr ""
+"\"Bezhlavý FALN jezdec!\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -451,6 +513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000163B1"
 msgid "He lost his cap when he lost his head. Perhaps he's looking for the *head*?"
 msgstr ""
+"Ztratil svoji čapku, když přišel o hlavu. Možná hledá *hlavu*?"
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -459,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FF01"
 msgid "\"What do you mean?\""
 msgstr ""
+"\"Co tím myslíte?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -467,6 +531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000044F8"
 msgid "\"Shopkeep, what are these?\""
 msgstr ""
+"\"Prodavači, co jsou tyhle zač?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -475,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000486C"
 msgid "\"A classic set. The figurines represent the Fifth-century Franconigerian Cavalry.\""
 msgstr ""
+"\"Klasická sada. Figurky představují frankonigerskou kavalerii z 5. století.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -483,6 +549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000007ED"
 msgid "They're not all blue. These figurines also wear gold coats and caps, complimented by orange trousers. They are variously posed, wielding swords and rifles with bayonets."
 msgstr ""
+"Nejsou všechny modré. Tyto figurky nosí také zlaté kabáty a čepice doplněné oranžovými kalhotami. Jsou v různých pózách, drží meče a pušky s bajonety."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -491,6 +558,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000083F"
 msgid "\"I think their poverty has been exaggerated for effect. When you place them next to the royalists, it doesn't seem like they could possibly win.\""
 msgstr ""
+"\"Myslím, že jejich chudoba je přehnaná. Když je postavíte vedle roayalistů, nezdá se, že by mohli vyhrát.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -499,6 +567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000CD0"
 msgid "The lieutenant studies the figurine with amusement."
 msgstr ""
+"Poručík pobaveně zkoumá figurku."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -507,6 +576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000043BD"
 msgid "\"These are Franconigerian cavalry, right?\""
 msgstr ""
+"\"Tyhle jsou frankonigerská kavalerie, že ano?\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -515,6 +585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000007AD"
 msgid "\"Did I mention that this figurine is supposed to be lucky? Always carry it with you.\" He grins."
 msgstr ""
+"\"Zmínil jsem se, že tato figurka má nosit štěstí? Vžducky ji noste u sebe.\" Zazubí se."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -523,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000036FE"
 msgid "Everything you pick out seems faded, chipped, and sad somehow. Most of them are  just broken toys."
 msgstr ""
+"Všechno, co vybereš, se zdá být vybledlé, oprýskané a nějak smutné. Většina z nich jsou jen rozbité hračky."
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -531,6 +603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000043D0"
 msgid "\"Yes!\" The man behind the glass takes says. \"A little worn around the edges, but I'm pretty sure it's fully intact.\""
 msgstr ""
+"\"Ano!\" Pronese muž za sklem. \"Mají trochu ošoupané okraje, ale jsem si jistý, že jinak jsou naprosto v celku.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -539,6 +612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00004886"
 msgid "\"Yes, there are several competing versions of the story, but I believe this figurine is a more canonical representation.\""
 msgstr ""
+"\"Ano, existuje několik variant příběhu, ale já věřím, že tato figurka reprezentuje tu nejrozšířenější.\""
 
 #. Title = PAWNSHOP / TABLE OF KNICKKNACKS
 #. Description = You look at and ask Roy about the figurines on the accessory stand.
@@ -547,3 +621,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000084D"
 msgid "\"The contrast is meant to be disheartening. As it ought to be.\""
 msgstr ""
+"\"Ten kontrast má být srdceryvný. Tak jak to bylo.\""
