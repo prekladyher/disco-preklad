@@ -367,6 +367,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="bratan">
+        <descrip type="definition">[aA] oslovení od kravaty... ..., bráško!</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bratan</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>bráška</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="brogues">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -454,7 +467,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Šprajcl střed</term>
+            <term>Šprajcl Střed</term>
           </tig>
         </langSet>
       </termEntry>
@@ -497,16 +510,16 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Cindy The Skull">
+      <termEntry id="Cindy The SKULL">
         <descrip type="definition">[OK] [aA] [TYKAT] pouliční umělkyně, členka party Lebek -dr</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Cindy The Skull</term>
+            <term>Cindy The SKULL</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Cindy Lebka</term>
+            <term>LEBKA Cindy</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1278,6 +1291,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Guillaume le Million">
+        <descrip type="definition">[aA] vytažen z hloubi Lokalize</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Guillaume le Million</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kujón Milión</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="haplogroup">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -1366,32 +1392,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>houmlesajt</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Hosiannah">
-        <descrip type="definition">[OK] [aA] [TYKAT] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Hosiannah</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Hosianna</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="hustle-jiggling">
-        <descrip type="definition">[OK] [aA] nějaká ultraliberální pitomina</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>hustle-jiggling</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>kšeftaření</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1820,7 +1820,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Krystalka</term>
+            <term>Kristallsprach</term>
           </tig>
         </langSet>
       </termEntry>
