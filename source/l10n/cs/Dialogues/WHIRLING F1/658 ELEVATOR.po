@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007120"
 msgid "The elevator stands open, inviting you to step inside."
 msgstr ""
+"Výtah stojí otevřený a zve tě dovnitř."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000071ED"
 msgid "The elevator lurches and squeaks, like the belly of some ancient beast, as you descend...."
 msgstr ""
+"Výtah se při sestupu komíhá a skřípe jako břicho nějaké prastaré šelmy...."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000071FB"
 msgid "Look in."
 msgstr ""
+"Podívej se dovnitř."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072DE"
 msgid "\"Look on the bright side: if it fails, we will only sustain minor injuries. I'm talking three, maybe four months in the hospital. Maximum five.\""
 msgstr ""
+"\"Podívejte se na to z té lepší stránky: pokud se to nepodaří, utrpíme jen drobná zranění. Mluvím o třech, možná čtyřech měsících v nemocnici. Maximálně pět.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009EFF"
 msgid "\"Seems like a small freight elevator for transporting machinery. For that -- it's pretty quaint.\" He taps the on the guttering light bulb -- it's golden in the dark."
 msgstr ""
+"\"Vypadá to jako malý nákladní výtah pro přepravu strojů. Na to je to docela kuriózní.\" Poklepe na blikající žárovku - ve tmě je zlatá."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -51,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009F2D"
 msgid "\"This elevator must have been needed to transport the pinball machines up and down.\""
 msgstr ""
+"\"Tenhle výtah musel být potřeba k přepravě pinballových automatů nahoru a dolů.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -59,6 +72,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800009F2D"
 msgid "\"So it was mostly pinball machines riding this elevator.\""
 msgstr ""
+"\"Takže v tomhle výtahu jezdily hlavně automaty na pinball.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -67,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000071D5"
 msgid "Go down."
 msgstr ""
+"Jeď dolů."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000071CF"
 msgid "(Close the doors and go up.)"
 msgstr ""
+"(Zavřete dveře a jeď nahoru.)"
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -92,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072EA"
 msgid "\"So it's *not* a message from the future?\""
 msgstr ""
+"\"Takže to není zpráva z budoucnosti?\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -100,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007302"
 msgid "\"If some form of time travel becomes possible in the future, I doubt its inventors will use it to repair elevators in Martinaise,” the lieutenant responds with a grave voice."
 msgstr ""
+"\"Pokud bude v budoucnu nějaká forma cestování časem možná, pochybuji, že ji vynálezci použijí k opravě výtahů v Martinéze,\" odpoví poručík vážným hlasem."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -108,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000071E7"
 msgid "The elevator screeches and rattles, like the belly of some ancient beast, as it carries you upward..."
 msgstr ""
+"Kkdyž tě výtah veze nahoru skřípe a rachotí jako břicho nějaké starobylé šelmy, ..."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -116,6 +135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072FC"
 msgid "\"No, I think the bureaucrats just forgot about this back-room elevator after the Revolution.\""
 msgstr ""
+"\"Ne, myslím, že byrokrati po revoluci na tenhle zadní výtah prostě zapomněli.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -124,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009F0B"
 msgid "This elevator must have been used to transport pinball machines to and from the upstairs workshop."
 msgstr ""
+"Tento výtah musel sloužit k přepravě pinballových automatů do dílny v patře a zpět."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -132,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000725E"
 msgid "Look at the elevator controls."
 msgstr ""
+"Podívej se na ovládání výtahu."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -140,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072D2"
 msgid "\"This elevator was last maintained in the *future*?\""
 msgstr ""
+"\"Tento výtah byl naposledy udržován v *budoucnosti*?\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -148,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000071BD"
 msgid "This small elevator is dimly lit by a bulb that's been glowing for ages. The latticed cage is open, inviting you to step inside."
 msgstr ""
+"Malý výtah je slabě osvětlen žárovkou, která svítí už dlouho. Mřížová klec je otevřená a vybízí ke vstupu dovnitř."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -156,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072D8"
 msgid "\"That means it's not really that safe, is it.\""
 msgstr ""
+"\"To znamená, že to není tak bezpečné, že.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -164,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009EF3"
 msgid "The deep scratches on the floor suggest it was used as a freight elevator -- for transporting heavy machinery. And one man."
 msgstr ""
+"Hluboké škrábance na podlaze naznačují, že sloužil jako nákladní výtah - pro přepravu těžkých strojů. A jednoho muže."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -172,6 +198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009EF9"
 msgid "\"Seems so, although it's pretty... quaint for a freight elevator.\" He taps on the guttering light bulb -- it's golden in the dark."
 msgstr ""
+"\"Vypadá to tak, i když je to docela... zvláštní na nákladní výtah.\" Poklepe na blikající žárovku - ve tmě je zlatá."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -180,6 +207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009F39"
 msgid "Could this have been for moving pinball machines up and down?"
 msgstr ""
+"Mohlo to být pro přesouvání pinballových automatů nahoru a dolů?"
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -188,6 +216,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800009F39"
 msgid "Would a pinball machine really fit in here?"
 msgstr ""
+"Opravdu by se sem vešel pinballový automat?"
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -196,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072F0"
 msgid "\"That's disappointing.\""
 msgstr ""
+"\"To je zklamání.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -204,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009F27"
 msgid "\"I wonder what this elevator was used for.\""
 msgstr ""
+"\"Zajímalo by mě, k čemu ten výtah sloužil.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -212,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009F6F"
 msgid "Looks like one would fit in there, yes. Although it's also surprisingly human -- in the golden light of that ancient bulb."
 msgstr ""
+"Vypadá to, že by se tam jeden vešel, ano. I když je také překvapivě lidský - ve zlatém světle té prastaré žárovky."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -220,6 +252,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800009F6F"
 msgid "Just about. If tilted precisely. For a small elevator this one is surprisingly nice. The ancient golden bulb gutters in the dark."
 msgstr ""
+"Přibližně. Při přesném naklonění. Na malý výtah je tento překvapivě pěkný. Starobylá zlatá žárovka bliká ve tmě."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -228,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000720D"
 msgid "Smells of nougat and sweat. Your head brushes up against the ceiling. There is a control panel to your right -- and just enough room for two people to fit in."
 msgstr ""
+"Voní po nugátu a potu. Hlavou se otíráš o strop. Napravo od tebe je ovládací panel - a právě tolik místa, aby se sem vešli dva lidé."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -236,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000727F"
 msgid "There are large rectangular buttons: 'Monter', 'Descendre', and an international: 'Call for Emergency Assistance'. That third one appears to be broken."
 msgstr ""
+"Jsou zde velká obdélníková tlačítka: \"Monter\", \"Descendre\" a mezinárodní: \"Call for Emergency Assistance\". Třetí tlačítko se zdá být rozbité."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -244,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072E4"
 msgid "\"No, it was maintained in '88 of the *previous* century.\""
 msgstr ""
+"\"Ne, byl udržován v roce 88 minulého století.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -252,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007233"
 msgid "The maintenance card under the control panel reads: 'Last Maintenance: 10 July '88'."
 msgstr ""
+"Na kartě údržby pod ovládacím panelem je uvedeno: Poslední údržba: 10. července 88."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -260,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009EE6"
 msgid "What were you used for, elevator?"
 msgstr ""
+"K čemu jsi byl používán, výtahu?"
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -268,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010AB6"
 msgid "\"At the end of the last century.\" He nods. \"Look on the bright side. If it fails, we will only sustain minor injuries -- I'm talking three, maybe four months in the hospital. maximum five.\""
 msgstr ""
+"\"Na konci minulého století.\" Přikývne. \"Podívejte se na to z té lepší stránky. Pokud se to nepodaří, utrpíme jen lehká zranění - mluvím o třech, možná čtyřech měsících v nemocnici. maximálně pěti.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -276,6 +315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072CB"
 msgid "\"That it does.\" The lieutenant peeks in. \"I say -- let's brave it.\""
 msgstr ""
+"\"To ano.\" Poručík nakoukne dovnitř. \"Já říkám - pojďme to risknout.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -284,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010AAD"
 msgid "\"Eighty-eight... This elevator was maintained a long time ago.\""
 msgstr ""
+"\"Osmdesát osm... Tento výtah nebyl udržován už dávno.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -301,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010AA4"
 msgid "A small steel plaque reads 'Halter 800'. Halter is a Königsteiner lift company who went out of business a long, long time ago."
 msgstr ""
+"Na malé ocelové tabulce je nápis \"Halter 800\". Halter byla výtahová firma z Königsteineru, která již dávno zanikla."
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -309,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000072BD"
 msgid "\"It says the last maintenance was in '88.\""
 msgstr ""
+"\"Píše se tu, že poslední údržba proběhla v roce 88.\""
 
 #. Title = WHIRLING F1 / ELEVATOR
 #. Description = 1. You experience the lovely elevator and wonder what it was used for.
@@ -317,3 +360,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010ABD"
 msgid "It appears his whole enthusiasm is sarcastic."
 msgstr ""
+"Zdá se, že celé jeho nadšení je sarkastické."
