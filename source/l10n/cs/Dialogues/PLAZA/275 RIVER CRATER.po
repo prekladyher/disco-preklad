@@ -1,8 +1,15 @@
+# Vernon <lukaspaur@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9C7"
 msgid "He finds your lack of historic knowledge troubling. A sign of mental deterioration in the proceeding generations."
 msgstr ""
+"Tvůj nedostatek historických znalostí ho znepokojuje. Je to známka duševního úpadku nastupujících generací."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFEC"
 msgid "\"I do,\" he nods, straightening his back. \"Fire from heavy artillery.\""
 msgstr ""
+"\"Ano, vím,\" přikývne a narovná si záda. \"Těžká palba z dělostřelstva.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E015"
 msgid "\"Commies, communists, socialists, anarchists -- call them what you like. They just chose the name to feel special.\" The carabineer frowns. \"Senseless sentimentality.\""
 msgstr ""
+"\"Komouši, komunisté, socialisté, anarchisté - říkejte jim, jak chcete. Oni si jen vybrali jméno, aby se cítili výjimeční.\" Karabiník se zamračí. \"Nesmyslná sentimentalita.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E180"
 msgid "\"This is communard propaganda! Guillaume would never do something like that. He is *LE LION*.\""
 msgstr ""
+"\"Tohle je komunardská propaganda! Kujón by něco takového nikdy neudělal. \"On je *LE LION*.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9B2"
 msgid "(Look around) \"I understand. I'd bomb this place too.\""
 msgstr ""
+"(Rozhlédni se) \"Rozumím. Taky bych to tu rozbombardoval.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -51,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9BF"
 msgid "\"This place is the damn Beachhead, son,\" he says, pointing to the bay. \"They didn't do it because they didn't *like* it. They had to soften the commies up first.\""
 msgstr ""
+"\"Tohle místo je zatracené předmostí, synu,\" řekne a ukáže na zátoku. \"Nedělali to proto, že by se jim to *líbilo*.\" Museli ty komouše nejdřív nějak obměkčit.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -59,6 +72,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9DD"
 msgid "Some manner of self-deceit is present in his thinking. Sounds like this Guillaume abandoned him and he doesn't want to admit it."
 msgstr ""
+"V jeho myšlení je přítomen určitý druh sebeklamu. Vypadá to, že ho ten Kujón opustil a on si to nechce přiznat."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -67,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9F5"
 msgid "An extremely inadvisable strategy against automatic weapons. Be sure not to make the same mistake."
 msgstr ""
+"Velmi nevhodná strategie proti automatickým zbraním. Určitě neudělej stejnou chybu."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFB6"
 msgid "\"Was there an earthquake here?\""
 msgstr ""
+"\"Bylo tu zemětřesení?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -83,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0B2"
 msgid "\"The rest of the city got cleaned up, but Martinaise they keep as a *monument*.\" A dark shadow runs across his face. \"And now the Union socialists are practically running the place.\""
 msgstr ""
+"\"Zbytek města vyčistili, ale Martinézu nechali jako *památník*. Přes tvář mu přeběhne temný stín. \"A teď to tu prakticky řídí socialisté z odborů."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -91,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFDA"
 msgid "\"Did *you* use artillery fire against them?\""
 msgstr ""
+"\"*Vy* jste proti nim dělostřeleckou palbu?"
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -99,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E110"
 msgid "\"Who was this Frissel?\""
 msgstr ""
+"\"Kdo byl ten Frissel?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -107,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E158"
 msgid "\"A true King in both blood and mind. Led Revachol before Frissel. He would have been better, but the damn commies drove him into exile.\""
 msgstr ""
+"\"Pravý král krví i myslí. Vedl Revachol před Frisselem. Byl by lepší, ale ti zatracení komouši ho vyhnali pryč.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -115,6 +135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E167"
 msgid "Wait, Joyce said Guillaume ran and his nephew, Frissel, was shot in his place."
 msgstr ""
+"Počkat, Joyce řekla, že Kujón utekl a jeho synovec, Frissel, byl zastřelen místo něj."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -123,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F88E"
 msgid "\"This place is the damn Beachhead, son,\" he says, pointing to the bay. \"They had to soften the commies up first.\""
 msgstr ""
+"\"Tohle místo je zatracené předmostí, synu,\" řekne a ukáže na zátoku. \"Nejdřív museli ty komouše obměkčit.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -131,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E116"
 msgid "\"You mentioned Guillaume?\""
 msgstr ""
+"\"Zmínil jste se o Kujónovi?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -139,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E199"
 msgid "\"It's no use talking to you. You were still in daddy's balls when it happened. When *we* took our last stand against the filth and rode the cavalry straight into gunfire.\""
 msgstr ""
+"\"Nemá smysl s vámi mluvit. Když se to stalo, byl jste ještě v tátových koulích. Když jsme se *my* naposledy postavili té špíně a jeli jsme jako součást kavalérie přímo do palby.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -147,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F877"
 msgid "\"Fine,\" the carabineer replies sharply. \"What do you want now then?\""
 msgstr ""
+"\"Dobře,\" karabiník ostře odpoví. \"Co tedy chcete teď?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -155,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFB0"
 msgid "\"No,\" he replies, gaze wondering over the bay. \"It was left by heavy artillery fire.\""
 msgstr ""
+"\"Ne,\" odpoví a podívá se na zátoku. \"Zůstal tu po těžké dělostřelecké palbě.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -163,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E049"
 msgid "\"Why shell them here in Martinaise?\""
 msgstr ""
+"\"Proč ostřelovali tady v Martinéze?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -171,6 +198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E09F"
 msgid "\"Actually I already know all this. I just wanted to know if you do too.\""
 msgstr ""
+"\"Vlastně už to všechno vím. Jen jsem chtěl vědět, jestli to víte taky.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -179,6 +207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFAA"
 msgid "\"No,\" he says without even smiling. \"It was left by heavy artillery fire.\""
 msgstr ""
+"\"Ne,\" řekne a ani se neusměje. \"Zůstal tu po těžké dělostřelecké palbě.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -187,6 +216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E095"
 msgid "\"Mhmh,\" he grunts. \"Don't get me wrong, officer. I hate those foreign dogs. But the enemy of my enemy and all that. They're the lesser evil.\""
 msgstr ""
+"\"Mhmh,\" zabručí. \"Nechápejte mě špatně, detektive. Nesnáším ty cizácký psy. Ale nepřítel mého nepřítele... a tak. Jsou menší zlo.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -195,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0D2"
 msgid "\"Commies just don't understand how money works.\""
 msgstr ""
+"\"Komouši prostě nechápou, jak fungují peníze.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -203,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F7FF"
 msgid "\"Because that's what happens when communards hijack your country, execute your supreme leadership, and turn your capital into a slaughterhouse. You use *heavy ordnance* to clean up your home.\""
 msgstr ""
+"\"Protože tak to dopadá, když komunardi přepadnou vaši zemi, popraví vaše nejvyšší vedení a z vašeho hlavního města udělají jatka. Použijete *těžkou munici* k vyčištění vašeho domova.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -211,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005100008928"
 msgid "Something moves in your gut. It's almost like a tug."
 msgstr ""
+"\"Něco se pohne ve vašich útrobách. Je to skoro jako škubnutí."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -219,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E082"
 msgid "\"Hold on -- the Coalition?\""
 msgstr ""
+"\"Počkat - Koalice?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -227,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0CC"
 msgid "\"This Coalition seems quite capable, actually.\""
 msgstr ""
+"\"Tahle Koalice se zdá být schopná.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -235,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0F7"
 msgid "\"I *would* have preferred if the right honourable King Guillaume returned to Revachol or even if that damn clown, Frissel, had risen from the grave and led us. Sadly that was not the case.\""
 msgstr ""
+"\"Byl bych raději, kdyby se do Revacholu vrátil ctihodný král Kujón, nebo kdyby ten zatracený šašek Frissel vstal z hrobu a vedl nás. Bohužel se tak nestalo.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -243,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFF2"
 msgid "\"Okay, it's a crater left by artillery fire -- but why?\""
 msgstr ""
+"\"Dobře, je to kráter po dělostřelecké palbě - ale proč?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -251,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E057"
 msgid "\"The Beachhead?\""
 msgstr ""
+"\"Předmostí?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -259,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E07B"
 msgid "\"Blood ground...\" The other one shakes his head. \"You got old René going there. Like he isn't angry enough already...\""
 msgstr ""
+"\"Krvavá zem...\" Ten druhý zavrtí hlavou. \"Vy jste teda nastartoval starého Reného. Jako by už tak nebyl dost naštvaný...\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -267,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E107"
 msgid "\"This is just what the commies wanted. This was their plan all along. *This* is what they wanted to replace the rule of the Suzerain with.\""
 msgstr ""
+"\"Tohle je přesně to co ti komouši chtěli. Takový byl jejich plán od začátku. *Tímto* chtěli nahradit vládu suzerénu.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -275,6 +315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E13C"
 msgid "\"No, they don't. But I'm sorry it had to be the Coalition. After eight years of fighting rabid commies, boiling cats for food and drinking piss in the mountains...\" He takes a deep breath."
 msgstr ""
+"\"Ne, to nechápou. Ale je mi líto toho, že to musela být Koalice. Po osmi letech bojů se vzteklými komouši, vaření koček na jídlo a pití chcánek v horách...\" Zhluboka se nadechne."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -283,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B440"
 msgid "\"Nothing. I *don't* think. I just *do*.\""
 msgstr ""
+"\"Nic. Já *nemyslím*. Já jen *dělám*.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -291,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9E5"
 msgid "He slouches as he says that. It makes him smaller, admitting they left the king to the mob."
 msgstr ""
+"Při těchto slovech se nahrbí. Dělá ho to mnohem menším, když přiznává, že krále nechali napospas lůze."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -299,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E032"
 msgid "It was probably a bit more complicated than that."
 msgstr ""
+"Pravděpodobně to bylo trošku komplikovanější."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -307,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E11C"
 msgid "\"Hmm... what exactly is a *suzerain*?\" (Conclude.)"
 msgstr ""
+"\"Hmm... co je přesně *suzerén*?\" (Uzavři.)"
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -315,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E8CB"
 msgid "\"Oh, okay.\""
 msgstr ""
+"\"Aha, dobře.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -323,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F896"
 msgid "Nod thoughtfully and turn to look northeast."
 msgstr ""
+"Zamyšleně přikývni a otoč se na severovýchod."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -331,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E01D"
 msgid "\"Sadly, no. It was the foreigners who brought them to their knees. We fought valiantly -- too valiantly. So valiantly we got licked,\" he adds, squeezing a *boule* in his fist."
 msgstr ""
+"\"Bohužel, ne. To ti cizinci je srazili na kolena. Bojovali jsme statečně - příliš statečně. Tak nás statečně převálcovali,\" dodá a v pevně stiskne *bouli* ve své pěsti."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -339,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E02B"
 msgid "\"Should've fought dirty. Like they did with their suicide sex cult propaganda and *mad anarchist women* strapped to shrapnel bombs. We didn't though. And we lacked *calibre*. God bless him, but the suzerain's cannons simply weren't big enough.“"
 msgstr ""
+"\"Měli jsme bojovat nečistě. Jako to dělali s propagandou jejich sebevražedného sexuálního kultu a *šílenými anarchistkami* připoutaným ke šrapnelovým bombám. Ale my jsme to neudělali. Chyběl nám *kalibr*. Bůh mu žehnej, ale suzerénova děla prostě nebyla dost velká.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -347,6 +396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E14C"
 msgid "\"Damn Frissel -- he was the king we couldn't protect. The carabineers failed him... and the crown.\" The old veteran falls silent and massages his chest. \"He died in the hands of the *hoi polloi* in a very public execution.\""
 msgstr ""
+"\"Zatracený Frissel - byl to král, kterého jsme nedokázali ochránit. Karabiníci ho zklamali ... i korunu.\" Starý veterán se odmlčí a masíruje si hruď. \"Zemřel v rukou *lidu* při velmi veřejné popravě."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -355,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E8D2"
 msgid "\"What else?\""
 msgstr ""
+"\"A co ještě?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -363,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E144"
 msgid "\"I'm sorry it had to be them.\" He looks down at his boots. \"After eight years of fighting those hyenas, boiling cats for food and drinking piss in the mountains...\""
 msgstr ""
+"\"Je mi líto, že to museli být oni.\" Podívá se na své boty. \"Po osmi letech boje s těmi hyenami, vaření koček na jídlo a pití chcánek v horách...\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -371,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F887"
 msgid "\"They should have chosen a place away from people and buildings.\""
 msgstr ""
+"\"Měli si vybrat místo daleko od lidí a budov.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -379,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F8AA"
 msgid "\"Death Blow... sounds grim.\""
 msgstr ""
+"\"Smrtící úder... to zní děsivě.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -387,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B447"
 msgid "\"I'm just so damn sorry it had to be the Coalition...\" He isn't really paying attention to your words anymore. \"After eight years of fighting those hyenas, boiling cats for food and drinking piss in the mountains...\""
 msgstr ""
+"\"Jen mě zatraceně mrzí, že to musela být Koalice...\" Už opravdu nevěnuje pozornost tvým slovům. \"Po osmi letech bojů s těmi hyenami, vaření koček na jídlo a pití chcánek v horách...\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -395,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFCE"
 msgid "\"Why what?\""
 msgstr ""
+"\"Co proč?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -403,6 +459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E1B5"
 msgid "There is not a shadow of a doubt in his mind that this is the truth."
 msgstr ""
+"V jeho mysli není ani stín pochybnosti o tom, že je to pravda."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -411,6 +468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F89D"
 msgid "Shake your head and look down at the crater."
 msgstr ""
+"Zavrť hlavou a podívej se dolů na kráter."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -419,6 +477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AB41"
 msgid "\"How does Filippe the Third factor into this?\" (Point towards the monument.)"
 msgstr ""
+"\"Jak do toho zapadá Filip Třetí?\" (Ukaž směrem k památníku.)"
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -427,6 +486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9ED"
 msgid "Soon they will forget everything. Him too... Then he chooses anger over melancholy."
 msgstr ""
+"Brzo zapomenou na všechno. Jeho také... Pak dá přednost hněvu před melancholií."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -435,6 +495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFC8"
 msgid "\"Yes...\" The man nods. \"The terrain here provides an interesting variety to a familiar game.\""
 msgstr ""
+"\"Ano...\" Muž přikývne. \"Tento terén je zajímavým zpestřením známé hry.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -443,6 +504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E08E"
 msgid "\"Ah, that explains all the war damage.\""
 msgstr ""
+"\"Aha, to vysvětluje všechny ty válečné škody.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -451,6 +513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AB47"
 msgid "\"He doesn't,\" the veteran replies sharply. \"That was one hundred years ago. Ain't got nothing to do with anything.\""
 msgstr ""
+"\"Nezapadá,\" odpoví ostře veterán.\" To bylo před sto lety. Nemá s tím nic společného.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -459,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B436"
 msgid "\"Well, it's your own damn fault,\" the jolly man remarks. \"You, we, the Coalition, Revachol -- whoever you wanna blame -- never finished the job. Officially the Party never surrendered. Of course they still hold influence.\""
 msgstr ""
+"\"No, je to tvoje mizerná chyba,\" poznamená veselý muž. \"Ty, my, Koalice, Revachol - kohokoliv chceš vinit - nikdo z nich tu práci nikdy nedokončil.\" Oficiálně se Strana nikdy nevzdala. Samozřejmě si pořád drží vliv."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -467,6 +531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9A7"
 msgid "*Heavy* artillery fire you say? That's the best kind of artillery fire. Very interesting."
 msgstr ""
+"Říkáte *těžká* dělostřelecká palba? To je ten nejlepší druh dělostřelecké palby. Velmi zajímavé."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -475,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E06B"
 msgid "\"Martinaise was used as one of the three footholds in Revachol during Operation Death Blow in '08. The other two are off in Stella Maris and the Delta.\" He points to the northeast."
 msgstr ""
+"\"Martinéza byla použita jako jedna ze tří opěrných bodů v Revacholu během operace Smrtící úder v roce '08. Další dvě jsou Stella Maris a Delta.\" Ukáže na severovýchod."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -483,6 +549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E179"
 msgid "\"Commies didn't drive Guillaume out. He left, when things got bad and left Frissel to take the hit.\""
 msgstr ""
+"\"Komouši Kujóna nevyhnali. Odešel, když se situace zhoršila, a nechal to padnout na Frissela.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -491,6 +558,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F8EC"
 msgid "\"Preposterous! Surely you don't mean it.\" He frowns. \"I'm just sorry it had to be them. After eight years of fighting those commie hyenas, boiling cats for food and drinking my piss in the mountains...\""
 msgstr ""
+"\"Nesmysl! To určitě nemyslíte vážně.\" Zamračí se. \"Jen mě mrzí, že to museli být zrovna oni. Po osmi letech boje s těmi komunistickými hyenami, vařením koček pro jídlo a pití mých vlastních chcánek v horách...\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -499,6 +567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E05E"
 msgid "\"Yes,\" he nods, inspecting you with some disdain. \"The military-coordinated amphibious landing to take back Revachol.\""
 msgstr ""
+"\"Ano,\" přikývne a trochu opovržlivě si tě prohlíží. \"Vojensky koordinovaná obojživelná výsadková zóna, jejíž cílem je dobýt zpět Revachol.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -507,6 +576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E088"
 msgid "\"Is that why everything is so bombed out?\""
 msgstr ""
+"\"To je ten důvod, proč je tu všechno tak vybombardované?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -515,6 +585,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0D8"
 msgid "\"Damn right, son. They laid the fire of hell on this city before they stormed it. And it worked, too.\" There is a strange gleam in his eyes."
 msgstr ""
+"\"To máš sakra pravdu, synu. Než město napadli, spustili na něj pekelnou palbu. A také to fungovalo.\" V očích se mu podivně zablýsklo."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -523,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E100"
 msgid "This *Royal* failure weighs heavily on him."
 msgstr ""
+"Toto* královské* selhání to velmi tíží."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -531,6 +603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F9D1"
 msgid "Thinking men have *opinions* on these things. Present one."
 msgstr ""
+"Myslící muži mají na tyto věci *názory*. Předlož jim jedem."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -539,6 +612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFA4"
 msgid "\"Was it made by a sea monster rising from the depths?\""
 msgstr ""
+"\"Vytvořila ho mořská příšera, která se vynořila z hlubin?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -547,6 +621,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFC2"
 msgid "\"Yes,\" he replies with a reluctant nod. \"It was left by heavy artillery fire.\""
 msgstr ""
+"\"Ano,\" odpoví a zdráhavě přikývne. \"Zůstal tu po těžké dělostřelecké palbě.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -555,6 +630,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0AB"
 msgid "\"Yes, dammit -- I know! They laid the fire of hell on this city before they stormed it. And it worked, too.\" There is a strange gleam in his eyes."
 msgstr ""
+"\"Jasně, zatraceně - vím! Než vtrhli do města, tak na něj spustili pekelnou palbu. A taky to fungovalo.\" V očích se mu podivně zablýsklo. "
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -563,6 +639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E16C"
 msgid "Exiled? Joyce said Guillaume ran and his nephew, Frissel, was shot in his place."
 msgstr ""
+"Vyhnanství? Joyce řekla, že Kujón utekl a místo něj byl zastřelen jeho synovec, Frissel."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -571,6 +648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DF99"
 msgid "\"Wait, who are the 'communards', again?\""
 msgstr ""
+"\"Počkat, kdo že jsou ti \"komunardi\"?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -579,6 +657,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFBC"
 msgid "\"Does it have anything to do with all the bullet holes I've been seeing around?\""
 msgstr ""
+"\"Má to něco společného se všemi těmi dírami po kulkách, které jsem tu viděl?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -587,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E074"
 msgid "\"This here is blood ground, where Coalition boots first made landfall and cleaned those rabid dogs out. Most likely,\" he says, looking down at the soil, \"we're playing pétanque on their mangled corpses.\""
 msgstr ""
+"Tady tohle je krvavá půda, kde koaliční vojáci poprvé přistáli a vyčistily ty vzteklé psy. S největší pravděpodobností,\" řekne a podívá se na zem,\" hrajeme petank na jejich zohavených mrtvolách.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -595,6 +675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0C6"
 msgid "\"Foreign powers cleaned up our mess and now they rule us.\" (Shake your head in shame.)"
 msgstr ""
+"\"Cizí mocnosti uklidili náš nepořádek a teď nám vládnou.\" (Zahanbeně potřes hlavou.)"
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -603,6 +684,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0E7"
 msgid "\"They're *not*. And I'm sorry it had to be them. After eight years of fighting those hyenas, boiling cats for food and drinking piss in the mountains...\" He takes a deep breath."
 msgstr ""
+"\"Ne, to *není*. A je mi líto, že to museli být oni. Po osmi letech bojů s těmi hyenami, vaření koček na jídlo a pití chcánek v horách...\" Zhluboka se nadechne."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -611,6 +693,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E050"
 msgid "\"Because this place is the damn Beachhead,\" he says, pointing to the bay. \"Had to soften the commies up first.\""
 msgstr ""
+"\"Protože tohle místo je zatracené předmostí,\" řekne a ukáže na zátoku. \"Nejdřív museli ty komouše obměkčit.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -619,6 +702,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0B8"
 msgid "He approves of this radical approach. Knows it was *necessary*."
 msgstr ""
+"Tento radikální přístup schvaluje. Ví, že to bylo *nezbytné*."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -627,6 +711,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0C0"
 msgid "\"That's how it should be. Soft socialists paving the way for the *hard* working class to take over.\""
 msgstr ""
+"\"Tak by to mělo být. Měkcí socialisté dláždí cestu *tvrdé* dělnické třídě, aby převzala vládu.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -635,6 +720,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E192"
 msgid "\"The Suzerain is the King. Has everyone forgotten already?\" He then slowly nods and says to himself: \"They've forgotten already.\""
 msgstr ""
+"\"Suzerén je král. To už všichni zapomněli?\" Pak pomalu přikývne a řekne si: \"Už zapomněli.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -643,6 +729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005100008934"
 msgid "That's our guy! The way he speaks about the war and the bygone days -- Kingsman through and through -- ask him how to turn back time!"
 msgstr ""
+"To je náš člověk! Způsob, jakým mluví o válce a časech minulých - králův muž skrz na skrz - zeptej se ho, jak vrátit čas! "
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -651,6 +738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFE0"
 msgid "\"Do you know what created it?\""
 msgstr ""
+"\"Víte, co ho vytvořilo?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -659,6 +747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000DFE6"
 msgid "\"Why was heavy artillery used?\""
 msgstr ""
+"\"Proč bylo použito těžké delostřelectvo?\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -667,6 +756,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000E0F0"
 msgid "\"Instead, all that is just, holy, and beautiful in the world was wiped away and now it's neon signs with toothpaste ads everywhere. Foreign influence peddling garbage and stupid music on the radio.\" He sighs."
 msgstr ""
+"\"Místo toho bylo všechno, co je na světě spravedlivé, svaté a krásné, vymazáno, a teď jsou všude neonové nápisy s reklamou na zubní pastu. Cizí vlivy prodávající odpadky a hloupá hudba v rádiu.\" Povzdechne si."
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -675,6 +765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000F86F"
 msgid "\"Maybe we can do this history lesson later.\""
 msgstr ""
+"\"Možná si tuhle lekci historie dáme později.\""
 
 #. Title = PLAZA / RIVER CRATER
 #. Description = You ask René about crater and get the streamlined history lesson without any messy checks or hubs within hubs withing hubs. Sweet and short.
@@ -683,3 +774,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B41B"
 msgid "\"You don't even *begin* to truly understand the players on the table, let alone the specific circumstances surrounding the...\" He stops mid-sentence and turns to you. \"What do you think?\""
 msgstr ""
+"\"Ani nezačínáš doopravdy rozumět hráčům na stole, natož konkrétním okolnostem které je provázely...\" Odmlčí se uprostřed věty a otočí s k tobě. \"Co si o tom myslíte?\""
