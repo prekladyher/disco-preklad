@@ -368,7 +368,7 @@
         </langSet>
       </termEntry>
       <termEntry id="bratan">
-        <descrip type="definition">[aA] oslovení od kravaty... ..., bráško!</descrip>
+        <descrip type="definition">[OK] [aA] oslovení od kravaty, neskloňovat... obdobně jako "amigo"</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>bratan</term>
@@ -376,7 +376,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>bráška</term>
+            <term>bratan</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2527,7 +2527,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="patrol officer">
-        <descrip type="definition">[aA] nejnižší hodnost ROM</descrip>
+        <descrip type="definition">[OK] [aA] nejnižší hodnost ROM</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>patrol officer</term>
@@ -2692,6 +2692,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>okrsek</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Preptide">
+        <descrip type="definition">[aA] značka amfetaminu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preptide</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Preptid, -u m.</term>
           </tig>
         </langSet>
       </termEntry>
