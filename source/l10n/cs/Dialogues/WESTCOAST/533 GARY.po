@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -99,6 +106,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000047C7"
 msgid "\"The lieutenant is a true Vacholiere. Why did you call him a Seolite?\""
 msgstr ""
+"\"Poručík je pravý vacholýr. Proč mu říkáte Seolito?\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -179,6 +187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000109E"
 msgid "Yellow Man? Might this be the owner of that mug you found in the trash? This is something to ask him about, after a little probing first..."
 msgstr ""
+"Žlutý muž? Mohl by toto být vlastník toho hrnku, který jsi našel v odpadcích? Je to něco, co stojí za řeč, ale až po chvíli šťourání..."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -203,6 +212,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000133B"
 msgid "\"I like nature, just not this bloody coast. It's mostly drunks and degenerates that come here.\""
 msgstr ""
+"\"Mám rád přírodu, jen ne tohle zatracené pobřeží. Chodí sem jen ožralové a degeneráti.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -507,6 +517,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580000505D"
 msgid "\"You're acting kind of suspicious. Did I mention the mug was found at the scene of a lynching?\""
 msgstr ""
+"\"Chováte se podezřele. Zmínil jsem se, že ten hrnek byl nalezen na místě činu?\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -531,6 +542,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000010B4"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -739,6 +751,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000AA2"
 msgid "\"I'm just waiting for my friend Morell to finish up with his insect traps so we can return to civilization.\""
 msgstr ""
+"\"Jen čekám, až můj přítel Morell skončí s těmi pastmi na hmyz, abychom se mohli vrátit do civilizace.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -755,6 +768,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000D41"
 msgid "He turns toward Kim. \"I mean... *officers*.\""
 msgstr ""
+"Otočí se na Kima. \"Chtěl jsem říct...*detektivové*.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -763,6 +777,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001071"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -771,6 +786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001086"
 msgid "Yellow Man! That sounds awfully familiar. Something to ask about later?"
 msgstr ""
+"Žlutý muž! To zní dost povědomě. Nezeptáš se na to později?"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -779,6 +795,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001353"
 msgid "\"Drunks and degenerates -- that's my crew!\""
 msgstr ""
+"\"Opilci a degeneráti - moji lidé!\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -787,6 +804,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000136B"
 msgid "\"Not a lover of the great outdoors?\""
 msgstr ""
+"\"Nejste milovník přírody?\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -907,6 +925,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100005800002DD6"
 msgid "Clinking sound."
 msgstr ""
+"Cvakání."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -915,6 +934,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100005800002DD6"
 msgid "Scared him with apartment."
 msgstr ""
+"Vyděsil jsi ho tím bytem."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -923,6 +943,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100005800002DD6"
 msgid "Want to wear armour."
 msgstr ""
+"Chceš nosit zbroj."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -931,6 +952,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100005800002DD6"
 msgid "Thinking about the armour."
 msgstr ""
+"Přemýšlíš nad zbrojí."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -939,6 +961,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100005800002DD6"
 msgid "Uncomfortable in his clothes."
 msgstr ""
+"Šaty mu nejsou pohodlné."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -955,6 +978,7 @@ msgstr ""
 msgctxt "tooltip7/0x0100005800002DD6"
 msgid "Morell felt Gary's weird."
 msgstr ""
+"Morell vycítil, že je Gary divný."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -963,6 +987,7 @@ msgstr ""
 msgctxt "tooltip8/0x0100005800002DD6"
 msgid "Icosahedral Red Die."
 msgstr ""
+"Dvacetistěnná červená kostka."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1011,6 +1036,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800004F4D"
 msgid "\"Lets talk about the mug-trash situation again.\""
 msgstr ""
+"\"Promluvme si znovu o hrknu v odpadu.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1171,6 +1197,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800004AD4"
 msgid "\"C'mon, you've already behaved suspiciously with the trash container business, stop evading the question\" "
 msgstr ""
+"\"No tak, už jste se choval podezřele, když jsme řešili konktejner na odpad. Přestaňte se vyhýbat otázce.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1211,6 +1238,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000D57"
 msgid "\"Very generous of you to help us out, officer. I'm sure glad to be back from that little excursion.\""
 msgstr ""
+"\"Bylo od vás velmi štědré nám pomoct, detektive. Jsem rozhodně rád, že jsem zpátky z té exkurze.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1219,6 +1247,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000D8B"
 msgid "\"Hello again! Very generous of you to help us out, officer. I can't wait to get out of here.\""
 msgstr ""
+"\"Opět zdravím! Je od vás štědré, detektive, že nám pomůžete. Nemůžu se dočkat, až se odsud dostanu.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1395,6 +1424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000010FE"
 msgid "\"YOU WERE SUPPOSED TO!\" Gary grimaces, examining the dirt under his fingernails."
 msgstr ""
+"\"TOS TAKY MĚL!\" Gary se zašklebí a prohlíží si špínu za nehty."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1403,6 +1433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001359"
 msgid "This man respects authority too much to see you for what you are. Pretend thou art a sober man!"
 msgstr ""
+"Tento muž respektuje autoritu příliš na to, aby viděl, jaký ve skutečnosti jsi. Čas předstírati, že vy jest střízliv!"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1419,6 +1450,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000002000053A0"
 msgid "\"At any rate,\" he gestures toward Gary as though he were presenting a work of art, \"*this* is our third, lucky racist.\""
 msgstr ""
+"\"V každém případě,\" gestem ukáže na Garyho, jako by představoval umělecké dílo, \"*tohle* je náš třetí šťastný rasista.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1571,6 +1603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A52"
 msgid "\"I like nature, just not this bloody coast. It's mostly drunks and degenerates that come here.\""
 msgstr ""
+"\"Mám rád přírodu, jen ne tohle zatracené pobřeží. Chodí sem jen ožralové a degeneráti.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1763,6 +1796,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A4C"
 msgid "\"Yeah, I'm more of a city boy too.\""
 msgstr ""
+"\"Jo, taky jsem spíš kluk z města.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1771,6 +1805,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A6A"
 msgid "\"Nobody's perfect. I'm sure you've been tempted to drink.\""
 msgstr ""
+"\"Nikdo není dokonalý. Jsem si jistý, že jse byl v pokušení pít.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1779,6 +1814,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001040"
 msgid "\"Hello, officer! Name's Gary. Boy, am I ever so grateful to you! But I'm not the only one who wants to thank you...\" He nods toward Lena."
 msgstr ""
+"\"Zdravím, detektive! Jmenuji se Gary. Teda, jak já jsem vám vděčný! Ale nejsem jediný, kdo vám chce poděkovat...\" Kývne směrem k Leně."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -1899,6 +1935,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001098"
 msgid "The lieutenant raises his eyebrows slightly and takes out his notebook."
 msgstr ""
+"Poručík lehce zvedne obočí a vyndá si notýsek."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -2179,6 +2216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000010F8"
 msgid "\"I HEARD THAT, GARY!\""
 msgstr ""
+"\"JÁ TO SLYŠEL, GARY!\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -2195,6 +2233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000015BB"
 msgid "As he shifts uncomfortably, a series of clicks, like the clinking of glass beads against one another as they roll across a hardwood floor. You've heard this sound before, but where?"
 msgstr ""
+"Když se neklidně vrtí tak se ozýva série cvakání. Jako když do sebe naráží skleněné kuličky kutálející se po dřevěné podlaze. Ten zvuk jsi už slyšel, ale kde?"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -2427,6 +2466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001325"
 msgid "\"Oh, I've been tempted.\" He nods gravely. \"But someone has to stay strong for Revachol.\" His gaze shifts to the floor tiles."
 msgstr ""
+"\"Ach, byl jsem v pokušení.\" Temně pokýve. \"Ale někdo musí zůstat silný pro Revachol.\" Jeho pohled se přesune na kachličky."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -2635,6 +2675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000D36"
 msgid "\"Always a pleasure to see an officer of the law!\""
 msgstr ""
+"\"Vždy je potěšení spatřit muže zákona!\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -2651,6 +2692,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001371"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -2771,6 +2813,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000047EA"
 msgid "\"Yes, officer. I'm very glad we're getting a chance to speak about it candidly, despite the trouble I caused Mr. Claire -- and I will *never* do anything of the sort again, I assure you...\" "
 msgstr ""
+"\"Ano, detektive. Jsem velmi rád, že máme šanci si o tom upřímně promluvit, navzdory potížím, které jsem panu Jasnému způsobil - a ujišťuji vás, že už nikdy nic takového neudělám...\" "
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3147,6 +3190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A86"
 msgid "\"Oh, I've been tempted.\" He nods gravely. \"But someone has to stay strong for Revachol.\" His gaze shifts to the pile of soggy logs at his feet."
 msgstr ""
+"\"Ach, byl jsem v pokušení.\" Temně pokýve. \"Ale někdo musí zůstat silný pro Revachol.\" Jeho pohled se přesune na nasáklé klády u jeho nohou."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3155,6 +3199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000104F"
 msgid "\"Very generous of you to help us out, officer. I'm sure glad to be back from that little excursion.\""
 msgstr ""
+"\"Bylo od vás velmi štědré nám pomoct, detektive. Jsem rozhodně rád, že jsem zpátky z té exkurze.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3307,6 +3352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A60"
 msgid "\"Sadly, I think I might be a drunk. Or a degenerate. Maybe even both.\""
 msgstr ""
+"\"Bohužel, je možné, že jsem opilec. Nebo degenerát. Nebo obojí.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3315,6 +3361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000105B"
 msgid "\"Boy, am I ever so grateful to you, officer! But I'm not the only one who wants to thank you...\" He nods toward Lena."
 msgstr ""
+"\"Teda, jsem vám tak vděčný, detektive! Ale nejsem jediný, kdo vám chce poděkovat...\" Kývne směrem k Leně."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3331,6 +3378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001347"
 msgid "\"I am neither of those things, I can assure you. I'm a by-the-books, clean-as-a-whistle, teetotaling officer. I'm not even tempted to touch intoxicants.\""
 msgstr ""
+"\"Ujišťuji vás, že nejsem ani jedno z toho. Jsem naprosto čistý, abstinující důstojník. Nidky mě ani náznakem nelákalo, byť se jen dotknout omamných látek.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3339,6 +3387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000135F"
 msgid "\"Degenerates? I've been trained to identify the slightest hint of degeneracy by the pre-eminent authority on it.\""
 msgstr ""
+"\"Degeneráti? Byl jsem vyškolen přední autoritou v této oblasti, abych rozpoznal sebemenší náznak degenerace.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3395,6 +3444,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000600014012"
 msgid "\"Yes. Absolutely. I will *never* do anything like this again.\" He looks around, relieved of some burden, his mouth still quivering. \"I won't mess with Mr. Claire either, you have my word.\""
 msgstr ""
+"\"Ano. Rozhodně. *Nikdy* už nic takového neudělám.\" Rozhlédne se jako kdyby mu spadl kámen ze srdce, ale stále se mu třese brada. \"A také si nebudu zahrávat s panem Jasným, máte mé slovo.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3515,6 +3565,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000108C"
 msgid "\"Yellow Man!\" He turns toward Kim. \"I mean... officer.\""
 msgstr ""
+"\"Žlutý muži!\" Otočí se na Kima. \"Chtěl jsem říct... detektive.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3523,6 +3574,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000132F"
 msgid "\"I've been tempted on occasion.\" He nods gravely. \"But someone has to stay strong for Revachol.\" His gaze shifts to the floor tiles."
 msgstr ""
+"\"Občas jsem byl v pokušení.\" Temně pokýve. \"Ale někdo musí zůstat silný pro Revachol.\" Jeho pohled se přesune na kachličky."
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3699,6 +3751,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000012ED"
 msgid "\"I'll talk to her then.\" [Leave.]"
 msgstr ""
+"\"Tedy si s ní promluvím.\" [Odejdi.]"
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3707,6 +3760,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001341"
 msgid "\"Sadly, I think I might be a drunk. Or a degenerate. Maybe even both...\""
 msgstr ""
+"\"Bohužel, je možné, že jsem opilec. Nebo degenerát. Nebo obojí...\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3715,6 +3769,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100001365"
 msgid "\"Yeah, I'm more of a city boy too.\""
 msgstr ""
+"\"Jo, taky jsem spíš kluk z města.\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3875,6 +3930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A78"
 msgid "\"Not a lover of the great outdoors?\""
 msgstr ""
+"\"Nejste milovník přírody?\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3883,6 +3939,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000131F"
 msgid "\"Nobody's perfect. Have you never been tempted to drink?\""
 msgstr ""
+"\"Nikdo není dokonalý. Měl jste někdy pokušení pít?\""
 
 #. Title = WESTCOAST / GARY
 #. Description = Gary the Cryptofascist is a friend of Morell's. Also trying to find the cryptid. Wears armour stolen from the hanged man under his clothes. Has Man from Hjelmdall books etc.
@@ -3891,3 +3948,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000015C0"
 msgid "As he shifts uncomfortably, a series of clicks, like the clinking of glass beads against one another as they roll across a hardwood floor. A strange sound."
 msgstr ""
+"Když se neklidně vrtí tak se ozýva série cvakání. Jako když do sebe naráží skleněné kuličky kutálející se po dřevěné podlaze. Zvláštní zvuk."
