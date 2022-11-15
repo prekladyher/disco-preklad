@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WESTCOAST / GARY barks
 #. Description = Gary pretends to be doing something useful.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800002E11"
 msgid "\"Seeing if there are any signs of phasmid activity. And taking a leak.\""
 msgstr ""
+"\"Dívám se po známkách aktivity strašilek. A skočil jsem si na malou.\""
 
 #. Title = WESTCOAST / GARY barks
 #. Description = Gary pretends to be doing something useful.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800002E17"
 msgid "\"But everything's so... moist.\""
 msgstr ""
+"\"Ale všechno je tak... vlhké.\""
 
 #. Title = WESTCOAST / GARY barks
 #. Description = Gary pretends to be doing something useful.
@@ -24,3 +33,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800003CA7"
 msgid "\"I'd take a bullet for you, but I won't spend another hour out here.\""
 msgstr ""
+"\"Šel bych za tebou i do pekla, ale tady další hodinu nestrávím.\""
