@@ -731,6 +731,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="cryptid">
+        <descrip type="definition">[aA] bájná stvoření, městké legendy</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cryptid</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>kryptid</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Cuno (de Ruyter)">
         <descrip type="definition">[OK] [aA] [TYKAT] drzý kluk, TYKAT i on tyká; Kuno o sobě mluví ve třetí osobě</descrip>
         <langSet xml:lang="en">
@@ -949,6 +962,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Přední Država</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Eminent Domain">
+        <descrip type="definition">[aA] název bídné městské části, kde bydlí dělníci</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Eminent Domain</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Vyvlastnění</term>
           </tig>
         </langSet>
       </termEntry>
