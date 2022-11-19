@@ -316,7 +316,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Belle-Magrave rifle = B-M 4,46">
-        <descrip type="definition">[OK] nefunkční puška z dob Revoluce</descrip>
+        <descrip type="definition">[OK] [aA] nefunkční puška z dob Revoluce</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Belle-Magrave rifle = B-M 4,46</term>
@@ -728,6 +728,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>krabomuž</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Crime, Romance, and Biographies of Famous People">
+        <descrip type="definition">[aA] Knihkupectví </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Crime, Romance, and Biographies of Famous People</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Krimi, romány a životopisy slavných lidí</term>
           </tig>
         </langSet>
       </termEntry>
