@@ -1,8 +1,15 @@
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = KINEEMA / CALLING THE LIBRARY
 #. Description = Calling Jamrock Public Library to see if you can find out anything about the dead man found at the boardwalk. You'll get Working Class Woman's home address from here.
@@ -136,6 +143,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000144F"
 msgid "\"Can Marie describe to me what the husband looked like?\""
 msgstr ""
+"\"Může mi Marie popsat, jak ten manžel vypadal?\""
 
 #. Title = KINEEMA / CALLING THE LIBRARY
 #. Description = Calling Jamrock Public Library to see if you can find out anything about the dead man found at the boardwalk. You'll get Working Class Woman's home address from here.
