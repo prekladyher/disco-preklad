@@ -1,8 +1,15 @@
+# Ziriath <ziriath@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001271F"
 msgid "\"Sorry!\" (Hit your head.) \"I forgot.\""
 msgstr ""
+"\"Promiňte! (Plácni se do čela.) \"Já zapomněl.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001275C"
 msgid "\"I'd rather go outside and have a beer right now.\""
 msgstr ""
+"\"Teď bych raději šel ven a dal si pivo\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012731"
 msgid "\"Aw, can't you do it Kim? I'm wiped out.\""
 msgstr ""
+"\"Ah, nemůžete to udělat, Kime? Jsem úplně vygumovaný.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012778"
 msgid "He gestures back toward the tunnels. \"After you.\""
 msgstr ""
+"Ukáže zpět do tunelů. \"Až po vás.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001273D"
 msgid "\"But it's so sad, Kim. Too sad for me!\""
 msgstr ""
+"\"Ale to je tak smutné, Kime! Pro mě příliš smutné!\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001276D"
 msgid "The lieutenant clears his throat. \"Detective -- aren't you forgetting something?\""
 msgstr ""
+"Poručík si odkašle. \"Detektive - nezapomněl jste na něco?\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012737"
 msgid "The lieutenant only shakes his head. \"Let's just do it, shall we?\""
 msgstr ""
+"Poručík jen potřese hlavou. \"Tak to prostě udělejme, ano?\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012762"
 msgid "\"Yeah, you're right. Let's get it over with.\""
 msgstr ""
+"\"Ano, máte pravdu. Podívejme se na to.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012725"
 msgid "\"We still have to deal with her...\" He adjusts his coat. \"Not pleasant, I know. But we can't leave her like that. And we have to investigate the scene, too.\""
 msgstr ""
+"\"Stále se s ní musíme vypořádat...\" Upraví si bundu. \"Nepříjemné, já vím. Ale nemůžeme ji tady takhle nechat. A kromě toho, musíme prozkoumat místo činu.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001272B"
 msgid "\"Be that as it may, it doesn't change the fact. We have a duty to her. Let's see it through.\" He gestures back toward the tunnels. \"After you.\""
 msgstr ""
+"\"Buď jak buď, nic to nemění. Máme k ní povinnost. Podívejme se tedy na to.\" Ukáže zpět do tunelů. \"Až po vás.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001274B"
 msgid "\"We still need to investigate the scene. Remember?\""
 msgstr ""
+"\"Stále musíme prozkoumat místo činu. Nezapomněl jste?\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012751"
 msgid "\"Of course. I was just testing you, to see if *you* remembered.\""
 msgstr ""
+"\"Samozřejmě. Jen jsem vás zkoušel, jestli jste *vy* nezapomněl.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -94,3 +113,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012745"
 msgid "\"Her journal? We should probably leaf through it. Might learn something useful.\""
 msgstr ""
+"\"Její deník? Měli bysme jej prolistovat. Můžeme zjistit něco užitečného.\""
