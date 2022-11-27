@@ -1,8 +1,15 @@
+# Ziriath <ziriath@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006072"
 msgid "\"You ready?\""
 msgstr ""
+"\"Připraven?\""
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000607E"
 msgid "\"Officer? Are you okay in there?\""
 msgstr ""
+"\"Detektive? Všechno v pořádku u vás?\""
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006083"
 msgid "\"What do you mean 'who's there'? It's me, Kim. Stop playing around and help me get this door open.\""
 msgstr ""
+"\"Co tím myslíte, 'kdo je tam?' To jsem já, Kim. Přestaňte se tam poflakovat a pomozte mi otevřít ty dveře.\""
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E69E"
 msgid "Not *running* is a great way to do that."
 msgstr ""
+"*Neběhat* je skvělý způsob, jak to provést.\""
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000606C"
 msgid "\"After you *climbed* up to the roof, you mean? There's a maintenance entrance under the boardwalk. It's next to a drain pipe, possibly a storm drain -- it was easy to miss before.\""
 msgstr ""
+"\"Potom, co jste *vylezl* na střechu, myslíte? Pod molem je servisní vchod. Přímo vedle roury asi dešťové kanalizace - bylo snadné jej přehlédnout.\""
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000060AF"
 msgid "\"Could have saved me the effort.\""
 msgstr ""
+"''To by mi bývalo ušetřilo námahu.\""
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000060C0"
 msgid "\"Yes, we have an exit. So, let's get going. Time to investigate these passages...\" He peers into the darkness."
 msgstr ""
+"\"Ano, máme unikovou cestu. Tak pojďme. Čas prozkoumat tyhle chodby...\" Zadívá se do temnoty. "
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014F50"
 msgid "It's *much* easier from this side -- the panels on the rails slide once you dust the sand off. With the help of your partner from the other side the doors open with a *creak*."
 msgstr ""
+"Z téhle strany je to *mnohem* snazší -  dveřní panely se odsunou po kolejnicích, poté co z nich odmeteš písek. S pomocí tvého partnera z druhé strany se dveře se zaskřípěním otevřou. "
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
