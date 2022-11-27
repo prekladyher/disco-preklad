@@ -1,8 +1,15 @@
+# Ziriath <ziriath@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -11,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D45"
 msgid "Try to pull the door apart."
 msgstr ""
+"Zkus ty dveře roztáhnout."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -19,6 +27,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100009700004D45"
 msgid "A double door for a team of two."
 msgstr ""
+"Dvoukřídlé dveře pro dvoučlenný tým."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100009700004D45"
 msgid "One More Door."
 msgstr ""
+"Ještě jedny dveře."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100009700004D45"
 msgid "Broke into Cuno's apt."
 msgstr ""
+"Vlámal ses do Kunova bytu."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100009700004D45"
 msgid "Broke into communist apt."
 msgstr ""
+"Vlámal ses do komunistova bytu."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -51,6 +63,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100009700004D45"
 msgid "Broke bookstore door."
 msgstr ""
+"Vlámal ses do dveří v knihkupectví."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -59,6 +72,7 @@ msgstr ""
 msgctxt "tooltip6/0x0100009700004D45"
 msgid "Cursed Iilmaraan die."
 msgstr ""
+"Prokletá iilmaranská kostka."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -67,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014ED2"
 msgid "This isn't gonna work without the lieutenant here. What if you *do* find a way in and it's a *trap*? Kitsuragi needs to be here, covering you."
 msgstr ""
+"Tohle nepůjde bez poručíka. Co když *najdeš* cestu, a bude to *past*? Kitsuragi musí být s tebou a krýt tě. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A7E"
 msgid "Okay. What *else*?"
 msgstr ""
+"Dobře. Co *dál*?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -83,6 +99,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E65"
 msgid "He means: the pipe must be coming from *somewhere* in the building."
 msgstr ""
+"Myslí tím: Ta roura musí vést *odněkud* z budovy."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -91,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004DFF"
 msgid "You can't seem to pry the doors apart for long enough to slip through. A second pair of hands would be really useful here."
 msgstr ""
+"Zdá se, že ti nejde rozevřít dveře dostatečně na to, abys proklouzl dovnitř. Druhý pár rukou by se opravdu hodil."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -99,6 +117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D26"
 msgid "What's in there?"
 msgstr ""
+"Copak je uvnitř?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -107,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E42"
 msgid "And? And nothing. Broken glass from bottles thrown against the walls of the pipe. A syringe..."
 msgstr ""
+"A co ještě? Už nic. Střepy z lahví rozbitých o stěnu roury. A stříkačka..."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -115,6 +135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E4F"
 msgid "A very, very faint smell of stale liquor still lingers -- or is it just your imagination?"
 msgstr ""
+"Velmi, velmi jemný zápach zvětralého alkoholu stále visí ve vzduchu - nebo si to jen představuješ?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -123,6 +144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014F06"
 msgid "It looks too exhausting to even try. You'd only bloody your fingers on the rust."
 msgstr ""
+"Je příliš vyčerpávající se byť jen pokusit. Jen by sis o ty rezavé okraje pořezal prsty. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -131,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014ECB"
 msgid "Behind the pipe -- the maintenance door, rusted shut and half-sunken in sand."
 msgstr ""
+"Za rourou - servisní vstup, zarezlý a napůl pohřbený v písku."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -139,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D13"
 msgid "The lieutenant looks over your shoulder."
 msgstr ""
+"Poručík ti nahlédne přes rameno."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -147,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E48"
 msgid "And?"
 msgstr ""
+"A?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -155,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009A74"
 msgid "\"I see. Another stop on your crusade against narcomania. I *was* hoping we were in pursuit of a murder suspect...\""
 msgstr ""
+"\"To vidím. Další krok na vaší křížové výpravě proti narkomanii. *Doufal* jsem, že jsme byli na stopě osoby podezřelé z vraždy...\""
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -163,6 +189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004CFD"
 msgid "An old pipe peeks out from beneath the rotting boards of the boardwalk. Could this be an alternative path into the Feld building?"
 msgstr ""
+"Stará roura trčí zpoza trouchnivějících prken mola. Nemohla by to být alternativní cesta do budovy Feldu?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -171,6 +198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E12"
 msgid "The lieutenant leans back against the door, panting. \"Let's take a breather and try this again later? It's... very tough.\""
 msgstr ""
+"Poručík se opře o dveře a lapá po dechu. \"Dejme si přestávku a zkusme to později znovu? Jsou velmi...zatuhlé.\""
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -179,6 +207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E6C"
 msgid "Oh, duh, why didn't you think of that?"
 msgstr ""
+"Oh, proč tě to vůbec nenapadlo?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -187,6 +216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E99"
 msgid "The metal doors are heavy, and very awkward to open on your own, but you just manage to slide them open wide enough for you to slide yourself between them..."
 msgstr ""
+"Plechové dveře jsou těžké a jejich otvírání je v jedné osobě dost nepříjemné, ale podaří se ti je rozevřít natolik, abys mezi nimi proklouzl..."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -195,6 +225,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100009700004E99"
 msgid "The metal doors are heavy and the flaking rust hurts your palms, but, together with the lieutenant, you manage to slide them open just enough to squeeze in."
 msgstr ""
+"Plechové dveře jsou těžké a loupající se rez ti zraňuje dlaně, ale ve spolupráci s poručíkem je rozevřete natolik, abyste se protlačili dovnitř. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -203,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014EEF"
 msgid "It's jammed shut. The subtle approach isn't going to work on this one."
 msgstr ""
+"Jsou zatuhlé v poloze zavřeno. Jemný přístup zde není správnou cestou. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -211,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E0C"
 msgid "You and the lieutenant lean all your weight into pushing the doors apart, but you're not quite synchronized in your efforts. They slam shut again before you can enter."
 msgstr ""
+"Spolu s poručíkem se plnou vahou opřete do dveří, ale vaše úsilí není zrovna synchronizované. Znovu se zabouchnou dřív, než stačíš vejít. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -219,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D38"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -227,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D65"
 msgid "Come closer and look in."
 msgstr ""
+"Pojď blíž a nahlédni dovnitř."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -235,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D4B"
 msgid "Could I get into the Feld building through this pipe?"
 msgstr ""
+"Nemohl bych se dostat do budovy Feldu touhle rourou?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -243,6 +279,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100009700004D4B"
 msgid "\"Could we get into the Feld building through this pipe?\""
 msgstr ""
+"\"Nemohli bysme se dostat do budovy Feldu touhle rourou?\""
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -251,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D87"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -259,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004DAB"
 msgid "The lieutenant's face lights up. He doesn't usually notice these little things."
 msgstr ""
+"Poručíkova tvář se rozzáří. Takových drobností si obvykle nepovšimne."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -267,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D07"
 msgid "A building like this must have multiple doors serving various functions. Perhaps a basement access?"
 msgstr ""
+"Taková budova jistě musí mít více dveří sloužících různým účelům. Možná přístup do sklepa?"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -275,6 +315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D57"
 msgid "\"Given that this isn't a martial arts thriller,\" a grin flickers across his face, \"it's highly unlikely -- and not without risk to our health either.\""
 msgstr ""
+"\"Vzhledem k tomu, že tohle není film o bojových uměních,\" ušklíbne se, \"je to dost nepravděpodobné - a také nikoliv bez zdravotního rizika.\""
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -283,6 +324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E37"
 msgid "[Go in.]"
 msgstr ""
+"[Vejdi dovnitř.]"
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -291,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D6C"
 msgid "Your eyes slowly begin to adjust to the darkness inside the drainage pipe."
 msgstr ""
+"Tvoje oči se pomalu přizpůsobují temnotě odvodňovací roury."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -299,6 +342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004D8F"
 msgid "An ordinary drainage pipe. Darkness."
 msgstr ""
+"Obyčejná odvodňovací roura. Temnota. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -307,6 +351,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100009700004D8F"
 msgid "At first, you can't make anything out in the darkness at all."
 msgstr ""
+"Zprvu nedokážeš v temnotě vůbec nic rozeznat."
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -315,6 +360,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100009700004D8F"
 msgid "The pipe is sleek with rain."
 msgstr ""
+"Roura je v dešti kluzká. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -323,6 +369,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100009700004D8F"
 msgid "A thin layer of snow gleams inside the pipe."
 msgstr ""
+"Uvnitř roury září tenká vrstva sněhu. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -331,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004DE1"
 msgid "\"This looks like a great place to stash narcotics. I want to make sure there's nothing hidden in there that children might pick up.\""
 msgstr ""
+"\"Tohle vypadá jako skvělé místo na ukrytí drog. Chci se ujistit, že uvnitř není něco, co by si tam mohly vzít děti.\""
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -339,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004DA0"
 msgid "\"However, the pipe suggests there may be an entrance to the basement around...\" The lieutenant pushes aside the reeds and looks around."
 msgstr ""
+"\"Nicméně tahle roura naznačuje, že by někde tady mohl být vstup do podzemí...\" Poručík odstrčí stranou rákosiny a rozhlédne se. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -347,6 +396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004DF8"
 msgid "As your eyes adjust, you see some trash -- crumpled up newspapers, cigarette butts. Someone has half-heartedly spray-painted 'SKULLS' on the right side."
 msgstr ""
+"Jak se tvoje oči přizpůsobí, uvidíš nějaké odpadky - zmačkané noviny, nedopalky cigaret. Někdo nedbale nasprejoval na pravé straně nápis 'LEBKY'. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -355,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E76"
 msgid "\"...and it's right here! A maintenance door.\" He points to a rusted metal double door to the right of the pipe, obscured by the reeds."
 msgstr ""
+"\"A tady to máme! Servisní vchod.\" Ukáže na rákosinami téměř zakryté zrezivělé plechové dvoukřídlé dveře napravo od roury. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -363,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014EF5"
 msgid "Oh yeah... *big boy time*. This needs you to put your BACK into it."
 msgstr ""
+"Ach ano...*čas pro velké chlapy*. Do tohoto se musíš OPŘÍT. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -371,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014EDA"
 msgid "This isn't gonna work without the lieutenant here. What if you *do* find a way in and it's a *trap*? Kitsuragi needs to be here, covering you."
 msgstr ""
+"Tohle nepůjde bez doprovodu poručíka. Co když *najdeš* cestu dovnitř, a bude to *past*? Kitsuragi zde musí být s tebou a krýt tě. "
 
 #. Title = LAIR / DRAINAGE PIPE
 #. Description = Alternate path into Feld building.
@@ -379,3 +432,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004E31"
 msgid "\"Good work.\" The lieutenant nods toward the impenetrable darkness inside. \"Shall we?\""
 msgstr ""
+"\"Dobrá práce.\" Poručík pokývne směrem dovnitř, do neproniknutelné temnoty. \"Jdeme?\""
