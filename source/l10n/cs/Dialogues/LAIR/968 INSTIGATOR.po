@@ -1,8 +1,15 @@
+# Ziriath <ziriath@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -16,6 +23,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E7C5"
 msgid "She lied to you... about that *too*."
 msgstr ""
+"Lhala ti... a o tomhle *též*."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -29,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000C00000132"
 msgid "The darkness takes over as you feel yourself slipping into an unknown, mute state. Oh... it's death! This is the end."
 msgstr ""
+"Pohlcuje tě temnota, zatímco se propadáš do neznámého, mlčenlivého stavu. Ajaj... je to smrt! Tohle je konec. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -42,6 +51,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A020"
 msgid "\"Bullshit, you're trying to...\" (wince grotesquely) \"throw me off. No one says that.\""
 msgstr ""
+"\"Blbost, zkoušíte...''(Groteskně zkřivíš tvář) \"mě vykolejit. Nikdo to neříká.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -55,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A02E"
 msgid "\"Oh yes, they do. The cops, the criminals... Why do you think I'm holed up in here with a goddamn death ray, waiting for you?\""
 msgstr ""
+"\"Ach ano, oni to říkaj. Poldové, zločinci... Proč si myslíte, že sem tady zavřená se zatracenejma paprskama smrti a čekám na vás?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -68,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A62F"
 msgid "\"Okay. Okay.\" (Compose yourself.) \"What do we do now?\" (Move on.)"
 msgstr ""
+"\"Dobře, dobře.\" (Seber se.) \"Co teď uděláme?\" (Pokračuj.)"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -81,6 +93,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000E9D5"
 msgid "\"Don't know anything about it. No one's been around since I set up camp. But I'm sure I'm not the first vagabond to...\" Her voice trails off into white noise in your head. It feels like an aneurysm approaching."
 msgstr ""
+"\"O tom nevím nic. Nikdo tady nebyl od té doby, co sem se utábořila. Ale sem si jistá, že nejsu první vagabund, kterej...\" Její hlas se vytratí v bílém šumu uvnitř tvojí hlavy. /n "
+"Připadá ti, že se po tobě natahuje mrtvice. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -94,6 +108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EA1E"
 msgid "\"Oh.\" She smiles sadly. \"I knew the kitten had claws, but not like this...\""
 msgstr ""
+"\"Ach.\" Smutně se pousměje. \"Věděla sem, že koťátko má drápky, ale ne až takový...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -107,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EB0F"
 msgid "The gun she's carrying is a two-barrelled front-loader -- not like the murder weapon."
 msgstr ""
+"Zbraň, kterou má u sebe, je dvouhlavňová předovka - takže něco jiného, než ta vražedná zbraň. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -120,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EB8E"
 msgid "\"She asked me to come upstairs -- the merc she'd been going with was lying on the bedroom floor, dead. I knew she couldn't get the authorities involved. So, yeah...\""
 msgstr ""
+"\"Požádala mě, ať jdu nahoru - ten žoldák, se kterým chodila, ležel mrtvej na zemi. Věděla sem, že do toho nesmím zaplést autority. Takže, jo..\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -133,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EC28"
 msgid "The torment Lieutenant Kitsuragi is experiencing is worse than your own. He's trying to resist, but there's no way of knowing when he will recover."
 msgstr ""
+"Poručíkovo utrpení je horší, než to tvoje. Snaží se vydržet, ale těžko říct, za jak dlouho se dá dohromady. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -146,6 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EC6D"
 msgid "The torment Lieutenant Kitsuragi is experiencing is worse than your own, but he's slowly beginning to recover."
 msgstr ""
+"Poručíkovo utrpení je horší, než to tvoje, ale pomalu se začíná dávat dohromady."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -159,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000ECD4"
 msgid "\"The communist hideout back there...\""
 msgstr ""
+"\"Ten komunistický kutloch...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -172,6 +192,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000ECFC"
 msgid "\"I'm using a pale latitude compressor. You and your partner have been caught in its field.\""
 msgstr ""
+"\"Užívám kompresor bledomezi. Vy a váš partner ste chyceni v jeho poli.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -185,6 +206,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EF10"
 msgid "\"Yeah? What?\""
 msgstr ""
+"\"Jo? Co?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -198,6 +220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F4C2"
 msgid "\"Oh, yes, it is.\""
 msgstr ""
+"\"Ach ano, to je.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -211,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F52C"
 msgid "\"I wish I could just let you go, but I have to follow protocol.\""
 msgstr ""
+"\"Přeji si, abych vás mohl nechat jít, ale musím dodržovat protokol.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -224,6 +248,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F59B"
 msgid "But -- she doesn't deserve to die like this!"
 msgstr ""
+"Ale - ona si nezaslouží takhle umřít!"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -237,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FE3F"
 msgid "\"Oh, it doesn't even matter. How can they be *my* boys when they're not even my friends. And those guys *liked* me -- I know it. If this is what happens to people whom people like...\""
 msgstr ""
+"\"Ach, na tom ani nezáleží. Jak můžou bejt *moji hoši*, když ani nejsou moji kamarádii. A tihle chlápci mě měli *rádi* - vím to. Jestli je tohle to, co se stává oblíbenejm lidem...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -250,6 +276,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FE80"
 msgid "\"Aw, fuck. Took some convincing my ass. And those guys *liked* me -- I know it. If this is what happens to people whom people like...\""
 msgstr ""
+"\"Ajaj, do hajzlu. Prej že přesvědčování. A tihle chlápci mě měli *rádi* - vím to. Jestli se tohle děje lidem, který sou oblíbený...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -263,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FFD4"
 msgid "Rows and rows of poppies, most of which have lost their pink bloom, flank his steps. The man looks around, then up at the sky; sighs."
 msgstr ""
+"Řady a řady vysazeného máku, který již většinou ztratil svůj růžový květ, jej obklopují při chůzi. Muž se rozhlédne kolem sebe, pak vzhlédne nahoru na oblohu; povzdechne si."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -276,6 +304,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000009F9"
 msgid "\"The shot was made from a distance -- otherwise we would have heard it downstairs. Besides, she had good reason to not draw attention to herself.\""
 msgstr ""
+"\"Výstřel byl provedenej zdálky - jinak bysme jej slyšeli dole. Kromě toho, měla dobrej důvod k sobě nepřitahovat pozornost.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -289,6 +318,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000071000009F9"
 msgid "\"As I keep telling you cops, we didn't hear anything downstairs. No gunshot, nothing.\""
 msgstr ""
+"\"Jak vám poldům říkám, nic sme dole neslyšeli. Žádnej výstřel, nic.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -302,6 +332,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000C1B"
 msgid "\"The pale? It's the end of the world.\""
 msgstr ""
+"\"Bledomez? To je konec světa.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -315,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A01A"
 msgid "\"Who's 'everyone'? How do you know this?\""
 msgstr ""
+"\"Kdo je 'všichni'? Jak to víte?"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -328,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A11E"
 msgid "\"Yeah, that's right, I was just... testing you. They're right outside, with guns.\""
 msgstr ""
+"\"Ano, to je dobře, jen jsem vás... zkoušel. Jsou hned venku, ozbrojení.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -341,6 +374,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A173"
 msgid "Just try not to collapse."
 msgstr ""
+"Zkus neomdlít."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -354,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000DE9"
 msgid "She died. How can he be so... cold?"
 msgstr ""
+"Umřela. Jak může být tak... chladný?"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -367,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004200000016"
 msgid "He squints into the darkness, \"that tent there.\""
 msgstr ""
+"Zamžourá do temnoty, \"ten stan támhle.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -380,6 +416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EC4C"
 msgid "\"Really now? Check this out!\" She turns the dial in her hand."
 msgstr ""
+"\"Fakt, jo? Zkuste tohle!\" Otočí číselníkem ovladače, který drží v ruce. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -393,6 +430,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000ECF0"
 msgid "\"What happened... Sunday night? Tell me your version.\""
 msgstr ""
+"\"Co se stalo... o nedělní noci? Řekněte mi svoji verzi.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -406,6 +444,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EE28"
 msgid "\"Yeah, I stuck my head in there before using it on you. It seemed like the *ethical* thing to do. Can't say that I enjoyed it. The field was weaker, but I can imagine what you're going through.\""
 msgstr ""
+"\"Jo, strčila sem do toho hlavu předtím, než sem to použila na vás. Zdálo se mi to jako *etická* věc. Nemůžu říct, že bych si to užila. Pole bylo slabší, ale dokážu si představit, čím zrovna procházíte vy. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -419,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EE5E"
 msgid "\"Signals are relayed across a series of repeater stations fixed to buoys.\" She pauses. \"Not a fun job, manning those stations. All alone out there in the pale, people lose their minds in just a few years.\""
 msgstr ""
+"\"Signál je přenášen řadou opakovacích stanic, kotvených na bójích.\" Odmlčí se. \"Není to zábavná práce, obsluhovat tyhle stanice. Llidi během pár let zešíl, úplně sami takhle uvnitř bledomeze.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -432,6 +472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F470"
 msgid "If one hornet can kill 40 honeybees in a minute, then three hornets should be able to kill 120 honeybees in a minute... Or more, since they'll also be covering one another."
 msgstr ""
+"Pokud jeden sršeň dokáže zabít čtyřicet včel za minutu, tak tři sršni mohou zabít za minutu 120 včel... Nebo víc, protože se ještě k tomu budou navzájem krýt."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -445,6 +486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F4BB"
 msgid "\"Ma'am, put the gun down. That's not the solution to your problems. You are...\""
 msgstr ""
+"\"Paní, položte tu zbraň. To není řešení vašich problémů. Vy jste...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -458,6 +500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F555"
 msgid "She runs past you, then past the lieutenant, and disappears into the darkness of the tunnel."
 msgstr ""
+"Proběhne kolem tebe, kolem poručíka, a zmizí v temnotě chodby. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -471,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FE18"
 msgid "\"Your first guess wasn't entirely off...\""
 msgstr ""
+"\"Váš první odhad nebyl úplně mimo...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -484,6 +528,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100004453"
 msgid "She narrows her eyes. \"That sound about right?\""
 msgstr ""
+"Zúží oči. \"To zní správně?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -497,6 +542,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000048B1"
 msgid "The white noise turns into a wall of mist and grey mould, bubbling, sweeping over the city... it tears up buildings and raises sidewalks into the sky. It's Revachol -- at the end of the world."
 msgstr ""
+"Bílý šum se změní ve stěnu mlhy a šedé plísně, bublající, přelévající se přes město... Rve to budovy na kusy a zdvíhá chodníky k nebi. To je Revachol - na konci světa. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -510,6 +556,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009D20"
 msgid "\"By hiding bullets under floorboards?\""
 msgstr ""
+"\"Schováváním kulek pod prkna podlahy?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -523,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009D3B"
 msgid "\"Preparing for a... shoot-out? That why you're hiding ammo?"
 msgstr ""
+"\"Chystáte se... na přestřelku? Proto si schováváte střelivo?"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -536,6 +584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009F7C"
 msgid "\"Wait... did she also seem high to you?\""
 msgstr ""
+"\"Počkat... zdála se vám též sjetá?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -549,6 +598,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009F8C"
 msgid "This woman has seen people O.D. Klaasje wasn't quite there yet, so why worry?"
 msgstr ""
+"Tahle žena už viděla více lidí se předávkovat. Klaasje tak daleko ještě nebyla, tak proč si dělat starosti?"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -562,6 +612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A0C1"
 msgid "I thought we had an agreement, she thinks. *This* was not supposed to happen."
 msgstr ""
+"Myslela jsem, že jsme měly dohodu, myslí si. *Tohle* se nemělo stát. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -575,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A0F9"
 msgid "\"Well, it wasn't this scrawny dude.\" She nods toward the lieutenant. \"You had two guys and a lady. The guys looked pretty buff. Lady wasn't bad either.\""
 msgstr ""
+"\"No, tendle vychrtlej týpek to nebyl.\" Kývne směrem k poručíkovi. \"Byl ste se dvěma chlapama a paní. Chlapi vypadali dost namakaně. Paní taky nevypadala špatně.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -588,6 +640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A100"
 msgid "\"What else can you... tell me...\""
 msgstr ""
+"\"Co ještě nám můžete...říct...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -601,6 +654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A130"
 msgid "\"I've faced worse.\" She shrugs."
 msgstr ""
+"\"Už sem čelila i horším.\" Pokrčí rameny."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -614,6 +668,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A543"
 msgid "\"You don't have to do this. You're not cornered. I'm letting you go.\""
 msgstr ""
+"\"Nemusíte tohle dělat. Nezaháním vás do rohu. Nechám vás jít.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -627,6 +682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000DD6"
 msgid "\"We're cops. Everything is our fault, if we let it be...\" He looks around."
 msgstr ""
+"\"Jsme poldové. Všechno je naše chyba, pokud to necháme být...\" Rozhlédne se.  "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -640,6 +696,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000E8B6"
 msgid "Suddenly, your entire body is paralysed. Aggressive white noise fills your skull -- a strange pain like you've never felt before. Through the static, you hear a woman's voice."
 msgstr ""
+"Najednou je tvoje tělo paralyzované. Agresivní bílý šum ti naplní lebku - podivná bolest, jakou jsi ještě nikdy nezažil. Přes statický šum slyšíš ženský hlas. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -653,6 +710,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000E8D4"
 msgid "Convince her to put the gun down."
 msgstr ""
+"Přesvědč ji, ať položí zbraň."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -666,6 +724,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000580000E8D4"
 msgid "What if *you* killed yourself?"
 msgstr ""
+"Co kdyžs *ty* zabil sebe?"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -679,6 +738,7 @@ msgstr ""
 msgctxt "tooltip2/0x010000580000E8D4"
 msgid "Admitted Madre agent."
 msgstr ""
+"Přiznaný agent Madre. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -692,6 +752,7 @@ msgstr ""
 msgctxt "tooltip3/0x010000580000E8D4"
 msgid "Said Tommy betrayed her."
 msgstr ""
+"Řekl jsi, že ji Tommy zradil."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -705,6 +766,7 @@ msgstr ""
 msgctxt "tooltip4/0x010000580000E8D4"
 msgid "Said armed men outside."
 msgstr ""
+"Řekl jsi, že venku jsou ozbrojenci. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -718,6 +780,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EBCE"
 msgid "\"And what did she say?\""
 msgstr ""
+"\"A co říkala?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -731,6 +794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EBF1"
 msgid "Keep your eyes on Ruby."
 msgstr ""
+"Nespouštěj Ruby z očí."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -744,6 +808,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EC15"
 msgid "\"No, I'm not going to fucking kill you. If that had been my plan, you'd be dead already. All things considered, I'm being pretty reasonable here.\""
 msgstr ""
+"\"Nechcu vás kurva zabít. Kdybych to bejvala měla v plánu, byl byste dávno mrtvej. Kolem a kolem, su tady ještě dost rozumná.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -757,6 +822,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F3B5"
 msgid "\"Do you know something about the tribunal... the mercenaries are planning?\""
 msgstr ""
+"\"Víte něco o tom tribunálu... který ti žoldáci chystají?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -770,6 +836,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F3E4"
 msgid "She sighs. \"Yeah. The mercenaries are about to set up a tribunal and execute someone for killing Lely.\""
 msgstr ""
+"Povzdechne si. \"Jo. Ti žoldáci chystaj tribunál a někoho popraví za Lelyho vraždu.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -783,6 +850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F40D"
 msgid "Hold very still."
 msgstr ""
+"Vydrž se nehýbat. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -796,6 +864,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F509"
 msgid "Maybe I can still talk her out of it?"
 msgstr ""
+"Možná bych jí to stále dokázal rozmluvit?"
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -809,6 +878,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F584"
 msgid "Because you think suicide might be a good course of action for you too. Her finger squeezes the trigger now..."
 msgstr ""
+"Protože si myslíš, že sebevražda by pro tebe taky byla dobrým řešením. Její prst mačká spoušť..."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -822,6 +892,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F604"
 msgid "\"Let's... talk about something else.\""
 msgstr ""
+"\"Bavme se... o něčem jiném.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -835,6 +906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000063E9"
 msgid "A strong moral compass. She still wants the opportunity to make a case for herself."
 msgstr ""
+"Silný morální kompas. Stále se snaží získat příležitost obhájit se."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -848,6 +920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000A01"
 msgid "\"Do you... think she might have killed the merc herself?\""
 msgstr ""
+"\"Myslíte, že... ona sama mohla zabít toho žoldáka?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -861,6 +934,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007100000A01"
 msgid "\"Do you... think she killed Lely... herself?\""
 msgstr ""
+"\"Myslíte, že... ona sama... zabila Lelyho?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -874,6 +948,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000B84"
 msgid "\"That's illegal. I'm guessing it's patented... But we're beyond that, aren't we?\""
 msgstr ""
+"\"To je nezákonné. Hádám, že je to patentované... Ale to nás teď nemusí zajímat, že?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -887,6 +962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000489D"
 msgid "\"Officer, are you okay?\""
 msgstr ""
+"\"Detektive, jste v pořádku?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -900,6 +976,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000048FF"
 msgid "The visions compete for space in your brain with the hailstorm of radio signals coming from the compressor. You feel like your skull is about to shatter into smithereens."
 msgstr ""
+"Vize soupeří o místo v tvém mozku s krupobitím rádiových signálů z kompresoru. Připadáš si, jako by se tvoje lebka měla roztříštit na kousíčky. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -913,6 +990,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000490B"
 msgid "\"Proximity to the Pale Compressor is overloading his mind. He'll be okay once it's off, though.\""
 msgstr ""
+"\"Blízkost kompresoru bledomeze přetěžuje jeho mysl. Ale po jeho vypnutí bude v pořádku. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -926,6 +1004,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600015649"
 msgid "He couldn't take it like you. It irks him -- then he gets over it."
 msgstr ""
+"Nevydržel to, co ty. Štve ho to - ale dokáže se přes to přenést."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -939,6 +1018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A0EA"
 msgid "\"Sure you do, I bet they're just outside, waiting.\" She looks into the tunnel behind you. \"I guess I'll take my chances.\""
 msgstr ""
+"\"To jistě ano, vsadím se, že na mě čekaj venku.\" Pohlédne do tunelu za tebou. \"Hádám, že bych tomu mohla dát šanci.\"\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -952,6 +1032,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A593"
 msgid "\"What if we just let the murderer go?\""
 msgstr ""
+"\"Co když ale prostě necháme jít vražedkyni?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -965,6 +1046,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A5FD"
 msgid "\"Now we have to come up with a really good excuse... for why we walked right into a trap like that. This isn't going to look good in the report.\" He looks around, then points further into the cavern."
 msgstr ""
+"\"A teď musíme přijít s opravdu dobrou výmluvou... proč jsme takhle nakráčeli rovnou do pasti. Tohle nebude vypadat dobře v naší zprávě.\" Rozhlédne se, pak ukáže hlouběji do kaverny.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -978,6 +1060,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A650"
 msgid "\"She killed herself. I failed to talk to her down.\""
 msgstr ""
+"\"Zabila se. Nepodařilo se mi jí to rozmluvit.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -991,6 +1074,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000420000002E"
 msgid "\"Really? That's... your takeaway? I'm *certain* she didn't do it.\" He looks around, then points to the back of the cavern. \"Her tent. We should check it out.\""
 msgstr ""
+"\"Opravdu? Tohle... jste si z toho vzal? Jsem si *jistý*, že to neudělala.\" Rozhlédne se, pak ukáže do zadní části kaverny. \"Její stan. Měli bychom jej prozkoumat.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1004,6 +1088,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000E8FF"
 msgid "\"You said something about a tribunal...\""
 msgstr ""
+"\"Říkala jste něco o tribunálu...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1017,6 +1102,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000E947"
 msgid "\"You're under arrest!\""
 msgstr ""
+"\"Jste zatčena!\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1030,6 +1116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EAA6"
 msgid "\"Fine, if you really want to talk, I can dial it down. I've also got a gun, by the way.\" She steps reluctantly out of the shadows. The pain lessens."
 msgstr ""
+"\"Fajn, jestli si fakt chcete povídat, můžu to ztlumit. Mimochodem, mám taky zbraň.\" Neochotně vystoupí ze stínů. Bolest se zmírní. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1043,6 +1130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EB7B"
 msgid "Doesn't wish to hurt you? Not according to your ear canals... wait, no, not even your ear canals -- this is going directly into your neural pathways."
 msgstr ""
+"Nechce tě zranit? Tvoje zvukovody nesouhlasí... počkat, ne, nejen zvukovody - tohle zasahuje přímo tvoje nervové dráhy."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1056,6 +1144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EC8D"
 msgid "\"Agent... Is La Puta Madre some kind of travel agency?\""
 msgstr ""
+"\"Agent... Je La Puta Madre nějaká cestovka?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1069,6 +1158,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EDAF"
 msgid "I hate to interrupt the deafening pain you're in, but Joyce said it was possible to force dimensions by using radio waves. This must be one of the devices used to send radio signals across the pale."
 msgstr ""
+"Nerad přerušuji ohlušující bolest, kterou prožíváš, ale Joyce říkala, že je možné vnutit dimenze pomocí rádiových vln. Tohle musí být jedno z těch zařízení, jaká se používají k přenosu signálů skrz bledomez. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1082,6 +1172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EE50"
 msgid "\"Right, sure. You don't know.\""
 msgstr ""
+"\"Dobře, jasně. Nevíte.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1095,6 +1186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F460"
 msgid "\"A third... Oh, this is bad.\""
 msgstr ""
+"\"Třetí... Ajaj, to je zlé.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1108,6 +1200,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F50F"
 msgid "\"Please.\" (Put your hands up.) \"Just walk away.\""
 msgstr ""
+"\"Prosím.\" (Dej ruce vzhůru.) \"Prostě odejděte.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1121,6 +1214,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FE0C"
 msgid "\"Your... own boys told us you were on the coast.\""
 msgstr ""
+"\"Vaši... vlastní hoši nám řekli, že jste na pobřeží.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1134,6 +1228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000100E9"
 msgid "\"What do you mean... La Puta Madre agent?\""
 msgstr ""
+"\"Co tím myslíte...agent La Puta Madre?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1147,6 +1242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000B7C"
 msgid "She's been holed up in here for a while with no one to talk to. Keep her talking, and you just might get an opportunity to break loose."
 msgstr ""
+"Byla tady zavřená už nějakou dobu, a neměla se s kým bavit. Nech ji mluvit, a můžeš získat příležitost se osvobodit."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1160,6 +1256,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000BF3"
 msgid "\"Goddamnit.\" She regards you and Kim with sudden sympathy."
 msgstr ""
+"\"Ksakru.\" Pohlédne na tebe a Kima s náhlou sympatií. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1173,6 +1270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000048E7"
 msgid "The pain intensifies as your hands attempt to reach out into the pale chaos."
 msgstr ""
+"Bolest zesílí, zatímco tvoje ruce se snaží proniknout do bledého chaosu."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1186,6 +1284,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000007DB"
 msgid "\"But Klaasje couldn't have known I was here. How did you?\""
 msgstr ""
+"\"Ale Klaasje nemohla vědět, že su tady. Jak jste se to dozvěděl vy?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1199,6 +1298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E740"
 msgid "She likes telling you about the machine. Keep her talking, look for an opportunity to break loose."
 msgstr ""
+"Ráda mluví o svém přístroji. Nech ji mluvit, hlídej si příležitost se osvobodit. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1212,6 +1312,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009C93"
 msgid "Don't cover them."
 msgstr ""
+"Nezakrývej je."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1225,6 +1326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009CDE"
 msgid "Be careful when you make your move -- that'll be *it* for questions. Bide your time."
 msgstr ""
+"Buď opatrný s tím, kdy vyrazíš dopředu. Pokládej otázky. Hrej o čas. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1238,6 +1340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009D35"
 msgid "\"She didn't rat you out, by the way -- the washerwoman.\""
 msgstr ""
+"\"Pradlena nebyla tím, kdo vás napráskal, mimochodem.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1251,6 +1354,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100001600009D35"
 msgid "\"She didn't rat you out, by the way -- Isobel, the washerwoman.\""
 msgstr ""
+"\"Pradlena Izobela nebyla tím, kdo vás napráskal, mimochodem.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1264,6 +1368,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009D53"
 msgid "\"Okay... then I have other questions...\""
 msgstr ""
+"\"Dobře... pak mám další otázky...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1277,6 +1382,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009D7D"
 msgid "\"Not anymore, no. This could've turned out pretty bad for me if you hadn't walked right into 25 bands of ultra-high frequencies.\""
 msgstr ""
+"\"Ne, už ne. Tohle mohlo pro mě skončit špatně, kdybyste bejval nenakráčel rovnou do 25 pásem ultra-vysokých frekvencí.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1290,6 +1396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009F74"
 msgid "\"It's okay... We just want to... hnghhhhh...\" He struggles to finish the sentence."
 msgstr ""
+"\"To je v pořádku... Jen chceme...hnghhhhhh... \" Bojuje s dokončením věty. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1303,6 +1410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A011"
 msgid "It's especially bad suddenly. Felt like a vein exploded."
 msgstr ""
+"Najednou je to obzvlášť zlé. Jako by ti explodovala žilka. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1316,6 +1424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A136"
 msgid "She hasn't. She hasn't gone up against three armed people before. And she believed you."
 msgstr ""
+"Nedělala to. Ona nikdy dřív nešla proti třem ozbrojeným lidem. A věřila ti. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1329,6 +1438,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A19A"
 msgid "The pain is becoming unbearable now."
 msgstr ""
+"Bolest se stává nesnesitelnou."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1342,6 +1452,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A615"
 msgid "\"Okay... you said it. You needed to say it. Now it's been *said*,\" he says in a slow, measured voice. \"We need to clean up.\""
 msgstr ""
+"\"Dobře... řekl jste to. Musel jste to říct. Teď když to bylo *řečeno*, praví pomalým, odměřeným hlasem,\"musíme tady uklidit.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1355,6 +1466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EBF7"
 msgid "\"Just a bunker. Have you been there?!\""
 msgstr ""
+"\"Jen bunkr. Byla jste tam?!\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1368,6 +1480,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000EDF0"
 msgid "\"No -- once I shut down the compressor, the pain will end.\" She hesitates. \"It may take a few minutes for you to steady yourself, though -- it's a bit like waking out of a very confusing dream.\""
 msgstr ""
+"\"Ne - jak vypnu kompresor, bolest zmizí.\" Zarazí se. \"Ale možná bude pár minut trvat, než se dáte dohromady - je to jako probudit se z velmi zmatenýho snu.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1381,6 +1494,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F3F2"
 msgid "\"How do you know this?\""
 msgstr ""
+"\"Jak tohle víte?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1394,6 +1508,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F43E"
 msgid "\"They're planning to set up a trap for us?\""
 msgstr ""
+"\"Chtějí na nás nastražit past?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1407,6 +1522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F47F"
 msgid "Three mercenaries, no doubt armed to the teeth, hungry for vengeance... You've only got muzzle loaders. This isn't looking good."
 msgstr ""
+"Tři žoldnéři, bezpochyby po zuby ozbrojení, hladoví po pomstě...A vy máte jen předovky. To nevypadá dobře. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1420,6 +1536,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000F590"
 msgid "Because you've misread the situation from the beginning. And now her finger squeezes the trigger..."
 msgstr ""
+"Protože jsi už od začátku špatně zhodnotil situaci. A teď její prst tiskne spoušť..."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1433,6 +1550,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000FE37"
 msgid "She looks at you incredulously. \"What is this? I thought Titus and I had a decent collegial relationship...\""
 msgstr ""
+"Nevěřícně se na tebe podívá. \"Co to má bejt? Myslela sem, že s Titusem sme měli slušnej kolegiální vztah...\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1446,6 +1564,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010130"
 msgid "\"Fucking hell\" and \"Why me?\" you hear through the white noise."
 msgstr ""
+"\"Do prdele\" a \"Proč já?\", slyšíš skrz bílý šum. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1459,6 +1578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000063C5"
 msgid "\"Like what?\" She adjusts her grip on her gun. \"I already told you I didn't do it.\""
 msgstr ""
+"\"Jako co?\" přehodí si zbraň v ruce. \"Už sem ti řekla, že já to nebyla.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1472,6 +1592,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000063DA"
 msgid "\"Honestly, I don't know how I do it... I just stumbled in here. Can you... please explain this shit to me?\""
 msgstr ""
+"\"Popravdě, ani nevím jak to dělám... Jen jsem na tohle místo narazil. Mohla byste... mi to vysvětlit?\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1485,6 +1606,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000009EB"
 msgid "\"I really don't care which one of us you think was more at fault for the 'lynching.' Neither of us killed him, though.\""
 msgstr ""
+"\"Je mi jedno, kdo z nás si myslíte, že mohl za ten 'lynč'. Nezabil ho nikdo z nás.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1498,6 +1620,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000BC2"
 msgid "\"Yeah, let's not talk about *that* shit. You were hunting me and fell into my trap instead. That's all there is to say about it.\""
 msgstr ""
+"\"Jo, tak se o tom nebavme. Lovil ste mě, a místo toho se chytl do mojí pasti. To je vše, co k tom můžu říct.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1511,6 +1634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000BE4"
 msgid "\"Damn... this...\" The lieutenant clutches his head, grimacing."
 msgstr ""
+"\"Ksakru... s tím... \" Poručíkova tvář je zkřivená, drží se za hlavu. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1524,6 +1648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001566C"
 msgid "\"Our job. It went really bad. And now we need to clean it up.\""
 msgstr ""
+"\"Naše práce. Vůbec se nepodařila. A teď po ní musíme uklidit.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1537,6 +1662,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009D75"
 msgid "\"I was. Before I caught you in the pale latitude compressor. I'm fine now.\""
 msgstr ""
+"\"Byla sem. Než sem vás chytla mým kompresorem bledomezi. Už su v pořádku.\""
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1550,6 +1676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A059"
 msgid "Don't let her scare you. She probably just made that name up on the spot."
 msgstr ""
+"Nenech ji tě vyděsit. Tohle jméno si nejspíš teď vymyslela."
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
@@ -1563,6 +1690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A076"
 msgid "All of this just means that you're effective. Criminals know you and are scared of you."
 msgstr ""
+"Všechno tohle znamená, že jsi prostě efektivní. Zločinci tě znají, a bojí se tě. "
 
 #. Title = LAIR / INSTIGATOR
 #. Description = You are caught in the ray of the Pale Compressor and talk to Ruby. You can:
