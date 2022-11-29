@@ -1,8 +1,15 @@
+# Ziriath <ziriath@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = LAIR ORB / wearing revolutionary hat
 #. Description = Putting the hat on gives a one time +1 to Mazovian Socio-Economics, you communist failure.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009B3F"
 msgid "This is an *ushanka*, right? (Pat the hat.)"
 msgstr ""
+"Tohle je *ušanka*, že ano? (Poplácej čepici.)"
 
 #. Title = LAIR ORB / wearing revolutionary hat
 #. Description = Putting the hat on gives a one time +1 to Mazovian Socio-Economics, you communist failure.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002608"
 msgid "Kras Mazov would have worn this ushanka. Mazov knew where to cook those thoughts, that's why it bears a Mazovian logo."
 msgstr ""
+"Takovou ušanku by Kraz Mazov jistě nosil. Mazov věděl, kde upéct tyhle myšlenky, proto je na ní mazoviánský odznak."
 
 #. Title = LAIR ORB / wearing revolutionary hat
 #. Description = Putting the hat on gives a one time +1 to Mazovian Socio-Economics, you communist failure.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000260D"
 msgid "Glory to the Revolution, comrade! Whether you like it or not, wearing this hat has made you more communist."
 msgstr ""
+"Sláva Revoluci, soudruhu! Ať se ti to líbí nebo ne, nošení této čepice tě učinilo větším komunistou."
 
 #. Title = LAIR ORB / wearing revolutionary hat
 #. Description = Putting the hat on gives a one time +1 to Mazovian Socio-Economics, you communist failure.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00002602"
 msgid "This hat is so soft, so warm. It wraps around your head... and your mind tingles with all manner of socio-economic theory."
 msgstr ""
+"Tahle čepice je tak měkká, tak teplá. Obaluje tvoji hlavu... a tvoje mysl září myšlenkami socio-ekonomické teorie. "
 
 #. Title = LAIR ORB / wearing revolutionary hat
 #. Description = Putting the hat on gives a one time +1 to Mazovian Socio-Economics, you communist failure.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009B45"
 msgid "Oops, it's a fashion faux pas! [Discard the thought -- and the hat.]"
 msgstr ""
+"Ups, tohle je módní faux pas! [Zavrhni myšlenku - spolu s tou čepicí.]"
 
 #. Title = LAIR ORB / wearing revolutionary hat
 #. Description = Putting the hat on gives a one time +1 to Mazovian Socio-Economics, you communist failure.
@@ -45,3 +57,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000009F1"
 msgid "Let's hope no one saw you wearing that outrageously communist hat."
 msgstr ""
+"Doufej, že tě nikdo v té skandálně komunistické čepici neviděl. "
