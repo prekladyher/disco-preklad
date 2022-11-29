@@ -445,6 +445,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="centigrade">
+        <descrip type="definition">[aA] stupnice teploty</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>centigrade</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>centigrád, -u, m.</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Centims">
         <descrip type="definition">[OK] [aA] peníze - centy</descrip>
         <langSet xml:lang="en">
@@ -1418,6 +1431,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>houmlesajt</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Human can-opener">
+        <descrip type="definition">Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Human can-opener</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Louskáček</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2536,6 +2562,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>bledomez</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Pale latitude compressor">
+        <descrip type="definition">Asi jen u Ruby</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pale latitude compressor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kompresor šíře bledomeze</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3732,6 +3771,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Tricenteniální elektronika</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Trompe le monde">
+        <descrip type="definition"></descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Trompe le monde</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>nejednotný, potřeba vymyslet a opravit</term>
           </tig>
         </langSet>
       </termEntry>
