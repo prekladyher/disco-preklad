@@ -341,6 +341,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Blue medicinal spirit">
+        <descrip type="definition">[aA] Surovina k výrobě kravatového molotova </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Blue medicinal spirit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>modrý lékařský špiritus</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="boiadeiro">
         <descrip type="definition">[OK] [aA] je to něco jako kovbojové -v tom romantickém smyslu, chlapáci an koních a tak... v reálu je to australský honácký pes -dr</descrip>
         <langSet xml:lang="en">
@@ -1134,6 +1147,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Feld playback experiment">
+        <descrip type="definition">[aA] v budově Feldu, mluví o něm Trant</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Feld playback experiment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>páskový počítač Feld Experiment</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="filament memory (filament)">
         <descrip type="definition">[OK] [aA] paměťový modul radiokomputeru</descrip>
         <langSet xml:lang="en">
@@ -1435,7 +1461,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Human can-opener">
-        <descrip type="definition">Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
+        <descrip type="definition">[aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Human can-opener</term>
@@ -1547,12 +1573,12 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ilmara, -y ž.</term>
+            <term>Iilmaara, -y ž.</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Iilmaraan">
-        <descrip type="definition">[OK] [aA] adj. od Ilmaraa, obyvatel Ilmary</descrip>
+        <descrip type="definition">[OK] [aA] adj. a obyvatel Ilmary</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Iilmaraan</term>
@@ -1560,7 +1586,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>ilmařanský, Ilmařan</term>
+            <term>iilmaaranský, Iilmaaran</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2566,7 +2592,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Pale latitude compressor">
-        <descrip type="definition">Asi jen u Ruby</descrip>
+        <descrip type="definition">[aA] Asi jen u Ruby</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Pale latitude compressor</term>
@@ -2574,7 +2600,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Kompresor šíře bledomeze</term>
+            <term>kompresor šíře bledomeze</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3771,19 +3797,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Tricenteniální elektronika</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Trompe le monde">
-        <descrip type="definition"></descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Trompe le monde</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>nejednotný, potřeba vymyslet a opravit</term>
           </tig>
         </langSet>
       </termEntry>
