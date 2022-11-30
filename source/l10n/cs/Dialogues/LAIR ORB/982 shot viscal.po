@@ -1,8 +1,15 @@
+# Ziriath <ziriath@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B3D"
 msgid "The lights of Martinaise shine coolly in the clear night."
 msgstr ""
+"Světla Martinézy chladně září do jasné noci. "
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010BD7"
 msgid "\"It's a great place to hide, certainly, but there hasn't been anyone in here for ages.\""
 msgstr ""
+"\"Je to skvělé místo, kam se ukrýt, rozhodně, ale tady nikdo nebyl už celé roky.\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800010BD7"
 msgid "\"It is a great place to hide, and Mazovianism and killing are certainly not mutually exclusive. But there hasn't been anyone here in ages.\""
 msgstr ""
+"\"Je to skvělé místo, kam se ukrýt, a mazovismus a zabíjení se navzájem nevylučují. Ale tady nikdo nebyl už celé roky.\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B2B"
 msgid "Outside the window -- the day is clear, and as mild as can be in early spring."
 msgstr ""
+"Venku za oknem - den je jasný, a tak mírný, jak jen může být v době časného jara."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B07"
 msgid "This does look like an *embrasure*, a slit made for shooting out of."
 msgstr ""
+"Tohle vypadá jako *střílna*, štěrbina vytvořená tak, aby se z ní střílelo."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010BB2"
 msgid "No, it's not. No matter how you crane your neck, you can't see the whole of the Whirling-in-Rags, and certainly not the relevant segment of the top floor."
 msgstr ""
+"Ne, to není. Nezáleží na tom, jak moc natáhneš krk, odtud neuvidíš celou budovu Cárů, a určitě ne tu důležitou část horního patra."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010C25"
 msgid "The lieutenant's voice betrays a slight disappointment, which he glosses over by reasserting control."
 msgstr ""
+"Poručíkův hlas prozrazuje lehké zklamání, které hned potlačí silou vůle. "
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010C1D"
 msgid "\"Indeed. No one could get a clear view. Well, at least we've been thorough. I like thorough.\""
 msgstr ""
+"\"Vskutku. Nikdo by odtud neměl přímý výhled. No, aspoň jsme byli důkladní. Jsem rád důkladný.\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010BD1"
 msgid "\"It's a great place to hide, certainly, but there hasn't been anyone here in ages.\""
 msgstr ""
+"\"Je to skvělé místo, kam se ukrýt, jistě, ale tady nikdo nebyl už celé roky.\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800010BD1"
 msgid "\"It's a great place to hide, and Mazovianism and murder are certainly not mutually exclusive. But there hasn't been anyone here in ages.\""
 msgstr ""
+"\"Je to skvělé místo, kam se ukrýt, a mazovismus a vraždy se určitě vzájemně nevylučují. Ale tady nikdo nebyl už celé roky.\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600015003"
 msgid "\"In fact -- I think we're done with this bunker.\" He looks to the exit. \"After you, officer.\""
 msgstr ""
+"\"Popravdě - myslím, že v tomhle bunkru už nic nenajdeme.\" Pohlédne k východu. \"Až po vás, detektive.\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B37"
 msgid "In the darkness, you can barely make out the falling snow. It settles, making the night still quieter."
 msgstr ""
+"V temnotě stěží rozeznáž padající sníh. Dopadá a činí noc ještě tišší, než je. "
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B1F"
 msgid "Outside the window -- another day. The beach sand soaks up the drizzling rain, growing darker and darker."
 msgstr ""
+"Venku za oknem - další den. Mrholení zasakuje do stále tmavšího písku pláže."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010BE3"
 msgid "It's definitely a good place to hide. You barely found it yourself."
 msgstr ""
+"Je to rozhodně dobré místo, kde se ukrýt. Sám jsi to skoro nenašel."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800010BE3"
 msgid "It's definitely a good place to hide. Mazovians know how to lay low."
 msgstr ""
+"Je to rozhodně skvělé místo, kde se ukrýt. Mazovisté vědí, jak být nenápadní."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B25"
 msgid "Outside the window -- desolation. Snow falls softly onto the coastal sand, where it melts almost instantly. On rooftops, it lingers."
 msgstr ""
+"Za oknem - bezútěšnost. Sníh dopadá do pobřežního písku, kde téměř okamžitě taje. Na střechách zůstává. "
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B13"
 msgid "Peek out."
 msgstr ""
+"Vyhlédni ven."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B31"
 msgid "You hear the rain's susurration across the sea water. The night shudders."
 msgstr ""
+"Slyšíš ševelení deště na hladině moře. Noc je chvějivá."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010C13"
 msgid "\"Kim, I can't see the Whirling-in-Rags... The shot didn't come from here.\" (Conclude.)"
 msgstr ""
+"\"Kime, odtud Cáry nevidím... Odtud výstřel nepřišel.\" (Uzavři.)"
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010B73"
 msgid "Would this have been a good hideout for a sniper?"
 msgstr ""
+"Bylo by tohle dobrým úkrytem ostřelovače?"
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800010B73"
 msgid "(Turn to Kim.) \"Could the killer have used this as a hideout?\""
 msgstr ""
+"(Otoč se ke Kimovi.) \"Mohl náš vrah použít tohle místo jako úkryt?\""
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010BDD"
 msgid "It's a good place to hide, but doesn't look like anyone has stayed here in a while."
 msgstr ""
+"Je to dobré místo, kde se ukrýt, ale nevypadá to, že tady někdo poslední dobou byl."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800010BDD"
 msgid "It's a good place to hide, but doesn't look like anyone -- Mazovian or murderer -- has stayed here in a while."
 msgstr ""
+"Je to dobré místo, kde se ukrýt, ale nevypadá, že kdokoliv - mazovista nebo vrah - tady byl v poslední době."
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010C0C"
 msgid "Is it feasible to hit a target in the Whirling-in-Rags from this window? (Conclude.)"
 msgstr ""
+"Bylo by proveditelné, zasáhnout něco v Cárech z tohoto okna? (Uzavři.)"
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -178,3 +209,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000DE45"
 msgid "Could this have been the killer's hideout, and this narrow window -- the point of origin of the shot that killed the mercenary?"
 msgstr ""
+"Mohl by tohle být úkryt vraha, a tohle úzké okno místem, odkud vyšel výstřel, který zabil žoldáka?"
