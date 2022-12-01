@@ -1,8 +1,15 @@
+# Drakefran <drakefranddrakefran@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A24"
 msgid "Sounds like you found the locusts, detective."
 msgstr ""
+"Zdá se, že jste našel kobylky, detektive."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017AED"
 msgid "\"I'll let you handle that side of things. You're doing just fine.\""
 msgstr ""
+"\"Nechám to na vás. Vedete si dobře.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C38"
 msgid "\"Stop being so sarcastic, Kim.\""
 msgstr ""
+"\"Přestaňte být tak sarkastický, Kime.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017AD5"
 msgid "\"We should talk to the kid outside. It was probably him. Get him to stop.\" [Leave.]"
 msgstr ""
+"\"Měli bychom si promluvit s tím klukem venku. Pravděpodobně to byl on. Ať toho nechá.\" [Odejdi.]"
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000012000006FF"
 msgid "\"Well, detective, it appears you've solved the case...\" The lieutenant looks around, writes something in his notebook, and turns to you..."
 msgstr ""
+"\"Tak, detektive, zdá se, že jste případ vyřešil...\" Poručík se rozhlédne, něco si zapíše do zápisníku a otočí se k tobě..."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C92"
 msgid "I should go and ask him to stop then. [Finish thought.]"
 msgstr ""
+"Měl bych ho tedy jít požádat, aby toho nechal. [Ukonči myšlenku.]"
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A2B"
 msgid "I need to tell Morell..."
 msgstr ""
+"Musím to říct Morellovi..."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A4E"
 msgid "\"Instead, it was a kid's prank.\" He shrugs. \"But what do I know?\""
 msgstr ""
+"\"Místo toho to byl dětský vtípek.\" Pokrčí rameny. \"Ale co já vím?\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C47"
 msgid "When someone says they're not being sarcastic, it's usually a good sign that they're being *very* sarcastic."
 msgstr ""
+"Když někdo říká, že není sarkastický, je to obvykle jasné znamení, že je *velmi* sarkastický."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C7C"
 msgid "He shrugs. \"But what do I know?\""
 msgstr ""
+"Pokrčí rameny. \"Ale co já vím?\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A13"
 msgid "\"Well, detective, it appears you're on the way to solving the case...\" The lieutenant looks around, writes something in his notebook, and turns to you..."
 msgstr ""
+"\"No, detektive, zdá se, že jste na cestě k vyřešení případu...\" Poručík se rozhlédne, něco si zapíše do zápisníku a otočí se k tobě..."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C8C"
 msgid "What is this?"
 msgstr ""
+"Co je to?"
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A1D"
 msgid "\"The missing locust case, which is a sub-case of the imaginary insect case. So at least *that's* going well.\""
 msgstr ""
+"\"Případ zmizelé kobylky, který je dílčím případem případu imaginárního hmyzu. Takže alespoň tohle jde dobře.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A5F"
 msgid "\"Of course. I'll leave that to you. You seem to have a *handle* on the phasmid-trap-insect situation.\""
 msgstr ""
+"\"Samozřejmě. To nechám na vás. Zdá se, že máte *přehled* o tom, jak to s těmi hmyzími-pastmi-na-strašilky a hmyzem chodí.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A42"
 msgid "\"Wait -- could this mean the Insulindian phasmid is nearby?\""
 msgstr ""
+"\"Počkejte - může to znamenat, že je poblíž inzulindická strašilka?\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017ADC"
 msgid "Heaps of leaves are rotting among the mud-cake towers. Dozens of little locusts feed on them, buzzing away with vicious joy. The kid in the yard has really outdone himself here."
 msgstr ""
+"Mezi věžemi z bláta hnijí hromady listí. Živí se jimi desítky malých kobylek, které bzučí se zlomyslnou radostí. Ten kluk na dvoře se tady opravdu překonal."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -122,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C1E"
 msgid "Like skyscrapers, spires of dirt and sand rising. Accommodations for their insectoid inhabitants?"
 msgstr ""
+"Jako mrakodrapy, věže z hlíny a písku. Ubytování pro jejich hmyzí obyvatele?"
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -129,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C40"
 msgid "\"Oh, I'm not being sarcastic *at all*. We are making *real* progress here.\""
 msgstr ""
+"\"Och, já nejsem *vůbec* sarkastický. Děláme tu skutečné pokroky.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -136,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C70"
 msgid "Use your powers of deduction! You knew the magic bug was nowhere near here. The phasmid is impairing your judgement."
 msgstr ""
+"Využij své dedukční schopnosti! Věděl jsi, že ten kouzelný brouk není nikde poblíž. Ta strašilka ti zhoršuje úsudek."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -143,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007CA3"
 msgid "It's an ode to self expression."
 msgstr ""
+"Je to óda na sebevyjádření."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -150,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C2B"
 msgid "\"Of the locusts. For the missing locust case, which is a sub-case of the imaginary insect case. So at least *that's* going well.\""
 msgstr ""
+"\"O kobylkách. Jméno pro případ zmizelých kobylek, který je podpřípadem případu imaginárního hmyzu. Takže alespoň tohle jde dobře.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -157,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C9C"
 msgid "Heaps of leaves are rotting among the mud-cake towers. Dozens of little locusts feed on them, buzzing away with vicious joy. Cuno has really outdone himself here."
 msgstr ""
+"Mezi věžemi z bláta hnijí hromady listí. Živí se jimi desítky malých kobylek, které bzučí se zlomyslnou radostí. Kuno se tu opravdu překonal."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -164,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007CCF"
 msgid "Sounds like you found the locusts, detective."
 msgstr ""
+"Zdá se, že jste našel ty kobylky, detektive."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -171,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A54"
 msgid "Use your powers of deduction! You knew the bug was nowhere near here. The phasmid is impairing your judgement."
 msgstr ""
+"Využij své dedukční schopnosti! Věděl jsi, že ten brouk není nikde poblíž. Ta strašilka ti zhoršuje úsudek."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C62"
 msgid "\"We should talk to Cuno about this. Get him to stop.\" [Leave.]"
 msgstr ""
+"\"Měli bychom si o tom promluvit s Kunem. Ať toho nechá.\" [Odejdi.]"
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -185,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C69"
 msgid "\"If anything, the presence of the locusts points to the opposite -- the phasmid did not take the bait from the traps. It was Cuno. The phasmid doesn't exist...\""
 msgstr ""
+"\"Pokud něco, přítomnost kobylek svědčí spíše o opaku - strašilka se na návnadu z pastí nechytla. Byl to Kuno. Strašilka neexistuje...\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -192,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A34"
 msgid "As you turn away, heaps of leaves are rotting among the mud-cake towers. Dozens of little locusts feed on them, buzzing away with vicious joy..."
 msgstr ""
+"Když se otočíš, mezi věžemi z bláta hnijí hromady listí. Živí se jimi desítky malých kobylek, které bzučí se zlomyslnou radostí..."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -199,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C32"
 msgid "\"Yes, precisely what I was thinking!\""
 msgstr ""
+"\"Ano, přesně to jsem si myslel!\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -206,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A3B"
 msgid "\"Yes. We need to tell Morell about this immediately.\""
 msgstr ""
+"\"Ano. Musíme o tom okamžitě říct Morellovi.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -213,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017A48"
 msgid "\"If anything, the presence of the locusts points to the *opposite* -- the phasmid did not take the bait from the traps.\""
 msgstr ""
+"\"Pokud něco, přítomnost kobylek svědčí spíše o opaku - strašilka se na návnadu z pastí nechytla.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -220,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C5C"
 msgid "\"You think the Insulindian phasmid is nearby?\""
 msgstr ""
+"\"Myslíte, že inzulindická strašilka je poblíž?\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -227,6 +265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007CAA"
 msgid "It's the work of a self-taught visionary."
 msgstr ""
+"Je to dílo vizionáře samouka."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -234,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007CDC"
 msgid "\"I'll let you handle the Cuno side of things. You're doing just fine.\""
 msgstr ""
+"\"Nechám vás, ať se postaráte o Kunovu stránku věci. Vedete si dobře.\""
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -241,6 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C18"
 msgid "All around you, the hisses and chirps of locusts fill the musky air. The earthen floor of the shack has been shaped into mounds of mud dotted with little holes for windows."
 msgstr ""
+"Všude kolem tebe se ozývá šustění a cvrkot kobylek, které naplňují vzduch pižmem. Hliněná podlaha chatrče je vytvarovaná do kopečků bláta posetých malými otvory pro okna."
 
 #. Title = SHACK ORB / locust city logic
 #. Description = Cuno must have taken the locusts from the trap. Get task to confront him.
@@ -248,3 +289,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200007C55"
 msgid "\"Yes.\" He nods. \"I feel we are nearing a *real* breakthrough.\""
 msgstr ""
+"\"Ano.\" Přikývne. \"Cítím, že se blížíme ke skutečnému průlomu.\""
