@@ -1,16 +1,17 @@
 # Skywolf <skywolf@email.cz>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Skywolf <skywolf@email.cz>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-05-28 19:11+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -26,7 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD72"
 msgid "The lead programmer sends you an encouraging thumbs up from across the hall."
 msgstr ""
-"Hlavní programátor ti přes chodbu ukazuje povzbudivý palec nahoru."
+"Hlavní programátorka ti přes místnost ukazuje povzbudivé palce nahoru."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -50,7 +51,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002C25"
 msgid "*And* your leg still hurts from the tribunal."
 msgstr ""
-"*A* ještě tě bolí noha od soudu."
+"*A* ještě tě bolí noha od tribunálu."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -82,7 +83,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000028A7"
 msgid "Time to run back! Or maybe walk, this *is* a sacred place after all..."
 msgstr ""
-"Je čas běžet zpátky! Nebo možná jít pěšky, tohle *je* koneckonců posvátné místo..."
+"Je čas běžet zpátky! Nebo možná kráčet, tohle *je* koneckonců posvátné místo..."
 
 #. Title = CHURCH / WATERBASINS
 #. Description = Waterbasin dialogue for solving the "Move the waterbasins" task.
@@ -106,4 +107,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CD2C"
 msgid "[Leave.]"
 msgstr ""
-"[Odejít.]"
+"[Odejdi.]"
