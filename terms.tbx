@@ -459,7 +459,7 @@
         </langSet>
       </termEntry>
       <termEntry id="centigrade">
-        <descrip type="definition">[aA] stupnice teploty</descrip>
+        <descrip type="definition">[OK] [aA] stupnice teploty</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>centigrade</term>
@@ -1461,7 +1461,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Human can-opener">
-        <descrip type="definition">[aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
+        <descrip type="definition">[OK] [aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Human can-opener</term>
@@ -2370,6 +2370,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Net Picker">
+        <descrip type="definition">[OK] [aA] [VYKAT] přezdívka Liliany</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Net Picker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Síťařka</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="New New World">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -2379,7 +2392,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Novonový svět</term>
+            <term>Nový Nový svět</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2592,7 +2605,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Pale latitude compressor">
-        <descrip type="definition">[aA] Asi jen u Ruby</descrip>
+        <descrip type="definition">[OK] [aA] Asi jen u Ruby (udělátko umožňující překonat bledomez -dr)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Pale latitude compressor</term>
@@ -3723,7 +3736,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Tommy le Homme">
-        <descrip type="definition">[aA] umělecké jméno</descrip>
+        <descrip type="definition">[OK] [aA] umělecké jméno</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Tommy le Homme</term>
