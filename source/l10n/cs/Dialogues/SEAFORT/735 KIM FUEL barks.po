@@ -1,8 +1,15 @@
+# phsquad <pepemikula@seznam.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad <pepemikula@seznam.cz>\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SEAFORT / KIM FUEL barks
 #. Description = Kim reacts to fuel empty if task is on w/ BARK
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E985"
 msgid "\"Fuel -- this should do the trick...\""
 msgstr ""
+"\"Palivo -- to by mělo pomoct...\""
 
 #. Title = SEAFORT / KIM FUEL barks
 #. Description = Kim reacts to fuel empty if task is on w/ BARK
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C4C1"
 msgid "\"Empty... Let's look elsewhere.\""
 msgstr ""
+"\"Prázdná... zkusme to jinde.\""
 
 #. Title = SEAFORT / KIM FUEL barks
 #. Description = Kim reacts to fuel empty if task is on w/ BARK
@@ -24,3 +33,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001DBCD"
 msgid "\"Bell boys...\""
 msgstr ""
+"\"Kluci s konvalinkami...\""
