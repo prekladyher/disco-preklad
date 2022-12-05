@@ -1,8 +1,15 @@
+# phsquad <pepemikula@seznam.cz>, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad <pepemikula@seznam.cz>\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -10,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007E00001A76"
 msgid "\"You're right. Let's get to it.\" [Leave.]"
 msgstr ""
+"\"Máš pravdu. Jdeme na to.\" [Odejdi.]"
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -17,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E19D"
 msgid "You climb into the boat and start the engine."
 msgstr ""
+"Vylezeš do lodi a nastartuješ motor."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -24,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E1BD"
 msgid "\"Are you sure? There's shit we need to do, sheriff...\" He looks at the ruined flak tower on the cliffside."
 msgstr ""
+"\"Jste si jistý? Támhle musíme udělat nějaký sračky, šerife...\" Podívá se na zničenou protiletadlovou věž na útesu."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -31,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E1DA"
 msgid "\"You're right. Let's get to it.\" [Leave.]"
 msgstr ""
+"\"Máš pravdu. Jdeme na to.\" [Odejdi.]"
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -38,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000F69D"
 msgid "The skiff is swaying on the waves by the dock."
 msgstr ""
+"Člun se pohupuje v docích na vlnách."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -45,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E1AA"
 msgid "\"Are you sure? There are things we still need to do here...\" He looks at the ruined flak tower on the cliffside."
 msgstr ""
+"\"Jste si jistý? Ještě pořád tady jsou věci, které musíme udělat...\" Podívá se na zničenou protiletadlovou věž na útesu."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -52,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E196"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E190"
 msgid "Return to the mainland."
 msgstr ""
+"Vrať se na pevninu."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -66,6 +81,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001E190"
 msgid "\"Let's return to the mainland.\""
 msgstr ""
+"Vraťme se na pevninu."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -73,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000041000001FE"
 msgid "The skiff rocks gently under your weight as you get in. The ride back is uneventful and quiet."
 msgstr ""
+"Člun se pod tvou váhou lehce zhoupne, když do něj nastoupíš. Cesta zpět je bezproblémová a tichá."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -80,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E1F9"
 msgid "\"Let's. We're done here,\" he says, adjusting his glasses as he looks out over the water."
 msgstr ""
+"\"Pojďme. Tady jsme skončili,\" říká, upravuje si brýle a dívá se přes vodu."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001E1FF"
 msgid "\"Oh yeah.\" He crosses his arms and nods to you with a self-satisfied smirk. \"We did good shit here, detective.\""
 msgstr ""
+"\"Ach jo.\" Překříží ruce a se samolibým úšklebkem ti přikývne. \"Dělali jsme tady dobré sračky, detektive.\""
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -94,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003116"
 msgid "Lieutenant Kitsuragi lies in the hospital, recovering. Barely. Are you really done here, he would ask you? Are you done with the investigation?"
 msgstr ""
+"Poručík Kitsuragi leží v nemocnici a zotavuje se. Stěží. Opravdu jsi tady skončil, zeptal by se tě? Už jste s tím vyšetřováním hotovi?"
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -101,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000311C"
 msgid "Yeah... I'm not. [Leave.]"
 msgstr ""
+"Jo... Já ne. [Odejdi.]"
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -108,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001D000002B5"
 msgid "You reach the jetty and climb out of the skiff."
 msgstr ""
+"Dorazíš k molu a vylezeš ze člunu."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -115,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004100000256"
 msgid "Two men and a woman stand on the concrete square of a nameless village, looking at a small yellow boat as it draws closer. The sea is calm."
 msgstr ""
+"Dva muži a jedna žena stojí na betonovém náměstí bezejmenné vesnice a dívají se na přibližující se žlutou loď. Moře je klidné."
 
 #. Title = SEAFORT / BOAT
 #. Description = You're gonna need to boat yourself back somehow after everything is done.
@@ -122,3 +145,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004100000240"
 msgid "But for the sound of conversation on the water. There is someone inland, waiting for you."
 msgstr ""
+"Kromě zvuků hovoru na vodě. Ve vnitrozemí někdo je, a čeká na tebe."
