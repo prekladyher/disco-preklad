@@ -342,7 +342,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Blue medicinal spirit">
-        <descrip type="definition">[aA] Surovina k výrobě kravatového molotova </descrip>
+        <descrip type="definition">[OK] [aA] Surovina k výrobě kravatového molotova a také silný alkohol</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Blue medicinal spirit</term>
@@ -350,7 +350,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>modrý lékařský špiritus</term>
+            <term>modrý medicinální líh</term>
           </tig>
         </langSet>
       </termEntry>
@@ -715,6 +715,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>poldotyp</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Cornelius Gurdi">
+        <descrip type="definition">[aA] postava z legend</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cornelius Gurdi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kornélius Gurdi</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1148,7 +1161,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Feld playback experiment">
-        <descrip type="definition">[aA] v budově Feldu, mluví o něm Trant</descrip>
+        <descrip type="definition">[OK] [aA] v budově Feldu, mluví o něm Trant</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Feld playback experiment</term>
@@ -2501,7 +2514,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="officer">
-        <descrip type="definition">[OK] [aA] oslovení hrdiny</descrip>
+        <descrip type="definition">[OK] [aA] oslovení hrdiny, pokud tak Kim osloví Harryho: Kim říká harrymu detective když je ok, strážníku (officer) když ne. Říká Policejní duch</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>officer</term>
@@ -2509,7 +2522,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>detektive</term>
+            <term>detektive, strážník (pokud tak Kim osloví Harryho)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2523,19 +2536,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Důstojník</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="officer">
-        <descrip type="definition">[OK] [aA] pokud tak Kim osloví Harryho: Kim říká harrymu detective když je ok, strážníku (officer) když ne. Říká Policejní duch</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>officer</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>strážník (pokud tak Kim osloví Harryho)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3589,6 +3589,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Sylvie Malajková</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Tabernacle Road">
+        <descrip type="definition">[OK] [aA] ulice v Šprajclu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tabernacle Road</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Tabernáklová ulice</term>
           </tig>
         </langSet>
       </termEntry>
