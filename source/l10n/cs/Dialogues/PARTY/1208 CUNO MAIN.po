@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001684A"
 msgid "\"We can take another look in the mini-tower, where the bed was.\" He sniffs. \"Let's check out where he shot my gimp. Ballistics shit. You should know that, pig.\""
 msgstr ""
+"\"Můžem se znova podívat na tu mini-věž, kde je postel.\" Popotáhne nosem.\"Poďme se kouknout, kde střelili mýho pazgřivce. Balistika a takový hovna. Měl bys to znát, vepři.\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -18,6 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008D90"
 msgid "The kid is admitting falsehood, sire. He just doesn't know."
 msgstr ""
+"Dítě přiznává lež, sire. On prostě neví."
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -26,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200005575"
 msgid "Does he have a little *crush* on Lilienne?"
 msgstr ""
+"Není trochu zakoukaný do Liliany?"
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -34,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000540F"
 msgid "\"There seems to be a seafort in the bay. Do you know anything about it?\""
 msgstr ""
+"\"Vypadá to, že v zátoce je námořní pevnost. Nevíš o ní něco?\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -42,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000542D"
 msgid "\"Well, I have been partying a lot lately...\""
 msgstr ""
+"\"No, poslední dobou jsem hodně pařil...\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -49,6 +62,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200005465"
 msgid "\"Sure thing, pig.\" He nods. \"What now?\""
 msgstr ""
+"\"Jasňačka, vepři.\" Pokývne. \"Co teď?\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -56,6 +70,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000055A0"
 msgid "\"Goddamnit...\" He looks down, shaking his head. \"Cuno can't believe you're making up shit about him. This needs to stop.\""
 msgstr ""
+"\"Ksakru...\" Pohlédne dolů a potřese hlavou. \"Kuno nemůže věřit, že si o něm vymejšlíš sračky. Tohle musí skončit.\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -64,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000055C4"
 msgid "\"You ever been inside the ruined building?\""
 msgstr ""
+"\"Byls někdy uvnitř té zříceniny?\" "
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -72,6 +88,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200005603"
 msgid "\"Except what?\""
 msgstr ""
+"\"Kromě čeho?\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -79,6 +96,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000994C"
 msgid "\"Cuno doesn't want to talk about this shit.\" There is a moment of thoughtful silence. He almost looks behind him."
 msgstr ""
+"\"Kuno nechce mluvit o těchto sračkách.\" Následuje chvíle zamyšleného mlčení. Téměř se ohlédne za sebe."
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -87,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003ABB"
 msgid "\"Do you think he did it?\""
 msgstr ""
+"\"Myslíš, že to udělal?\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -95,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003AC5"
 msgid "\"How do you think the questioning is going?\""
 msgstr ""
+"\"Jak si myslíš, že pokračuje výslech?\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -103,6 +123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008CD6"
 msgid "\"So who's side are you on?\""
 msgstr ""
+"\"Takže na čí straně jsi?\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -110,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200003F43"
 msgid "\"A fucking giant stick insect...\""
 msgstr ""
+"\"Zasraně obří strašilka...\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -117,6 +139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200005439"
 msgid "\"You gotta hit *Magnesolam*, when you get off the train, pig. I always hit it to get the mag back.\""
 msgstr ""
+"\"Musíš žrát *Magnesolam*, když končíš s matrošem, vepři. Já si vždycky lupnu, abych se opět namagoval.\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -124,6 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000054CB"
 msgid "\"You know... break shit, throw shit into the sea, throw shit into the windows, throw shit at the seagulls.\""
 msgstr ""
+"\"Však víš... rozbíjet sračky, házet sračky do moře, házet sračky do oken, házet sračky na racky.\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
@@ -131,6 +155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200005541"
 msgid "\"You bet, pig!\" He appreciates your validation. \"Cuno lives the life to the max. Lives every day to the mega. Cuno's in the *moment* like that.\""
 msgstr ""
+"\""
 
 #. Title = PARTY / CUNO MAIN
 #. Description = CUNO'S main hub inside whirling and on the island. It's like KIM MAIN
