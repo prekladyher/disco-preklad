@@ -1,5 +1,5 @@
-import { promises as fs } from "fs";
 import { program } from "commander";
+import { promises as fs } from "fs";
 import { decodeAsset } from "./game/main.js";
 
 const INSPECT_OPTS = {
@@ -17,7 +17,7 @@ program
 
 program.command("read")
   .description("Extract Unity script data into JSON model")
-  .argument("<type>", "asset data type ('LanguageSourceAsset' or 'DialogueDatabase'")
+  .argument("<type>", "asset data type ('LanguageSourceAsset' or 'DialogueDatabase')")
   .argument("<file>", "script data file")
   .option("-p, --path <path>", "JSON path transform (e.g. '$.mSource.mTerms[*].Term')")
   .option("-d, --depth <depth>", "inspection path depth")
