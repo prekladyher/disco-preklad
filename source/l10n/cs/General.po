@@ -2261,9 +2261,10 @@ msgid "Classic"
 msgstr ""
 "Klasický"
 
+#, fuzzy
 msgctxt "LEGAL_TEXT_PC"
 msgid ""
-"Disco Elysium © 2019-2021 Published by Zaum Studio OU.\n"
+"Disco Elysium © 2019-2022 Published by Zaum Studio OU.\n"
 "DISCO ELYSIUM is a registered trade mark of Zaum Studio OU.\n"
 "All rights reserved."
 msgstr ""
@@ -2271,9 +2272,10 @@ msgstr ""
 "DISCO ELYSIUM je registrovaná ochranná známka Studia Zaum OU.\n"
 "Všechna práva vyhrazena."
 
+#, fuzzy
 msgctxt "LEGAL_TEXT_CONSOLES"
 msgid ""
-"Disco Elysium © 2019-2021 Published by Disco Elysium UK Limited.\n"
+"Disco Elysium © 2019-2022 Published by Disco Elysium UK Limited.\n"
 "DISCO ELYSIUM is a registered trade mark of Zaum Studio OU.\n"
 "All rights reserved."
 msgstr ""
@@ -10737,9 +10739,9 @@ msgid ""
 "\n"
 "AUTHORITY  (PSYCHE) red check"
 msgstr ""
-"Setkej se s dezertérem se zbraní v ruce u vyhaslého ohně. \n "
-"\n "
-"AUTORITA (PSYCH) červená kontrola"
+"Setkej se s dezertérem se zbraní v ruce u vyhaslého ohně. \n"
+" \n"
+" AUTORITA (PSYCH) červená kontrola"
 
 msgctxt "Conversation/0x010000450001DBD6/Title"
 msgid "SEAFORT / THE DESERTER"
@@ -12027,13 +12029,15 @@ msgid ""
 "\n"
 "Global afterthought, electrochem pops up"
 msgstr ""
-"2 lahve speedu na stole, na očích. V láhvi je brčko. Nekvalitní speed pro kamioňáky. Drogy mají náplně, tohle je nízká náplň. Bonus 0 k vašemu elektrochemickému základu-počítadlu, kolikrát můžete drogu použít.\n "
-"\n "
-"NAJDI SPEED skončí, když kliknete na stůl. Zatímco si bereš tuhle sračku, Kim už kontroluje vedlejší místnost. Kitsuragiho láska klesne, když si vezmeš drogy.\n "
-"\n "
-"Diagram tabulky se spustí, když si vezmeš drogy.\n \n Dialog o návyku-inicializaci. Elektrochem ti řekne, že výbuch je už v tomto dialogu. Zeptej se Arga (na vytáčení iniciace cigaret). Měl by tě také naučit, abys ji vložil do přihrádky na vyčkávání. \n "
-"\n "
-"Globální zamyšlení, objeví se elektrochemie."
+"2 lahve speedu na stole, na očích. V láhvi je brčko. Nekvalitní speed pro kamioňáky. Drogy mají náplně, tohle je nízká náplň. Bonus 0 k vašemu elektrochemickému základu-počítadlu, kolikrát můžete drogu použít.\n"
+" \n"
+" NAJDI SPEED skončí, když kliknete na stůl. Zatímco si bereš tuhle sračku, Kim už kontroluje vedlejší místnost. Kitsuragiho láska klesne, když si vezmeš drogy.\n"
+" \n"
+" Diagram tabulky se spustí, když si vezmeš drogy.\n"
+" \n"
+" Dialog o návyku-inicializaci. Elektrochem ti řekne, že výbuch je už v tomto dialogu. Zeptej se Arga (na vytáčení iniciace cigaret). Měl by tě také naučit, abys ji vložil do přihrádky na vyčkávání. \n"
+" \n"
+" Globální zamyšlení, objeví se elektrochemie."
 
 msgctxt "Conversation/0x010000570001D9C3/Title"
 msgid "APT / WRITING DESK IN CUNO'S APT"
@@ -18557,8 +18561,7 @@ msgstr ""
 msgctxt "Thoughts/boring_cop/Description"
 msgid "Okay, so it looks like you've got a bit of the Normal in you. A touch of the Regular. Four grams of Johnny Normalcop. Who would've thunk it? You, the extremest of all the cops! You said some pretty boring things back there and now you have two choices: you can either leave it behind and forget about it, or you can try to utilize your normalcy. Internalize it. Get a touch of vanilla back into the herring-flavoured egg and liquorice ice cream of your mind."
 msgstr ""
-"Dobře, takže to vypadá, že v sobě máš kousek normálního člověka. Trochu obyčejného člověka. Čtyři gramy Honzy Normalpoldy. Kdo by to byl řekl? Ty, ten nejextrémnější ze všech policajtů! Řekl jsi tam pár pěkně nudných věcí a teď máš dvě možnosti: buď to můžeš hodit za hlavu a zapomenout na to, nebo se můžeš pokusit využít svou normálnost. Přijmi to. "
-"Vpusťte do vaječné a lékořicové zmrzliny své mysli s příchutí slanečků opět trochu vanilky."
+"Dobře, takže to vypadá, že v sobě máš kousek normálního člověka. Trochu obyčejného člověka. Čtyři gramy Honzy Normalpoldy. Kdo by to byl řekl? Ty, ten nejextrémnější ze všech policajtů! Řekl jsi tam pár pěkně nudných věcí a teď máš dvě možnosti: buď to můžeš hodit za hlavu a zapomenout na to, nebo se můžeš pokusit využít svou normálnost. Přijmi to. Vpusťte do vaječné a lékořicové zmrzliny své mysli s příchutí slanečků opět trochu vanilky."
 
 msgctxt "Thoughts/boring_cop/DisplayName"
 msgid "Regular Law Official"
@@ -26270,3 +26273,1438 @@ msgctxt "KIM_REMOVING_PISSJACKET_BARK"
 msgid "\"That's it, I'm done.\""
 msgstr ""
 "\"To je vše, končím.\""
+
+msgctxt "SETTINGS_DYSLEXIC_FONT"
+msgid "Dyslexic font"
+msgstr ""
+
+msgctxt "SETTINGS_DYSLEXIC_FONT_DESCRIPTION"
+msgid ""
+"Make reading easier for those with dyslexia.\n"
+"Unavailable in Chinese."
+msgstr ""
+
+msgctxt "Conversation/1owioef_a1f7_r3z/Description"
+msgid "'The Mullen Principle ll: Mullen Protocols'"
+msgstr ""
+
+msgctxt "Conversation/1owioef_a1f7_r3z/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 17"
+msgstr ""
+
+msgctxt "Conversation/2fscvv4gv00t36c1/Description"
+msgid "'Mad for Mullen'"
+msgstr ""
+
+msgctxt "Conversation/2fscvv4gv00t36c1/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 10"
+msgstr ""
+
+msgctxt "Conversation/2hhisinsfuqmo2cl/Title"
+msgid "Arx - EasterEggs / Flow – The Arctic Swimmer"
+msgstr ""
+
+msgctxt "Conversation/36x7mfhisch4rywj/Description"
+msgid "'Most of Mullen'"
+msgstr ""
+
+msgctxt "Conversation/36x7mfhisch4rywj/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 4"
+msgstr ""
+
+msgctxt "Conversation/3fjmevd3vzw9pd6h/Description"
+msgid "Looks like everybody wants a piece of Mullen."
+msgstr ""
+
+msgctxt "Conversation/3fjmevd3vzw9pd6h/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 6"
+msgstr ""
+
+msgctxt "Conversation/42pl69hyqhsp57ug/Description"
+msgid "'Mullen and Me'"
+msgstr ""
+
+msgctxt "Conversation/42pl69hyqhsp57ug/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 8"
+msgstr ""
+
+msgctxt "Conversation/4ljzgleuajya6778/Description"
+msgid "The bigger they are, the less they like me."
+msgstr ""
+
+msgctxt "Conversation/4ljzgleuajya6778/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 11"
+msgstr ""
+
+msgctxt "Conversation/502bvmemn52bphf7/Title"
+msgid "Arx - EasterEggs / Modus Mullen / INITIATING MODUS: MULLEN"
+msgstr ""
+
+msgctxt "Conversation/665d3ehpu9els82p/Description"
+msgid "Back alley -- seen one, seen 'em all."
+msgstr ""
+
+msgctxt "Conversation/665d3ehpu9els82p/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 8"
+msgstr ""
+
+msgctxt "Conversation/6d2wd74z2uoqgyzs/Description"
+msgid "'Get Mullen'"
+msgstr ""
+
+msgctxt "Conversation/6d2wd74z2uoqgyzs/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 9"
+msgstr ""
+
+msgctxt "Conversation/6iqenb1kdv7mbncb/Description"
+msgid "Hard questions -- the only ones worth asking."
+msgstr ""
+
+msgctxt "Conversation/6iqenb1kdv7mbncb/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 7"
+msgstr ""
+
+msgctxt "Conversation/6kvjqj7c991_9bax/Description"
+msgid "'Doctrine: Mullen'"
+msgstr ""
+
+msgctxt "Conversation/6kvjqj7c991_9bax/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 13"
+msgstr ""
+
+msgctxt "Conversation/6yc7a_9akjpfbint/Description"
+msgid "The darker the pit, the dirtier the secret."
+msgstr ""
+
+msgctxt "Conversation/6yc7a_9akjpfbint/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 14"
+msgstr ""
+
+msgctxt "Conversation/7s_3jp99z5jc1snv/Description"
+msgid "'Signed: Mullen'"
+msgstr ""
+
+msgctxt "Conversation/7s_3jp99z5jc1snv/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 20"
+msgstr ""
+
+msgctxt "Conversation/7x32n2qyu34lc_pg/Description"
+msgid "'Made in Mullen'"
+msgstr ""
+
+msgctxt "Conversation/7x32n2qyu34lc_pg/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 15"
+msgstr ""
+
+msgctxt "Conversation/81xu3f8m32g0zznt/Description"
+msgid "'Must be Mullen'"
+msgstr ""
+
+msgctxt "Conversation/81xu3f8m32g0zznt/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 7"
+msgstr ""
+
+msgctxt "Conversation/8aa61rgetc_6mhm7/Description"
+msgid "'Molding Mullen'"
+msgstr ""
+
+msgctxt "Conversation/8aa61rgetc_6mhm7/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 16"
+msgstr ""
+
+msgctxt "Conversation/95bs_mroj6c8j54_/Description"
+msgid "Looks like god left without checking out first."
+msgstr ""
+
+msgctxt "Conversation/95bs_mroj6c8j54_/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 6"
+msgstr ""
+
+msgctxt "Conversation/_tmmrhn0fyuu915p/Description"
+msgid "Perfect spot to stage your own death."
+msgstr ""
+
+msgctxt "Conversation/_tmmrhn0fyuu915p/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 1"
+msgstr ""
+
+msgctxt "Conversation/a3mxsliw4a9unzni/Title"
+msgid "Helen - EasterEggs"
+msgstr ""
+
+msgctxt "Conversation/bm8rnttaaocx7nj5/Description"
+msgid "Viscal intro after WCW quest taken"
+msgstr ""
+
+msgctxt "Conversation/bm8rnttaaocx7nj5/Title"
+msgid "Helen - EasterEggs / Pleasure Wheel / Flow – APT ORB / viscal pleasure wheel intro"
+msgstr ""
+
+msgctxt "Conversation/c8nw3o44xcifq7sb/Description"
+msgid "Guess whose stock just went through the roof."
+msgstr ""
+
+msgctxt "Conversation/c8nw3o44xcifq7sb/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 15"
+msgstr ""
+
+msgctxt "Conversation/cr7gydsmhi83dqpk/Description"
+msgid "'The Mullen Principle'"
+msgstr ""
+
+msgctxt "Conversation/cr7gydsmhi83dqpk/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 14"
+msgstr ""
+
+msgctxt "Conversation/d2za_xkbn500pc0l/Description"
+msgid "Broads and boats -- a dangerous combination."
+msgstr ""
+
+msgctxt "Conversation/d2za_xkbn500pc0l/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 16"
+msgstr ""
+
+msgctxt "Conversation/d_l28qgxqyac1wbq/Description"
+msgid "Pleasure Wheel viscal on the boardwalk"
+msgstr ""
+
+msgctxt "Conversation/d_l28qgxqyac1wbq/Title"
+msgid "Helen - EasterEggs / Pleasure Wheel / Flow – BOARDWALK ORB / viscal pleasure wheel"
+msgstr ""
+
+msgctxt "Conversation/dbeqonynymkbzqy3/Description"
+msgid "You step in shit, some's bound to stick to your shoe."
+msgstr ""
+
+msgctxt "Conversation/dbeqonynymkbzqy3/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 3"
+msgstr ""
+
+msgctxt "Conversation/dowywkzx260ow_dp/Description"
+msgid "Viscal intro after WCW quest not taken"
+msgstr ""
+
+msgctxt "Conversation/dowywkzx260ow_dp/Title"
+msgid "Helen - EasterEggs / Pleasure Wheel / Flow – PLAZA ORB / viscal pleasure wheel intro"
+msgstr ""
+
+msgctxt "Conversation/duxnjvijmlyb5yqy/Title"
+msgid "Flow – PLAZA / SUGGESTION JACKET EPIC / Flow – EPIC SUGGESTION"
+msgstr ""
+
+msgctxt "Conversation/e6hfoi72yjhb3add/Description"
+msgid "End of the road, Mullen. That's your stop."
+msgstr ""
+
+msgctxt "Conversation/e6hfoi72yjhb3add/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 10"
+msgstr ""
+
+msgctxt "Conversation/f4un7d7th9lbdh7h/Description"
+msgid "'Mullen Mullen'"
+msgstr ""
+
+msgctxt "Conversation/f4un7d7th9lbdh7h/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 2"
+msgstr ""
+
+msgctxt "Conversation/fgvreos8u5aa7l99/Title"
+msgid "Helen - EasterEggs / Flow – Seagull attack / Flow – COAST / Kim seagull bark"
+msgstr ""
+
+msgctxt "Conversation/glpdopudar81ctwu/Description"
+msgid "Mullen didn't need that shit. The shit came looking for him."
+msgstr ""
+
+msgctxt "Conversation/glpdopudar81ctwu/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 4"
+msgstr ""
+
+msgctxt "Conversation/gul3vfl3f8h71404/Title"
+msgid "Helen - EasterEggs / Something washes ashore / Flow – COAST ORB / electrochem leotard"
+msgstr ""
+
+msgctxt "Conversation/h3jetydxv8_rz53r/Title"
+msgid "Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation"
+msgstr ""
+
+msgctxt "Conversation/ir5yseww5d_l0jqt/Description"
+msgid "Another day, another case, thought Mullen, looking at the downpour."
+msgstr ""
+
+msgctxt "Conversation/ir5yseww5d_l0jqt/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 1"
+msgstr ""
+
+msgctxt "Conversation/j3u709cxs65u5uk7/Title"
+msgid "WHIRLING F3 / GURDIS GOATS"
+msgstr ""
+
+msgctxt "Conversation/jzrqyb9_wsb2gvzt/Description"
+msgid "'Make it Mullen'"
+msgstr ""
+
+msgctxt "Conversation/jzrqyb9_wsb2gvzt/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 3"
+msgstr ""
+
+msgctxt "Conversation/ked0at61poau8qp7/Title"
+msgid "Helen - EasterEggs / Something washes ashore"
+msgstr ""
+
+msgctxt "Conversation/ml5rqlkn7q2ut_jo/Description"
+msgid "'Richard Mullen: Truth Will Suffice'"
+msgstr ""
+
+msgctxt "Conversation/ml5rqlkn7q2ut_jo/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 6"
+msgstr ""
+
+msgctxt "Conversation/msvoc9p2om0fbq1j/Description"
+msgid "The streets -- you either get them or you're dead."
+msgstr ""
+
+msgctxt "Conversation/msvoc9p2om0fbq1j/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 8"
+msgstr ""
+
+msgctxt "Conversation/mxhcaqfsq1oprtfd/Description"
+msgid "The crime and the sin, humans living like rats."
+msgstr ""
+
+msgctxt "Conversation/mxhcaqfsq1oprtfd/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 17"
+msgstr ""
+
+msgctxt "Conversation/napofx5lsn6_q3m5/Title"
+msgid "Flow – PLAZA / SUGGESTION JACKET EPIC"
+msgstr ""
+
+msgctxt "Conversation/ncf3m52vxqrgczyv/Description"
+msgid "These murky depths seem inviting for all the wrong reasons."
+msgstr ""
+
+msgctxt "Conversation/ncf3m52vxqrgczyv/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 2"
+msgstr ""
+
+msgctxt "Conversation/nifs9w87mw1lbn72/Description"
+msgid "Someone found love. Poor bastard."
+msgstr ""
+
+msgctxt "Conversation/nifs9w87mw1lbn72/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 3"
+msgstr ""
+
+msgctxt "Conversation/nvak7wmwy2gs76zs/Title"
+msgid "Helen - EasterEggs / Pleasure Wheel"
+msgstr ""
+
+msgctxt "Conversation/nxfx0bz64tnk0023/Description"
+msgid "'Dick Mullen and the Mullenmen'"
+msgstr ""
+
+msgctxt "Conversation/nxfx0bz64tnk0023/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 11"
+msgstr ""
+
+msgctxt "Conversation/o05fserbpyxd1txp/Description"
+msgid "Rest assured, dead man. We *will* get to the bottom of this."
+msgstr ""
+
+msgctxt "Conversation/o05fserbpyxd1txp/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 4"
+msgstr ""
+
+msgctxt "Conversation/o99haovb48zzquel/Description"
+msgid "'More than Mullen'"
+msgstr ""
+
+msgctxt "Conversation/o99haovb48zzquel/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 5"
+msgstr ""
+
+msgctxt "Conversation/oex1xvkb3meq9e1g/Description"
+msgid "Shit Creek. Perfect metaphor for life in the bad part of town."
+msgstr ""
+
+msgctxt "Conversation/oex1xvkb3meq9e1g/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 10"
+msgstr ""
+
+msgctxt "Conversation/os3yrtfldlaoc9c6/Description"
+msgid "Shitty as the lives of folks living here."
+msgstr ""
+
+msgctxt "Conversation/os3yrtfldlaoc9c6/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 12"
+msgstr ""
+
+msgctxt "Conversation/ov8pa82yo2rd7rk0/Description"
+msgid "This canal must have seen a stiff or two float by."
+msgstr ""
+
+msgctxt "Conversation/ov8pa82yo2rd7rk0/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 13"
+msgstr ""
+
+msgctxt "Conversation/qxdv0ok20ker8i1b/Description"
+msgid "Snitches aren't born, they're made."
+msgstr ""
+
+msgctxt "Conversation/qxdv0ok20ker8i1b/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 9"
+msgstr ""
+
+msgctxt "Conversation/qxh484q5b1fog9pz/Title"
+msgid "Arx - EasterEggs"
+msgstr ""
+
+msgctxt "Conversation/saml4e4f61x6fdn5/Description"
+msgid "'A Modicum of Mullen'"
+msgstr ""
+
+msgctxt "Conversation/saml4e4f61x6fdn5/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 19"
+msgstr ""
+
+msgctxt "Conversation/sklx_vq500o2jdjt/Description"
+msgid "'Mullen Gets Made'"
+msgstr ""
+
+msgctxt "Conversation/sklx_vq500o2jdjt/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 18"
+msgstr ""
+
+msgctxt "Conversation/t7adn9n_ncxkfhn2/Description"
+msgid "The message is clear... this is the only warning you'll get."
+msgstr ""
+
+msgctxt "Conversation/t7adn9n_ncxkfhn2/Title"
+msgid "Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / inland seagull reaction"
+msgstr ""
+
+msgctxt "Conversation/tlplyd4g31ebe5i8/Title"
+msgid "Disco Elysium: Final Cut Expansion"
+msgstr ""
+
+msgctxt "Conversation/ty6w7yinx7bp592x/Description"
+msgid "'Molding Mullen'"
+msgstr ""
+
+msgctxt "Conversation/ty6w7yinx7bp592x/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 12"
+msgstr ""
+
+msgctxt "Conversation/u3q43fgfrksxw_y3/Title"
+msgid "Helen - EasterEggs / Something washes ashore / Flow – INVENTORY / LEOPARD-PATTERNED BODYSUIT"
+msgstr ""
+
+msgctxt "Conversation/u7mwj8_pluk9c6ao/Description"
+msgid "Man could settle here, raise a family. Not Mullen. Another man."
+msgstr ""
+
+msgctxt "Conversation/u7mwj8_pluk9c6ao/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 7"
+msgstr ""
+
+msgctxt "Conversation/ufv1gqzah7pshmrn/Description"
+msgid "Time to ask questions no one wants asked."
+msgstr ""
+
+msgctxt "Conversation/ufv1gqzah7pshmrn/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 2"
+msgstr ""
+
+msgctxt "Conversation/w5yudhr4ndcj9_pi/Title"
+msgid "Arx - EasterEggs / Modus Mullen"
+msgstr ""
+
+msgctxt "Conversation/xavdtiggxxcxifj4/Description"
+msgid "'Mullen me This'"
+msgstr ""
+
+msgctxt "Conversation/xavdtiggxxcxifj4/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / bookstore 1"
+msgstr ""
+
+msgctxt "Conversation/xuzw4rzewyw09x1o/Title"
+msgid "Helen - EasterEggs / Flow – Seagull attack"
+msgstr ""
+
+msgctxt "Conversation/xvkfl0rigq7or04o/Description"
+msgid "A violent life, ended violently."
+msgstr ""
+
+msgctxt "Conversation/xvkfl0rigq7or04o/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 5"
+msgstr ""
+
+msgctxt "Conversation/yebcgvhqut8t5yd4/Description"
+msgid "Men get arrested, dogs get put down."
+msgstr ""
+
+msgctxt "Conversation/yebcgvhqut8t5yd4/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / universal 5"
+msgstr ""
+
+msgctxt "Conversation/zq36uckabuyqrblk/Description"
+msgid "Knocking on Kim's door."
+msgstr ""
+
+msgctxt "Conversation/zq36uckabuyqrblk/Title"
+msgid "Helen - EasterEggs / Flow – WHIRLING / KIM DOOR"
+msgstr ""
+
+msgctxt "Conversation/zv3l2lyufngfp6rw/Description"
+msgid "*Wild* Pines? thought Mullen. We'll see about that."
+msgstr ""
+
+msgctxt "Conversation/zv3l2lyufngfp6rw/Title"
+msgid "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 9"
+msgstr ""
+
+msgctxt "Actors/0x010000580002068B/Name"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "Actors/2s1_ecylh9phmmlw/Name"
+msgid "Cornelius Gurdi and the Mountain Goats"
+msgstr ""
+
+msgctxt "Actors/i2638p11kdb5l22a/Name"
+msgid "Ice-swimmer"
+msgstr ""
+
+msgctxt "Actors/l_g3lf0sent68y1i/Name"
+msgid "Seagull"
+msgstr ""
+
+msgctxt "Actors/s3d41lujkckucung/Name"
+msgid "Leopard-patterned bodysuit"
+msgstr ""
+
+msgctxt "Credits/credits/LEAD_WRITER_LEAD_DESIGNER"
+msgid "LEAD WRITER, LEAD DESIGNER"
+msgstr ""
+
+msgctxt "Credits/credits/ART_DIRECTOR_DESIGNER"
+msgid "ART DIRECTOR, DESIGNER"
+msgstr ""
+
+msgctxt "Credits/credits/EXECUTIVE_PRODUCER"
+msgid "EXECUTIVE PRODUCER"
+msgstr ""
+
+msgctxt "Credits/credits/WRITTEN_BY"
+msgid "WRITTEN BY"
+msgstr ""
+
+msgctxt "Credits/credits/EDITING_BY"
+msgid "EDITING BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_WRITING_BY"
+msgid "ADDITIONAL WRITING BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_PRINCIPAL_WRITER_LEAD_EDITOR"
+msgid "FINAL CUT PRINCIPAL WRITER, LEAD EDITOR"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_LEAD_WRITER"
+msgid "FINAL CUT LEAD WRITER"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_WRITTEN_BY"
+msgid "FINAL CUT WRITTEN BY"
+msgstr ""
+
+msgctxt "Credits/credits/ART_BY"
+msgid "ART BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_ART_BY"
+msgid "ADDITIONAL ART BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_ADDITIONAL_ART_BY"
+msgid "FINAL CUT ADDITIONAL ART BY"
+msgstr ""
+
+msgctxt "Credits/credits/DEVELOPED_BY"
+msgid "DEVELOPED BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_DEVELOPMENT_BY"
+msgid "ADDITIONAL DEVELOPMENT BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_DEVELOPMENT_BY_THE_KNIGHTS_OF_UNITY"
+msgid "ADDITIONAL DEVELOPMENT BY THE KNIGHTS OF UNITY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_DEVELOPED_BY"
+msgid "FINAL CUT DEVELOPED BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_DEVELOPMENT_TOOLS"
+msgid "FINAL CUT DEVELOPMENT TOOLS"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_UX_DESIGN_BY"
+msgid "FINAL CUT UX DESIGN BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_ADDITIONAL_DEVELOPMENT_BY_AMPLIFY_CREATIONS"
+msgid "FINAL CUT ADDITIONAL DEVELOPMENT BY AMPLIFY CREATIONS"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_ADDITIONAL_DEVELOPMENT_BY_THE_KNIGHTS_OF_UNITY"
+msgid "FINAL CUT ADDITIONAL DEVELOPMENT BY THE KNIGHTS OF UNITY"
+msgstr ""
+
+msgctxt "Credits/credits/ANIMATION_BY"
+msgid "ANIMATION BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_ANIMATION_BY"
+msgid "ADDITIONAL ANIMATION BY"
+msgstr ""
+
+msgctxt "Credits/credits/PRODUCED_BY"
+msgid "PRODUCED BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_PRODUCED_BY"
+msgid "FINAL CUT PRODUCED BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_INFORMATION_MANAGER"
+msgid "FINAL CUT INFORMATION MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/QUALITY_ASSURANCE"
+msgid "QUALITY ASSURANCE"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_QUALITY_ASSURANCE_BY_WHYTTEST"
+msgid "ADDITIONAL QUALITY ASSURANCE BY WHYTTEST"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_QA_PROJECT_LEAD"
+msgid "FINAL CUT QA PROJECT LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_QA_TESTERS"
+msgid "FINAL CUT QA TESTERS"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_COMPLIANCE"
+msgid "FINAL CUT COMPLIANCE"
+msgstr ""
+
+msgctxt "Credits/credits/PUBLISHING_BY"
+msgid "PUBLISHING BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_FINAL_CUT_PUBLISHING_BY"
+msgid "ADDITIONAL FINAL CUT PUBLISHING BY"
+msgstr ""
+
+msgctxt "Credits/credits/MERCHANDISE_PRODUCER"
+msgid "MERCHANDISE PRODUCER"
+msgstr ""
+
+msgctxt "Credits/credits/GRAPHIC_DESIGNER"
+msgid "GRAPHIC DESIGNER"
+msgstr ""
+
+msgctxt "Credits/credits/COMMUNITY_MANAGERS"
+msgid "COMMUNITY MANAGERS"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_COMMUNITY_MANAGERS"
+msgid "FINAL CUT COMMUNITY MANAGERS"
+msgstr ""
+
+msgctxt "Credits/credits/SOUND_DESIGN_BY"
+msgid "SOUND DESIGN BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_SOUND_DESIGN_BY"
+msgid "FINAL CUT SOUND DESIGN BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_ADDITIONAL_SOUND_DESIGN"
+msgid "FINAL CUT ADDITIONAL SOUND DESIGN"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_DIALOGUE_AUDIO_ENGINEERS"
+msgid "FINAL CUT DIALOGUE AUDIO ENGINEERS"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_ADDITIONAL_AUDIO_ENGINEERS"
+msgid "FINAL CUT ADDITIONAL AUDIO ENGINEERS"
+msgstr ""
+
+msgctxt "Credits/credits/MUSIC_BY_BRITISH_SEA_POWER"
+msgid "MUSIC BY BRITISH SEA POWER"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_MUSIC"
+msgid "ADDITIONAL MUSIC"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_OVER_DIRECTION_BY"
+msgid "VOICE OVER DIRECTION BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_LEAD_VOICE_OVER_DIRECTOR"
+msgid "FINAL CUT LEAD VOICE OVER DIRECTOR"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_VOICE_OVER_DIRECTION_BY"
+msgid "FINAL CUT VOICE OVER DIRECTION BY"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTORS_CASTING"
+msgid "VOICE ACTORS CASTING"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTING_BY"
+msgid "VOICE ACTING BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_VOICE_ACTING_BY"
+msgid "FINAL CUT VOICE ACTING BY"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_PUBLISHING_BY_WHISPERGAMES"
+msgid "ADDITIONAL PUBLISHING BY WHISPERGAMES:"
+msgstr ""
+
+msgctxt "Credits/credits/CEO"
+msgid "CEO"
+msgstr ""
+
+msgctxt "Credits/credits/CTO"
+msgid "CTO"
+msgstr ""
+
+msgctxt "Credits/credits/CHINESE_LOCALIZATION_PROJECT_LEAD"
+msgid "CHINESE LOCALIZATION PROJECT LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/CHINESE_LOCALIZATION_LEAD_TRANSLATOR"
+msgid "CHINESE LOCALIZATION LEAD TRANSLATOR"
+msgstr ""
+
+msgctxt "Credits/credits/TRANSLATED_BY"
+msgid "TRANSLATED BY"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_TRANSLATED_BY"
+msgid "FINAL CUT TRANSLATED BY"
+msgstr ""
+
+msgctxt "Credits/credits/G-FUSION_GUANZHOU_2018_DEMO_TRANSLATORS"
+msgid "G-FUSION GUANZHOU 2018 DEMO TRANSLATORS"
+msgstr ""
+
+msgctxt "Credits/credits/LEAD_PROOFREADER"
+msgid "LEAD PROOFREADER"
+msgstr ""
+
+msgctxt "Credits/credits/PROOFREADERS"
+msgid "PROOFREADERS"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_LEAD"
+msgid "LQA LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_COORDINATORS"
+msgid "LQA COORDINATORS"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_TESTERS"
+msgid "LQA TESTERS"
+msgstr ""
+
+msgctxt "Credits/credits/CHINESE_COMMUNITY_MANAGER"
+msgid "CHINESE COMMUNITY MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/CHINESE_COMMUNITY_COORDINATORS"
+msgid "CHINESE COMMUNITY COORDINATORS"
+msgstr ""
+
+msgctxt "Credits/credits/HEAD_OF_MARKETING_&_PR"
+msgid "HEAD OF MARKETING & PR"
+msgstr ""
+
+msgctxt "Credits/credits/MARKETING_MANAGER"
+msgid "MARKETING MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTOR_OF_CHINESE_TRAILER"
+msgid "VOICE ACTOR OF CHINESE TRAILER"
+msgstr ""
+
+msgctxt "Credits/credits/TRADITIONAL_CHINESE_LOCALIZATION"
+msgid "TRADITIONAL CHINESE LOCALIZATION"
+msgstr ""
+
+msgctxt "Credits/credits/SPANISH_LOCALIZATION"
+msgid "SPANISH LOCALIZATION:"
+msgstr ""
+
+msgctxt "Credits/credits/PROJECT_LEAD_LQA_LEAD"
+msgid "PROJECT LEAD, LQA LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/LEAD_TRANSLATOR"
+msgid "LEAD TRANSLATOR"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_TRANSLATORS"
+msgid "FINAL CUT TRANSLATORS"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTOR_OF_SPANISH_TRAILER"
+msgid "VOICE ACTOR OF SPANISH TRAILER"
+msgstr ""
+
+msgctxt "Credits/credits/IN_LOVING_MEMORY_OF_MY_FATHER"
+msgid "IN LOVING MEMORY OF MY FATHER"
+msgstr ""
+
+msgctxt "Credits/credits/KOREAN_LOCALIZATION"
+msgid "KOREAN LOCALIZATION:"
+msgstr ""
+
+msgctxt "Credits/credits/DISCO_WALDO_TEAM_LEADS"
+msgid "DISCO WALDO TEAM LEADS"
+msgstr ""
+
+msgctxt "Credits/credits/SENIOR_TRANSLATOR"
+msgid "SENIOR TRANSLATOR"
+msgstr ""
+
+msgctxt "Credits/credits/DISCO_WALDO_TRANSLATORS"
+msgid "DISCO WALDO TRANSLATORS"
+msgstr ""
+
+msgctxt "Credits/credits/TEAM_WALDO_TRANSLATORS"
+msgid "TEAM WALDO TRANSLATORS"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTOR_OF_KOREAN_TRAILER"
+msgid "VOICE ACTOR OF KOREAN TRAILER"
+msgstr ""
+
+msgctxt "Credits/credits/PORTUGUESE_BR_LOCALIZATION"
+msgid "PORTUGUESE (BR) LOCALIZATION:"
+msgstr ""
+
+msgctxt "Credits/credits/PROJECT_LEAD"
+msgid "PROJECT LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/TRANSLATORS"
+msgid "TRANSLATORS"
+msgstr ""
+
+msgctxt "Credits/credits/LQA"
+msgid "LQA"
+msgstr ""
+
+msgctxt "Credits/credits/TESTRONIC_TRANSLATION_SERVICES"
+msgid "TESTRONIC TRANSLATION SERVICES:"
+msgstr ""
+
+msgctxt "Credits/credits/HEAD_OF_TRANSLATION"
+msgid "HEAD OF TRANSLATION"
+msgstr ""
+
+msgctxt "Credits/credits/TRANSLATION_SERVICES_COORDINATOR"
+msgid "TRANSLATION SERVICES COORDINATOR"
+msgstr ""
+
+msgctxt "Credits/credits/ASSOCIATE_COORDINATORS"
+msgid "ASSOCIATE COORDINATORS"
+msgstr ""
+
+msgctxt "Credits/credits/THE_GERMAN_TEAM"
+msgid "THE GERMAN TEAM:"
+msgstr ""
+
+msgctxt "Credits/credits/LEAD_EDITOR"
+msgid "LEAD EDITOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTOR_OF_GERMAN_TRAILER"
+msgid "VOICE ACTOR OF GERMAN TRAILER"
+msgstr ""
+
+msgctxt "Credits/credits/THE_FRENCH_TEAM"
+msgid "THE FRENCH TEAM:"
+msgstr ""
+
+msgctxt "Credits/credits/VOICE_ACTOR_OF_FRENCH_TRAILER"
+msgid "VOICE ACTOR OF FRENCH TRAILER"
+msgstr ""
+
+msgctxt "Credits/credits/THE_RUSSIAN_TEAM"
+msgid "THE RUSSIAN TEAM:"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_LQA"
+msgid "ADDITIONAL LQA"
+msgstr ""
+
+msgctxt "Credits/credits/COMMUNITY_MANAGER"
+msgid "COMMUNITY MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/GLOSSARY_BY"
+msgid "GLOSSARY BY"
+msgstr ""
+
+msgctxt "Credits/credits/SPECIAL_THANKS_TO_THE_COMMUNITY_TRANSLATION_GROUP_FOR_THEIR_IDEAS_AND_INSIGHT"
+msgid ""
+"SPECIAL THANKS TO THE COMMUNITY\n"
+"TRANSLATION GROUP FOR THEIR IDEAS AND INSIGHT"
+msgstr ""
+
+msgctxt "Credits/credits/TESTRONIC_LQA"
+msgid "TESTRONIC LQA"
+msgstr ""
+
+msgctxt "Credits/credits/CHIEF_SERVICE_OFFICER"
+msgid "CHIEF SERVICE OFFICER"
+msgstr ""
+
+msgctxt "Credits/credits/HEAD_OF_LOCALISATION_QA"
+msgid "HEAD OF LOCALISATION QA"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_MANAGER"
+msgid "LQA MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/SENIOR_LQA_PROJECT_MANAGER"
+msgid "SENIOR LQA PROJECT MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_PROJECT_LEAD"
+msgid "LQA PROJECT LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/SENIOR_LQA_TECHNICIAN"
+msgid "SENIOR LQA TECHNICIAN"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_TECHNICIANS"
+msgid "LQA TECHNICIANS"
+msgstr ""
+
+msgctxt "Credits/credits/POLISH_LOCALIZATION"
+msgid "POLISH LOCALIZATION:"
+msgstr ""
+
+msgctxt "Credits/credits/LOCALIZATION_PROJECT_MANAGER"
+msgid "LOCALIZATION PROJECT MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/TRANSLATION_AND_PROOFREADING"
+msgid "TRANSLATION AND PROOFREADING"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_PROJECT_MANAGER"
+msgid "LQA PROJECT MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_TEAM_LEADER"
+msgid "LQA TEAM LEADER"
+msgstr ""
+
+msgctxt "Credits/credits/LQA_TESTING"
+msgid "LQA TESTING"
+msgstr ""
+
+msgctxt "Credits/credits/JAPANESE_LOCALIZATION"
+msgid "JAPANESE LOCALIZATION"
+msgstr ""
+
+msgctxt "Credits/credits/HEAD_OF_LOCALIZATION"
+msgid "HEAD OF LOCALIZATION"
+msgstr ""
+
+msgctxt "Credits/credits/TRANSLATION_LEAD"
+msgid "TRANSLATION LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/TURKISH_LOCALIZATION"
+msgid "TURKISH LOCALIZATION:"
+msgstr ""
+
+msgctxt "Credits/credits/LOCPICK_GAME_LOCALIZATION_&_AUDIO"
+msgid "LOCPICK GAME LOCALIZATION & AUDIO"
+msgstr ""
+
+msgctxt "Credits/credits/PROJECT_MANAGER"
+msgid "PROJECT MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/CREATIVE_LEAD"
+msgid "CREATIVE LEAD"
+msgstr ""
+
+msgctxt "Credits/credits/PR_BY_DEAD_GOOD_PR"
+msgid "PR BY DEAD GOOD PR"
+msgstr ""
+
+msgctxt "Credits/credits/MAC_OPENGL_CLOSED_BETA_TEAM"
+msgid "MAC OPENGL CLOSED BETA TEAM"
+msgstr ""
+
+msgctxt "Credits/credits/POWERED_BY"
+msgid "POWERED BY"
+msgstr ""
+
+msgctxt "Credits/credits/CORPORATE_FINANCING_LEGAL_ACCOUNTING"
+msgid "CORPORATE, FINANCING, LEGAL, ACCOUNTING"
+msgstr ""
+
+msgctxt "Credits/credits/EINSTÜRZENDE_NEUBAUTEN_LOGO_DESIGNED_BY"
+msgid "EINSTÜRZENDE NEUBAUTEN LOGO DESIGNED BY"
+msgstr ""
+
+msgctxt "Credits/credits/FEATURES_LYRICS_FROM_THE_SONG"
+msgid ""
+"FEATURES LYRICS FROM THE SONG “WHAT IF…?”\n"
+"\n"
+"FROM “STILL SMILING” 2003"
+msgstr ""
+
+msgctxt "Credits/credits/FROM_STILL_SMILING_2003"
+msgid "FROM “STILL SMILING” 2003"
+msgstr ""
+
+msgctxt "Credits/credits/FEATURES_THE_POEM_REFLECTIONS_BY"
+msgid "FEATURES THE POEM “REFLECTIONS” BY"
+msgstr ""
+
+msgctxt "Credits/credits/FROM_COLLECTED_LATER_POEMS_1988-2000"
+msgid "FROM COLLECTED LATER POEMS 1988-2000"
+msgstr ""
+
+msgctxt "Credits/credits/NEW_HUMANS"
+msgid "NEW HUMANS"
+msgstr ""
+
+msgctxt "Credits/credits/STRESS_RELIEF"
+msgid "STRESS RELIEF"
+msgstr ""
+
+msgctxt "Credits/credits/ZIGGY_DOG"
+msgid "ZIGGY (DOG)"
+msgstr ""
+
+msgctxt "Credits/credits/PLAYTESTED_BY"
+msgid "PLAYTESTED BY"
+msgstr ""
+
+msgctxt "Credits/credits/WITH_SPECIAL_THANKS_TO"
+msgid "WITH SPECIAL THANKS TO"
+msgstr ""
+
+msgctxt "Credits/credits/AND_EVERYBODY_AT"
+msgid "AND EVERYBODY AT"
+msgstr ""
+
+msgctxt "Credits/credits/ADDITIONAL_SPECIAL_THANKS_TO"
+msgid "ADDITIONAL SPECIAL THANKS TO"
+msgstr ""
+
+msgctxt "Credits/credits/MANKIND_BE_VIGILANT_WE_LOVED_YOU"
+msgid "MANKIND, BE VIGILANT; WE LOVED YOU"
+msgstr ""
+
+msgctxt "Credits/credits/FINAL_CUT_SOUND_ASSISTANT"
+msgid "FINAL CUT SOUND ASSISTANT"
+msgstr ""
+
+msgctxt "Credits/credits/SPANISH_LOCALIZATION_SPECIAL_THANKS"
+msgid "SPANISH LOCALIZATION SPECIAL THANKS"
+msgstr ""
+
+msgctxt "Credits/credits/FONT_LICENCES"
+msgid "FONT LICENCES"
+msgstr ""
+
+msgctxt "Credits/credits/FONT_OPENDYSLEXIC"
+msgid ""
+"OPENDYSLEXIC FONT IS A MODIFICATION OF BITSTREAM VERA SANS.\n"
+"COPYRIGHT (C) 2003 BY BITSTREAM, INC. ALL RIGHTS RESERVED. BITSTREAM VERA IS A TRADEMARK OF BITSTREAM, INC."
+msgstr ""
+
+msgctxt "Credits/credits/FONT_ADYS"
+msgid ""
+"RUSSIAN DYSLEXIC TEXT USES THE ADYS FONT, SPECIALLY DESIGNED TO FACILITATE READING FOR PEOPLE WITH MILD TO MODERATE DYSLEXIA TO READ. LEARN MORE AT WWW.ADYSFONT.COM.\n"
+"ALL RIGHTS RESERVED: © KRISTINA KOSTOVA, 2021."
+msgstr ""
+
+msgctxt "Credits/credits/FONT_NANUMSQARE"
+msgid ""
+"NANUM SQUARE ROUND FONT IS DEVELOPED BY NAVER CORPORATION\n"
+"AND DISTRIBUTED UNDER SIL OPEN FONT LICENSE (OFL).\n"
+"COPYRIGHT (C) 2010, NAVER CORPORATION (HTTPS://WWW.NAVERCORP.COM/)."
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_MIKEE_W_GOODMAN"
+msgid ""
+"ANCIENT REPTILIAN BRAIN; LIMBIC SYSTEM; SPINAL CORD;\n"
+"\n"
+"BIRD'S NEST ROY; THE DESERTER; \n"
+"\n"
+"RUUD HOENKLOEVEN; IDIOT DOOM SPIRAL; DON'T CALL ABIGAIL"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_TARIQ_KHAN"
+msgid "EVRART CLAIRE; SUNDAY FRIEND; EGG HEAD; ANDRE"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_TEGEN_HITCHENS"
+msgid ""
+"JOYCE MESSIER; WORKING CLASS WOMAN; DE PAULE; THE PIGS; \n"
+"\n"
+"LILIENNE, THE NETPICKER; PALE LATITUDE COMPRESSOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_JONNY_EL_HAGE"
+msgid "EASY LEO; TIAGO"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_ANNEKA_WARBURTON"
+msgid "DOLORES DEI; JUDIT MINOT; CUNOESSE; TRAILER NARRATOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_MARK_HOLCOMB"
+msgid "TOMMY LE HOMME; CALL ME MAÑANA"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_LENVAL BROWN"
+msgid "TRAILER NARRATION"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_RUBY_THE_INSTIGATOR"
+msgid "RUBY, THE INSTIGATOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_EV_RYAN"
+msgid "LENA, THE CRYPTOZOOLOGIST'S WIFE; CLEANING LADY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_PISSFT"
+msgid "PISSF****T"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_YOANA_NIKOLOVA"
+msgid "NOVELTY DICEMAKER; MEASUREHEAD'S BABE"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_ELIZABETH_THE_GARDENER"
+msgid "ELIZABETH / THE GARDENER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_GARY_THE_CRYPTOFASCIST"
+msgid "GARY, THE CRYPTOFASCIST"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_RACIST_LORRY_DRIVER"
+msgid "RACIST LORRY DRIVER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_ADAM_LAWTON_STANLEY"
+msgid "GARTE, THE CAFETERIA MANAGER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_CINDY_THE_SKULL"
+msgid "CINDY THE SKULL"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_MORELL_THE_CRYPTOZOOLOGIST"
+msgid "MORELL, THE CRYPTOZOOLOGIST"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_ELENA_DENT"
+msgid "FRITTTE CLERK"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_WILL_MENAKER"
+msgid "SIILENG; FUCK THE WORLD"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FELIX_BIEDERMAN"
+msgid "SCAB LEADER/KORTENAER; ROSEMARY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_SMOKER_ON_THE_BALCONY"
+msgid "SMOKER ON THE BALCONY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_LITTLE_LILY"
+msgid "LITTLE LILY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_ADDITIONAL_VOICEOVERS"
+msgid "ADDITIONAL VOICEOVERS"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_MIKEE_W_GOODMAN"
+msgid ""
+"ANCIENT REPTILIAN BRAIN; BEAUTIFUL NECKTIE;\n"
+"\n"
+"BIRD'S NEST ROY; BLOATED CORPSE OF A DRUNK; CUNO’S DAD;\n"
+"\n"
+" DON’T CALL ABIGAIL; THE GREAT DOORGUNNER MEGAMIX;\n"
+"\n"
+" THE HANGED MAN; HORRIFIC NECKTIE; LIMBIC SYSTEM;\n"
+"\n"
+"PAYPHONE: GIRARD; PAYPHONE: WRITER; RUUD HOENKLOEWEN;\n"
+"\n"
+" SPINAL CORD; STRIKEBREAKER; TARE DRUNK "
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_LENVAL_BROWN"
+msgid ""
+"NARRATOR; TUTORIAL AGENT; AUTHORITY; COMPOSURE;\n"
+"\n"
+"CONCEPTUALIZATION; DRAMA; ELECTROCHEMISTRY; EMPATHY;\n"
+"\n"
+"ENCYCLOPEDIA; ENDURANCE; ESPRIT DE CORPS; HALF LIGHT;\n"
+"\n"
+" HAND/EYE COORDINATION; INLAND EMPIRE; LOGIC;\n"
+"\n"
+" SUGGESTION; INTERFACING; PAIN THRESHOLD; PERCEPTION;\n"
+"\n"
+" PHYSICAL INSTRUMENT; REACTION SPEED; RHETORIC;\n"
+"\n"
+"SAVOIR FAIRE; SHIVERS; VISUAL CALCULUS; VOLITION"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_TEGEN_HITCHENS"
+msgid ""
+"24H WINDOW COMPANY; DE PAULE; ELECTRONIC DOORBELL;\n"
+"\n"
+" JOYCE MESSIER; LENA, THE CRYPTOZOOLOGIST’S WIFE;\n"
+"\n"
+" LILIENNE, THE NET PICKER; SYLVIE; WOMEN’S RIGHTS,\n"
+"\n"
+" WORKING CLASS WOMAN"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_MACK_MCGUIRE"
+msgid ""
+"TITUS HARDIE; RAUL KORTENAER / SCAB LEADER;\n"
+"\n"
+" MYSTERIOUS EYES; SLEEPING DOCKWORKER; MONEYMAN;\n"
+"\n"
+" WORKING CLASS DRUNK; BARRY THE BUTCHER;\n"
+"\n"
+" JOB MARKET LOSER; OLD SCAB; PALE LATITUDE COMPRESSOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_JONATHON_WEST"
+msgid ""
+"IDIOT DOOM SPIRAL; MAN ON WATERLOCK;\n"
+"\n"
+" JAMROCK PUBLIC LIBRARY; SHANKY; PROBABLY A MIGRANT;\n"
+"\n"
+" SCAB; FAT ANGUS"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_THE_DESERTER"
+msgid "THE DESERTER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_OLIVER DABIRI"
+msgid "CUNO; BOY STRIKERBREAKER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_ADAM_STANLEY"
+msgid ""
+"GARTE, THE CAFETERIA MANAGER; UNEMPLOYED PERSON;\n"
+"\n"
+" SAD SCAB; BANGER SCAB"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_MARINE_DAURE"
+msgid "KLAASJE; ALICE; RADIO; TUTORIAL AGENT"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_ANNIE_WARBURTON"
+msgid ""
+"CUNOESSE; JUDIT MINOT / HORSE-FACED WOMAN;\n"
+"\n"
+" PAYPHONE: DORA; DOLORES DEI"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_TARIQ_KHAN"
+msgid ""
+"EVRART CLAIRE; ANDRE; GLEN; EGG HEAD; ROSEMARY;\n"
+"\n"
+" STEBAN, THE STUDENT COMMUNIST"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_JONNY_EL_HAGE"
+msgid "EASY LEO; CHESTER MCLAINE; ANOTHER SCAB; DJ FLACIO"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_PETER_SVATIK"
+msgid "TRANT HEIDELSTAM; FORMER COAL MINER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_MARGARET_ASHLEY"
+msgid "THE PIGS; PAYPHONE: BARONESS; MOTHER OF A SCAB"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_MEGA_RICH"
+msgid "MEGA RICH LIGHT-BENDING GUY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_COALITION_WARSHIP_ARCHER"
+msgid "COALITION WARSHIP ARCHER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_SOONA"
+msgid "SOONA, THE PROGRAMMER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_DAVID_MEYRAT"
+msgid "JEAN VICQUEMARE / MAN WITH SUNGLASSES"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_EAST_INSULINDIAN_REPEATER_STATION"
+msgid "EAST-INSULINDIAN REPEATER STATION"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_VIDEO_REVACHOL"
+msgid "VIDEO REVACHOL, 24H"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_PALEDRIVER"
+msgid "PALEDRIVER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_CHRISTOPHER_GEE"
+msgid "NIX GOTTLIEB; LARGE SCAB"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_JONATHAN_G_RODRIGUEZ"
+msgid "TIAGO; ALPHONSE THE SCAB"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_HAYLEY LEGGS"
+msgid "REAL ESTATE AGENT; TRICENTENNIAL ELECTRICS"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_MEASUREHEAD"
+msgid "MEASUREHEAD"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_MARK_HOLCOMB"
+msgid ""
+"CALL ME MAÑANA; TOMMY LE HOMME;\n"
+"\n"
+" SMOKER ON THE BALCONY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_SUNDAY FRIEND"
+msgid "SUNDAY FRIEND"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_WOMAN_FROM_GOTTWALD"
+msgid "WOMAN FROM GOTTWALD"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_BENJI_WEBBE"
+msgid "EUGENE; DJ MESH"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_LA REVACHOLIERE"
+msgid "LA REVACHOLIERE"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_CLEANING_LADY"
+msgid "CLEANING LADY"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_WASHERWOMAN"
+msgid "WASHERWOMAN"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_YUAN_ZHANG-TAAL"
+msgid "INSULINDIAN PHASMID; PALE LATITUDE COMPRESSOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_LILLIENES_TWINS"
+msgid "LILLIENE’S TWINS"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_ECHO_MAKER"
+msgid "ECHO MAKER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_SETTY_BROSEVELT"
+msgid "MACK TORSON; CANAL CREW; RIGHT-TO-WORKER"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_PALE_LATITUDE_COMPRESSOR"
+msgid "PALE LATITUDE COMPRESSOR"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_FC_JAFRO"
+msgid ""
+"FUCK THE WORLD; PAYPHONE: YOUNG MAN;\n"
+"\n"
+" VERY HARD TO EXPLOIT HANDICAPPED PERSON"
+msgstr ""
+
+msgctxt "Credits/credits/VOCIES_NOID"
+msgid "NOID"
+msgstr ""
+
+msgctxt "Credits/credits/LYRICS_FREIBANK"
+msgid ""
+"MAURO TEARDO / BLIXA BARGELD\n"
+"\n"
+"LYRICS © FREIBANK, FREIBANK MUSIKVERLAGE MARK CHUNG E.K"
+msgstr ""
+
+msgctxt "SonyErrorMessage/PS5_CorruptedSave"
+msgid "Error - Corrupt save will be deleted"
+msgstr ""
+
+msgctxt "SonyErrorMessage/PS4_CorruptedSave"
+msgid "Corrupt Save will be deleted"
+msgstr ""
+
+msgctxt "SonyErrorMessage/PS5_ControllerDisconnected"
+msgid "The wireless controller has been disconnected"
+msgstr ""
+
+msgctxt "SonyErrorMessage/PS4_ControllerDisconnected"
+msgid "The DUALSHOCK®4 Wireless Controller has been disconnected"
+msgstr ""
+
+msgctxt "SonyErrorMessage/Playstation_SaveGame"
+msgid "Disco Elysium Save Data"
+msgstr ""
+
+msgctxt "SonyErrorMessage/Playstation_SaveOptions"
+msgid "Disco Elysium Configuration Data"
+msgstr ""
