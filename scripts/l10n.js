@@ -1,10 +1,10 @@
 import chalk, { supportsColor } from "chalk";
-import FastGlob from "fast-glob";
 import { program } from "commander";
+import FastGlob from "fast-glob";
 import { inspect } from "util";
 import { appendL10n } from "./l10n/append.js";
 import { copySource } from "./l10n/copy.js";
-import { calcStats, saveStats, extractAsset, validateL10n } from "./l10n/main.js";
+import { calcStats, extractAsset, saveStats, validateL10n } from "./l10n/main.js";
 import { mergeL10n } from "./l10n/merge.js";
 
 (await import("dotenv")).config();
@@ -78,9 +78,10 @@ program.command("merge")
   .argument("<targets...>", "target translation files (merge target)")
   .option("-i, --ignore <ignore>", "file with ignored translations")
   .option("-g, --glob", "interpret target files as glob patterns")
+  .option("-h, --header", "keep source file header")
   .action(async (source, targets, options) => {
     const resolvedTargets = options.glob ? await FastGlob(targets) : targets;
-    return mergeL10n(source, options.ignore, ...resolvedTargets);
+    return mergeL10n(source, options.header, options.ignore, ...resolvedTargets);
   });
 
 program.command("append")
