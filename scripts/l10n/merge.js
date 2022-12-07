@@ -1,5 +1,5 @@
 import { promises as fs } from "fs";
-import { decodeEntries } from "../text/main.js";
+import { decodeEntries, encodeEntries } from "../text/main.js";
 import { encodeTextFile, writeTextFile } from "./utils.js";
 
 async function loadIndex(file) {
@@ -9,15 +9,17 @@ async function loadIndex(file) {
     .map(entry => [entry.msgctxt, entry]));
 }
 
-export async function mergeL10n(source, ignore, ...targets) {
+export async function mergeL10n(source, header, ignore, ...targets) {
   const sourceIdx = await loadIndex(source);
   const ignoreIdx = ignore ? await loadIndex(ignore) : {};
 
   for (const target of targets) {
     let changed = false;
     const mergedEntries = decodeEntries((await fs.readFile(target)).toString())
-      .filter(entry => !!entry.msgid)
       .map(entry => {
+        if (!entry.msgid) {
+          return entry; // do nothing for header entry
+        }
         const sourceEntry = sourceIdx[entry.msgctxt];
         const ignoreString = ignoreIdx[entry.msgctxt]?.msgstr;
         if (!sourceEntry?.msgstr || sourceEntry.msgstr === ignoreString) {
@@ -30,7 +32,10 @@ export async function mergeL10n(source, ignore, ...targets) {
         return { ...entry, msgstr: sourceEntry.msgstr, "#": sourceEntry["#"] || undefined };
       });
     if (changed) {
-      writeTextFile(target, encodeTextFile("cs", mergedEntries));
+      writeTextFile(target, header && !mergedEntries[0].msgid
+        ? encodeEntries(mergedEntries)
+        : encodeTextFile("cs", mergedEntries)
+      );
     }
   }
 }
