@@ -81,6 +81,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="A prime, B double prime, B triple prome">
+        <descrip type="definition">[aA] Jedná se o označení bodů balistické analýzy</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>A prime, B double prime, B triple prome</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>A´, B´´, B´´´</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Acele Berger">
         <descrip type="definition">[OK] [aA] [TYKAT] jedna z party kaličů</descrip>
         <langSet xml:lang="en">
@@ -719,7 +732,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Cornelius Gurdi">
-        <descrip type="definition">[aA] postava z legend</descrip>
+        <descrip type="definition">[OK] [aA] postava z legend</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Cornelius Gurdi</term>
@@ -3640,7 +3653,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term> Příšerná kravata (Překrásná)</term>
+            <term>Příšerná kravata (Překrásná)</term>
           </tig>
         </langSet>
       </termEntry>
