@@ -9,7 +9,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -28,7 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000036FB"
 msgid "Even before you can get the words out, everything gets scrambled in your brain."
 msgstr ""
-"Ještě předtím, než ta slova ze sebe vysoukáš se ti v mozku všechno uškvaří."
+"Ještě předtím, než ta slova ze sebe vysoukáš, se ti v mozku všechno uškvaří."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -720,7 +720,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000097000000FC"
 msgid "\"10-4, sir. Roger that. And very glad to hear it. I will make relevant changes to the report.\""
 msgstr ""
-"\"10-4, pane. Potvrzuji. A moc rád to slyším. Provedu nezanedbatelné změny v hlášení.\""
+"\"10-4, pane. Rozumím. A moc rád to slyším. Provedu nezanedbatelné změny v hlášení.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -777,6 +777,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500003CF2"
 msgid "\"That's affirmative. Over.\""
 msgstr ""
+"\"Potvrzuji. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -1112,7 +1113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500003C7A"
 msgid "\"10-4, I hear you, officer. I'm just going to make a note here that you are in pursuit of your *misplaced* badge.\""
 msgstr ""
-"\"10-4, slyším vás, důstojníku. Jen si tu udělám poznámku, že stíháte svůj *ztracený* průkaz. Přepínám\""
+"\"10-4, slyším vás, důstojníku. Jen si tu udělám poznámku, že pátráte po *ztraceném* průkazu.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -1453,7 +1454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C000009DC"
 msgid "\"10-4, affirmative. Officer is in pursuit of his firearm.\" There's static."
 msgstr ""
-"\"10-4, potvrzuji. Příslušník v pátrání po střelné zbrani.\" Šum."
+"\"10-4, potvrzuji. Příslušník pátrá po střelné zbrani.\" Šum."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -1472,6 +1473,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000A03"
 msgid "\"I'm going to report that you are in pursuit of your service weapon. Over.\""
 msgstr ""
+"\"Nahlásím, že pátráte po služební zbrani. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -1508,6 +1510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000B94"
 msgid "\"Trick question. I'm a martial artist. My entire body is one big gun.\""
 msgstr ""
+"\"Záludná otázka. Dělám bojový umění. Mé celé tělo je zbraň.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -1602,7 +1605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000FC5"
 msgid "\"10-4, I hear you, officer. I'm just going to make a note here that you are in pursuit of your *misplaced* badge. Over.\""
 msgstr ""
-"\"10-4, slyším vás, důstojníku. Jen si tu udělám poznámku, že stíháte svůj *ztracený* průkaz. Přepínám.\""
+"\"10-4, slyším vás, důstojníku. Jen si tu udělám poznámku, že pátráte po *ztraceném* průkazu. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -2035,7 +2038,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000037AB"
 msgid "\"Roger that. 10-10. Over and out.\" The static ends with a loud click, then everything is silent in the cabin."
 msgstr ""
-"\"Potvrzuji. 10-10. Přepínám a končím.\" Šum skončí hlasitým cvaknutím a pak je v kabině úplně ticho."
+"\"Rozumím. 10-10. Přepínám a končím.\" Šum skončí hlasitým cvaknutím a pak je v kabině úplně ticho."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -2369,7 +2372,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000ECA"
 msgid "\"Roger that. 10-10. Over and out.\" With those words the cabin becomes silent again, the radio-microphone resting on its hook."
 msgstr ""
-"\"Potvrzuji. 10-10. Přepínám a končím.\" S těmito slovy kabina opět utichne, mikrofon tiše odpočívá na svém háčku.\""
+"\"Rozumím. 10-10. Přepínám a končím.\" S těmito slovy kabina opět utichne, mikrofon tiše odpočívá na svém háčku.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -2856,6 +2859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001360A"
 msgid "\"Of course. My badge. I can look at my badge that I have.\" (Lie.)"
 msgstr ""
+"\"Jistě. Můj průkaz. Můžu se podívat na svůj průkaz, který mám.\" (Lži.)"
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -3083,7 +3087,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500003720"
 msgid "\"I'm going to report that you are in pursuit of your missing items. Over.\""
 msgstr ""
-"\"Nahlásím, že pronásledujete své ztracené věci. Přepínám.\""
+"\"Nahlásím, že pátráte po svých ztracených věcech. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -3215,6 +3219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000821"
 msgid "\"Ask him!\""
 msgstr ""
+"\"Zeptej se!\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -3233,6 +3238,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000844"
 msgid "\"What's he saying? Share with the class!\""
 msgstr ""
+"\"Co říká? No tak, ať se pobaví celá třída!\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -3914,6 +3920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000037C5"
 msgid "\"What does he want now?\""
 msgstr ""
+"\"Co chce tentokrát?\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -3951,6 +3958,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018F30"
 msgid "\"Mullen dicked us...\""
 msgstr ""
+"\"Mullen nás posral...\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -3969,6 +3977,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001250C"
 msgid "\"I have my Villiers right here.\""
 msgstr ""
+"\"Svůj Villiers mám přímo tady.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -4006,6 +4015,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000778"
 msgid "\"I don't need to listen to this. Firewalker out!\" (Turn off the radio.)"
 msgstr ""
+"\"Tohle nebudu poslouchat. Ohnivák konec!\" (Vypni rádio.)"
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -4941,6 +4951,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000382D"
 msgid "\"That's a negative, sir, I got a 10-12 here. Over.\""
 msgstr ""
+"\"Negativní, pane. Mám tu 10-12. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -4959,6 +4970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018F9C"
 msgid "\"Oh god, I...\" The man is fighting back tears."
 msgstr ""
+"\"Ach Bože, to...\" Muž zadržuje slzy."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5262,6 +5274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018FEC"
 msgid "\"Sir, I will not have you talk to me in this manner. Over.\""
 msgstr ""
+"\"Pane, takto se mnou mluvit nebudete. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5373,6 +5386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000B59"
 msgid "\"Say. My. Name.\""
 msgstr ""
+"\"Řekni. Mý. Jméno.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5391,6 +5405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000BB4"
 msgid "\"Uh... He says he is a living weapon and we are trying to trick him.\""
 msgstr ""
+"\"Eh... říká, že je živoucí zbraň a že se ho snažíme napálit.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5656,6 +5671,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500003857"
 msgid "\"Uh...\""
 msgstr ""
+"\"Eh...\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5730,6 +5746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001901A"
 msgid "\"Oldboy,  is fucky *still* at it?! What the hell does he want now?\""
 msgstr ""
+"\"Staříku, to je *pořád* mamrd?! Co chce k čertu teď?\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5842,6 +5859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000085C"
 msgid "\"The prick ate momma's vanilla waffles at the captain's birthday party! Some nerve he's got...\""
 msgstr ""
+"\"Ten hajzl se cpal maminčinými vanilkovými vaflemi na oslavě kapitánových narozenin! Ten má ale nervy...\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -5860,6 +5878,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000942"
 msgid "\"Mack, he says maybe you shouldn't have antagonised the Firewalker in the first place.\""
 msgstr ""
+"\"Macku, říká, že sis v první řadě neměl znepřátelit Ohniváka.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6218,6 +6237,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000B64"
 msgid "\"It's a gun, what can I say? A regular god damn murder weapon, you know how they are -- *bang-bang*.\""
 msgstr ""
+"\"Je to zbraň, co víc chcete slyšet? Stará dobrá vražedná zbraň, však víte, jaké jsou - *pic-pic*.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6369,6 +6389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000050000388B"
 msgid "\"But then again, some of us truly are on the take. It's unfortunate. Over.\""
 msgstr ""
+"\"Na druhou stranu, někteří z nás jsou opravdu podmáznutí. Poněkud nešťastné. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6387,6 +6408,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018FA4"
 msgid "\"In pursuit of his...\" The man is fighting back tears."
 msgstr ""
+"\"Pátrá...\" Muž zadržuje slzy."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6424,6 +6446,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019151"
 msgid "\"Uhm...\""
 msgstr ""
+"\"Ehm...\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6934,6 +6957,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018FAB"
 msgid "\"In pursuit of his...\" The man is fighting back tears."
 msgstr ""
+"\"Pátrá...\" Muž zadržuje slzy."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6971,6 +6995,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000815"
 msgid "\"Just a moment, officer...\""
 msgstr ""
+"\"Minutku, důstojníku...\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -6989,6 +7014,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000839"
 msgid "\"That's a negative. Not going to say that. Over.\""
 msgstr ""
+"\"Negativní. To neřeknu. Přepínám.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -7007,6 +7033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000872"
 msgid "\"Shut up, Chester, this isn't funny. This is my mom we're talking about!\""
 msgstr ""
+"\"Zavři chlebárnu, Chestere, to není vtipný. Mluvíme tady o mojí mamince!\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -7025,6 +7052,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000954"
 msgid "\"Satellite-Officer Vicque---\""
 msgstr ""
+"\"Satelitní důstojník Vicque---\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -7081,6 +7109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000AB4"
 msgid "\"What is going on here? Did something happen?\" she asks, startled. Jean Vicquemare turns to her and says..."
 msgstr ""
+"\"Co se tu děje? Stalo se něco?\" zeptá se polekaná. Jean Vicquemare se na ni otočí a pronese..."
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
@@ -7136,6 +7165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00000BE7"
 msgid "\"He's saying he lost his badge.\""
 msgstr ""
+"\"Říká, že ztratil svůj průkaz.\""
 
 #. Title = KINEEMA / STATION CALL
 #. Description = Your first contact with the colleagues back in station 41.
