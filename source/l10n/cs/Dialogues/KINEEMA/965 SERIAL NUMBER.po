@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -13,6 +21,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000AE4F"
 msgid "\"No problem, officer. Just glad we got it straightened out. I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful to your investigation by then.\""
 msgstr ""
+"\"Bez problému, důstojníku. Jsem ráda, že jsme si to vyjasnili. Okamžitě kontaktuji databázi IPM. Zavolejte zítra. Do té doby snad vyhrabou něco užitečného pro vaše vyšetřování.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -113,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D43"
 msgid "The lieutenant leans in to listen, notebook in hand."
 msgstr ""
+"Poručík se nakloní blíž, aby slyšel s notýskem v ruce."
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -133,6 +143,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DF9"
 msgid "\"Well, we have his name and service record now.\" (Move on.)"
 msgstr ""
+"\"Nu, teď už máme jeho jméno a služební záznam.\" (Pokračuj.)"
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -163,6 +174,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DBB"
 msgid "The lieutenant nods -- then jots it down in his notes: \"Lelystad -- Lely. I like that.\""
 msgstr ""
+"Poručík přikývne - a pak si to poznamená. \"Lelystad - Lely. To se mi líbí.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -233,6 +245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E39"
 msgid "This means something to him. To know that name. Like naming a case. It's important."
 msgstr ""
+"Něco to pro něj znamená. Znát to jméno. Jako pojmenovat případ. Je to důležité."
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -323,6 +336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D16"
 msgid "\"The world will end soon.\""
 msgstr ""
+"\"Svět brzy skončí.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -353,6 +367,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D6D"
 msgid "\"No problem, lieutenant.\" She sounds pleased."
 msgstr ""
+"\"Bez problému, poručíku.\" Zní potěšeně."
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -393,6 +408,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D83"
 msgid "A compliment from Lieutenant Kitsuragi! Not bad."
 msgstr ""
+"Kompliment od poručíka Kitsuragiho! To není vůbec zlé."
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -403,6 +419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E31"
 msgid "\"I'm glad the inquiry was helpful to your investigation, officer. Did you have any other questions?\""
 msgstr ""
+"\"Jsem ráda, že zjištění bylo užitečné pro vaše vyšetřování, důstojníku. Máte další otázky?\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -603,6 +620,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D74"
 msgid "\"Even that took quite a bit of convincing to retrieve the information from the database, officer.\""
 msgstr ""
+"\"I tato informace vyžadovala soustu přesvědčování, abych ji získala z databáze, důstojníku.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -613,6 +631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DA8"
 msgid "\"Any information on his foster parents?\""
 msgstr ""
+"\"Nějaká informace o jeho pěstounech?\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -713,6 +732,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D60"
 msgid "\"Even that is a small miracle -- these *organizations* usually double check their inventory.\" He leans closer and shouts: \"Thank you, Alice. Great work!\""
 msgstr ""
+"\"I to je malý zázrak - tyto *organizace* obvykle dvakrát kontrolují své zásoby.\" Nakloní se blíž a vykřikne: \"Děkuji, Alice. Skvělá práce!\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -873,6 +893,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DEB"
 msgid "\"I... don't know what that means. But -- sure.\""
 msgstr ""
+"\"Nevím... co to má znamenat. Ale - jistě.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -973,6 +994,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DAE"
 msgid "\"None, officer. Sorry.\""
 msgstr ""
+"\"Nic, důstojníku. Je mi líto.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -983,6 +1005,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DC7"
 msgid "\"If you say so, officer -- of course.\""
 msgstr ""
+"\"Když to říkáte, důstojníku - samozřejmě.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -1033,6 +1056,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D8B"
 msgid "\"Wait, he was found in a... leaf compactor?\""
 msgstr ""
+"\"Počkejte, našli ho v... lisu na listí?\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -1043,6 +1067,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012D91"
 msgid "\"It's a garden tool used to press leaves into these... cubes. It's a detail the hospital had -- the only detail in these files. So I thought it would be good for you to know.\""
 msgstr ""
+"\"Jde o zahradní nástroj, který slouží k lisování listů do... kostek. Jen detail, který měla nemocnice - vlastně jediný detail v záznamech. Tak jsem si říkala, že by bylo dobré, kdybyste to věděl.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.
@@ -1063,3 +1088,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012DD5"
 msgid "\"So his name wasn't *his* because he was fostered?\""
 msgstr ""
+"\"Takže jeho jméno nebylo *jeho*, protože žil u pěstounů?\""
