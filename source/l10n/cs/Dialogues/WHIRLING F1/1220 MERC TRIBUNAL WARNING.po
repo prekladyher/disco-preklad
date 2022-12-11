@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001490E"
 msgid "\"I mean, 'Okay, you got one more gun on your side.' Once I find mine. I lost it.\""
 msgstr ""
+"\"Myslím tím: \"Fajn, máš na své straně o jednu zbraň víc.!\" Jakmile najdu tu svou. Ztratil jsem ji.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A2D"
 msgid "\"These people are trained military professionals. With decades of combat experience. They're not a gang, or a *Barmy Army*.\""
 msgstr ""
+"\"Tihle lidé jsou vycvičení vojenští profesionálové. Mají desítky let bojových zkušeností. Nejsou žádný gang ani *Potroublá armáda*.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000147FC"
 msgid "\"Yes, they are forming some kind of  *tribunal* -- and they're coming for you.\""
 msgstr ""
+"\"Ano, vytvářejí jakýsi *tribunál* - a jdou si pro vás.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014889"
 msgid "\"You're the bees; they're the hornet.\""
 msgstr ""
+"\"Vy jste včely, oni jsou sršni.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -67,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148BD"
 msgid "\"Okay.\" (Conclude with a shrug.)"
 msgstr ""
+"\"Fajn.\" (Na závěr pokrč rameny.)"
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -75,6 +88,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148CC"
 msgid "\"Will they pierce ceramic armour?\""
 msgstr ""
+"\"Prorazí keramické brnění?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -83,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148F1"
 msgid "\"Joyce said they've gone rogue. Nobody is controlling them.\""
 msgstr ""
+"\"Joyce říkala, že zběhli. Nikdo je nekontroluje.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -99,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001481B"
 msgid "*Nervous* snickering. There's a rush of adrenaline present."
 msgstr ""
+"*Nervózní* chechtání. Máme tu nával adrenalinu."
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -115,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001492C"
 msgid "\"No wonder you cops get shot to shit every day -- can't go to war with an attitude like *that*.\""
 msgstr ""
+"\"Není divu, že vás policajty každej den rostřílejí na sračky - s *takovým* přístupem do války nemůžeš.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -123,6 +140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A08"
 msgid "\"All he means is that the situation is serious.\""
 msgstr ""
+"\"Chce tím jen říct, že situace je vážná.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -147,6 +165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014863"
 msgid "\"Yeah, a well oiled murder-machine!\" He punches blondie on the shoulder."
 msgstr ""
+"\"Jo, dobře promazaná vražedicí mašina!\" Udeří blondýna do ramene."
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -163,6 +182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148E9"
 msgid "\"I mean 'Okay, you got this' -- you got the numbers.\""
 msgstr ""
+"\"Myslím tím: \"Fajn, máš tyhle\" - máš ty čísla.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -171,6 +191,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014813"
 msgid "\"You heard the man -- right here.\" He points to the ground. \"We're armed, we got the whole district behind us and Glen... Glen is fucking *crazy*.\""
 msgstr ""
+"\"Slyšel jsi toho muže - přímo tady.\" Ukáže na zem. \"Jsme ozbrojení, máme za sebou celou čtvrť a Glen... Glen je kurva *šílenej*.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -179,6 +200,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148E3"
 msgid "\"I mean, 'Okay, they're going to wipe you the fuck out, Titus.'\""
 msgstr ""
+"\"Myslím tím: \"Fajn, tak tě rozmáznou jak hovno, Tite.\"\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -187,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148F7"
 msgid "\"I mean, 'Okay, I'll be on your side when they come.'\""
 msgstr ""
+"\"Myslím tím: \"Fajn, až přijdou, budu na tvé straně.\"\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -195,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014968"
 msgid "\"Yeah, like you've been up against ceramic armour...\" He takes a sip of beer to bide his time, then tries to get the last word in."
 msgstr ""
+"\"Jo, jako bys byl proti keramickému brnění...\" Napije se piva, aby získal čas, a pak se snaží dostat k poslednímu slovu."
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -203,6 +227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000147EF"
 msgid "\"The mercenaries are armed with automatic weapons.\""
 msgstr ""
+"\"Ti žoldáci jsou vyzbrojeni automatickými zbraněmi.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -211,6 +236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014822"
 msgid "\"Wouldn't wanna beat up his grandma.\" There's snickering in the room. Some of the men put their beers down."
 msgstr ""
+"\"Nechtěl bych mlátit jeho babičku.\" V místnosti se ozve chechtání. Někteří muži odloží piva."
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -227,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148DB"
 msgid "\"What do you mean *okay*?\" He jerks forward a bit."
 msgstr ""
+"\"Jak to myslíš, *fajn*?\" Trochu sebou trhne."
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -251,6 +278,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014954"
 msgid "\"See what? That they don't?\""
 msgstr ""
+"\"Zjistíte co? Že ne?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -259,6 +287,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148A3"
 msgid "\"Easy, E, he's tryna' faze you.\" He turns to you. \"What are you trying to do? Scare my men?\""
 msgstr ""
+"\"Klid, E, snaží se tě vyděsit.\" Otočí se k tobě. \"O co se snažíš? Vystrašit mé muže?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -267,6 +296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A00"
 msgid "He really doesn't like you ruffling their feathers like that -- on what might be the eve of battle."
 msgstr ""
+"Opravdu se mu nelíbí, že jim takhle čeříš vodu - v předvečer bitvy."
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -283,6 +313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A7B"
 msgid "\"You haven't even seen the whole suit, right? I've seen the whole fucking thing and it didn't make him immortal.\""
 msgstr ""
+"\"Vždyť tys ani neviděl celej oblek, ne? Já jsem ho viděl celej a neudělal ho nesmrtelným.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -307,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014897"
 msgid "\"We're not bees, we're men. We're socialists!\""
 msgstr ""
+"\"Nejsme včely, jsme muži. Jsme socialisti!\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -315,6 +347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148D3"
 msgid "\"I guess we're gonna see, aren't we?\""
 msgstr ""
+"\"Myslím, že to brzo zjistíme, co?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -331,6 +364,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000147E2"
 msgid "\"Let them come!\" Blondie yells across the cafeteria. \"The Hardie boys are right fucking here!\""
 msgstr ""
+"\"Ať přijdou!\" Blondýn zakřičí na celou kantýnu. \"Valchařovi hoši jsou kurva přímo tady!\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -355,6 +389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000149F8"
 msgid "\"No, they won't.\" He shakes his beer at you. \"Get out of here with your negative energy.\""
 msgstr ""
+"\"Ne, to neudělaj.\" Potřese na tebe pivem. \"Vypadni odsud i se svou negativní energií.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -363,6 +398,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A27"
 msgid "\"These people are trained military professionals. Special forces, as you said. They're not a gang, or a *Barmy Army*.\""
 msgstr ""
+"\"Tihle lidé jsou vycvičení vojenští profesionálové. Speciální jednotky, jak jsi říkal. Nejsou žádný gang ani *Potroublá armáda*.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -371,6 +407,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A35"
 msgid "\"No, they're not. They're un-coordinated and drunk. Don't forget: we're listening in on their communications. Their shit is *way* apart.\""
 msgstr ""
+"\"Ne, nejsou. Jsou nekoordinovaní a opilí. Nezapomeň: odposloucháváme jejich komunikaci. Nemaj svý sračky *vůbec* pohromadě.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -379,6 +416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014872"
 msgid "\"Do you know that a single Seraise Giant Hornet can kill forty bees a *minute*?\""
 msgstr ""
+"\"Víš, že jediný seraiský obří sršeň dokáže zabít čtyřicet včel za *minutu*?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -427,6 +465,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014A58"
 msgid "\"No, they're not. They're un-coordinated and drunk. We know more about them than you think.\""
 msgstr ""
+"\"Ne, nejsou. Jsou nekoordinovaní a opilí. Víme o nich víc, než si myslíš.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -435,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000148C4"
 msgid "\"We got weapons of our own.\" He cracks open his vest to give you a glimpse of his holster. \"We got Ister 50s, Zielegers, Glen's got a nock-cannon at home...\""
 msgstr ""
+"\"Máme vlastní zbraně.\" Roztáhne vestu, aby ti umožnil nahlédnout do pouzdra. \"Máme Istery 50, Zielegery, Glen má doma sedmihlavňovku...\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -443,6 +483,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014936"
 msgid "\"Pft!\" A spray of beer. \"So were the local gangs. The fuckin' *Barmy Army* and the Madre scum. You've been out there. Seen any around?\""
 msgstr ""
+"\"Pft!\" Sprška piva. \"Stejně jako místní gangy. Zasraná *Potroublá armáda* a ta verbež z Madre. Byl jsi tam venku. Viděl jsi někoho okolo?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -459,6 +500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014732"
 msgid "\"Yeah?\" He doesn't seem worried. \"By friends you mean his squadmates from Krenel?\""
 msgstr ""
+"\"Jo?\" Nezdá se, že by ho to znepokojovalo. \"Těmi přáteli myslíš jeho spolubojovníky od Krenela?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -467,6 +509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000147F6"
 msgid "\"This Krenel is bad news. You know that, right?\""
 msgstr ""
+"\"Ten Krenel je špatná zpráva. Víš to, že?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -491,6 +534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014809"
 msgid "\"This is what happens if you take the law into your own hands. Other people start doing it too.\""
 msgstr ""
+"\"Takhle to dopadá, když vezmete zákon do vlastních rukou. Ostatní lidé to začnou dělat také.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -507,6 +551,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014915"
 msgid "\"I mean, 'Okay, I guess I'll be gunning you down right alongside them.'\""
 msgstr ""
+"\"Myslím tím: Fajn, myslím, že budu střílet po tobe hned vedle nich.'\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -539,6 +584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014738"
 msgid "\"Big fucking surprise...\" He mutters. \"They hire psycho scum, arm them to the teeth and let them loose in the city. What do you think is gonna happen?\""
 msgstr ""
+"\"To je kurva velký překvapení...\" Zamumlá. \"Najmou si psychopatický šmejdy, po zuby je vyzbrojí a pustí je do města. Co myslíš, že se stane?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -547,6 +593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200014881"
 msgid "\"... the fuck is that supposed to mean?\""
 msgstr ""
+"\"... co to má kurva znamenat?\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
@@ -555,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001493E"
 msgid "\"Yeah? Where are they now, huh?\" He points South. \"Sent back to Madre in an airtight cargo crate.\""
 msgstr ""
+"\"Jo? Kde jsou teď, co?\" Ukáže na jih. \"Poslali jsme je Madre zpátky ve vzduchotěsný nákladní bedně.\""
 
 #. Title = WHIRLING F1 /  MERC TRIBUNAL WARNING
 #. Description = WARNING THE BOYS ABOUT MERC TRIBUNAL
