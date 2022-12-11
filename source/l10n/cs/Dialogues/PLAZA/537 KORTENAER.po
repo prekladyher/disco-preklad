@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E85B"
 msgid "Think of an argument!"
 msgstr ""
+"Vymysli argument!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000060001E85B"
 msgid "Know about Downwell."
 msgstr ""
+"Víš o Padlích."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "tooltip2/0x010000060001E85B"
 msgid "Gardener is dying."
 msgstr ""
+"Zahradnice umírá."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "tooltip3/0x010000060001E85B"
 msgid "Got them arguing."
 msgstr ""
+"Způsobil jsi hádku."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002F83"
 msgid "That's all it takes. There is no room for hesitation. The lieutenant moves, like a spring unloaded. He grabs the gun from your bloody hand and fires behind him."
 msgstr ""
+"To je vše, co je třeba. Není čas zaváhat. Poručík se pohne, jako když vyskočí pružina. Popadne zbraň z tvojí zkrvavené ruky a vystřelí za sebe."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018CF1"
 msgid "You see two cold eyes looking at you -- through all the smoke and the panic. And a pistol, raised, aiming at your chest, point blank. Then the man squeezes the trigger..."
 msgstr ""
+"Vidíš dvě chladné oči, jak tě pozorují - přes všechen ten kouř a paniku. A pistoli, pozvednutou, namířenou přímo na tvoji hruď z bezprostřední blízkosti. Potom muž zmáčkne spoušť..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018D7A"
 msgid "No. Let me back into the fight."
 msgstr ""
+"Ne. Ať se vrátím zpět do boje."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004500018D7A"
 msgid "No. Let me back into the fight. Let me save Kim."
 msgstr ""
+"Ne. Ať se vrátím zpět do boje. Ať zachráním Kima."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018ECE"
 msgid "You see two crazed eyes stare at you -- through the burning meat and the flames. With his face boiling off the man raises his pistol at you. Then he squeezes the trigger..."
 msgstr ""
+"Vidíš dvě šílené oči, jak tě pozorují - přes pálící se maso a plameny. Zatímco jeho tvář stravuje oheň, muž pozvedne svoji pistoli a namíří na tebe. Pak zmáčkne spoušť..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018EE9"
 msgid "You see two crazed eyes stare at you -- through all the smoke and the panic. With blood gushing from his face the man raises his pistol at you. Then he squeezes the trigger..."
 msgstr ""
+"Vidíš dvě šílené oči, jak tě pozorují - přes všechen  kouř a paniku. Zatímco mu z obličeje stříká krev, muž pozvedne svoji pistoli a namíří přímo na tebe. Pak zmáčkne spoušť..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500019057"
 msgid "What's going to happen now?"
 msgstr ""
+"Co se stane teď?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C1D3"
 msgid "I think he's calmed down a bit..."
 msgstr ""
+"Myslím, že se trochu uklidnil..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001190A"
 msgid "Even if it comes to a fight it's a good idea to get under his skin first."
 msgstr ""
+"I když to vyústí v souboj, je dobrý nápad se mu nejprve dostat pod kůži. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800011A04"
 msgid "I'm barely keeping you together here... this is *it*. If you talk to him, he will rattle *you*, not the other way around."
 msgstr ""
+"Sotva tě teď držím pohromadě... tohle je *ono*. Když na něj budeš mluvit, znervózní on *tebe*, ne naopak. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013806"
 msgid "DON'T GO INTO SHOCK. HOLD ON."
 msgstr ""
+"NEUPADNI DO ŠOKU. DRŽ SE."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013955"
 msgid "The engine of a Coupris Kineema..."
 msgstr ""
+"Motor Coupris Kineemy..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E848"
 msgid "A sound strategy. He's the leader."
 msgstr ""
+"Vhodná strategie. On je vůdce."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018A61"
 msgid "\"Stop, this is the police!\" (Get between them.)"
 msgstr ""
+"\"Policie, zastavte!\" (Vkroč mezi ně.)"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018C2E"
 msgid "There is a hole in his cheek. Blood gushes out as he stumbles backward, eyes filled with rage and disbelief -- gurgling, muttering something unintelligible..."
 msgstr ""
+"V jeho tváři je díra. Zavrávorá vzad a stříká z něj krev, jeho pohled je nevěřícný a plný zuřivosti. Chrchlá a mumlá cosi nesrozumitelného..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004500018C2E"
 msgid "There is a hole in his cheek. He's not smiling anymore. He stumbles backward, eyes filled with disbelief, gurgling, muttering something unintelligible..."
 msgstr ""
+"V jeho tváři je díra. Už se neusmívá. Zavrávorá dozadu, jeho pohled je plný nevěřícnosti. Chrchlá a mumlá cosi nesrozumitelného..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018C8C"
 msgid "Dodge the shot."
 msgstr ""
+"Vyhni se kulce."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100004500018C8C"
 msgid "He'll overcorrect."
 msgstr ""
+"Teď překoriguje."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100004500018C8C"
 msgid "You are faster."
 msgstr ""
+"Jsi rychlejší."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100004500018C8C"
 msgid "He'll make a mistake"
 msgstr ""
+"Udělá chybu."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100004500018C8C"
 msgid "Help is on the way."
 msgstr ""
+"Pomoc je na cestě."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100004500018C8C"
 msgid "Scared!"
 msgstr ""
+"Vyděšený!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E4F"
 msgid "Is there anything -- *anything* -- we could use to protect this frail body? That gun will tear us to pieces."
 msgstr ""
+"Je něco - *cokoliv* - co bychom mohli použít na ochranu tohoto křehkého těla? Ta zbraň nás roztrhá na kusy."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001905D"
 msgid "I'm sorry. (Conclude.)"
 msgstr ""
+"Mrzí mě to. (Uzavři.)"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017448"
 msgid "So... it's not going to hit?"
 msgstr ""
+"Takže... to nezasáhne?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00018976"
 msgid "The leader gives a small nod to the helmeted man. Suddenly the grip of your side-arm feels comforting and warm in your hand. Feels like it's saying: Do it!"
 msgstr ""
+"Vůdce lehce pokývne na muže s helmou. Najednou pažba tvojí zbraně působí uklidňujícím a hřejivým pocitem v tvojí ruce. Jako by říkala: Udělej to!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001A50D"
 msgid "No. You're going to be mowed down by gunfire from the two remaining mercs, so no. Not forever."
 msgstr ""
+"Ne. Prostě tě pokosí výstřely od dvou zbývajících žoldáků, takže ne. Ne navždy."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000000A5"
 msgid "Absolute destruction."
 msgstr ""
+"Naprosté zničení."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000002CA"
 msgid "\"I'm a fucking failure and the love of my life left me.\""
 msgstr ""
+"\"Jsem zkurvené chodící selhání, a láska mého života mě opustila.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000A9B9"
 msgid "He turns to his left and says: \"Kill him.\""
 msgstr ""
+"Otočí se vlevo a řekne: \"Zabij ho.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C179"
 msgid "This is the scab leader. His chest rises and falls under the ceramic breastplate. His fingers reach for the butt of his sidearm."
 msgstr ""
+"Tohle je vůdce stávkokazů. Pod keramickým kyrysem stoupá a klesá jeho hruď. Jeho prsty se natáhnou pro pažbu zbraně. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006C000000D2"
 msgid "You throw the bomb and it's way off."
 msgstr ""
+"Hodíš molotova, a letí úplně mimo."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001197A"
 msgid "I'm barely keeping you together here... this is *it*. The big one. If you talk to him, he will rattle *you*, not the other way around."
 msgstr ""
+"Sotva tě teď držím pohromadě... tohle je *ono*. To velké. Když na něj budeš mluvit, znervózní on *tebe*, ne naopak. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000136F6"
 msgid "\"What's that, loincloth? I can't hear you. Sounds like you got your mouth full of dick. Ruud...\""
 msgstr ""
+"\"Co to má být, křováku? Neslyším tě. Jako bys měl hubu plnou čuráka. Ruude...\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013747"
 msgid "He's trying to find a straight line of sight before the rifleman can take you out. In the background, the leader staggers..."
 msgstr ""
+"Snaží se najít přímou linii pohledu, než tě střelec s puškou sundá. V pozadí zavrávorá vůdce..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000137D9"
 msgid "A look of happiness. His eyes seem unnaturally bright, shining like stars. Something in the fear must distort him somehow. He is evil. And the end."
 msgstr ""
+"Šťastný pohled. Jeho oči jsou nepřirozeně jasné, září jako hvězdy. Něco, co je obsažené ve strachu, v něm muselo cosi pokřivit. On je zlo. A také konec. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000137FA"
 msgid "Warm blood pools underneath you. It's sticky -- and there's so much of it."
 msgstr ""
+"Teplá krev se pod tebou slévá do louže. Je lepkavá - a je jí tak strašně moc."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013866"
 msgid "\"It said I have a vast soul. Do I have a... vast soul?\""
 msgstr ""
+"\"Psalo se tam, že mám rozlehlou duši. Mám... rozlehlou duši?\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001D000002CB"
 msgid "To your right, the killer raises his rifle and takes aim at you. His moves are steady, but the long barrel of the rifle sways slowly..."
 msgstr ""
+"Napravo od tebe zabiják pozvedne svoji pušku a namíří na tebe. Jeho pohyby jsou jisté, ale dlouhá hlaveň pušky se pomalu kývá..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100001D000002CB"
 msgid "The porcelain man raises his rifle and takes aim at you. His hands are steady, and the long barrel of the rifle sways slowly..."
 msgstr ""
+"Porcelánový muž pozvedne svoji zbraň a namíří na tebe. Jeho ruce jsou jisté, a dlouhá hlaveň pušky se pomalu kýve..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000410000017C"
 msgid "Have mercy on yourself. Take the door."
 msgstr ""
+"Slituj se sám nad sebou. Vejdi to těch dveří. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018CE4"
 msgid "Glen -- dying in a puddle of blood behind you. His mangled torso has two gunshot wounds, blood gushes out of them like red geysers."
 msgstr ""
+"Glen - umírající v kaluži krve za tebou. Jeho zmasakrované tělo má dvě střelné rány, stříká z nich krev jako dva rudé gejzíry."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018D55"
 msgid "\"There... behind...\" You hear your bloody lips mumble, but he does not understand. He does not look into your eyes and see the fear there. He does not trust you."
 msgstr ""
+"\"Tam... za tebou...\" Slyšíš svoje zkrvavené rty mumlat, ale on nerozumí. Nepodívá se do tvých očí, a neuvidí ten strach, který je v nich. Nevěří ti. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E79"
 msgid "The pain flows over your entire body like an awful shock. A grim knowing rises from within -- half of your body must be gone."
 msgstr ""
+"Jako strašný šok tě zalije vlna bolesti. Vynoří se ponuré uvědomění - polovina tvého těla musí být pryč."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018F50"
 msgid "The Hardie boys are yelling. Someone is running, jumping over you. In the background you hear gunfire shatter glass -- and then a man in pain. A familiar sound."
 msgstr ""
+"Valchařovci křičí. Někdo běží, přeskočí tě. V pozadí slyšíš, jak výstřely tříští sklo - a muže křičícího bolestí. Povědomý zvuk. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001A34D"
 msgid "Shoot him in the mouth. Shoot him before he shoots you."
 msgstr ""
+"Střel ho do úst. Střel ho, než střelí on tebe."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001A514"
 msgid "Who broke my heart?"
 msgstr ""
+"Kdo zlomil mé srdce?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000002E"
 msgid "Eventually we all do, Harry."
 msgstr ""
+"To jednou dostaneme všichni, Harry."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000011A"
 msgid "(Shout.) \"Stop shooting at me!\""
 msgstr ""
+"(Zakřič.) \"Přestaň po mně střílet!\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000210"
 msgid "I don't care. Fuck me."
 msgstr ""
+"Je mi to jedno. Do hajzlu se mnou."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000002B1"
 msgid "\"Kim, I lied. About not remembering who I am. I made it up... I remember everything.\""
 msgstr ""
+"\"Kime, lhal jsem. O tom, že si nepamatuji, kdo jsem. Vymyslel jsem si to... Pamatuji si všechno.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000002D4"
 msgid "\"Stay with me!\" The lieutenant pushes down on your wound, hard. \"You hear me?! Stay awake! Look at me!\""
 msgstr ""
+"\"Zůstaň se mnou!\" Poručík tvrdě zatlačí na tvoji ránu. \"Slyšíš mě?! Zůstaň vzhůru! Podívej na mě!\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -459,6 +523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C14D"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -467,6 +532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C180"
 msgid "This is the mercenary at the gates! His chest rises and falls under the ceramic breastplate. His fingers reach for the butt of his sidearm."
 msgstr ""
+"Tohle je žoldnéř od vrat! Pod keramickým kyrysem stoupá a klesá jeho hruď. Jeho prsty se natáhnou po pažbě zbraně."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -475,6 +541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C220"
 msgid "So which one is it, who's right?"
 msgstr ""
+"Takže který to je, kdo má pravdu?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -483,6 +550,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400010CB5"
 msgid "Scream IMMEDIATELY! He's gonna die."
 msgstr ""
+"Zakřič OKAMŽITĚ! Jinak zemře."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -491,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800011974"
 msgid "No. We can do this. Drag it out a bit. Get under his skin."
 msgstr ""
+"Ne. Dokážeme to. Vytáhni to na něj. Dostaň se mu pod kůži."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -499,6 +568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013593"
 msgid "Drink beer, drink wine, drink cider, go to parties with young people around and drink beer *and* cider; do drugs too, so you don't fall asleep... You had *some* fun. But not enough to heal you."
 msgstr ""
+"Pij pivo, pij víno, pij cider, choď na pařby, kam chodí mladí lidé, a pij pivo *a* cider; ber drogy, abys neusnul... Užil sis *nějaké* srandy. Ale ne dost, aby tě to vyléčilo."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -507,6 +577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000136CB"
 msgid "\"Do it, primitive...\" He points to his chest. \"Take me out.\""
 msgstr ""
+"\"Udělej to, divochu...\" Ukáže na svoji hruď. \"Oddělej mě.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -515,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015F7A"
 msgid "\"... Fuck me, I forgot the bullets.\" (Just stand there.)"
 msgstr ""
+"\"...Do hajzlu se mnou, zapomněl jsem kulky.\" (Prostě tam stůj.)"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -523,6 +595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018C43"
 msgid "\"They teach you to shoot the chest in copland? Stupid fuck...\" The man shrugs and turns to his left and says: \"Kill him.\""
 msgstr ""
+"\"Vás v bengárně učí střílet do hrudníku? Pitomej sráči...\" Muž pokrčí rameny, otočí se vlevo a řekne: \"Zabij ho.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -531,6 +604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018D43"
 msgid "No!!! Kim..."
 msgstr ""
+"Ne!!! Kime..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -539,6 +613,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100004500018D43"
 msgid "The lieutenant trusts you."
 msgstr ""
+"Poručík ti věří."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -547,6 +622,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100004500018D43"
 msgid "Kim *truly* trusts you."
 msgstr ""
+"Poručík ti *opravdu* věří. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -555,6 +631,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100004500018D43"
 msgid "Haven't earned Kim's trust."
 msgstr ""
+"Nezasloužil sis Kimovu důvěru."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -563,6 +640,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100004500018D43"
 msgid "Kim *really* doesn't trust you."
 msgstr ""
+"Kim ti *opravdu* nevěří."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -571,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E0D"
 msgid "Look at Kortenaer."
 msgstr ""
+"Pohlédni na Kortenaera."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -579,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E41"
 msgid "Blink -- think!"
 msgstr ""
+"Zamrkáš. Mysli!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -587,6 +667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018F10"
 msgid "Here it comes. Death."
 msgstr ""
+"Už přichází. Smrt."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -595,6 +676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500019078"
 msgid "Wait! Uh... what's the story between us?!"
 msgstr ""
+"Počkat! Uh... co se mezi námi stalo?!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -603,6 +685,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001892B"
 msgid "\"Oh, people are gonna die today. We're not leaving it like this. These *tribals* hung him up for everyone to see...\""
 msgstr ""
+"\"Ach, dnes umřou lidi. Takhle to tady nenecháme. Tihle *divoši* ho pověsili všem na očích...\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -611,6 +694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000022"
 msgid "It's good to see you still have capacity for compassion my friend. Deep down you are a good man."
 msgstr ""
+"Je dobré, že máš stále kapacitu pro soucit, kámo. Někde tam hluboko jsi dobrý chlap."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -619,6 +703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000040"
 msgid "This is it. I'm gonna hit the ground and burn away now. Most of the people in this yard are gonna die -- if not all. Probably you too. It's a COMPLETE DISASTER."
 msgstr ""
+"Tak to je. Teď padnu k zemi a shořím. Většina lidí na tomhle dvorku zemře - pokud ne všichni. Pravděpodobně i ty. Je to NAPROSTÁ KATASTROFA."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -627,6 +712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000095"
 msgid "An Ister AR-FA7, built for taking out light armoured vehicles. It will devastate you."
 msgstr ""
+"Ister AR-FA7, zkonstruovaná pro ostřelování obrněných vozidel. Naprosto tě zlikviduje. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -635,6 +721,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000192"
 msgid "Let it happen."
 msgstr ""
+"Ať se to stane. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -643,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000202"
 msgid "Most of what's down there."
 msgstr ""
+"Většina toho, co je tam dole."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -651,6 +739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000026C"
 msgid "No. No. It's just a fear. Even if... who cares. No one wants you anyway."
 msgstr ""
+"Ne. Ne. Je to jen strach. I kdyby... koho to zajímá. Stejně tě nikdo nechce."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -659,6 +748,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000A9B3"
 msgid "Do nothing."
 msgstr ""
+"Nic nedělej."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -667,6 +757,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C219"
 msgid "No, he's calming down. I can talk to him."
 msgstr ""
+"Ne, uklidňuje se. Můžu s ním mluvit."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -675,6 +766,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006C00000065"
 msgid "This time feels different. You aim higher -- as if pulled by a magnet. Your hand goes numb from the explosion and a plume of smoke erupts from the gun..."
 msgstr ""
+"Tentokrát to vypadá jinak. Zamíříš výš - jako by přitahován magnetem. Tvoje ruka znecitliví výstřelem, a z hlavně se vyvalí chochol dýmu..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -683,6 +775,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000118E7"
 msgid "Wait. It's a good thing you have an anthropomorphic petrol bomb. It really is. But you have to soften him up first. Present an argument!"
 msgstr ""
+"Počkat. Dobře, že máš antropomorfního molotova. Opravdu dobře. Ale musíš toho chlapa nejprve obměkčit. Předhoď mu argument!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -691,6 +784,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001378A"
 msgid "There's no way, you're just gonna die. Just close your eyes when it happens..."
 msgstr ""
+"Není jiné cesty, prostě umřeš. Prostě zavři oči, až se to stane..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -699,6 +793,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013876"
 msgid "\"I shouldn't have called her. Now she hates me.\""
 msgstr ""
+"\"Neměl jsem jí volat. Teď mě nenávidí.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -707,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008D000066FD"
 msgid "Around you -- time starts moving again, the sounds of violence and panic."
 msgstr ""
+"Kolem tebe se čas opět rozjede, zvuky násilí a paniky."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -715,6 +811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E65"
 msgid "From the corner of your eye you see the lieutenant raise his pistol -- and aim it at Ruud."
 msgstr ""
+"Koutkem oka vidíš poručíka, jak zvedá svoji pistoli - a namíří ji na Ruuda."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -723,6 +820,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001888E"
 msgid "\"Easy, Lizzie...\" His voice is almost gentle. \"Let me handle it. I know guys like this. I'm sure we can come to a peaceful agreement. Ain't that right, fellas?\""
 msgstr ""
+"\"V klidu, Lízo...\" Jeho hlas je téměř něžný. \"Nech mě to zvládnout. Znám takový chlapy. Jsem si jistý, že dojdeme k mírové dohodě. Je to tak, hoši?\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -731,6 +829,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001897B"
 msgid "The leader gives a small nod to the helmeted man. You feel your fists contract, as you stand there, between these men -- all carrying real weapons."
 msgstr ""
+"Vůdce lehce pokývne na muže v helmě. Cítíš, jak se tvoje pěsti svírají, když tam stojíš, mezi těmi muži - a všichni jsou ozbrojení."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -739,6 +838,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000019"
 msgid "He got what was coming for him."
 msgstr ""
+"Dostal to, co mu patřilo."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -747,6 +847,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000001BC"
 msgid "\"STOP!!!\""
 msgstr ""
+"\"ZASTAVTE TO!!!\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -755,6 +856,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000002E2"
 msgid "\"Everyone knows I made it up. I'm just a drunk. A stupid dead drunk.\""
 msgstr ""
+"\"Všichni vědí, že jsem si to vymyslel. Jsem jen opilec. Blbý mrtvý opilec.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -763,6 +865,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000AA8F"
 msgid "\"There's a white shadow that smells like apricots, it's... always there.\""
 msgstr ""
+"\"Je tam bílý stín vonící meruňkami, je tam... vždy.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -771,6 +874,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000640000AA8F"
 msgid "\"There is a black echo. It smells like apricots and it's... always there.\"\n"
 msgstr ""
+"\"Je tam černá ozvěna. Voní meruňkami a je... je tam vždy.\"\n"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -779,6 +883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000207E"
 msgid "(Whisper.) \"The big one is the damn *scab leader*.\""
 msgstr ""
+"(Zašeptej.) \"Ten velký je ten zatracený *vůdce stávkokazů*.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -787,6 +892,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000710000207E"
 msgid "(Whisper.) \"The big one is the damn *scab leader*.\""
 msgstr ""
+"(Zašeptej.) \"Ten velký je ten zatracený *vůdce stávkokazů*.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -795,6 +901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000118D8"
 msgid "All right! END GAME. Light me on fire and throw me in his face!"
 msgstr ""
+"Dobře! HRA KONČÍ. Zapal mě a hoď mě jemu do ksichtu!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -803,6 +910,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001199E"
 msgid "If you waste time people will die."
 msgstr ""
+"Pokud budeš ztrácet čas, budou umírat lidé."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -811,6 +919,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013706"
 msgid "\"What's the matter, loincloth? Mouth full of dick?\" He croaks. \"Think I'm gonna fucking spare you?!\""
 msgstr ""
+"\"O co jde, křováku? Huba plná čuráka?\" Zakrákorá. \"Myslíš, že tě kurva ušetřím?!\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -819,6 +928,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013830"
 msgid "\"Stay with me!\" You feel burning hot tears streaming from your eyes."
 msgstr ""
+"\"Zůstaň se mnou!\" Cítíš spalující, horké slzy, jak ti tečou z očí."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -827,6 +937,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001384D"
 msgid "\"Everyone is so evil.\""
 msgstr ""
+"\"Každý je tak zlý.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -835,6 +946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001FF3C"
 msgid "Brother, you already *were* a ghost. Up there, screaming -- along with all of them. Scaring each other. Haunting each other."
 msgstr ""
+"Bratře, ty už jsi *byl* duch. Tam nahoře, křičící - se všemi ostatními. Děsili jste se navzájem. Strašili jste jeden druhého."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -843,6 +955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018A72"
 msgid "\"No,\" the lieutenant says firmly. \"We have to step in. This is not going to end well if we don't...\""
 msgstr ""
+"\"Ne,\" odpoví poručík pevně. \"Musíme zakročit. Tohle neskončí dobře, pokud neuděláme...\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -851,6 +964,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018CBF"
 msgid "A low shot rings. You feel a tapping, like rain on your chest plate. Heavy drops of rain. Then the sound of dice rolling, as the cuirass distributes the shot evenly from plate to plate."
 msgstr ""
+"Zazní nízký výstřel. Cítíš klepání, jako déšť na tvém hrudním plátu. Těžké dešťové kapky. Pak zvuk valících se kostek, když kyrys rozprostře výstřel rovnoměrně do plátů."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -859,6 +973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018D4F"
 msgid "\"No,\" you scream: \"BEHIND YOU!\" from your bloody lips. Your eyes are full of fear."
 msgstr ""
+"\"Ne,\" vykřikneš svými zkrvavenými rty: \"ZA TEBOU!\" Tvoje oči jsou plné strachu. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -867,6 +982,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018DF8"
 msgid "Throw the gun at him: \"Die!\""
 msgstr ""
+"Hoď po něm zbraň: \"Chcípni!\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -875,6 +991,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E22"
 msgid "His lips -- moving, swollen with fear -- are trying to say: 'Shoot him, shoot him!', but he can't."
 msgstr ""
+"Jeho rty - pohybující se, naběhlé strachem - se pokouší říct: 'Střel ho, střel ho!', ale on nemůže."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -883,6 +1000,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018EA6"
 msgid "OH GOD! WATCH OUT!"
 msgstr ""
+"ACH BOŽE! POZOR!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -891,6 +1009,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500019032"
 msgid "Your heart is broken, *bratushka*. And it cannot be mended. Believe me, I've tried."
 msgstr ""
+"Tvoje srdce je zlomené, *bratushka*. A nikdo jej nesešije. Věř mi, zkoušel jsem to."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -899,6 +1018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00018871"
 msgid "\"You're all drunk, come to your senses!\" She sounds very sure of herself. \"You won't gun down seven people in the middle of the street. This isn't a frontier town or a jungle outpost.\""
 msgstr ""
+"\"Všichni jste opilí, mějte rozum!\" Zní velmi sebejistě. \"Nemůžete odstřelit sedm lidí jen tak na ulici. Tohle není hraniční město nebo základna v džungli.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -907,6 +1027,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C000189A4"
 msgid "The leader gives a small nod to the helmeted man. Suddenly your fingers holding the grip of a gun, that has just taken a life, tingle... Go for it, it seems to say."
 msgstr ""
+"Vůdce lehce pokývne k muži v helmě. Najednou se tvoje prsty, svírající pažbu zbraně, která před chvílí vzala něčí život, chvějí... Do toho, chce říct."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -915,6 +1036,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000004A"
 msgid "Wow you threw it far -- great throw. Too bad the goal was to throw it a very *short* distance and now everyone will die."
 msgstr ""
+"Vau, hodil jsi daleko - skvělý hod. Škoda, že cílem bylo hodit na velmi *krátkou* vzdálenost, a teď všichni umřou."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -923,6 +1045,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C108"
 msgid "\"Ssshhhhh....\" The lieutenant raises his left hand."
 msgstr ""
+"\"Ššššš...\" Poručík pozvedne levou ruku."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -931,6 +1054,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C11C"
 msgid "\"I'm all out of shits to give, loincloth.\" There's a feverish gleam in his eyes. \"Welcome to the fucking reckoning.\""
 msgstr ""
+"\"Na to ti už úplně seru, křováku.\" Jeho oči se horečnatě lesknou. \"Vítejte na zasraným zúčtování.\" "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -939,6 +1063,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C1AE"
 msgid "\"We're out of time. This is...\""
 msgstr ""
+"\"Došel nám čas. Tohle je...\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -947,6 +1072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000119AA"
 msgid "No, wait! It's good you have that gun. It really is. Just soften him up first. Present an argument!"
 msgstr ""
+"Ne, počkat! Je dobře, že máš tu zbraň. Fakt je. Jen ho předtím obměkči. Předhoď mu argument!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -955,6 +1081,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000119ED"
 msgid "I don't know about this getting under his skin... He'll only get under *yours*. I'm barely keeping you together here. This is *it*."
 msgstr ""
+"Nejsem si jistý ohledně toho dostávání se pod kůži... Jen se dostane pod tu *tvoji*. Sotva tě držím pohromadě. Tohle je to *ono*."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -963,6 +1090,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001379A"
 msgid "You got hit. The armour took most of it, but still your rib cage burns. Feels like blood is slowly seeping into your lungs..."
 msgstr ""
+"Dostals zásah. Většinu jej zachytila zbroj, ale stejně jsou tvoje žebra v jednom ohni. Jako by ti krev pomalu prosakovala do plic..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -971,6 +1099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000137D4"
 msgid "The look of vengeance. Framed by melting skin. This is the last thing he will do on Earth -- but he *will* do it. He will end you."
 msgstr ""
+"Mstivý pohled. Rámovaný rozpouštějící se kůží. Bude to poslední věc, kterou kdy na tomto světě udělá - ale *udělá* ji. Skoncuje s tebou."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -979,6 +1108,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013932"
 msgid "You're thirsty. Reach for the glass of water by the bed. The world is still there. Sleep some more..."
 msgstr ""
+"Máš žízeň. Natáhni se pro sklenici vody u postele. Svět je stále tady. Spi dál..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -987,6 +1117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002F93"
 msgid "You hear a faint scream -- a woman's. Then the sound disappears, like someone pressed STOP on the tape. The woman is gone. So is Kim. Then the whole world..."
 msgstr ""
+"Slyšíš slabý výkřik - ženský. Pak se zvuk vytratí, jako by někdo na magnetofonu zmáčkl STOP. Žena je pryč. Kim také. Potom i celý svět..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -995,6 +1126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002FB1"
 msgid "You hear a faint scream -- a woman's. Then the sound disappears, like someone pressed STOP on the tape. The woman is gone. So is Kim. Then the whole world..."
 msgstr ""
+"Slyšíš slabý výkřik - ženský. Pak se zvuk vytratí, jako by někdo na magnetofonu zmáčkl STOP. Žena je pryč. Kim také. Potom i celý svět..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1003,6 +1135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018A7A"
 msgid "\"Get lost, comedian. You cops had your chance. Now it's fucking time for some justice.\" He licks his lips, waving his gun at the crowd. Losing his balance for a moment, he staggers backward."
 msgstr ""
+"\"Ztrať se, šašku. Vy benga jste měli šanci. Teď je kurva čas na nějakou tu spravedlnost.\" Olízne si rty, zamává svou zbraní do shromáždění lidí. Na chvíli ztratí rovnováhu, zavrávorá dozadu."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1011,6 +1144,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018C52"
 msgid "'I only ever wanted you to have fun, Harry!' it calls out to you. One last time."
 msgstr ""
+"\"Jen jsem si chtěl užít legraci, Harry!\" zavolá na tebe. Naposledy."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1019,6 +1153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E07"
 msgid "Look through the smoke rising from the barrel."
 msgstr ""
+"Pohlédni skrz kouř stoupající z hlavně."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1027,6 +1162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018E1A"
 msgid "The smoke drifts west with the wind. You hear the plaza erupt in violence, slow, like a waterfall in reverse."
 msgstr ""
+"Dým odfoukne vítr z východu. Slyšíš, jak náměstí vybuchne násilím, pomalu, jako obrácený vodopád."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1035,6 +1171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500019064"
 msgid "*What's going to happen now?* Everyone's going to die, what do you think is going to happen?"
 msgstr ""
+"*Co se stane teď?* Všichni umřou, co si myslíš, že se stane?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1043,6 +1180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000052"
 msgid "Thanks, coach!"
 msgstr ""
+"Díky, trenére!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1051,6 +1189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000000EC"
 msgid "Just dodge the first shot -- and the second will be easier. Drunks are quick to anger -- and make mistakes."
 msgstr ""
+"Prostě uhni prvnímu výstřelu - a ten druhý bude snadnější. Opilce je snadné naštvat - a způsobit, že budou chybovat."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1059,6 +1198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C227"
 msgid "He is, he's about to snap!"
 msgstr ""
+"Udělá to, rozzuří se!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1067,6 +1207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000119DF"
 msgid "I'm barely keeping you together here. The more you talk the harder it will get, I'm afraid..."
 msgstr ""
+"Sotva tě držím pohromadě. Čím víc budeš mluvit, tím těžší to bude, obávám se..."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1075,6 +1216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013546"
 msgid "Joopson AS catalogue no. J327 shone on the tie rack, trying to get his attention. The sad man picked it up and put it on. He looked at himself in the mirror. Didn't smile."
 msgstr ""
+"Joopson AS katalog č. J327 září na věšáku s kravatami, snaží se upoutat jeho pozornost. Smutný muž ji vzal a uvázal si ji. Pohlédl na svůj odraz v zrcadle. Neusmíval se."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1083,6 +1225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013800"
 msgid "You're bleeding like a pig, but the bullet *seems* to have gone right through you. Don't go into shock and you might make it."
 msgstr ""
+"Krvácíš jak prase na porážce, ale *zdá se*, že to byl čistý průstřel. Neupadni do šoku a možná to zvládneš."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1091,6 +1234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001392B"
 msgid "He can't go. Not before the case is solved."
 msgstr ""
+"Nemůže jít. Ne dřív, než je případ vyřešen."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1099,6 +1243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E98E"
 msgid "A volcano of burning pain erupts from your left shoulder."
 msgstr ""
+"Ve tvém rameni vybuchne sopka spalující bolesti. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1107,6 +1252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008396"
 msgid "\"Eugene, to your right! Don't let him...\""
 msgstr ""
+"\"Evžene, napravo! Nenech ho...\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1115,6 +1261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018D65"
 msgid "Like a pillow, he falls on you. Cold nylon and blood slumped on you, as the lights go out. All the lights. The last thing you hear is the sound of his spectacles landing on the pavement next to you."
 msgstr ""
+"Složí se na tebe jako na polštář. Padnou na tebe chladný nylon a krev, zatímco vyhasínáš. Úplně. Poslední co slyšíš, je dopad jeho brýlí, když přistanou na dláždění vedle tebe. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1123,6 +1270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017370"
 msgid "What parts of me are... missing?"
 msgstr ""
+"Které moje kousky... chybí?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1131,6 +1279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0001893B"
 msgid "\"You...\" Kortenaer turns his bloodshot eyes to you."
 msgstr ""
+"\"Ty...\" Kortenaer na tebe obrátí krví podlitý pohled. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1139,6 +1288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000217"
 msgid "You can also feel bone where the bullet went in. Something very sharp, like broken teeth under your fingers."
 msgstr ""
+"Cítíš i kost v místě průstřelu. Něco velmi ostrého, jako zlomený zub, pod tvými prsty."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1147,6 +1297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000021E"
 msgid "... it's all gone. Open your eyes now. You have to see what's happening!"
 msgstr ""
+"...všechno zmizelo. Otevři oči. Musíš vidět, co se děje!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1155,6 +1306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000064000002AB"
 msgid "\"Live fast... die *old*.\" (Wince from pain)"
 msgstr ""
+"\"Žij rychle... umři *starý*\" (Zkřivíš obličej bolestí.)"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1163,6 +1315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000379"
 msgid "\"NO,\" you say, and hand out your firearm to him. Your hand trembles and your eyes are full of fear."
 msgstr ""
+"\"NE,\" řekneš a podáš mu svoji zbraň. Tvoje ruka se chvěje a oči jsou naplněné strachem."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1171,6 +1324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C1D9"
 msgid "No, he didn't -- he's about to open fire."
 msgstr ""
+"Ne, neuklidnil - chystá se vystřelit."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1179,6 +1333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000C29B"
 msgid "To your left you hear the lieutenant cock his gun."
 msgstr ""
+"Nalevo od tebe slyšíš poručíka, jak tiskne kohoutek svojí zbraně."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1187,6 +1342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000119B0"
 msgid "Yes, yes! Just shoot him. I'm barely keeping you together here -- no time to talk. He will only rattle you."
 msgstr ""
+"Ano, ano! Prostě ho střel. Sotva tě držím pohromadě - není čas na řeči. Jen tě znervózní."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1195,6 +1351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001353A"
 msgid "I know so little about you. How did we meet?"
 msgstr ""
+"Vím o tobě tak málo. Jak jsme se potkali?"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1203,6 +1360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001355F"
 msgid "And from that moment on -- we rode together. The rest of your clothes were still *normal* back then. But we took care of that soon enough."
 msgstr ""
+"A od té chvíle jsme jeli spolu. Zbytek tvého oblečení byl tehdy ještě *normální*. Ale o to už jsme se brzy postarali."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1211,6 +1369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000135E2"
 msgid "Harry, for god's sake... WATCH OUT!"
 msgstr ""
+"Harry, proboha... POZOR!"
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1219,6 +1378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001376C"
 msgid "It's not easy. He has 0.4 seconds to do so. He won't make it. You're on your own."
 msgstr ""
+"Není to snadné. Má na to 0,4 sekundy. Nedá to. Musíš teď jednat na vlastní pěst."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1227,6 +1387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001387F"
 msgid "\"She would've started loving me again... but I called her and now she won't.\""
 msgstr ""
+"\"Začala by mě zase milovat... ale zavolal jsem jí, a teď už nezačne.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1235,6 +1396,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000780001387F"
 msgid "\"She would have started loving me again but I called her and now she won't.\""
 msgstr ""
+"\"Začala by mě zase milovat, ale zavolal jsem jí, a teď už nezačne.\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1243,6 +1405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000138E0"
 msgid "Of course. I know you do. Everybody leaves, when they get the chance. Go on, keep falling. Deeper... take the door."
 msgstr ""
+"Samozřejmě. Vím, že odejdeš. Každý odejde, když dostane šanci. Pokračuj, padej dál. Hlouběji... vejdi do dveří."
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -1251,6 +1414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018A94"
 msgid "\"You're all drunk, look at yourselves!\""
 msgstr ""
+"\"Všichni jste opilí, jen se na sebe podívejte!\""
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
