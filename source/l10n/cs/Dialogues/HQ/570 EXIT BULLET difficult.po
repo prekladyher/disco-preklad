@@ -1,16 +1,18 @@
 # skywolf <skywolf@email.cz>, 2022.
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: skywolf <skywolf@email.cz>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-05-25 09:15+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -18,7 +20,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A472"
 msgid "This bullet isn't for a breechloader like the murder weapon?"
 msgstr ""
-"Tahle kulka není určena pro samonabíjecí pistoli typu vražedné zbraně?"
+"Tahle kulka není určena pro zadovku typu vražedné zbraně?"
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -26,7 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A491"
 msgid "\"What do you think it's doing here?\""
 msgstr ""
-"\"Co myslíš, že tady dělá?\""
+"\"Co myslíte, že tady dělá?\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -34,7 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005B0A"
 msgid "\"That's a big leap, but from what I've heard, this Ruby sounds pretty desperate. Either way,\" he looks at the bullet again, \"this is enough to confront the washerwoman.\""
 msgstr ""
-"\"To je velký skok, každopádně podle toho, co jsem slyšel, zní ten Ruby celkem zoufale. Tak či tak,\" znovu se podívá na kulku, \"tohle na konfrontaci pradleny stačí.\""
+"\"To je velký skok, každopádně podle toho, co jsem slyšel, je ta Ruby pěkně zoufalá. Tak či tak,\" znovu se podívá na kulku, \"tohle na konfrontaci pradleny stačí.\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -74,7 +76,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A4DF"
 msgid "Holding the bullet, you get the feeling -- this isn't ammunition against you. It's for herself."
 msgstr ""
-"Když držíš v ruce kulku, máš pocit -- že to není munice proti tobě. Je sama za sebe."
+"Když držíš v ruce kulku, máš pocit -- že to není munice proti tobě. Má ji sama na sebe."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -90,7 +92,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200005B02"
 msgid "\"Either way,\" he looks at the bullet again, \"this is enough to confront her with.\""
 msgstr ""
-"\"Tak či tak,\" znovu se podívá na kulku, \"tohle je dost na to ji konfrontovat.\""
+"\"Tak či tak,\" znovu se podívá na kulku, \"tohle je dost na to, abychom ji s tím konfrontovali.\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -122,7 +124,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E092"
 msgid "A 9mm bullet to be exact. Fit for all muzzleloaders of that calibre."
 msgstr ""
-"Devítimilimetrová kulka, pro úplnost. Vhodná pro všechny zadovky této ráže."
+"Devítimilimetrová kulka, pro úplnost. Vhodná pro všechny předovky této ráže."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -130,7 +132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A4C6"
 msgid "It's extra ammunition. She's locked and loaded, ready to fight some cops."
 msgstr ""
-"Munice navíc. Je nabitá a odjištěná, připravená k boji s poldama."
+"Munice pro zvláštní případy. Ona má nabito a odjištěno, je připravená k boji s poldama."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -138,7 +140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000AA7E"
 msgid "Holding the bullet, you get the feeling -- this isn't ammunition against *you*. It's for herself."
 msgstr ""
-"Když držíš v ruce kulku, máš pocit -- že to není munice proti *tobě*. Je sama za sebe."
+"Když držíš v ruce kulku, máš pocit -- že to není munice proti *tobě*. Má ji sama na sebe."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -154,7 +156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A4FB"
 msgid "\"Kim, I think this is extra ammunition against us.\""
 msgstr ""
-"\"Kime, myslím, že tohle je další střelivo proti nám.\""
+"\"Kime, myslím, že tohle je střelivo pro zvláštní případ - proti nám.\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -162,7 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E03B"
 msgid "Search through the sand and sawdust."
 msgstr ""
-"Prohledat písek a piliny."
+"Prohledej písek a piliny."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -170,7 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A48A"
 msgid "\"Yes, for muzzleloaders like the ones officers of the RCM carry. Interesting.\""
 msgstr ""
-"\"Ano, pro zadovky, jaké nosí důstojníci ROM. Zajímavé.\""
+"\"Ano, pro zadovky, jaké nosí příslušníci ROM. Zajímavé.\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -194,7 +196,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A499"
 msgid "\"Someone hid it as extra ammunition?\""
 msgstr ""
-"\"Někdo to schoval jako munici navíc?\""
+"\"Někdo si to schoval jako munici pro zvláštní případ?\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -218,7 +220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DB02"
 msgid "Move the board aside."
 msgstr ""
-"Posunout prkno stranou."
+"Posuň prkno stranou."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -226,7 +228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A466"
 msgid "\"Look, a bullet! Not for a breechloader, though...\""
 msgstr ""
-"\"Podívej, kulka! Jenže ne pro zadovku...\""
+"\"Podívejte, kulka! Jenže ne pro zadovku...\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -242,7 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E041"
 msgid "Oh, I don't want to stick my hand in there. [Leave.]"
 msgstr ""
-"\"Ou, tam svou ruku strkat nechci.\" [Odejít.]"
+"\"Ou, tam svou ruku strkat nechci.\" [Odejdi.]"
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -258,7 +260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A429"
 msgid "\"See anything interesting?\""
 msgstr ""
-"\"Vidíš něco zajímavého?\""
+"\"Vidíte něco zajímavého?\""
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -282,7 +284,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E049"
 msgid "It's nothing. [Leave.]"
 msgstr ""
-"Nic to není. [Odejít.]"
+"Nic to není. [Odejdi.]"
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -298,7 +300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A4AE"
 msgid "\"Let's go, then.\" [Leave.]"
 msgstr ""
-"\"Tak jdeme.\" [Odejít.]"
+"\"Tak jdeme.\" [Odejdi.]"
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -306,7 +308,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E084"
 msgid "A 9mm bullet to be exact. Fit for all muzzleloaders of that calibre, like your own Villiers pistol, for example."
 msgstr ""
-"Devítimilimetrová kulka, pro úplnost. Vhodná pro všechny zadovky této ráže, jakou je například tvůj Villiers."
+"Devítimilimetrová kulka, pro úplnost. Vhodná pro všechny předovky této ráže, jakou je například tvůj Villiers."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -314,7 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000A430"
 msgid "The lieutenant nods."
 msgstr ""
-"Poručík přikyvuje."
+"Poručík přikývne."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
@@ -346,7 +348,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E069"
 msgid "Something bad. Someone's night thoughts. A last resort. A bad idea."
 msgstr ""
-"Něco špatného. Něčí noční myšlenky. Poslední možnost. Špatný nápad."
+"Něco špatného. Něčí noční můry. Poslední možnost. Špatný nápad."
 
 #. Title = HQ / EXIT BULLET difficult
 #. Description = The bullet you find in the shack, hinting that someone else has been staying here. Secretly.
