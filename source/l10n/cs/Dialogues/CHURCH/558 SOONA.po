@@ -12,7 +12,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 23.03.70\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -3360,7 +3360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010307"
 msgid "\"I could ask the representative from the Wild Pines. She's a friend of mine.\""
 msgstr ""
-"\"Mohla bych se zeptat zástupkyně Divokých pinií. Je to moje kamarádka.\""
+"\"Mohl bych se zeptat zástupkyně Divokých pinií. Je to moje kamarádka.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -3801,6 +3801,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010106"
 msgid "It's not often that she allows herself to be awed, but the way she holds the Kristallsprach reminds you of someone receiving a precious gift."
 msgstr ""
+"Málokdy si dovolí být ohromena, ale ten způsob, jakým drží Kristallsprach, ti připomíná někoho, kdo právě dostal vzácný dar."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -4358,7 +4359,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CB49"
 msgid "\"I know it's just ink,\" she replies, as the filament clicks into place, \"but Lintel was somehow able to divine the location of the anomaly from this broken copy. I want to repeat their calculation, only this time with better equipment.\""
 msgstr ""
-"\"Vím, že je to jen inkoust,\" odpoví, když vlákno zacvakne na své místo, \"ale Lintel nějak dokázal z této poškozené kopie určit polohu anomálie. Chci jejich výpočet zopakovat, jen tentokrát s lepším vybavením.\""
+"\"Vím, že je to jen inkoust,\" odpoví, když kapilára zacvakne na své místo, \"ale Lintel nějak dokázal z této poškozené kopie určit polohu anomálie. Chci jejich výpočet zopakovat, jen tentokrát s lepším vybavením.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -4367,7 +4368,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CB56"
 msgid "\"A speck of white?\" She sounds excited, as the filament clicks into place. \"That's exactly what I'm hoping to find.\""
 msgstr ""
-"\"Bílá skvrna?\" Zní vzrušeně, když vlákno zapadne na své místo. \"Přesně v to doufám.\""
+"\"Bílá skvrna?\" Zní vzrušeně, kdyžkapilára zapadne na své místo. \"Přesně v to doufám.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -6905,7 +6906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C532"
 msgid "\"Is this the filament you're looking for?\" (Show her the production schedule.)"
 msgstr ""
-"\"Je tohle to vlákno, které hledáte?\" (Ukazat jí výrobní plán.)"
+"\"Je tohle ta kapilára, kterou hledáte?\" (Ukaž jí výrobní plán.)"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -6941,7 +6942,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C8C3"
 msgid "\"And before you go on, I am *not* disrupting any order here, I'm a circuit bender and no one has anything against circuit benders.\""
 msgstr ""
-"\"A než budeš pokračovat, já tady žádný pořádek nenarušuji, jsem lamač obvodů a proti lamačům obvodů nikdo nic nemá.\""
+"\"A než budeš pokračovat, já tady žádný pořádek nenarušuji, jsem lamačka obvodů a proti lamačům obvodů nikdo nic nemá.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -6950,7 +6951,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C997"
 msgid "\"The bookstore lady hates me -- says I'm part of the *curse*, whatever that means.\""
 msgstr ""
-"\"Ta paní v knihkupectví mě nenávidí -- říká, že jsem součástí *kletby*, ať už to znamená cokoli.\""
+"\"Ta paní v knihkupectví mě nenávidí - říká, že jsem součástí *kletby*, ať už to znamená cokoli.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -6968,7 +6969,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CB32"
 msgid "\"No, that's the production schedule, I don't need it. The right filament memory has 'OFF-SITE COPY' written on silver tape.\""
 msgstr ""
-"\"Ne, to je výrobní plán, ten nepotřebuju. Na té správné kapilární paměti je na stříbrné pásce napsáno 'EXTERNÍ KOPIE'.\""
+"\"Ne, to je výrobní plán, ten nepotřebuju. Na té správné kapilární paměti je na stříbrné pásce napsáno \"EXTERNÍ KOPIE\".\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7022,7 +7023,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000CD93"
 msgid "\"You arrested them...\" She looks up, surprised. \"Didn't think the cops in this place had it in them,\" she murmurs."
 msgstr ""
-"\"Zatknul jste je...\" Překvapeně vzhlédne. \"Nemyslel jsem si, že to tady policajti umí,\" zamumlá."
+"\"Zatknul jste je...\" Překvapeně vzhlédne. \"Nemyslel jsem si, že to místní policajti umí,\" zamumlá."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7058,7 +7059,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000027C0"
 msgid "\"Is the hole connected to the data loss in your journal?\""
 msgstr ""
-"\"Souvisí ta díra se ztrátou dat ve Vašem deníku?\""
+"\"Souvisí ta díra se ztrátou dat ve vašem deníku?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7256,7 +7257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001A31"
 msgid "He's peaking -- the worst high he's ever been on."
 msgstr ""
-"Je na vrcholu -- na tom nejhorším vrcholu, na jakém kdy byl."
+"Je na vrcholu - má ten nejhorší stav, který kdy zažil."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7265,7 +7266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000028AF"
 msgid "Let's think about this -- logically. Why would *nothing* be terrifying if it's, well, *nothing*?"
 msgstr ""
-"Zamysleme se nad tím -- logicky. Proč by *nic* mělo být děsivé, když je to, no, *nic*?"
+"Zamysli se nad tím - logicky. Proč by *nic* mělo být děsivé, když je to, no, *nic*?"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7283,7 +7284,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003EC6"
 msgid "\"We make a pretty good team, Soona.\""
 msgstr ""
-"\"Jsme docela dobrý tým, Soňo.\""
+"\"Jsme docela dobrý tým, Soono.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7346,7 +7347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C4B5"
 msgid "\"Where is your old workspace?\""
 msgstr ""
-"\"Kde je Vaše staré pracoviště?\""
+"\"Kde je vaše staré pracoviště?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7355,7 +7356,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C524"
 msgid "\"Zawisza, of course...\" She relaxes. \"Our project lead Sulisław Zawisza. God, he was always so hell-bent on keeping the copy somewhere 'safe'. And feature creep...\" she mutters, \"and the Valley of the Heads...\""
 msgstr ""
-"\"Záviš, samozřejmě...\" Uvolní se. \"Vedoucí našeho projektu Šulislav Záviš. Bože, jak ten se vždycky tak pekelně snažil, aby ta kopie byla někde 'v bezpečí'. A hlavní podlejzák...\" zamumlá, \"a Údolí hlav...\" "
+"\"Záviš, samozřejmě...\" Uvolní se. \"Vedoucí našeho projektu Šulislav Záviš. Bože, jak ten se vždycky tak pekelně snažil, aby ta kopie byla někde \"v bezpečí\". A hlavní podlejzák...\" zamumlá, \"a Údolí hlav...\" "
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7436,7 +7437,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100005A0000BCEE"
 msgid "Standard Wirrâl die."
 msgstr ""
-"Běžná Wirrâlní kostka."
+"Standardní Wirrâl kostka"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7454,7 +7455,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002A9B"
 msgid "\"Listen, about your research... Maybe I can help with anything? Help you refill those water basins or something...\""
 msgstr ""
-"\"Poslyšte, co se týče toho Vašeho výzkumu... Možná bych Vám mohl s něčím pomoct? Třeba doplnit vodu do těch umyvadel nebo tak něco...\""
+"\"Poslyšte, co se týče toho vašeho výzkumu... Možná bych vám mohl s něčím pomoct? Třeba doplnit vodu do těch misek nebo tak něco...\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7481,7 +7482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002C74"
 msgid "\"Now I'm going to print it out to see what's left of it.\" She's already inserted the filament into the radiocomputer's core, ready to close the door."
 msgstr ""
-"\"Teď si ho vytisknu, abych se podívala, co z něj zbylo.\" Už vložila vlákno do jádra rádiokomputru, připravená zavřít dvířka."
+"\"Teď si ho vytisknu, abych se podívala, co z něj zbylo.\" Už vložila kapiláru do jádra rádiokomputru, připravená zavřít dvířka."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7607,7 +7608,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000159DB"
 msgid "You don't know enough about the world. But that *Joyce* -- if you knew all she knows, could put it together..."
 msgstr ""
-"Nevíš o světě dost. Ale ta *Joyce* -- kdybys věděl všechno, co ví ona, dokázal bys to dát dohromady..."
+"Nevíš o světě dost. Ale ta *Joyce* - kdybys věděl všechno, co ví ona, dokázal bys to dát dohromady..."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7625,7 +7626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600015AF5"
 msgid "She's silent for a second. Then she opens her mouth. \"According to this -- how long...\""
 msgstr ""
-"Chvíli mlčí. Pak otevře ústa. \"Podle tohohle -- jak dlouho...\""
+"Chvíli mlčí. Pak otevře ústa. \"Podle tohohle - jak dlouho...\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7679,7 +7680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000FFF4"
 msgid "\"She's not joking. Even the RCM has to receive special approval from the Coalition to access that kind of equipment.\""
 msgstr ""
-"\"Nedělá si legraci. Dokonce i RCM musí od Koalice získat zvláštní povolení, aby měla přístup k takovému vybavení.\""
+"\"Nedělá si legraci. Dokonce i ROM musí od Koalice získat zvláštní povolení, aby měla přístup k takovému vybavení.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7742,7 +7743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F00000497"
 msgid "\"Wait. Are you -- part of the curse?\""
 msgstr ""
-"\"Počkejte. Jste -- součástí kletby?\""
+"\"Počkejte. Jste - součástí kletby?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7787,7 +7788,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001BEAC"
 msgid "(Nod once.) \"Just make sure you're gone by the time I get back.\""
 msgstr ""
-"(Jednou přikývnout.) \"Jen se ujistěte, že budete pryč, než se vrátím.\""
+"(Jednou přikývni.) \"Jen se ujistěte, že budete pryč, než se vrátím.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7841,7 +7842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CA4E"
 msgid "She gets back to work."
 msgstr ""
-"Vrací se k práci."
+"Vrátí se k práci."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7859,7 +7860,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CCBB"
 msgid "Soona doesn't reply, her hands running over the printout. She's looking for something -- for her morning star -- eyes scouring the millimetres."
 msgstr ""
-"Soňa neodpovídá, rukama přejíždí po výtisku. Něco hledá, zasolenýma očima zkoumá papír milimetr po milimetru. "
+"Soona neodpovídá, rukama přejíždí po výtisku. Něco hledá, zasolenýma očima zkoumá papír milimetr po milimetru."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7922,7 +7923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000000DB"
 msgid "\"No, you just printed out my personal log and wasted some paper.\" It does not look like a big loss to her."
 msgstr ""
-"\"Ne, jen jste si vytiskl můj osobní deník a zbytečně jste plýtval papírem.\" Nepřipadá jí to jako velká ztráta."
+"\"Ne, jen jste si vytiskl můj osobní deník a zbytečně plýtval papírem.\" Nepřipadá jí to jako velká ztráta."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7940,7 +7941,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002849"
 msgid "\"And the AR-1? Is it a 'good antenna'?\""
 msgstr ""
-"\"A co AR-1? Je to 'dobrá anténa'?\""
+"\"A co AR-1? Je to \"dobrá anténa\"?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7958,7 +7959,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000288D"
 msgid "She pats her glowing machine. \"Prefect is mainly based on the same technology as Rehm Civic, so it's kind of a rip-off, but it does have better compatibility with newer antenna models, so I won't complain.\""
 msgstr ""
-"Poplácá svůj svítící přístroj. \"Prefekt je z většiny založen na stejné technologii jako Rehm Civic, takže je to tak trochu vykrádačka, ale má lepší kompatibilitu s novějšími modely antén, takže si nebudu stěžovat.\""
+"Poplácá svůj svítící přístroj. \"Prefekt je z většiny založen na stejné technologii jako Rehm Civic, takže je to tak trochu vykrádačka, ale má lepší kompatibilitu s novějšími modely antén, takže si nestěžuji.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8111,7 +8112,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600015BF6"
 msgid "\"Tiago -- under the roof -- he said he's circling the spot, like a saeraff. He seemed to have lost his mind.\""
 msgstr ""
-"\"Tiago -- pod střechou -- říkal, že krouží kolem místa jako seraf. Zdálo se, že se zbláznil.\""
+"\"Tiago - pod střechou - říkal, že krouží kolem místa jako seraf. Zdálo se, že se zbláznil.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8129,7 +8130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E4EB"
 msgid "Wow. She really doesn't. Not afraid, this one."
 msgstr ""
-"Fíha. Vážně se nebojí. Tahle se."
+"Fíha. Vážně se nebojí. Tahle ne."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8192,7 +8193,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100000F0001028A"
 msgid "Cavalry officer's perspective."
 msgstr ""
-"Pohled důstojníka jezdectva."
+"Perspektiva důstojníka jezdectva."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8246,7 +8247,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000015D4"
 msgid "\"You do know there's no need to officially document this information, right?\" the lieutenant whispers to you."
 msgstr ""
-"\"Víte, že tyto informace není třeba oficiálně dokumentovat, že?\" zašeptá vám poručík."
+"\"Víte, že tyto informace není třeba oficiálně dokumentovat, že?\" zašeptá ti poručík."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8282,7 +8283,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002D00000178"
 msgid "It hurts a bit for her to say this -- she's not too happy to be parting with the Kvalsund."
 msgstr ""
-"Trochu ji bolí, že to musí říct -- není příliš šťastná, že se loučí s Kvalsundem."
+"Trochu ji bolí, že to musí říct - není příliš šťastná, že se loučí s Kvalsundem."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8300,7 +8301,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001BCFB"
 msgid "\"Isn't your Rehm Prefect radiocomputer made exclusively for the government-use?\""
 msgstr ""
-"\"Není váš rádiokomputer Rehm Prefekt určen výhradně pro vládní účely?\""
+"\"Není váš rádiokomputer Rehm Prefekt určen výhradně pro vládní použití?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8354,7 +8355,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C0A7"
 msgid "\"They *promised* they'll do it clean.\""
 msgstr ""
-" \"*Slíbili*, že to udělají čistě.\""
+"\"*Slíbili*, že to udělají čistě.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8363,7 +8364,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000570001C0A7"
 msgid "(Lie.) \"They *promised* they'll do it clean.\""
 msgstr ""
-"(Lež.) \"*Slíbili*, že to udělají čistě.\""
+"(Lži.) \"*Slíbili*, že to udělají čistě.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8381,7 +8382,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C91C"
 msgid "It's not the anodic dance music that's made her bitter... it's the failure of Fortress Accident."
 msgstr ""
-"Není to anodická taneční hudba, co ji rozhořčilo... je to neúspěch Pevnosti Katastrof."
+"Není to anodická taneční hudba, co ji rozhořčilo... je to neúspěch Pevnosti katastrof."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8399,7 +8400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C9CC"
 msgid "\"Yeah, that's the one. You can get in through the bookshop. You just have to do some explaining to the bookstore lady.\""
 msgstr ""
-"\"Jo, to je ono. Dostaneš se tam přes knihkupectví. Jen musíš lehce přesvědčit paní knihkupkyni.\""
+"\"Jo, to je ono. Dostanete se tam přes knihkupectví. Jen musíte lehce přesvědčit paní knihkupkyni.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8426,7 +8427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001D301"
 msgid "\"Rehm Prefect, that's your radiocomputer, right?\""
 msgstr ""
-"\"Rehm Prefekt, to je Váš rádiokomputer, že?\""
+"\"Rehm Prefekt, to je váš rádiokomputer, že?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8453,7 +8454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000291C"
 msgid "That's a little above your pay grade at the moment."
 msgstr ""
-"To je v tuto chvíli tak trochu nad Vaše platové možnosti."
+"To je v tuto chvíli tak trochu nad tvoje platové možnosti."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8525,7 +8526,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500001DCE"
 msgid "\"Who would I tell, my mother?\" She shakes her frizzy head. \"I don't have anyone to tell -- and if I did, I wouldn't. I don't care.\""
 msgstr ""
-"\"Komu bych to řekla, mojí matce?\" Zavrtí kudrnatou hlavou. \"Nemám to komu říct -- a kdybych měla, neřekla bych to. Je mi to jedno.\""
+"\"Komu bych to řekla, mojí matce?\" Zavrtí kudrnatou hlavou. \"Nemám to komu říct - a kdybych měla, neřekla bych to. Je mi to fuk.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8552,7 +8553,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000157DA"
 msgid "Glue-style? Okay, there *literally* is no other way. The mixing desk is glued to maximum."
 msgstr ""
-"Lepidlácky? Fajn, *doslova* není jiná možnost. Hlasitost mixážního pultu je přilepená na maximu.."
+"Lepidlácky? Fajn, *doslova* není jiná možnost. Hlasitost mixážního pultu je přilepená na maximu."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8597,7 +8598,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0001006D"
 msgid "\"Why don't we just use your AR-1?\""
 msgstr ""
-"\"Proč prostě nepoužijeme Vaši AR-1?\""
+"\"Proč prostě nepoužijeme vaši AR-1?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8615,7 +8616,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0001017E"
 msgid "\"Ah, yes. I wasn't sure what to do about that, but then I discovered an abandoned power source down by the edge of the bay.\""
 msgstr ""
-"\"Ach, ano. Nebyl jsem si jistý, co s tím, ale pak jsem objevil opuštěný zdroj energie dole u okraje zátoky.\""
+"\"Ach, ano. Nebyla jsem si jistá, co s tím, ale pak jsem objevila opuštěný zdroj energie dole u okraje zátoky.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8624,7 +8625,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000103B7"
 msgid "Turn to face the bay."
 msgstr ""
-"Otočit se čelem k zálivu."
+"Otoč se čelem k zálivu."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8642,7 +8643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000104A6"
 msgid "\"Your sense of style isn't my concern. I'm only here to tell you what's feasible or not from a technical viewpoint.\""
 msgstr ""
-"\"Váš smysl pro styl mě nezajímá. Jsem tu jen proto, abych vám řekl, co je z technického hlediska proveditelné a co ne.\""
+"\"Váš smysl pro styl mě nezajímá. Jsem tu jen proto, abych vám řekla, co je z technického hlediska proveditelné a co ne.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8741,7 +8742,7 @@ msgstr ""
 msgctxt "tooltip3/0x010000570001BFE9"
 msgid "Helping Egg Head with his jam."
 msgstr ""
-"Pomáhá Eycksteinovi s jeho songem."
+"Pomohls Eycksteinovi s jeho songem."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8777,7 +8778,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001CAF6"
 msgid "\"I brought you the filament.\" (Give her the off-site copy.)"
 msgstr ""
-"\"Přinesl jsem ti tu kapiláru.\" (Dát jí externí kopii.)"
+"\"Přinesl jsem vám tu kapiláru.\" (Dej jí externí kopii.)"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8840,7 +8841,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001D1D4"
 msgid "\"The window is going to come down. NO, THE ROOF...\" She looks up. A screech fills the air, a scream of wood and nails -- the pillars of the church twist and creak above and around you."
 msgstr ""
-"\"Okno půjde dolů. NE, STŘECHA...\" Podívá se nahoru. Vzduch naplní skřípot, jekot dřeva a hřebíků - sloupy kostela se nad vámi i kolem vás kroutí a skřípou."
+"\"Okno se zřítí. NE, STŘECHA...\" Podívá se nahoru. Vzduch naplní skřípot, jekot dřeva a hřebíků - sloupy kostela se nad tebou i kolem tebe kroutí a skřípou."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8849,7 +8850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001D31D"
 msgid "\"I know a friend of a friend who used to freelance for the Coalition,\" she says nonchalantly, scratching her ear. \"I was actually aiming for the military-grade Rehm Rational series, but couldn't find one.\""
 msgstr ""
-"\"Znám kamaráda kamarádky, který pracoval pro Koalici na volné noze,\" řekne nonšalantně a podrbe se za uchem. \"Vlastně jsem usilovala o vojenskou řadu Rehm Rational, ale nemohla jsem ji najít.\""
+"\"Znám kamarádku kamaráda, která pracovala pro Koalici na volné noze,\" řekne nonšalantně a podrbe se za uchem. \"Vlastně jsem usilovala o vojenskou řadu Rehm Rational, ale nemohla jsem ji najít.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8939,7 +8940,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002A5A"
 msgid "Just tell her about Egg Head's defence speech."
 msgstr ""
-"Prostě jí řekni o Eycksteinově proslovu k obhajobě."
+"Prostě jí řekni o Eycksteinově obhajobě."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8948,7 +8949,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002C45"
 msgid "\"Okay,\" she says, pressing fingers into her eyebrow ridge. \"Very cool, thanks for keeping me in the loop.\""
 msgstr ""
-"\"Dobře,\" řekne a vtiskne si prsty do hřebene obočí. \"Super, díky, že mě informujete.\""
+"\"Dobře,\" řekne a vtiskne si prsty do obočí. \"Super, díky, že mě informujete.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8957,7 +8958,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002D9F"
 msgid "\"So -- where is it? Where is your two-millimetre hole in the world?\" (Proceed.)"
 msgstr ""
-"\"Takže... kde to je? Kde je vaše dvoumilimetrová díra ve světě?\" (Pokračuj.)"
+"\"Takže... kde to je? Kde je ta vaše dvoumilimetrová díra ve světě?\" (Pokračuj.)"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -8993,7 +8994,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000030C1"
 msgid "\"Soona...\" (Take off the headphones.) \"What if we just need a better sound system?\""
 msgstr ""
-"\"Soňo...\" (Sundat si sluchátka.) \"Co když jen potřebujeme lepší ozvučení?\""
+"\"Soono...\" (Sundej si sluchátka.) \"Co když jen potřebujeme lepší ozvučení?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
