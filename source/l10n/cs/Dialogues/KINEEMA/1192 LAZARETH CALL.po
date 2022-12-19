@@ -1,4 +1,6 @@
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KINEEMA / LAZARETH CALL
 #. Description = Here you can complete TASK.call_station_lazareth and get mocked by Nix Gottlieb.
@@ -162,7 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000002FC"
 msgid "\"Great to hear it. Stop by some time when you're done with your case -- I'll draw some blood, run it through -- let you know how much 'forever' your liver's going to give you.\""
 msgstr ""
-"\"To rád slyším. Zastav se někdy, až budeš hotový se svým případem - odeberu ti krev, udělám testy - ať víš, kolik 'navždy' ti dovolí tvá játra.\""
+"\"To rád slyším. Zastav se někdy, až budeš hotový se svým případem - odeberu ti krev, udělám testy - ať víš, kolik \"navždy\" ti dovolí tvá játra.\""
 
 #. Title = KINEEMA / LAZARETH CALL
 #. Description = Here you can complete TASK.call_station_lazareth and get mocked by Nix Gottlieb.
@@ -1026,7 +1028,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000002C9"
 msgid "\"How did you know it was me?\""
 msgstr ""
-"\"Jak víte, že to jsem já?\""
+"\"Jak jste věděl, že to jsem já?\""
 
 #. Title = KINEEMA / LAZARETH CALL
 #. Description = Here you can complete TASK.call_station_lazareth and get mocked by Nix Gottlieb.

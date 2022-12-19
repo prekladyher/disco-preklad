@@ -1,4 +1,6 @@
 # Ziriath <ziriath@gmail.com>, 2022.
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = LAIR ORB / wiresinglass
 #. Description = A brief convo with Interfacing about the times they made computer parts with glass
@@ -17,7 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000152BC"
 msgid "The 'how' was a closely guarded secret. Something that was locked in safes and human heads across the river where they were manufactured. As to why? Your fingers don't know."
 msgstr ""
-"Onoj *jak* bylo přísně střeženým tajemstvím. Bylo zamčené v trezorech a v hlavách lidí za řekou, tam, kde tyto věci byly vyrobeny. A proč? Tvoje prsty neví. "
+"Ono *jak* bylo přísně střeženým tajemstvím. Bylo zamčené v trezorech a v hlavách lidí za řekou, tam, kde tyto věci byly vyrobeny. A proč? Tvoje prsty neví. "
 
 #. Title = LAIR ORB / wiresinglass
 #. Description = A brief convo with Interfacing about the times they made computer parts with glass
@@ -33,7 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014F17"
 msgid "\"So this is all that remains of Feld R&D?\""
 msgstr ""
-"\"Takže tohle je vše, co zbylo z Feldu R&D?\""
+"\"Takže tohle je vše, co zbylo z Feldu V&V?\""
 
 #. Title = LAIR ORB / wiresinglass
 #. Description = A brief convo with Interfacing about the times they made computer parts with glass
@@ -113,7 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000152CB"
 msgid "The lieutenant tilts his head, watching the light glimmer on the glass. \"So it is. I think these used to form a single system, slotted in the wall.\""
 msgstr ""
-"Poručík skloní hlavu, pozoruje třpyt světla ve skle. \"Tak to je. Myslím, že byly součástí celého systému, zabudovaného ve zdi.\""
+"Poručík skloní hlavu, pozoruje třpyt světla ve skle. \"Je to tak. Myslím, že byly součástí celého systému, zabudovaného ve zdi.\""
 
 #. Title = LAIR ORB / wiresinglass
 #. Description = A brief convo with Interfacing about the times they made computer parts with glass
@@ -129,4 +131,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014F2E"
 msgid "\"These? No. These are old filament memories. I hope you're not expecting to find that device here -- you will be disappointed.\""
 msgstr ""
-"\"Tyhle? Ne, to jsou staré kapilární paměti. Snad jste nečekal, že tady najdete celý ten přístroj - byl byste zklamán.\""
+"\"Tohle? Ne, to jsou staré kapilární paměti. Snad jste nečekal, že tady najdete celý ten přístroj - byl byste zklamán.\""

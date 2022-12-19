@@ -159,6 +159,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Alice DeMettrie">
+        <descrip type="definition">[aA] [VYKAT] Operátorka okrsku 57 (od Kima)</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Alice DeMettrie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Alice DeMettrie</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Andre">
         <descrip type="definition">[OK] [aA] [VYKAT] </descrip>
         <langSet xml:lang="en">
@@ -572,6 +585,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>lamač obvodů</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Coal City">
+        <descrip type="definition">[aA] větší díra než Martinéza</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Coal City</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Uhelné město</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1889,6 +1915,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="kipt, kipts">
+        <descrip type="definition">[aA] hanlivé označení obyvatel Jižní Semeniny</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>kipt, kipts</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>kipt, kipti (nepsat kiptové)</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Klaasje">
         <descrip type="definition">[OK] [aA] [VYKAT] mladá žena, VYKAT</descrip>
         <langSet xml:lang="en">
@@ -2561,7 +2600,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>detektive, strážník (pokud tak Kim osloví Harryho)</term>
+            <term>detektive, strážníku (pokud tak Kim osloví Harryho)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2691,7 +2730,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>strážník</term>
+            <term>strážník, strážnice</term>
           </tig>
         </langSet>
       </termEntry>
