@@ -1,5 +1,6 @@
 # phsquad, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -1755,7 +1756,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B000017BA"
 msgid "After a moment of fiddling with the radio, you push the glowing SAVED button. And on comes a familiar voice: \"...SPOKE TO THE W-W-WILDEST COP IN REVACHOL.\""
 msgstr ""
-"Po chvíli hraní si s rádiem zmáčkneš tlačítko ULOŽENÉ. A ozve se známý hlas: \"... MLUVIL S N-N-NEJODVÁZANĚJŠÍM REVACHOLSKÝM POLDOU.\""
+"Po chvíli hraní si s rádiem zmáčkneš tlačítko ULOŽENO. A ozve se známý hlas: \"... MLUVIL S N-N-NEJODVÁZANĚJŠÍM REVACHOLSKÝM POLDOU.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -2491,7 +2492,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A00000382"
 msgid "The white suede feels luxurious under the touch and the metal clutch handle so very familiar in your palm..."
 msgstr ""
-"Bílý semiš působí na dotek tak luxusně, a kovová páka spojky tak povědomě v tvé dlani..."
+"Bílý semiš působí na dotek tak luxusně, a kovová páka spojky v tvé dlani tak povědomě..."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -4019,6 +4020,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A000003AB"
 msgid "Release the clutch handle."
 msgstr ""
+"Pusť rukojeť spojky."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -5969,6 +5971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000066BE"
 msgid "\"You said something about a pawnshop?\""
 msgstr ""
+"\"Říkal jste něco o zastavárně?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -5984,6 +5987,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000AB21"
 msgid "\"Uh, the name's Mr. Costeau. Raphaël to friends. Kim's my friend.\""
 msgstr ""
+"\"Uh, moje jméno je pan Costeau. Kamarádi mi říkají Raphaël. Kim je můj kamarád.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -5999,6 +6003,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000AB44"
 msgid "\"Mr. Harry, do you have permission to call from the lieutenant's vehicle? Where is he?\""
 msgstr ""
+"\"Pane Harry, máte povolení volat z poručíkova vozidla? A kde on je?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6014,6 +6019,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000ABCF"
 msgid "\"That's one of the things I may need help with.\" (Cough.)"
 msgstr ""
+"\"Tohle je jedna z věcí, se kterými budu potřebovat pomoci.\" (Zakašlej.)"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6029,6 +6035,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003474"
 msgid "\"This is the Coupris Kineema, my motor carriage. You can use the toolbox and the radio if you'd like.\" He nods at the cabin."
 msgstr ""
+"\"To je Coupris Kineema, můj motorový vůz. Můžete použít box s nástroji a rádio, pokud chcete.\" Pokývne do kabiny."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6044,6 +6051,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000092000034A5"
 msgid "\"Yes, sorry about that... the Coupris Kineema does have a rather... distinctive engine sound.\""
 msgstr ""
+"\"Ano, promiňte že... Coupris Kineema má poněkud... výrazný zvuk motoru.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6059,6 +6067,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000092000035F7"
 msgid "He's still avoiding your gaze -- and his ears glow red."
 msgstr ""
+"Stále se vyhýbá tvému pohledu - a jeho uši svítí rudě. "
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6074,6 +6083,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003730"
 msgid "Like a leopard, waking from its sleep. Yawning and roaring at the same time."
 msgstr ""
+"Jako leopard budící se ze spánku. Zívající a řvoucí zaráz. "
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6089,6 +6099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000098F8"
 msgid "Uhm... When Lieutenant Kitsuragi is here? It's his MC."
 msgstr ""
+"Uhm... Až tady bude poručík Kitsuragi? Je to jeho vůz."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6104,6 +6115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000166E1"
 msgid "Damn it -- the lieutenant had the number and he's not here."
 msgstr ""
+"Sakra - poručík má to číslo u sebe, a není tady. "
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6119,6 +6131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001677E"
 msgid "\"Give it a minute, she might be busy at the moment... takes a bit to get to the phone.\""
 msgstr ""
+"\"Dejte tomu minutu, možná je zrovna zaneprázdněná... chvíli trvá, než se dostane k telefonu.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6134,6 +6147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B149"
 msgid "Wait, what? 'Wild one'? That doesn't sound right..."
 msgstr ""
+"Počkat, počkat? 'Nespoutaný'? To nezní dobře..."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6149,6 +6163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A000003D1"
 msgid "Wait, does it mean I know how to pilot it?"
 msgstr ""
+"Počkat, znamená to, že vím, jak to pilotovat?"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6164,6 +6179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A000003E4"
 msgid "After a while you realize silence is your only answer. Do what you will with it."
 msgstr ""
+"Po chvíli zjistíš, že ticho je jedinou odpovědí. Dělej s tím, co chceš. "
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6179,6 +6195,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A000003EC"
 msgid "The smell of freshly treated leather, the lack of dirt and dust on the dashboard, and a neat little brush in the cup-holder all seem to be whispering:"
 msgstr ""
+"Vůně čerstvě ošetřené kůže, absence špíny a prachu na palubní desce, a malý kartáček v držáku na pití jako by šeptaly:"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6194,6 +6211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000012CA"
 msgid "The radio host doesn't try to contain his laughter. \"Oh, man, I love it! You're great. No, we didn't do anything like that. Wouldn't know how to -- we just played it on air like normal people.\""
 msgstr ""
+"Rádiový hlasatel se nesnaží potlačit smích. \"Ach, kámo, to se mi líbí! Seš skvělej. Ne, my nic takovýho nedělali. Ani nevíme jak - jen jsme to pouštěli do éteru jako normální lidi.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6209,6 +6227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000131F"
 msgid "\"I'm just thinking of the children.\""
 msgstr ""
+"\"Já jen myslím na děti.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6224,6 +6243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001365"
 msgid "\"Not going to happen, you fascist prick. Tell your friend to not listen to us any more.\""
 msgstr ""
+"\"To se nestane, fašistickej zmrde. Řekni svému kámošovi, ať už nás neposlouchá.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6239,6 +6259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000136F"
 msgid "No parting words; only the dull cry of the dial tone."
 msgstr ""
+"Žádná slova rozloučení; jen tupé volání oznamovacího tónu."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6254,6 +6275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000018C2"
 msgid "A look of betrayal. The secret has been revealed!"
 msgstr ""
+"Pohled zračící zradu. Tajemství bylo vyzrazeno!"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6269,6 +6291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000023D3"
 msgid "\"I don't really know my address...\""
 msgstr ""
+"\"Já vlastně neznám svoji adresu...\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6284,6 +6307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00001C7B"
 msgid "\"Hi, Alice, this is the officer from the 41st Precinct speaking. Nice to meet you.\""
 msgstr ""
+"\"Zdravím, Alice, hovoří poručík z Okrsku 41. Rád vás poznávám.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6299,6 +6323,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C000045A5"
 msgid "\"God-damn-it!\" The lieutenant moves quick as a viper as he switches off the radio and sets it on primeline. Then he turns to you:"
 msgstr ""
+"\"Kss-s-sakru!\" Poručík se vymrští jak zmije, vypne rádio a přepne jej na hlavní kanál. Pak se k tobě otočí:"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6314,6 +6339,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003581"
 msgid "\"Really?\" the lieutenant looks at you. \"Well, I'm not indifferent on the matter either.\" He adjusts his glasses, visibly pleased to have found a fellow fan."
 msgstr ""
+"\"Opravdu?\" poručík na tebe pohlédne. \"No, v téhle věci také nejsem zcela lhostejný.\" Urovná si brýle, viditelně potěšený, že našel dalšího fandu. "
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6329,6 +6355,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000092000035EF"
 msgid "Turn it off, this isn't music!"
 msgstr ""
+"Vypni to, tohle není hudba!"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6344,6 +6371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000005000036A8"
 msgid "\"All right, let's *not* take them now, then come back once we realize we have to -- have this conversation *again* and then take them.\""
 msgstr ""
+"\"Dobře, tak si je teď *neberme*, pak se sem vraťme, až zjistíme, že je potřebujem - a zopakujme si tuhle konverzaci *znovu*, a pak si je vezmeme.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6359,6 +6387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016544"
 msgid "In the cabin you see a set of steering levers, a radio on a hook, a pull-out toolbox and the soft glow of the fuel pre-heater gauge."
 msgstr ""
+"V kabině vidíš dvojici pák řízení, na háku zavěšené rádio, šuplík s nástroji a měkce svítící kontrolku žhavení."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6374,6 +6403,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B193"
 msgid "Offensive-smoffensive, just ask her, alright!"
 msgstr ""
+"Tak urááážlivééé to je, prostě se jí zeptej, jo!"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6389,6 +6419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001B1CE"
 msgid "What an unbelievable prude... Oh well, at least now you know."
 msgstr ""
+"Jaká to neuvěřitelná frigida... No dobře, aspoň už to víš."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6404,6 +6435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001AC1"
 msgid "\"No more dangerous than stepping between three armed mercenaries and eight Union men, I hope.\" He glances over his shoulder."
 msgstr ""
+"\"Ne víc nebezpečné, než se postavit mezi tři ozbrojené žoldnéře a osm mužů Odborů, doufám.\" Ohlédne se přes rameno."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6419,6 +6451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001B65"
 msgid "\"You can try calling again -- just don't mention the tribunal. And remember, they're listening in.\""
 msgstr ""
+"\"Můžete zkusit volat znovu - ale nezmiňujte tribunál. A pamatujte, poslouchají nás.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6434,6 +6467,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A000003D7"
 msgid "Release the clutch and squeeze it again."
 msgstr ""
+"Pusť spojku a znovu ji stiskni."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6449,6 +6483,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A00000447"
 msgid "Push in the pull-out toolbox."
 msgstr ""
+"Vysuň šuplík s nástroji."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6464,6 +6499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000021F"
 msgid "I'm good, cherished and cared for, in the hands of a tending owner."
 msgstr ""
+"Jsem dobrá, milovaná a servisovaná, v rukou pečujícího majitele. "
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6479,6 +6515,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001155"
 msgid "\"Come again, officer?\""
 msgstr ""
+"\"Zkuste znovu, důstojníku?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6494,6 +6531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001178"
 msgid "\"Right... One moment, officer.\""
 msgstr ""
+"\"Dobře... Moment, důstojníku.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6509,6 +6547,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001262"
 msgid "He sighs. \"Is that what this is about? Listen, it's not our problem if kids decide to tune into R-R-R-Revachol's hottest station.\""
 msgstr ""
+"Povzdechne si \"Proto voláš? Poslyš, není náš problém, že se děcka rozhodnou naladit si nejžhavější stanici v celým R-R-R-Revacholu.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6524,6 +6563,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B00001262"
 msgid "He sighs. \"Come on, man, I just told you we're cleared to play shit like that. Listen, it's not our problem if kids decide to tune into R-R-R-Revachol's hottest station.\""
 msgstr ""
+"Povzdechne si. \"No tak, chlape. Právě jsem řekl, že není nic špatného na tom, hrát takový věci. Poslyš, není náš problém, že se děcka rozhodnou naladit si nejžhavější stanici v celým R-R-R-Revacholu.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6539,6 +6579,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000012B6"
 msgid "\"Was there anything else you need to know?\""
 msgstr ""
+"\"Ještě něco jste potřeboval vědět?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6554,6 +6595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000017BF"
 msgid "\"FASCIST PIGS, I SWEAR. YOU SHOULD ALL...\" The assault gives way to burning quiet."
 msgstr ""
+"\"FAŠISTICKÁ PRASATA, JÁ PŘÍSAHÁM. VŠICHNI BYSTE...\" Sonický útok je vystřídán spalujícím tichem."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6569,6 +6611,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B000017BF"
 msgid "After a moment of fiddling with the radio, you push the glowing SAVED button. And on comes a familiar voice: \"FASCIST PIGS, I SWEAR. YOU SHOULD ALL...\" The assault gives way to burning quiet."
 msgstr ""
+"Po chvíli hraní si s rádiem zmáčkneš svítící tlačítko ULOŽENO. A ozve se známý hlas: \"FAŠISTICKÁ PRASATA, JÁ PŘÍSAHÁM. VŠICHNI BYSTE...\" Sonický útok je vystřídán spalujícím tichem."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6584,6 +6627,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000018A7"
 msgid "\"That's DJ Mesh! That was Speedfreaks FM!\""
 msgstr ""
+"\"To je DJ Mesh! To byli Speedfreaks FM!\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6599,6 +6643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00002141"
 msgid "\"... GET INTO GEAR, DROP THE MOTHERFUCKING CLUTCH AND LET THE P-P-PPP-PPPPOWER TAKE YOU ON A JOURNEY OF A LIFETIME!\""
 msgstr ""
+"\"...ZAŘAĎTE, SPOJKU DO ZÁBĚRU KURVA, A AŤ VÁS S-S-SSS-SSSÍLA MOTORU VYTÁHNE NA JÍZDU VAŠEHO ŽIVOTA!\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6614,6 +6659,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006587"
 msgid "Those are some fancy words. Most people would just call it *the cage*."
 msgstr ""
+"To jsou nějaká vznešená slova. Většina lidí by to nazvala prostě *klec*."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6629,6 +6675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000AA57"
 msgid "\"Have you heard back from the ICP about the serial number?\""
 msgstr ""
+"\"Ozvali se z IPM ohledně toho sériového čísla?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6644,6 +6691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500001249"
 msgid "\"Connect me to Jamrock Public Library.\""
 msgstr ""
+"\"Spojte mě s Veřejnou knihovnou ve Šprajclu.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6659,6 +6707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500001273"
 msgid "\"Yes, this is Central Jamrock Public Library here.\" A male librarian answers the call. \"How can I help you, officer?\""
 msgstr ""
+"\"Ano, zde Veřejná knihovna Šprajcl Střed.\" Knihovník zvedne hovor. \"Jak vám mohu pomoci, detektive?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6674,6 +6723,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000092000035C4"
 msgid "Motor carriage, motor carriage... Something bad with a motor carriage.... A dark lump rises in your throat."
 msgstr ""
+"Motorový kočár, motorový kočár... Něco špatně s motorovým kočárem... Najednou máš v krku knedlík."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6689,6 +6739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003641"
 msgid "\"Anything else, detective?\""
 msgstr ""
+"\"Něco dalšího, detektive?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6704,6 +6755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009200003688"
 msgid "\"Hello... hello... hello....\" (Mimic echo.) \"Is there anybody out there?\""
 msgstr ""
+"\"Haló... haló... haló...\" (Napodob ozvěnu.) \"Je tam někdo?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6719,6 +6771,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008D8E"
 msgid "You can do good work with these: cut chains, locks, and ropes -- especially belts..."
 msgstr ""
+"S nimi můžeš odvést kus práce: cvakat řetězy, zámky a lana - a zvláště pásy..."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6734,6 +6787,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000098CC"
 msgid "How do I turn on the headlights?"
 msgstr ""
+"Jak zapnu přední světla?"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6749,6 +6803,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000006000098CC"
 msgid "\"Kim, how do I turn on the headlights?\""
 msgstr ""
+"\"Kime, jak zapnu přední světla?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6764,6 +6819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000164E1"
 msgid "\"So you took his spinners?\""
 msgstr ""
+"\"Takže jste vzal jeho poklice?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6779,6 +6835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016764"
 msgid "\"...\""
 msgstr ""
+"\"...\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6794,6 +6851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001B39"
 msgid "No reply. Only the mindless drone of static, crawling through the air."
 msgstr ""
+"Žádná odpověď. Jen bezduché statické bzučení, plížící se vzduchem."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6809,6 +6867,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001B56"
 msgid "Turn off the radio."
 msgstr ""
+"Vypni rádio."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6824,6 +6883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004A0000033C"
 msgid "Pull out the pull-out toolbox."
 msgstr ""
+"Vysuň šuplík s nástroji."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6839,6 +6899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000011CC"
 msgid "\"The Lamb is calm before its slaughter. It does not know what will befall it.\""
 msgstr ""
+"\"Jehně je před porážkou klidné. Neví, co se mu má přihodit.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6854,6 +6915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000011FE"
 msgid "\"Great title, man! Number one stuff.\""
 msgstr ""
+"\"Skvělý název, chlape! Prvotřídní věc.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6869,6 +6931,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001208"
 msgid "\"... What?\""
 msgstr ""
+"\"...Cože?\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6884,6 +6947,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001271"
 msgid "This is preposterous. Neither sound nor scent work anything as he's describing. What does he even *mean*?"
 msgstr ""
+"To je absurdní. Ani zvuk, ani pach nefungují tak, jak on popisuje.  Co tím vůbec *myslel*?"
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6899,6 +6963,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000012CF"
 msgid "\"Right on, brother. We gotta make sure everybody tunes into this sonic revolution!\""
 msgstr ""
+"\"Přesně tak, brácho. Zařídíme, že každý bude souznít s naší sonickou revolucí!\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6914,6 +6979,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000130B"
 msgid "\"It's not a conspiracy theory, it's logic. The lesser races, still fresh and DRIPPING from the proto-slime, can't beat us outright -- so they resort to impossibly devious schemes.\""
 msgstr ""
+"\"To není konspirační teorie, to je logika. Nižší rasy, stále čerstvé a OKAPÁVAJÍCÍ proto-sliz nás nepřemůžou normálně - a tak se uchylují k neskutečně úskočným taktikám.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6929,6 +6995,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001360"
 msgid "\"Not going to happen, you fascist prick.\""
 msgstr ""
+"\"To se nestane, ty fašistickej zmrde.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6944,6 +7011,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000017C9"
 msgid "\"FASCIST PIGS, I SWEAR. YOU AND KIM KITSURAGI SHOULD ALL...\" The assault gives way to burning quiet."
 msgstr ""
+"\"FAŠISTICKÁ PRASATA, JÁ PŘÍSAHÁM. TY I KIM KITSURAGI BYSTE OBA MĚLI...\" Sonický útok je vystřídán spalujícím tichem."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6959,6 +7027,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B000017C9"
 msgid "After a moment of fiddling with the radio, you push the glowing SAVED button. And on comes a familiar voice: \"FASCIST PIGS, I SWEAR. YOU AND KIM KITSURAGI SHOULD ALL...\" The assault gives way to burning quiet."
 msgstr ""
+"Chvíli si hraješ s rádiem, pak zmáčkneš svítící tlačítko ULOŽENO. A ozve se známý hlas: \"FAŠISTICKÁ PRASATA, JÁ PŘÍSAHÁM. TY A KIM KITSURAGI BYSTE MĚLI...\" Sonický útok je vystřídán spalujícím tichem."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6974,6 +7043,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000017F1"
 msgid "\"We aren't discussing this.\" After a few bars, the lieutenant turns the radio back to PRIMELINE."
 msgstr ""
+"\"O tomhle se bavit nebudeme.\" Po pár akordech poručík přepne rádio zpět na HLAVNÍ KANÁL."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -6989,6 +7059,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000193F"
 msgid "This has gone far enough. You're going to show dignity toward your fellow officer and *apologize*."
 msgstr ""
+"Tohle došlo už dost daleko. Prokážeš svoji důstojnost vzhledem k tvému kolegovi důstojníkovi, a *omluvíš se*."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7004,6 +7075,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00001D44"
 msgid "\"What do you mean, officer? I'm not Sylvie.\""
 msgstr ""
+"\"Co tím myslíte, důstojníku? Já nejsem Sylvie.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7019,6 +7091,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00001D4B"
 msgid "\"I don't know, Alice... just connect me.\""
 msgstr ""
+"\"Já nevím, Alice... prostě mě spojte.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7034,6 +7107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00004587"
 msgid "\"Nothing to *get into* really, but sure, let's focus on the important things.\" He pats the motor carriage."
 msgstr ""
+"\"Nic, do čeho *se dostat*, ne, ale jistě bychom se měli soustředit na důležité věci.\" Poplácá svůj motorový vůz."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7049,6 +7123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000AB07"
 msgid "\"Yes, I know Kim! He's my partner.\""
 msgstr ""
+"\"Ano, znám Kima! Je mým partnerem.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7064,6 +7139,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000AB83"
 msgid "\"Affirmative, Lieutenant Du Bois.\" There's a pause, tense with anticipation."
 msgstr ""
+"\"Potvrzuji, poručíku Du Bois.\" Následuje odmlka, napjatá očekáváním."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7079,6 +7155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000284"
 msgid "\"I was told I need to connect to my station... the 41st lazareth.\""
 msgstr ""
+"\"Bylo mi řečeno, že se mám spojit se svou stanicí... s lazaretem 41.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7094,6 +7171,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008100000284"
 msgid "\"Alice, I need medical attention. Please connect me to Nix Gottlieb at Station 41.\""
 msgstr ""
+"\"Alice, potřebuji lékařskou pomoc. Prosím, spojte mě s Nixem Gottliebem na Stanici 41.\""
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
@@ -7429,7 +7507,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001797"
 msgid "Press the button labelled \"Saved\" and turn on Speedfreaks FM."
 msgstr ""
-"Zmáčkni tlačítko značené \"Uložené\" a pusť Speedfreaks FM."
+"Zmáčkni tlačítko značené \"Uloženo\" a pusť Speedfreaks FM."
 
 #. Title = PLAZA / COUPRIS KINEEMA
 #. Description = Lieutenant Kitsuragi's Coupris Kineema. With the built in shortwave radio and a trunk full of goodies, here lies the answer to the question that's been bothering you - what tore me from the soft abyss this morning.
