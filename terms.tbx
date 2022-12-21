@@ -2722,7 +2722,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="patrol officer">
-        <descrip type="definition">[OK] [aA] 2. nejnižší hodnost ROM</descrip>
+        <descrip type="definition">[aA] nejnižší hodnost ROM, používá se i krátká verze strážník, strážnice</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>patrol officer</term>
@@ -2730,7 +2730,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>strážník, strážnice</term>
+            <term>hlídkující strážník, strážnice</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3745,6 +3745,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Bristelmünské konvence</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="The Landing">
+        <descrip type="definition">[aA] Název operace během níž se v Revachoclu vylodila koaliční vojska</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>The Landing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Vylodění</term>
           </tig>
         </langSet>
       </termEntry>
