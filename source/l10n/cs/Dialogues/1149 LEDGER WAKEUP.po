@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009261"
 msgid "*Beeaautiful*... Believe me, stupid ape, its lack of beauty was *not* the problem."
 msgstr ""
+"*Krááásné*... Věř mi, ty hloupá opice, nedostatek krásy *nebyl* ten problém."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000938D"
 msgid "\"I don't know. It could have been quite a while.\" He looks you in the eye, as if inspecting your mental state."
 msgstr ""
+"\"Nevím. Mohlo to být docela dlouho.\" Podívá se ti do očí, jako by zkoumal tvůj duševní stav."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093D8"
 msgid "\"You dropped this -- are you okay to proceed?\""
 msgstr ""
+"\"Upustil jste ho - můžete pokračovat?\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000945B"
 msgid "Glowing lights on a dashboard emerge out of nothingness."
 msgstr ""
+"Z nicoty se vynoří světla svítící na palubní desce."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009235"
 msgid "Just nod. [Leave.]"
 msgstr ""
+"Jen přikývni. [Odejdi.]"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092BF"
 msgid "Yes, that."
 msgstr ""
+"Ano, to."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092CB"
 msgid "There is nothing."
 msgstr ""
+"Není nic."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000935E"
 msgid "Because it's always there."
 msgstr ""
+"Protože je tady vždycky."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093AF"
 msgid "And who was *that*?"
 msgstr ""
+"A kdo by *tohle*?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000112F"
 msgid "The Ledger of Failure and Hatred is a special item that can be used both as an INTERACTABLE and a TOOL equipped in your HELD slot for skill bonuses. Find it under the TOOLS tab in your INVENTORY."
 msgstr ""
+"Fascikl selhání a nenávisti je speciální předmět, který lze použít jako INTERAKTIVNÍ předmět i jako NÁSTROJ, který máš v ruce a který ti přináší bonusy k dovednostem. Najdeš ho na kartě NÁSTROJE ve svém INVENTÁŘI."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009387"
 msgid "Enough... just lie there, motionless."
 msgstr ""
+"Stačí... jen lež, nehybně."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009393"
 msgid "You think they would let you -- until you disintegrate into biomolecules? No, someone is breathing on your face now, inspecting your pupils. Stupid idiot."
 msgstr ""
+"Myslíš, že by tě nechali - dokud by ses nerozpadl na biomolekuly? Ne, někdo ti teď dýchá na obličej a kontroluje zorničky. Pitomý idiot."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093EA"
 msgid "Your name is *fuck all*."
 msgstr ""
+"Tvé jméno je *srát na všechno*."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009358"
 msgid "Well, *almost* nothing. There is the ground below you. That's still there. And the small light that's on -- fluttering -- somewhere in the Basal Ganglia."
 msgstr ""
+"No, *téměř* nic. Pod tebou je země. Ta tam stále je. A malé světýlko, které svítí - třepotá se - někde v bazálních gangliích."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093E4"
 msgid "Is it? The world is gone, you're no longer reacting to outward stimuli. Yet still..."
 msgstr ""
+"Je to tak? Svět je pryč, už nereaguješ na vnější podněty. Přesto..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009241"
 msgid "I'm not coming back..."
 msgstr ""
+"Už se nevrátím..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009283"
 msgid "Yeah, man, what was that about?"
 msgstr ""
+"Jo, chlape, co to bylo?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092AD"
 msgid "The water is cold, silvery  -- the stuff of *life itself* as it pours down your parched throat. The pounding in your head recedes, the darkness parts."
 msgstr ""
+"Voda je studená, stříbřitá - matérie *samotného života*, když ti stéká do vyprahlého hrdla. Bušení v hlavě ustupuje, temnota se rozestupuje."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009348"
 msgid "\"What happened?\""
 msgstr ""
+"\"Co se stalo?\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093B5"
 msgid "\"That does sometimes happen.\" He hands you the remains of your ledger."
 msgstr ""
+"\"To se někdy stává.\" Podá ti zbytky tvého fasciklu."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093BB"
 msgid "\"Right.\" he hands you the waterlogged remains of your ledger."
 msgstr ""
+"\"Dobře.\" Podá ti rozmočené zbytky tvého fasciklu."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093F0"
 msgid "What is that? It's cold..."
 msgstr ""
+"Co to je? Je to studené..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000933C"
 msgid "\"There was a call on the shortwave: officer passed out in Martinaise.\" He furrows his brow. \"I had a feeling it would be you. I'm glad I got here in time.\""
 msgstr ""
+"\"Na krátkých vlnách se ozvalo volání: v Martinéze omdlel policista.\" Svraští čelo. \"Měl jsem pocit, že to budete vy. Jsem rád, že jsem se sem dostal včas.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000937B"
 msgid "That's me, blue eyes. That's me."
 msgstr ""
+"To jsem já, modroočko. To jsem já."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000941D"
 msgid "He replies with such understanding it's as if the burnt out ruins of the past were an occupational hazard -- athlete's foot for cops."
 msgstr ""
+"Odpovídá s takovým pochopením, jako by vyhořelé ruiny minulosti byly rizikem povolání - tenisový loket pro policisty."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000942F"
 msgid "The cool when you're dead, brother."
 msgstr ""
+"Pohoda, když jsi mrtvý, bratře."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009295"
 msgid "\"No.\" Push it away."
 msgstr ""
+"\"Ne.\" Odstrč to."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009301"
 msgid "\"I should ask you the same.\""
 msgstr ""
+"\"Chtěl jsem se vás zeptat na totéž.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000936A"
 msgid "Tell him! Tell him!"
 msgstr ""
+"Řekni mu to! Řekni mu to!"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092EB"
 msgid "Again."
 msgstr ""
+"Zase."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100003476"
 msgid "\"Mhmh. Now drink.\" He raises the canister."
 msgstr ""
+"\"Mhmh. Teď se napij.\" Zvedne kanystr."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092D1"
 msgid "\"You know, in the Franconigerian centuries, the quality of water was so bad it was sometimes more hygienic to drink beer.\""
 msgstr ""
+"\"Víte, ve frankonigerianských stoletích byla kvalita vody tak špatná, že někdy bylo hygieničtější pít pivo.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000931F"
 msgid "Nothing?"
 msgstr ""
+"Nic?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000934E"
 msgid "Nothing, sad brother. No treachery. Just blackout."
 msgstr ""
+"Nic, smutný bratře. Žádná zrada. Jen zatmění."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009381"
 msgid "Who's that?"
 msgstr ""
+"Kdo je to?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093C7"
 msgid "\"Good.\" He hands you the waterlogged remains of your ledger."
 msgstr ""
+"\"Dobře.\" Podá ti rozmočené zbytky tvého fasciklu."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009463"
 msgid "\"Drink -- water.\" The lieutenant is extending a small canister to your mouth."
 msgstr ""
+"\"Napijte se - voda.\" Poručík ti dává k ústům malý kanystr."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000923B"
 msgid "\"Good.\""
 msgstr ""
+"\"Dobře.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000927D"
 msgid "Where is Voyager Road?"
 msgstr ""
+"Kde je Cesta cestovatelů?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009307"
 msgid "So my name appears to be... Harry?"
 msgstr ""
+"Takže se zdá, že mé jméno je... Harry?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009370"
 msgid "\"Ten minutes maybe.\""
 msgstr ""
+"\"Možná deset minut.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093A3"
 msgid "Smelled like betrayal."
 msgstr ""
+"Páchlo to jako zrada."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009441"
 msgid "He speaks of the *sickening* longing, the unwell emotion. Even in the darkness he's grasping for it, still trying to hold on to the great sorrows slipping in the water -- slimy."
 msgstr ""
+"Mluví o *chorobné* touze, o nezdravém citu. I v té temnotě se jí snaží držet, stále se snaží udržet si velké smutky, klouzající ve vodě - slizoun."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009267"
 msgid "There really *is* no use arguing with him. This is him exerting the reserves of authority he usually withholds. You can't even try to resist. All you can do is..."
 msgstr ""
+"Opravdu nemá smysl se s ním hádat. Tohle je jeho projev autority, který si obvykle nechává pro sebe. Nemůžeš se ani pokusit vzdorovat. Jediné, co můžeš udělat, je..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000932A"
 msgid "Oh, but you are. They're pouring something on you, *in* you. It's..."
 msgstr ""
+"Ach, ale vrátíš. Něco na tebe lijí, *do* tebe. Je to..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093CD"
 msgid "Ah, yes. And in the olfactory system they call it The Apricot Chewing Gum Scented One. It's unhealthy of them to linger on it so. But -- as they say -- what do you do?"
 msgstr ""
+"Aha, jistě. A v čichovém systému tomu říkají Meruňková žvýkačka vůně jedna. Je od nich nezdravé se s tím takhle babrat. Ale – jak se říká – co naděláš?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009407"
 msgid "It's DELICIOUS."
 msgstr ""
+"Je to LAHODNÉ."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009455"
 msgid "\"That's just a drug addict myth. In reality you're still comprised of dihydrogen oxide, which you must replenish to go on living.\""
 msgstr ""
+"\"To je jen mýtus narkomanů. Ve skutečnosti se stále skládáte z dihydrogen oxidu, který musíte doplňovat, abyste mohl žít dál.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009247"
 msgid "Drink."
 msgstr ""
+"Pij."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009289"
 msgid "No, it was beautiful!"
 msgstr ""
+"Ne, bylo to krásné!"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009313"
 msgid "Just lie there, passed out."
 msgstr ""
+"Jen tak lež, v bezvědomí."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000925B"
 msgid "\"There is no use arguing with me. You will die if you don't.\" His voice is pressing: \"DRINK.\""
 msgstr ""
+"\"Nemá smysl se se mnou hádat. Pokud to neuděláte, zemřete.\" Jeho hlas je naléhavý: \"PIJTE.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000926D"
 msgid "There really *is* no use arguing with him. This is him exerting the reserves of authority he usually withholds."
 msgstr ""
+"Opravdu *nemá* smysl se s ním hádat. Tohle je jeho projev autority, který si obvykle nechává pro sebe."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092B3"
 msgid "Don't prod at it, it will start moving again."
 msgstr ""
+"Nešťouchej do toho, zase se to rozjede."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093FC"
 msgid "Who was what?"
 msgstr ""
+"Kdo byl co?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000940D"
 msgid "Smelled so nice..."
 msgstr ""
+"Tak krásně voněla..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092DF"
 msgid "There was something about a bow collector too..."
 msgstr ""
+"Bylo tam něco o sběrači proudu..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092F1"
 msgid "With greedy gulps, you down half a litre of cold water. Some of it spills on the driver's seat -- the lieutenant pays no heed to it."
 msgstr ""
+"Hltavými doušky vypiješ půl litru studené vody. Část se vylije na sedadlo řidiče - poručík tomu nevěnuje pozornost."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000093A9"
 msgid "\"I... fuck it.\" Start climbing out of the motor-car. (Conclude.)"
 msgstr ""
+"\"Já... seru na to.\" Začni vylézat z auta. (Uzavři to.)"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -437,6 +504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009423"
 msgid "In the upholstered cabin of Lieutenant Kitsuragi's motor carriage, seated in the driver's basket. The air is thick with leatherworks and heavy fuel oil. Cold water runs down your chin."
 msgstr ""
+"V čalouněné kabině motorového vozu poručíka Kitsuragiho, sedícího na místě řidiče. Vzduch je cítit koženými potahy a těžkým topným olejem. Po bradě ti stéká studená voda."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -444,6 +512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009435"
 msgid "Yeah, that's the stuff!"
 msgstr ""
+"Jo, to je ono!"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -465,6 +534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009364"
 msgid "\"How long was I out?\""
 msgstr ""
+"\"Jak dlouho jsem byl mimo?\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -514,6 +584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092D9"
 msgid "Drink."
 msgstr ""
+"Pij."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -528,6 +599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000939D"
 msgid "There is no Voyager Road. There are no roads. No houses. No lights in the windows. It's all on *pause*."
 msgstr ""
+"Neexistuje žádná Cesta cestovatelů. Neexistují žádné cesty. Žádné domy. Žádná světla v oknech. Všechno je *pozastavené*."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -556,6 +628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000930D"
 msgid "\"I came in contact with the burnt out ruins of the past, lieutenant.\" (Conclude.)"
 msgstr ""
+"\"Setkal jsem se s vyhořelými troskami minulosti, poručíku.\" (Uzavři to.)"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -563,6 +636,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009330"
 msgid "\"You were reading your paperwork. Then you passed out. I carried you to my Kineema... to take you to a hospital. Then you came to.\""
 msgstr ""
+"\"Četl jste své papíry. Pak jste omdlel. Odnesl jsem vás do své Kineemy... abych vás odvezl do nemocnice. Pak jste se probral.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -577,6 +651,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092A7"
 msgid "Was that the ex-something? The..."
 msgstr ""
+"Bylo to to ex-něco? Ta..."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -591,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000943B"
 msgid "...where am I?"
 msgstr ""
+"...kde to jsem?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -598,6 +674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000130C0"
 msgid "Glowing lights on a dashboard emerge out of nothingness."
 msgstr ""
+"Z nicoty se vynoří světla svítící na palubní desce."
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -605,6 +682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000929B"
 msgid "...bloated corpse of the past, resurfacing?"
 msgstr ""
+"...nafouklá mrtvola minulosti, která se znovu vynořuje?"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -612,6 +690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000092B9"
 msgid "\"Drink.\" He tilts the canister. \"You haven't drunk water in two days. Did you know the human body is not made to survive on alcohol *alone*? You need a secondary form of hydration.\""
 msgstr ""
+"\"\"Napijte se.\"\" Nakloní kanystr. \"Už dva dny jste nepil vodu. Věděl jste, že lidské tělo není stvořeno k tomu, aby přežilo *jenom* na alkoholu? Potřebujete nějakou druhotnou formu hydratace.\""
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -619,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009342"
 msgid "\"Let's solve this case.\" [Leave.]"
 msgstr ""
+"\"Pojďme vyřešit ten případ.\" [Odejdi.]"
 
 #. Title = LEDGER WAKEUP
 #. Description = Woke up, bro.
@@ -633,3 +713,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009469"
 msgid "Here in the Paleo-Mammalian Cortex we call it -- *the shadow*."
 msgstr ""
+"Tady v paleo-savčí kůře tomu říkáme *stín*."
