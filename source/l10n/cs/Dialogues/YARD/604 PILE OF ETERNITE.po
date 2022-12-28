@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
@@ -83,7 +91,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100008200008630"
 msgid "Inland Empire said come back."
 msgstr ""
-"Vnitřní svět řekl, abych se vrátil."
+"Vnitřní svět řekl, vrať se."
 
 #. Title = YARD / PILE OF ETERNITE
 #. Description = Someone has left some crumbly looking eternite panels leaning against this wall. Most suspicious.
