@@ -1799,7 +1799,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Jamrock District">
-        <descrip type="definition">[OK] [aA] čtrť v Revacholu</descrip>
+        <descrip type="definition">[OK] [aA] čtvrť v Revacholu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Jamrock District</term>
@@ -3150,6 +3150,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Revacholiere">
+        <descrip type="definition">[aA] archaicky Revacholan </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Revacholiere</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Revacholiér, -a m.</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Roundabout North">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -3358,8 +3371,34 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Seol">
+        <descrip type="definition">[aA] stát a zeme na západ od Inzulindie</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Seol</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Seol</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="seolite">
+        <descrip type="definition">[aA] adj. od Seol</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>seolite</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>seolský</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Seolite">
-        <descrip type="definition">[OK] [aA] rasa/civilizace</descrip>
+        <descrip type="definition">[aA] Obyvatel Seolu</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Seolite</term>
@@ -3367,7 +3406,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>seolitická</term>
+            <term>Seolan</term>
           </tig>
         </langSet>
       </termEntry>
