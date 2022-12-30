@@ -1,8 +1,16 @@
+# phsquad, 2022.
+# phsquad, 2022.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -2451,6 +2459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000065B4"
 msgid "\"Still. I haven't seen anyone else sail a boat around here.\""
 msgstr ""
+"\"Přesto. Neviděl jsem tu nikoho jiného, kdo by se plavil na lodi.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -2463,6 +2472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000065DB"
 msgid "\"Actually,\" the lieutenant becomes defensive, \"that motor carriage has been specially issued to serve as a patrol and *pursuit* vehicle.\""
 msgstr ""
+"\"Ve skutečnosti,\" začne se poručík bránit, \"byl tento motorový vůz speciálně vyroben jako hlídkové a zásahové vozidlo.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -4515,6 +4525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000065BA"
 msgid "\"I haven't seen anyone else drive a souped-up Coupris Kineema motor carriage either.\""
 msgstr ""
+"\"Já také neviděla nikoho jiného, kdo by jezdil v nadupaném motorovém voze Coupris Kineema.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -4527,6 +4538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000065F5"
 msgid "\"Neither is this.\" The woman pats the cabin hardtop. \"A toy, I mean. It's a machine for crossing long distances in the bay of Revachol. Between the city and the islands.\""
 msgstr ""
+"\"Tohle také ne.\" Žena poklepe na pevnou střechu kabiny. \"Myslím hračku. Je to stroj na překonávání dlouhých vzdáleností v revacholské zátoce. Mezi městem a ostrovy.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -4539,6 +4551,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000045000065F5"
 msgid "\"Neither is that.\" The woman nods toward the sloop. \"A toy, I mean. It's a machine for crossing long distances in the bay of Revachol. Between the city and the islands.\""
 msgstr ""
+"\"Tohle také ne.\" Žena kývne směrem k šalupě. \"Myslím hračku. Je to stroj na překonávání dlouhých vzdáleností v revacholské zátoce . Mezi městem a ostrovy.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -5139,6 +5152,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500006584"
 msgid "\"We are. And the city of Revachol is on the island of Le Caillou.\""
 msgstr ""
+"\"Jsme. A město Revachol leží na ostrově Oblázek.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -6039,6 +6053,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000655A"
 msgid "\"Of course there are.\" She looks around. \"We are on an archipelago. How else are you supposed to get around?\""
 msgstr ""
+"\"Samozřejmě, že je.\" Rozhlédne se kolem. \"Jsme na souostroví. Jak jinak se tu chcete pohybovat?\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -7251,6 +7266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000060FB"
 msgid "\"Why, yes I am...\" She looks at the deck under her feet. Green and white sails flutter overhead."
 msgstr ""
+"\"Ale ano, jsem...\" Podívá se na palubu pod svýma nohama. Nad hlavou se jí třepotají zelenobílé plachty."
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -7899,6 +7915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500006541"
 msgid "\"Not a lot of people on boats, are there?\""
 msgstr ""
+"\"Na lodích moc lidí není, že?\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -7911,6 +7928,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000066F9"
 msgid "\"Yes, we are.\" She raises her brow. \"We are on Le Caillou.\""
 msgstr ""
+"\"Ano, to jsme.\" Zvedne obočí. \"Jsme na Oblázku.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -9495,6 +9513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000007E6"
 msgid "\"You're back. Good.\" She takes a sip from her silvery thermal cup. \"What can I help you with -- at this late hour?\""
 msgstr ""
+"\"Jste zpátky. Dobře.\" Napije se ze svého stříbrného termohrnku. \"S čím vám mohu pomoci - v tuto pozdní hodinu?\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -9603,6 +9622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000065E8"
 msgid "\"It's for crossing long distances in the Greater Revachol Industrial Harbour. It's not a toy.\""
 msgstr ""
+"\"Slouží k překonávání dlouhých vzdáleností ve Velkém revacholském průmyslovém přístavu. Není to hračka.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -10203,6 +10223,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500006070"
 msgid "\"You're on a boat.\""
 msgstr ""
+"\"Jste na lodi.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -10215,6 +10236,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004500006070"
 msgid "\"Let's talk some more about this *boat* that you're on.\""
 msgstr ""
+"\"Pojďme si ještě promluvit o té lodi, na které jste.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -10251,6 +10273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500006569"
 msgid "\"Wait, we're on an *archipelago*?\" (Look around.)"
 msgstr ""
+"\"Počkejte, my jsme na *souostroví*?\" (Rozhlédni se.)"
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -11703,6 +11726,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500006577"
 msgid "\"Uhm, Caillou? I thought we were in Revachol.\""
 msgstr ""
+"\"Ehm, Oblázek? Myslel jsem, že jsme v Revacholu.\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
@@ -12687,6 +12711,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000072000007EC"
 msgid "\"You're back. Good.\" She takes a sip from her silvery thermal cup. \"What can I help you with?\""
 msgstr ""
+"\"Jste zpátky. Dobře.\" Napije se ze svého stříbrného termohrnku. \"S čím vám mohu pomoci?\""
 
 #. Title = PIER / JOYCE INTRO
 #. Description = Joyce is on her boat. She welcomes you and tells you about the situation, her role in it, what happened w hanged man.
