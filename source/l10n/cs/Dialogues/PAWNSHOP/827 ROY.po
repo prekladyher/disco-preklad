@@ -1,4 +1,4 @@
-# dwa2 <krystoflasek@gmail.com>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -288,7 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000144AE"
 msgid "Turn it into an art installation. Invite viewers to question what it means to bring an outside light, *inside*? We have so many barriers to break down and concepts to explore... for a price, of course."
 msgstr ""
-"Udělej z něj uměleckou instalaci. Vyzvi diváky, aby si položili otázku, co znamená vnést venkovní světlo *dovnitř*? Je přeci tolik bariér, které můžeme prolomit, a konceptů, které můžeme prozkoumat... samozřejmě za určitou cenu."
+"Udělej z ní uměleckou instalaci. Vyzvi diváky, aby si položili otázku, co znamená vnést venkovní světlo *dovnitř*? Je přeci tolik bariér, které můžeme prolomit, a konceptů, které můžeme prozkoumat... samozřejmě za určitou cenu."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -1085,6 +1085,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000144E3"
 msgid "\"Nothing else in here carries that much value, I'm afraid. Plus, I need to make sure I still earn *some* actual cash -- for food and such.\""
 msgstr ""
+"\"Obávám se, že nic jiného, co tu mám, nemá takovou hodnotu. Navíc se musím ujistit, že vydělávám i *opravdové* peníze - na jídlo a tak.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -1559,6 +1560,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000144DC"
 msgid "\"And you won't give me anything else for these shares?\""
 msgstr ""
+"\"A za tyto akcie mi nic neprodáte?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2199,6 +2201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014651"
 msgid "\"A friend of mine knew of a way to deal with that. That's when I started riding the pyro, as they say. It helped -- a lot, actually. But it was another monthly outgoing... still is.\""
 msgstr ""
+"\"Jeden můj kamarád věděl, jak se s tím vypořádat. Tehdy jsem si začal cvakat pyro, jak se říká. Pomohlo to - a to hodně. Ale byl to další měsíční výdaj... pořád je.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2233,6 +2236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002E6C"
 msgid "\"Is it just me, or is it really warm in here?\" (Look around.)"
 msgstr ""
+"\"Zdá se mi to, nebo je tu vážně teplo?\" (Rozhlédni se.)"
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2241,6 +2245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002E72"
 msgid "(Get straight to the point.) \"So, where does a man get Pyrholidon these days?\""
 msgstr ""
+"(Přejdi přímo k věci.) \"Takže kde jeden sežene pyrolidon?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2249,6 +2254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000316B"
 msgid "He takes a step back, studying you. \"How would I know?\""
 msgstr ""
+"Udělá krok zpět, prohlíží si tě. \"Jak to mám vědět?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2257,6 +2263,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000031B9"
 msgid "\"It's pretty obvious that you're under the influence, sir.\""
 msgstr ""
+"\"Je zřejmé, že jste pod vlivem, pane.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2273,6 +2280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003345"
 msgid "\"At least now I know how I lost my sidearm. Let's talk about something else.\" (Conclude.)"
 msgstr ""
+"\"Teď už alespoň vím, jak jsem přišel o zbraň. Pobavme se o něčem jiném.\" (Uzavři to.)"
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2281,6 +2289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000033B3"
 msgid "\"She must be one of my adoring fans. Just wanted to feel closer to me, you know.\""
 msgstr ""
+"\"Musí být jedna z mých obdivujících fanynek. Asi ke mně chtěla mít blíž.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2289,6 +2298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004DBD"
 msgid "\"Let me make a prediction, detective. You are not going to see the inside of a Coalition warship anytime soon.\""
 msgstr ""
+"\"Mám pro vás předpověď, detektive. V blízké budoucnosti neuvidíte vnitřek koaliční válečné lodi.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2305,6 +2315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000004FE"
 msgid "\"I didn't mean to offend you.\" (Drop the subject -- you don't want drugs.)"
 msgstr ""
+"\"Nechtěl jsem vás urazit.\" (Nech to být - nechceš drogy.)"
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2313,6 +2324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000005B4"
 msgid "\"Every day?\" He tilts his head, studying you, then nods. \"You look the part.\""
 msgstr ""
+"\"Každý den?\" Nakloní hlavu, prohlíží si tě. \"Vypadáte na to.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2462,6 +2474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000000D7"
 msgid "\"I met some young enthusiasts down the coast. And they play this weird neo-disco music...\""
 msgstr ""
+"\"Potkal jsem dole na pobřeží mladé nadšence. A hrajou tuhle divnou neo-disko hudbu...\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2514,6 +2527,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012A89"
 msgid "\"Here you go, man.\" He presents a large cap-shaped object on the palm of his hand. Very odd-looking..."
 msgstr ""
+"\"Tady máte, chlape.\" Představí ti na dlani velký objekt ve tvaru víčka . Velmi zvláštní..."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2522,6 +2536,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002E45"
 msgid "Nope, still no clue. You obviously haven't been doing enough drugs lately."
 msgstr ""
+"Kdepak, nemám páru. Očividně jsi v poslední době dostatečně nefetoval."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2538,6 +2553,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000033CF"
 msgid "\"In that case, she'll be happy to get a visit from us. *If* we can find her...\" He looks around, worried."
 msgstr ""
+"\"V tom případě bude ráda, když se u ní zastavíme. *Pokud* ji najdeme...\" Znepokojeně se rozhlédne."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2546,6 +2562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003433"
 msgid "\"My apologies, officer, but I have no idea where she was coming from or where she went.\""
 msgstr ""
+"\"Je mi líto, detektive, ale nemám ponětí odkud přišla, ani kam šla potom.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2589,6 +2606,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000002F"
 msgid "He looks away. \"You weren't quite yourself, officer.\""
 msgstr ""
+"Odvrátí pohled. \"Nebyl jste sám sebou, detektive.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2615,6 +2633,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000005A5"
 msgid "\"I ride the *pyrho* every day.\""
 msgstr ""
+"\"*Pyro* si cvakám každý den.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2623,6 +2642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000660"
 msgid "His forehead creases. \"Do you think it may have been... Jacob Irw who drove over your roof?\""
 msgstr ""
+"Svraští čelo. \"Myslíte, že to mohl být Jakub Irw... ten, co tu přejel po střeše?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2864,6 +2884,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000338B"
 msgid "\"There is only one explanation. She must be one of my rabid fans.\""
 msgstr ""
+"\"To má jediné vysvětlení. Musí být jednou z mých divokých fanynek.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2899,6 +2920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000000D"
 msgid "He's not telling you the whole story. It seems he's trying to spare you."
 msgstr ""
+"Neříká ti celou pravdu. Zdá se, že se tě jí snaží ušetřit."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2916,6 +2938,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000064B"
 msgid "\"Jacob Irw? The great TipTop champion? Yes, yes...\""
 msgstr ""
+"\"Jakub Irw? Velký TipTop šampion? Ano, ano...\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -2924,6 +2947,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009D2E"
 msgid "\"Hello again. How can I help you?\""
 msgstr ""
+"\"Opět vás zdravím. Jak mohu pomoci?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3037,6 +3061,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014672"
 msgid "\"A friend of mine knew of a way to deal with that. That's when I started riding the pyro, as they say. That did help -- a lot, actually. But it was another monthly outgoing... still is.\""
 msgstr ""
+"\"Jeden můj kamarád věděl, jak se s tím vypořádat. Tehdy jsem si začal cvakat pyro, jak se říká. Pomohlo to - a to hodně. Ale byl to další měsíční výdaj... pořád je.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3045,6 +3070,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014728"
 msgid "\"Sounds like you've had it hard.\""
 msgstr ""
+"\"Přijde mi, že jste to měl těžké.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3301,6 +3327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002C14"
 msgid "He's well composed, but underneath it you sense *psychedelic* processes, bubbling. Some kind of drug maybe?"
 msgstr ""
+"Nedává nic najevo, ale uvnitř cítíš *psychedelické* bublající procesy. Možná nějaká droga?"
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3335,6 +3362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D0000328C"
 msgid "\"Now that I think about it, I do remember hearing a thunderous noise the other night -- some kind of powerful electric vortex hitting the shop and then moving on...\""
 msgstr ""
+"\"Když teď nad tím přemýšlím, tak se mi vybavuje hromový zvuk jedné noci - nějaký mocný lektrický vír narazil na střechu krámu a pach pokračoval dál...\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3351,6 +3379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003405"
 msgid "\"I wish I could help with that, officer, but I don't know where she was from or where she was going.\""
 msgstr ""
+"\"Kéž bych vám mohl pomoci, detektive, ale nemám ponětí odkud přišla, ani kam šla potom.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3421,6 +3450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D944"
 msgid "\"Ever had any dealings with the Union Boss?\""
 msgstr ""
+"\"Už jste někdy jednal se šéfem Odborů?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3586,6 +3616,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001F000001C2"
 msgid "The lieutenant steps away, pretending to admire some of the knick-knacks on display. Looks like he doesn't want to get involved..."
 msgstr ""
+"Poručík poodejde a předstírá, že pečlivě zkoumá opodál vystavené cetky. Vypadá to, že tohoto nechce být součástí..."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3602,6 +3633,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D000033C5"
 msgid "\"You gotta help me find her, man.\""
 msgstr ""
+"\"Musíte mi ji pomoct najít, chlape.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3626,6 +3658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000020"
 msgid "\"I feel like there's something you're not telling me.\""
 msgstr ""
+"\"Přijde mi, že mi něco neříkáte.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3634,6 +3667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000036"
 msgid "You sucked on a gun? Good. Good. Very normal."
 msgstr ""
+"Tys cucal zbraň? Dobře. Dobře. Vskutku normální."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3642,6 +3676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000075"
 msgid "\"Wait... how much did I sell the gun for?\""
 msgstr ""
+"\"Počkat... za kolik jsem tu zbraň prodal?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3659,6 +3694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D955"
 msgid "\"He's been by the shop a couple of times.\" He gives a lazy half-shrug."
 msgstr ""
+"\"Párkrát se tu v krámku zastavil.\" Líně napůl pokrčí rameny."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3667,6 +3703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D95E"
 msgid "There was something awfully deliberate about that laziness."
 msgstr ""
+"V jeho lenosti bylo něco velmi účelového."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3675,6 +3712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D9C8"
 msgid "He nods reluctantly."
 msgstr ""
+"Neochotně kývne."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -3920,6 +3958,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D978"
 msgid "\"Did he buy anything?\""
 msgstr ""
+"\"Koupil si něco?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4016,6 +4055,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00002EC1"
 msgid "\"Let me have a look.\""
 msgstr ""
+"\"Nechte mě se podívat.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4074,6 +4114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004DC9"
 msgid "\"To be honest, I mostly just want to ride on Coalition Warship Archer.\""
 msgstr ""
+"\"Upřímně se jen chci projet v koaliční válečné lodi.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4090,6 +4131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000611"
 msgid "\"Actually, I changed my mind. I don't need any Pyrholidon.\" (Refuse to take the pyrholidon for now.)"
 msgstr ""
+"\"Vlastně ne, rozmyslel jsem si to. Nepotřebuju pyrolidon.\" (Prozatím si odmítni vzít pyrolidon.)"
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4333,6 +4375,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000677"
 msgid "\"The vortex is going to become much bigger -- it is an integral part of how it all ends.\""
 msgstr ""
+"\"Ten vír se ještě rozroste - je nedílnou součástí toho, jak všechno skončí.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4349,6 +4392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D991"
 msgid "\"Have you *met* the Wild Pines rep?\""
 msgstr ""
+"\"*Potkal* jste zástupkyni Divokých pinií?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4491,6 +4535,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014610"
 msgid "Mauled by a nightmare. Bite marks in his bones."
 msgstr ""
+"Potrhala ho noční můra. V kostech má stopy po jejích zubech."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4525,6 +4570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003320"
 msgid "\"Someone else came here earlier today asking the same question -- I promptly sold her the gun you pawned a couple days back.\""
 msgstr ""
+"\"Ještě někdo tu dnes byl a pokládal mi totožnou otázku - obratem jsem jí prodal zbraň, kterou jste tu před pár dny zastavil.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4560,6 +4606,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000540000004A"
 msgid "\"I'm so sorry you had to see me in that state. We don't have to talk about it any further.\""
 msgstr ""
+"\"Omlouvám se, že jste mě v tom stavu musel vidět. Nemusíme to dál probírat.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4602,6 +4649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D972"
 msgid "\"Did he discuss union business with you?\""
 msgstr ""
+"\"Řešil s vámi něco odborářského?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4610,6 +4658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D9A4"
 msgid "\"He purchased a remarkably garish paperweight the first time he was here... Nothing the second.\""
 msgstr ""
+"\"Když sem zavítal poprvé, tak si zakoupil pozoruhodně křiklavé těžítko... Napodruhé už nic.\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4786,6 +4835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000000EF"
 msgid "\"Man, you're really invested in this.\" He looks at the bundle of tape in front of him. It shimmers under the shop's dazzling light show."
 msgstr ""
+"\"Chlape, vy jste v tom vážně zainteresovaný.\" Podívá se na smotek pásky před ním. Třpytí se ve světelné show."
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4794,6 +4844,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000016F"
 msgid "\"I helped some young ravers turn this place into a nightclub. And they play these weird neo-disco beats there...\""
 msgstr ""
+"\"Pomohl jsem nějakým mladým kaličům z něj udělat noční klub. A hrajou tam tyhle divný neo-disko beaty...\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4847,6 +4898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D94D"
 msgid "\"Know anything about the Wild Pines representative that's in town?\""
 msgstr ""
+"\"Víte něco o zástupkyni Divokých pinií, co připlula do města?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
@@ -4855,6 +4907,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D97E"
 msgid "\"Why do I feel like you don't want to talk about him? Are you hiding something?\""
 msgstr ""
+"\"Proč mám pocit, že o něm nechcete mluvit? Skrýváte něco?\""
 
 #. Title = PAWNSHOP / ROY
 #. Description = You talk to Roy, the pawnbroker, about items you'd like to sell, your missing side arm, his drug habit, the People's Pile, and/or the traffic menace.
