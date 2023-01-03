@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001ACE1"
 msgid "No need to beat yourself down over it. It probably wasn't the definitive piece of the puzzle. Still, somehow it feels like May bells matter somehow."
 msgstr ""
+"Není třeba si to vyčítat. Nejspíš to nebyl poslední dílek skládačky. Přesto se ale zdá, že na těch konvalinkách nějak záleží."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A9A6"
 msgid "The pétanque players?"
 msgstr ""
+"Hráči pétanque?"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AA73"
 msgid "\"Wait, maybe they died during the mercenary tribunal?\""
 msgstr ""
+"\"Počkat, možná umřeli při žoldéřském tribunálu?\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000070001AA73"
 msgid "Maybe they too died during the mercenary tribunal?"
 msgstr ""
+"Možná také umřeli při žoldnéřském tribunálu?"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AAB5"
 msgid "\"And, I mean... it would be one twist too many if it turned out these two old men were our killers. That's just unlikely. No...\" He seems pleased with himself. \"We would only have wasted our time here.\""
 msgstr ""
+"\"Víte... bylo by to příliš zašmodrchané, kdyby se mělo ukázat, že ti dva staří muži jsou našimi vrahy. To je prostě nepravděpodobné. Ne...\" Vypadá potěšen sám sebou. \"Tady bychom jen ztráceli čas.\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001ACDA"
 msgid "\"Damn, I missed asking these guys about the dried May bells.\""
 msgstr ""
+"\"Sakryš, propásl jsem možnost se těch chlápků zeptat na sušené konvalinky.\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000070001ACDA"
 msgid "Damn. Looks like I missed asking these guys about the dried May bells.\n"
 msgstr ""
+"Sakryš. Vypadá to, že jsem propásl možnost se těch chlápků zeptat na sušené konvalinky.\n"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AA79"
 msgid "\"But what if I wanted to talk to them?\""
 msgstr ""
+"\"Ale co když jsem se s nimi chtěl bavit?\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AEDA"
 msgid "The lieutenant is thinking of all the time you've spared. He likes it."
 msgstr ""
+"Poručík myslí na všechen ten čas, který jsi ušetřil. Líbí se mu to. "
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A981"
 msgid "Awful lonely here. No ruckus. No old men playing their little ball game."
 msgstr ""
+"Je to tu zatraceně osamělé. Žádný rozruch. Žádní staří muži hrající svoji malou hru s koulemi."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001ADAD"
 msgid "*Still* you can't shake the feeling that somehow these may bell do actually matter. If only a little bit."
 msgstr ""
+"*Ale stejně* nedokážeš setřást pocit, že na těch konvalinkách přece jen nějak záleží. Byť třeba jen velmi málo. "
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001ADA6"
 msgid "It was probably nothing anyway. Just a little thought you had."
 msgstr ""
+"Asi to nic nebylo. Jen malá myšlenčička, kterou jsi měl."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A9B4"
 msgid "Yeah, where did they go?"
 msgstr ""
+"Jo, kam odešli?"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AA91"
 msgid "\"They didn't,\" the lieutenant calms you. \"Trust me. I saw the bodies.\""
 msgstr ""
+"\"Neumřeli,\" uklidní tě poručík. \"Věřte mi. Viděl jsem těla.\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AADC"
 msgid "He's probably right."
 msgstr ""
+"Asi má pravdu."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001ACE7"
 msgid "\"Don't beat yourself up about it. I think I gave you a pretty exhaustive answer about those flowers and what they mean.\""
 msgstr ""
+"\"Nevyčítejte si to. Myslím, že vám dali dost vyčerpávající odpověď stran těch kytek a jejich významu.\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AD9F"
 msgid "Enough with the goddamn flowers already! Are you a cop or a florist?"
 msgstr ""
+"Nech už ty zatracené kytky! Jsi polda, nebo květinář?"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A99F"
 msgid "\"You mean the guys who were playing pétanque?\""
 msgstr ""
+"\"Myslíte ty chlápky, kteří hráli pétanque?\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A9C8"
 msgid "Home? To work? To get something from somewhere? Who knows what people are doing when we're not looking."
 msgstr ""
+"Domů? Do práce? Něco někde sehnat? Kdo ví, co lidé dělají, zatímco se nedíváme."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A9AD"
 msgid "\"Yeah, where did they go?\""
 msgstr ""
+"\"Jo, kam šli?\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A9BB"
 msgid "\"Have you noticed people sometimes appear and disappear in places? It's called *doing things*.\""
 msgstr ""
+"\"Ráčil jste si povšimnout, že někdy se lidé někde objeví, a pak zase zmizí? Říká se tomu *dělat věci*.\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AA8B"
 msgid "It's very unlikely. Everyone scattered once the tribunal started. They're probably fine."
 msgstr ""
+"To je velmi nepravděpodobné. Jak tribunál začal, všichni se rozprchli. Asi jsou v pořádku. "
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A988"
 msgid "Yeah, where did the old guys go?"
 msgstr ""
+"Jo, kam ti staří chlapi šli?"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000070001A988"
 msgid "\"Where did the old guys go?\""
 msgstr ""
+"\"Kam šli ti staří chlapi?\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AA7F"
 msgid "\"Right. Let's move.\" [Leave.]"
 msgstr ""
+"\"Dobře. Pojďme.\""
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000070001AA7F"
 msgid "Right. Time to move. [Leave.]"
 msgstr ""
+"Dobře. Čas jít. [Odejdi.]"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A98E"
 msgid "That's just how craters are. [Discard thought.]"
 msgstr ""
+"Takové už krátery prostě jsou. [Zavrhni myšlenku.]"
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AAA1"
 msgid "\"You'll get them next time,\" the lieutenant replies, looking at the empty crater."
 msgstr ""
+"\"Zastihnete je příště,\" odpoví poručík, dívajíc se do prázdného kráteru."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AAA7"
 msgid "You'll get them next time. But let's be honest, they weren't even in the suspects list."
 msgstr ""
+"Zastihneš je příště. Ale upřímně, ani nebyli na seznamu podezřelých."
 
 #. Title = PLAZA ORB / neither man clicked
 #. Description = An orb to appear on the fifth day (or after triubnal) and address the disappearance of the pétanquista, if the player hasn't talked to either of them.
@@ -243,3 +280,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001AAC5"
 msgid "You would have wasted *so* much time talking to these two pensioners. Precious case-time."
 msgstr ""
+"Bavením se s těmi dvěma důchodci bys ztratil tak moc času. Vzácného času na případ."
