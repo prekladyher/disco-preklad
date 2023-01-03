@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000AB65"
 msgid "Take a closer look."
 msgstr ""
+"Podívej se blíž."
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000912"
 msgid "Despite his limp, the man in the uniform moves with efficient grace. His motions are measured and precise."
 msgstr ""
+"I přes svou kulhavost se uniformovaný muž pohybuje s úspornou elegancí. Jeho pohyby jsou odměřené a precizní. "
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009F57"
 msgid "...then suddenly he leans forward and uses the 0-end of the measuring tape to nudge his opponent's balls further from the small brown sphere in the pit. As he does this, he complains about his back."
 msgstr ""
+"...pak se najednou nakloní dopředu a použije začátek svinovacího metru k tomu, aby odstrčil koule svého protivníka dál od malé hnědé kuličky v důlku. Zatímco to dělá, stěžuje si na svá záda. "
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003100000919"
 msgid "The jolly-looking man in the checkered jacket moves lazily. Like a giant tomcat stretched out in the sun..."
 msgstr ""
+"Vesele vyhlížející muž v kostkovaném saku se pohybuje líně. Jako obrovský kocour vyvalený na slunci..."
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000310000090B"
 msgid "*Something* isn't right about this game."
 msgstr ""
+"*Něco* na téhle hře nesedí."
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000AB6B"
 msgid "That's none of my concern. [Discard thought.]"
 msgstr ""
+"To není moje starost. [Zavrhni myšlenku.]"
 
 #. Title = PLAZA ORB / gaston cheating
 #. Description = Cheating!
@@ -59,3 +73,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006400000619"
 msgid "Apparently oblivious to his partner's treachery, the uniformed man grabs a ball and takes aim again."
 msgstr ""
+"Zjevně lhostejný k podvodům svého oponenta, uniformovaný muž popadne kouli a znovu zamíří. "
