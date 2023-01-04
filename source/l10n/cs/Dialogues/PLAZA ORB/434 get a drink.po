@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005119"
 msgid "Yeah, wildo, time to get a drinking problem so massive that even stars collapse around it. Become an alcoholic!"
 msgstr ""
+"Jo, divochu, čas získat problém s alkoholem tak masivní, že se kolem něj budou bortit hvězdy. Staň se alkoholikem!"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00037BA5"
 msgid "Wait... what is happening?"
 msgstr ""
+"Počkat... co se děje?"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00004C58"
 msgid "Look at that lucky boozer there, the heaviest drinker on the planet! Look at his liquor-abusing excuse of a face -- those swollen bug-eyes, that muttering mouth."
 msgstr ""
+"Pohleďme na toho veselého ochlastu, nejtěžšího alkoholika na celé planetě! Pohleďme na jeho chlastem prožrané to, čemu říká ksicht - ty nateklé, vyvalené oči, ta cosi si mumlající ústa. "
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00004C5E"
 msgid "No, I don't want a *sip* of that. [Discard thought.]"
 msgstr ""
+"Ne, nechci ani jeden hlt tohoto. [Zavrhni myšlenku.]"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00037BAC"
 msgid "That old rummy here brings back some good memories. Remember how great that piss in your pants used to feel? Warm and cosy, just the way you like it. Time to get yourself another drink and soak those pants for *good*!"
 msgstr ""
+"Tady ten notorik přináší zpět pár dobrých vzpomínek. Vzpomínáš na ten skvělý pocit moči v kalhotách tehdy? Hřejivý a pohodlný, zrovna tak, jak to máš rád. Čas si dát další drink a nechat ty gatě nasáknout *nadobro*!"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0000510C"
 msgid "You betcha! I was born to drink. A new day, a new bottle!"
 msgstr ""
+"Se vsaď! Byl jsem k chlastání zrozen. Nový den, nová flaška!"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005105"
 msgid "Then you should run for it, rascal. Become a modern hunter, tame that nasty urge inside of your guts. Reward your electrochemistry!"
 msgstr ""
+"Tak bys za tím měl jít, prevíte. Staň se moderním lovcem, zkroť to ošklivé nucení v tvém břiše. Odměň svou elektrochemii!"
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005120"
 msgid "And while you're there, maybe you should hop by the Anonymous Alcoholics as well. You *lamo*."
 msgstr ""
+"A když už tam budeš, skoč si ještě k Anonymním alkoholikům. Ty *nudaři*."
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005112"
 msgid "Fuck, I don't know... maybe I shouldn't rush head-first into bad habits? I'll leave that alcohol be for now."
 msgstr ""
+"Kurva, já nevím... možná bych se neměl vrhat po hlavě do zlozvyků? Zatím ten alkohol nechám být."
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B000050C7"
 msgid "I'd like more than a sip. I'd abuse *the devil itself* out of that liquor."
 msgstr ""
+"Dal byc si víc, než jen hlt. Vytáhl bych z toho chlastu *ďábla samotného*."
 
 #. Title = PLAZA ORB / get a drink
 #. Description = Start drinking (Electrochem).
@@ -80,3 +98,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00005144"
 msgid "I wonder how many litres of sheer alcohol has he consumed today? I bet you'd like a sip of that. Give it a real taste of your manly mouth."
 msgstr ""
+"Říkám si, kolik litrů čistého alkoholu dnes spotřeboval? Vsadím se, že by sis nějaký hlt z toho dal. Dej tomu skutečnou chuť tvých mužných úst. "
