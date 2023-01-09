@@ -1,5 +1,5 @@
 # dwa2 <krystoflasek@gmail.com>, 2022.
-# Drakefran <drakefranddrakefran@gmail.com>, 2022.
+# Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
@@ -60,7 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001DCB3"
 msgid "\"Who lives behind the padlocked door?\""
 msgstr ""
-"\"Kdo žije za těmi dveřmi uzamčené visacím zámkem?\""
+"\"Kdo žije za těmi dveřmi uzamčenými visacím zámkem?\""
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
@@ -544,7 +544,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001DC14"
 msgid "\"Ask away, policeman.\""
 msgstr ""
-"\"Ptejte se, policisto\""
+"\"Ptejte se, policisto.\""
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
@@ -604,7 +604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001BAD9"
 msgid "\"*We* won't be killing anyone. And *you* shouldn't say things like that. You're a police officer... there's been enough killing. I've *seen* it...\" She coughs."
 msgstr ""
-"\"*My* nikoho zabíjet nebudeme. A *vy* byste neměl nic takového říkat. Jste policejní důstojník...dost bylo zabíjení. *Viděla* jsem ho...\" Dá se do kašle."
+"\"*My* nikoho zabíjet nebudeme. A *vy* byste neměl nic takového říkat. Jste policejní důstojník... dost bylo zabíjení. *Viděla* jsem ho...\" Dá se do kašle."
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
@@ -898,7 +898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001DD2F"
 msgid "\"Addicts, all of them... And sometimes I hear them screaming.\" She winces."
 msgstr ""
-"\"Závisláci, všichni do jednoho...A někdy slyším křik.\" Vyhrkne."
+"\"Závisláci, všichni do jednoho... A někdy slyším křik.\" Vyhrkne."
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
@@ -1135,7 +1135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001E2AF"
 msgid "\"I think he studies astrology at the community college. Education's good, I always tell them to study.\""
 msgstr ""
-"\"Myslím, že studoval astrologii na komunitní vysoké škole. Vzdělání je dobré, vždycky jim říkám ať studují.\""
+"\"Myslím, že studoval astrologii na komunitní vysoké škole. Vzdělání je dobré, vždycky jim říkám, ať studují.\""
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
