@@ -1,4 +1,4 @@
-# Drakefran <drakefranddrakefran@gmail.com>, 2022.
+# Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022.
 msgid ""
 msgstr ""
@@ -11,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -97,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000935E"
 msgid "\"I just can't wait to shoot more shit. I think I was born with a gun in my hands.\""
 msgstr ""
+"\"Nemůžu se dočkat, až rozstřílím další sračky. Myslím, že jsem se narodil se zbraní v ruce.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -182,7 +183,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012B7E"
 msgid "\"What do they believe in? They are Dolorians. They *believe* they continue the humanist project set forth by Her Innocence Dolores Dei four centuries ago. Others say they're just technocrats.\""
 msgstr ""
-"\"V co věří? Jsou to doloriané. Oni *věří*, že pokračují v humanistickém projektu, který před čtyřmi stoletími založila Její Neposkvrněnost Božská Dolores. Jiní říkají, že jsou to jen technokrati.\""
+"\"V co věří? Jsou to doloriané. Oni *věří*, že pokračují v humanistickém projektu, který před čtyřmi stoletími založila Její Neposkvrněnost Dolores Božská. Jiní říkají, že jsou to jen technokrati.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -501,6 +502,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007BF0"
 msgid "\"I still feel like we missed something, but maybe the boys in Processing will surprise us. We still have work to do at the crime scene.\""
 msgstr ""
+"\"Pořád mám pocit, že nám něco uniklo, ale třeba nás kluci v Technickém překvapí. Na místě činu máme ještě hodně práce.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -513,6 +515,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007BF0"
 msgid "\"I still feel like we missed something, but it's up to the boys in Processing now. We did perform a thorough search of the crime scene. That's great.\""
 msgstr ""
+"\"Pořád mám pocit, že nám něco chybí, ale teď je to na klucích v Tehnickém. Provedli jsme důkladné ohledání místa činu. To je skvělé.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -525,6 +528,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007D47"
 msgid "\"Where shall we begin? We should talk about the investigation first and foremost, but I also remember you wanting to discuss the RCM?\" He lights a cigarette."
 msgstr ""
+"\"Kde začneme? V první řadě bychom si měli promluvit o vyšetřování, ale také si vzpomínám, že jste chtěl probrat ROM?\" Zapálí si cigaretu."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -549,7 +553,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007DBD"
 msgid "\"As you may have gathered from the fact that we are expected to carry a record of our kills -- like the one in your watermarks -- we're permitted to use whatever force is necessary. And strongly admonished not to abuse that power.\""
 msgstr ""
-"\"Jak jste možná pochopil z toho, že se od nás očekává, že poneseme záznam o našich zabitích – jako třeba ten ve vašem vodoznaku – máme povoleno použít jakoukoliv sílu, která je nezbytná. A důrazné doporučení, aby tuto moc nezneužívali.\""
+"\"Jak jste možná pochopil z toho, že se od nás očekává, že budeme mít u sebe záznam o našich zabitích – jako třeba ten ve vašem vodoznaku – máme povoleno použít jakoukoliv sílu, která je nezbytná. A důrazné připomínám, abychom tuto pravomoc nezneužívali.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -574,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009548"
 msgid "He's right. You could smell it, that something missing, even under the overpowering odour of the corpse."
 msgstr ""
+"Má pravdu. Bylo to cítit, to něco, co chybí, i pod tím přetěžkým pachem mrtvoly."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -586,6 +591,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000095ED"
 msgid "\"I wish we didn't have to do any of the interviews. People are treacherous.\""
 msgstr ""
+"\"Přál bych si, abychom nemuseli dělat žádné výslechy. Lidé jsou proradní.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -706,6 +712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012A92"
 msgid "Keeping the habit within the parameters he's given himself takes a lot of focus. It would be easier to simply quit."
 msgstr ""
+"Udržet návyk v rámci parametrů, které si sám stanovil, vyžaduje velké soustředění. Jednodušší by bylo jednoduše přestat."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -769,6 +776,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007C27"
 msgid "\"We weren't able to find the Union leader, Evrart Claire, much less interview him. So that's on the to-do list for tomorrow.\""
 msgstr ""
+"\"Vůdce Odborů Evrarta Jasného se nám nepodařilo najít, natož s ním vést rozhovor. Takže to je na seznamu úkolů na zítřek.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -880,6 +888,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000095E7"
 msgid "\"The *initial* interviews? Yes. Well, we talked to some people.\""
 msgstr ""
+"\"*Počáteční* výslechy? Ano. No, mluvili jsme s několika lidmi.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1002,6 +1011,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007BDC"
 msgid "\"I still feel like we're missing something. And there's still work to do at the crime scene too...\""
 msgstr ""
+"\"Stále mám pocit, že nám něco chybí. A na místě činu je taky pořád co dělat...\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1014,6 +1024,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007BDC"
 msgid "\"I still feel like we're missing something. But we performed a thorough search of the premises of the crime scene. That's great.\""
 msgstr ""
+"\"Stále mám pocit, že nám něco chybí. Ale provedli jsme důkladnou prohlídku premis na místě činu. To je skvělé.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1282,6 +1293,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007CE2"
 msgid "\"I don't know why I do the things I do, Lieutenant Kitsuragi.\""
 msgstr ""
+"\"Nevím, proč dělám to, co dělám, poručíku Kitsuragi.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1367,6 +1379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000097E6"
 msgid "He studies you with mild concern. \"Just don't get carried away. At any rate, we still have to perform the autopsy. And there's more work to be done at the crime scene.\""
 msgstr ""
+"S mírným znepokojením si tě prohlíží. \"Jen se nenechte unést. V každém případě musíme ještě provést pitvu. A na místě činu je třeba udělat ještě další práci.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1379,6 +1392,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000097E6"
 msgid "He studies you with mild concern. \"Just don't get carried away. At any rate, we still have to perform the autopsy. However, we did a thorough search of the crime scene -- that's great.\""
 msgstr ""
+"S mírným znepokojením si vás prohlíží. \"Jen se nenechte unést. V každém případě musíme ještě provést pitvu. Nicméně jsme důkladně prohledali místo činu - to je skvělé.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1415,6 +1429,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012BAC"
 msgid "Something ominous."
 msgstr ""
+"Něco zlověstného."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1439,6 +1454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012C9D"
 msgid "\"Yeah. Vigilantes sounds bad.\""
 msgstr ""
+"\"Jo. Dobrovolné hlídky to zní špatně.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1540,6 +1556,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009358"
 msgid "\"I was inspired by your confidence in me, Kim.\""
 msgstr ""
+"\"Inspirovala mě vaše důvěra ve mě, Kime.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1601,6 +1618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009639"
 msgid "\"I'm glad we can agree on that, at least.\""
 msgstr ""
+"\"Jsem rád, že se shodneme alespoň na tomhle.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1662,6 +1680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009A51"
 msgid "\"I have a feeling Joyce knows how dangerous the situation really is. We *have* to get her to talk to us.\" He purses his lips."
 msgstr ""
+"\"Mám pocit, že Joyce ví, jak nebezpečná ta situace ve skutečnosti je. Musíme ji přimět, aby s námi mluvila.\" Sevře rty."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1724,6 +1743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012BD1"
 msgid "\"They've done an awful job here. Have you seen the place? This isn't humanism.\""
 msgstr ""
+"\"Odvedli tu hroznou práci. Viděl jste to tu? Tohle není humanismus.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1736,6 +1756,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000600012BD1"
 msgid "\"They've done an awful job here. Have you seen the place? Things are bad.\""
 msgstr ""
+"\"Odvedli tu hroznou práci. Viděl jste to tu? Je to tu špatné.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1798,6 +1819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009322"
 msgid "He sighs. \"We're both doing our best under the circumstances. Just... don't drink tonight, please. As for the interviews...\""
 msgstr ""
+"Povzdechne si. \"Oba děláme, co je v našich silách. Jen... dnes večer nepijte, prosím. Co se týče těch výslechů...\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1898,6 +1920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009877"
 msgid "He sighs. \"We're both doing our best under the circumstances. Just... don't drink tonight, please. As for the interviews...\""
 msgstr ""
+"Povzdechne si. \"Oba děláme, co je v našich silách. Jen... dnes večer nepijte, prosím. Co se týče těch výslechů...\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -1972,6 +1995,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012CBA"
 msgid "He nods. \"Sadly, it is what we already are to the people of Martinaise. Most of them at least, especially the Union -- vigilantes. I expect our job here to prove quite challenging.\" He looks at the roundabout."
 msgstr ""
+"Přikývne. \"Bohužel, pro lidi z Martinézy už jsme tím, čím jsme. Přinejmenším pro většinu z nich, zejména pro Odbory - pro dobrovolné hlídky. Očekávám, že naše práce zde bude docela náročná.\" Podívá se na kruhový objezd."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2009,6 +2033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001656E"
 msgid "\"I really don't know. That's how bad it is in here.\" (Point to your head.)"
 msgstr ""
+"\"Opravdu nevím. Tak špatné to tu je.\" (Ukaž si na hlavu.)"
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2047,6 +2072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000093A7"
 msgid "\"I admit, I'm a little out of practice.\""
 msgstr ""
+"\"Přiznávám, že jsem trochu vyšel ze cviku.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2145,6 +2171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009A99"
 msgid "\"I have a feeling Joyce knows how dangerous the situation really is. We *have* to get her to talk to us.\" He purses his lips."
 msgstr ""
+"\"Mám pocit, že Joyce ví, jak nebezpečná ta situace ve skutečnosti je. Musíme ji přimět, aby s námi mluvila.\" Sevře rty."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2219,6 +2246,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012AEF"
 msgid "\"Yes. It's part of the Jamrock shuffle.\""
 msgstr ""
+"\"Ano. Je to součást Šprajclšťouračky.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2306,6 +2334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007A9C"
 msgid "\"Probably not,\" he says quietly. \"Anyway, positive change happens slowly. We never really get to see the impact of our actions.\""
 msgstr ""
+"\"Nejspíš ne,\" řekne tiše. \"Každopádně pozitivní změny se dějí pomalu. Nikdy nevidíme, jaký dopad mají naše činy.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2330,6 +2359,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007BE6"
 msgid "\"I still feel like we missed something, but at least the corpse has been refrigerated. There's still work to be done at the crime scene, though.\""
 msgstr ""
+"\"Pořád mám pocit, že jsme něco přehlédli, ale mrtvola byla alespoň zchlazena. Na místě činu je ale ještě potřeba udělat spoustu práce.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2342,6 +2372,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800007BE6"
 msgid "\"I still feel like we missed something, but at least the corpse has been refrigerated. And we performed a thorough search of the premises of the crime scene. That's great.\""
 msgstr ""
+"\"Pořád mám pocit, že jsme něco přehlédli, ale mrtvola byla alespoň zchlazena. A provedli jsme důkladnou prohlídku prostor na místě činu. To je skvělé.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2391,6 +2422,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009352"
 msgid "\"It was nothing, really. I was just doing my job.\""
 msgstr ""
+"\"To nic nebylo, opravdu. Jen jsem dělal svou práci.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2403,6 +2435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000094B3"
 msgid "\"It enabled us to perform a field autopsy on the victim. We didn't learn much, though.\""
 msgstr ""
+"☺\"Umožnilo nám to provést pitvu oběti v terénu. Moc jsme toho ale nezjistili.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2415,6 +2448,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000094B3"
 msgid "\"It enabled us to perform a field autopsy on the victim. We found some things we can really work with.\""
 msgstr ""
+"☺\"Umožnilo nám to provést pitvu oběti v terénu. Zjistili jsme, že s některými věcmi můžeme opravdu pracovat.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2427,6 +2461,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000058000094B3"
 msgid "\"It enabled us to perform a field autopsy on the victim. We didn't find as much as I'd hoped.\""
 msgstr ""
+"\"Umožnilo nám to provést pitvu oběti v terénu. Nenašli jsme toho tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2439,6 +2474,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000058000094B3"
 msgid "\"It enabled us to perform a field autopsy on the victim. We didn't find as much as I'd hoped.\""
 msgstr ""
+"\"Umožnilo nám to provést pitvu oběti v terénu. Nenašli jsme toho tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -2645,6 +2681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007B64"
 msgid "\"Now, as for interviews -- my list of people to talk to here in Martinaise, I mean...\" He takes a deep drag and looks at the city."
 msgstr ""
+"\"A co se týče výslechů - můj seznam lidí, se kterými bychom si měli tady v Martinéze promluvit, myslím...\" Zhluboka si potáhne a podívá se na město."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3013,6 +3050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000943C"
 msgid "\"On this occasion, I must agree. At any rate, your shot enabled us to perform a field autopsy on the victim. We didn't learn much, though.\""
 msgstr ""
+"\"V tomto případě musím souhlasit. V každém případě nám váš výstřel umožnil provést pitvu oběti v terénu. Moc jsme se toho ale nedozvěděli.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3025,6 +3063,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580000943C"
 msgid "\"On this occasion, I must agree. At any rate, your shot enabled us to perform a field autopsy on the victim. We found some things we can really work with.\""
 msgstr ""
+"\"V tomto případě musím souhlasit. V každém případě nám váš výstřel umožnil provést pitvu oběti. Našli jsme pár věcí, se kterými můžeme opravdu pracovat.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3037,6 +3076,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000580000943C"
 msgid "\"On this occasion, I must agree. At any rate, your shot enabled us to perform a field autopsy on the victim. We didn't find as much as I'd hoped.\""
 msgstr ""
+"\"V tomto případě musím souhlasit. V každém případě nám váš výstřel umožnil provést pitvu oběti v terénu. Nenašli jsme toho tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3049,6 +3089,7 @@ msgstr ""
 msgctxt "Alternate3/0x010000580000943C"
 msgid "\"On this occasion, I must agree. At any rate, your shot enabled us to perform a field autopsy on the victim. We didn't find as much as I'd hoped.\""
 msgstr ""
+"\"V tomto případě musím souhlasit. V každém případě nám váš výstřel umožnil provést pitvu oběti v terénu. Nenašli jsme toho tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3061,6 +3102,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009645"
 msgid "He sighs. \"One doesn't need to like the people one is interviewing. Indeed, it's better if you don't.\""
 msgstr ""
+"Povzdechne si. \"Člověk nemusí mít rád lidi, se kterými provádí výslech. Vlastně je lepší, když je nemáte rád.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3182,6 +3224,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012B39"
 msgid "\"It's probably more honest, yes. Either way, the Moralintern leases us the right to keep the peace in this city. And they will take it away if we misuse it.\""
 msgstr ""
+"\"Je to asi upřímnější, ano. Ať tak či onak, Moralinterna nám pronajímá právo udržovat mír v tomto městě. A pokud ho zneužijeme, vezmou nám ho.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3489,6 +3532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012B23"
 msgid "\"Let's say it was the Coalition Government.\""
 msgstr ""
+"\"Řekněme, že to byla Koaliční vláda.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3826,6 +3870,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000934C"
 msgid "\"Damn straight. I'm a sharpshooting cop.\""
 msgstr ""
+"\"To si pište. Jsem ostrostřelec.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3874,6 +3919,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000097DA"
 msgid "He studies you with mild concern. \"Just don't get carried away. At any rate, your shot enabled us to perform a field autopsy on the victim. We didn't learn much, though.\""
 msgstr ""
+"S mírným znepokojením si tě prohlíží. \"Jen se nenechte unést. V každém případě nám váš výstřel umožnil provést polní pitvu oběti. Moc jsme toho ale nezjistili.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3886,6 +3932,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000097DA"
 msgid "He studies you with mild concern. \"Just don't get carried away. At any rate, your shot enabled us to perform a field autopsy on the victim. We found some things we can really work with.\""
 msgstr ""
+"S mírným znepokojením si tě prohlíží. \"Jen se nenechte unést. V každém případě nám váš výstřel umožnil provést polní pitvu oběti. Našli jsme pár věcí, se kterými můžeme opravdu pracovat.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3898,6 +3945,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000058000097DA"
 msgid "He studies you with mild concern. \"Just don't get carried away. At any rate, your shot enabled us to perform a field autopsy on the victim. We didn't find as much as I'd hoped.\""
 msgstr ""
+"S mírným znepokojením si tě prohlíží. \"Jen se nenechte unést. V každém případě nám váš výstřel umožnil provést polní pitvu oběti. Nenašli jsme toho tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -3910,6 +3958,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000058000097DA"
 msgid "He studies you with mild concern. \"Just don't get carried away. At any rate, your shot enabled us to perform a field autopsy on the victim. We didn't find as much as I'd hoped.\""
 msgstr ""
+"S mírným znepokojením si vás prohlíží. \"Jen se nenech unést. V každém případě nám váš výstřel umožnil provést polní pitvu oběti. Nenašli jsme toho tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4035,6 +4084,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018C7C"
 msgid "\"Okay. They're a union of centre-left and centre-right parties across the Reál Belt. Our Coalition Government is just one of its many projects. They also run the ICP, EPIS... most inter-governmental organizations in the world.\""
 msgstr ""
+"\"Dobře. Je to sdružení středolevých a středopravých stran v celé reálzóně. Naše Koaliční vláda je jen jedním z jejích mnoha projektů. Řídí také IPM, EPIS... většinu mezivládních organizací na světě.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4148,6 +4198,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009442"
 msgid "\"On this occasion, I must agree. We still have to perform the autopsy, though. And there's more work to be done at the crime scene.\""
 msgstr ""
+"\"V tomto případě musím souhlasit. Stále však musíme provést pitvu. A na místě činu je třeba udělat ještě další práci.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4196,6 +4247,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009AAA"
 msgid "\"We tried to interview the Wild Pines rep, but she asked us to do something for her first -- but fine,\" he shrugs. \"So be it.\""
 msgstr ""
+"\"Chtěli jsme vyslechnout zástupkyni Divokých pinií, ale ta nás požádala, abychom pro ni nejdřív něco udělali - ale dobře,\" pokrčí rameny. \"Budiž.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4246,6 +4298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600012CE3"
 msgid "This *soldier* is the highlight of the day for me, he thinks. This little stick right here."
 msgstr ""
+"Tahle *trubička* je pro mě vrcholem dne, myslí si. Tady ta tenká tyčinka."
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4309,6 +4362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000094A7"
 msgid "\"I admit, I wasn't sure whether I should give you the gun, but I'm glad I did. Your shot enabled us to perform a field autopsy on the victim. I just wish we'd learned more.\""
 msgstr ""
+"\"Přiznávám, že jsem si nebyl jistý, jestli vám mám tu zbraň dát, ale jsem rád, že jsem to udělal. Váš výstřel nám umožnil provést polní pitvu oběti. Jen bych si přál, abychom se dozvěděli víc.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4321,6 +4375,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000058000094A7"
 msgid "\"I admit, I wasn't sure whether I should give you the gun, but I'm glad I did. Your shot enabled us to perform a field autopsy on the victim. We found some things we can really work with.\""
 msgstr ""
+"\"Přiznávám, že jsem si nebyl jistý, jestli vám mám tu zbraň dát, ale jsem rád, že jsem to udělal. Váš výstřel nám umožnil provést polní pitvu oběti. Našli jsme pár věcí, se kterými můžeme opravdu pracovat.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4333,6 +4388,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000058000094A7"
 msgid "\"I admit, I wasn't sure whether I should give you the gun, but I'm glad I did. Your shot enabled us to perform a field autopsy on the victim. Alas, we didn't find as much as I'd hoped.\""
 msgstr ""
+"\"Přiznávám, že jsem si nebyl jistý, jestli vám mám tu zbraň dát, ale jsem rád, že jsem to udělal. Váš výstřel nám umožnil provést polní pitvu oběti. Bohužel jsme toho nenašli tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4345,6 +4401,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000058000094A7"
 msgid "\"I admit, I wasn't sure whether I should give you the gun, but I'm glad I did. Your shot enabled us to perform a field autopsy on the victim. Alas, we didn't find as much as I'd hoped.\""
 msgstr ""
+"\"Přiznávám, že jsem si nebyl jistý, jestli vám mám tu zbraň dát, ale jsem rád, že jsem to udělal. Váš výstřel nám umožnil provést polní pitvu oběti. Bohužel jsme toho nenašli tolik, jak jsem doufal.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4517,6 +4574,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007A79"
 msgid "\"We won't change anything here.\""
 msgstr ""
+"\"Tady nic nezměníme.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4529,6 +4587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007CD0"
 msgid "\"Yeah, that's just how we roll in Precinct 41.\""
 msgstr ""
+"\"Jo, takhle to chodí u nás v okrsku 41.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4565,6 +4624,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009481"
 msgid "\"I admit, I wasn't sure whether I should give you the gun, but I'm glad I did. We still have to perform the autopsy, though. And there's more work to be done at the crime scene.\""
 msgstr ""
+"\"Přiznávám, že jsem si nebyl jistý, jestli vám mám tu zbraň dát, ale jsem rád, že jsem to udělal. Stále však musíme provést pitvu. A na místě činu je třeba udělat ještě další práci.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4577,6 +4637,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800009481"
 msgid "\"I admit, I wasn't sure whether I should give you the gun, but I'm glad I did. We still have to perform the autopsy, though. But we did do a thorough search of the crime scene -- that's great.\""
 msgstr ""
+"\"Přiznávám, že jsem si nebyl jistý, jestli vám mám tu zbraň dát, ale jsem rád, že jsem to udělal. Stále však musíme provést pitvu. Ale důkladně jsme prohledali místo činu - to je skvělé.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4614,6 +4675,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009889"
 msgid "He sighs. \"We're both doing our best under the circumstances. Just... don't drink tonight, please. As for the interviews...\""
 msgstr ""
+"Povzdechne si. \"Oba děláme, co je v našich silách. Jen... dnes večer nepijte, prosím. Co se týče těch výslechů...\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4791,6 +4853,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007CD6"
 msgid "\"I'm training for a long-distance run. I want to raise money for charity.\""
 msgstr ""
+"\"Trénuji na běh na dlouhou trať. Chci získat peníze na charitu.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4851,6 +4914,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000994B"
 msgid "\"I can't wait to get my gun back. I'll use that thieving Pigs for target practice, of course...\""
 msgstr ""
+"\"Nemůžu se dočkat, až získám svou zbraň zpátky. Samozřejmě budu používat tu zlodějskou Prasata jako svičný terč...\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4912,6 +4976,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007C46"
 msgid "\"We tried to interview the Wild Pines rep, but she asked us to do something for her first. Fine. So be it.\""
 msgstr ""
+"\"Chtěli jsme vyslechnout zástupkyni Divokých pinií, ale ta nás požádala, abychom pro ni nejdřív něco udělali. Dobře. Budiž.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4936,6 +5001,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000932E"
 msgid "He sighs. \"We're both doing our best under the circumstances. Just... don't drink tonight, please. As for the interviews...\""
 msgstr ""
+"Povzdechne si. \"Oba děláme, co je v našich silách. Jen... dnes večer nepijte, prosím. Co se týče těch výslechů...\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4985,6 +5051,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000964B"
 msgid "\"Not always the right people, I'm afraid.\""
 msgstr ""
+"\"Obávám se, že ne vždy s těmi správnými lidmi.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
@@ -4997,6 +5064,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009722"
 msgid "\"I admit, I'm a little out of practice.\""
 msgstr ""
+"\"Přiznávám, že jsem trochu vyšel ze cviku.\""
 
 #. Title = KIM SWITCH / DEBRIEF DAY ONE
 #. Description = 1. Kim smokes.
