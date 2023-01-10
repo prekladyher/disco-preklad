@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000012F7"
 msgid "Guess I'll have to take my chances."
 msgstr ""
+"Asi to budu muset risknout."
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000012DB"
 msgid "Woah! What have we here?"
 msgstr ""
+"Páni! Co to tu máme?"
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002353"
 msgid "You can take those sharp rocks!"
 msgstr ""
+"Ty ostré kameny si můžeš vzít!"
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002362"
 msgid "The lieutenant looks around. \"True, they never cleaned up the war damage... The rest of Revachol looks better, though.\""
 msgstr ""
+"Poručík se rozhlédne. \"Pravda, nikdy neodstranili válečné škody... Zbytek Revacholu ale vypadá lépe.\""
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000233F"
 msgid "Whatever. Let death come. I'm a Revacholian badass."
 msgstr ""
+"To je jedno. Ať přijde smrt. Jsem revacholský drsňák."
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000012E9"
 msgid "A bridge with loose nails and rot-infested wood that creaks in the wind. A construction code violation if there ever was one!"
 msgstr ""
+"Most s uvolněnými hřebíky a dřevem napadeným hnilobou, které ve větru skřípe. Porušení stavebních předpisů, pokud vůbec nějaké existují!"
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002338"
 msgid "\"Kim, it looks like we've got a construction code violation.\""
 msgstr ""
+"\"Kime, vypadá to, že tu máme porušení stavebních předpisů.\""
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002369"
 msgid "\"The bridge is fine enough. Locals use it all the time, after all. It's nothing to worry about.\" He adjusts his glasses. \"Shall we?\""
 msgstr ""
+"\"Most je v pořádku. Místní ho přece používají pořád. Není se čeho bát.\" Upraví si brýle. \"Můžeme?\""
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014FCB"
 msgid "\"But lieutenant, think about the splinters!\""
 msgstr ""
+"\"Ale poručíku, myslete na ty třísky!\""
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000235B"
 msgid "Guess so. Just be careful out there! One false step could cost you dearly!"
 msgstr ""
+"Hádám, že ano. Jen buď opatrný! Jeden chybný krok by tě mohl přijít draho!"
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000012E1"
 msgid "A bridge?"
 msgstr ""
+"Most?"
 
 #. Title = PIER ORB / bustedupwalkwaythought
 #. Description = One wrong step is death, right? Probably death. (This is a conversation with VisCalc on the state of the ruin.)
@@ -87,3 +106,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000234C"
 msgid "Oh, pardon me then. I forgot just how *cool* you were."
 msgstr ""
+"Och, tak to mě omluv. Zapomněl jsem, jak jsi skvělý."
