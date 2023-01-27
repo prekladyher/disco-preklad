@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000113B"
 msgid "\"Yes. Rocks!\""
 msgstr ""
+"\"Jo. Šutry!\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800001149"
 msgid "\"Rock. No!!\""
 msgstr ""
+"\"Šutře! Ne!\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100006670"
 msgid "\"Ha-ha!\""
 msgstr ""
+"\"Ha-ha!\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000100B8"
 msgid "\"Up, up, and away!\""
 msgstr ""
+"\"Vzhůru, vzhůru a pryč!\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000100AE"
 msgid "\"Up, rock!\""
 msgstr ""
+"\"Vzhůru, šutre!\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000100B3"
 msgid "\"Down, rock!\""
 msgstr ""
+"\"Dolů, šutře!\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800001142"
 msgid "\"Good rocks.\""
 msgstr ""
+"\"Hodný šutry.\""
 
 #. Title = VILLAGE / LILIENNES TWINS barks
 #. Description = Two of Netpicker's kids standing around in the village, shuffling on their feet, kicking rocks and yelling barks or somesuch.
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800001134"
 msgid "\"Rock. Rock!\""
 msgstr ""
+"\"Šutr. Šutr!\""

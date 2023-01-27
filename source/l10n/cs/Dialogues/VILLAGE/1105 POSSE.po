@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -13,6 +21,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006728"
 msgid "\"We've read the reports, Harry. Lieutenant Kitsuragi's. We know.\""
 msgstr ""
+"\"Četli jsme hlášení, Harry. Od poručíka Kitsuragiho. My víme.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -23,6 +32,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000EF7D"
 msgid "\"We've come to scrape what's left of you off the pavement.\""
 msgstr ""
+"\"Přišli jsme seškrábnout z chodníku to, co z tebe zbylo.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -33,6 +43,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F010"
 msgid "\"I wanna call you a teapot, but I'm honestly kind of impressed... no idea where you got all that gear -- but there's no doubt in my mind that some bad, bad people are looking for it...\""
 msgstr ""
+"\"Chtěl bych tě nazvat čajovou konvicí, ale upřímně, udělals na mě dojem... nechápu, kdes všechnu tu zbroj vzal - ale podle mě není pochyb, že teď ji hledají nějací zlí, zlí lidé.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F1B0"
 msgid "\"You mentioned a 'task force'?\""
 msgstr ""
+"\"Zmiňoval jsi 'operační skupinu'?"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -53,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F28D"
 msgid "\"What indeed?\" He looks at the dilapidated shacks, then you. \"I was asked to share my take on some of the more *obscure* theories developed in Königstein in the Thirties. Like -- partial psychotraumatic amnesia, group personality theory...\""
 msgstr ""
+"\"Vskutku, copak?\" Pohlédne na rozpadající se chatrče, pak na tebe. \"Požádali mě, abych se podělil o můj pohled stran nějakých *obskurnějších* teorií, vyvinutých v Königsteinu ve třicátých letech. Jako například částečná psychotraumatická amnézie, teorie roztříštěné osobnosti...\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -63,6 +76,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013A82"
 msgid "\"You. *Shitkid* -- that's you.\""
 msgstr ""
+"\"Ty. Ten *Zmrdíček*, to jsi ty.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -73,6 +87,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013F6E"
 msgid "\"The line is from Lu Jiatun's 'Mirova Cycle', isn't it? About Girl Child Communism -- the titular *returning* character. The ghostly apparition of...\" He looks around and, noticing the impatience of his companions, stops himself. \"Good choice, Harry.\""
 msgstr ""
+"\"Ta hláška je z Lu Jiatunova Mirovského cyklu, že? O Dívčím Dětském Komunismu - hlavní postava, jež se *navrací*. Strašný přízrak...\" Rozhlédne se dokola, a když si všimne netrpělivosti svých společníků, odmlčí se."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -83,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013FF0"
 msgid "\"Cuno knew dress-up-pigs were in town. Cuno meant to dust them -- Cuno pig-duster -- but didn't, 'cause Cuno cares.\" The kid nods solemnly."
 msgstr ""
+"\"Kuno věděl, že poldové v obleku jsou vě městě. Kuno je chtěl obrátit v prach - Kuno, rozptylovatel poldů, ale neudělal to, protože Kunovi není všecko jedno.\" Dítě slavnostně přikývne."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -93,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013FFF"
 msgid "This is the Horse-Faced Woman. I don't know *why* you named her that, but it was beyond idiotic. You should *never* address her using those words again."
 msgstr ""
+"Tohle je Žena s koňskou tváří. Nevím, *proč* jsi ji takto pojmenoval, ale bylo to víc než idiotské. Nikdy víc bys ji neměl takto nazývat."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -103,6 +120,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001417A"
 msgid "\"Yeah, that's *very* good.\""
 msgstr ""
+"\"Jo, to je *velmi* dobré.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -113,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000141A7"
 msgid "\"Other people have left too. Good, smart people. People we won't get back. Only me and this *really patient* patrol officer are still here. And Trant -- because I'm *forcing* him to stay.\""
 msgstr ""
+"\"Ostatní lidé také odešli. Dobří, chytří lidé. Lidé, které už nedostanem zpátky. Jen já a tato *opravdu trpělivá* hlídkařka jsme stále tady. A Trant - protože jej *nutím*, aby zůstal.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -123,6 +142,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001426C"
 msgid "\"Oh, you think it was *cool* -- you saying that? *Aesthetic* somehow? You were crying when we got here. Breaking things. You said we were going 'into the abyss'.\""
 msgstr ""
+"\"Ach, tak ty si myslíš, že bylo *cool* nám tohle říkat? Prý nějak *estetické*? Brečels, když jsme sem přijeli. Rozbíjels věci. Řekls, že se 'řítíme do propasti'.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -133,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000143CE"
 msgid "\"I am a highly experimental detective. This was a method I used to solve the case.\""
 msgstr ""
+"\"Jsem velmi experimentující detektiv. Tohle byla metoda, které jsem užil k řešení případu.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -143,6 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000143D4"
 msgid "\"Interesting. So at first he dipped his toes into it. Prepared. That's where he would have gotten the idea -- yes. Practice. And then he used alcohol to 'get there', so to speak...\""
 msgstr ""
+"\"Zajímavé. Takže nejprve v tom jen smočil nohu. Připraven. Tak získal ten nápad - ano. Trénink. A pak užil alkohol, aby se, jak se to říká, 'do toho dostal'.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -153,6 +175,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000144CA"
 msgid "\"Line detective is good for now.\""
 msgstr ""
+"\"Řadový detektiv je za mě dobrý.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -163,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014628"
 msgid "\"Look at F. Booho here! Victim of the ethanol-industrial complex. What are you, an inva-communist now? You think this is a joke?\""
 msgstr ""
+"\"Podívejme na zasranýho pana Plakánka! Oběť etanolově-industriálního komplexu. Co teď jsi - inva-komunista? Myslíš, že to je vtip?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -173,6 +197,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001473B"
 msgid "\"Wait, there's a motor carriage in the ocean?\""
 msgstr ""
+"\"Počkat, v moři že je motorový kočár?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -183,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014784"
 msgid "He squints at it suspiciously."
 msgstr ""
+"Podezřívavě na něj přimhouří oči. "
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -193,6 +219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001483E"
 msgid "\"He found it!\" The patrol officer picks it up and gives it back to you -- slippery and cold. \"He found it, Jean. It's his badge!\""
 msgstr ""
+"\"Našel ho!\" Hlídkařka jej zvedne a podá ti ho nazpět - studený a kluzký. \"Našel ho, Jeane. Je to jeho průkaz!"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -203,6 +230,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000780001483E"
 msgid "\"He has it!\" The patrol officer picks it up and gives it back to you -- slippery and cold. \"He has it, Jean. It's his badge!\""
 msgstr ""
+"\"On ho má!\" Hlídkařka ho zvedne a podá ti ho zpět - kluzký a studený. \"Má ho, Jeane. Je to jeho průkaz!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -213,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000148C7"
 msgid "\"And your *gun*?\" The man stares at you, unimpressed."
 msgstr ""
+"\"A co tvoje *zbraň*?\" Muž na tebe zírá, dojem to na něj neudělalo."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -223,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000148F8"
 msgid "\"Okay.\" Finally, he nods, unimpressed. \"And your *gun*?\""
 msgstr ""
+"\"Dobře.\" Konečně přikývne, dojem to na něj moc neudělalo. \"A co tvoje *zbraň*?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -233,6 +263,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014B2C"
 msgid "\"This is a *great* gun. Maybe it's not some kind of flashy *side* arm, but still!\""
 msgstr ""
+"\"Tohle je *skvělá* zbraň. Možná to není jedna z těch okázalých, ale stejně!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -243,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014C06"
 msgid "\"So it doesn't even matter that I found my gun?!\""
 msgstr ""
+"\"Takže ani nezáleží na tom, že jsem našel svou zbraň?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -253,6 +285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014D85"
 msgid "\"A bit of a week?\" He squints. \"You're drunk. And you let a suspect *escape* -- a certain Klaasje. Because you were you too *drunk* to assess her flight risk.\""
 msgstr ""
+"\"Kousek týdne?\" Přimhouří oči. \"Jsi opilec. A nechals podezřelou *uprchnout* - jistou Klaasje. Protožes byl příliš *opilý* na to, abyz zvážil riziko, že uprchne.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -263,6 +296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014ED9"
 msgid "\"Or the fact that you're Evrart Claire's *little peone* now. Doing I-don't-know-what for him. That's small-time stuff. That's nothing. That's a humourous anecdote...\""
 msgstr ""
+"\"Nebo ten fakt, že jsi poskokem Evrarta Jasného. Že pro něj děláš ani nevím co. To jsou blbosti. To není nic. Vlastně jen vtipná historka....\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -273,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800015278"
 msgid "\"...compared to the *seven people* who were gunned down! The streets are literally red with blood, Harry. It was fucking *mass murder*.\""
 msgstr ""
+"\"...ve srovnání se *sedmi lidmi*, který oddělali! Ulice doslova zrudly krví, Harry. Byla to zasraná *masová vražda*.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -283,6 +318,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000152DD"
 msgid "\"Oh well -- if *you* think she didn't know anything...\" He rubs his face in frustration. \"I'm not even gonna get into the eighty other suspects you've failed to arrest.\""
 msgstr ""
+"\"No dobře - pokud si *ty* myslíš, že nic nevěděla...\" Frustrovaně si zamne tvář. \"Ani nemluvím o těch osmdesáti dalších podezřelých, které se ti nepodařilo zatknout.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -293,6 +329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200002EA3"
 msgid "\"Wait for fucking what? I'm Cuno. We come from Death Island.\""
 msgstr ""
+"\"Počkat kurva na co? Já jsem Kuno. Přišli jsme z Ostrova smrti.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -303,6 +340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000459B"
 msgid "\"Oh... that explains it.\""
 msgstr ""
+"\"Ach... to vysvětluje vše.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -313,6 +351,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000662"
 msgid "\"Aw, c'mon, you gotta cut him some slack. Pig's been working hard. Digging through the guts of corpses and shit. Getting shot and shit.\""
 msgstr ""
+"\"Ale no ták, nesmíte na něj bejt tak tvrdý. Pašík tvrdě makal. Hrabal se mrtvákům ve střevech a tak. Stříleli do něj a tak.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -323,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006752"
 msgid "\"We've read the reports. Lieutenant Kitsuragi's. We know.\""
 msgstr ""
+"\"Četli jsme hlášení. Poručíka Kitsuragiho. My víme.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -333,6 +373,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A3B7"
 msgid "Without a reply the satellite-officer covers his nose."
 msgstr ""
+"Satelitní důstojník neodpoví a stiskne si nos."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -343,6 +384,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000EF9B"
 msgid "\"Hello, I'm Trant Heidelstam. I believe we've met on several occasions.\""
 msgstr ""
+"\"Ahoj, jsem Trant Heidelstam. Věřím, že už jsme se při několika příležitostech potkali.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -353,6 +395,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F14B"
 msgid "\"Good luck with that.\" He turns to you. \"Sounds like you're in some shit.\""
 msgstr ""
+"\"Hodně štěstí, teda.\" Otočí se k tobě. \"Vypadá to, že seš v ňákejch sračkách.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -363,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F205"
 msgid "\"Okay. I had that coming.\""
 msgstr ""
+"\"Dobře. Šel jsem tomu naproti.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -373,6 +417,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014090"
 msgid "\"So, *Trant Heidelstam*. What are you *special consulting* here?\""
 msgstr ""
+"\"Takže, *Trante Heidelstame*. Co tady *speciálně konzultujete*?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -643,6 +688,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F266"
 msgid "\"Mikael? Mikael's my son.\""
 msgstr ""
+"\"Míša? Míša je můj syn.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -653,6 +699,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013E5A"
 msgid "\"The cafeteria manager you fucked over told us where you went.\""
 msgstr ""
+"\"Manažer hostelu, se kterýms vyjebal, nám řekl, kam jsi šel.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -663,6 +710,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013EA9"
 msgid "\"Sylvie's a whore. She rides the cock carousel... and foreigners.\""
 msgstr ""
+"\"Sylvie je kurva. Rajtuje na kokot-toči... a na cizincích.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -673,6 +721,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013F30"
 msgid "\"Speaking of which. The giant *aero-graffito* in front of the building. The one that's *burning* -- did you do that?\""
 msgstr ""
+"\"Když už se o tom bavíme. To obrovské *aero-grafitto* před tou budovou. To *hořící* - tos udělal ty?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -683,6 +732,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013F67"
 msgid "\"I knew it. Didn't I tell you, Trant? I told you it was our shitkid.\""
 msgstr ""
+"\"Já to věděl. Neříkal jsem ti to, Trante? Říkal jsem, že to byl náš zmrdíček.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -693,6 +743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014160"
 msgid "\"Yeah. Totally. I get it. Major Crimes Unit.\""
 msgstr ""
+"\"Jo. Naprosto. Chápu. Oddělení Závažných zločinů.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -703,6 +754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014189"
 msgid "\"Okay. So what does the unit *do*?\""
 msgstr ""
+"\"Dobře. Takže, co tahle jednotka vlastně *dělá*?"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -713,6 +765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014321"
 msgid "\"None of us wanted to see the abyss, so we fucked off.\" He sighs. \"Like you told us to.\""
 msgstr ""
+"\"Nikdo z nás nechtěl nahlížet do propasti, tak jsme šli do píče.\" Povzdechne si. \"Přesně to, cos nám řekl.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -723,6 +776,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000143C2"
 msgid "\"I made it all up. It was a fantasy, a stupid joke. I know what I am.\""
 msgstr ""
+"\"Celé jsem si to vymyslel. Byla to jen představa, hloupý vtip. Vím, kdo jsem.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -733,6 +787,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000078000143C2"
 msgid "\"I made it all up. As I already told Lieutenant Kitsuragi, I know what I am.\""
 msgstr ""
+"\"Celé jsem si to vymyslel. Jak už jsem řekl poručíkovi Kitsuragimu, vím, kdo jsem.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -743,6 +798,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014505"
 msgid "\"I can believe that. Shitkid made it all up to fuck with us -- because he's a psychopath. This is typical Harry behaviour. A sick joke. I told you, Jude.\""
 msgstr ""
+"\"Tomu můžu věřit. Zmrdíček si to celý vymyslel, aby s náma vyjebal - protože je to psychopat. To je typické Harryho chování. Blbej vtip. Říkal jsem ti to, Judi.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -933,6 +989,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000065FC"
 msgid "\"The line is from Lu Jiatun's 'Mirova 82', isn't it? About Girl Child Communism -- the titular *returning* character. The ghostly apparition of...\" He looks around and, noticing the impatience of his companions, stops himself. \"Good choice, Harry.\""
 msgstr ""
+"\"Ta hláška je z Lu Jiatunova Mirovského cyklu, že? O Dívčím Dětském Komunismu - hlavní postava, jež se *navrací*. Strašný přízrak...\" Rozhlédne se dokola, a když si všimne netrpělivosti svých společníků, odmlčí se. \"Dobrý vkus, Harry.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -943,6 +1000,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000066B5"
 msgid "Those cases were hard on you..."
 msgstr ""
+"Tyhle případy se na tobě podepsaly..."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -953,6 +1011,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000066EE"
 msgid "\"We've read the reports. Lieutenant Kitsuragi's. We know.\""
 msgstr ""
+"Četli jsme hlášení, Harry. Od poručíka Kitsuragiho. My víme.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -963,6 +1022,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006738"
 msgid "\"We've read the reports, Harry. Lieutenant Kitsuragi's. We know.\""
 msgstr ""
+"Četli jsme hlášení, Harry. Od poručíka Kitsuragiho. My víme.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -973,6 +1033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F467"
 msgid "Precisely, Satellite-Officer Vicquemare. It's Martinaise."
 msgstr ""
+"Přesněji řečeno, satelitní důstojník Vikemar. Tohle je Martinéza. "
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -983,6 +1044,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004000002E7B"
 msgid "From the way he covers his nose you can tell the satellite-officer is still fixated on the smell and not your incredible achievement."
 msgstr ""
+"Podle toho, jak si drží nos, můžeš říct, že satelitní důstojník je stále zaměřený na ten smrad, a ne na tvůj neuvěřitelný úspěch."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -993,6 +1055,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000E94A"
 msgid "\"I'm truly sorry, Officer Minot.\""
 msgstr ""
+"\"Je mi to opravdu líto, strážníku Minotová.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -2123,6 +2186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200004572"
 msgid "\"No one else seems bothered by the bleeding.\""
 msgstr ""
+"\"Nikdo jiný nevypadá, že by ho to krvácení nějak rozrušovalo.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -2133,6 +2197,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200004587"
 msgid "\"Oh really?! They don't seem bothered by it? That's because you're a cop in an exoskeleton!\""
 msgstr ""
+"\"Ach opravdu?! Že nevypadají rozrušeně? To protože jsi polda v exoskeletu!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -2143,6 +2208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000045A1"
 msgid "\"Actually -- are you? Are you still a cop? There's so much disco going on, it's hard to tell.\""
 msgstr ""
+"\"Vlastně - jsi vůbec? Jsi vůbec ještě polda? Seš tak moc celej disko, že těžko říct.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -2153,6 +2219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000467A"
 msgid "As if he recalled that he's, in fact, a decorated police lieutenant, and not a naughty boy."
 msgstr ""
+"Jako by si připomněl, že je ve skutečnosti vzorný policejní poručík, a ne zlobivý chlapec. "
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -2163,6 +2230,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000662C"
 msgid "\"A disguise... why?\""
 msgstr ""
+"\"Převlek... proč?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5173,6 +5241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014B6E"
 msgid "\"I would say it's *very* bad, yes.\" He turns to you. \"You're drunk like an asshole, Harry -- please put the stolen firearm away before you kill someone.\""
 msgstr ""
+"\"Řekl bych, že je to *velmi* zlé, ano.\" Otočí se k tobě. \"Jsi opilý jak kokot, Harry - prosím odlož tu kradenou zbraň, než někoho zabiješ.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5183,6 +5252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014BB8"
 msgid "\"I don't have that one. I don't have my sidearm.\" (Lie.)"
 msgstr ""
+"\"Nemám ji. Nemám svou zbraň. (Lži.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5283,6 +5353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009043"
 msgid "\"Yeah, I checked the local pawnshop. You sold the pawnbroker a Villiers 9mm pistol -- to pay for booze!\""
 msgstr ""
+"\"Jo, zeptal jsem se v místní zastavárně. Prodals tomu zastavárníkovi Villierse 9mm - abys měl na chlast!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5293,6 +5364,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000EFA7"
 msgid "\"I'm your goddamn *partner* Jean Vicquemare, and this is *your* special task force,\" he says, gesturing toward his companions. \"Or what's left of it.\""
 msgstr ""
+"\"Jsem tvůj zatracený *partner* Jean Vikemar, a tohle je *tvoje* speciální operační jednotka,\" řekne, ukazujíc na své společníky. \"Nebo tedy to, co z ní zůstalo.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5413,6 +5485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000146ED"
 msgid "\"What I *do* have is this futuristic armour.\" (Point to yourself.)"
 msgstr ""
+"\"Co *mám*, je tato futuristická zbroj.\" (Ukaž na sebe.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5423,6 +5496,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000078000146ED"
 msgid "\"What I *do* have is this futuristic armour.\" (Tap your helmet.)"
 msgstr ""
+"\"Co *mám*, je tato futuristická zbroj.\" (Ukaž na svou helmu.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5433,6 +5507,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000078000146ED"
 msgid "\"What I *do* have is this futuristic armour.\" (Tap your cuirass.)"
 msgstr ""
+"\"Co *mám*, je tato futuristická zbroj.\" (Poklepej na svůj kyrys.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5443,6 +5518,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000078000146ED"
 msgid "\"What I *do* have is this futuristic armour.\" (Click the heels of your boots.)"
 msgstr ""
+"\"Co *mám*, je tato futuristická zbroj.\" (Sraž paty svých bot.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5453,6 +5529,7 @@ msgstr ""
 msgctxt "Alternate4/0x01000078000146ED"
 msgid "\"What I *do* have is this futuristic armour.\" (Clench your armored fist.)"
 msgstr ""
+"\"Co *mám*, je tato futuristická zbroj.\" (Zatni svou obrněnou pěst.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5463,6 +5540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014AE5"
 msgid "\"You're *drunk*, aren't you? You lost your gun and you're drunk! You're a drunk, gunless bum! I can smell it!\""
 msgstr ""
+"\"Jsi *opilec*, co? Prostě jsi ztratil svou zbraň, a jsi opilý! Jsi opilý neozbrojený santusák! Cítím to až sem!"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5473,6 +5551,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014CBF"
 msgid "\"Who are you posing for, huh? A suspect escaped, Harry. Klaasje-something. Because you were too *high* to assess her flight risk.\""
 msgstr ""
+"\"Na co si to sakra hraješ? Podezřelá uprchla, Harry. Klaasje nevímjakdál. Protože jsi byl příliš *sjetý* na to, abys zvážil riziko, že uteče.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5483,6 +5562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200004502"
 msgid "\"What is this about?\" (Move on.)"
 msgstr ""
+"\"O čem to je?\" (Posuň se.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5493,6 +5573,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000065F2"
 msgid "Shitkid. What an interesting moniker."
 msgstr ""
+"Zmrdíček. Jaká to zajímavá přezdívka."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5503,6 +5584,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006720"
 msgid "\"We've read the reports, Harry. Lieutenant Kitsuragi's. We know.\""
 msgstr ""
+"\"Četli jsme hlášení, Harry. Od poručíka Kitsuragiho. My víme.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5513,6 +5595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000EF8F"
 msgid "\"Bothered by it? Harry, you're a *goddamn* cop! They're afraid of you!\""
 msgstr ""
+"\"Rozrušeni? Harry, ty jsi *zatracenej* polda! Oni se tě bojí!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5523,6 +5606,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000EFB5"
 msgid "\"Harry... you're bleeding all over the place. You're half dead.\""
 msgstr ""
+"\"Harry... valí se z tebe krve jak z prasete. Seš napůl mrtvej.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5533,6 +5617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F198"
 msgid "\"You aren't the Man with Sunglasses at all... you're not even blond!\""
 msgstr ""
+"\"Ty vůbec nejsi Muž se slunečními brýlemi... a ani nejsi blond!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5543,6 +5628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F25A"
 msgid "\"Oh yeah?! Where the fuck is your *son* now, *special consultant*?!\""
 msgstr ""
+"\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5553,6 +5639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013A7C"
 msgid "\"What's a shitkid?\""
 msgstr ""
+"\"Kdo je zmrdíček?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5573,6 +5660,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013F40"
 msgid "\"It was this one junior delinquent.\""
 msgstr ""
+"\"Byl to tenhle mladistvý delikvent.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5583,6 +5671,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013F7B"
 msgid "\"Uhm, and...\" She looks around. \"People on this street helped us too. With your whereabouts.\""
 msgstr ""
+"\"Ehm, a...\" Rozhlédne se. \"Lidé z téhle ulice nám taky pomohli. Řekli nám, kde jsi.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5593,6 +5682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014022"
 msgid "It's true. You have a problem."
 msgstr ""
+"Je to pravda. Máš problém."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5613,6 +5703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001418F"
 msgid "\"I'm technically just a civilian advisor.\""
 msgstr ""
+"\"Technicky vzato, jsem jen civilní poradce.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5623,6 +5714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014549"
 msgid "\"This sounds odd -- but I was there. The church on the coast was shaking from an audio-spatial anomaly. It may have been entroponetic, or perhaps related to radio waves...\""
 msgstr ""
+"\"Zní to divně - ale byl jsem u toho. Ten kostel na pobřeží se třásl od zvukově-prostorové anomálie. Může to být entroponetického rázu, nebo možná má co dělat s rádiovými vlnami...\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5633,6 +5725,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000145AD"
 msgid "\"This is all *pointless*. I have completely TRANSCENDED all of this. You have no idea what I just saw!\""
 msgstr ""
+"\"Nic z toho *nemá smysl*. Přes to všechno jsem TRANSCENDOVAL.Ani nemáte tušení, co jsem zrovna viděl!\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5643,6 +5736,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000145E1"
 msgid "\"You're simply lying. Or insane. Or both.\""
 msgstr ""
+"\"Ty prostě lžeš. Nebo jsi nepříčetný. Nebo oboje.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5653,6 +5747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000146F7"
 msgid "\"We're not armour-cops, we're cop-cops! People don't know us by our armour, they know us by our badges. Where the fuck is your badge?\""
 msgstr ""
+"\"My nejsme obrnění poldové, my jsme prostě poldové! Lidé náz neznají podle zbroje, znají nás podle našich průkazů. Kde je do píči ten tvůj?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5663,6 +5758,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000078000146F7"
 msgid "\"We're not armour-cops, we're cop-cops! People don't know us by our armour, they know us by our badges. You called in and said you lost yours -- have you *found* it?\""
 msgstr ""
+"\"My nejsme obrnění poldové, my jsme prostě poldové! Lidé náz neznají podle zbroje, znají nás podle našich průkazů. Zavolals nám a řekls, žes ten svůj ztratil - *našels* ho?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5673,6 +5769,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000146FE"
 msgid "\"For the record, you pressured us into getting it. 'It'll be cool Jean, we'll have wheels, rapid response...' I was fine being an equestrian cop. I hope you're fine driving a *bicycle*.\""
 msgstr ""
+"\"Aby to bylo úplné, tys nás k tomu donutil. Bude to cool, Jeane, budem mít kola a reagovat rychleji...' Mně se líbilo být jízdním poldou. Doufám, že rád jezdíš *na kole*.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5683,6 +5780,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001470B"
 msgid "\"So *refreshing*. He just admits it. Thank you for your honesty. Thank you for destroying 45,000 reál of police property that's coming out of *everyone's* payslip.\""
 msgstr ""
+"\"Tak *osvěžující*. On to prostě přiznává. Díky za upřímnost. Díky za zničení policejního majetku za 45 000 reálů, což my *všichni* pocítíme na výplatě.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5693,6 +5791,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001479C"
 msgid "\"The thing that tells people you're a police officer.\""
 msgstr ""
+"\"Tu věc, která lidem sděluje, že jsi policejní důstojník.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5703,6 +5802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014856"
 msgid "Did I get the badge?"
 msgstr ""
+"Získal jsem tu průkazku?"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5713,6 +5813,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014A79"
 msgid "\"I would say it's *very* bad, yes.\" He turns to you. \"You lost your service weapon -- while drunk. And then you couldn't find it, because you were *still* drunk?! You're drunk right now, aren't you?\""
 msgstr ""
+"\"Řekl bych, že je to *velmi* zlé, ano.\" Otočí se k tobě. \"Ztratils svou služební zbraň - v opilosti. A pak jsi ji nemohl najít, protožes byl *stále* opilý?! I teď jsi opilý, co?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5723,6 +5824,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800018867"
 msgid "\"Oh well -- if you got *really* high then I guess it's okay.\" He rubs his face in frustration. \"Let's not even get into the *other* suspect -- who also escaped.\""
 msgstr ""
+"\"No dobře - jestli ses *fakt* sjel, pak je to asi v pořádku.\" Frustrovaně si zamne tvář. \"A to aní nemluvím o *další* podezřelé - která také uprchla.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5733,6 +5835,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800018867"
 msgid "\"Oh well -- if you got *really* high then I guess it's okay.\" He rubs his face in frustration. \"Let's not even get into the *other* suspect -- who also escaped. Or the catatonic old lady with the police lights.\""
 msgstr ""
+"\"No dobře - jestli ses *fakt* sjel, pak je to asi v pořádku.\" Frustrovaně si zamne tvář. \"A to aní nemluvím o *další* podezřelé - která také uprchla. Nebo o té staré katatonické paní s policejními blikačkami.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5743,6 +5846,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F481"
 msgid "\"Yeah, I don't have that. I don't have my sidearm.\" (Lie.)"
 msgstr ""
+"\"Jo, tak tu nemám. Nemám svou pistoli.\" (Lži.)"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5753,6 +5857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001FEC6"
 msgid "Maybe you've *deserved* it?"
 msgstr ""
+"\"Možná, že sis to *zasloužil*?"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5763,6 +5868,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F0C7"
 msgid "Let him."
 msgstr ""
+"Nechej ho."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5773,6 +5879,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F26C"
 msgid "\"Wait, what was up with the kid then?\""
 msgstr ""
+"\"Počkat, a co tedy to dítě?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5783,6 +5890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000640000F272"
 msgid "\"No problem.\""
 msgstr ""
+"\"Není problém.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5793,6 +5901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013EAF"
 msgid "\"No one. It's not important.\""
 msgstr ""
+"\"Nikdo. Není to důležité.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5803,6 +5912,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013EFB"
 msgid "\"Speaking of which. The giant *aero-graffito* in front of his building, in red, government-marked fuel -- did you do that?\""
 msgstr ""
+"\"Když už se o tom bavíme. To obrovské *aero-grafitto* před jeho budovou, napsané červenou státní naftou - tos udělal ty?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5813,6 +5923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013FDE"
 msgid "\"In the crowd, there was a man and a woman in RCM uniform,\" he says to you, then turns to Vicquemare. \"In his defence -- we were in a hurry.\""
 msgstr ""
+"\"V davu byli muž a žena v uniformách ROM.,\" sdělí ti, a pak se otočí k Vikemarovi. \"Na jeho obranu - spěchali jsme.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5823,6 +5934,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001400B"
 msgid "\"You fucking idiot. You stupid fucking idiot. You're even worse than before. How is that even *possible*?\""
 msgstr ""
+"\"Ty zasranej idiote. Ty zasranej blbej idiote. Jsi dokonce ještě horší, než předtím. Jak je to vůbec *možné*?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5833,6 +5945,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014075"
 msgid "Fuck you too! I don't need help!"
 msgstr ""
+"Do prdele s tebou taky! Nepotřebuji pomoc!"
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5843,6 +5956,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000140B5"
 msgid "Him being there with his son -- it was not a coincidence. It's difficult to see, but he was worried about you. And *also* interested in the Feld building."
 msgstr ""
+"To, že tam byl se svým synkem - to nebyla náhoda. Je těžké to poznat, ale měl o tebe starosti. A *také* jej zajímala budova FELD."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5853,6 +5967,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000140BB"
 msgid "\"No. I was just interested in the Feld building and the Martinaise Beachhead. And Mikael wanted to see Martinaise. It was a coincidence.\""
 msgstr ""
+"\"Ne. Jen mě zajímala budova FELD a martinézská pláž. A Míšánek chtěl vidět Martinézu. Byla to náhoda.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5863,6 +5978,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000140CE"
 msgid "\"He's here to see if you're insane. He's smart. Let's move on.\""
 msgstr ""
+"\"Je tady, aby zjistil, jestli jsi šílený nebo ne. Je chytrý. Jdeme dál.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5873,6 +5989,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000143C8"
 msgid "\"It might have something to do with an anomaly in the church. A two-millimetre hole in the world.\""
 msgstr ""
+"\"Možná to má co dělat s anomálií v kostele. Dvoumilimetrovou dírou ve světě.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5883,6 +6000,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000143E1"
 msgid "\"What?! He lost his memory because of *capitalism*?\""
 msgstr ""
+"\"Cože?! Ztratil paměť, protože *kapitalismus*?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5893,6 +6011,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001442A"
 msgid "\"Well it's *not* capitalism. So we can cross that off the list, you lefty dink.\""
 msgstr ""
+"\"No, *není* to kapitalismus. Takže ten můžem vyškrtnout ze seznamu, ty levičácký kravaťáku.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5903,6 +6022,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000145A7"
 msgid "\"I have accomplished things no normal detective ever has. I have detected a...\""
 msgstr ""
+"\"Dosáhl jsem věcí, jaké žádný běžný detektiv nedokázal. Vypátral jsem...\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5913,6 +6033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014655"
 msgid "\"Agreed, Harry.\" He nods. \"Just don't expect us to get you a disability pension. Cops who actually gave a shit are waiting in line. You're not gonna hog their seat.\""
 msgstr ""
+"\"Souhlas, Harry.\" Přikývne. \"Ale nečekej, že od nás dostaneš invalidní důchod. Poldové, kterým věci jedno nebyly, čekaj ve frontě. Ty jim židli nepodtrhneš.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5923,6 +6044,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014721"
 msgid "\"Ha-ha-ha, ho-ho-ho.\" He grabs his stomach in mirthless laughter. \"Underwater killer. So funny, Harry. Thank you for fucking me.\""
 msgstr ""
+"\"Ha-ha-ha, ho-ho-ho.\" Popadne se za břicho neveselým smíchem. \"Podvodní vrah. Fakt sranda, Harry. Dík že se mnou tak vyjebáváš.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5933,6 +6055,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000148F0"
 msgid "\"And your *gun*?\" The man stares at you, unimpressed with the badge-finding."
 msgstr ""
+"\"A tvoje *zbraň*?\" Muž na tebe zírá, žes našel svůj průkaz, na něj neudělalo dojem."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5943,6 +6066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014B01"
 msgid "This is so unfair. He knows you have the gun and *still* he's punishing you."
 msgstr ""
+"To je hrozně nefér. Ví, že máš tu zbraň, a *přesto* tě trestá."
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5953,6 +6077,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014B7F"
 msgid "\"I don't care. Where is the gun the RCM gave you to kill people with? Where is that one?\""
 msgstr ""
+"\"Je mi to jedno. Kde je ta zbraň, kterou ti ROM dala, abys s ní zabíjel lidi? Kde je tamta?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5963,6 +6088,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014B8B"
 msgid "\"This isn't cause for celebration. It's... bad.\""
 msgstr ""
+"\"To není důvod k oslavě. Je to... zlé.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5973,6 +6099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014C51"
 msgid "\"So you... *forgot* to drink? I don't buy it. Why do you smell like a *corpse* then?\""
 msgstr ""
+"\"Takže tys...*zapomněl* chlastat? Kecy. Proč tedy smrdíš jak *mrtvola*?\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5983,6 +6110,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800014E5D"
 msgid "\"Oh well -- if she thought you were sent by La Puta Madre...\" He rubs his face in frustration. \"I'm not even gonna get into what this means for the ethics commission.\""
 msgstr ""
+"\"No dobře - jestli si myslela, že tě poslal La Puta Madre...\" Frustrovaně si zamne tvář. \"A  to ani nechci mluvit o tom, co tohle bude znamenat pro etickou komisi.\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -5993,6 +6121,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800014E5D"
 msgid "\"Oh well -- if she thought you were sent by La Puta Madre...\" He rubs his face in frustration. \"I'm not even gonna get into what this means for the ethics commission. Not to mention the catatonic old lady with the police lights...\""
 msgstr ""
+"\"No dobře- jestli si myslela, že tě poslal La Puta Madre...\" Frustrovaně si zamne tvář. \"A to ani nemluvím o tom, co tohle bude znamenat pro etickou komisi. Ani o té katatonické staré paní s policejními blikačkami...\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -6003,6 +6132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800015375"
 msgid "\"Sure -- if it's part of your *master plan*....\" He rubs his face in frustration. \"Let's not even get into the other suspect, the one who shot herself. In the head. Another *detail*.\""
 msgstr ""
+"\"Jasně - je to součástí tvého *mazaného plánu*....\" Frustrovaně si mne tvář. \"A to ani nemluvíme o jiné podezřelé, té, která se střelila. Do hlavy. Další *detail*. "
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -6013,6 +6143,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200004521"
 msgid "\"My jacket... no one else seems bothered by it...\""
 msgstr ""
+"\"Moje bunda... nevypadalo to, že by s ní někdo jiný měl problém...\""
 
 #. Title = VILLAGE / POSSE
 #. Description = It's time to face your colleagues.
@@ -6023,3 +6154,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820000475A"
 msgid "\"Yes-yes... What's *wrong* with you?\""
 msgstr ""
+"\"Jo jo... Co je to s tebou?\""
