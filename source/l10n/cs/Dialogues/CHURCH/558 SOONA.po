@@ -1,6 +1,8 @@
 # Skywolf <skywolf@email.cz>, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 # Ziriath <ziriath@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,7 +14,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -435,7 +437,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002E90"
 msgid "Nothing happens as Soona Luukanen-Kilde presses unmute on her keyboard. Nothing but silence."
 msgstr ""
-"Když Soňa Luukanen-Kildeová stiskne na klávesnici tlačítko pro zapnutí zvuku, nic se neděje. Nic než ticho."
+"Když Soňa Luukanen-Kilde stiskne na klávesnici tlačítko pro zapnutí zvuku, nic se neděje. Nic než ticho."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -1011,7 +1013,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600015929"
 msgid "\"Stay here,\" she cuts you off, her deft fingers already on the keyboard. \"I am going to stay here with these lunatics, send letters, maybe meet Sulisław... Also devise further measurements.\""
 msgstr ""
-"\"Tady vás přeruším,\" přeruší tě a její obratné prsty už pracují na klávesnici. \"Zůstanu tady s těmi blázny, budu posílat dopisy, možná se setkám se Šulislavem... A taky vymyslím další měření.\""
+"\"Tady vás přeruším,\" přeruší tě a její obratné prsty už pracují na klávesnici. \"Zůstanu tady s těmi blázny, budu posílat dopisy, možná se setkám se Sulisław... A taky vymyslím další měření.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -1326,7 +1328,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001D252"
 msgid "\"Egg...\""
 msgstr ""
-"\"Eyckyne...\""
+"\"Eyckine...\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -1335,7 +1337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001D260"
 msgid "\"You did good, Egg...\" Andre breathes a sigh of relief and inspects the window.  \"Most of the place seems to be intact. Fucking L... Programmer-lady, tell me you were recording that!\""
 msgstr ""
-"\"Vedl sis dobře, Eyckyne...\" André si oddechne a prohlíží si okno. \"Většina místa se zdá být neporušená. Zasranej L... Paní programátorko, řekněte mi, že jste to nahrávala!\""
+"\"Vedl sis dobře, Eyckine...\" André si oddechne a prohlíží si okno. \"Většina místa se zdá být neporušená. Zasranej L... Paní programátorko, řekněte mi, že jste to nahrávala!\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -1353,7 +1355,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700023E24"
 msgid "\"I am Soona Luukanen-Kilde, the former lead programmer of Fortress Accident and RSA Radios. I have over 16 years of programming experience and I'm proficient in both Vox and Orbis languages...\""
 msgstr ""
-"\"Soňa Luukanen-Kildeová, bývalá hlavní programátorka Pevnosti Katastrof a RSA Rádií. Mám více než 16 let zkušeností s programováním a plynule ovládám jazyky Vox i Orbis...\""
+"\"Soňa Luukanen-Kilde, bývalá hlavní programátorka Pevnosti Katastrof a RSA Rádií. Mám více než 16 let zkušeností s programováním a plynule ovládám jazyky Vox i Orbis...\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -3738,7 +3740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000158C0"
 msgid "\"Four years...\" the woman whispers. \"Twenty two people, millions of reáls... All that time *this* is what we were up against? Just erased it...\" Her lip trembles. \"Sulisław isn't gonna believe this.\""
 msgstr ""
-"\"Čtyři roky...\" zašeptá žena. \"Dvaadvacet lidí, miliony reálů... Celou tu dobu jsme stáli proti *tomuhle*? Jen to vymazat...\" Chvějí se jí rty. \"Šulislav tomu nebude věřit.\""
+"\"Čtyři roky...\" zašeptá žena. \"Dvaadvacet lidí, miliony reálů... Celou tu dobu jsme stáli proti *tomuhle*? Jen to vymazat...\" Chvějí se jí rty. \"Sulisław tomu nebude věřit.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -3981,7 +3983,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001D20F"
 msgid "\"No, Egg! It's the window.\" The glass shards around Dolores Dei's vacant heart appear to be vibrating from the sound. It almost looks as if she's alive."
 msgstr ""
-"\"Ne, Eyckyne! To je okno.\" Zdá se, že skleněné střepy kolem prázdného srdce Dolores Božské od toho zvuku vibrují. Skoro to vypadá, jako by byla živá."
+"\"Ne, Eyckine! To je okno.\" Zdá se, že skleněné střepy kolem prázdného srdce Dolores Božské od toho zvuku vibrují. Skoro to vypadá, jako by byla živá."
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -4134,7 +4136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000158E9"
 msgid "\"You're going to write Sulisław?\""
 msgstr ""
-"\"Chystáte se napsat Šulislavovi?\""
+"\"Chystáte se napsat Sulisław?\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -5637,7 +5639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500002C02"
 msgid "\"It said the off-site copy had been taken to a nearby ice cream maker. The note was signed by someone named Sulisław.\""
 msgstr ""
-"\"Bylo v něm napsáno, že externí kopie byla odvezena do nedalekého zmrzlinářství. Vzkaz byl podepsán nějakým Šulislavem.\""
+"\"Bylo v něm napsáno, že externí kopie byla odvezena do nedalekého zmrzlinářství. Vzkaz byl podepsán nějakým Sulisław.\""
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
@@ -7356,7 +7358,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570001C524"
 msgid "\"Zawisza, of course...\" She relaxes. \"Our project lead Sulisław Zawisza. God, he was always so hell-bent on keeping the copy somewhere 'safe'. And feature creep...\" she mutters, \"and the Valley of the Heads...\""
 msgstr ""
-"\"Záviš, samozřejmě...\" Uvolní se. \"Vedoucí našeho projektu Šulislav Záviš. Bože, jak ten se vždycky tak pekelně snažil, aby ta kopie byla někde \"v bezpečí\". A hlavní podlejzák...\" zamumlá, \"a Údolí hlav...\" "
+"\"Zawisza, samozřejmě...\" Uvolní se. \"Vedoucí našeho projektu Sulisław Zawisza. Bože, jak ten se vždycky tak pekelně snažil, aby ta kopie byla někde \"v bezpečí\". A hlavní podlejzák...\" zamumlá, \"a Údolí hlav...\" "
 
 #. Title = CHURCH / SOONA
 #. Description = Soona the Palediver.
