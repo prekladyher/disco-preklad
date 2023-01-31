@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DA1B"
 msgid "He went with the 'Furies'. Perhaps the internal strife it implies was not so off after all? Or perhaps to honour your wishes? Or for some other reason. Hard to say..."
 msgstr ""
+"Šel s \"fúriemi\". Možná, že ten vnitřní spor, který z toho vyplývá, přece jen nebyl tak vypjatý? Nebo snad, aby vyplnil tvá přání? Nebo z nějakého jiného důvodu. Těžko říct..."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C3C"
 msgid "The boy picks up the notes and shuffles through some of the case names: \"'The Child', 'Dom's Unfinished', 'Dom's Unfinished 2', 'The Man With the Hole in His Head'... Boring ass shit,\" he concludes."
 msgstr ""
+"Chlapec vezme poznámky a projde si některé z názvů případů: \"Dítě\", \"Domův nedokončený\", \"Domův nedokončený 2\", \"Muž s dírou v hlavě\"... Nudná sračka,\" uzavírá."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C5B"
 msgid "\"Yeah, Kim is such a binoclard.\""
 msgstr ""
+"\"Jo, Kim je takový brejlotard.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA4E"
 msgid "\"I had Garte open the door to your room.\" He closes the notes. \"You were running a low bacterial fever the first night.\""
 msgstr ""
+"\"Řekl jsem GartOVI, aby VÁM otevřel dveře do pokoje.\" Zavře poznámky. \"První noc jste měl nízkou bakteriální horečku.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB39"
 msgid "These are fragments of the lieutenant's paperwork, left unfinished. Notes on this and other recent cases."
 msgstr ""
+"Jedná se o fragmenty poručíkových dokumentů, které zůstaly nedokončené. Poznámky k tomuto a dalším nedávným případům."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001ABA2"
 msgid "\"To inquire about the Lieutenant-Yefreitor, sir. I am his partner,\" says Satellite-Officer Jean Vicquemare, standing in the doorway."
 msgstr ""
+"\"Zeptat se na poručíka jefrejtora, pane. Jsem jeho partner,\" říká satelitní důstojník Jean Vicquemare, stojící ve dveřích."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C63"
 msgid "\"Pig...\" he says with a frown. \"It's cool for Cuno to rip on the 'clard, but he took a bullet for you. You gonna shitmouth Cuno too if he falls in battle?\""
 msgstr ""
+"\"Prase...\" zamračí se. \"Je v pohodě, že se Kuno naváží do \"tarda\"', ale on za tebe schytal kulku. Budeš na Kuna taky házet sraačky, když padne v bitvě?\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA65"
 msgid "\"Thank you for keeping this... thing alive a little longer.\" (Point to yourself.)"
 msgstr ""
+"\"Děkuji vám, že jste tuhle... věc ještě chvíli udržel při životě.\" (Ukaž na sebe.)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA9F"
 msgid "What is the name?"
 msgstr ""
+"Jak se jmenuje?"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AACA"
 msgid "HDB41-0803 (THE HANGED MAN)"
 msgstr ""
+"HDB41-0803 (OBĚŠENÝ MUŽ)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001AACA"
 msgid "HDB41-0803 (THE FURIES ARE AT HOME IN THE MIRROR)"
 msgstr ""
+"HDB41-0803 (FÚRIE JSOU DOMA V ZRCADLE)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AAD6"
 msgid "KK57-0803-0815 (THE HANGED MAN)"
 msgstr ""
+"KK57-0803-0815 (OBĚŠENÝ MUŽ)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001AAD6"
 msgid "KK57-0803-0815  (THE FURIES ARE AT HOME IN THE MIRROR)"
 msgstr ""
+"KK57-0803-0815  (FÚRIE JSOU DOMA V ZRCADLE)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB43"
 msgid "\"I am sure neither of us feels solid enough to keep loitering in this room -- let's go.\""
 msgstr ""
+"\"Jsem si jist, že ani jeden z nás se necítí dost pevný na to, aby se v téhle místnosti potloukal – pojďme.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB9B"
 msgid "\"Why are you here?\" asks the man as the cough fit resides. His eyes are black and moist."
 msgstr ""
+"\"Proč jste tady?\" zeptá se muže, když záchvat kašle ustoupí. Jeho oči jsou černé a vlhké."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C6A"
 msgid "The boy hesitates for a moment, then nods. \"No one tells Cuno what to call something, but the bino was alright in Cuno's book.\" He taps his chest solemnly. \"Cuno's pig.\""
 msgstr ""
+"Chlapec chvíli váhá a pak přikývne. \"Nikdo neříká Kunovi, jak se má čemu říkat, ale brejloun byl v Kunově knize v pořádku.\" Slavnostně si poklepe na hruď. \"Kuno je prase.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA71"
 msgid "\"I saw... apocalyptic visions. Of the darkness... behind darkness... *behind* darkness...\""
 msgstr ""
+"\"Viděl jsem... apokalyptické vize. O temnotě... za temnotou... *za* temnotou...\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C35"
 msgid "\"Look, Cuno, Lieutenant Kitsuragi's notes.\""
 msgstr ""
+"\"Podívej, Kuno, poznámky poručíka Kitsuragiho.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C94"
 msgid "\"For you, maybe,\" he replies seriously. \"But take it from the Cunn: Binos don't always get that. They get their feelings hurt. Cuno doesn't want this for your pal. He's alright in Cuno's book.\""
 msgstr ""
+"\"Možná pro tebe,\" odpoví vážně. \"Ale poslouchej Kuna: Brejlouni to vždycky nechápou. Zraňuje jim to city. Kuno tohle pro tvýho kámoše nechce. V Kunově knize je v pořádku.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA6B"
 msgid "\"I'm such a burden. I should just fuck off...\""
 msgstr ""
+"\"Jsem taková přítěž. Měl bych se na to vykašlat...\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AAC4"
 msgid "HDB41-0803.1015 (THE HANGED MAN)"
 msgstr ""
+"HDB41-0803.1015 (OBĚŠENÝ MUŽ)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001AAC4"
 msgid "HDB41-0803.1015 (THE FURIES ARE AT HOME IN THE MIRROR)"
 msgstr ""
+"HDB41-0803.1015 (FÚRIE JSOU DOMA V ZRCADLE)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB0E"
 msgid "This year, you can see references to: THE CHILD, DOM'S UNFINISHED; DOM'S UNFINISHED 2, MOTORCYCLE EMPTINESS, and THE MAN WITH THE HOLE IN HIS HEAD."
 msgstr ""
+"V letošním roce se můžeš setkat s odkazy na: DÍTĚ, DOMŮV NEDOKONČENÝ; DOMŮV NEDOKONČENÝ 2, PRÁZDNOTA MOTOCYKLU a MUŽ S DÍROU V HLAVĚ."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB4C"
 msgid "\"Not this again... you pull your weight, okay?\" He waves you off. \"Let's go.\""
 msgstr ""
+"\"Tohle už ne... máme tady práci, ano?\" Mávne rukou. \"Jdeme.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB53"
 msgid "\"It would have been easy were it not for my concussion... We both got lucky, considering the odds we faced.\" There's a pause. \"Let's go?\""
 msgstr ""
+"\"It would have been easy were it not for my concussion... We both got lucky, considering the odds we faced.\" There's a pause. \"Let's go?\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C4E"
 msgid "\"Oh... 'Motorcycle Emptiness' -- that's a cool case. Cuno can solve that shit for the bino.\""
 msgstr ""
+"\"Ou... \"Motocyklová prázdnota\" - to je hustej případ. Kuno to může vyřešit za brejlouna.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB65"
 msgid "\"I thought I was dead for a moment.\""
 msgstr ""
+"\"Chvíli jsem si myslel, že jsem mrtvý.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA7E"
 msgid "What has he written -- on *this* case?"
 msgstr ""
+"Co napsal - k *tomuto* případu?"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AABE"
 msgid "HDB41-0803.1111 (THE HANGED MAN)"
 msgstr ""
+"HDB41-0803.1111 (OBĚŠENÝ MUŽ)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001AABE"
 msgid "HDB41-0803.1111 (THE FURIES ARE AT HOME IN THE MIRROR)"
 msgstr ""
+"HDB41-0803.1111 (FÚRIE JSOU DOMA V ZRCADLE)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001ABB9"
 msgid "On his right hand side -- a little blue notebook. Open at case notes..."
 msgstr ""
+"Po pravé ruce má malý modrý zápisník. Otevři ho na poznámkách k případu..."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C71"
 msgid "\"It just good-humoured banter among friends.\""
 msgstr ""
+"\"Bylo to jen dobře míněné špičkování mezi přáteli.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA39"
 msgid "These papers bear the stamp of the RCM. They appear to be fragments of the lieutenant's paperwork, half-finished. You make out notes on this -- and other recent cases."
 msgstr ""
+"Tyto dokumenty jsou opatřeny razítkem ROM. Zdá se, že se jedná o fragmenty poručíkových dokumentů, které jsou napůl hotové. Děláš si poznámky k tomuto - a dalším nedávným případům."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB1B"
 msgid "Half a dozen stolen property cases titled CROSSWORD PUZZLES 2-2000."
 msgstr ""
+"Půl tuctu případů odcizeného majetku s názvem KŘÍŽOVKY 2-2000."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB7B"
 msgid "\"Back there, on the plaza? I think you very nearly had a heart attack. Alcoholism has damaged you more than bullets have...\" There's a small pause. \"We should go.\""
 msgstr ""
+"\"Tam vzadu na náměstí? Myslím, že jste málem dostal infarkt. Alkoholismus vás poškodil víc než kulky...\" Malá pauza. \"Měli bychom jít.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001ABA8"
 msgid "\"Then why are you wasting time here?\" coughs Kim. \"He's out there. In Martinaise. Unsupervised, *without cover*. You need to get there...\" His cough gets the best of him, he grabs a glass."
 msgstr ""
+"\"Tak proč tady ztrácíte čas?\" odkašle si Kim. \"Je tam venku. V Martinéze. Bez dozoru, *bez krytí*. Musíte se tam dostat...\" Kašel ho přemůže, popadne sklenici."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB5D"
 msgid "\"... behind darkness, I get it. Let's go.\""
 msgstr ""
+"\"... za temnotou, chápu. Pojďme.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB06"
 msgid "Twenty-eight kilometres to the northeast, in the infirmary of Precinct 57, Lieutenant Kim 'Pinball' Kitsuragi rests under a heart monitor. A triage sign coloured yellow hangs from his injury record -- safe, it means. He coughs, propped up against the pillow."
 msgstr ""
+"Dvacet osm kilometrů severovýchodně, na ošetřovně 57. okrsku, odpočívá poručík Kim \"Pinball\" Kitsuragi pod monitorem srdce. Na jeho záznamu o třídění raněných visí žlutě zbarvená cedulka  - znamená to, že je v bezpečí. Kašle, opřený o polštář."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA84"
 msgid "What about the other cases? What do we have here..."
 msgstr ""
+"A co ostatní případy? Co tu máme..."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA8A"
 msgid "[Close the notes.]"
 msgstr ""
+"[ZavřI poznámky.]"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AAB8"
 msgid "HDB41-0803.1300 (THE HANGED MAN)"
 msgstr ""
+"HDB41-0803.1300 (OBĚŠENÝ MUŽ)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001AAB8"
 msgid "HDB41-0803.1300 (THE FURIES ARE AT HOME IN THE MIRROR)"
 msgstr ""
+"HDB41-0803.1300 (FÚRIE JSOU DOMA V ZRCADLE)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AAD0"
 msgid "KK57-0803-0815 (THE HANGED MAN)"
 msgstr ""
+"KK57-0803-0815 (OBĚŠENÝ MUŽ)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001AAD0"
 msgid "KK57-0803-0815 (THE FURIES ARE AT HOME IN THE MIRROR)"
 msgstr ""
+"KK57-0803-0815 (FÚRIE JSOU DOMA V ZRCADLE)"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C55"
 msgid "\"Don't call him a *bino*.\""
 msgstr ""
+"\"Neříkej mu *brejloun*.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C9B"
 msgid "He's right, you know? The lieutenant probably doesn't enjoy being called a binoclard -- the four-eyed dork."
 msgstr ""
+"Má pravdu, víš? Poručíkovi se nejspíš nelíbí, když mu říkají brejlotard - čtyřoký ňouma."
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB6C"
 msgid "\"Back there, on the plaza? I think you very nearly had another heart attack. Alcoholism has damaged you more than bullets have...\" There's a small pause. \"We should go.\""
 msgstr ""
+"\"Tam vzadu na náměstí? Myslím, že jste málem dostal další infarkt. Alkoholismus vás poškodil víc než kulky...\" Malá pauza. \"Měli bychom jít.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C7D"
 msgid "\"You're right, I shouldn't call him that.\""
 msgstr ""
+"\"Máte pravdu, neměl bych mu tak říkat.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C8D"
 msgid "\"That's cold, Pig. Sub-zero. Cuno ain't like that. Cuno's got heart.\" He looks at the notes. \"You're done with these or...?\""
 msgstr ""
+"\"To je studené, prase. Pod nulou. Kuno to nemá rád. Kuno má srdce.\" Podívá se na poznámky. \"Už jsi s nimi skončil, nebo...?\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AB15"
 msgid "Anything more?"
 msgstr ""
+"Ještě něco?"
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C77"
 msgid "\"I call it like I see it, Cuno.\""
 msgstr ""
+"\"Říkám to tak, jak to vidím, Kuno.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008C86"
 msgid "He nods approvingly. \"Now, let's get a move on, pig. Cuno's itching to crack this case.\""
 msgstr ""
+"Souhlasně přikývne. \"Teď se pohnem, prase. Kuno se nemůže dočkat, až tenhle případ rozlouskne.\""
 
 #. Title = WHIRLING F2 / KIM PAPERWORK
 #. Description = checking out some of kim's official paperwork on his room desk
@@ -427,3 +487,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001AA91"
 msgid "Very little. This is a daily write-up. He's just started copying notes from his notebook, preparing them for filing. The case appears to be named, however."
 msgstr ""
+"Velmi málo. Jedná se o denní zápis. Právě začal kopírovat poznámky ze svého zápisníku a připravuje je k archivaci. Případ se však zdá být pojmenován."
