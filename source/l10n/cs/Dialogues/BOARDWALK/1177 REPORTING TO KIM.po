@@ -1,5 +1,5 @@
 # Jan Bartoš <takechihar@gmail.com>, 2022.
-# dwa2 <krystoflasek@gmail.com>, 2022.
+# dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +27,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000750000117A"
 msgid "\"If we take the case then we have to identify the man and take care of the corpse. I can take the body to the morgue on my own or we can ask for the help of the Hardie boys.\""
 msgstr ""
-"\"Pokud případ vezmeme, museli bychom tělo identifikovat a postarat se o mrtvolu. Mohu tělo do márnice odnést sám anebo můžeme požádat o pomoc hochy od Valchaře.\""
+"\"Pokud případ vezmeme, museli bychom tělo identifikovat a postarat se o mrtvolu. Mohu tělo do márnice odnést sám anebo můžeme požádat o pomoc Valchařovy hochy.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -59,7 +59,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000087E"
 msgid "\"Maybe, but we don't really have that much time or resources to spare. Still, if you want to go ahead -- be my guest.\""
 msgstr ""
-"\"Možná, ale opravdu nemáme tolik času ani zdrojů nazbyt. Přesto, jestli v tom chcete pokračovat -- poslužte si.\""
+"\"Možná, ale opravdu nemáme tolik času ani zdrojů nazbyt. Přesto, jestli v tom chcete pokračovat - poslužte si.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -67,7 +67,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000866"
 msgid "\"Hold on -- what about field autopsy?\""
 msgstr ""
-"\"Počkat -- a co pitva v terénu?\""
+"\"Počkat - a co polní pitva?\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -123,7 +123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007500001203"
 msgid "\"Taking the case would mean that we need to identify the man and take care of the corpse. I can take the body to the morgue on my own or we could ask for the help of the Hardie boys.\""
 msgstr ""
-"\"Pokud případ vezmeme, museli bychom tělo identifikovat a postarat se o mrtvolu. Mohu tělo do márnice odnést sám anebo můžeme požádat o pomoc hochy od Valchaře.\""
+"\"Pokud případ vezmeme, museli bychom tělo identifikovat a postarat se o mrtvolu. Mohu tělo do márnice odnést sám anebo můžeme požádat o pomoc Valchařovy hochy.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -147,7 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000860"
 msgid "\"Field autopsy isn't necessary if the cause of death doesn't appear to be criminal -- and this looks like a simple accident to me.\""
 msgstr ""
-"\"Polní pitva není zapotřebí, pokud se příčina smrti nezdá být zločinné povahy -- a tohle mi přijde jako prostá nehoda.\""
+"\"Polní pitva není zapotřebí, pokud se příčina smrti nezdá být zločinné povahy - a tohle mi přijde jako prostá nehoda.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -155,7 +155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000086C"
 msgid "\"I'd say we should just write down 'head trauma' in the autopsy report and leave it at that. It would save us at least two hours of unnecessary work.\""
 msgstr ""
-"\"Řekl bych, že stačí do pitevní zprávy uvést 'poranění hlavy' jako příčinu smrti a nechat to tak. Ušetřilo by nám to nejméně dvě hodiny zbytečné práce.\""
+"\"Řekl bych, že stačí do pitevní zprávy uvést \"poranění hlavy\" jako příčinu smrti a nechat to tak. Ušetřilo by nám to nejméně dvě hodiny zbytečné práce.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -163,7 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000006C1"
 msgid "\"We should also give the Jamrock Library a call, see if we can learn anything about this Billie Méjean.\""
 msgstr ""
-"\"Měli bychom také zavolat do Šprajclovské Knihovny a zjistit, jestli se od nich něco nedozvíme o tom Billie Méjaenovi.\""
+"\"Měli bychom také zavolat do Šprajclovské knihovny a zjistit, jestli jim něco říká jméno Míla Méjeana.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
@@ -171,7 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000075000011EA"
 msgid "\"I found a library card from his pockets, issued to someone named Billie Méjean by the Jamrock Public Library. The body is still there.\""
 msgstr ""
-"\"Našel jsem v jeho kapse kartičku do knihovny, vystavená Šprajclovskou Veřejnou Knihovnou někomu se jménem Billie Méjean. Tělo tam pořád leží.\""
+"\"Našel jsem v jeho kapse kartičku do knihovny, vystavená Šprajclovskou Veřejnou Knihovnou někomu se jménem Míla Méjeana. Tělo tam pořád leží.\""
 
 #. Title = BOARDWALK / REPORTING TO KIM
 #. Description = If Kim wasn't with you when you first discovered the body then you're going to have to tell him about it. (Jumps here from Kim's main; then jumps back).
