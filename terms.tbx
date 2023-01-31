@@ -350,7 +350,20 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>(puška) Kráska-Makrabě = K-M 4,46</term>
+            <term>(puška) Belle-Magrave rifle = B-M 4,46</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Billie Méjean">
+        <descrip type="definition">[aA] [VYKAT] je to žena, ale nejdřív najdou její průkaz do knihovny a nevědí, jestli je to chlap nebo ženská</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Billie Méjean</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Míla Méjeana</term>
           </tig>
         </langSet>
       </termEntry>
@@ -402,7 +415,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ulice Boogie</term>
+            <term>Skočná ulice</term>
           </tig>
         </langSet>
       </termEntry>
@@ -455,19 +468,6 @@
         <langSet xml:lang="cs">
           <tig>
             <term>hostel</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Call Me Manana">
-        <descrip type="definition">[OK] [aA] [TYKAT] stávkující dělník</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Call Me Manana</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Říkají mi Pohodička (Pohodička)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -563,7 +563,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Cindy The SKULL">
-        <descrip type="definition">[OK] [aA] [TYKAT] pouliční umělkyně, členka party Lebek -dr</descrip>
+        <descrip type="definition">[OK] [aA] [VYKAT] pouliční umělkyně, členka party Lebek -dr</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Cindy The SKULL</term>
@@ -887,6 +887,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Débardeur's Union, Dockworker´s Union">
+        <descrip type="definition">[OK] [aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Débardeur's Union, Dockworker´s Union</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Dokařské odbory</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="discomen">
         <descrip type="definition">[OK] [aA] sociální vrstva</descrip>
         <langSet xml:lang="en">
@@ -1005,7 +1018,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Egg Head (Egg)">
-        <descrip type="definition">[OK] [aA] [TYKAT] mladík, snad DJ, TYKAT, překlad je slovní hříčka na Einsteina (NPC je fanoušek van Eycka)</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] mladík, snad DJ, TYKAT, překlad je slovní hříčka na einsteina - ve smyslu intouš (NPC je fanoušek van Eycka)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Egg Head (Egg)</term>
@@ -1160,11 +1173,11 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Faubourgh">
-        <descrip type="definition">[OK] [aA] město</descrip>
+      <termEntry id="Faubourg">
+        <descrip type="definition">[OK] [aA] předměstí Revacholu</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Faubourgh</term>
+            <term>Faubourg</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
@@ -1681,19 +1694,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Instigator">
-        <descrip type="definition">[OK] [aA] je to žena - Ruby, ale dlouhou dobu je označována jen jako Strůjce (jsme v detektivce)</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Instigator</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Strůjce</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="Insulinde">
         <descrip type="definition">[OK] [aA] svět hry, jedna z izol - příd. jm. "inzulindický"</descrip>
         <langSet xml:lang="en">
@@ -1838,7 +1838,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Jean &quot;Vic&quot; Vicquemare ">
-        <descrip type="definition">[OK] [aA] [TYKAT] všichni na okrsku 41 si tykají (vykat, když vystupuje jako Muž se slunečními brýlemi)</descrip>
+        <descrip type="definition">[aA] [TYKAT] všichni na okrsku 41 si tykají (vykat, když vystupuje jako Muž se slunečními brýlemi)</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Jean "Vic" Vicquemare </term>
@@ -1846,7 +1846,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Jean "Vik" Vikemar</term>
+            <term>Jean "Vik" Vicquemare</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2111,7 +2111,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="ledger">
-        <descrip type="definition">[OK] [aA] ve významu Harry policejních spisů / zápisníku</descrip>
+        <descrip type="definition">[aA] ve významu Harry policejních spisů / zápisníku</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>ledger</term>
@@ -2237,6 +2237,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Magrit</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Mañana (Call Me Mañana)">
+        <descrip type="definition">[OK] [aA] [TYKAT] stávkující (flákající se) dělník</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mañana (Call Me Mañana)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Pohodička</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3190,7 +3203,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Revacholiere">
-        <descrip type="definition">[OK] [aA] archaicky Revacholan </descrip>
+        <descrip type="definition">[OK] [aA] hrdý Revacholan asi jako když Bratislavák řekne, že starý je Prešporák</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Revacholiere</term>
@@ -3228,16 +3241,16 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Ruby">
-        <descrip type="definition">[OK] [aA] [VYKAT] tajemná žena v pozadí</descrip>
+      <termEntry id="Ruby, Instigator">
+        <descrip type="definition">[OK] [aA] [VYKAT] žena, která iniciovala falešnou popravu</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Ruby</term>
+            <term>Ruby, Instigator</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ruby neskl., ž.</term>
+            <term>Ruby neskl., ž., Iniciátorka</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3316,19 +3329,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>saramirizský,-á,-é</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Sarge Mason">
-        <descrip type="definition">[OK] [aA] [VYKAT] </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Sarge Mason</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>seržant Mason</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3536,7 +3536,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Sola</term>
+            <term>Sola -y, ž.</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3549,7 +3549,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Soňa Luukanen-Kildeová</term>
+            <term>Soňa Luukanen-Kilde</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3588,7 +3588,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Standardní Anti-Wirrâl kostka</term>
+            <term>standardní Anti-Wirrâl kostka</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3601,7 +3601,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Standardní Wirrâl kostka</term>
+            <term>standardní Wirrâl kostka</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3645,7 +3645,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Sulisław Zawisza">
-        <descrip type="definition">[OK] [aA] pouze zmiňovaná postava</descrip>
+        <descrip type="definition">[OK] [aA] pouze zmiňovaná postava, Sonin bývalý spolupracovník</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Sulisław Zawisza</term>
@@ -3653,7 +3653,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Šulislav Záviš</term>
+            <term>Sulisław Zawisza</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3913,7 +3913,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Dopotočný, Čeněk</term>
+            <term>Potočný, Čeněk</term>
           </tig>
         </langSet>
       </termEntry>
@@ -4060,29 +4060,16 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Union (Débardeur's Union, Dockworker´s Union)">
-        <descrip type="definition">[OK] [aA] </descrip>
+      <termEntry id="Vacholier">
+        <descrip type="definition">[OK] [aA] Jinak Revacholiér viz.</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Union (Débardeur's Union, Dockworker´s Union)</term>
+            <term>Vacholier</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>odbory (Dokařské odbory)</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Vacholiers">
-        <descrip type="definition">[OK] [aA] historická rasa</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Vacholiers</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>vacholýři</term>
+            <term>Vacholýr</term>
           </tig>
         </langSet>
       </termEntry>
