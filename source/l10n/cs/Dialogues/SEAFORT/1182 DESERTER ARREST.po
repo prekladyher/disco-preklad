@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -13,6 +21,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001488A"
 msgid "\"Maybe I can just ask Lilienne to watch him?\""
 msgstr ""
+"\"Možná bych mohl prostě požádat Lilienne, aby ho pohlídala?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -43,6 +52,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001492C"
 msgid "\"Yeah, actually -- no.\" He scratches his head. \"It would go down.\""
 msgstr ""
+"\"Jo, vlastně - ne.\" Poškrábe se na hlavě. \"Potopila by se.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -53,6 +63,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014932"
 msgid "\"This *is* a problem,\" the kid says. \"Cuno's literally had this problem. In a fuckin' textbook. When he went to *kiddie school*. This is that three piggies and a boat shit...\""
 msgstr ""
+"\"Tohle *je* problém,\" řekne kluk. \"Kuno měl tento problém doslova. V jedné zasrané učebnici. Když chodil do *školky*. Tohle je ta o třech prasátkách a jedné lodi na hovno...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -83,6 +94,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005FAB"
 msgid "The lieutenant shakes his head, frustrated. \"Who watches over him there while I come back for you?\""
 msgstr ""
+"Poručík frustrovaně zavrtí hlavou. \"Kdo ho pohlídá tam, až se budu vracet pro tebe?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -93,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005FF1"
 msgid "\"*I* could come back for you. Once I've taken him to the Precinct.\""
 msgstr ""
+"\"*Já* bych se pro tebe mohl vrátit. Až ho odvezu na Okrsek.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -113,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006078"
 msgid "The wind picks up. The silence on the water is broken, little shivers of waves appear..."
 msgstr ""
+"Zvedá se vítr. To ticho na vodě se přeruší, objevují se drobné záchvěny vln..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -133,6 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006097"
 msgid "\"Do you understand?\""
 msgstr ""
+"\"Rozumíte?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -272,6 +287,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001487E"
 msgid "\"*You* could come back for me. Once you've taken him to the Precinct.\""
 msgstr ""
+"\"*Ty* by ses pro mě mohl vrátit. Až ho odvezeš na Okrsek.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -282,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148D4"
 msgid "\"Yeah -- no.\" He shakes his head. \"Only two are gonna fit in that fucker. I guess *you* could take him back, but...\" He squints, realizing something."
 msgstr ""
+"\"Jo, no - ne.\" Zakroutí hlavou. \"Do té mrdky se vejdou jenom dva. Myslím, že bys ho zpátky mohl vzít *ty*, ale...\" Přimhouří oči, něco si uvědomil."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -292,6 +309,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148E6"
 msgid "Wait! But then -- who watches over him while you're coming back?"
 msgstr ""
+"\"Počkat! Ale pak - kdo ho pohlídá, když se budeš vracet?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -371,6 +389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005FB2"
 msgid "\"This is not a problem.\""
 msgstr ""
+"\"Tohle není problém.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -381,6 +400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005FE6"
 msgid "Your skin is crawling suddenly."
 msgstr ""
+"Z ničeho nic máš husí kůži."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -401,6 +421,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000607E"
 msgid "The sum of all the erratic, involuntary movements and mood swings he's been exhibiting..."
 msgstr ""
+"Souhrn všech nevyzpytatelných, nedobrovolných pohybů a změn nálad, které projevoval..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -586,6 +607,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002CE0"
 msgid "\"Hey...\" The kid interrupts you at 'you're under', his voice subdued. \"You sure we got all this shit?\""
 msgstr ""
+"„Hej...“ Kluk tě přeruší při slově \"jste\", tlumeným hlasem. \"Jsi si jistý, že ty sračky máme všechny?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -595,6 +617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D94"
 msgid "\"I...\" He looks around, confused."
 msgstr ""
+"\"Já...\" Rozhlíží se kolem, zmatený."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -605,6 +628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DE1"
 msgid "Pupils are dilated too, eyes getting blacker and blacker..."
 msgstr ""
+"Také zorničky jsou rozšířené, oči víc a víc černější..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -634,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148BD"
 msgid "\"Maybe you're right...\""
 msgstr ""
+"\"Možná máš pravdu...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -714,6 +739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005FFC"
 msgid "... is what you want to say. You can barely get to 'you're under...' when you suddenly get weary..."
 msgstr ""
+"... je to, co chceš říct. Sotva se dostaneš k \"jste\"... , když tě z ničehonic unaví..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -733,6 +759,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000060F9"
 msgid "Pupils are dilated too, eyes getting blacker and blacker..."
 msgstr ""
+"Také zorničky jsou rozšířené, oči víc a víc černější..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -782,6 +809,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D22"
 msgid "(Nod.) \"We've been thorough.\""
 msgstr ""
+"(Přikývni.) \"Byli jsme důkladní.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -832,6 +860,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148C3"
 msgid "\"Yeah, actually, that will look bad.\""
 msgstr ""
+"\"Jo, vlastně by to vypadalo blbě.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -862,6 +891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005FCF"
 msgid "\"This is a problem,\" the lieutenant says. \"Who watches over him while I come back for you?\""
 msgstr ""
+"\"Tohle je problém,\" řekne poručík. \"Kdo ho bude hlídat, až se budu vracet pro tebe?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -872,6 +902,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000602D"
 msgid "... is what you want to say, but wait god damn it! With the words 'you're under...' still stuck in your throat you think: what if I *missed* something?"
 msgstr ""
+"... je to, co chceš říct, ale do prdele počkej! Slovo \"jste... \" se ti zasekne v hrdle a pomyslíš si: co ti když mi něco *uniklo*?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1090,6 +1121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005EC1"
 msgid "\"Do you understand, sir?\""
 msgstr ""
+"\"Rozumíte, pane?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1100,6 +1132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000601E"
 msgid "... is what you want to say. You get to 'you're under...' when a warning rings in the back of your head: did you get everything?"
 msgstr ""
+"... je to, co chceš říct. Dostaneš se k \"jste\"... , a vzadu v hlavě ti zazvoní varování: dostal jsi všechno?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1109,6 +1142,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000060A3"
 msgid "\"I...\" He looks around, confused."
 msgstr ""
+"\"Já...\" Rozhlíží se kolem, zmatený."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1129,6 +1163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006106"
 msgid "He's not afraid of jail. He's afraid of something else..."
 msgstr ""
+"On se nebojí vězení. Bojí se něčeho jiného..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1259,6 +1294,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E92"
 msgid "The sum of all the erratic movements, fidgeting and mood swings he's been exhibiting..."
 msgstr ""
+"Souhrn všech nevyzpytatelných pohybů, vrtění se a změn nálad, které předváděl..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1279,6 +1315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006011"
 msgid "It may be too late later, the circumstances change, are you sure we're done here?"
 msgstr ""
+"Později už může být pozdě, okolnosti se změní, jsi si jistý, že jsme tady skončili?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1289,6 +1326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006072"
 msgid "This terror, the sum of all the uncontrollable movements and mood swings he's been exhibiting..."
 msgstr ""
+"Ta hrůza, souhrn všech těch nekontrolovatelných pohybů a změn nálad, které projevoval..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1299,6 +1337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000061D7"
 msgid "\"Maybe you're right...\""
 msgstr ""
+"\"Možná máš pravdu...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1337,6 +1376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000063F9"
 msgid "Cold. From the East."
 msgstr ""
+"Zima. Od východu."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1426,6 +1466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002CDB"
 msgid "\"You sure?\" He whispers. \"You sure we got it all?\""
 msgstr ""
+"\"Jsi si jistý?\" Zašeptá. \"Jsi si jistý, že máme všechno?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1466,6 +1507,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E39"
 msgid "(Nod.) \"We've been thorough enough.\""
 msgstr ""
+"(Přikývni.) \"Byli jsme dost důkladní.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1485,6 +1527,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005F4F"
 msgid "But then -- who watches him, while you're coming back here?"
 msgstr ""
+"Ale pak - kdo ho pohlídá, až se budeš vracet zpátky sem?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1664,6 +1707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D5E"
 msgid "\"Right.\" He turns to him. \"Give him his rights.\""
 msgstr ""
+"\"Dobře.\" Otočí se k němu. \"Řekni mu jeho práva.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1674,6 +1718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002E17"
 msgid "\"Do you understand?\""
 msgstr ""
+"\"Rozumíte?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1744,6 +1789,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014892"
 msgid "\"Maybe you're right...\""
 msgstr ""
+"\"Možná máš pravdu...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1754,6 +1800,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014946"
 msgid "\"This is not a problem.\""
 msgstr ""
+"\"Tohle není problém.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1764,6 +1811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E3F"
 msgid "(Turn to the suspect.) \"One more thing, Mr. Dros...\""
 msgstr ""
+"(Otoč se k podezřelému.) \"Ještě jedna věc, pane Drosi...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1784,6 +1832,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006114"
 msgid "Like parting from a loved one."
 msgstr ""
+"Jakoby rozchodu s milovanou osobou."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1852,6 +1901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D28"
 msgid "(Turn to the suspect.) \"One more thing, Mr. Dros...\""
 msgstr ""
+"(Otoč se k podezřelému.) \"Ještě jedna věc, pane Drosi...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1862,6 +1912,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DAB"
 msgid "\"Do you understand, sir?\""
 msgstr ""
+"\"Rozumíte, pane?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1871,6 +1922,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DB4"
 msgid "\"No... I don't want to. I have to stay *here*.\" He looks at the reeds, eyes full of terror."
 msgstr ""
+"\"Ne... Já nechci! Musím zůstat *tady*.\" Dívá se na rákosí, očima plnýma hrůzy."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1881,6 +1933,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DCE"
 msgid "He's not afraid of jail. He's afraid of something else..."
 msgstr ""
+"On se nebojí vězení. Bojí se něčeho jiného..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1951,6 +2004,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014856"
 msgid "\"Your Wayfarer rights have been suspended. Information provided to the officer on the scene will be used against you by the prosecution.\""
 msgstr ""
+"\"Vaše práva Pocestného byla pozastavena. Informace poskytnuté důstojníkovi na místě budou použity při obžalobě proti vám.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -1970,6 +2024,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000609D"
 msgid "\"...\""
 msgstr ""
+"\"...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2050,6 +2105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DC3"
 msgid "He is a brave man -- why is he unravelling?"
 msgstr ""
+"Je to statečný muž - proč se hroutí?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2089,6 +2145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E7C"
 msgid "\"What?!\" The old man's eyes fill with sudden, unexpected terror at the words: \"But you said I would be taken to the...\""
 msgstr ""
+"\"Co?!\" Oči toho starého muže se naplní náhlou, nečekanou hrůzou při slovech: \"Ale říkal jsi, že mě odvezou do...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2098,6 +2155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005ECA"
 msgid "\"No, I don't want to! I have to stay here.\" He looks at the reeds, eyes submerged in growing terror."
 msgstr ""
+"\"Ne, já nechci! Musím zůstat tady.\" Dívá se na rákosí, oči ponořené do narůstající hrůzy."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2137,6 +2195,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000600A"
 msgid "Did you get *everything*, detective?"
 msgstr ""
+"Dostal jsi *všechno*, detektive?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2264,6 +2323,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001489C"
 msgid "\"We could all fit in the little boat?\""
 msgstr ""
+"\"Vešli bychom se všichni do té malé lodi?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2294,6 +2354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005F32"
 msgid "\"*You* could come back for me. Once you've taken him to the Precinct.\""
 msgstr ""
+"\"*Ty* by ses pro mě mohl vrátit. Až ho odvezeš na Okrsek.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2313,6 +2374,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005F70"
 msgid "\"Maybe I can just ask Lilienne to watch him?\""
 msgstr ""
+"\"Možná bych mohl prostě požádat Lilienne, aby ho pohlídala?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2432,6 +2494,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002CCE"
 msgid "... is what you plan to say. Before you can get past 'you're under', the kid interrupts you:"
 msgstr ""
+"... je to, co máš v plánu říct. Než se dostaneš přes \"jste\", kluk tě přeruší:"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2442,6 +2505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D79"
 msgid "This terror -- the sum of all the uncontrollable movements and mood swings he's been exhibiting..."
 msgstr ""
+"Ta hrůza - souhrn všech těch nekontrolovatelných pohybů a změn nálad, které projevoval..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2452,6 +2516,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D81"
 msgid "The sum of all the erratic movements, fidgeting and mood swings he's been exhibiting..."
 msgstr ""
+"Souhrn všech nevyzpytatelných pohybů, vrtění se a změn nálad, které předváděl..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2462,6 +2527,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DBD"
 msgid "He's sweating. Beads are forming on his forehead."
 msgstr ""
+"Potí se. Na čele se mu tvoří korálky."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2472,6 +2538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002E0C"
 msgid "\"We don't need your permisson,\" the kid turns to you. \"We do need to talk about that *boat* though. How are we gonna take him?\""
 msgstr ""
+"\"My nepotřebujeme vaše svolení,\" kluk se na tebe obrátí. \"Musíme si ale promluvit o té *lodi*. Jak ho odvezmeme?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2560,6 +2627,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006090"
 msgid "\"You will be provided legal counsel within one week, and must face court in 44 days -- do you understand?\""
 msgstr ""
+"\"Do jednoho týdne vám bude přidělen právní poradce a do 44 dnů musíte čelit soudu - rozumíte?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2639,6 +2707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E76"
 msgid "\"Do you understand?\""
 msgstr ""
+"\"Rozumíte?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2649,6 +2718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000603A"
 msgid "(No, I got everything I need, say:) \"Iosef Lilianovich Dros -- you are under arrest for the murder of the Krenel colonel.\""
 msgstr ""
+"(Ne, mám vše, co potřebuji, řekni:) \"Josefe Lilianovichi Drosi - jste zatčen za vraždu plukovníka Krenela.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2679,6 +2749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000060D4"
 msgid "He is a brave man -- why is he unravelling?"
 msgstr ""
+"Je to statečný muž - proč se hroutí?"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2835,6 +2906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E8B"
 msgid "This terror is the sum of all the uncontrollable movements and mood swings he's been exhibiting."
 msgstr ""
+"Ta hrůza je souhrn všech těch nekontrolovatelných pohybů a změn nálad, které projevoval."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2855,6 +2927,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006034"
 msgid "(Turn to the suspect.) \"One more thing, Mr. Dros...\""
 msgstr ""
+"(Otoč se k podezřelému.) \"Ještě jedna věc, pane Drosi...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2864,6 +2937,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000604F"
 msgid "\"Huh?\" He leans closer with a strange expression on his face."
 msgstr ""
+"\"Ech?\" S podivným výrazem ve tváři se nakloní blíž."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -2973,6 +3047,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002DE7"
 msgid "Like parting from a loved one."
 msgstr ""
+"Jakoby rozchodu s milovanou osobou."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3023,6 +3098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014926"
 msgid "Your skin is crawling suddenly."
 msgstr ""
+"Z ničeho nic máš husí kůži."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3043,6 +3119,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005EEE"
 msgid "Pupils are dilated too, eyes getting blacker and blacker."
 msgstr ""
+"Také zorničky jsou rozšířené, oči víc a víc černější."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3150,6 +3227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D65"
 msgid "\"What?!\" The old man's eyes fill with sudden, unexpected terror at the words: \"But you said I would be taken to the, uhm, the...\""
 msgstr ""
+"\"Co?!\" Oči toho starého muže se naplní náhlou, nečekanou hrůzou při slovech: \"Ale říkal jsi, že mě odvezou do, ehm, do...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3200,6 +3278,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148B7"
 msgid "\"I can't let a kid go and take a murder suspect to the station.\""
 msgstr ""
+"\"Nemůžu nechat kluka jít a vzít podezřelého z vraždy na stanici.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3229,6 +3308,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005F5C"
 msgid "\"Who watches him there while I come back for you?\""
 msgstr ""
+"\"Kdo ho pohlídá tam, až se budu vracet pro tebe?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3368,6 +3448,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014872"
 msgid "\"Does the boat have room for three?\""
 msgstr ""
+"\"Je na té lodi místo pro tři?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3378,6 +3459,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014903"
 msgid "Cold. From the East."
 msgstr ""
+"Zima. Od východu."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3388,6 +3470,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014909"
 msgid "\"Watch this *killer*?\" The kid shakes his head and points to him."
 msgstr ""
+"\"Pohlídala tady toho *zabijáka*?\" Kluk zakroutí hlavou a ukáže na něj."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3397,6 +3480,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001490F"
 msgid "\"This fucking world...\" He stares at something -- who knows what -- in the dust. \"This world... what is this?\""
 msgstr ""
+"\"Tak zkurvenej svět...\" Na něco zírá - kdo ví na co - něco v prachu. \"Tento svět... co je tohle?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3617,6 +3701,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148F7"
 msgid "\"But then who watches him -- there -- while I come back for you?\""
 msgstr ""
+"\"Ale kdo ho pohlídá pak - tam - až se budu vracet pro tebe?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3656,6 +3741,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005E15"
 msgid "... is what you plan to say. Before you can get past 'you're under', the lieutenant interrupts you:"
 msgstr ""
+"... je to, co máš v plánu říct. Než se dostaneš přes \"jste\", poručík tě přeruší:"
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3813,6 +3899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014850"
 msgid "\"You will be provided legal counsel within one week, and must face court in 44 days.\""
 msgstr ""
+"\"Do jednoho týdne vám bude přidělen právní poradce a do 44 dnů musíte čelit soudu\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3823,6 +3910,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001493E"
 msgid "\"*I* could come back for you. Once I've taken him to the Precinct.\""
 msgstr ""
+"\"*Já* bych se pro tebe mohl vrátit. Až ho odvezu na Okrsek.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3842,6 +3930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005ED3"
 msgid "He's sweating. Beads are forming on his forehead."
 msgstr ""
+"Potí se. Na čele se mu tvoří korálky."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3852,6 +3941,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005F07"
 msgid "Like parting from a loved one."
 msgstr ""
+"Jakoby rozchodu s milovanou osobou."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3872,6 +3962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000060AC"
 msgid "\"Do you understand, sir?\""
 msgstr ""
+"\"Rozumíte, pane?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -3892,6 +3983,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800006316"
 msgid "\"We could all fit in the little boat?\""
 msgstr ""
+"\"Vešli bychom se všichni do té malé lodi?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -4055,6 +4147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002D6E"
 msgid "The wind picks up. The silence on the water is broken all around you, little shivers of waves appear..."
 msgstr ""
+"Zvedá se vítr. To ticho na vodě všude kolem tebe se přeruší, objevují se drobné záchvěny vln..."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -4075,6 +4168,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000148DA"
 msgid "The kid looks at you blankly. Then at the old man. \"You fuckin' with me? Coz I can. I *can* take him.\""
 msgstr ""
+"Kluk se na tebe nechápavě dívá. Pak na toho starce. \"Ty se mnou vyjebáváš? Protože můžu. *Můžu* ho vzít.\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -4085,6 +4179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014915"
 msgid "\"Uhm -- how about the Cuno comes back for *you*?\""
 msgstr ""
+"\"Ehm - co kdyby se Kuno vrátil pro *tebe*?\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -4094,6 +4189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000F0D6"
 msgid "\"This fucking world...\" The old man interferes again. \"What are you *talking* about? Is this...\" His voice drowns out in a sudden gush of wind. \"Us...\""
 msgstr ""
+"\"Tak zkurvenej svět...\" Stařec znovu zasáhne. \"O čem to kurva *mluvíte*?\" Jeho hlas je přerušen náhlým závanem větru. \"My...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -4103,6 +4199,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000060000F0D6"
 msgid "\"This fucking world...\" The old man repeats. \"What are you *talking* about? Is this...\" His voice drowns out in a sudden gush of wind. \"Us...\" "
 msgstr ""
+"Tak zkurvenej svět...\" Stařec opakuje. \"O čem to kurva *mluvíte*? Je tohle...\" Jeho hlas je přerušen náhlým závanem větru. \"My...\""
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
@@ -4131,6 +4228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800005EF9"
 msgid "He's not afraid of jail. He's afraid of something else."
 msgstr ""
+"On se nebojí vězení. Bojí se něčeho jiného."
 
 #. Title = SEAFORT / DESERTER ARREST
 #. Description = Arrest him finally
