@@ -1,4 +1,4 @@
-# Drakefran <drakefranddrakefran@gmail.com>, 2022.
+# Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WHIRLING F1 / SPARE WORKSHOP KEYS
 #. Description = Somewhere in the room are the previous owner's spare keys to the pinball workshop (door in kitchen). This is the (perc check hidden) dialogue where you find them. (One path to hidden access to roof)1) Mis-connect to instigator because of room
@@ -648,7 +648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001C635"
 msgid "\"Can you let me slide by so I can grab the thing?\""
 msgstr ""
-"\"Můžeš mě nechat to nechat odsunout, abych ho mohl vzít?\""
+"\"Můžeš mě nechat proklouznout kolem, abych tu věc mohl popadnout?\""
 
 #. Title = WHIRLING F1 / SPARE WORKSHOP KEYS
 #. Description = Somewhere in the room are the previous owner's spare keys to the pinball workshop (door in kitchen). This is the (perc check hidden) dialogue where you find them. (One path to hidden access to roof)1) Mis-connect to instigator because of room
@@ -792,7 +792,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001C62F"
 msgid "\"I don't know about that...\" The tattooed man yawns and settles more comfortably on the bench. \"I'm comfortable here... don't think any sliding would really help right now.\""
 msgstr ""
-"\"To nevím...\" Potetovaný muž zívne a pohodlněji se usadí na lavici. \"Je mi tu dobře... nemyslím si, že by mi teď nějaké klouzání pomohlo.\""
+"\"To nevím...\" Potetovaný muž zívne a pohodlněji se usadí na lavici. \"Je mi tu dobře... nemyslím si, že by mi teď nějaký klouzání prospělo.\""
 
 #. Title = WHIRLING F1 / SPARE WORKSHOP KEYS
 #. Description = Somewhere in the room are the previous owner's spare keys to the pinball workshop (door in kitchen). This is the (perc check hidden) dialogue where you find them. (One path to hidden access to roof)1) Mis-connect to instigator because of room
@@ -873,7 +873,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001C68C"
 msgid "\"C'mon, man. We were just having some fun! Where's the harm in...?\""
 msgstr ""
-"\"No tak, chlape. Jen jsme se bavili! Co je na tom špatného...?\""
+"\"No tak, chlape. Jen jsme se bavili! Co je na tom špatnýho...?\""
 
 #. Title = WHIRLING F1 / SPARE WORKSHOP KEYS
 #. Description = Somewhere in the room are the previous owner's spare keys to the pinball workshop (door in kitchen). This is the (perc check hidden) dialogue where you find them. (One path to hidden access to roof)1) Mis-connect to instigator because of room
@@ -954,4 +954,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001C672"
 msgid "There is a silence around this man's words -- unlike Titus, they're *afraid* of him. That's the type of respect he commands."
 msgstr ""
-"Kolem slov tohoto muže se rozhostilo ticho – na rozdíl od Tita se ho *bojí* . To je ten typ respektu, který si vyžaduje."
+"Po slovech tohoto muže se rozhostí ticho – na rozdíl od Tita se ho *obávají*. To je ten druh úcty, který vyžaduje."
