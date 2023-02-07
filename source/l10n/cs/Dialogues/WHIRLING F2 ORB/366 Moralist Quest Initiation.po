@@ -1,4 +1,4 @@
-# Drakefran <drakefranddrakefran@gmail.com>, 2022.
+# Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -17,6 +17,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BC8E"
 msgid "Good, you're up. Listen, there's something that's been bothering you for a few days now."
 msgstr ""
+"Dobře, jsi vzhůru. Poslyš, už pár dní tě něco trápí."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -24,6 +25,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BC9C"
 msgid "It's a suspicion, or a feeling, really, that things are not quite *in hand* around here..."
 msgstr ""
+"Je to podezření, nebo spíš pocit, že to tady není úplně v pořádku..."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -31,6 +33,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCC8"
 msgid "But who's focusing on *the big questions*?"
 msgstr ""
+"Ale kdo se zaměřuje na *velké otázky*?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -38,6 +41,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCF6"
 msgid "But have you ever seen them? How do you know they're even there? More importantly, how do you know they aren't waiting for *your participation*?"
 msgstr ""
+"Ale viděl jsi je někdy? Jak víš, že tam vůbec jsou? A co je důležitější, jak víš, že nečekají na *tvou účast*?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -45,6 +49,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000061E7"
 msgid "Not my problem. [Discard thought.]"
 msgstr ""
+"To není můj problém. [Zahoď myšlenku.]"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -52,6 +57,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCD2"
 msgid "You've got to find out who bears *la responsabilité*."
 msgstr ""
+"Musíš zjistit, kdo nese *la responsabilité*."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -59,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCE3"
 msgid "I assumed the most qualified and highly credentialed people were taking care of that stuff."
 msgstr ""
+"Předpokládal jsem, že se o to starají ti nejkvalifikovanější a nejpověřenější lidé."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -66,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE4D"
 msgid "Your half-brother, the lieutenant, is a natural place to start."
 msgstr ""
+"Tvůj nevlastní bratr, poručík, je přirozeným začátkem."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -73,6 +81,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCAA"
 msgid "Every day things seem to spin more and more wildly out of control. The centre isn't holding. And despite your efforts to *moderate* and *contain* these energies, things only seem to be getting worse."
 msgstr ""
+"Každým dnem se zdá, že se věci stále více vymykají kontrole. Střed se neudrží. A navzdory tvému úsilí tyto energie *zmírnit* a *ovládnout* se zdá, že se věci jen zhoršují."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -80,6 +89,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCED"
 msgid "What am I supposed to do?"
 msgstr ""
+"Co mám dělat?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -87,6 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BEB6"
 msgid "No way. I've got too much on my plate as it is. [Opt out.]"
 msgstr ""
+"V žádném případě. Už tak toho mám na talíři příliš mnoho. [Nezúčastni se.]"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -94,6 +105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE0F"
 msgid "Come on. You know in your lungs that true authority flows from institutions, not individuals. That's the single principle that separates civilisation from barbarism."
 msgstr ""
+"No tak. Vždyť víš, že skutečná autorita pochází od institucí, ne od jednotlivců. To je jediný princip, který odlišuje civilizaci od barbarství."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -101,6 +113,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000BE0F"
 msgid "Really, Harry. You know in your lungs that true authority flows from institutions, not individuals. That's the single principle that separates civilisation from barbarism."
 msgstr ""
+"Opravdu, Harry. Vždyť víš, že skutečná autorita pochází od institucí, ne od jednotlivců. To je jediný princip, který odlišuje civilizaci od barbarství."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -108,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE1B"
 msgid "If you want your work to be *accepted*, you'll have to go through the appropriate process."
 msgstr ""
+"Pokud chceš, aby tvá práce byla *přijata*, musíš projít příslušným procesem."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -115,6 +129,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE52"
 msgid "The one you seem so set on driving away, the lieutenant, is a natural place to start."
 msgstr ""
+"Poručík, kterého jsi si zřejmě tak moc přál vyhnat, je přirozeným začátkem."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -122,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCC3"
 msgid "Oh, sure. You've been making progress on your case, interviewing people, *solving side tasks*..."
 msgstr ""
+"Jistě. Děláš pokroky ve svém případu, vyslýcháš lidi, *řešíš vedlejší úkoly*..."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -129,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD13"
 msgid "What exactly *is* la responsabilité?"
 msgstr ""
+"Co přesně je *zodpovědnost*?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -136,6 +153,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD47"
 msgid "La responsabilité isn't concerned with trivial questions like *who killed who*. It's about the real issues: the human welfare index, the price of staple goods, the transition to real democracy..."
 msgstr ""
+"La responsabilité se nezabývá triviálními otázkami typu *kdo koho zabil*. Zabývá se skutečnými otázkami: indexem lidského blahobytu, cenami základního zboží, přechodem ke skutečné demokracii..."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -143,6 +161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD18"
 msgid "I thought I *was* assigning responsibility, for the murder?"
 msgstr ""
+"Myslel jsem, že jsem přisuzoval odpovědnost za vraždu?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -150,6 +169,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCFB"
 msgid "Open your eyes. Stop getting distracted by details. It's time you started focussing on what really matters."
 msgstr ""
+"Otevři oči. Přestaň se rozptylovat detaily. Je načase, abys se začal soustředit na to, na čem skutečně záleží."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -157,6 +177,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BDD2"
 msgid "Whoa, whoa, *whoa*. This isn't some kind of *dictatorship*. You can't simply seize la responsabilité for yourself. It must be given by a legitimate authority..."
 msgstr ""
+"Hou, hou, *hou*. Tohle není nějaká *diktatura*. Nemůžeš si jednoduše přivlastnit la responsabilité pro sebe. Musí ji udělit legitimní autorita..."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -164,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE69"
 msgid "And what happens once we've assigned responsibility?"
 msgstr ""
+"A co se stane, když už jsem odpovědnost přisoudil?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -171,6 +193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCE8"
 msgid "This really doesn't sound like my job."
 msgstr ""
+"Tohle opravdu nezní jako moje práce."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -178,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BDFB"
 msgid "Do we really have time for all this?"
 msgstr ""
+"Opravdu máme na to všechno čas?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -185,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD36"
 msgid "In other words, it must be diffused across the entire bureaucracy, so that no one can ever truly say *who is responsible for what*."
 msgstr ""
+"Jinými slovy, musí být rozptýlena napříč celou byrokracií, aby nikdo nemohl říci, kdo je za co zodpovědný."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -192,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BDE6"
 msgid "You don't need no stinkin' committee. You're the Law."
 msgstr ""
+"Nepotřebuješ žádný smradlavý výbor. Ty jsi zákon."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -199,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE15"
 msgid "Technicalities."
 msgstr ""
+"Technické detaily."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -206,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE31"
 msgid "Fun stuff, that's what they're capable of."
 msgstr ""
+"Zábavné věci, to je to, čeho jsou schopni."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -213,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000036B8"
 msgid "MASS EXECUTIONS."
 msgstr ""
+"HROMADNÉ POPRAVY."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -220,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000036BE"
 msgid "A little self-dealing?"
 msgstr ""
+"Trocha sebeklamu?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -227,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE00"
 msgid "And who should sit on this committee?"
 msgstr ""
+"A kdo by měl v tomto výboru zasedat?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -234,6 +265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE40"
 msgid "Only the most even-keeled minds in Martinaise."
 msgstr ""
+"V Martinéze jsou jen ty nejvyrovnanější mozky."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -241,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE5B"
 msgid "Together, you'll be able to discover who has la responsabilité in Revachol. And if necessary, you'll have the *wisdom and expertise* to assign it among yourselves."
 msgstr ""
+"Společně budete moci zjistit, kdo má v Revacholu la responsabilité. A v případě potřeby budete mít *moudrost a odborné znalosti*, abyste si je mezi sebou rozdělili."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -248,6 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BEA7"
 msgid "Don't run away from it now, Harry. You know it's the *right thing to do*."
 msgstr ""
+"Neutíkej od toho, Harry. Víš, že je to správná věc."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -255,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD1D"
 msgid "Alright, give it to me. *I'll* accept responsibility. (Proceed.)"
 msgstr ""
+"Dobře, dej mi to. *Přijmu* odpovědnost. (Pokračuj.)"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -262,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE92"
 msgid "Rest assured, no matter what happens it will be done through the proper channels."
 msgstr ""
+"Buď si jist, že ať se stane cokoli, bude to provedeno řádnými cestami."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -269,6 +305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCBB"
 msgid "Wait, I thought things were going pretty well?"
 msgstr ""
+"Počkat, myslel jsem, že to jde docela dobře?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -276,6 +313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BDF6"
 msgid "But I'm the Law. Can't I just do it myself?"
 msgstr ""
+"Ale já jsem zákon. Nemůžu to prostě udělat sám?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -283,6 +321,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE05"
 msgid "Sounds like too much responsibility for me. I don't want it."
 msgstr ""
+"To mi připadá jako příliš velká zodpovědnost. Nechci ji."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -290,6 +329,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD2D"
 msgid "It is human nature to crave la responsabilité and to deny it. That's why it must be distributed across many different organisations, agencies, offices, and portfolios."
 msgstr ""
+"Je v lidské přirozenosti toužit po la responsabilité a popírat ji. Proto musí být rozdělena mezi mnoho různých organizací, agentur, úřadů a portfolií."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -297,6 +337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE7E"
 msgid "Most likely your findings will be collected in a report, which will be carefully reviewed by your superiors."
 msgstr ""
+"S největší pravděpodobností budou tvá zjištění shromážděna ve zprávě, kterou pečlivě posoudí tví nadřízení."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -304,6 +345,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BC95"
 msgid "What is it?"
 msgstr ""
+"Co to je?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -311,6 +353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCB6"
 msgid "Let's get right to it: What needs to be done?"
 msgstr ""
+"Pojďme rovnou k věci: Co je třeba udělat?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -318,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD28"
 msgid "The most awesome, terrible thing..."
 msgstr ""
+"Nejúžasnější a nejstrašnější věc..."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -325,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE6E"
 msgid "I'm prepared to take on this awesome burden. [Accept task.]"
 msgstr ""
+"Jsem připraven převzít toto úžasné břemeno. [Přijmi úkol.]"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -332,6 +377,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE73"
 msgid "You know what, this sounds like a drag. [Refuse task.]"
 msgstr ""
+"Víš co, zní to jako otrava. [Odmítni úkol.]"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -339,6 +385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BEAC"
 msgid "This is a grave abdication of la responsabilité. A note will be appended to your personnel file."
 msgstr ""
+"Jedná se o závažnou abdikaci la responsabilité. K tvému osobnímu spisu bude připojena poznámka."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -346,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000310A"
 msgid "Please, you're thinking about this too narrowly."
 msgstr ""
+"Prosím, uvažuješ o tom příliš úzce."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -353,6 +401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BD42"
 msgid "Harry, Harry. You're thinking about this too narrowly."
 msgstr ""
+"Harry, Harry. Přemýšlíš o tom příliš úzce."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -360,6 +409,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE84"
 msgid "Good luck. Your report is eagerly anticipated."
 msgstr ""
+"Hodně štěstí. Tvá zpráva je netrpělivě očekávána."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -367,6 +417,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BEB1"
 msgid "(Sigh.) You're right. Who's going to sit on this committee?"
 msgstr ""
+"(Povzdechni.) Máš pravdu. Kdo bude sedět v tomto výboru?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -374,6 +425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BDD7"
 msgid "Like a committee."
 msgstr ""
+"Jako výbor."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -381,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000036C4"
 msgid "Swift, decisive action."
 msgstr ""
+"Rychlá a rozhodná akce."
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -388,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BCA2"
 msgid "An earth-shattering deduction from your psyche. What will those guys come up with next?"
 msgstr ""
+"Otřesná dedukce z tvé psychiky. S čím přijdou ti lidé příště?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -395,6 +449,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE2A"
 msgid "There is always time to follow best practices. Once someone's decided to *cut corners* for the sake of expediency, who knows what else they're capable of?"
 msgstr ""
+"Na dodržování osvědčených postupů je vždy čas. Jakmile se někdo rozhodne *zkrátit cestu* kvůli účelnosti, kdo ví, čeho všeho je ještě schopen?"
 
 #. Title = WHIRLING F2 ORB / Moralist Quest Initiation
 #. Description = Empathy tells you it's time to take responsibility... by convening a committee to spread responsibility around.
@@ -402,3 +457,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BE8D"
 msgid "Once they've reviewed it, those same superiors will produce a set of recommendations to be taken up at the next meeting of the *standing committee*."
 msgstr ""
+"Po jeho přezkoumání tito nadřízení vypracují soubor doporučení, která budou projednána na příštím zasedání *stálého výboru*."
