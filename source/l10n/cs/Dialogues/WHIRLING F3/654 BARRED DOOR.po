@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -12,6 +20,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013DB4"
 msgid "\"I thought it was an Ace's High moment, Kim.\""
 msgstr ""
+"\"Myslel jsem, že to byla chvíle pro plácnutí nahoře, Kime.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -21,6 +30,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE19"
 msgid "It's barred from the inside. You hear the bar rattle in the brackets."
 msgstr ""
+"Mají zevnitř závoru. Slyšíš, jak závora v držácích chrastí."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -30,6 +40,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009EBA"
 msgid "This is the door to the pinball workshop that you left barred on the inside."
 msgstr ""
+"Tohle jsou dveře do dílny na pinball, které jsi nechaliá zevnitř zamčené."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -39,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D1A"
 msgid "\"*Disrespecting* the force?!?!\" (Kick the door.)"
 msgstr ""
+"\"*Znevažování* síly?!?!\" (Vykopni dveře.)"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -48,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D56"
 msgid "This kind of stuff would hurt -- if not for you not caring about little things like that."
 msgstr ""
+"Takové věci by bolely - kdyby ti na takových maličkostech nezáleželo."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -57,6 +70,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D6E"
 msgid "\"Suck on that, door.\""
 msgstr ""
+"\"Naserte si, dveře.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -66,6 +80,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE43"
 msgid "\"To the workshop behind the wall.\" He points somewhere within. \"This must be the barred door we saw -- we *could* return and open it from the inside.\" He looks at the door with suspicion."
 msgstr ""
+"\"Do dílny za zdí.\" Ukáže někam dovnitř. \"Tohle musí být ty dveře se závorou, které jsme viděli - mohli bychom se vrátit a otevřít je zevnitř.\" Podezřívavě si dveře prohlédne."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A914"
 msgid "You kick it -- gung ho style, *entering the premises* style -- but the door fails to respect the force. All you hear is the bar rattling inside, laughing at you."
 msgstr ""
+"Kopni do nich - ve stylu *vstup do objektu* - ale dveře sílu nerespektují. Slyšíš jen, jak uvnitř rachotí závora a směje se ti."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -84,6 +100,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B0000A914"
 msgid "You give it another, more *ferocious* kick. The door still does not move."
 msgstr ""
+"Uštědříš jim další, ještě silnější kopanec. Dveře se stále nehýbou."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -93,6 +110,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D20"
 msgid "Swallow the rage."
 msgstr ""
+"Spolkni vztek."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -102,6 +120,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D91"
 msgid "\"I think the brackets broke inside. I've always wanted to know what's in there...\""
 msgstr ""
+"\"Myslím, že se držáky uvnitř zlomily. Vždycky jsem chtěl vědět, co je uvnitř...\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -111,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE4B"
 msgid "\"Where does this lead to?\""
 msgstr ""
+"\"Kam to vede?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -120,6 +140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE67"
 msgid "\"It is not the first closed door we've found in this building -- there is also your mysterious blue kitchen door.\""
 msgstr ""
+"\"Nejsou to první zavřené dveře, které jsme v této budově našli - jsou tu také vaše záhadné modré dveře do kuchyně.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -129,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EEAA"
 msgid "\"The vigilantes, the cadaver, and...\" He nods toward the young woman. \"A number of people connected to the case are *in* or around this building. This door is part of it. It's not *unimportant*.\""
 msgstr ""
+"\"Strážci, mrtvola a...\" Kývne směrem k mladé ženě. \"V této budově nebo v jejím okolí je řada lidí spojených s případem. Tyhle dveře jsou její součástí. Není to *bezvýznamné*.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -138,6 +160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EF68"
 msgid "Something cracks inside."
 msgstr ""
+"Něco uvnitř praskne."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -147,6 +170,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000EF68"
 msgid "This time -- something cracks inside."
 msgstr ""
+"Tentokrát - něco uvnitř praskne."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -156,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010A26"
 msgid "\"I don't know. The further we get, the more this building seems to be tied to the case...\""
 msgstr ""
+"\"Nevím. Čím dál se dostáváme, tím víc se zdá, že ta budova s případem souvisí...\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -165,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015A90"
 msgid "It is an unbelievably satisfying sound."
 msgstr ""
+"Je to neuvěřitelně uspokojivý zvuk."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -174,6 +200,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE80"
 msgid "Below, the hostel-cafeteria creaks and groans under your added weight -- a skeleton of composite support beams and cantilevers."
 msgstr ""
+"Dole, pod tvou přidanou vahou vrže a sténá hostel-bufet - kostra z kompozitních nosníků a konzol."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -183,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A905"
 msgid "Let's get in there. [Leave.]"
 msgstr ""
+"Pojďme dovnitř. [Odejdi.]"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -192,6 +220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003FE9"
 msgid "\"I don't see how this is going to give new results.\" He measures the door, stoically. \"There must be another way in there.\""
 msgstr ""
+"\"Nevím, jak to může přinést nové výsledky.\" Stoicky si změří dveře. \"Musí tam být jiná cesta.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -201,6 +230,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013CFE"
 msgid "It could be that your eyesight is still too poor to notice it... behind that window."
 msgstr ""
+"Je možné, že tvůj zrak je stále příliš slabý na to, aby sis ho všiml... za tím oknem."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -210,6 +240,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F001"
 msgid "No one knows. It is a fleeting feeling."
 msgstr ""
+"Nikdo neví. Je to prchavý pocit."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -219,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D2A"
 msgid "The door receives a thorough disciplining."
 msgstr ""
+"Dveře dostanou důkladnou výchovnou lekci."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -228,6 +260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E72A"
 msgid "This is a small, heavy door. There is no lock in sight."
 msgstr ""
+"Jedná se o malé, těžké dveře. V dohledu není žádný zámek."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -237,6 +270,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000E72A"
 msgid "The same small, heavy door. No lock in sight."
 msgstr ""
+"Stejné malé, těžké dveře. Žádný zámek v dohledu."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -246,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EFCB"
 msgid "\"I don't see how this is going to give new results.\" He measures the door, stoically. \"There must be another way in there.\""
 msgstr ""
+"\"Nevím, jak to může přinést nové výsledky.\" Stoicky si změřil dveře. \"Musí tam být jiná cesta.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -255,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F03A"
 msgid "\"Through the kitchen door, perhaps? Let's explore, rather than destroy.\""
 msgstr ""
+"\"Třeba dveřmi do kuchyně? Pojďme raději zkoumat, než ničit.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -264,6 +300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013DBA"
 msgid "\"I thought it was an Ace's Low moment, Kim.\""
 msgstr ""
+"\"Myslel jsem, že to byla chvíle pro plácnutí dole, Kime.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -273,6 +310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EF7E"
 msgid "\"All right,\" the woman nods approvingly: \"Let's trash the place.\""
 msgstr ""
+"\"Dobře,\" přikývne žena uznale: \"Pojďme to tu zničit.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -282,6 +320,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A928"
 msgid "\"The door has withstood your *demolishing* attempts.\" He measures the door, stoically. \"There must be another way in.\""
 msgstr ""
+"\"Dveře odolaly vašim *demoličním* pokusům.\" Stoicky si dveře změří. \"Musí existovat jiná cesta dovnitř.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -291,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010966"
 msgid "\"No -- still a mini-investigation.\" He pretends to make a note in his notebook."
 msgstr ""
+"\"Ne - pořád je to jen mini-vyšetřování.\" Předstírá, že si dělá poznámky do zápisníku."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -300,6 +340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013DD9"
 msgid "It totally was."
 msgstr ""
+"To rozhodně byla."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -309,6 +350,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013E25"
 msgid "Must be something valuable inside to go through the trouble of protecting it -- the door is very sturdy indeed."
 msgstr ""
+"Uvnitř musí být něco cenného, když si někdo dal tu práci se zabezpečením - dveře jsou opravdu velmi robustní."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -318,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE05"
 msgid "Push."
 msgstr ""
+"Zatlač."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -327,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013CF3"
 msgid "Your foot is ready to explode and punish this *object*!"
 msgstr ""
+"Tvá noha je připravena explodovat a potrestat tento *objekt*!"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -336,6 +380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013DC0"
 msgid "\"Let's see.\" [Leave.]"
 msgstr ""
+"\"Tak se na to podíváme.\" [Odejdi.]"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -345,6 +390,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE87"
 msgid "Tap on the roof with your foot."
 msgstr ""
+"Poklepej nohou na střechu."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -354,6 +400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EF84"
 msgid "The woman takes a drag of her ziggie and nods: \"Demolish the place.\""
 msgstr ""
+"Žena si potáhne z cigarety a přikývne: \"Zničte to tady.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -373,6 +420,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EFFA"
 msgid "You are a numb, imprecise instrument to ignore this feeling..."
 msgstr ""
+"Jsi otupělý, nepřesný nástroj, který tento pocit ignoruje..."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -382,6 +430,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A991"
 msgid "\"It's the barred door we saw.\" He looks at the door with suspicion. \"I don't know why we didn't open it from the inside -- we *should*.\""
 msgstr ""
+"\"To jsou ty dveře se závorou, které jsme viděli.\" Podezřívavě se na dveře podívá. \"Nevím, proč jsme je neotevřeli zevnitř - *měli jsme*.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -391,6 +440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001095C"
 msgid "\"I hate it when that happens.\""
 msgstr ""
+"\"Nesnáším, když se tohle děje.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -400,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000109A4"
 msgid "\"We should search downstairs, in the kitchen -- just in case. Maybe there's a door that leads up, that we don't know of.\""
 msgstr ""
+"\"Měli bychom to prohledat dole v kuchyni - pro jistotu. Možná tam vedou dveře, o kterých nevíme.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -409,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003E7A"
 msgid "Something cracks inside. It is an unbelievably satisfying sound."
 msgstr ""
+"Něco uvnitř praskne. Je to neuvěřitelně uspokojivý zvuk."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -418,6 +470,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008F00003E7A"
 msgid "This time -- something cracks inside. It is an unbelievably satisfying sound. "
 msgstr ""
+"Tentokrát - něco uvnitř praskne. Je to neuvěřitelně uspokojivý zvuk. "
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -427,6 +480,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013DD3"
 msgid "\"I don't know about that...\" The lieutenant smiles an uncomfortable smile."
 msgstr ""
+"\"To nevím...\" Poručík se nejistě usměje."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -446,6 +500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE93"
 msgid "A dull thump. Somewhere inside a wind brace rattles from the imperceptible motion of the building."
 msgstr ""
+"Tupý náraz. Někde uvnitř zachrastí větrná výztuha od neznatelného pohybu budovy."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -455,6 +510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F00E"
 msgid "It could be that your eyesight is still too poor to notice it... behind that window."
 msgstr ""
+"Je možné, že tvůj zrak je stále příliš slabý na to, aby sis ho všiml... za tím oknem."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -464,6 +520,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D3D"
 msgid "The sturdy wood door has lost *all* respect for you."
 msgstr ""
+"Robustní dřevěné dveře před tebou ztratily veškerý respekt."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -473,6 +530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE25"
 msgid "Sounds like it's heavy too. Very sturdy."
 msgstr ""
+"Zní to, že je také těžká. Velmi robustní."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -482,6 +540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE3C"
 msgid "\"I don't know.\" He makes a note in his notebook."
 msgstr ""
+"\"Já nevím.\" Udělá si poznámku do zápisníku."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -491,6 +550,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000EE3C"
 msgid "\"I don't know, lieutenant-yefreitor.\" He makes a note."
 msgstr ""
+"\"Já nevím, poručíku-jefrejtore.\" Udělá si poznámku."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -500,6 +560,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EFAA"
 msgid "\"Let's not.\""
 msgstr ""
+"\"Raději ne.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -509,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D37"
 msgid "The door receives a thorough disciplining -- at the cost of your foot. Your foot hurts. A lot."
 msgstr ""
+"Dveře dostanou důkladnou výchovnou lekci - na úkor tvé nohy. Noha tě bolí. Hodně."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -518,6 +580,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE74"
 msgid "\"Do you think it's important?\""
 msgstr ""
+"\"Myslíte, že je to důležité?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -527,6 +590,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EFDD"
 msgid "Below... in the Union box... was there something behind the window? In the hawthorn branches, brushing against the glass."
 msgstr ""
+"Dole... v odborářské kantýně... bylo něco za oknem? Ve větvích hlohu, které se otíraly o sklo."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -536,6 +600,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015A95"
 msgid "It is an unbelievably satisfying sound."
 msgstr ""
+"Je to neuvěřitelně uspokojivý zvuk."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -545,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D4D"
 msgid "Its pain and grovelling is much to your liking."
 msgstr ""
+"Jejich bolest a patolízalství se ti velmi líbí."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -554,6 +620,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D98"
 msgid "She sounds genuinely curious."
 msgstr ""
+"Vypadá to, že je opravdu zvědavá."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -563,6 +630,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013DEB"
 msgid "\"Nice.\" The young woman nods."
 msgstr ""
+"\"Pěkné.\" Mladá žena přikývne."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -572,6 +640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003E6D"
 msgid "Something cracks inside. It is an unbelievably satisfying sound."
 msgstr ""
+"Něco uvnitř praskne. Je to neuvěřitelně uspokojivý zvuk."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -581,6 +650,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008F00003E6D"
 msgid "This time -- something cracks inside. It is an unbelievably satisfying sound. "
 msgstr ""
+"Tentokrát - něco uvnitř praskne. Je to neuvěřitelně uspokojivý zvuk. "
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -590,6 +660,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00003FD8"
 msgid "\"The vigilantes, the cadaver, and...\" He nods to where they young woman once stood. \"A number of people connected to the case are *in* or around this building. This door is part of it. It's not *unimportant*.\""
 msgstr ""
+"\"Odboráři, mrtvola a...\" Kývne na místo, kde kdysi stála mladá žena. \"V této budově nebo v jejím okolí je řada lidí spojených s případem. Tyhle dveře jsou její součástí. Není to *bezvýznamné*.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -599,6 +670,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D8C"
 msgid "\"Sounds like the property damage wasn't in vain, at least. Would it hurt to look in?\""
 msgstr ""
+"\"Vypadá to, že škody na majetku nebyly přinejmenším zbytečné. Neškodilo by podívat se dovnitř?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -608,6 +680,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400013D8C"
 msgid "\"Well,\" the lieutenant cups his ear. \"Sounds like *this time* the property damage was at least resultive. Would it hurt to look in?\""
 msgstr ""
+"\"No,\" poručík si zacpe ucho. \"Vypadá to, že tentokrát škody na majetku přinejmenším přinesly výsledky. Neškodilo by podívat se dovnitř?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -617,6 +690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE0B"
 msgid "Kick the door in."
 msgstr ""
+"Vykopni dveře."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -626,6 +700,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000450000EE0B"
 msgid "Anti-Object Task Force initiate."
 msgstr ""
+"Nováček z Protipředmětové operační jednotky."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -635,6 +710,7 @@ msgstr ""
 msgctxt "tooltip2/0x010000450000EE0B"
 msgid "Anti-Object Task Force expert!"
 msgstr ""
+"Expert z Protipředmětové operační jednotky!"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -644,6 +720,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010956"
 msgid "\"See? The main investigation and the door below are merging into a *stereo*-investigation.\""
 msgstr ""
+"\"Vidíte? Hlavní vyšetřování a dveře dole se spojují do *stereo* vyšetřování.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -653,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001097D"
 msgid "\"I could say something, but I'm not going to, because I don't gloat.\""
 msgstr ""
+"\"Mohl bych něco říct, ale neudělám to, protože nejsem škodolibý.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -662,6 +740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D7F"
 msgid "Filling you with a *belief* in your own body."
 msgstr ""
+"Naplňuje tě to *vírou* ve vlastní tělo."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -671,6 +750,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE8D"
 msgid "Shake it off."
 msgstr ""
+"Setřes to ze sebe."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -680,6 +760,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EFF3"
 msgid "Ignore the feeling."
 msgstr ""
+"Ignoruj ten pocit."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -689,6 +770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F041"
 msgid "\"We should search downstairs. There are things about this building we don't know yet.\""
 msgstr ""
+"\"Měli bychom prohledat přízemí. Jsou věci, které o této budově ještě nevíme.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -698,6 +780,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A8DE"
 msgid "Something cracks inside."
 msgstr ""
+"Něco uvnitř praskne."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -707,6 +790,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B0000A8DE"
 msgid "This time -- something cracks inside."
 msgstr ""
+"Tentokrát - něco uvnitř praskne."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -716,6 +800,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A953"
 msgid "\"Ow.\""
 msgstr ""
+"\"Au.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -725,6 +810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010983"
 msgid "He doesn't say anything."
 msgstr ""
+"Nic neříká."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -734,6 +820,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EE79"
 msgid "\"The further we get, the more this building seems to be tied to the case...\""
 msgstr ""
+"\"Čím dál se dostáváme, tím víc se zdá, že tato budova s případem souvisí...\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -743,6 +830,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EF3D"
 msgid "\"It must be connected to the room we found behind the kitchen door. Maybe we should go back and take that elevator up...\" He looks at the door with suspicion."
 msgstr ""
+"\"Musí to být spojeno s místností, kterou jsme našli za dveřmi do kuchyně. Možná bychom se měli vrátit a vyjet výtahem nahoru...\" Podezřívavě se podívá na dveře."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -752,6 +840,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000F029"
 msgid "\"How?\""
 msgstr ""
+"\"Jak?\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -761,6 +850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A95B"
 msgid "The door is oblivious to your distress."
 msgstr ""
+"Dveře si tvého trápení nevšímají."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -770,6 +860,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010950"
 msgid "\"So maybe the door below *is* a *mega*-investigation.\""
 msgstr ""
+"\"Takže ty dveře dole jsou možná *mega* vyšetřování.\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -779,6 +870,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800010994"
 msgid "You should have gloated."
 msgstr ""
+"Měl jsi být škodolibý."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -788,6 +880,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000EF6D"
 msgid "You kick it -- gung ho-style, *entering the premises*-style -- but the door fails to respect the force. All you hear is the bar rattling inside, laughing at you."
 msgstr ""
+"Kopneš do nich - ve stylu gung-ho, ve stylu *průnik do objektu* - ale dveře sílu nerespektují. Slyšíš jen, jak uvnitř rachotí závora a směje se ti."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -797,6 +890,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000EF6D"
 msgid "You give it another, more *ferocious* kick. The door still does not move."
 msgstr ""
+"Uštědříš jim další, ještě silnější kopanec. Dveře se stále nehýbou."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -806,6 +900,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013D63"
 msgid "The door receives a thorough disciplining -- and it doesn't even hurt!"
 msgstr ""
+"Dveře dostanou důkladnou výchovnou - a ani to nebolí!"
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -815,6 +910,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A8FD"
 msgid "It seems like the brackets broke inside."
 msgstr ""
+"Zdá se, že se držáky uvnitř zlomily."
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -824,6 +920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A91E"
 msgid "\"Fucking piece of shit!\""
 msgstr ""
+"\"Zkurvená sračka!\""
 
 #. Title = WHIRLING F3 / BARRED DOOR
 #. Description = This is the door on the roof.
@@ -833,3 +930,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A982"
 msgid "The key... to the kitchen door. From behind the window. Use it on the door."
 msgstr ""
+"Klíč... od dveří do kuchyně. Zpoza okna. Použij ho na dveře."
