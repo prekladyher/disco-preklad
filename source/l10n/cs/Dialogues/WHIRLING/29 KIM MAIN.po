@@ -1,4 +1,5 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
+# dwa2 <krystoflasek@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +10,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 23.03.70\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -204,6 +205,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000043D"
 msgid "\"A good joke.\""
 msgstr ""
+"\"Dobrý vtip.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -237,6 +239,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000060F"
 msgid "\"It's always good to have a police officer who can see and feel.\""
 msgstr ""
+"\"Vždy je dobré mít policistu, který vidí a cítí.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -302,6 +305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000005F7"
 msgid "You may not *remember* taking any little 'tests', but you're strong as a goddamn ox. Anyone can see that!"
 msgstr ""
+"Možná si *nepamatuješ*, že bys dělal nějaké \"testíky\", ale jsi sakra silný jako vůl. To vidí každý!"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -310,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000005FE"
 msgid "The thing is, the RCM employs relatively few *oxen*. It's clear that what the lieutenant may lack in *musculature* he makes up for in other ways."
 msgstr ""
+"Jde o to, že ROM zaměstnává poměrně málo *volů*. Je jasné, že to, co poručíkovi možná chybí v *muskulatuře*, dohání jinými způsoby."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -366,6 +371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008A3D"
 msgid "\"Except that I *do*, detective.\""
 msgstr ""
+"\"Až na to, že *musím*, detektive.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -427,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009708"
 msgid "The weary tone is the surest indicator that the lieutenant is being *sarcastic*."
 msgstr ""
+"Unavený tón je nejjistějším ukazatelem toho, že poručík mluví *sarkasticky*."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -435,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009719"
 msgid "\"That's commendable. Was there anything else?\""
 msgstr ""
+"\"To je chvályhodné. Bylo tam ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -470,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016853"
 msgid "\"I was sent to teach you a lesson in *style*.\""
 msgstr ""
+"\"Byl jsem poslán, abych vám dal lekci *stylu*.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -561,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000069F"
 msgid "\"If you could only find your gun.\""
 msgstr ""
+"\"Jenom kdybyste našel svou zbraň.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -602,6 +612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000976"
 msgid "Yes, you killed him. And then, as part of the plan, you drowned out the memory..."
 msgstr ""
+"Ano, zabil jsi ho. A pak jsi v rámci plánu přehlušil vzpomínku..."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -678,6 +689,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000443"
 msgid "\"It will turn into quite the puzzle yet, I'm afraid...\" The lieutenant nods."
 msgstr ""
+"\"Obávám se, že se z toho ještě vyklube pořádná záhada...\" Poručík přikývne."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -686,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000567"
 msgid "That makes him a *binoclard*. Completely un-cop material, if you say so yourself."
 msgstr ""
+"To z něj dělá *brejlotarda*. Naprosto nepoldovský materiál, když si to tak říkáš."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -703,6 +716,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000008AB"
 msgid "(Flex your bicep.) \"Check it: I was made to crack skulls and solve cases.\""
 msgstr ""
+"(Napni biceps.) \"Sáhněte si: Byl jsem stvořen, abych rozbíjel lebky a řešil případy.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -777,6 +791,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D02"
 msgid "\"Okay, so the case *probably* isn't mysterious -- but could it be *sexy*?\""
 msgstr ""
+"\"Dobře, takže ten případ *pravděpodobně* není záhadný - ale mohl by být *sexy*?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -785,6 +800,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D2A"
 msgid "Is this a *strike* then -- or the first shots in a *workers' coup*?"
 msgstr ""
+"Je to tedy *stávka* – nebo první výstřely v *dělnickém převratu*?"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -820,6 +836,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009147"
 msgid "\"It isn't. But I will prove it so.\""
 msgstr ""
+"\"Není. Ale já to dokážu.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -828,6 +845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000096E3"
 msgid "\"Maybe there's a young woman involved?!\""
 msgstr ""
+"\"Možná je v tom zapletená nějaká mladá žena?!\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -887,6 +905,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001695E"
 msgid "\"It would be immensely ugly of them, not to mention unprofessional.... But I also think it's somewhat unlikely.\""
 msgstr ""
+"\"Bylo by to od nich nesmírně ošklivé, nemluvě o neprofesionalitě..... Ale také si myslím, že je to poněkud nepravděpodobné.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -927,6 +946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000210000115A"
 msgid "\"They -- Klaasje, as we've come to suspect -- didn't identify themselves in any way. The tone was muffled using a device of some sort. The desk could identify neither the caller's age nor sex.\""
 msgstr ""
+"\"Oni - Klaasje, jak jsme začali tušit - se nijak neprokázala. Hlas byl tlumený pomocí nějakého zařízení. Recepce nedokázala identifikovat ani věk, ani pohlaví volajícího.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -951,6 +971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002D6"
 msgid "(Point to yourself.) \"This is what a *modern* cop looks like.\""
 msgstr ""
+"(Ukaž na sebe.) \"Takhle vypadá *moderní* polda.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -959,6 +980,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002DC"
 msgid "(Loosen your shoulders.) \"You should ease up a bit. You need more *looseness*.\""
 msgstr ""
+"(Uvolni ramena.) \"Měl byste trochu zvolnit. Potřebujete víc *uvolněnosti*.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -975,6 +997,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000003EC"
 msgid "\"It can't be that...\" Part of him sort of wants to believe what you just said."
 msgstr ""
+"\"To není možné...\" Jedna jeho část chce tak nějak věřit tomu, co jsi právě řekl."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1049,6 +1072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000002E2"
 msgid "What, no. That can't be right."
 msgstr ""
+"Cože, ne. To nemůže být pravda."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1107,6 +1131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008CFB"
 msgid "\"Then you're in luck, because we're in the midst of a *major* strike by the Dockworkers' Union. Maybe more than that. The Union clearly wants a *piece*, not just of the Industrial Harbour, but the Wild Pines corporation itself...\""
 msgstr ""
+"\"Tak to máte štěstí, protože právě probíhá velká stávka Dokařských odborů. Možná víc než to. Odbory zjevně chtějí svůj *díl* nejen z Průmyslového přístavu, ale i ze samotné korporace Divoké pinie...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1175,6 +1200,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016964"
 msgid "\"Why's that?\""
 msgstr ""
+"\"Proč to?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1192,6 +1218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600019391"
 msgid "\"Okay -- was there anything else?\""
 msgstr ""
+"\"Dobře - bylo tam ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1232,6 +1259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000022C"
 msgid "\"There can only be one conclusion: I am the finest, a case-solving machine sent to outperform you in every way imaginable.\""
 msgstr ""
+"\"Závěr může být jen jeden: Jsem ten nejlepší, mašina na řešení případů, která vás má překonat ve všech myslitelných ohledech.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1240,6 +1268,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000270000022C"
 msgid "\"There can only be one conclusion: I am the finest we have, a hero cop sent to outperform you in every way imaginable.\""
 msgstr ""
+"\"Závěr může být jen jeden: Jsem ten nejlepší, kterého máme, hrdinný polda, který vás má překonat ve všech myslitelných ohledech.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1256,6 +1285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000003D0"
 msgid "\"I arrive at the scene three days early, drink myself to oblivion, fully re-immerse myself in this reality and then work the case from an angle so crescent fresh it produces *never before seen* results. Not only for criminology, but for the human mind.\""
 msgstr ""
+"\"Přijedu na místo činu o tři dny dřív, opiju se do němoty, plně se znovu ponořím do této reality a pak pracuji na případu z tak čerstvého úhlu, že to přináší *nevídané* výsledky. Nejen pro kriminalistiku, ale i pro lidskou mysl.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1280,6 +1310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000630"
 msgid "\"What is *the gift*?\""
 msgstr ""
+"\"Co je to za *dar*?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1321,6 +1352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000AD0"
 msgid "\"I find that highly unlikely. It's not unusual for detectives to feel complicit in the crime until the perpetrator is apprehended. Especially when the investigation is dragging. So let's get back to it, shall we?\""
 msgstr ""
+"\"To považuji za velmi nepravděpodobné. Není neobvyklé, že se detektivové cítí být spoluviníky zločinu, dokud není pachatel zadržen. Zvlášť když se vyšetřování vleče. Takže se k němu vrátíme, ano?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1337,6 +1369,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008100000AF9"
 msgid "\"My chest feels hollow, like I did something terrible.\""
 msgstr ""
+"\"Cítím v hrudi prázdnotu, jako bych udělal něco hrozného.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1448,6 +1481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008A2F"
 msgid "\"You don't need to *supervise* me, Kim.\""
 msgstr ""
+"\"Nemusíte na mě *dohlížet*, Kime.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1465,6 +1499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009338"
 msgid "\"Kim, what if my precinct sent me on this case *because* I'm a fuck up? Like... as a joke.\""
 msgstr ""
+"\"Kime, co když mě můj okrsek poslal na tenhle případ *protože* jsem sráč? Jako... jako vtip.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1498,6 +1533,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600013055"
 msgid "\"Now -- was there anything else or should we get to it?\""
 msgstr ""
+"\"Takže - bylo tam ještě něco, nebo bychom se k tomu měli dostat?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1539,6 +1575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000112"
 msgid "\"Yes. I'm an unrepentant spoilsport.\" The lieutenant appears pleased with this."
 msgstr ""
+"\"Ano. Jsem nenapravitelný kazisvět.\" Poručík vypadá, že ho to potěšilo."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1580,6 +1617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000017"
 msgid "\"I'm relieved that you agree,\" he says, then pauses."
 msgstr ""
+"\"Ulevilo se mi, že souhlasíte,\" řekne a odmlčí se."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1588,6 +1626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000094"
 msgid "\"I don't think grounding one or the other side into pigsfeed will do anyone favours. I am really, really smart.\""
 msgstr ""
+"\"Nemyslím si, že namletí jedné nebo druhé strany do krmení pro prasata někomu prospěje. Jsem opravdu, ale opravdu chytrý.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1621,6 +1660,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000008B1"
 msgid "(Stroke your chin thoughtfully.) \"I've always believed in mind over matter.\""
 msgstr ""
+"(Zamyšleně si pohlaď bradu.) \"Vždycky jsem věřil, že mysl má přednost před hmotou.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1694,6 +1734,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000938A"
 msgid "Look at you -- it's because you're a failure. They sent you to *slight* Precinct 57."
 msgstr ""
+"Podívej se na sebe - to proto, že jsi selhal. Poslali tě na *přehlížený* okrsek 57."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1728,6 +1769,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600013017"
 msgid "\"I think it's terrifying.\""
 msgstr ""
+"\"Myslím, že je to děsivé.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1838,6 +1880,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000019E"
 msgid "\"What's special about Martinaise?\""
 msgstr ""
+"\"Co je na Martinéze tak zvláštního?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1846,6 +1889,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000271"
 msgid "The silence carries."
 msgstr ""
+"Ticho se rozléhá."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1854,6 +1898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002C0"
 msgid "\"I probably have an *unbelievable* kill count.\""
 msgstr ""
+"\"Pravděpodobně mám *neuvěřitelný* počet zabití.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1862,6 +1907,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002C9"
 msgid "\"Okay.\" He takes a step back. \"Style me.\""
 msgstr ""
+"\"Dobře.\" Udělá krok zpět. \"Poučte mě o stylu.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1878,6 +1924,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000469"
 msgid "\"Of course it's a joke, look at me! How could I compete with you, you probably have a ton of cases solved.\""
 msgstr ""
+"\"Samozřejmě, že je to vtip, podívejte se na mě! Jak bych s vámi mohl soupeřit, vy přece musíte mít tuny vyřešených případů.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1886,6 +1933,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002700000469"
 msgid "\"Of course it's a joke, look at me! You have over a hundred cases solved, how could I compete with you?\"\n"
 msgstr ""
+"\"Samozřejmě, že je to vtip, podívejte se na mě! Vy máte přes sto vyřešených případů, jak bych s vámi mohl soupeřit?\"\n"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1902,6 +1950,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000A8C"
 msgid "\"It's good to have....\" His mouth twitches as he comes up with the expression: \"...an *ambidextrous para-detective* in a labour dispute. I can see why they sent you -- should we go?\""
 msgstr ""
+"\"Je dobré mít....\" Ústa mu cuknou, když ho napadne ten výraz: \"...*obourukého para-detektiva* v pracovním sporu. Už chápu, proč vás poslali... neměli bychom jít?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -1910,6 +1959,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000E57"
 msgid "\"Ah, so this is a struggle over *who runs Martinaise*!\""
 msgstr ""
+"\"Aha, takže to je boj o to, *kdo bude řídit Martinézu*!\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2027,6 +2077,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000005E9"
 msgid "\"I didn't know they *let* binoclards become cops.\""
 msgstr ""
+"\"Nevěděl jsem, že *nechávají* brejlotardy stát se policajty.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2127,6 +2178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008CF4"
 msgid "\"Personally, I think labour disputes are *very* mysterious.\""
 msgstr ""
+"\"Osobně si myslím, že pracovní spory jsou *velmi* záhadné.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2135,6 +2187,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000979D"
 msgid "What if *you* did it?"
 msgstr ""
+"Co když jsi to udělal *ty*?"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2293,6 +2346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000003C3"
 msgid "\"Really?\" His eyebrow gets raised one more notch."
 msgstr ""
+"\"Opravdu?\" Jeho obočí se zvedne o další stupeň."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2301,6 +2355,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000472"
 msgid "\"It's not that many. Officer, I'm sure you have a lot more cases solved. Now...\""
 msgstr ""
+"\"Není jich tolik. Jsem si jistý, že vy máte mnohem víc vyřešených případů. Tak...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2325,6 +2380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000066000003E1"
 msgid "\"Let me just make this perfectly clear -- our job here... is to find *the killer*?\""
 msgstr ""
+"\"Chtěl bych v tom mít naprosto jasno - naším úkolem tady... je najít *vraha*?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2341,6 +2397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000009DB"
 msgid "\"Kim... I think *I* may be the murderer. I killed the man and then tricked myself into forgetting about it.\""
 msgstr ""
+"\"Kime... Myslím, že vrahem jsem možná já. Zabil jsem toho muže a pak jsem zmanipuloval sám sebe, abych na to zapomněl.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2383,6 +2440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000005F0"
 msgid "The lieutenant's face turns a ruddy shade. \"I can *assure* you, detective, that I've passed *all* the required physical exams within the last year. Can you say the same?\""
 msgstr ""
+"Poručíkův obličej zrudne. \"Mohu vás ujistit, detektive, že jsem za poslední rok absolvoval všechny požadované fyzické zkoušky. Můžete říct totéž?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2452,6 +2510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D3A"
 msgid "\"Strike, coup, revolution, it's brigandage however you parse it.\""
 msgstr ""
+"\"Stávka, převrat, revoluce, je to loupežnictví, ať už si to rozeberete jakkoli.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2487,6 +2546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000914E"
 msgid "\"I hope you do.\""
 msgstr ""
+"\"Doufám, že ano.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2495,6 +2555,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009712"
 msgid "\"No, not *really*. Was there anything else?\""
 msgstr ""
+"\"Ne, ne *skutečně*. Máte ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2503,6 +2564,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000097B4"
 msgid "Did... what? The hanged man?"
 msgstr ""
+"Udělal... co? To s tím oběšencem?"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2546,6 +2608,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016940"
 msgid "\"I checked the records. This jurisdiction dispute -- who polices Martinaise -- reaches back to the Thirties. It's as old as my station. And all this time we can't decide who gets Martinaise? I think, yes, both stations would prefer a win.\""
 msgstr ""
+"\"Zkontroloval jsem záznamy. Tento spor o jurisdikci - kdo má Martinézu na starosti - sahá až do třicátých let. Je stejně starý jako moje stanice. A celou tu dobu se nemůžeme rozhodnout, kdo dostane Martinézu? Myslím, že ano, obě stanice by nejraději vyhrály.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2578,6 +2641,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000026A"
 msgid "\"I'm gonna leave why I was sent *unspecified*.\""
 msgstr ""
+"\"Nechám důvod, proč jsem byl poslán, *nespecifikovaný*.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2586,6 +2650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000372"
 msgid "\"In the New, twenty years ago. It's what a modern cop looked like then.\""
 msgstr ""
+"\"V Novém stylu, před dvaceti lety. Tak tehdy vypadal moderní polda.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2627,6 +2692,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000006B8"
 msgid "\"I will only use lethal force with the utmost care and precision.\""
 msgstr ""
+"\"Smrtící sílu použiji pouze s maximální opatrností a přesností.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2635,6 +2701,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000A7D"
 msgid "\"It's not a burden, it's a gift.\""
 msgstr ""
+"\"Není to břímě, je to dar.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2659,6 +2726,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000055"
 msgid "\"We should ground the *owners* into fine paste and feed them to the pigs.\""
 msgstr ""
+"\"Měli bychom ty *vlastníky* rozemlít na jemnou kaši a nakrmit jimi prasata.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2667,6 +2735,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000000DD"
 msgid "\"Oh, I guess that settles it, then.\""
 msgstr ""
+"\"Aha, tak tím je to asi vyřešeno.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2675,6 +2744,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000002F0"
 msgid "Just think about it for a second. You're a raging alcoholic who showed up three days late wearing piss-stained disco garb. You weren't sent here to *win*."
 msgstr ""
+"Jen se nad tím na chvíli zamysli. Jsi zběsilý alkoholik, který se objevil s třídenním zpožděním, oblečený do diskotékového hávu se skvrnami od moči. Nebyl jsi sem poslán, abys *vyhrál*."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2852,6 +2922,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001693A"
 msgid "\"Safe? No. But you're old. You've made it this far. *Something* has brought you through. We've only just started working together, so I don't know what it is yet. But it's there.\""
 msgstr ""
+"\"Bezpečnou? Ne, ale jste starý. Dostal jste se až sem. *Něco* vás přivedlo dál. Teprve jsme spolu začali pracovat, takže ještě nevím, co to je. Ale je to tam.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2917,6 +2988,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000001A5"
 msgid "\"Martinaise? Nothing. It's just a puddle at the end of some drainpipe. No one cares about this place, they care about sports. Most of our colleagues don't even know how to get here. North of the Interchange doesn't exist.\""
 msgstr ""
+"\"Na Martinéze? Nic. Je to jen louže na konci nějaké odpadní roury. Tohle místo nikoho nezajímá, zajímá je soutěž. Většina našich kolegů ani neví, jak se sem dostat. Severně od křižovatky nic neexistuje.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2925,6 +2997,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000238"
 msgid "\"I am a highly experimental cop. But if I am right... this is *outré* even by my standards.\""
 msgstr ""
+"\"Jsem vysoce experimentální polda. Ale jestli mám pravdu... tohle je *bizarní* i podle mých měřítek.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2933,6 +3006,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000038B"
 msgid "\"No I don't. I *used* to. Plain clothes did the trick. For both of us, it seems.\" He nods toward you. \"Now...\""
 msgstr ""
+"\"Ne, nepotřebuji. Dřív jsem *býval*. Obyčejné oblečení splní svůj účel. Zdá se, že pro nás oba.\" Kývne směrem k tobě. \"A teď...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2949,6 +3023,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000056C"
 msgid "\"I agree. Too dark.\""
 msgstr ""
+"\"Souhlasím. Je příliš temné.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2957,6 +3032,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000A83"
 msgid "\"It's both a burden -- and a gift.\""
 msgstr ""
+"\"Je to břímě - a zároveň dar.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3185,6 +3261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016910"
 msgid "\"Yes, it's a wholly pointless matter. Forget I ever mentioned it.\""
 msgstr ""
+"\"Ano, je to úplně zbytečná záležitost. Zapomeňte, že jsem se o tom kdy zmínil.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3193,6 +3270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018F03"
 msgid "He's basically *challenging* you to sex it up with some lurid twist. Don't get right into it, sit on it a bit -- then hit him with it!"
 msgstr ""
+"V podstatě tě *vyzývá*, abys to doplnil nějakým pikantním sexuálním zvratem. Nepouštěj se do toho hned, chvíli si na to sedni - a pak ho s tím ohrom!"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3225,6 +3303,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600008D1F"
 msgid "\"Why didn't we know anything about the caller?\""
 msgstr ""
+"\"Proč jsme o volajícím nic nevěděli?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3249,6 +3328,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000197"
 msgid "\"I wonder what this says about me? That I was sent by my station?\""
 msgstr ""
+"\"Co to o mně asi vypovídá? Že mě poslala moje stanice?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3257,6 +3337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000003A8"
 msgid "Because you're the best qualified? No, that doesn't seem right..."
 msgstr ""
+"Protože jsi ten nejkvalifikovanější? Ne, to nebude ono..."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3273,6 +3354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000636"
 msgid "\"I think I have it.\""
 msgstr ""
+"\"Myslím, že ho mám.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3281,6 +3363,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000676"
 msgid "\"I bet you do.\""
 msgstr ""
+"\"Vsadím se, že ano.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3313,6 +3396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000000C6"
 msgid "\"Politics is habit-forming. And hazardous. It is also irrelevant to policework. You are right to doubt the impulse, it might be detrimental to our task here.\""
 msgstr ""
+"\"Politika je návyková. A nebezpečná. Je také irelevantní pro policejní práci. Máte pravdu, když pochybujete o tomto impulsu, mohl by být na škodu našemu zdejšímu úkolu.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3356,6 +3440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D41"
 msgid "\"We should ground the workers into fine paste and feed them to the pigs.\""
 msgstr ""
+"\"Měli bychom ty dělníky rozemlít na jemnou kaši a nakrmit jimi prasata.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3425,7 +3510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600009437"
 msgid "\"It was a joke, sadly. There's nothing I can do about your delinquency.\" He sighs. \"What's done is done. Let's get back to policework.\""
 msgstr ""
-"\"Byl to vtip, bohužel. S vaším přestupkem nemohu nic dělat.\" Povzdechne si. \"Co se stalo, stalo se. Vraťme se k policejní práci.\""
+"\"Byl to vtip, bohužel. S vaším deliktem nemohu nic udělat.\" Povzdechne si. \"Co se stalo, stalo se. Vraťme se k policejní práci.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3450,6 +3535,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016952"
 msgid "\"Ha, so you *are* their finest.\""
 msgstr ""
+"\"Ha, takže vy jste jejich nejlepší.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3524,6 +3610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002B9"
 msgid "\"Don't be scared, but I think I might have supra-natural abilities.\""
 msgstr ""
+"\"Nelekejte se, ale myslím, že mám nadpřirozené schopnosti.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3532,6 +3619,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000544"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3540,6 +3628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000058B"
 msgid "\"Which school do you subscribe to -- Mambo...\" He opens the other hand: \"...or Jambo?\""
 msgstr ""
+"\"Ke které škole se hlásíte - Mambo...\" Otevře druhou ruku: \"...nebo Džambo?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3548,6 +3637,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000005DF"
 msgid "He opens one hand and looks at it. A moment passes."
 msgstr ""
+"Otevře jednu ruku a podívá se na ni. Uplyne chvíle."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3564,6 +3654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000064A"
 msgid "\"There is no gift. We should move.\""
 msgstr ""
+"\"Žádný dar neexistuje. Měli bychom se pohnout.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3596,6 +3687,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000002C"
 msgid "\"Is there anything else? You look like you were about to say something.\""
 msgstr ""
+"\"Ještě něco? Vypadáte, jako byste chtěl něco říct.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3604,6 +3696,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000105"
 msgid "\"Extremely.\""
 msgstr ""
+"\"Extrémně.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3629,6 +3722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000252"
 msgid "No, that makes sense! I'm *exceedingly* qualified!"
 msgstr ""
+"Ne, to dává smysl! Jsem *výjimečně* kvalifikovaný!"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3637,6 +3731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000037A"
 msgid "\"Well, sort of. It's less a matter of who *gets* to police Martinaise than who *has* to. It's an orphan district, in other words...\""
 msgstr ""
+"\"No, tak nějak. Nejde ani tak o to, kdo by *měl* v Martinéze dělat policii, jako spíš o to, kdo to dělat *musí*. Jinými slovy, je to sirotčí okres...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3654,6 +3749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000063A"
 msgid "So what can I *do* about it?"
 msgstr ""
+"Co s tím mohu udělat?"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3662,6 +3758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000670"
 msgid "*Nothing*. You better hope he doesn't abuse his authority. There's *a lot* of it."
 msgstr ""
+"*Nic*. Raději doufej, že své autority nezneužije. Je jí *hodně*."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3713,6 +3810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D33"
 msgid "\"Wait, so is this a *strike* or an attempted *coup*?\""
 msgstr ""
+"\"Počkejte, takže je to *stávka* nebo pokus o *převrat*?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3730,6 +3828,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000090B7"
 msgid "\"The *cop* kind. Our Precincts can't decide if Martinaise is part of Jamrock or the Industrial Harbour. *Yours* or *mine*, as if we somehow *own* parts of the city. Typical street-gang mentality.... so we've let the Union make a mockery of law enforcement here. And now it's come to its natural conclusion.\""
 msgstr ""
+"\"Taková ten *policajtská*. Naše okrsky se nemohou rozhodnout, jestli je Martinéza součástí Šprajclu, nebo Průmyslového přístavu. *Vaše* nebo *naše*, jako bychom nějak *vlastnili* části města. Typická mentalita pouličních gangů...., takže jsme nechali Odbory, aby se tu vysmívaly vymáhání práva. A teď to dospělo k přirozenému konci.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3746,6 +3845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001299F"
 msgid "He's having trouble processing it. *Believing* it even."
 msgstr ""
+"Má problém to zpracovat. Vůbec tomu *uvěřit*."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3772,6 +3872,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100001173"
 msgid "\"Was there anything else you wanted to ask about the competition? If not, we should move.\""
 msgstr ""
+"\"Chtěl jste se ještě na něco zeptat ohledně soutěžení? Pokud ne, měli bychom jít.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3780,6 +3881,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000001"
 msgid "So he volunteered to represent the 57th, but not out of competitiveness -- on the contrary."
 msgstr ""
+"Přihlásil se tedy dobrovolně jako zástupce 57. okrsku, ale ne ze soutěživosti - naopak."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3804,6 +3906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000003B3"
 msgid "Why did the 41st send me?"
 msgstr ""
+"Proč mě 41. posílá?"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3852,6 +3955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000462"
 msgid "\"A joke, of course. Rest assured, I have no intention to compete with you.\""
 msgstr ""
+"\"Samozřejmě, vtip. Ujišťuji vás, že nemám v úmyslu s vámi soutěžit.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3860,6 +3964,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000048D"
 msgid "\"Oh? You will?\" He raises his collar. His eyes narrow. \"Then I will *help* you to do so. Now...\""
 msgstr ""
+"\"Aha? Tohle uděláte?\" Zvedne si límec. Oči se mu zúží. \"Pak vám s tím *pomůžu*. Tak...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3868,6 +3973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000499"
 msgid "\"It's good we set this thing aside.\""
 msgstr ""
+"\"Je dobře, že to necháme stranou.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3916,6 +4022,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000009A"
 msgid "\"I've spent the last 20 seconds deciding on which side to *ground into pigfeed* -- why?\""
 msgstr ""
+"\"Posledních dvacet vteřin jsem se rozhodoval, kterou stranu *namlít do krmiva pro prasata* - proč?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4000,6 +4107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009362"
 msgid "\"So it's true.\""
 msgstr ""
+"\"Takže je to pravda.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4008,6 +4116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000096EA"
 msgid "\"Yes, it just so happens there's a beautiful, blonde nineteen year old woman at the heart of this case. A rich one, in fact. Part of a murder-sex-cult.\""
 msgstr ""
+"\"Ano, čirou náhodou je v jádru tohoto případu krásná, devatenáctiletá blondýnka. Vlastně i bohatá. Součást vražedného sex-kultu.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4057,6 +4166,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000169"
 msgid "\"Okay, enough of the competition then. Tell me something else.\" (Conclude.)"
 msgstr ""
+"\"Dobře, tak už dost tom soutěžení. Řekněte mi něco jiného.\" (Uzavři to.)"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4065,6 +4175,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002AC"
 msgid "\"I must be an augury, an apocalyptic omen sent by my people. Can you guess my message?\""
 msgstr ""
+"\"Musím být předzvěst, apokalyptické znamení seslané mému lidu. Uhádnete mé poselství?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4073,6 +4184,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000002F3"
 msgid "It's impossible to tell whether he's serious or joking."
 msgstr ""
+"Nedá se poznat, jestli to myslí vážně, nebo si dělá legraci."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4097,6 +4209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000444"
 msgid "He does not actually think it was a good joke."
 msgstr ""
+"Ve skutečnosti si nemyslí, že to byl dobrý vtip."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4105,6 +4218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000551"
 msgid "\"Better not to relay it.\""
 msgstr ""
+"\"Bude lepší ho nepředat.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4138,6 +4252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006600000402"
 msgid "\"Okay. Well. We are police officers. It is our job to find the killer. So that's what I intend to do. You should try too.\""
 msgstr ""
+"\"Dobře. Takže. Jsme policisté. Naším úkolem je najít vraha. Takže to mám v úmyslu udělat. Měl byste se o to pokusit taky.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4284,6 +4399,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000910A"
 msgid "\"Now that we've inspected the scene -- I want to know more about this 'pissing competition' you mentioned.\""
 msgstr ""
+"\"Teď, když jsme si prohlédli místo činu, chci vědět víc o té \"soutěži v čůrání\", o které jste se zmínil.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4334,6 +4450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000168C8"
 msgid "It's all part of the Masterplan, you see."
 msgstr ""
+"Víš, to vše je součástí hlavního plánu."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4368,6 +4485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000193ED"
 msgid "\"Are *you* part of the homo-sexual underground?\""
 msgstr ""
+"\"Jste *součástí* homosexuálního undergroundu?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4410,6 +4528,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000057F"
 msgid "\"Local law enforcement solving one little homicide decides nothing. Not solving it... can have real and calculable effects. Things can always get worse. Matter of fact, augury, we should move.\""
 msgstr ""
+"\"Místní orgány činné v trestním řízení, které řeší jednu malou vraždu, o ničem nerozhodují. Její neřešení... může mít reálné a vypočitatelné následky. Věci se vždy mohou zhoršit. Ve skutečnosti, předzvěsti, bychom se měli pohnout.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4418,6 +4537,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000642"
 msgid "There is no gift. It must be repeated: there is no *Gift*. It is meant as obvious sarcasm. Do not ask what *The Gift* is."
 msgstr ""
+"Žádný dar neexistuje. Je třeba zopakovat: žádný *dar* neexistuje. Je to míněno jako zjevný sarkasmus. Neptej se, co je *Dar*."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4426,6 +4546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000654"
 msgid "\"It is good to have a para-detective in a labour dispute. I can see why they sent you -- should we go?\""
 msgstr ""
+"\"Je dobré mít v pracovním sporu paradetektiva. Chápu, proč vás poslali... můžeme jít?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4434,6 +4555,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000067D"
 msgid "\"Why, do you agree?\""
 msgstr ""
+"\"Proč, souhlasíte?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4442,6 +4564,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000690"
 msgid "\"The 41st is known to kill people. Often.\""
 msgstr ""
+"\"O 41. je známo, že zabíjejí lidi. Často.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4483,6 +4606,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000000E3"
 msgid "\"Excellent. Was there anything else?\""
 msgstr ""
+"\"Výborně. Máte tam ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4491,6 +4615,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000000FE"
 msgid "\"You're being sarcastic, aren't you?\""
 msgstr ""
+"\"Jste sarkastický, že?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4508,6 +4633,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000685"
 msgid "If the lieutenant were an *evil* man, who knows what sort of havoc he could wreak?"
 msgstr ""
+"Kdyby byl poručík *zlý* člověk, kdo ví, jakou spoušť by mohl napáchat?"
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4516,6 +4642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000008C0"
 msgid "\"That's good to hear. I have little patience for the *swinging dick* style of police work. It's patience and intelligence that solves cases... Was there anything else?\""
 msgstr ""
+"\"To rád slyším. Nemám moc trpělivosti s policejní prací ve stylu \"mám pořádný koule\". Případy řeší trpělivost a inteligence... Ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4584,7 +4711,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008B9D"
 msgid "\"Why hide themselves?\""
 msgstr ""
-"\"Proč se utajují?\""
+"\"Proč se utajovat?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4602,6 +4729,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009823"
 msgid "\"Do you know the feeling when you've begun filling in a crossword but some of your answers don't quite seem to fit? That's the feeling I have right now, for some reason...\""
 msgstr ""
+"\"Znáte ten pocit, když začnete vyplňovat křížovku, ale některé odpovědi vám nesedí? Přesně takový pocit mám teď z nějakého důvodu já...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4653,6 +4781,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001696A"
 msgid "\"I am the finest of nothing.\""
 msgstr ""
+"\"Nejsem ničí nejlepší.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4661,6 +4790,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001935A"
 msgid "Maybe this is why your chest feels so hollow -- you did an awful thing, and you can't even bring yourself to acknowledge it..."
 msgstr ""
+"Možná proto máš v hrudi tak prázdný pocit - udělal jsi hroznou věc a nedokážeš si ji přiznat..."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4686,6 +4816,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F5BB"
 msgid "\"Actually it does have to be murder. This is a murder investigation. But we digress.\""
 msgstr ""
+"\"Vlastně to musí být vražda. Tohle je vyšetřování vraždy. Ale to už odbočujeme.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4726,6 +4857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000697"
 msgid "He neither approves, nor disapproves. Yet there is something more there, something you can't put your finger on."
 msgstr ""
+"Neschvaluje to ani neodsuzuje. Přesto je v tom něco víc, něco, co nedokážeš pojmenovat."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4767,6 +4899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000009A6"
 msgid "Maybe this is why your chest feels so hollow -- you did an awful thing, and you can't even bring yourself to acknowledge it..."
 msgstr ""
+"Možná proto máš v hrudi tak prázdný pocit - udělal jsi hroznou věc a nedokážeš si ji přiznat..."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4775,6 +4908,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000A19"
 msgid "The lieutenant appears unfazed. \"And what has led you to this conclusion?\""
 msgstr ""
+"Poručík vypadá, že ho to nijak nerozhází. \"A co vás k tomuto závěru vede?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4783,6 +4917,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000A61"
 msgid "\"That is a common side effect of overindulgence. It will pass.\""
 msgstr ""
+"\"To je častý vedlejší účinek nestřídmosti. To přejde.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4823,6 +4958,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000261"
 msgid "If you're so well qualified, why can't you remember why you were sent? Anyway -- don't keep the lieutenant waiting."
 msgstr ""
+"Když máš tak dobrou kvalifikaci, proč si nemůžeš vzpomenout, proč tě poslali? Každopádně - nenech poručíka čekat."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4923,6 +5059,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008A0A"
 msgid "The lieutenant thinks you're some unaccountable wreck who needs constant supervision, but you don't *have* to listen to him. You're free to disobey."
 msgstr ""
+"Poručík si myslí, že jsi nezodpovědná troska, která potřebuje neustálý dohled, ale ty ho poslouchat *nemusíš*. Můžeš svobodně neuposlechnout."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4931,6 +5068,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D54"
 msgid "\"When I said we have to navigate community matters, I did not mean we have any *say* in them. I meant we should be careful. If we are not... the *shit* will blow right in our faces.\" He makes a quick gesture towards his visage -- where the shit would blow."
 msgstr ""
+"\"Když jsem řekl, že se musíme orientovat ve společenských záležitostech, nemyslel jsem tím, že do nich máme co mluvit. Myslel jsem tím, že bychom měli být opatrní. Když nebudeme... tak nám to *sračky* vletí přímo do obličeje.\" Udělá rychlé gesto směrem ke své vizáži - tam, kam by to hovno mohlo vletět."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4947,6 +5085,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009155"
 msgid "And he will help."
 msgstr ""
+"A pomůže ti."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4955,6 +5094,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000096CE"
 msgid "\"Are you *sure* there's not some sex-angle we should be considering?\""
 msgstr ""
+"\"Jste si jistý, že bychom neměli uvažovat o nějakém sexuálním úhlu?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4988,6 +5128,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001692E"
 msgid "\"So no, I don't think they sent you as a joke. And even if they did, they are in for a surprise.\""
 msgstr ""
+"\"Takže ne, nemyslím si, že vás poslali jako vtip. A i kdyby, čeká je překvapení.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5030,6 +5171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001F5B4"
 msgid "\"It doesn't *have* to be murder. It can just be sex.\""
 msgstr ""
+"\"*Nemusí* to být vražda. Může to být jen sex.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5094,6 +5236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000066000003EF"
 msgid "\"I still don't understand anything.\""
 msgstr ""
+"\"Pořád ničemu nerozumím.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5102,6 +5245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000005B"
 msgid "\"With this little foreknowledge I am unsure which side to grind into pigsfeed. The decision must ferment in me. Also -- *nationalism*.\""
 msgstr ""
+"\"S takhle malou informovaností si nejsem jistý, kterou stranu rozemlít na do krmení pro prasata. Rozhodnutí ve mně musí kvasit. A taky *nacionalismus*.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5110,6 +5254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000043C"
 msgid "\"Hmm, perhaps you're a more proficient *cruciverbalist* than I am. All I mean to say is that we have a puzzle on our hands, but not all the pieces... yet.\""
 msgstr ""
+"\"Hmm, možná jste zdatnější *křížovkář* než já. Chci tím jen říct, že máme v rukou skládačku, ale ještě ne všechny kousky.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5193,6 +5338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008A69"
 msgid "\"Sounds good.\""
 msgstr ""
+"\"To zní dobře.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5201,6 +5347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008D23"
 msgid "\"I expect the case itself to be less challenging than navigating these *community matters*. This district isn't used to the RCM's presence, and the Union rarely overplays its hand -- as it appears to have done in this case...\""
 msgstr ""
+"\"Očekávám, že samotný případ bude méně náročný než orientace v těchto *společenských záležitostech*. Tento okres není zvyklý na přítomnost ROM a Odbory málokdy přehání svůj vliv - jak se zdá, že to udělala v tomto případě...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5235,6 +5382,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400009344"
 msgid "Keep it to yourself."
 msgstr ""
+"Nech si to pro sebe."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5285,6 +5433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016958"
 msgid "\"Safe? No. But you're old. You've made it this far. Something has brought you through. I haven't worked with you yet, so I don't know what it is. But it's there.\""
 msgstr ""
+"\"Bezpečnou? Ne, ale jste starý Dostal jste se až sem. *Něco* vás přivedlo dál. Ještě jsem s vámi nepracoval, takže ještě nevím, co to je. Ale je to tam.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5326,6 +5475,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000F4BC"
 msgid "\"Now, was there anything else?\""
 msgstr ""
+"\"Takže, máte ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5351,6 +5501,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000001B1"
 msgid "\"Hmm...\" He raises an eyebrow, thinking it best to let you make the next move."
 msgstr ""
+"\"Hmm...\" Zvedne obočí a usoudí, že bude nejlepší nechat tě udělat další krok."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5359,6 +5510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000054B"
 msgid "\"There will be a blood-letting of unimaginable proportions. Un-imaginable.\""
 msgstr ""
+"\"Dojde ke krveprolití nepředstavitelných rozměrů. Ne-představitelných.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5367,6 +5519,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000683"
 msgid "\"You're right. I am a super-predator. Off leash like this... it's about to get very violent.\""
 msgstr ""
+"\"Máte pravdu. Jsem superdravec. Takhle bez řetězu... to bude hodně násilné.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5440,6 +5593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000001D"
 msgid "He is glad and surprised to see an officer who can appreciate the less-than spectacular."
 msgstr ""
+"Je rád a překvapen, že vidí policistu, který dokáže ocenit i méně než velkolepé věci."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5448,6 +5602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000000F6"
 msgid "\"Good point. Martinaise is *famed* for its occult sex-murder rites. We'll get on it *immediately*.\""
 msgstr ""
+"\"Dobrý postřeh. Martinéza je *proslulá* svými okultními sexuálně-vražednými rituály. *Okamžitě* se do toho pustíme.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5573,6 +5728,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040000934A"
 msgid "\"I've considered it.\" His voice is sombre."
 msgstr ""
+"\"Uvažoval jsem o tom.\" Jeho hlas je pochmurný."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5581,6 +5737,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000096F3"
 msgid "\"It doesn't *have* to be a cult. It can just be sex-murder.\""
 msgstr ""
+"\"*Nemusí* to být sekta. Může to být prostě sexuální vražda.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5615,6 +5772,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008487"
 msgid "From an imaginary fan."
 msgstr ""
+"Z imaginárního větráku."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5673,6 +5831,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000109"
 msgid "\"So you volunteered to spoil it.\""
 msgstr ""
+"\"Tak jste se dobrovolně nabídl, že to zkazíte.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5697,6 +5856,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000573"
 msgid "\"Oh no, it's very imaginable. We fail to place responsibility for the hanging, the harbour company see the situation is out of control so they bring in private military, maybe a gunship, the Union responds in strength. Automatic fire.\""
 msgstr ""
+"\"Ale ne, je to velmi představitelné. Nedokážeme určit něčí odpovědnost za oběšení, přístavní společnost uvidí, že se situace vymyká kontrole, a tak přivolá soukromou armádu, možná i dělovou loď, Odbory odpoví silou. Automatickými zbraněmi.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5705,6 +5865,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000598"
 msgid "\"Mambo -- I have a vivid interior. I *see* and *feel* things.\""
 msgstr ""
+"\"Mambo - mám živoucí nitro. *Vidím* a *cítím* věci.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5713,6 +5874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000005A4"
 msgid "\"I think I might have both Mambo *and* Jambo -- I imagine strange things and get cold chills too.\""
 msgstr ""
+"\"Myslím, že mám Mambo *i* Džambo - představuju si divné věci a taky mívám mrazení.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5721,6 +5883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000005B4"
 msgid "\"Hangovers do give officers super-powers. Many drink only to receive *the gift*.\""
 msgstr ""
+"\"Kocovina dává policistům superschopnosti. Mnozí pijí jen proto, aby získali *dar*.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5793,6 +5956,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000AE6"
 msgid "\"So you're saying I didn't kill him?\""
 msgstr ""
+"\"Takže říkáte, že jsem ho nezabil?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5801,6 +5965,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000000CF"
 msgid "\"Now, was there anything else you wanted to know about the case?\""
 msgstr ""
+"\"Takže, chtěl jste o tom případu vědět ještě něco?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5845,6 +6010,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000677"
 msgid "Silently scream for help."
 msgstr ""
+"Tiše zakřič o pomoc."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5853,6 +6019,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000067E"
 msgid "Accept your thralldom."
 msgstr ""
+"Přijmi své otroctví."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -5911,6 +6078,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008CE6"
 msgid "\"White male in his forties -- what more do you need?\""
 msgstr ""
+"\"Bílý čtyřicátník - co víc potřebujete?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6047,7 +6215,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600018EBC"
 msgid "\"Are they? They're mostly just cumbersome.\""
 msgstr ""
-"\"Opravdu? Většinou jsou jen těžkopádné.\""
+"\"Opravdu? Většinou jsou jen na obtíž.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6097,6 +6265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000457"
 msgid "\"Yes, a joke. In truth I will only moderately humiliate and outperform you.\""
 msgstr ""
+"\"Ano, vtip. Ve skutečnosti vás jen mírně ponížím a překonám.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6113,6 +6282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002700000559"
 msgid "\"You know, actually no. I'm not an augury. I don't why I said that.\""
 msgstr ""
+"\"Víte, vlastně ne. Nejsem předzvěst. Nevím, proč jsem to řekl.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6121,6 +6291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000270000059E"
 msgid "\"Jambo -- I get these strange *shivers* from being hung over. Just before, a chill whisked down my back.\""
 msgstr ""
+"\"Džambo - mám takové podivné *mrazení* z toho, že mám kocovinu. Těsně předtím mi přeběhl mráz po zádech.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6178,6 +6349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000420"
 msgid "\"I know exactly what you mean.\""
 msgstr ""
+"\"Vím přesně, jak to myslíte.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6204,6 +6376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000940000068C"
 msgid "Fortunately he is a committed officer of the RCM. He'll only use his powers for the good of the investigation."
 msgstr ""
+"Naštěstí je oddaným příslušníkem ROM. Své moci využije jen pro dobro vyšetřování."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6254,6 +6427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400008F40"
 msgid "\"Focus on *other* people's troubles. Not your own. That is the relief.\""
 msgstr ""
+"\"Soustřeďte se na problémy *jiných* lidí. Ne na své vlastní. To vám dá úlevu.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6270,6 +6444,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000096BF"
 msgid "\"As you know, there was considerable interest in this case at my station, but probably not for the reasons you have in mind...\""
 msgstr ""
+"\"Jak víte, na mé stanici byl o tento případ značný zájem, ale pravděpodobně ne z důvodů, které máte na mysli...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6278,6 +6453,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000096F9"
 msgid "\"Wow, really? That's *mega* sexy!\""
 msgstr ""
+"\"Páni, vážně? To je *mega* sexy!\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6321,6 +6497,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000846C"
 msgid "You feel something... rising through you -- a familiar feeling. AN OPINION taking form..."
 msgstr ""
+"Cítíš, jak v tobě něco... stoupá - známý pocit. NÁZOR, který se formuje..."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6354,6 +6531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016946"
 msgid "\"Do you really see me as a safe bet?\""
 msgstr ""
+"\"Opravdu mě považujete za bezpečnou sázku?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6395,6 +6573,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000027000004A1"
 msgid "Still, against his better judgement, this made him think just a little bit less of you"
 msgstr ""
+"Přesto, navzdory jeho lepšímu úsudku, ho to přimělo myslet si jen o trochu méně o tobě."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6411,6 +6590,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000066000003FC"
 msgid "\"That's right.\""
 msgstr ""
+"\"Přesně tak.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6419,6 +6599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000991"
 msgid "Are you sure you would have had the strength to take down a hardened mercenary? You're not in the best shape."
 msgstr ""
+"Jsi si jistý, že bys měl dost síly na to, abys sejmul otrlého žoldáka? Nejsi v nejlepší kondici."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6444,6 +6625,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009400000426"
 msgid "\"I have no idea what you mean.\""
 msgstr ""
+"\"Nemám ponětí, co tím myslíte.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6461,6 +6643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000005BD"
 msgid "This guy's got Authority off the charts. With just a flick of his eyebrow he's able to make you his thrall."
 msgstr ""
+"Tenhle chlapík má Autoritu mimo tabulky. Pouhým pohybem obočí si z tebe dokáže udělat svého otroka."
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -6478,6 +6661,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000094000008B9"
 msgid "\"Just because *your* precinct has a reputation for cracking skulls doesn't mean that's the *only* way to solve a case... Was there anything else?\""
 msgstr ""
+"\"To, že je *váš* okrsek pověstný rozbíjením lebek, neznamená, že je to jediný způsob, jak vyřešit případ... Máte ještě něco jiného?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
