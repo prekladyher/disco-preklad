@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -57,6 +65,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000834B"
 msgid "\"Have you ever seen a hornet invade a beehive, lieutenant?\" She leans back. \"It's not pretty.\""
 msgstr ""
+"\"Už jste někdy viděl, jak sršeň napadne včelí úl, poručíku?\" Nakloní se dozadu. \"Není to hezké.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -66,6 +75,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000834B"
 msgid "\"Have you ever seen a hornet invade a beehive, detective?\" She leans back. \"It's not pretty.\""
 msgstr ""
+"\"Už jste někdy viděl, jak sršeň napadne včelí úl, detektive?\" Nakloní se dozadu. \"Není to hezké.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -111,6 +121,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000127D7"
 msgid "One is obviously the *Scab Leader* -- at the harbour gates. The one chanting the idiotic slogans. He's barely maintaining his disguise."
 msgstr ""
+"Jedním z nich je zjevně *Vůdce stávkokazů* - u přístavní brány. Ten, který skanduje idiotská hesla. Jen tak tak neprozradí svůj převlek."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -129,6 +140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C33"
 msgid "\"One is a man, *Korty* they call him. A nickname as well. The other a woman, Phillis de Paule. Korty is... *the gunner,* I believe. De Paule is a radio operator.\""
 msgstr ""
+"\"Jeden je muž, říkají mu *Korty*. Asi taky přezdívka. Druhý je žena, Phillis de Paule. Korty je... *střelec*, myslím. De Paule je radistka.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -138,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C6B"
 msgid "\"He was forty. Or fifty. It's hard to say which, he had a combat injury on his lower jaw. It made it difficult to estimate his age, or gauge his facial expressions.\""
 msgstr ""
+"\"Bylo mu čtyřicet. Nebo padesát. Těžko říct, co z toho, měl zranění z boje na spodní čelisti. Kvůli tomu bylo těžké odhadnout jeho věk nebo odhadnout výraz jeho tváře.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -147,6 +160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006CDE"
 msgid "\"I know the woman you're talking about. We have it under control.\""
 msgstr ""
+"\"Vím, o které ženě mluvíte. Máme to pod kontrolou.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -174,6 +188,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082B7"
 msgid "\"The story is, one of them, the colonel -- I don't know his real name -- sexually assaulted a local woman. While he was drunk and separated from his unit. This allowed some of the more militant Union members to subdue him.\""
 msgstr ""
+"\"Vypráví se, že jeden z nich, plukovník - neznám jeho pravé jméno - sexuálně napadl místní ženu. Když byl opilý a oddělený od své jednotky. To umožnilo některým bojovnějším členům Odborů, aby ho zkrotili.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -246,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008859"
 msgid "\"You're likely to run into them eventually. When that happens, I'll be in a better position to mediate if I don't appear *involved*.\""
 msgstr ""
+"\"Pravděpodobně na ně nakonec narazíte. Až se to stane, budu mít lepší pozici pro zprostředkování, když nebudu vypadat *zainteresovaná*.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -273,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012827"
 msgid "\"That *would* afford a good vantage point.\" She nods, poised and unperturbed. \"*Still* -- I hope you heed my advice. There's no need to kick the hornet's nest.\""
 msgstr ""
+"\"To by *bylo* dobré pozorovací stanoviště.\" Přikývne, vyrovnaně a nevzrušeně. \"Přesto doufám, že dáte na mou radu. Není třeba kopat do vosího hnízda.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -282,6 +299,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012879"
 msgid "\"I hope I can answer it better.\""
 msgstr ""
+"\"Doufám, že na tu dokážu odpovědět lépe.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -309,6 +327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C84"
 msgid "The lieutenant was testing her -- asking a small detail first to see if she knew him better than she let on. She passed."
 msgstr ""
+"Poručík ji zkoušel - nejprve se zeptal na drobnost, aby zjistil, jestli ho zná lépe, než dává najevo. Prošla."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -318,6 +337,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006C82"
 msgid "\"This does not come as news to us, but still...\" He exchanges a glance with you. \"To *your* knowledge, where did this assault take place? If you know.\""
 msgstr ""
+"\"To pro nás není žádná novinka, ale přesto...\" Vymění si s tebou pohled. \"Pokud je *vám* to známo, kde k tomu útoku došlo? Pokud to víte.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -327,6 +347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000081EC"
 msgid "\"Yes. I'm afraid this strike may descend into a small scale civil war. With possible consequences for all of Revachol West.\""
 msgstr ""
+"\"Ano. Obávám se, že se tato stávka může zvrhnout v malou občanskou válku. S možnými následky pro celý Revachol Západ.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -345,6 +366,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000825A"
 msgid "\"*Every worker*...\""
 msgstr ""
+"\"*Každý dělnék*...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -390,6 +412,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000127E4"
 msgid "The other has a vantage point in a building South of the roundabout -- they were keeping tabs on you while you were canvassing the lorry drivers."
 msgstr ""
+"Druhý má pozorovací stanoviště v budově jižně od kruhového objezdu - sledovali tě, když jsi obcházel řidiče kamionů."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -399,6 +422,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012850"
 msgid "\"For all your talk of averting this catastrophe, the situation at the gates is a powder keg. Does this not bother you?\""
 msgstr ""
+"\"Přes všechny vaše řeči o odvrácení katastrofy je situace u brány jako sud střelného prachu. Neznepokojuje vás to?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -408,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001285C"
 msgid "\"One is probably in a building overlooking the roundabout.\""
 msgstr ""
+"\"Jeden je pravděpodobně v budově s výhledem na kruhový objezd.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -426,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C5D"
 msgid "\"I can't remember.\" There's a pang of regret to her voice."
 msgstr ""
+"\"Nevzpomínám si.\" V jejím hlase zazní lítost."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -444,6 +470,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000814F"
 msgid "\"That's enough for now.\" (Conclude.)"
 msgstr ""
+"\"To mi prozatím stačí.\" (Uzavři to.)"
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -480,6 +507,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000861E"
 msgid "\"Too many things have *already* gone wrong.\" She looks to you, eyes damp from the wind."
 msgstr ""
+"\"Příliš mnoho věcí se už pokazilo.\" Podívá se na tebe, oči vlhké od větru."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -489,6 +517,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000861E"
 msgid "\"Too many things have *already* gone wrong.\" She looks at you, eyes damp from the wind. \"Lieutenant Double-Yefreitor Du Bois...\""
 msgstr ""
+"\"Příliš mnoho věcí se už pokazilo.\" Podívá se na tebe, oči vlhké od větru. \"Poručíku dvojnásobný jefrejtore Du Bois...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -498,6 +527,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000450000861E"
 msgid "\"Too many things have *already* gone wrong.\" She looks to you, eyes damp from the wind. \"Nameless, badge-less detective of the Citizens Militia...\" "
 msgstr ""
+"\"Příliš mnoho věcí se už pokazilo.\" Podívá se na tebe, oči vlhké od větru. \"Bezejmenný detektive občanské milice bez průkazu...\" "
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -507,6 +537,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087E9"
 msgid "\"They don't have the same respect for the Revachol Citizens Militia as I do. To put it bluntly they think you're vigilantes, *ghetto savages*. It will not be a fruitful meeting.\""
 msgstr ""
+"\"Nemají stejnou úctu k Revacholské občanské milici jako já. Na rovinu řečeno, považují vás za sousedskou hlídku, *divochy z ghetta*. Nebude to plodné setkání.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -516,6 +547,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012856"
 msgid "\"One must be the goon in ill-fitting work clothes by the harbour gates. The scab leader.\""
 msgstr ""
+"\"Jeden z nich musí být ta gorila ve špatně padnoucím pracovním oblečení u přístavní brány. Vůdce stávkokazů.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -543,6 +575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013A5C"
 msgid "\"Yes. All the good conflict corridors: Supramundi, Yeesut, the Semenese islands. Countries that don't have a good record reporting *atrocious* military conduct on their soil.\""
 msgstr ""
+"\"Ano. Všechny velké konfliktní koridory: Supramundi, Yeesut, Semenské ostrovy. Země, které nemají dobrou bilanci, hlásící *ohavné* vojenské chování na své půdě.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -561,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013BED"
 msgid "\"If you mean did I see him alive -- yes. But I did not *know* him.\""
 msgstr ""
+"\"Jestli myslíte, jestli jsem ho viděla živého - ano. Ale neznala jsem ho.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -570,6 +604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C49"
 msgid "The lieutenant cuts in: \"What would you say was his eye colour -- the deceased's?\""
 msgstr ""
+"Poručík se ozve: \"Jakou barvu očí měl podle vás zemřelý?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -579,6 +614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D48C"
 msgid "Down a deep, black well."
 msgstr ""
+"Do hluboké černé studny."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -597,6 +633,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000821A"
 msgid "\"Since you're sharing, ma'am -- this is also the RCM's worst case scenario.\""
 msgstr ""
+"\"Když už se o to dělíte, madam - tohle je také nejhorší scénář ROM.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -615,6 +652,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008673"
 msgid "\"It appears you've found it, yes. And I'm not happy for you.\""
 msgstr ""
+"\"Zdá se, že jste ho našel, ano. A já z vás nemám radost.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -642,6 +680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013A2E"
 msgid "\"They boast a long list of clients: Saint-Batiste, Welchman-Lorentz, Eendracht... A warning sign, however -- the operations concerned all take place in third- or fourth-world countries. Guarding facilities, escort missions, and such.\""
 msgstr ""
+"\"Mají dlouhý seznam klientů: Svatý-Batista, Welchman-Lorentz, Eendracht... Varovné znamení - všechny operace se odehrávají v zemích třetího nebo čtvrtého světa. Střežení objektů, eskortní mise a podobně.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -678,6 +717,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C1E"
 msgid "\"Lely. His service name, a nom de guerre most likely. He wouldn't divulge his full name. Only one of them did -- a bad sign if there ever was one.\""
 msgstr ""
+"\"Lely. Jeho služební jméno, nejspíš pseudonym. Své celé jméno nechtěl prozradit. To udělal jen jeden z nich - špatné znamení, pokud to vůbec nějaké bylo.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -696,6 +736,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082CD"
 msgid "\"He was taken out behind the Whirling-in-Rags and lynched. Last Sunday night.\""
 msgstr ""
+"\"Odvedli ho za V-Cárech-vířící a zlynčovali. Minulou neděli večer.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -705,6 +746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008327"
 msgid "\"If you don't pin this on someone *good* -- and do it *fast* -- they will identify and execute everyone present at the lynching. This, in turn, will force the Union to respond.\""
 msgstr ""
+"\"Pokud to nepřišijete někomu *dobrému* - a neuděláte to *rychle* - identifikují a popraví všechny přítomné při lynčování. To zase donutí reagovat Odbory.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -723,6 +765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008584"
 msgid "\"These men work in tandem using semi-and fully automatic firearms. Their armour is virtually impenetrable to muzzle-loaded weapons -- even *yours*. Most Union workers don't have guns at all...\""
 msgstr ""
+"\"Tito muži pracují v tandemu a používají poloautomatické a plně automatické střelné zbraně. Jejich pancíř je prakticky neproniknutelný pro zbraně nabíjené zepředu - dokonce i pro *vaše*. Většina dělníků z Odborů zbraně vůbec nemá...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -759,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087BA"
 msgid "\"What can you tell me about Krenel?\""
 msgstr ""
+"\"Co mi můžete říct o Krenelu?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -768,6 +812,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087DB"
 msgid "\"Do you know a lot about the inner workings of the RCM and the ICP, ma'am?\""
 msgstr ""
+"\"Víte toho hodně o vnitřním fungování ROM a IPM, madam?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -867,6 +912,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012898"
 msgid "\"Where is your radio, for contacting them -- if I may ask? Do you have an ear piece?\""
 msgstr ""
+"\"Kde máte vysílačku, abyste se s nimi mohla spojit - mohu-li se zeptat? Máte sluchátko?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -921,6 +967,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008268"
 msgid "\"*Every worker*...\""
 msgstr ""
+"\"*Každý dělník*...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -993,6 +1040,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013A3B"
 msgid "\"Meaning they're used to operating in war zones.\""
 msgstr ""
+"\"To znamená, že jsou zvyklí operovat ve válečných zónách.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1002,6 +1050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013A7F"
 msgid "\"Sadly -- no. Before this happened I had little interest in them. Now that I do -- I don't have the resources.\" She thinks."
 msgstr ""
+"\"Bohužel ne. Než se tohle stalo, moc jsem se o ně nezajímala. Teď, když ano - nemám na to prostředky.\" Zamyslí se."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1029,6 +1078,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000835C"
 msgid "\"It was the *Union* who strung him from that tree.\" A wave crashes against the side of her boat. \"My hope is that you provide a single, concrete suspect before Krenel indiscriminately pick theirs. Simply put...\" She grabs hold of the mainsail:"
 msgstr ""
+"\"Na ten strom ho pověsily *Odbory*.\" Vlna narazí do boku její lodi. \"Doufám, že zajistíte jediného konkrétního podezřelého, než si Krenel nevybíravě vybere toho svého. Jednoduše řečeno...\" Chytne se hlavní plachty:"
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1038,6 +1088,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000835C"
 msgid "\"It was the *Union* who strung him from that tree.\" A wave crashes against the side of her boat. \"My hope is that you provide a single, concrete suspect before Krenel indiscriminately pick theirs. Simply put...\" She leans against the wooden planks:\n"
 msgstr ""
+"\"Na ten strom ho pověsily *Odbory*.\" Vlna narazí do boku její lodi. \"Doufám, že zajistíte jediného konkrétního podezřelého, než si Krenel nevybíravě vybere toho svého. Jednoduše řečeno...\" Chytne se dřevěného obložení:\n"
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1119,6 +1170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013A76"
 msgid "\"Okay. Anything else you can tell me?\""
 msgstr ""
+"\"Dobře. Můžete mi říct ještě něco?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1128,6 +1180,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400013A76"
 msgid "\"Okay. Anything else you got on them?\""
 msgstr ""
+"\"Dobře. Máte na ně ještě něco?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1146,6 +1199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C64"
 msgid "\"That's alright, ma'am. Anything else -- nationality? What would you say was his age?\""
 msgstr ""
+"\"To je v pořádku, madam. Ještě něco - národnost? Jaký byl podle vás jeho věk?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1155,6 +1209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C78"
 msgid "\"Indeed. This matches the dental reconstruction we saw on the body,\" he says to you, then turns back to Joyce. \"What else? Nationality? Accent?\""
 msgstr ""
+"\"Vskutku. Tohle odpovídá rekonstrukci zubů, kterou jsme viděli na těle,\" řekne ti a pak se otočí zpátky k Joyce. \"Co dál? Národnost? Přízvuk?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1164,6 +1219,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000400013C78"
 msgid "\"This matches the dental reconstruction we saw on the body; and Klaasje also mentioned it I believe...\" he says to you, then turns back to Joyce. \"What else? Nationality? Accent?\""
 msgstr ""
+"\"Tohle odpovídá rekonstrukci zubů, kterou jsme viděli na těle, a Klaasje se o tom myslím také zmínila...\" řekne ti a pak se otočí zpátky k Joyce. \"Co ještě? Národnost? Přízvuk?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1173,6 +1229,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C8C"
 msgid "\"He was Occidental I think. Light brown hair, a mix accent. Oranjese, or Messinian maybe? His injury gave him an accent all his own...\""
 msgstr ""
+"\"Myslím, že byl z Okcidentu. Světle hnědé vlasy, smíšený přízvuk. Možná oranžský nebo messinský? Jeho zranění mu dalo vlastní přízvuk...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1209,6 +1266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008226"
 msgid "\"I have an indirect role to play, I'm sad to say. My employer experienced a *momentary lapse of faith* in me. In that moment they elected to deploy a private military contractor. As an *insurance* measure. They called it my 'security detail'.\""
 msgstr ""
+"\"Bohužel musím říct, že hraji nepřímou roli. Můj zaměstnavatel ke mně pocítil *chvilkovou ztrátu důvěry*. V tu chvíli se rozhodli nasadit soukromého vojenského dodavatele. Jako *pojistné* opatření. Říkali tomu mé \"ochranné opatření\".\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1218,6 +1276,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008245"
 msgid "\"They were dispatched after I relayed the Union's initial offer.\""
 msgstr ""
+"\"Byli vysláni poté, co jsem jim předala původní nabídku Odborů.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1227,6 +1286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082D4"
 msgid "\"What then?\""
 msgstr ""
+"\"Co pak?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1281,6 +1341,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C0F"
 msgid "\"His name was...\""
 msgstr ""
+"\"Jmenoval se...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1299,6 +1360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008238"
 msgid "\"A momentary lapse of faith?\""
 msgstr ""
+"\"Chvilkovou ztrátu důvěry?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1308,6 +1370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082C4"
 msgid "\"So what happened?\""
 msgstr ""
+"\"Tak co se stalo?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1317,6 +1380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000086C4"
 msgid "\"Where are the remaining two mercs now?\""
 msgstr ""
+"\"Kde jsou ti zbývající dva žoldáci teď?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1326,6 +1390,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087E2"
 msgid "\"They've gone to ground, as it were. I don't recommend seeking them out.\" She puts her foot on the guardwire, for balance. \"For one -- they're almost certainly armed to the teeth.\""
 msgstr ""
+"\"Takříkajíc se po nich slehla zem. Nedoporučuji je hledat.\" Položí nohu na strážní drát, aby udržela rovnováhu. \"Za prvé - jsou téměř jistě po zuby ozbrojení.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1335,6 +1400,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000045000087E2"
 msgid "\"They've gone to ground, as it were. I don't recommend seeking them out.\" She raises a cautionary finger. \"For one -- they're likely to be armed to the teeth...\""
 msgstr ""
+"\"Takříkajíc se po nich slehla zem. Nedoporučuji je hledat.\" Zvedne varovně prst. \"Za prvé - pravděpodobně budou po zuby ozbrojení...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1353,6 +1419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013B53"
 msgid "\"Who did the passing on then?\""
 msgstr ""
+"\"Kdo ji dal jim?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1398,6 +1465,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082B0"
 msgid "\"They wear ceramic armour, have semi-automatic weapons and years of combat experience. They also have Trauma-and-Stressor Disorder and no idea how to conduct themselves in an urban civilian environment.\""
 msgstr ""
+"\"Nosí keramické brnění, mají poloautomatické zbraně a dlouholeté bojové zkušenosti. Mají také traumatickou a stresovou poruchu a netuší, jak se chovat v městském civilním prostředí.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1434,6 +1502,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000086B0"
 msgid "\"I am sorry to have been the bearer of bad news. If there is anything else I can help you with, please ask.\""
 msgstr ""
+"\"Je mi líto, že jsem poslem špatných zpráv. Pokud vám mohu ještě s něčím pomoci, zeptejte se, prosím.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1443,6 +1512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087F0"
 msgid "Vigilantes? You're a professional officer of the only *legitimate* authority in Revachol."
 msgstr ""
+"Sousedská hlídka? Jsi profesionální důstojník jediné *legitimní* autority v Revacholu."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1497,6 +1567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C94"
 msgid "\"In a way it was humanizing. He had to learn to speak *through* it -- through the injury.\" She nods. \"That's all I know, I guess. I only met him once.\""
 msgstr ""
+"\"Svým způsobem to bylo polidšťující. Musel se naučit mluvit *skrze* to - skrze to zranění.\" Přikývne. \"To je asi všechno, co vím. Potkala jsem ho jen jednou.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1524,6 +1595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008270"
 msgid "\"Absolutely not. These mercenaries are muscle, pure and simple. They are meant to intimidate the Union into surrendering.\""
 msgstr ""
+"\"V žádném případě. Tihle žoldáci jsou prostě a jednoduše svaly. Mají Odbory zastrašit, aby se vzdaly.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1533,6 +1605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082FE"
 msgid "\"What is the nature of this so-called investigation?\""
 msgstr ""
+"\"Jaká je povaha toho takzvaného vyšetřování?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1569,6 +1642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012867"
 msgid "\"I had another question for you.\""
 msgstr ""
+"\"Mám na vás další otázku.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1578,6 +1652,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012873"
 msgid "\"That may be so.\" She is poised and unperturbed. \"I still hope you heed my advice -- there's no need to kick the hornet's nest.\""
 msgstr ""
+"\"To je možné.\" Je vyrovnaná a nevzrušená. \"Přesto doufám, že dáte na mou radu - není třeba kopat do vosího hnízda.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1596,6 +1671,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006C59"
 msgid "\"Could you contact the company? Tell them to call them off.\""
 msgstr ""
+"\"Mohla byste kontaktovat společnost? Říct jim, ať je odvolají.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1605,6 +1681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006CB9"
 msgid "\"Either way, he's alleged to have sexually assaulted a woman. Sometime later a group of dockworkers got their hands on him...\""
 msgstr ""
+"\"Tak či onak, údajně sexuálně napadl ženu. Někdy později si na něj došlápla skupina přístavních dělníků...\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1659,6 +1736,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000045000081E4"
 msgid "\"I've already heard about a connection between the lynching and strike, but I need your testimony.\""
 msgstr ""
+"\"Už jsem slyšel o souvislosti mezi lynčováním a stávkou, ale potřebuji vaše svědectví.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1740,6 +1818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004A58"
 msgid "\"*Krenel* -- an Oranjese military company. As far as I know three arrived in Martinaise. They report to me sporadically, but they do not answer to me. To be frank, our relationship is deteriorating.\""
 msgstr ""
+"\"*Krenel* - oranžská vojenská společnost. Pokud vím, do Martinézy dorazili tři. Hlásí se mi sporadicky, ale neodpovídají se mi. Upřímně řečeno, naše vztahy se zhoršují.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1758,6 +1837,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012770"
 msgid "Where *are* these mercenaries?"
 msgstr ""
+"Kde jsou ti žoldáci?"
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1776,6 +1856,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100007800012770"
 msgid "Scab Leader murder bad reply."
 msgstr ""
+"Špatné odpovědi vůdce stvavkokazů týkající se vraždy."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1785,6 +1866,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100007800012770"
 msgid "Clothes didn't fit right."
 msgstr ""
+"Oblečení nesedělo."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1794,6 +1876,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100007800012770"
 msgid "Scab Leader built like brick."
 msgstr ""
+"Vůdce stávkokazů vypadá jak almara."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1803,6 +1886,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100007800012770"
 msgid "Scab Leader bad acting."
 msgstr ""
+"Vůdce stávkokaazů je mizerný herec."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1830,6 +1914,7 @@ msgstr ""
 msgctxt "tooltip8/0x0100007800012770"
 msgid "Dresscode: Ceramic knight."
 msgstr ""
+"Styl oblečení: Keramický rytíř"
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1875,6 +1960,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000600006CC0"
 msgid "(Don't mention it.) \"And who was this woman?\""
 msgstr ""
+"(O tom se nezmiňuj.) \"A kdo byla ta žena?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1884,6 +1970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000823E"
 msgid "\"Do you need a security detail?\""
 msgstr ""
+"\"Potřebujete ochranné opatření?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1893,6 +1980,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008297"
 msgid "\"Who are they?\""
 msgstr ""
+"\"Kdo jsou?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1911,6 +1999,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008666"
 msgid "\"See, this is the Great Bloodletting I've been telling everyone about.\""
 msgstr ""
+"\"Vidíte, tohle je to Velké krveprolití, o kterém jsem všem vyprávěl.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -1992,6 +2081,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008D7D"
 msgid "\"Whatever I can help you with. We need to contain the situation.\""
 msgstr ""
+"\"Cokoli, s čím vám mohu pomoci. Musíme tu situaci zvládnout.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2001,6 +2091,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012883"
 msgid "\"That *would* afford a good vantage point,\" she says. \"In any case, it's practically inaccessible.\""
 msgstr ""
+"\"To by *bylo* dobré pozorovací stanoviště,\" řekne. \"Nicméně, je to prakticky nepřístupné.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2037,6 +2128,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013BC2"
 msgid "\"Last Sunday night, at the Whirling-in-Rags -- the hostel by the gates. Supposedly the colonel was drunk, maybe on narcotics too.\""
 msgstr ""
+"\"Minulou neděli v noci, ve V-Cárech-vířící - v hostelu u brány. Plukovník byl prý opilý, možná i pod vlivem drog.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2073,6 +2165,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000045000081DC"
 msgid "\"You said *contain the situation*?\""
 msgstr ""
+"\"Řekla jste *zvládnout situaci*?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2109,6 +2202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008831"
 msgid "\"Vigilantes? The RCM gets its authority from the Coalition. Where does theirs come from?\""
 msgstr ""
+"\"Sousedská hlídka? ROM má své pravomoci od Koalice. Odkud pochází ty jejich?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2118,6 +2212,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000887D"
 msgid "\"Somehow I doubt that lecturing them on the legitimate use of force will persuade them to stand down.\""
 msgstr ""
+"\"Nějak pochybuji, že je poučování o legitimitě použití síly přesvědčí, aby ustoupili.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2181,6 +2276,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002B26"
 msgid "\"Good. Then you've made progress. It's imperative that you move fast. The *tribunal* will not be patient.\""
 msgstr ""
+"\"Dobře. Tak to jste udělal pokrok. Je nutné, abyste postupoval rychle. *Tribunál* nebude trpělivý.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2190,6 +2286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013B4C"
 msgid "\"Or he *didn't*.\" She tilts her head. \"This is information passed on to me from some teenagers loitering around the canal. I cannot testify by it. \""
 msgstr ""
+"\"Nebo to *neudělal*.\" Nakloní hlavu. \"Tohle je informace, která se ke mně dostala od nějakých pubescentů potulujících se kolem kanálu. Nemohu ji ověřit. \""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2199,6 +2296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C25"
 msgid "\"Tell me about the others first.\""
 msgstr ""
+"\"Nejdřív mi řekněte o těch ostatních.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2208,6 +2306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013C52"
 msgid "She closes her eyes, trying to picture the man's face... then shakes her head..."
 msgstr ""
+"Zavře oči a snaží se představit si mužovu tvář... pak zavrtí hlavou..."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2217,6 +2316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006C73"
 msgid "\"The remaining contractors. Their *tribunal*. It's what they believe.\""
 msgstr ""
+"\"Zbývající kontraktoři. Jejich *tribunál*. To je to, čemu věří.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2226,6 +2326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006CC6"
 msgid "\"That's a good question, officer. I don't have the slightest idea. As I said, it's a rumour -- about a rumour. In any case, it's what the colonel's remaining... colleagues... believe.\""
 msgstr ""
+"\"To je dobrá otázka, detektive. Nemám nejmenší tušení. Jak jsem řekla, je to fáma - o fámě. Každopádně tomu věří plukovníkovi zbývající... kolegové.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2235,6 +2336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008291"
 msgid "\"Who are they, exactly?\""
 msgstr ""
+"\"Kdo to přesně je?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2244,6 +2346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082E2"
 msgid "\"It's a smokescreen. In secret, they are conducting an independent military tribunal into the lynching. Once this *investigation* is concluded, executions will follow.\""
 msgstr ""
+"\"Je to kouřová clona. V tajnosti vedou nezávislý vojenský tribunál, který se zabývá tím lynčováním. Jakmile bude tohle *vyšetřování* ukončeno, budou následovat popravy.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2253,6 +2356,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082E9"
 msgid "\"For now?\""
 msgstr ""
+"\"Prozatím?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2262,6 +2366,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000855E"
 msgid "The Union has over two thousand men."
 msgstr ""
+"Odbory mají přes dva tisíce mužů."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2271,6 +2376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000085B3"
 msgid "She is silent for a moment, then concludes: \"As I said -- a blood bath.\""
 msgstr ""
+"Chvíli mlčí a pak uzavře: \"Jak jsem řekla - krvavá lázeň.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2280,6 +2386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000860A"
 msgid "\"I can't see it happen. Too many things would have to go wrong first.\""
 msgstr ""
+"\"Nezdá se mi, že by se to stalo. Nejdřív by se muselo pokazit příliš mnoho věcí.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2289,6 +2396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008658"
 msgid "\"See, Kim. This is that Great Bloodletting I've been telling you about.\""
 msgstr ""
+"\"Vidíte, Kime. Tohle je to Velké krveprolití, o kterém jsem vám vyprávěl.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2298,6 +2406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087CF"
 msgid "\"If you still have access to the ICP's database, you could run a better background check than I ever could. It may take some time, though...\" She thinks."
 msgstr ""
+"\"Jestli máte stále přístup do databáze IPM, mohl byste prověřit jejicho minulost lépe než já. Může to ale chvíli trvat...\" Přemýšlí."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2325,6 +2434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013A20"
 msgid "\"Not much. Their public resume is relatively good -- as far as private military contractors go. I believe they were once called... Downwell.\""
 msgstr ""
+"\"Nic moc. Jejich veřejný obraz je relativně dobrý - aspoň pokud jde o soukromé vojenské kontraktory. Myslím, že se jim kdysi říkalo... Dostudny.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2361,6 +2471,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600006C5F"
 msgid "\"I have. And they *will*. However, these orders take time to reach what is basically a rogue unit out in the field, here. Until they do -- it's all on us.\""
 msgstr ""
+"\"To dělám. A oni je *odvolají*. Nicméně trvá nějakou dobu, než se ty rozkazy dostanou k jednotce, která je v podstatě v utajení v terénu. Než se tak stane, je to všechno na nás.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2397,6 +2508,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008305"
 msgid "\"Whether to execute one, some, or all of the Union militants.\""
 msgstr ""
+"\"Zda popravit jednoho, některé nebo všechny bojovné odboráře.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2406,6 +2518,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008319"
 msgid "\"You've made a mess here.\""
 msgstr ""
+"\"Nadělali jste tu zmatky.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2415,6 +2528,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000086CA"
 msgid "\"This *colonel*, the one who was hanged -- did you know him?\""
 msgstr ""
+"\"Ten *plukovník*, ten, co ho oběsili - znala jste ho?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2424,6 +2538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087C8"
 msgid "\"How much time do we have?\""
 msgstr ""
+"\"Kolik máme času?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2442,6 +2557,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004500008805"
 msgid "\"We still need to know where they are.\""
 msgstr ""
+"\"Stále potřebujeme vědět, kde jsou.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2496,6 +2612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008A23"
 msgid "\"Until the executions start? Truthfully -- I don't know. It depends on their progress identifying the members of the lynch mob. And their impatience.\""
 msgstr ""
+"\"Dokud nezačnou popravy? Popravdě řečeno - nevím. Záleží na tom, jak se jim podaří identifikovat členy lynčující bandy. A na jejich netrpělivosti.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2532,6 +2649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013B13"
 msgid "\"In my line of work it pays to do your research. I was prepared to deal with the RCM. I did *not* think I would be dealing with a group like *Krenel*.\""
 msgstr ""
+"\"V mém oboru se vyplatí dělat si průzkum. Na jednání s ROM jsem byla připravena. Nenapadlo mě, že budu mít co do činění se skupinou, jako je *Krenel*.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2568,6 +2686,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008343"
 msgid "They would have to. To project strength and power."
 msgstr ""
+"Museli by. Aby ukázali sílu a moc."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2613,6 +2732,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000087C1"
 msgid "\"You said the deceased assaulted a woman?\""
 msgstr ""
+"\"Říkala jste, že zesnulý napadl nějakou ženu?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2676,6 +2796,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001289E"
 msgid "\"Of course it bothers me, lieutenant, but my hands are tied. How would my employer react if it appeared I were intervening on behalf of the *Union*?\""
 msgstr ""
+"\"Samozřejmě, že mě to znepokojuje, poručíku, ale mám svázané ruce. Jak by reagoval můj zaměstnavatel, kdyby se ukázalo, že zasahuji ve prospěch *Odborů*?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2694,6 +2815,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013B84"
 msgid "\"That the man was killed because he assaulted a local woman. I've asked around a bit -- this seems to be the accepted story around Martinaise.\""
 msgstr ""
+"\"Že ten muž byl zabit, protože napadl místní ženu. Trochu jsem se na to vyptávala - zdá se, že to je v okolí Martinézy všeobecně přijímaná verze.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2703,6 +2825,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000110000186C"
 msgid "Five days. Not more. Maybe sooner."
 msgstr ""
+"Pět dní. Víc ne. Možná dřív."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2712,6 +2835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000827B"
 msgid "\"'Every worker a member of the board'. I tried to convince my employer it was simply a piece of rhetoric and not a serious demand. But the... *stridency* of it seems to have spooked them.\""
 msgstr ""
+"\"Každý dělník bude členem správní rady\". Snažila jsem se zaměstnavatele přesvědčit, že je to jen rétorika, a ne vážně míněný požadavek. Ale ta... *ostrost* je zdá se vyděsila.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2721,6 +2845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000833C"
 msgid "\"The Débardeurs have over two thousand men. It will be a thousand to one.\""
 msgstr ""
+"\"Dokaři mají přes dva tisíce mužů. Bude to tisíc ku jedné.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2757,6 +2882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008A30"
 msgid "\"They don't report their progress to you?\""
 msgstr ""
+"\"Nehlásí vám své pokroky?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2766,6 +2892,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500008A37"
 msgid "\"Not on this matter. I'm afraid they consider this a personal initiative.\" There is a brief silence. Seagulls squawk over the bay..."
 msgstr ""
+"\"V této věci ne. Obávám se, že to považují za osobní iniciativu.\" Nastane krátké ticho. Nad zátokou se rozléhá skřehotání racků..."
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2793,6 +2920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400013B59"
 msgid "\"What did these teenagers by the canal say?\""
 msgstr ""
+"\"Co říkali ti pubescenti od kanálu?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2856,6 +2984,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000045000082DB"
 msgid "\"Nothing. Mr. Claire refuses to let me into the harbour. I have not been able to discuss this matter with anyone there. The remaining two Krenel contractors carry out their orders -- for now.\""
 msgstr ""
+"\"Nic. Pan Jasný mě odmítá pustit do přístavu. S nikým jsem tam o této záležitosti nemohla mluvit. Zbývající dva kontraktoři Krenelu plní své rozkazy - prozatím.\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2892,6 +3021,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000219F"
 msgid "\"Did you miss the part about *ceramic armour* and *automatic weapons*, detective?\""
 msgstr ""
+"\"Unikla vám ta část o *keramickém brnění* a *automatických zbraních*, detektive?\""
 
 #. Title = PIER / JOYCE LYNCHING AND TATTOOS
 #. Description = The lynching hub
@@ -2919,3 +3049,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012892"
 msgid "\"Heavens no, I'm not an undercover agent. There's a shortwave at the ship's wheel,\" she nods toward the sloop's cabin."
 msgstr ""
+"\"Proboha ne, nejsem tajný agent. U kormidla lodi je krátkovlnná stanice,\" kývne směrem ke kajutě šalupy."
