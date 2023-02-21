@@ -16,19 +16,6 @@
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="(Her Innocence) Dolores Dei">
-        <descrip type="definition">[OK] [aA] jedna z Neposkvrněných, hlavní postava doloriánství</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>(Her Innocence) Dolores Dei</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>(Její Neposkvrněnost) Dolores Božská</term>
-          </tig>
-        </langSet>
-      </termEntry>
       <termEntry id="(Opt in.)">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -524,7 +511,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Charles Villedroiun">
-        <descrip type="definition">[aA] [VYKAT] Nedělní přítel</descrip>
+        <descrip type="definition">[OK] [aA] [VYKAT] Nedělní přítel</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Charles Villedroiun</term>
@@ -1499,6 +1486,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="Her Innocence Dolores Dei">
+        <descrip type="definition">[OK] [aA] jedna z Neposkvrněných, hlavní postava doloriánství</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Her Innocence Dolores Dei</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Její Neposkvrněnost Dolores Božská</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Herald of Destruction">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
@@ -1808,6 +1808,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>izola</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Jamrock">
+        <descrip type="definition">[OK] [aA] městská čás Revacholu</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Jamrock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Šprajcl</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3263,7 +3276,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Ulice svatého Gisléna</term>
+            <term>ulice Svaté Gislény</term>
           </tig>
         </langSet>
       </termEntry>
@@ -3758,6 +3771,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Tabernáklová ulice</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Tabernacle Road">
+        <descrip type="definition">[aA] </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tabernacle Road</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Svatostánková ulice</term>
           </tig>
         </langSet>
       </termEntry>
