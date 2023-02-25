@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5D0"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000B0E"
 msgid "\"Hey, where is your mom?\""
 msgstr ""
+"\"Hej, kde máte mamku?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000B21"
 msgid "\"Kids, have you seen any bad people around?\""
 msgstr ""
+"\"Děcka, neviděli jste v okolí nějaké zlé lidi?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BCBA"
 msgid "The boy doesn't answer. His brother throws another rock. Both of their hair is covered in some kind of dirt."
 msgstr ""
+"Chlapec neodpovídá. Jeho bratr hodí další kámen. Vlasy obou z nich jsou pokryté jakousi špínou."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDEA"
 msgid "\"I...\" starts one of them -- it's hard to tell which one now. \"I don't know.\""
 msgstr ""
+"\"Já...\" začne jeden z nich - je těžké říct, který. \"Já nevím.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001145"
 msgid "\"Full circle.\" The lieutenant smiles to himself. \"Back to Feld, then. When you're ready.\""
 msgstr ""
+"\"Kruh se uzavřel.\" Poručík se pro sebe usměje. \"Vraťme se tedy k Feldu. Až budete připraven.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B00001145"
 msgid "\"Points back to Feld.\" The lieutenant frowns slightly at the building, towering ominously. \"Be sure you're ready when we go in, detective.\""
 msgstr ""
+"\"Poukazuje to na Feld.\" Poručík se mírně zamračí na zlověstně se tyčící budovu. \"Ujistěte se, že jste řádně připravený, až půjdeme dovnitř, detektive.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000270E"
 msgid "\"Bad words,\" the other says, nodding absent-mindedly. \"Bad, bad words...\""
 msgstr ""
+"\"Fuj slova,\" řekne ten druhý a nepřítomně přikývne. \"Fuj, fuj slova...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0001016A"
 msgid "\"I dunno what you're talking about,\" the other kid nods along."
 msgstr ""
+"\"Nevím, o čem to mluvíte,\" pokývne i druhé dítě."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EE24"
 msgid "\"Lights? Fire guy?\" The lieutenant looks at you. \"We should check up on that island and you...\""
 msgstr ""
+"\"Světla? Ohnivec?\" Poručík na tebe pohlédne. \"Měli bychom se podívat na ten ostrov a vy...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC7C"
 msgid "I don't care."
 msgstr ""
+"Je mi to jedno."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD2E"
 msgid "\"You're stupid,\" the other one repeats, still deathly serious."
 msgstr ""
+"\"Ty seš blbej,\" zopakuje ten druhý, stále smrtelně vážný."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD50"
 msgid "\"Okay kids. You've been to that island, right?\""
 msgstr ""
+"\"Dobře, děcka. Byli jste na tom ostrově, že ano?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BE4A"
 msgid "\"Let's go with *yes*.\" The lieutenant raises his eyebrows and whips out his notebook."
 msgstr ""
+"\"Řekněme, že *ano*.\" Poručík pozvedne obočí a vytáhne svůj zápisník."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEB1"
 msgid "\"Don't say that. He didn't.\" His brother punches him. The boy's eyes well up like he's about to start crying."
 msgstr ""
+"\"To neříkej. On se nezabil.\" Jeho bratrh ho uhodí. Chlapcovy oči se zalévají slzami, jako by měl začít brečet."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF03"
 msgid "\"I don't know...\" The boy who made the claim finds himself unsure of it. He looks around."
 msgstr ""
+"\"Já nevím...\" Chlapec, který to prohlásil, se zdá být najednou nejistý. Rozhlédne se."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BFDA"
 msgid "\"Lights? Fire guy?\" The lieutenant looks at you. \"We should check up on that island.\""
 msgstr ""
+"\"Světla? Ohnivec?\" Poručík na tebe pohlédne. \"Měli bychom se podívat na ten ostrov.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00000FE5"
 msgid "\"Hey, boys. Your sister told me you got in trouble for saying bad words.\""
 msgstr ""
+"\"Hej, hoši. Vaše sestra mi řekla, že jste se dostali do průseru, protože jste říkali fuj slova.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001035"
 msgid "The lieutenant is deeply unimpressed."
 msgstr ""
+"Poručíka to zřejmě hluboce nezaujalo."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001071"
 msgid "\"Let's move on. Where did you hear the bad words -- was it from someone on the coast? The radio?\""
 msgstr ""
+"\"Pojďme dál. Kde jste ta fuj slova slyšeli - u někoho z pobřeží? Z rádia?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001089"
 msgid "\"Nah. I just thought it was funny to say.\""
 msgstr ""
+"\"Ne-e. Jen jsem si říkal, že to zní srandovně.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001100"
 msgid "\"Okay kids, tell Kim here what happened with the voices.\""
 msgstr ""
+"\"Dobře, děcka, řekněte Kimovi, jak to bylo s těmi hlasy.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001105"
 msgid "\"The one we heard say a bad word?\" The boy shrugs. \"Okay. The voices were like...\" He scratches his head -- then seems to remember."
 msgstr ""
+"\"Ten, který jsme slyšeli, říkal fuj slova?\" Hoch pokrčí rameny. \"Dobře. Ty hlasy byly takový, že...\" Poškrábe se na hlavě - a pak vypadá, že si vzpomněl."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -178,6 +209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5C3"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -185,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EE14"
 msgid "A dull pain flashes through your mind."
 msgstr ""
+"Tvou myslí proběhne tupá bolest."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -192,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC26"
 msgid "\"You guys look identical.\""
 msgstr ""
+"\"Vy hoši vypadáte identičtí.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -199,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC2C"
 msgid "\"Children are stupid.\""
 msgstr ""
+"\"Děcka jsou pitomá.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -206,6 +241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD57"
 msgid "\"On that island?\" The one who's busy kicking his stone points to the bay."
 msgstr ""
+"\"Na tom ostrově?\" Ten, který je zaneprázdněn kopáním do svého kamene, ukáže do zátoky."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -213,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDA6"
 msgid "\"Why does he ask you to put the fire out?\""
 msgstr ""
+"\"Proč po vás chce, abyste uhasili váš oheň?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -220,6 +257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEFC"
 msgid "\"I'm sorry.\" The one says to the other, rubbing his brother's shoulder affectionately."
 msgstr ""
+"\"Promiň.\" Řekne jeden druhému a láskyplně podrbe svého bratra po rameni."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -227,6 +265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF99"
 msgid "\"I don't know,\" they say almost in unison."
 msgstr ""
+"\"Já nevím,\" řeknou oba dva téměř zároveň."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -234,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BFC7"
 msgid "\"Don't say that, he's a *po-leees oooffi-ser*,\" his brother whispers."
 msgstr ""
+"\"Neříkej to, on je *po-li-cej-ní důůůstojnííík* zašeptá jeho bratr."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -241,6 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000105D"
 msgid "\"We won't,\" the little boy says. He adjusts his cap in the cool air."
 msgstr ""
+"\"Nebudem,\" řekne hošík. V chladném vzduchu si upraví čepici."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -248,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001062"
 msgid "\"We learned,\" the other replies."
 msgstr ""
+"\"Poučili jsme se,\" odpoví ten druhý."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -262,6 +304,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002770"
 msgid "COME ON BOYS, YOU CAN DO IT!"
 msgstr ""
+"NO TÁK HOŠI, VY TO DOKÁŽETE!"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -269,6 +312,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000661E"
 msgid "It's a purposefully shrill laugh. Like he's practised it for the express purpose of annoying people."
 msgstr ""
+"Je to záměrně ječivý smích. Jako by jej cvičil za účelem otravování lidí."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -276,6 +320,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5DC"
 msgid "It doesn't look like he knows what that means."
 msgstr ""
+"Nevypadá, že by věděl, co to znamená."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -283,6 +328,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5EB"
 msgid "\"Okay.\""
 msgstr ""
+"\"Dobře.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -290,6 +336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDA0"
 msgid "\"Because he asks to put the fire out!\" the other explains."
 msgstr ""
+"\"Protože on po nás chce, abysme uhasili oheň!\" vysvětlí ten druhý."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -297,6 +344,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDCE"
 msgid "The scruffy-haired little boy kicks a stone while the other watches him do it."
 msgstr ""
+"Střapatý hošík nakopává kámen, zatímco jej ten druhý při tom sleduje."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -304,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEEE"
 msgid "\"There's a...\" the boy says, rubbing his eyes. It's clear that he has no intention of finishing the sentence."
 msgstr ""
+"\"Je tam...\" řekne hoch, protírajíc si oči. Je jasné, že nemá v úmyslu větu dokončit."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -311,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001044"
 msgid "Why does he have to be such a binoclard? It's just a funny word!"
 msgstr ""
+"Proč musí pořád být takový brejlotard? Je to jen srandovní slovo!"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -318,6 +368,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000109D"
 msgid "\"We just heard funny voices.\" The boy shrugs. His jacket whispers as his shoulders move."
 msgstr ""
+"\"Jen jsme slyšeli legrační hlasy.\" Hoch pokrčí rameny. Jeho bunda při pohybu šustí."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -325,6 +376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00010162"
 msgid "\"He dunno what you're talking about,\" the first kid says loudly. Or you think it's the first kid -- it could be the second."
 msgstr ""
+"\"On neví, o čem to mluvíte,\" řekne první dítě nahlas. Nebo si aspoň myslíš, že jde o první dítě - mohlo by to být to druhé."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -332,6 +384,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EE3D"
 msgid "I'm not telling you twice."
 msgstr ""
+"Nebudu ti to opakovat."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -339,6 +392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC20"
 msgid "\"You must be Lilienne's twins.\""
 msgstr ""
+"\"Vy musíte být Lilianina dvojčata.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -346,6 +400,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BCB3"
 msgid "\"Bye.\" [Leave.]"
 msgstr ""
+"\"Mějte se.\" [Odejdi.]"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -353,6 +408,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BCFD"
 msgid "\"I'm just gonna leave now. I'm gonna leave and not talk to you anymore.\" [Leave.]"
 msgstr ""
+"\"Já teď prostě odejdu. Odejdu, a už s vámi nikdy nebudu mluvit.\" [Odejdi.]"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -360,6 +416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD0C"
 msgid "Just a second ago, the first one was laughing. Now he's doing something with his lip and his gap tooth."
 msgstr ""
+"Jen před sekundou se ten první smál. A teď dělá cosi se svými rty a dírou po zubu."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -367,6 +424,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD7A"
 msgid "\"Yes.\" His brother looks at him, then at you."
 msgstr ""
+"\"Ano.\" Jeho bratr pohlédne na něj, pak na tebe."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -374,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD86"
 msgid "\"And! And!\" the other one butts in. \"We make a fire. We make a... we make a fire.\""
 msgstr ""
+"\"A! A!\" Skočí mu ten druhý do řeči. \"Děláme oheň. Děláme... děláme oheň.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -381,6 +440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BE8D"
 msgid "\"Okay, how about the policeman asks you something else now?\""
 msgstr ""
+"\"Dobře, co kdyby se vás teď policajt zeptal na něco jiného?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -388,6 +448,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00000FF4"
 msgid "\"Uhm...\" The boy turns a rock over in his hand. \"We heard *bad* words and said them, and got in trouble...\""
 msgstr ""
+"\"Ehm...\" Chlapec obrátí kámen v ruce. \"Slyšeli jsme *fuj* slova a pak je říkali, a měli problém...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -395,6 +456,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000101C"
 msgid "The boy blinks. \"Fffff....\" Despite his efforts, the unfamiliar word catches in his mouth."
 msgstr ""
+"Chlapec zamrká. \"Pffrr....\" Přes všechnu snahu se mu to nepovědomé slovo zadrhne v ústech."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -402,6 +464,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001058"
 msgid "\"Bad words are bad. Don't say them, kids. It's a first step to a life of crime.\""
 msgstr ""
+"\"Fuj slova jsou špatná. Děcka, neříkejte je. Jsou prvním krokem na cestě k šibenici.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -409,6 +472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002616"
 msgid "The boy draws a jagged rock across the ground. It leaves a white scratch."
 msgstr ""
+"Hoch přejede ostrým kamenem po zemi. Zanechá bílý škrábanec."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -416,6 +480,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000026B3"
 msgid "\"Sure. But what words did you hear?\""
 msgstr ""
+"\"Jasně. Ale co za slova jste slyšeli?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -423,6 +488,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002B55"
 msgid "Why does he have to be such a binoclard? It's just a funny word!"
 msgstr ""
+"Proč musí být takový brejlotard? Je to jen srandovní slovo!"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -430,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00010125"
 msgid "\"I heard you kids sometimes play in the abandoned Feld building?\""
 msgstr ""
+"\"Slyšel jsem, že si občas hrajete v opuštěné budově Feld?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -437,6 +504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00010154"
 msgid "\"Do *you* know what I'm talking about?\""
 msgstr ""
+"\"Víte *vy*, o čem mluvím?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -444,6 +512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100006626"
 msgid "Are there actually two of them? Are you sure you're not just hallucinating or seeing double?"
 msgstr ""
+"Opravdu jsou dva? Jsi si jistý, že nevidíš dvojmo nebo nemáš halucinace?"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -451,6 +520,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100006660"
 msgid "It looks like he's *sad*. Because you're going or... who knows, really?"
 msgstr ""
+"Zdá se, že je *smutný*. Protože ty jdeš nebo... kdo vlastně ví?"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -458,6 +528,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5CA"
 msgid "\"Yes?\""
 msgstr ""
+"\"Ano?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -465,6 +536,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C8F8"
 msgid "Wow, so intellectually stimulating."
 msgstr ""
+"Jé, to je tak úžasně intelektuálně stimulační."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -472,6 +544,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD94"
 msgid "\"Why is he the *fire* guy?\""
 msgstr ""
+"\"Proč mu říkáte *ohnivec*?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -479,6 +552,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF92"
 msgid "\"Anything else? What does this guy look like?\""
 msgstr ""
+"\"Ještě něco? Jak ten týpek vypadá?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -486,6 +560,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001093"
 msgid "don't know why it's funny...\" The boy frowns."
 msgstr ""
+"\"Nevím, proč by to mělo být vtipný...\" Hoch se zamračí. "
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -493,6 +568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010F7"
 msgid "\"A word when you're done.\" The lieutenant clears his throat. His eyes are wider than usual."
 msgstr ""
+"\"Až skončíte, promluvíme si.\" Poručík si odkašle. Jeho oči jsou otevřené víc, než jindy."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -500,6 +576,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002621"
 msgid "The boy picks up a rock. Then another. He looks at you and blinks."
 msgstr ""
+"Chlapec popadne kámen. Pak další. Pohlédne na tebe a zamrká."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -514,6 +591,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C8F0"
 msgid "Then we're *definitely* doing it."
 msgstr ""
+"Přesně to *určitě* uděláme."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -521,6 +599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BE68"
 msgid "\"Mhm. Lily's our mom,\" says one of the twins."
 msgstr ""
+"\"Mhm. Lily je naše máma,\" řekne jedno z dvojčat."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -528,6 +607,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF70"
 msgid "\"No, he doesn't live there. I don't think.\""
 msgstr ""
+"\"Ne, on tu nebydlí. Nemyslím si.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -535,6 +615,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000113B"
 msgid "\"Uh-huh!\" one says, throwing a rock into the sand."
 msgstr ""
+"\"Uh - hm!\" řekne jeden z nich a hodí kámen do písku."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -542,6 +623,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001680"
 msgid "\"Hah! I knew it!\""
 msgstr ""
+"\"Ha! Já to věděl!\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -556,6 +638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002727"
 msgid "\"We didn't hear that word. We heard other bad words...\""
 msgstr ""
+"\"To slovo jsme neslyšeli. Slyšeli jsme jiná fuj slova.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -563,6 +646,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00010177"
 msgid "\"You're not helping me..\""
 msgstr ""
+"\"Nepomáháte mi...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -570,6 +654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD38"
 msgid "The boy stops laughing and looks at his toes."
 msgstr ""
+"Chlapec se přestane smát a stočí pohled na své boty."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -577,6 +662,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF8B"
 msgid "\"Anything else? What does this guy look like?\""
 msgstr ""
+"\"Něco dalšího? Jak ten chlápek vypadá?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -584,6 +670,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001053"
 msgid "\"We didn't hear that word. We heard other bad words...\""
 msgstr ""
+"\"To slovo jsme neslyšeli. Slyšeli jsme jiná fuj slova...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -591,6 +678,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010A7"
 msgid "\"Where did you hear them? Did you overhear someone say them? Was it on the radio?\""
 msgstr ""
+"\"Kde jste je slyšeli? Zaslechli jste někoho to říkat? Bylo to v rádiu?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -598,6 +686,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010C0"
 msgid "\"No.\" The boy shakes his head. \"Just people talking real fast.\""
 msgstr ""
+"\"Ne.\" Chlapec zavrtí hlavou. \"Jen lidi mluvící hrozně rychle.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -605,6 +694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010C5"
 msgid "\"You know.\" He points at his head. His fingers are red from the cold. \"I heard people talking. Except just in my head!\""
 msgstr ""
+"\"Víte.\" Ukáže si na hlavu. Jeho prsty jsou zčervenalé chladem. \"Slyšel jsem mluvit lidi. Akorát že jen v mojí hlavě!\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -619,6 +709,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000112C"
 msgid "\"We were there.\" The other child nods. The Feld building looms overhead."
 msgstr ""
+"\"Byli jsme tam.\" Druhé dítě pokývne. Za nimi se tyčí budova Feld."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -626,6 +717,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002626"
 msgid "The boy turns the rock over in his hands. He looks to you, then his brother, then back to you."
 msgstr ""
+"Chlapec obrátí kámen v ruce. Pohlédne na tebe, pak na svého bratra, pak zpět na tebe."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -633,6 +725,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002704"
 msgid "Conduct yourself with some dignity. You don't need to swear in front of the children."
 msgstr ""
+"Představ sebe důstojně. Nepotřebuješ nadávat před dětmi."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -647,6 +740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC5A"
 msgid "The stone-kicker laughs suddenly. His head is too large for his shoulders."
 msgstr ""
+"Nakopávač kamenů se najednou zasměje. Jeho hlava je příliš velká pro jeho ramena."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -661,6 +755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD9A"
 msgid "\"Because.... because...\" The boy pauses to think."
 msgstr ""
+"\"Protože... protože...\" Chlapec se odmlčí, aby se mohl zamyslet."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -668,6 +763,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF77"
 msgid "\"No, he lives there.\" The other nods. \"He's been there twice, two times.\""
 msgstr ""
+"\"Ne, on tam bydlí.\" Přikývne ten druhý. \"Byl tam dvakrát.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -682,6 +778,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001017"
 msgid "This is a shame and a disappointment."
 msgstr ""
+"Tohle je ostuda a zklamání."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -689,6 +786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010CA"
 msgid "\"Okay. What did you hear?\""
 msgstr ""
+"\"Dobře. Co jste slyšeli?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -696,6 +794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010E8"
 msgid "\"No!\" The brother cuts in, suddenly and sharply. \"Don't say bad words, stupid!\""
 msgstr ""
+"\"Ne!\" Jeho bratr mu rázně a ostře skočí do řeči. \"Neříkej fuj slova, pitomče!\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -703,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001131"
 msgid "\"And so I return to thee, Feld.\""
 msgstr ""
+"\"A tak se k tobě navracím, Felde.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -710,6 +810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001136"
 msgid "\"Thanks, kids.\""
 msgstr ""
+"\"Díky, děcka.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -717,6 +818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002709"
 msgid "Wait! Stop everything. Back this up. What are *bad words*?"
 msgstr ""
+"Počkat! Zastavit vše. Podložit to. Co jsou to *fuj slova*?"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -724,6 +826,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000272F"
 msgid "\"Ff...\" The other boy tries. He looks at his brother for understanding, then at you. \"What does that mean?\""
 msgstr ""
+"\"Kch...\" Pokusí se druhý hoch. Pohlédne na svého bratra, aby se mu dostalo vysvětlení, pak na tebe. \"Co to znamená?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -731,6 +834,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0001013B"
 msgid "\"What's a Feld building?\" one of the twins asks with a shrug."
 msgstr ""
+"\"Co je to budova Feld?\" pokrčí rameny jedno z dvojčat."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -738,6 +842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800000478"
 msgid "\"I don't know what those are...\""
 msgstr ""
+"\"Nevím, co jsou...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -745,6 +850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000662E"
 msgid "The rock-kicker was just being *shy*, but now he's enthusiastic again."
 msgstr ""
+"Nakopávač kamenů se jen *styděl*, ale teď vypadá opět nadšeně."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -752,6 +858,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDDC"
 msgid "\"I need you to tell me what you know about it -- what's *on* the island?\""
 msgstr ""
+"\"Potřebuju, abyste mi řekli vše, co o tom víte - co je na tom ostrově?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -759,6 +866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BE81"
 msgid "One of the boys nods, the other one looks at his brother and shrugs."
 msgstr ""
+"Jeden z chlapců přikývne, druhý se podívá na svého bratra a pokrčí rameny."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -766,6 +874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00000FEA"
 msgid "\"Kids, has anything *strange* happened lately?\""
 msgstr ""
+"\"Děcka, nestalo se poslední dobou něco *divného*?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -773,6 +882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00000FEF"
 msgid "\"Yeah.\" The boy turns a rock over in his hand. \"We heard *bad* words and said them, and got in trouble...\""
 msgstr ""
+"\"Jo.\" Chlapec obrátí kámen v ruce. \"Slyšeli jsme *fuj* slova a pak je říkali, a měli problém...\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -780,6 +890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001003"
 msgid "It would be hilarious, my man! Live it up! Say *FUCK!*"
 msgstr ""
+"Bylo by to srandovní, kámo! Do toho! Řekni *PRDEL!*"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -787,6 +898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010B6"
 msgid "\"Voices in your head? Like little bleeps and bloops of information?\""
 msgstr ""
+"\"Hlasy v hlavě? Jakože drobné útržky informací?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -794,6 +906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010F2"
 msgid "Elsewhere in Revachol, the Lieutenant switches on the radio. His head rocks subtly to a violent track. He needs to hear this story."
 msgstr ""
+"Někde jinde v Revacholu, poručík zapne rádio. Mírně kýve hlavou do rytmu šílené skladby. Potřeboval by ten příběh slyšet."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -808,6 +921,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000269A"
 msgid "\"Any family history of schizophrenia?\""
 msgstr ""
+"\"Máte nějakou rodinnou historii schizofrenie?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -815,6 +929,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800000462"
 msgid "Bullet shells? There are a lot of them left over from the war -- but this could be important."
 msgstr ""
+"Nábojnice? Od války se jich tu povaluje hodně - ale tohle by mohlo být důležité."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -822,6 +937,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000B14"
 msgid "The kids don't reply, absorbed in their little game."
 msgstr ""
+"Děti neodpovídají, jsou ponořené do jejich hry."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -829,6 +945,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC0C"
 msgid "The scruffy-haired little boy kicks a stone. He can't be more than five years old."
 msgstr ""
+"Střapatý hoch kope do kamene. Nemůže mu být víc, než pět let."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -836,6 +953,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEE7"
 msgid "\"Is that all you know? Is there anything more you can tell me about the island?\" (Conclude.)"
 msgstr ""
+"\"To je všechno, co víte? Máte ještě něco, co byste mi o tom ostrově mohli říct?\" (Uzavři.)"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -843,6 +961,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEF5"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -850,6 +969,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001026"
 msgid "\"Nothing. What happened? Where'd you hear bad words? Was it from someone on the coast? The radio?\""
 msgstr ""
+"\"Nic. Co se stalo? Kde jste slyšeli fuj slova? Bylo to od někoho z pobřeží? Z rádia?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -857,6 +977,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000107F"
 msgid "\"Bou... what?\" The boy gently tosses his rock at the rock tower, and misses. \"Was that a bad word?\""
 msgstr ""
+"\"Burž...cože?\" Chlapec jemně hodí svým kamenem po věži z kamení a mine. \"To bylo fuj slovo?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -864,6 +985,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001127"
 msgid "\"There.\" The boy points toward one of the ruined monoliths nearby."
 msgstr ""
+"\"Támhle.\" Chlapec ukáže na jeden z nedalekých pobořených monolitů."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -871,6 +993,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000026AD"
 msgid "\"No. Just tell me what you heard.\""
 msgstr ""
+"\"Ne. Jen mi řekněte, co jste slyšeli.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -878,6 +1001,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000101DA"
 msgid "\"Ha ha, I dunno what you're talking about.\" One of the boys shrugs his shoulders and starts laughing."
 msgstr ""
+"\"Ha ha, nevím, o čem to mluvíte.\" Jeden z chlapců pokrčí rameny a začne se smát."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -885,6 +1009,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000044D"
 msgid "You will never get an answer. That's how it is with these little idiots."
 msgstr ""
+"Odpovědi se nikdy nedočkáš. Tak to s těmi malými idioty už chodí."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -892,6 +1017,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000B42"
 msgid "\"No, we're not really supposed to talk to strangers, you know.\" The other twin shakes his head."
 msgstr ""
+"\"Ne, my se vlastně nemáme bavit s cizími lidmi, víte.\" Druhé dvojče zavrtí hlavou. "
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -899,6 +1025,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC4C"
 msgid "\"Bye.\" [Leave.]"
 msgstr ""
+"\"Mějte se.\" [Odejdi.]"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -906,6 +1033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD13"
 msgid "There's no *system* to this."
 msgstr ""
+"V tom není žádný *řád*."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -913,6 +1041,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD80"
 msgid "\"That's... uhm... nothing?\" The boy pauses to think with his finger in his mouth. \"It's just a seafort and some plants. You can take a raft there. It's great.\""
 msgstr ""
+"\"Není to... ehm... nic?\" Chlapec se odmlčí, aby se mohl s prstem v ústech zamyslet. \"Je to jen pevnost na moři a nějaký rostliny. Můžete si tam zajet na člunu. Je to super.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -920,6 +1049,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDE4"
 msgid "\"You mentioned something about *lights*?\""
 msgstr ""
+"\"Říkali jste něco o *světlech*?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -927,6 +1057,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF33"
 msgid "\"Please don't...\" The boy's eyes well up as he looks at you. They're dark and round. The wind tussles his hair."
 msgstr ""
+"\"Prosím ne...\" Chlapec na tebe pohlédne a jeho oči se zalijí slzami. Jsou velké a kulaté. Vítr cuchá jeho vlasy."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -934,6 +1065,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001BF33"
 msgid "The boy's eyes well up as he looks at you. They're dark and round. The wind tussles his hair."
 msgstr ""
+"Když na tebe hoch pohlédne, jeho oči jsou zalité slzami. Jsou velké a kulaté. Vítr cuchá jeho vlasy."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -941,6 +1073,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF5B"
 msgid "The two things are *unconnected*. Your question didn't make sense."
 msgstr ""
+"Tyhle dvě věci nemají spojitost. Tvůj dotaz nedává smysl."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -948,6 +1081,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00000FF9"
 msgid "Say *fuck.* It'd be HILARIOUS."
 msgstr ""
+"Řekni *prdel*. Bude to SUPER."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1060,6 +1194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000026B8"
 msgid "\"'Fuck' is the bad word, remember? But tell me what you heard.\""
 msgstr ""
+"\"'Prdel' je fuj slovo, pamatujete? Ale řekněte mi, co jste slyšeli.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1116,6 +1251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010A2"
 msgid "\"We thought the voices were funny.\" The brother nods. \"We said what they said and then we got in trouble...\""
 msgstr ""
+"\"Mysleli jsme si, že ty hlasy jsou srandovní.\" Bratr přikývne. \"Říkali jsme to, co ty hlasy říkaly, a měli jsme z toho problém.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1144,6 +1280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC76"
 msgid "\"What are you laughing about?\""
 msgstr ""
+"\"Čemu se smějete?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1221,6 +1358,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC46"
 msgid "\"I already said that.\""
 msgstr ""
+"\"To už jsem říkal.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1277,6 +1415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002717"
 msgid "\"It's a mystery. You'll have to find out yourselves.\""
 msgstr ""
+"\"Je to záhada. Musíte to zjistit sami.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1305,6 +1444,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEAA"
 msgid "\"Our father killed himself.\""
 msgstr ""
+"\"Náš táta zabil sám sebe.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1312,6 +1452,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BFA8"
 msgid "\"We... we ran. He just yelled we shouldn't be there.\""
 msgstr ""
+"\"My... my jsme utekli. On na nás jen řval, že tam nemáme co dělat.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1319,6 +1460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000010BB"
 msgid "\"What do you mean you 'heard them in your head'?\""
 msgstr ""
+"\"'Slyšeli je v hlavě'? Co tím myslíte?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1347,6 +1489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5F2"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1354,6 +1497,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC32"
 msgid "\"Bye kids, take care.\" [Leave.]"
 msgstr ""
+"\"Tak čau děcka, mějte se.\" [Odejdi.]"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1403,6 +1547,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDB8"
 msgid "\"Okay.\" His brother answers for him."
 msgstr ""
+"\"Dobře.\" Odpoví jeho bratr za něj."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1410,6 +1555,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BDFD"
 msgid "\"Uhm... yes.\" The boy looks at his toes."
 msgstr ""
+"\"Ehm... ano.\" Chlapec si zírá na boty."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1417,6 +1563,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BE0A"
 msgid "\"What then?\""
 msgstr ""
+"\"Co potom?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1452,6 +1599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000104E"
 msgid "The boys seem less happy now."
 msgstr ""
+"Chlapec najednou posmutní."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1466,6 +1614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00010159"
 msgid "\"Bye.\" [Leave.]"
 msgstr ""
+"\"Mějte se.\" [Odejdi.]"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1473,6 +1622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BC13"
 msgid "The other one looks indistinguishable from him. He watches his brother kick the stone with his tongue lolling out of his mouth."
 msgstr ""
+"Ten druhý vypadá od něj nerozeznatelně. S vystrčeným jazykem pozoruje svého bratra, jak kope do kamene."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1494,6 +1644,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BEA3"
 msgid "\"Your father used to go to that island too, didn't he?\""
 msgstr ""
+"\"Váš otec na ten ostrov jezdil taky, že ano?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1501,6 +1652,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BED6"
 msgid "\"Your father did not kill himself.\""
 msgstr ""
+"\"Váš otec sám sebe nezabil.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1508,6 +1660,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BF13"
 msgid "\"Don't punch your brother.... please. Don't start crying. We still need to ask more questions.\""
 msgstr ""
+"\"Nebij svého bratra... prosím. A nezačni brečet. Potřebujeme se zeptat na další otázky.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1515,6 +1668,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BFA1"
 msgid "\"How come?\""
 msgstr ""
+"\"Jak to?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1522,6 +1676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000102B"
 msgid "\"It's a bad word. The worst word.\""
 msgstr ""
+"\"Je to fuj slovo. Nejhorší slovo.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1529,6 +1684,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001098"
 msgid "\"Okay. What happened?\""
 msgstr ""
+"\"Dobře. Co se stalo?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1550,6 +1706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0001014C"
 msgid "\"Nah, we don't go anywhere, nah,\" the other mumbles."
 msgstr ""
+"\"Ne-e, nikam nechodíme, ne,\" zamumlá ten druhý."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1557,6 +1714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E5BC"
 msgid "\"Is little Lily your sister?\" (Point to the house.)"
 msgstr ""
+"\"Je malá Lily vaše sestra?\" (Ukaž směrem k domu.)"
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1578,6 +1736,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EE2E"
 msgid "He whispers: \"You need to keep your *dark humour* in check in front of children, okay?\""
 msgstr ""
+"Zašeptá: \"Musíte si na ten váš *černý humor* dávat pozor před dětmi, ano?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1585,6 +1744,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000B3C"
 msgid "\"Bad people. Criminals. Dangerous women.\""
 msgstr ""
+"\"Zlí lidé. Zločinci. Nebezpečné ženy.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1592,6 +1752,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BCCF"
 msgid "\"It's impossible to be *good* with kids, they're too stupid.\""
 msgstr ""
+"\"Je nemožné to *umět* s dětmi, jsou příliš pitomé.\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1606,6 +1767,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BD6D"
 msgid "\"Someone lives on the island?\""
 msgstr ""
+"\"Někdo na tom ostrově bydlí?\""
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
@@ -1613,6 +1775,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000108E"
 msgid "\"Don't say more bad words!\" The boy frowns."
 msgstr ""
+"\"Neříkej další fuj slova!\" Hoch se zamračí."
 
 #. Title = VILLAGE / LILIENNES TWINS
 #. Description = You can talk to them before and get nothing, but when you hear the twins have been to the island they tell you details about it.
