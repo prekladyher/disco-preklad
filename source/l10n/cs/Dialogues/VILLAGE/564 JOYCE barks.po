@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / JOYCE barks
 #. Description = Joyce barks for when she's in the village.
@@ -12,6 +20,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001998A"
 msgid "\"The board is not gonna like it.\""
 msgstr ""
+"\"Radě se to líbit nebude.\""
 
 #. Title = VILLAGE / JOYCE barks
 #. Description = Joyce barks for when she's in the village.
@@ -21,6 +30,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019983"
 msgid "\"Familiar faces.\""
 msgstr ""
+"\"Povědomé tváře.\""
 
 #. Title = VILLAGE / JOYCE barks
 #. Description = Joyce barks for when she's in the village.
@@ -30,6 +40,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019991"
 msgid "\"To think I even used to go dancing here.\""
 msgstr ""
+"\"Když si pomyslím, že jsem sem jezdila tančit.\""
 
 #. Title = VILLAGE / JOYCE barks
 #. Description = Joyce barks for when she's in the village.
@@ -39,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0001029E"
 msgid "\"God, I was so young... and stupid.\""
 msgstr ""
+"\"Bože, byla jsem tak mladá... a pitomá.\""
 
 #. Title = VILLAGE / JOYCE barks
 #. Description = Joyce barks for when she's in the village.
@@ -48,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00010299"
 msgid "\"Silly nostalgia...\""
 msgstr ""
+"\"Jaká to hloupoučká nostalgie...\""
 
 #. Title = VILLAGE / JOYCE barks
 #. Description = Joyce barks for when she's in the village.
@@ -57,3 +70,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000102A3"
 msgid "\"This place hasn't changed at all.\""
 msgstr ""
+"\"Tohle místo se vůbec nezměnilo.\""
