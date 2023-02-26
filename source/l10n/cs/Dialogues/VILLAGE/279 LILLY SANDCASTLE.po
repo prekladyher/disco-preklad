@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012089"
 msgid "Leave the sandcastle alone. [Leave.]"
 msgstr ""
+"Nech ten hrad z písku být. [Odejdi.]"
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012083"
 msgid "Reach in the catacombs and pull out the shiny object."
 msgstr ""
+"Natáhni se do katakomb a vytáhni blýskavý předmět."
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000120A1"
 msgid "A gush of wind disintegrates another piece of the cellar ceiling, exposing more of the mysterious glimmer underneath. The shithole's about to collapse."
 msgstr ""
+"Závan větru zprašní další kus stropu sklepení, odhalujíc ještě víc z tajuplného blýskání pod ním. Ta díra se co nevidět propadne."
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000120B6"
 msgid "The building's coming down on you, you need to get out of here!"
 msgstr ""
+"Ta budova se zřítí přímo na tebe, musíš se odtud dostat!"
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001DE89"
 msgid "\"Congratulations -- that's the gauntlets down, then. We're doing good on the armour collection front.\""
 msgstr ""
+"\"Gratulace - tak rukavice jsme tedy získali. Stran našeho sbírání zbroje se nám dobře daří.\""
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012098"
 msgid "\"The little castle?\" The lieutenant smiles a little. \"The reigning lord must have come upon some really tough times to let it slip in such decrepitude.\""
 msgstr ""
+"\"Ten hrádek?\" Poručík se pousměje. \"Vládnoucí pán musí zažívat obzvláště obtížné časy, že nechal své sídlo sklouznout do takové zchátralosti.\""
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000120CB"
 msgid "The walls and floors give way to the giant's greed, collapse and present you with a pair of ceramic gauntlets."
 msgstr ""
+"Stěny a podlahy podlehnou obrově hamižnosti, zřítí se, a odhalí ti pár keramických rukavic."
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000120E4"
 msgid "The fortress is still defiantly standing. There's an inviting gleam of *something* coming from the depths of the deepest cellars."
 msgstr ""
+"Pevnost se stále vzdorně tyčí. Uvnitř zříš lákavé blyštění *čehosi* z hlubin těch nejhlubších sklepení."
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700012077"
 msgid "Weather has not been kind to Lily's little sandcastle. The once mighty towers are quickly eroding away. You can see something shining back to you from what must have been a vast underground catacomb network."
 msgstr ""
+"Počasí nebylo k Lilyině písečnému hradu milostivé. Kdysi působivé věže se rychle rozpadají. V tom, co muselo být rozlehlou sítí sklepení, se cosi blyští. "
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000120C2"
 msgid "Smooth reflective surface... are these the gloves you're looking for?"
 msgstr ""
+"Hladký, třpytivý povrch... jsou to ty rukavice, které hledáš?"
 
 #. Title = VILLAGE / LILLY SANDCASTLE
 #. Description = This is the interaction dialogue with Lilly's Little Sandcastle, where she hid the gloves.
@@ -80,3 +98,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001207D"
 msgid "\"Broken...\""
 msgstr ""
+"\"Zničený...\""
