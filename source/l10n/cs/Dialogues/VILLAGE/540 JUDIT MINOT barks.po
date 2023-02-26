@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / JUDIT MINOT barks
 #. Description = your old posse; formerly: horse faced woman
@@ -11,3 +19,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000F84C"
 msgid "\"Harry, we're here because we're worried.\""
 msgstr ""
+"\"Harry, my jsme tady, protože si děláme starosti.\""
