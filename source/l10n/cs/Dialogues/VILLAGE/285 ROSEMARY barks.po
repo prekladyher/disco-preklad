@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000199F4"
 msgid "\"Are you drinking that?\""
 msgstr ""
+"\"Ten chlast je volnej?\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019A6C"
 msgid "\"The way she goes, buddy-boy...\""
 msgstr ""
+"\"Kámo, tak už to prostě chodí...\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000199FA"
 msgid "\"What was I gonna say?\""
 msgstr ""
+"\"Co jsem to chtěl říct?\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019A11"
 msgid "\"Doctors are idiots, buddy-boy.\""
 msgstr ""
+"\"Doktoři jsou blbci, kámo.\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000199EE"
 msgid "\"That's just life, friend.\""
 msgstr ""
+"\"Takový je prostě život, kamaráde.\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A576"
 msgid "\"The way she fucking goes...\""
 msgstr ""
+"\"Tak to prostě kurva chodí...\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019A00"
 msgid "\"I'm not running tabs. It's bad for business.\""
 msgstr ""
+"\"Na futra nepíšu. Škodí to byznysu.\""
 
 #. Title = VILLAGE / ROSEMARY barks
 #. Description = Stuff Rosemary says.
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019A57"
 msgid "\"Look, opening it with my eye-socket again... No problemo.\""
 msgstr ""
+"\"Hele, otevřu tu flašku nadočnicovým obloukem... Nema problema.\""
