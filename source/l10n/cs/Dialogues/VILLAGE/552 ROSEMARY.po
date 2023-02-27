@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D55B"
 msgid "Conversation might bring a discount, no?"
 msgstr ""
+"Za rozhovor bys mohl dostat slevu, což?"
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013296"
 msgid "In all fairness, that might be attributed to the retrograde amnesia."
 msgstr ""
+"Co tak víme, mohlo by to být přičteno retrográdní amnézii."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000132DA"
 msgid "There's reál, fifty in his palm."
 msgstr ""
+"Má tam reály - celých padesát v jeho dlani."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000132ED"
 msgid "\"Fine,\" he sighs."
 msgstr ""
+"\"Fajn,\" přikývne."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017CCB"
 msgid "\"So, what's the deal, friend? Want the spirits or not?\""
 msgstr ""
+"\"Takže, jak se rozhodneme, kámo? Chceš ten špiritus, nebo ne?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017DAE"
 msgid "\"Bought cigarettes, bought beer, even bought a bit of speed. And look at me now... I got everyone on my hook.\" He spreads his arms and smiles a crooked toothless smile."
 msgstr ""
+"\"Nakoupil jsem cigára, nakoupil jsem pivo, aji trochu speedu. A pohleď na mě teď... Nad všema mám moc.\" Rozhodí pažemi a usměje se bezzubým úsměvem."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D913"
 msgid "\"My kinda guy,\" he mumbles, handing you a pack. \"Here you go, friend.\""
 msgstr ""
+"\"Tak se mi to líbí,\" zamumlá a podá ti krabičku. \"Tady máš, kámo.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -91,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000132DA"
 msgid "Okay, right. We're putting it in the bum!"
 msgstr ""
+"Dobře tedy. Strčíme to do řiti!"
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -99,6 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D582"
 msgid "\"That is unhygienic. And dangerous. And it does not endear you to me -- just wanted to make that clear, okay?\""
 msgstr ""
+"\"To je nehygienické. A nebezpečné. A neučiní vás to u mě oblíbenějším - aby bylo jasno, dobře?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -115,6 +132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000132C5"
 msgid "\"I'm sorry, Kim. I just wanted to see what happens, if I say it.\""
 msgstr ""
+"\"Promiňte, Kime. Jen jsem chtěl vidět, co se stane, když to řeknu.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -123,6 +141,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00013C04"
 msgid "Harry... we're just going to store this one as a sellable item, okay? We're not going to let you kill yourself by drinking it. That's just not an option. Sell it at the pawnshop for profit."
 msgstr ""
+"Harry... tohle si prostě schováme jako prodejný předmět, ano? Nenecháme tě zabít se tím, že to vypiješ. To prostě není možnost. Prodej to v zastavárně pro zisk."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -131,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BC2"
 msgid "\"What?\""
 msgstr ""
+"\"Cože?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -139,6 +159,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C2B"
 msgid "\"I got one of those scientific ampoules a few months ago. 'Torpedo' they call it. It's supposed to keep a man from takin' a drink.\" He spits a nasty yellow clot on the ground before you."
 msgstr ""
+"\"Pár měsíců nazpět jsem dostal jednu z těch vědeckých ampulí. Říkají tomu 'torpédo'. Má to jednoho udržet dál od chlastu.\" Vyplivne před tebe na zem odporný žlutý chuchvalec."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -147,6 +168,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C41"
 msgid "\"That sounds dangerous.\""
 msgstr ""
+"\"To zní nebezpečně.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -163,6 +185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C90"
 msgid "\"No, not really.\""
 msgstr ""
+"\"Ne, vlastně ne.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -171,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017CAD"
 msgid "\"Feels like someone's trying to jam an angry hedgehog down your nostrils, doesn't it, buddy-boy? Wait for the adrenaline-tsunami, it's *really* great!\""
 msgstr ""
+"\"Je to, jako by se někdo pokoušel procpat tvými nosními dírkami ježka, že jo, kámo? Počkej si na to adrenalinové tsunami, je to fakt *pecka*!\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -179,6 +203,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B40"
 msgid "\"No, not really.\""
 msgstr ""
+"\"Ne, vlastně ne.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -187,6 +212,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200000A7C"
 msgid "\"Why does the bottle of spirits cost 300 reál?\""
 msgstr ""
+"\"Proč stojí láhev špiritusu 300 reálů?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -203,6 +229,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000132D4"
 msgid "But... I don't wanna put it up my bum."
 msgstr ""
+"Ale... Já si to nechci strčit do řiti."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -219,6 +246,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D58B"
 msgid "\"Pfff... unhygienic. This stuff is very hygienic. Anything else?\""
 msgstr ""
+"\"Pfff... nehygienické. Tenhle materiál je velmi hygienický. Ještě něco?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -227,6 +255,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013287"
 msgid "You acted with great compassion and dignity, not taking advantage of this man. Praise thine honourable heart!"
 msgstr ""
+"Jednals s mimořádným soucitem a důstojností a nezneužils toho muže. Pochváleno budiž čestné tvoje srdce!"
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -235,6 +264,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001329E"
 msgid "He's exaggerating. It bites, but only a little."
 msgstr ""
+"Přehání. Zní to kousavě, ale jen mírně."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -243,6 +273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013327"
 msgid "He has long forgotten what you were talking about."
 msgstr ""
+"Už dávno zapomněl, o čem jsi to mluvil."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -251,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000FC39"
 msgid "\"In the civilized world, it's a custom to tip the shopkeep, friend. But come back anyway.\" He waves you off."
 msgstr ""
+"\"V civilizovaném světě je zvykem dát obchodníkovi dýško, kámo. Ale stejně přijď zas.\" Mávne rukou."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -259,6 +291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017CE0"
 msgid "\"Three reál and it's yours, friend. The deal of a lifetime!\""
 msgstr ""
+"\"Tři reály a je to tvoje, kámo. Nákup století!\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -275,6 +308,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009BA0"
 msgid "\"Good-good, my man.\" He takes a chug from his beer bottle. \"Now what can I offer ya?\""
 msgstr ""
+"\"Dobře-dobře, brácho.\" Zavdá si piva ze své láhve. \"A co ti můžu nabídnout?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -283,6 +317,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200000A82"
 msgid "\"Amphetamine?\""
 msgstr ""
+"\"Amfetamin?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -291,6 +326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200000AC7"
 msgid "\"Sure, friend! You know it!\" He points a finger-pistol at you and squeezes the trigger. \"*Chck-chck*.\""
 msgstr ""
+"\"Jistě, kámo! Ty to víš!\" Ukáže na tebe prstovou pistolí a zmáčkne spoušť. \"*Ka-čing*.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -299,6 +335,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013228"
 msgid "Exactly! This is no ordinary drink. It's what our relationship has been building towards all these years. This is the climax. The mystery. The virginal sigh. That drink is *special*."
 msgstr ""
+"Přesně! To není jen tak ledajaké pití. Tohle je to, k čemu náš vztah celé ty roky směřoval. Tohle je klimax. Ta záhada. Ten panenský vzdech. Tohle pití je *speciální*."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -307,6 +344,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001163"
 msgid "\"Sure, friend. A bottle of high-quality spirits comin' right up, that'll be 3 reál and you're practically robbing me at this price.\""
 msgstr ""
+"\"Jasně, kámo. Flaška vysoce kvalitního špiritusu míří rovnou k tobě, bude to za 3 reály, a to je prakticky loupež za bílého dne.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -395,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BAC"
 msgid "He's finding it difficult to focus his watery gaze."
 msgstr ""
+"Zaostřit svůj mlhavý pohled mu dělá problémy."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -403,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C8A"
 msgid "\"I think it will prove... useful. Yes.\""
 msgstr ""
+"\"Myslím, že se to ukáže být... užitečným. Ano.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -411,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017D99"
 msgid "\"What do you mean?\""
 msgstr ""
+"\"Co tím myslíš?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -419,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017DD8"
 msgid "\"Sell me some speed.\""
 msgstr ""
+"\"Prodej mi nějaký speed.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -427,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009AC9"
 msgid "It's almost too easy, haggling with incoherent drunks."
 msgstr ""
+"Je to skoro příliš jednoduché, smlouvat s mumlajícími opilci."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -435,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000132A6"
 msgid "The hook -- where is it? I can't see it."
 msgstr ""
+"Ten háček - kdepak je? Já ho prostě nevidím."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -451,6 +495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017AE5"
 msgid "\"Good to see you too, friend.\""
 msgstr ""
+"\"Taky tě rád vidím, kámo.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -459,6 +504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BA5"
 msgid "\"Right... right...\" His tone cools considerably. \"As I said, that'll be 300 reál.\""
 msgstr ""
+"\"Dobře... dobře...\" Jeho tón znatelně ochladne. \"Jak jsem říkal, bude to za 300 reálů.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -475,6 +521,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D90D"
 msgid "\"Bottoms up, captain!\" He hands you an ugly brown bottle."
 msgstr ""
+"\"Obrať to do sebe, kapitáne!\" Podá ti ošklivou hnědou láhev. "
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -483,6 +530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A25"
 msgid "\"Here's the money for the spirits.\""
 msgstr ""
+"\"Tady máš peníze za ten špiritus.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -491,6 +539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A9F"
 msgid "\"Three-hundred reál.\""
 msgstr ""
+"\"Tři sta reálů\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -515,6 +564,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000132F7"
 msgid "... and the lieutenant is annoyed."
 msgstr ""
+"... a poručík je podrážděný."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -539,6 +589,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C65"
 msgid "\"Assholes...\""
 msgstr ""
+"\"Zmrdi...\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -563,6 +614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A98"
 msgid "Here's your chance."
 msgstr ""
+"Teď máš šanci."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -579,6 +631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B92"
 msgid "\"I thought by speed you meant amphetamine?\""
 msgstr ""
+"\"Myslel jsem, že speedem myslíš amfetamin?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -587,6 +640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007200000ABF"
 msgid "\"Friend? Do we know each other?\""
 msgstr ""
+"\"Kámoš? My se známe?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -595,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013208"
 msgid "This is just another stupid drunk idea I'm having, that I'm attributing to my necktie."
 msgstr ""
+"To je jen další z těch pitomých nápadů, které dostávám a které přisuzuji svojí kravatě."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -643,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017DED"
 msgid "\"I want a pack of smokes.\""
 msgstr ""
+"\"Chtěl bych krabičku cigaret.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -651,6 +707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009AE8"
 msgid "\"You said it's three reál just now, but at first you asked three-hundred.\""
 msgstr ""
+"\"Teď jsi řekl, že to bud tři reály, ale předtím jsi říkal, že to bude za tři sta.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -659,6 +716,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013255"
 msgid "What if I don't want to listen to my necktie anymore?"
 msgstr ""
+"A co když už svojí kravatě naslouchat nechci?"
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -691,6 +749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BF5"
 msgid "His tone is aggressive. You're getting on his bad side now."
 msgstr ""
+"Jeho tón je agresivní. Rozházel sis to s ním."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -699,6 +758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017DF5"
 msgid "\"Here's the money for a pilsner.\""
 msgstr ""
+"\"Tady máš peníze za ležáka.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -707,6 +767,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A0E"
 msgid "\"No one can buy spirits for 300 reál, that's crazy.\""
 msgstr ""
+"\"Nikdo si nemůže koupit špiritus za 300 reálů, to je šílenost.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -715,6 +776,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B97"
 msgid "\"Right. Got it.\""
 msgstr ""
+"\"Dobře. Chápu.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -723,6 +785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017E49"
 msgid "\"The legend returns! You know the dance. Smokable smokes. Pissable pilsner -- drink it, then convert it to piss! And there's... spirits and speed too.\""
 msgstr ""
+"\"Legenda se navrací! Však už to znáš. Kouřitelná cigára. Chcatelný ležák - vypij ho, a pak ho přeměň na chcanky! A pak tu máme... tvrdej, no a taky speed.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -755,6 +818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000132CE"
 msgid "Huh..."
 msgstr ""
+"Huh..."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -779,6 +843,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A82"
 msgid "Keep him talking."
 msgstr ""
+"Nech ho mluvit dál."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -787,6 +852,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009AA4"
 msgid "\"Three reál.\""
 msgstr ""
+"\"Tři reály.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -803,6 +869,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B2B"
 msgid "Don't say it."
 msgstr ""
+"Neříkej to."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -811,6 +878,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B86"
 msgid "\"Aye, by amphetamine I mean speed.\""
 msgstr ""
+"\"Jo, amfetaminem myslím speed.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -851,6 +919,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C3A"
 msgid "\"That's a good tip, I should remember it.\""
 msgstr ""
+"\"To je dobrá rada, měl bych si ji zapamatovat.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -891,6 +960,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000131DC"
 msgid "\"Permit?\" He's not really listening. \"Who gives a shit? You wanna buy something? Grease the wheels, buddy-boy.\""
 msgstr ""
+"\"Povolení?\" On doopravdy neposlouchá. \"Koho to, do hajzlu, zajímá? Chceš něco koupit? Promaž kola, bráchokámo.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -907,6 +977,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013235"
 msgid "You *have* to buy it from him. Get it off him. Kill him, if you have to. Our ultimate fate depends on it. And the fate of *many worlds*."
 msgstr ""
+"*Musíš* si to od něj koupit. Zbav ho toho. Zabij ho, pokud budeš muste. Závisí na tom náš definitivní osud. A osud *mnoha světů*."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -915,6 +986,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D56C"
 msgid "Well done. You got it."
 msgstr ""
+"Velmi dobře. Dals to."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -931,6 +1003,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C10"
 msgid "\"Where did you get the bottle of spirits from?\""
 msgstr ""
+"\"Odkud jsi tu láhev špiritusu vzal?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -963,6 +1036,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017E79"
 msgid "\"Okay, how?\""
 msgstr ""
+"\"Dobře, jak?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -987,6 +1061,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BD7"
 msgid "\"Forget about it, I just want the spirits!\""
 msgstr ""
+"\"Zapomeň na to, prostě chci ten špiritus!\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1019,6 +1094,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013220"
 msgid "Bratan, you don't understand. It's not just another drink. This is what our relationship has been building towards all these years. This is the climax. The mystery. The virginal sigh."
 msgstr ""
+"Bratan, nerozumíš. To není jen tak ledajaké pití. Tohle je to, k čemu náš vztah celé ty roky směřoval. Tohle je klimax. Ta záhada. Ten panenský vzdech."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1043,6 +1119,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001332F"
 msgid "Snakes or intestinal worms?"
 msgstr ""
+"Hady nebo střevní parazity?"
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1051,6 +1128,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017B96"
 msgid "Nod -- let him speak."
 msgstr ""
+"Přikývni - nech ho mluvit."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1059,6 +1137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BE7"
 msgid "\"You know what?! I don't even want the spirits anymore!\""
 msgstr ""
+"\"A víš co?! Já ten alkohol už ani nechci!\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1067,6 +1146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A3F"
 msgid "\"The fella 'ere just gave me 300 reál for a bottle of spirits! Rosemary's playin' in the big league now!\""
 msgstr ""
+"\"Týpek mi zrovna dal 300 reálů za flašku špiritusu! Růžena právě postoupil do vyšší ligy!\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1075,6 +1155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009ADA"
 msgid "\"I thought it was 300 reál.\""
 msgstr ""
+"\"Myslel jsem, že to mělo být 300 reálů.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1083,6 +1164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000132CC"
 msgid "\"He said I'm his 'pig hooker' or something, whatever that is.\""
 msgstr ""
+"\"Řekl, že jsem jeho 'vepřová čubka' nebo něco takového, ať už je to cokoliv.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1091,6 +1173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00013BFA"
 msgid "Son, you will NOT kill yourself with this. Not today. So we're going to store this as a SELLABLE item. Go sell it at the pawnshop for a profit."
 msgstr ""
+"Synu, ty se tímhle prostě NEZABIJEŠ. Ne dnes. My si to schováme jako PRODEJNÝ předmět. Běž to prodat do zastavárny pro zisk."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1099,6 +1182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017BEE"
 msgid "\"So what do you want then?!\""
 msgstr ""
+"\"Takže, copak tedy chceš?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1115,6 +1199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017E42"
 msgid "\"The legend! He's back. And thirsty.\" He nods. \"I got smokes and piss and a little... speed to spice things up.\""
 msgstr ""
+"\"Legenda! Je zpět. A žíznivá.\" Pokývne. \"Mám cigára, zrzavou vodu a trochu... speedu pro zpestření.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1203,6 +1288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017DC2"
 msgid "\"Got a permit for this little shit-show?\""
 msgstr ""
+"\"Máš na ten svůj cirkus povolení?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1211,6 +1297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B16"
 msgid "\"Never mind, I misheard. Three reál is a fair price.\""
 msgstr ""
+"\"Zapomeň na to, přeslechl jsem se. Tři reály je slušná cena.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1219,6 +1306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013273"
 msgid "\"I'm a police officer, not your 'friend'.\""
 msgstr ""
+"\"Jsem policejní důstojník, ne tvůj 'kámoš'.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1227,6 +1315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C1E"
 msgid "He ain't shitting you. Medicinal spirits are a blast, *bratan*. The flaming truth of this joke of a world."
 msgstr ""
+"Nedělá si z tebe prdel. Lékařský alkohol válí, *bratan*. Ohnivá pravda v téhle parodii na svět. "
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1235,6 +1324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017C96"
 msgid "\"Can I smell it first?\""
 msgstr ""
+"\"Můžu si nejprve čichnou?\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1251,6 +1341,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009A7B"
 msgid "\"Ah, yes, yes... the spirits.\" His tone cools considerably. \"That'll be 300 reál.\""
 msgstr ""
+"\"Ach, ano, ano... ten špiritus.\" Jeho hlas se znatelně ochladne. \"To máme 300 reálů.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1259,6 +1350,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009B4A"
 msgid "\"Three-hundred reál and it's yours, as promised.\" He shakes the bottle. \"Best shit around!\""
 msgstr ""
+"\"Tři sta reálů a je tvoje, jak jsem slíbil.\" Zatřese láhví. \"Nejlepší matroš široko daleko!\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1283,6 +1375,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D593"
 msgid "Soon. The time will come soon. Have patience, brave one."
 msgstr ""
+"Brzy. Čas přijde brzy. Buď trpělivý, hrdino."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1299,6 +1392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D8F6"
 msgid "\"Here you go, friend.\" He hands you a tiny bottle with a straw. The powder looks clotted and quite mouldy."
 msgstr ""
+"\"Tady máš, kámo.\" Podá ti malou lahvičku s brčkem. Prášek uvnitř vypadá hrudkovitě a poněkud plesnivě."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1315,6 +1409,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000131FC"
 msgid "It's our END GAME."
 msgstr ""
+"Je to náš KONEČNÝ TAH."
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1323,6 +1418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001330A"
 msgid "\"I think you didn't hear me, when I said I'm a police officer.\""
 msgstr ""
+"\"Myslím, žes mě neslyšel, když jsem říkal, že jsem policejním důstojníkem.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1331,6 +1427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00017B03"
 msgid "\"I'll just have the spirits and not the story today, thank you.\""
 msgstr ""
+"\"Dnes bych si dal jenom ten špiritus, ale příběh už ne, díky.\""
 
 #. Title = VILLAGE / ROSEMARY
 #. Description = Rosemary (previously known as Under Control) -- the member of the Union of Moribund Alcoholics who sells you booze, smokes etc.
@@ -1363,3 +1460,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001324B"
 msgid "He knows something is going on. In your *head*."
 msgstr ""
+"Ví, že se něco děje. V tvojí *hlavě*."
