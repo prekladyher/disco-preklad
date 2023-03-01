@@ -1,16 +1,18 @@
 # Jan Bartoš <takechihar@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Jan Bartoš <takechihar@gmail.com>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-09-02 15:07+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.08.0\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -114,7 +116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000B531"
 msgid "\"I LOVE YOU CUNO\""
 msgstr ""
-"\"MILUJU TĚ KUNO\""
+"\"MILUJU TĚ, KUNO\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -122,7 +124,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001689"
 msgid "Hah! Maybe there's a *reason* for that!"
 msgstr ""
-"Hah! Možná to má nějaký *důvod*!"
+"Ha! Možná to má nějaký *důvod*!"
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
@@ -194,7 +196,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001100001671"
 msgid "\"You're right, you're right. Is it too late to change it?\""
 msgstr ""
-"\"Máš pravdu, máš pravdu. Je už pozdě to změnit?\""
+"\"Máte pravdu, máte pravdu. Je už pozdě to změnit?\""
 
 #. Title = BACKYARD ORB / painting the wall
 #. Description = FinishTask("TASK.add_even_more_beauty_to_the_wall_done")
