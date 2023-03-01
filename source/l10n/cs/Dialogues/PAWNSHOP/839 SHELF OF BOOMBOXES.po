@@ -1,4 +1,6 @@
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -36,7 +38,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003E84"
 msgid "The boomboxes on the shelf look well-loved and well-travelled. Chipped, dented, they stare at you with the unblinking eyes of their tape reels."
 msgstr ""
-"Kazeťáky na polici vypadají, že toho dost zažily. Oprýskané a promačkané na tebe zírají nemrkajícíma očima svých magnetofonových cívek."
+"Magneťáky na polici vypadají, že toho dost zažily. Oprýskané a promačkané na tebe zírají nemrkajícíma očima svých magnetofonových cívek."
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -108,7 +110,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000370000037F"
 msgid "Remember -- he doesn't like music. He likes *sounds*. The *Doorgunner Megamix* is his type of tape! Certainly he'd give you a discount if he knew you'd play something so *experimental*."
 msgstr ""
-"Pamatuj - nemá rád hudbu. Má rád *zvuky*. *Kulometčíkův megamix* je jeho typ kazety! Určitě by ti dal slevu, kdyby věděl, že si pustíš něco tak *experimentálního*."
+"Pamatuj - nemá rád hudbu. Má rád *zvuky*. *Kulometčíkův megamix* je jeho typ pásky! Určitě by ti dal slevu, kdyby věděl, že si pustíš něco tak *experimentálního*."
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -153,7 +155,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000139"
 msgid "One especially catches your eye. Deep gold and amber plastic with a big old handle on top. A classic boombox that says: \"STEREO 8 approved.\""
 msgstr ""
-"Jeden z nich tě obzvlášť zaujme. Sytě zlatý a jantarový plast s velkou starou rukojetí nahoře. Klasický kazeťák s nápisem: \"Schváleno STEREO 8\"."
+"Jeden z nich tě obzvlášť zaujme. Sytě zlatý a jantarový plast s velkou starou rukojetí nahoře. Klasický magneťák s nápisem: \"Schváleno pro STEREO 8\"."
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -198,7 +200,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000037000002C8"
 msgid "The boomboxes wait on the shelves. And your boombox -- that gold and amber Harmon Wowshi -- stares at you longingly with its tape reel eyes."
 msgstr ""
-"Na regálech čekají kazeťáky. A ten tvůj - zlatý a jantarový Harmon Wowshi - na tebe toužebně zírá svýma očima magnetofonových kotoučů."
+"Na regálech čekají magneťáky. A ten tvůj - zlatý a jantarový Harmon Wowshi - na tebe toužebně zírá svýma očima magnetofonových kotoučů."
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -252,7 +254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002732"
 msgid "\"Can I just play a tape on one of the boomboxes real quick?\""
 msgstr ""
-"\"Můžu si rychle pustit kazetu na jednom z nich?\""
+"\"Můžu si na jednom z nich rychle pustit nějakou pásku?\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -279,7 +281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000370000042D"
 msgid "All the old boomboxes are there, blinking and waiting to whirl. All but one: yours."
 msgstr ""
-"Všechny staré kazeťáky jsou tam, mrkají a čekají, až se roztočí. Všechny kromě jednoho: toho tvého."
+"Všechny staré magneťáky jsou tam, mrkají a čekají, až se roztočí. Všechny kromě jednoho: toho tvého."
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -342,7 +344,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000155"
 msgid "\"Got it. Back to this guy...\" (Tap the boombox on its speaker.)"
 msgstr ""
-"\"Chápu. Zpátky k tomuhle chlapákovi...\" (Poklepek na reproduktor kazeťáku.)"
+"\"Chápu. Zpátky k tomuhle chlapákovi...\" (Poklepek na reproduktor magneťáku.)"
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -369,7 +371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100003700000368"
 msgid "\"It'll play that,\" the man nods. \"Any Requiem really. Also dirges. Madrigals. Chants. As long as it's on tape.\""
 msgstr ""
-"\"Přehraje to,\" přikývne muž. \"Vlastně jakékoliv Requiem. A taky žalozpěvy. Madrigaly. Zpěvy. Pokud je to na kazetě.\""
+"\"Přehraje to,\" přikývne muž. \"Vlastně jakékoliv Requiem. A taky žalozpěvy. Madrigaly. Zpěvy. Pokud je to na pásce.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -405,7 +407,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002A3A"
 msgid "\"Thanks for the discount, man. Here's the money for the boombox.\""
 msgstr ""
-"\"Díky za slevu, chlape. Tady jsou peníze za ten kazeťák.\""
+"\"Díky za slevu, chlape. Tady jsou peníze za ten magneťák.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -423,7 +425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005400000298"
 msgid "\"And here you are. Quality sound reproduction on the go. It'll play anything. Wherever. Turn *any* tape into a conversation of sounds and shapes.\""
 msgstr ""
-"\"A tady to máte. Kvalitní reprodukce zvuku na cestách. Přehraje cokoli. Kdekoli. Proměňte *jakoukoli* kazetu v konverzaci zvuků a tvarů.\""
+"\"A tady to máte. Kvalitní reprodukce zvuku na cestách. Přehraje cokoli. Kdekoli. Proměňte *jakoukoli* pásku v konverzaci zvuků a tvarů.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -432,7 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002A34"
 msgid "\"Thanks for the discount, man. Here's the money for the boombox.\""
 msgstr ""
-"\"Díky za slevu, chlape. Tady jsou peníze za ten kazeťák.\""
+"\"Díky za slevu, chlape. Tady jsou peníze za ten magneťák.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -441,7 +443,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000037000002F4"
 msgid "\"Actually, it doesn't have to be a beach. With a boombox like that, I'll bring the party into the streets!\""
 msgstr ""
-"\"Vlastně to ani nemusí být pláž! S takovýmhle kazeťákem udělám párty přímo na ulici!\""
+"\"Vlastně to ani nemusí být pláž! S takovýmhle magneťákem udělám párty přímo na ulici!\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -459,7 +461,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004D00003EAA"
 msgid "\"Shopkeep, this Stereo 8 approved machine here...\""
 msgstr ""
-"\"Prodavači, tato Stereo 8 schválená mašinka...\""
+"\"Prodavači, tahle pro Stereo 8 schválená mašinka...\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -531,7 +533,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000054000001FC"
 msgid "\"I want to buy that boombox.\""
 msgstr ""
-"\"Chci si koupit tamten kazeťák.\""
+"\"Chci si koupit tamten magneťák.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -585,7 +587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000272B"
 msgid "\"Can I get a discount on this boombox? A *police* discount.\""
 msgstr ""
-"\"Můžu dostat slevu na tenhle kazeťák? *Policejní* slevu.\""
+"\"Můžu dostat slevu na tenhle magneťák? *Policejní* slevu.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -603,7 +605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002A40"
 msgid "\"Thanks for the discount, man. Here's the money for the boombox.\""
 msgstr ""
-"\"Díky za slevu, chlape. Tady jsou peníze za ten kazeťák.\""
+"\"Díky za slevu, chlape. Tady jsou peníze za ten magneťák.\""
 
 #. Title = PAWNSHOP / SHELF OF BOOMBOXES
 #. Description = You look at and ask Roy about the boombox.
@@ -621,4 +623,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002A4D"
 msgid "\"I need to buy that boombox.\""
 msgstr ""
-"\"Potřebuju si koupit ten kazeťák.\""
+"\"Potřebuju si koupit ten magneťák.\""
