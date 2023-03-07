@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B96"
 msgid "\"Good. You made it.\" Cuno stands with his arms akimbo, looking at the shadow of the ruined flak tower looming overhead."
 msgstr ""
+"\"Supr. Dals to.\" Kuno stojí s rukama v bok, hledíc směrem ke stínu vrženému tyčící se zříceninou protiletecké věže."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C0D1"
 msgid "It'll keep you company on this lonely voyage."
 msgstr ""
+"Bude ti dělat společnost na této osamělé pouti. "
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C0BC"
 msgid "Cool."
 msgstr ""
+"Supr."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B79"
 msgid "\"This isn't death island. Is it?\""
 msgstr ""
+"\"Tohle není ostrov smrti, že ne?\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C0B5"
 msgid "There. This is now a *Rock and roll* skiff."
 msgstr ""
+"Tak. Tohle je teď *Rokenrolový* člun."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BFF0"
 msgid "A skiff with a small steering engine in the back floats on the calm mirror of the sea. Its two seats are empty."
 msgstr ""
+"Člun s malým závěsným motorem vzadu se vznáší na poklidném zrcadle moře. Jeho dvě lavičky jsou prázdné."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001BFF7"
 msgid "SRV-made, this machine represents humanitarian aid from a workers' state on the Samaran isola. The *ROO* logo on the engine gives it away -- that and the white five-pointed star."
 msgstr ""
+"Tento stroj vyrobený podnikem SRV představuje humanitární pomoc z lidové republiky na Samarské izole. Prozrazuje to logo *ROO* na motoru - to, a bílá pěticípá hvězda."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C02D"
 msgid "(I'm not ready yet.) [Leave.]"
 msgstr ""
+"(Ještě nejsem připraven.) [Odejdi.]"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C06D"
 msgid "\"What?\""
 msgstr ""
+"\"Cože?\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B6D"
 msgid "\"What the hell are you talking about?"
 msgstr ""
+"\"O čem to sakra mluvíte?\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C0C2"
 msgid "What did I just do? Why did I do that?"
 msgstr ""
+"Co jsem to právě udělal? Proč jsem to udělal?"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C10F"
 msgid "The boat comes to a slow stop. You turn the engine off -- then there's silence."
 msgstr ""
+"Člun se pomalu zastaví. Vypneš motor - a nastane ticho."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001C10F"
 msgid "The boat comes to a slow stop. The lieutenant turns the engine off -- then there's silence."
 msgstr ""
+"Člun se pomalu zastaví. Poručík vypne motor - a následuje ticho."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C48D"
 msgid "In the silence -- a sputter of wings. A flock of quails takes off in the distance..."
 msgstr ""
+"V tichu - třepotání křídel. V dálce vzlétne hejno křepelek..."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E4CA"
 msgid "Yeah. *Sad* rock and roll. Tune it to Sad FM."
 msgstr ""
+"Jo. *Smutný* rokenrol. Nalaď to na Smutnou FM."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B52"
 msgid "\"I mapped the place out and uh... it looks like both of us aren't gonna make it. This is death island. The hell maw.\" He wipes snot from his nose."
 msgstr ""
+"\"Prozkoumal jsem to tam a ehm... vypadá to, že to ani jeden z nás nedá. Je to ostrov smrti. Pekelná tlama.\" Utře si nudli z nosu. "
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C07A"
 msgid "\"You heard me. Don't make me repeat myself.\""
 msgstr ""
+"\"Slyšel jste mě. Nechtějte, abych se opakoval.\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C082"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C132"
 msgid "Get in and ride to the island."
 msgstr ""
+"Naloď se a pluj směr ostrov."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B58"
 msgid "\"Hell island? Finally.\""
 msgstr ""
+"\"Pekelný ostrov? Konečně.\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000030E8"
 msgid "Remember what the Net Picker said: It's a small tank. You won't be going back and forth on this."
 msgstr ""
+"Vzpomeň si, co říkala Síťařka: Má to malou nádrž. V tomhle nebudeš moci plout pořád tam a zpátky."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000032C2"
 msgid "Nothing to do here without the lieutenant... You must return here with him."
 msgstr ""
+"Zde se bez poručíka nedá nic dělat... Musíš se sem vrátit s ním."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C063"
 msgid "The boat's belly is a shiny yellow colour, industrial paint over fresh tar. You see it reflect off the water, along with the factory number: A72."
 msgstr ""
+"Břicho člunu září žlutě, signální barvou přes nový dehtový nátěr. Vidíš, jak se odráží ve vodě, zároveň s typovým číslem: A72."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E4D0"
 msgid "Very cool. Now tune it to Sad FM. You know you want to."
 msgstr ""
+"Naprosto supr. A teď to nalaď na Smutnou FM. Víš, že to chceš."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B73"
 msgid "\"Yes... finally.\" He says with some reservations."
 msgstr ""
+"\"Ano... konečně.\" Řekne s mírnou odtažitostí."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00013B12"
 msgid "The skiff bobs in the calm waters. It has nothing more to do."
 msgstr ""
+"Člun se mírně houpe v klidných vodách. Nemá nic jiného na práci."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C0D8"
 msgid "Why? Because *Rock and Roll*."
 msgstr ""
+"Proč? Protože *Rokenrol*."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C166"
 msgid "Once you get in, that's it -- one pull of the starter handle and you're off into the bay. A strange trepidation comes over you: are you sure you want to go *now*?"
 msgstr ""
+"Když nastoupíš - jedno zatažení za startovací táhlo, a valíš do zátoky. Převalí se přes tebe záchvěv: jsi si jistý, že chceš jet *teď*?"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001ABE"
 msgid "[Climb out.]"
 msgstr ""
+"[Vylez.]"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C074"
 msgid "\"What 'what'? How else do we blast *Sad FM* on our way to the island?\""
 msgstr ""
+"\"Jak, 'cože'? A jak jinak máme valit *Smutnou FM* při naší cestě na ostrov?"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E4E1"
 msgid "Sad FM is a radio station specializing in sad, slow rock songs. You seem to know its frequency by heart."
 msgstr ""
+"Smutná FM je rádiová stanice, jejíž specializace jsou smutné pomalé rockové songy. Zdá se, že její frekvenci máš zažitou."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C027"
 msgid "\"You take the engine, Kim. I'll hold the boombox.\""
 msgstr ""
+"\"Vy si vezměte motor, Kime. Já budu držet magneťák.\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C03A"
 msgid "\"It'll float.\""
 msgstr ""
+"\"Poplave to.\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C52B"
 msgid "There is very little wind here today. The ghost is standing still. You look at your arms, then the cliffs above you..."
 msgstr ""
+"Dnes je téměř bezvětří. Duch stojí klidně. Pohlédneš na své paže, pak na útesy nad tebou..."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C147"
 msgid "\"Let's go.\" He whispers."
 msgstr ""
+"\"Tak pojeďme.\" Zašeptá."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600003105"
 msgid "Have you made all the necessary preparations? Closed all your accounts?"
 msgstr ""
+"Učinils všechny nutné přípravy? Vyrovnals všechny účty?"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C01B"
 msgid "\"This banged up old thing... it's a ROO A72.\""
 msgstr ""
+"\"Tahle stará obitá věc... to je ROO A72.\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E4D8"
 msgid "\"Fine.\" He gives you resigned shrug. \"Let's *blast* Sad FM then.\""
 msgstr ""
+"\"Fajn.\" Odezvdaně pokrčí rameny. \"Tak tedy budem *valit* Smutnou FM.\""
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B81"
 msgid "\"Maybe Cuno's just pessimistic because of the massive speed hangover. I did scout the place out. I can fill you in.\""
 msgstr ""
+"\"Možná je Kuno jenom pesimistickej skrz ten masivní speedovej dojezd. Prohledal jsem to tam. Můžu ti poradit. "
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008BA0"
 msgid "The kid turns away from you, cautiously looking to his left and right. He's on the edge."
 msgstr ""
+"Dítě se od tebe odvrátí, pozorně se rozhlížejíc ze strany na stranu. Je ve střehu."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008BA8"
 msgid "He hasn't been here before either."
 msgstr ""
+"Sám zde předtím nebyl."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C0AE"
 msgid "First -- tie your porta-reel boombox to the breasthook to keep you company."
 msgstr ""
+"Zaprvé - upevni svůj přenosný magneťák k přídi, aby ti dělal společnost."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C14F"
 msgid "[Climb out.]"
 msgstr ""
+"[Vylez.]"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001AA4"
 msgid "The skiff floats on the calm mirror of the sea -- its two seats are empty."
 msgstr ""
+"Člun se vznáší na poklidném zrcadle moře. Jeho dvě lavičky jsou prázdné."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001ACA"
 msgid "[Climb out.]"
 msgstr ""
+"[Vylez.]"
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E4C2"
 msgid "He's too banged up himself -- to talk torque with you."
 msgstr ""
+"Sám je příliš dobitý na to, aby se teď s tebou bavil o otáčkách."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008B60"
 msgid "\"I don't know.\" He throws his hands in the air."
 msgstr ""
+"\"Nemám šajn.\" Rozhodí pažemi ve vzduchu."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012604"
 msgid "The time has come."
 msgstr ""
+"Nadešel čas."
 
 #. Title = VILLAGE / BOAT
 #. Description = This is the boat you can get from the Net picker. This boat takes you to the Sea Fortress island.VILLAGE ORB / ask boat from netpicker
@@ -346,3 +402,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C08F"
 msgid "\"Fine. Why not?\" He shrugs."
 msgstr ""
+"\"Fajn. Proč ne?\" Pokrčí rameny."
