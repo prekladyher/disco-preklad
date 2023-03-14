@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000035A0"
 msgid "Go on! The fucking sunset awaits, FALN rider!"
 msgstr ""
+"Pokračuj! Zasraný západ slunce čeká, FALN jezdče!"
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000035A7"
 msgid "I feel... so *dynamic*."
 msgstr ""
+"Cítím se... tak *dynamicky*."
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000035AC"
 msgid "I look so *futuristic*."
 msgstr ""
+"Vypadám tak *futuristicky*."
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000035B8"
 msgid "You are Next Century personified, the synthetic man!"
 msgstr ""
+"Jsi ztělesněním příštího století, syntetický člověk!"
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000035C4"
 msgid "It's like I can do anything. *ANYTHING*!"
 msgstr ""
+"Jako bych mohl udělat cokoliv. *COKOLIV*!"
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000035CB"
 msgid "You are literally untouchable. A god among mere men."
 msgstr ""
+"Jste doslova nedotknutelný. Bůh mezi pouhými lidmi."
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900003595"
 msgid "O glorious Falnier! You wear the full set like a true-born hero. The *ULTIMATE PERFORMANCE* of FALN flows in you."
 msgstr ""
+"Ó slavný Falniere! Nosíš celou sadu jako skutečný hrdina. Proudí v tobě *VRCHOLNÝ VÝKON* FALN."
 
 #. Title = SEAFORT ORB / full faln set
 #. Description = test case orb for wearing the full faln set if you have all of the items.
@@ -59,3 +74,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000359B"
 msgid "You are the most *Ultra* of men. Peak performance!"
 msgstr ""
+"Jsi ten nejvíc *Ultra* muž. Špičkový výkon!"
