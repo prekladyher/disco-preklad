@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021DD0"
 msgid "\"Looks like a gym to me.\""
 msgstr ""
+"\"Mně to připadá jako tělocvična.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500002CE5"
 msgid "\"Now, let's move on, shall we?\""
 msgstr ""
+"\"Tak pojďme dál, ano?\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E8F"
 msgid "\"No need to look for *supra-natural* explanations where a banal one will do. Now, let's move on, shall we?\""
 msgstr ""
+"\"Není třeba hledat *nadpřirozené* vysvětlení tam, kde stačí banální. Tak pojďme dál, ano?\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500002CD7"
 msgid "\"No need to look for *supra-natural* explanations where a banal one will do. Now, let's go get the flashlight, shall we?\""
 msgstr ""
+"\"Není třeba hledat *nadpřirozené* vysvětlení tam, kde stačí banální. Tak pojďme pro tu baterku, ano?\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E88"
 msgid "\"Yes, because it's *closed*...\""
 msgstr ""
+"\"Ano, protože je zavřená...\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500002CC1"
 msgid "\"Let's go get the flashlight then.\""
 msgstr ""
+"\"Tak pojďme pro baterku.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021DE5"
 msgid "\"No, it's a gym,\" he disagrees. \"Though it looks like no one's been here in ages...\""
 msgstr ""
+"\"Ne, je to tělocvična,\" nesouhlasí. \"I když to vypadá, že tu nikdo nebyl už celou věčnost...\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021FA5"
 msgid "\"I think you're right,\" he says. \"Though it looks like no one's been here in ages...\""
 msgstr ""
+"\"Myslím, že máte pravdu,\" řekne. \"I když to vypadá, že tu nikdo nebyl už celou věčnost...\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000092000021C7"
 msgid "\"Now, let's go get the flashlight, shall we?\""
 msgstr ""
+"\"Teď půjdeme pro tu baterku, ano?\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E12"
 msgid "\"It's an adventure!\""
 msgstr ""
+"\"Je to dobrodružství!\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E50"
 msgid "\"I doubt the electricity still works... Good thing we have a flashlight on us. Don't forget to take it out of your bag before we move on.\""
 msgstr ""
+"\"Pochybuji, že elektřina ještě funguje... Ještě že máme u sebe baterku. Nezapomeňte si ji vytáhnout z batohu, než se vydáme dál.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E04"
 msgid "\"We don't *have to* explore an abandoned gym, you know. Besides, no one's been here in ages...\""
 msgstr ""
+"\"Nemusíme prozkoumávat opuštěnou tělocvičnu, víš. Kromě toho tu nikdo nebyl už celé věky...\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E32"
 msgid "Some specks of dust shimmer in a faint beam of daylight falling from the window. Other than that, the room is dark."
 msgstr ""
+"Ve slabém paprsku denního světla dopadajícího z okna se třpytí několik smítek prachu. Jinak je v místnosti tma."
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021F9E"
 msgid "\"I think this may be the Artemitep's Boxing Club For Young Athletes.\""
 msgstr ""
+"\"Myslím, že to může být Artemitepův boxerský klub pro mladé atlety.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021DDC"
 msgid "\"No idea, Kim... but my head hurts... my head hurts *bad*.\""
 msgstr ""
+"\"Nemám ponětí, Kime... ale bolí mě hlava... *ošklivě* mě bolí hlava.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021DFD"
 msgid "\"Yes, but no one's been here in ages.\" He draws a stripe on the dusty floor with his foot..."
 msgstr ""
+"\"Ano, ale nikdo tu už dlouho nebyl.\" Nohou nakreslí na zaprášenou podlahu pruh..."
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001A406"
 msgid "\"You didn't *have* to ram the door down, you know...\" He looks around. \"No one's been here for ages.\""
 msgstr ""
+"\"Nemusel jste ty dveře vyrazit, víte...\" Rozhlédne se kolem. \"Nikdo tu nebyl už celou věčnost.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E43"
 msgid "Some specks of dust shimmer in a ray of streetlight falling from the window. Other than that, the room is dark."
 msgstr ""
+"V paprscích pouličního světla dopadajících z okna se třpytí několik zrnek prachu. Jinak je v místnosti tma."
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E77"
 msgid "\"Let's just keep going, I'm sure it's just a regular abandoned house, nothing mysterious here.\""
 msgstr ""
+"\"Jdeme dál, určitě je to jen obyčejný opuštěný dům, nic záhadného tu není.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021DD6"
 msgid "\"It's the netherworld. Beyond the veil.\""
 msgstr ""
+"\"Je to podsvětí. Za závojem.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E37"
 msgid "\"I doubt the electricity still works... We should find a flashlight if we want to go on. There should be one in my Kineema.\""
 msgstr ""
+"\"Pochybuji, že elektřina ještě funguje... Měli bychom najít nějakou baterku, jestli chceme pokračovat. Jedna by měla být v mé Kineemě.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E64"
 msgid "An eerie feeling rises in your chest..."
 msgstr ""
+"V hrudi se ti zvedá děsivý pocit..."
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000500002CC8"
 msgid "The lieutenant nods."
 msgstr ""
+"Poručík přikývne."
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E71"
 msgid "\"What if there's a *reason* why no one's been here for ages...\""
 msgstr ""
+"\"Co když je tu nějaký *důvod*, proč tu nikdo nebyl celou věčnost...\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002D000001B9"
 msgid "\"I doubt the electricity still works... Good thing we have a flashlight on us.\""
 msgstr ""
+"\"Pochybuji, že elektřina ještě funguje... Ještě že máme u sebe baterku.\""
 
 #. Title = KIM SWITCH / DOOMED
 #. Description = After breaking down the back door in the bookstore you and Kim discover yourself in a gym.
@@ -185,3 +218,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021E80"
 msgid "\"Sounds good.\""
 msgstr ""
+"\"To zní dobře.\""
