@@ -6,6 +6,7 @@ import { loadFileTree } from "./utils.js";
 
 const validationChecks = Object.entries({
   "newline": entry => entry.msgstr.match(/\n/g)?.length === entry.msgid.match(/\n/g)?.length,
+  "leading-whitespace": entry => entry.msgstr.match(/\n /g)?.length === entry.msgid.match(/\n /g)?.length
 });
 
 function validateEntry(entry) {
