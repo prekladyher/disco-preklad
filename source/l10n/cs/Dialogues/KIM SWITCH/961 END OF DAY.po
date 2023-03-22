@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000600C"
 msgid "\"I haven't paid the cafeteria manager for damages yet.\""
 msgstr ""
+"\"Ještě jsem nezaplatil manažerovi hostelu za škody.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000608A"
 msgid "Though he finds this situation frustrating, he is doing his best to not make you feel any worse than you already do."
 msgstr ""
+"I když je pro něj tato situace frustrující, snaží se, abys z toho neměl ještě horší pocit, než máš."
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000042C8"
 msgid "\"Then I should check in with the cafeteria manager.\""
 msgstr ""
+"\"Pak bych se měl domluvit s manažerem hostelu.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006046"
 msgid "\"But I don't have the money...\""
 msgstr ""
+"\"Ale já nemám peníze...\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000606C"
 msgid "He's proud of you for getting your act together and finding a way to pay back what you owe."
 msgstr ""
+"Je na tebe hrdý, že ses dal dohromady a našel způsob, jak splatit, co dlužíš."
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008BC7"
 msgid "He nods. \"I'll also take a room at the Whirling. One cannot get much closer to the crime scene.\""
 msgstr ""
+"Přikývne. \"Také si vezmu pokoj v Cárech. Blíže k místu činu se člověk už nedostane.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006083"
 msgid "\"Let's talk to him anyway. An officer of the RCM shouldn't be sleeping in the streets. We'll figure something out.\""
 msgstr ""
+"\"Stejně si s ním promluvíme. Důstojník ROM by neměl spát na ulici. Něco vymyslíme.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008BBD"
 msgid "\"I think I have the money now. This is money, right?\" (Show him reál bills.)"
 msgstr ""
+"\"Myslím, že peníze už mám. Tohle jsou peníze, ne?\" (Ukaž mu reálové bankovky.)"
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000002000011B7"
 msgid "\"We can pick up where we left off tomorrow morning.\""
 msgstr ""
+"\"Zítra ráno můžeme pokračovat tam, kde jsme skončili.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007A0000067C"
 msgid "\"I think I need to talk to the cafeteria manager about my room...\""
 msgstr ""
+"\"Myslím, že si musím promluvit s manažerem hostelu o svém pokoji...\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008B85"
 msgid "\"Good to know. I'll be wherever is necessary in the morning. Bright and early, 7:30 sharp.\""
 msgstr ""
+"\"To je dobré vědět. Ráno přijdu, kam bude třeba. Brzy ráno, přesně v 7:30.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A492"
 msgid "\"Let's continue tomorrow, bright and early -- 7:30 sharp. I'll be waiting downstairs.\""
 msgstr ""
+"\"Pokračujme zítra brzy ráno - přesně v 7:30. Budu čekat dole.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007A00000683"
 msgid "\"You certainly have been avoiding it.\""
 msgstr ""
+"\"Určitě jste se tomu vyhýbal.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000042CF"
 msgid "\"Do that. I'll be waiting for you downstairs tomorrow.\""
 msgstr ""
+"\" Udělejte to. Zítra na vás budu čekat dole.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008B77"
 msgid "\"Yes, my hostel room calls.\""
 msgstr ""
+"\"Ano, můj hostelový pokoj volá.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008B97"
 msgid "\"I'll also take a room at the Whirling.\""
 msgstr ""
+"\"Také si vezmu pokoj v Cárech.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008B7D"
 msgid "\"I found lodgings in the village. I'll spend the night there.\""
 msgstr ""
+"\"Našel jsem si ve vesnici ubytování. Přespím tam.\""
 
 #. Title = KIM SWITCH / END OF DAY
 #. Description = Kim wants to call it a day.
@@ -129,3 +154,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008BCE"
 msgid "\"You should take care of that, then.\""
 msgstr ""
+"\"Tak to byste se o to měl postarat.\""

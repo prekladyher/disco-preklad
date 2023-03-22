@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -50,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C0E"
 msgid "'It's cold now,' he was supposed to say. 'But someone has been maintaining it. The wiring has been repaired'..."
 msgstr ""
+"\"Teď je to studené,\" měl říct. \"Ale někdo to udržuje. Elektroinstalace byla opravena...\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -58,6 +67,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C25"
 msgid "W-w-w-wait. Haven't you heard this before?"
 msgstr ""
+"P-p-p-počkej. Neslyšel jsi tohle už dřív?"
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -121,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C8FA"
 msgid "\"The kind that's favoured by vagrants and fuel thieves. It's been a long winter... Long and cold.\""
 msgstr ""
+"\"Ten typ, který mají v oblibě tuláci a zloději paliva. Zima byla dlouhá... Dlouhá a studená.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -143,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E52B"
 msgid "If anyone's stayed here, they'd need a generator."
 msgstr ""
+"Kdyby tady někdo zůstával, generátor by potřeboval."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -167,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C8AF"
 msgid "Where do these wires lead?"
 msgstr ""
+"Kam vedou tyhle kabely?"
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -175,6 +188,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001C8AF"
 msgid "\"Where do these wires lead?\""
 msgstr ""
+"\"Kam vedou tyhle kabely?\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -222,6 +236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C00"
 msgid "What's the matter?"
 msgstr ""
+"Co se děje?"
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -261,6 +276,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C894"
 msgid "The lieutenant puts his hand on the metal barrel, checking for warmth..."
 msgstr ""
+"Poručík na ten kovový barel položí ruku a kontroluje, jestli je teplý..."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -269,6 +285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C8A1"
 msgid "\"It's cold now,\" he concludes. \"But someone has been maintaining it. The wiring has been repaired.\""
 msgstr ""
+"\"Je to studené,\" uzavře. \"Ale někdo to udržoval. Ta kabeláž byla opravena.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -293,6 +310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001788"
 msgid "\"Smells like *mazut*.\" The kid taps on the open fuel cap on the side of the dynamo. \"Heavy fuel shit.\""
 msgstr ""
+"\"Smrdí to jako *mazut*.\" Kluk ťuká na otevřené víčko palivové nádrže na straně dynama. \"Těžký palivo jak hovno.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -301,6 +319,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C13"
 msgid "But he's not here to say it. Something *else* got in the way. Events *intervened*..."
 msgstr ""
+"Ale on tady není, aby to řekl. Do cesty se dostalo něco *jiného*. Události *zasáhly*..."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -324,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C982"
 msgid "Downstairs somewhere -- or into the lighting perhaps? You can't tell."
 msgstr ""
+"Někam dolů - nebo snad do světel? Nedokážeš říct."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -331,6 +351,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001C982"
 msgid "Downstairs, into the console -- it's been established. From there they are distributed across the room..."
 msgstr ""
+"Dolů, do toho panelu - to se prokázalo. Od tam potom jako rozvod té místnosti..."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -355,6 +376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010BF1"
 msgid "N-n-n-no. This isn't right..."
 msgstr ""
+"N-n-n-ne. To není pravda..."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -363,6 +385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C46"
 msgid "\"The kind that's favoured by vagrants and fuel thieves. It's been a long winter...\""
 msgstr ""
+"\"Ten typ, který mají v oblibě tuláci a zloději paliva. Zima byla dlouhá...\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -379,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C8C8"
 msgid "He looks at the wall socket. \"Downstairs somewhere.\""
 msgstr ""
+"Podívá se do zásuvky ve zdi. \"Někam dolů.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -387,6 +411,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001C8C8"
 msgid "He looks at the wall socket. \"Downstairs, into the console, then from there into the room's electronics.\""
 msgstr ""
+"Podívá se do zásuvky ve zdi. \"Dolů, do toho panelu, a z něj pak do elektrického rozvodu té místnosti.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -394,6 +419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C9A3"
 msgid "The industrial smell of *mazut* rises from the fuel cap. This generator uses heavy oil."
 msgstr ""
+"Z víčka palivové nádrže stoupá průmyslový zápach *mazutu*. Tento generátor používá těžký olej."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -409,6 +435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001780"
 msgid "He looks at the wall socket. \"Dunno, looks like downstairs somewhere...\""
 msgstr ""
+"Podívá se do zásuvky ve zdi. \"Nevím, dívá se jakoby někam dolů...\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -417,6 +444,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B00001780"
 msgid "He looks at the wall socket. \"Downstairs into that console we saw. And then to the rest of the room. Yeah. Electrical shit.\""
 msgstr ""
+"Podívá se do zásuvky ve zdi. \"Dolů do toho panelu, co jsme tam viděli. A pak do zbytku té místnosti. Jo. Elektrický sračky.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -424,6 +452,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C969"
 msgid "This old cylindrical generator waits with its fuel cap open. Makeshift electrical wiring runs out of its side and across the floor."
 msgstr ""
+"Tento starý válcovitý generátor čeká s otevřeným uzávěrem palivové nádrže. Z jeho boku a po podlaze vybíhá provizorní elektroinstalace."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -456,6 +485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C55"
 msgid "There's no time to dwell on this moment. You've got to keep moving..."
 msgstr ""
+"Není čas se tímto okamžikem zabývat. Musíš jít dál..."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -487,6 +517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C05"
 msgid "Ignore it."
 msgstr ""
+"Nevšímej si toho."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -495,6 +526,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C50"
 msgid "\"... Long and cold.\""
 msgstr ""
+"\"... dlouhá a studená.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -503,6 +535,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001790"
 msgid "Cuno puts his hand on the generator. \"This shit's cold.\""
 msgstr ""
+"Kuno na generátor položí ruku. \"Ta kokotina je studená.\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -510,6 +543,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C18"
 msgid "You brush away the thought and turn back to the generator."
 msgstr ""
+"Sestřeseš tu myšlenku a otočíš se zpátky ke generátoru."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -518,6 +552,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00010C4B"
 msgid "The lieutenant pauses. Something seems to be pecking at the edge of his concentration. He gives you a sideways look before adding..."
 msgstr ""
+"Poručík se odmlčí. Zdá se, že něco ozobává hranu jeho koncentrace. Letmo na tebe pohlédne, než dodá..."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -555,6 +590,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C881"
 msgid "An old cylindrical generator is nested above the ammo lift, with makeshift electrical wiring running out of its side and across the floor. The cables disappear into the wall to your right."
 msgstr ""
+"Nad muničním zvedákem je upevněn starý válcovitý generátor, z jehož boku a přes podlahu vybíhají provizorní elektrické rozvody. Kabely mizí ve zdi po tvojí pravici."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -563,6 +599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C8B5"
 msgid "What kind of generator am I looking at?"
 msgstr ""
+"Na jaký typ generátoru se to dívám?"
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -571,6 +608,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001C8B5"
 msgid "\"What kind of generator is this?\""
 msgstr ""
+"\"Jaký typ generátoru to je?\""
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
@@ -616,6 +654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001C8F3"
 msgid "\"Liquid carbon, I would imagine it takes *mazut*.\" He points to the open fuel cap on the side of the dynamo."
 msgstr ""
+"\"Tekutý uhlík, dokážu si představit, že to žere *mazut*.\" Ukáže na otevřené víčko palivové nádrže na straně dynama."
 
 #. Title = SEAFORT INT / MICROGRID GENERATOR
 #. Description = (generator, rewired – insert fuel here (use controls to activate electricity and open door if fuel in). kim remarks on wiring.)
