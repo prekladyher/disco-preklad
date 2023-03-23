@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000032FE"
 msgid "\"Hobo chic.\""
 msgstr ""
+"\"Houmles elegance.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00003361"
 msgid "\"Well, yeah. You never know when you're going to need to pitch a business proposal.\""
 msgstr ""
+"\"No, jo. Nikdy nevíte, kdy budete muset předložit obchodní návrh.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000022A0"
 msgid "The lieutenant's right. It gives you all the *panache* of a bicycle courier, daredevil and commander of the city streets!"
 msgstr ""
+"Poručík má pravdu. Dává ti veškerý *šmrnc* kurýra na kole, odvážlivce a velitele městských ulic!"
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00003325"
 msgid "\"Still, you might try *branching out* a little. You know the expression 'The clothes make the man'? The right outfit, in the right situation, can make all the difference in the world.\""
 msgstr ""
+"\"Přesto byste mohl zkusit trochu *rozšířit pole působnosti*. Znáte rčení \"Šaty dělají člověka!? Správné oblečení ve správné situaci může znamenat zásadní rozdíl.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002371"
 msgid "\"For starters, you're wearing *the exact same* outfit I first met you in...\" He holds his nose."
 msgstr ""
+"\"Pro začátek máte na sobě *naprosto stejné* oblečení, v jakém jsem vás potkal poprvé...\" Drží se za nos."
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002CC6"
 msgid "\"Have you even *smelled* that jacket? It's like some wretched night-wandering creature died in it.\""
 msgstr ""
+"\"\"Přičichl jste si vůbec k té bundě?\" Jako by v ní zemřel nějaký odporný bludný noční tvor.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002D06"
 msgid "\"Regular cop, regular clothes.\""
 msgstr ""
+"\"Obyčejný policajt, obyčejné oblečení.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002D0D"
 msgid "\"You *like* this? I feel like it's really cramping my style.\""
 msgstr ""
+"\"*Líbí se vám to? Mám pocit, že to opravdu kazí můj styl.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002D63"
 msgid "The lieutenant regards you for a moment, unsure whether you're making a joke or not, and if so, whether he should acknowledge it..."
 msgstr ""
+"Poručík si tě chvíli prohlíží a není si jistý, jestli si děláš legraci, nebo ne, a pokud ano, jestli to má vzít na vědomí..."
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002DEE"
 msgid "\"To be perfectly blunt, you're dressed like a blood-hungry mercenary.\""
 msgstr ""
+"\"Abych byl úplně upřímný, jste oblečený jako krvežíznivý žoldák.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002E4A"
 msgid "\"I'm not taking 'style' tips from someone who dresses like a mega-binoclard.\""
 msgstr ""
+"\"Nebudu si nechávat radit o stylu od někoho, kdo se obléká jako mega-brejlotard.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002E52"
 msgid "\"So if you want to wake up next to anyone other than *Commodore Red*, you might do well to take notes.\""
 msgstr ""
+"\"Takže jestli se chcete probudit vedle někoho jiného než *Komodorova červeného*, měl byste si dělat poznámky.\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002F14"
 msgid "The lieutenant sighs. \"Is that really the impression you want to give people?\""
 msgstr ""
+"Poručík si povzdechne. \"Opravdu chcete v lidech vzbudit takový dojem?\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00003288"
 msgid "That's right -- You're an entrepreneur of the peace, here to disrupt legacy law enforcement with buzzwords and privatization schemes."
 msgstr ""
+"Přesně tak - jsi pokojný podnikatel, který chce narušit dosavadní vymáhání práva pomocí líbivých frází a privatizačních plánů."
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002CAC"
 msgid "Somehow you thought you were *concealing* it, but now you know that *everybody* has noticed."
 msgstr ""
+"Nějak sis myslel, že to *skrýváš*, ale teď víš, že si toho všiml každý."
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00002D16"
 msgid "\"Say, why aren't *you* wearing a pig suit?\""
 msgstr ""
+"\"Say, why aren't *you* wearing a pig suit?\""
 
 #. Title = KIM SWITCH / VILLAGE AND JACKET
 #. Description = kim switch about wearing stuffz
