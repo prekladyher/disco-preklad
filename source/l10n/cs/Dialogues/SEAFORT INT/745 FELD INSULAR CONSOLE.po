@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -45,6 +53,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E927"
 msgid "\"Wait, what about this fuel I found from my MC?\" (Show him the canister.)"
 msgstr ""
+"\"Počkej, co to palivo, které jsem našel v mém MV?\" (Ukaž mu kanystr.)"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -66,6 +75,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CFD4"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -80,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D081"
 msgid "Who's to say this thing even works? You have to supply it with power first. There must be a generator nearby."
 msgstr ""
+"Kdo říká, že tady ta věc vůbec funguje? Nejdřív ji budete muset poskytnout energii. Někde tady poblíž musí být nějaký generátor."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -87,6 +98,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001D081"
 msgid "Who's to say this thing even works? You will have to provide it with power first. There was an un-fuelled generator upstairs..."
 msgstr ""
+"Kdo říká, že tady ta věc vůbec funguje? Nejdřív ji budete muset poskytnout energii. Tam nahoře byl nenatankovaný generátor..."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -129,6 +141,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CEFE"
 msgid "Green paint flakes off the monoblock aluminium cabinet. There are rows of switches on the front panel, a frequency band and even a keyboard..."
 msgstr ""
+"Z monolitické hliníkové skříně se odlupuje zelená barva. Na předním panelu jsou řady spínačů, frekvenční pásmo a dokonce i klávesnice..."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -136,6 +149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF48"
 msgid "\"The console of an antique computation device.\" The lieutenant points to the wires running into the machine. \"There was a generator upstairs, with wires coming out. They terminate here.\""
 msgstr ""
+"\"Ovládací panel starožitného výpočetního zařízení.\" Poručík ukazuje na kabely vedoucí do stroje. \"Nahoře byl generátor, s vyvedenými kabely. Jsou zapojené sem.\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -150,6 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D1D8"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -234,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E933"
 msgid "Nah, it won't work. The canister feels light."
 msgstr ""
+"Ne, to nebude fungovat. Ten kanystr je lehký."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -248,6 +264,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D983"
 msgid "Automatic boot."
 msgstr ""
+"Automatické spouštění."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -255,6 +272,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00001817"
 msgid "\"Old hardware.\" He points to the wires running into the machine. \"From the big power-box upstairs. Circuit-bender shit. Military-grade.\""
 msgstr ""
+"\"Starý hardware.\" Ukáže na kabely vedoucí do stroje. \"Z té velké elektrické skříně nahoře. Hokuspokus sračka. Vojenský typ.\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -269,6 +287,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E975"
 msgid "\"Aw shit, it's on...\" He grins. \"Turn: Emergency -- Open!\""
 msgstr ""
+"\"Achjo, jede to...\" zazubí se. \"Proveď: Nouze - Otevřít!\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -325,6 +344,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E92D"
 msgid "(Peek into the canister.)"
 msgstr ""
+"(Nakoukni do kanystru.)"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -332,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF36"
 msgid "The keys rattle like teeth. This keyboard hasn't been functional in decades."
 msgstr ""
+"Klávesy zachrastí jako zuby. Tahle klávesnice už desítky let nefunguje."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -339,6 +360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D003"
 msgid "A dim golden glow animates the console. Faint, like a ghost-light. 'Urgence -- Ouvert!' reads one dial key. 'Allumer', reads another."
 msgstr ""
+"Ovládací panel oživuje matná zlatá záře. Slabá, jako světlo duchů. 'Urgence - Ouvert!' říká jedno tlačítko vytáčení. 'Allumer', říká další."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -374,6 +396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D28C"
 msgid "With the door open, the dial switch has locked into place -- a security measure of some sort."
 msgstr ""
+"Když jsou ty dveře otevřené, číselník se zablokuje - jakési bezpečnostní opatření."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -409,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E950"
 msgid "Of course. Anything else you want with this console?"
 msgstr ""
+"Jistě. Chceš dělat s tím panelem něco dalšího?"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -458,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D010"
 msgid "\"It's on...\" He smiles. \"Turn: Emergency -- Open!\""
 msgstr ""
+"\"Je to...\" usměje se. \"Proveď: Nouze - Otevřít!\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -465,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D0ED"
 msgid "There are barrels all around. One of them must still have fuel in it... Pour it into a generator and voila!"
 msgstr ""
+"Všude kolem jsou sudy. V jednom z nich ještě musí být palivo... Nalij ho do toho generátoru a voila!"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -486,6 +512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF8B"
 msgid "Nothing happens. \"We need to restore power before using this, officer. There was a generator that you missed...\" He looks upstairs. \"It didn't look like there was fuel in it.\""
 msgstr ""
+"Nic se nestane. \"Musíme obnovit napájení, než to použijeme, důstojníku. Byl tam ten generátor, to ti uniklo...\" Podívá se nahoru. \"Nezdálo se, že by v něm bylo palivo.\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -493,6 +520,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450001CF8B"
 msgid "Nothing happens. \"We need to restore power before using this, officer. The generator...\" He looks upstairs. \"It didn't look like there was fuel in it.\""
 msgstr ""
+"Nic se nestane. \"Musíme obnovit napájení, než to použijeme, důstojníku. Ten generátor...\" Podívá se nahoru. \"Nezdálo se, že by v něm bylo palivo.\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -500,6 +528,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D075"
 msgid "Nothing happens as you turn the dial. The power is off, the console stands silent."
 msgstr ""
+"Když otočíš tím vytačením, nic se nestane. Není napájení, ovládací panel zůstane tichý."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -570,6 +599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF29"
 msgid "The keys rattle like teeth as black dust rises from them. This must be the console of some antique computation device. The wires from the generator upstairs are routed into its innards."
 msgstr ""
+"Klávesy zachrastí jako zuby, a zavíří z nich černý prach. Musí to být ovládací panel nějakého starožitného výpočetního zařízení. Do jeho útrob vedou kabely z toho generátoru nahoře."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -598,6 +628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E962"
 msgid "Nothing happens."
 msgstr ""
+"Nic se nestane."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -633,6 +664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E943"
 msgid "\"It's sweet you got government fuel -- way sweet -- but there ain't shit left in there. You need, like, a full load. Let's check outside when you're done with this.\""
 msgstr ""
+"\"To je příjemné, že máš vládní palivo - moc příjemné - ale v tom nezůstalo ani prd. Potřebuješ plnou nádrž. Podíváme se po něčem venku, až s tím skončíš.\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -668,6 +700,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E97C"
 msgid "It's on! Automatic boot. Now, just turn the key..."
 msgstr ""
+"Je to tam! Automatické spouštění. Teď stačí otočit tím klíčkem..."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -675,6 +708,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF2F"
 msgid "Run your fingers across the keyboard."
 msgstr ""
+"Přejeď prsty přes tu klávesnici."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -682,6 +716,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D065"
 msgid "The lighting in the room turns on with a sizzle. A dim, ambient orange."
 msgstr ""
+"Osvětlení v místnosti se se syčením rozsvítí. Tlumenou, podbarvující oranžovou."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -703,6 +738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E912"
 msgid "What about the fuel you found in the MC? The red government-marked fuel..."
 msgstr ""
+"A co to palivo, které jsi našel v MV? To vládou červené označené palivo..."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -710,6 +746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E93C"
 msgid "Yeah, okay. There's barely anything left in there. You have to find a larger supply."
 msgstr ""
+"Jo, tak jo. Skoro nic tam nezbylo. Musíš najít větší zásoby."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -738,6 +775,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E958"
 msgid "The console stands by, mutely. 'Urgence -- Ouvert!' reads a dial key. 'Allumer,' reads another. The frequency band says: 'Radiodiffusé.'"
 msgstr ""
+"Ovládací panel stojí v pohotovosti, tiše. 'Urgence - Ouvert!' říká tlačítko pro vytáčení. 'Allumer', je na dalším. Frekvenční pásmo říká: 'Radiodiffusé'."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -745,6 +783,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF06"
 msgid "What is this? (Run your fingers across the keyboard.)"
 msgstr ""
+"Co je tohle? (Přejeď prsty přes tu klávesnici.)"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -794,6 +833,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000150AA"
 msgid "Turn: 'Emergency -- Open!'"
 msgstr ""
+"Proveď: 'Nouze - Otevřít!'"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -801,6 +841,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E8FC"
 msgid "\"Wait, what about this fuel I found from my MC?\" (Show him the canister.)"
 msgstr ""
+"\"Počkej, co to palivo, které jsem našel v mém MV?\" (Ukaž mu kanystr.)"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -808,6 +849,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF84"
 msgid "Push: 'Light (Interior)'."
 msgstr ""
+"Stiskni: 'Světlo (Interiér)'."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -815,6 +857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CFEC"
 msgid "The console is powered off and covered in dust. 'Urgence -- Ouvert!' reads a dial key. 'Allumer', reads another. The frequency band says: 'Radiodiffusé'."
 msgstr ""
+"Ovládací panel je vypnutý a pokrytý prachem. 'Urgence - Ouvert!' říká tlačítko pro vytáčení. 'Allumer', je na dalším. Frekvenční pásmo říká: 'Radiodiffusé'."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -822,6 +865,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D087"
 msgid "\"Cuno's gonna stop you right there. This...\" he strokes the console, \"ain't gonna work.\" He points upward, to the generator. \"Not without the juice. You gotta fuel that shit if you want it to work. Let's look outside maybe?\""
 msgstr ""
+"\"Kuno tě hned tady zastaví. Tohle...\" pohladí konzolu, \"nebude fungovat.\" Ukazuje nahoru, k tomu generátoru. \"Bez šťávy ne. Musíš tu sračku natankovat, jestli chceš, aby šlapala. Porozhlédneme se venku?\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -829,6 +873,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D0AC"
 msgid "\"We should look around outside. There are barrels all over, maybe one of them still has something in it...\" He looks into the dim light to his right."
 msgstr ""
+"\"Měli bychom se rozhlédnout venku. Všude tam jsou sudy, možná v jednom z nich ještě něco je...\" Podívá se do tlumeného světla po své pravici."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -878,6 +923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF22"
 msgid "\"The console of an antique computation device.\" The lieutenant points to the wires running into the machine. \"The generator upstairs, with wires coming out. They terminate here.\""
 msgstr ""
+"\"Ovládací panel starožitného výpočetního zařízení.\" Poručík ukazuje na kabely vedoucí do stroje. \"Ten generátor nahoře, s vyvedenými kabely. Jsou zapojené sem.\""
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -885,6 +931,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001CF78"
 msgid "Turn: 'Emergency -- Open!'"
 msgstr ""
+"Proveď: 'Nouze - Otevřít!'"
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
@@ -906,6 +953,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450001D282"
 msgid "The old button is stuck."
 msgstr ""
+"To staré tlačítko je zaseknuté."
 
 #. Title = SEAFORT INT / FELD INSULAR CONSOLE
 #. Description = old electronic console – turn on lights and open blast door if fuel in generator
