@@ -21,7 +21,7 @@ instalace závislostí pomocí příkazu `npm install`).
 
 Skript `game.js` umožnuje pracovat s _asset_ soubory.
 
-Herní soubory je nutné ručně extrahovat pomocí nástroje [UBAE](https://github.com/SeriousCache/UABE) do
+Herní soubory je nutné ručně extrahovat pomocí nástroje [UBAEA](https://github.com/nesrak1/UABEA) do
 složky `source/game/`. Očekávaná struktura souborů je:
 
 ```
