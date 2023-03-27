@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013204"
 msgid "Around here it's probably even more common."
 msgstr ""
+"Tady okolo je to možná dokonce ještě častější."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000930D"
 msgid "She probably heard the lieutenant's Kineema drive by."
 msgstr ""
+"Pravděpodobně slyšela poručíkovu Kineemu, když jela okolo."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000AA89"
 msgid "\"Are you sure you wouldn't rather stay here, get a nice, cozy fire going in the heater?\" She drops the rag into the bucket -- it's clean now. \"Seems like a better idea to me...\""
 msgstr ""
+"\"Jste si jistý, že nechcete raději zůstat tady a rozdělat si v kamnech příjemný oheň na zahřátí?\" Hodí hadr do kýblu - už je čistý. \"To se mi zdá jako lepší nápad...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001E2F"
 msgid "\"No, it's *not* like that man. With him, we called you. Right now, you just arrived by yourself. Like a raven, plucking at the window glass.\""
 msgstr ""
+"\"Ne, *není* to jak s tím chlápkem. Tehdy jsme vás zavolali. Ale tentokrát jste dorazil sám. Jako krkavec, který klepe na okno.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002808"
 msgid "\"Have you heard a radio on the coast in the last week or so?\""
 msgstr ""
+"\"Neslyšela jste poslední týden nebo tak nějak na pobřeží rádio?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002904"
 msgid "\"Anything else?\" A cold breeze rushes by. The old woman smiles."
 msgstr ""
+"\"Ještě něco?\" Zavane studený větřík. Stará žena se usmívá."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800020608"
 msgid "\"We're cops. We're hellraisers. Click, click. Bang, bang!\" (Point your finger pistols at her.)"
 msgstr ""
+"\"Jsme poldové. Rozpoutáváme peklo. Klik, klik. Prásk, prásk!\" (Namiř na ni svoje prstové pistole.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800020608"
 msgid "\"I'm a cop, *hellraiser*. Click, click. Bang, bang!\" (Point your finger pistols at her.)"
 msgstr ""
+"\"Jsem polda, rozpoutávám peklo. Klik, klik. Prásk, prásk!\" (Namiř na ni prstové pistole.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E32F"
 msgid "\"What else is on down coast?"
 msgstr ""
+"\"Co dalšího je podél pobřeží?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E35F"
 msgid "\"Of note? The old fishmarket up on the boardwalk. But it's closed.\""
 msgstr ""
+"\"Za povšimnutí? Stará rybí tržnice na mole. Ale je zavřená.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E75D"
 msgid "\"Later.\" [Leave.]"
 msgstr ""
+"\"Tak zatím.\" [Odejdi.]"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EEBB"
 msgid "\"Welcome to the fishing village.\" She opens her eyes. \"Please lean in closer. I have cataracts.\""
 msgstr ""
+"\"Vítejte v rybářské vesničce.\" Otevře oči. \"Prosím, nakloňte se blíž. Mám šedý zákal.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F139"
 msgid "\"Don't make this old women regret giving the police the key to her house.\" She takes out a key from under her apron and hands it to you. \"Here.\""
 msgstr ""
+"\"Nechtějte, aby tahle stará paní litovala, že vám kdy dala klíče od svého domu.\" Zpod své zástěry vytáhne klíč a podá ti ho. \"Tady máte.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F42B"
 msgid "\"After the war it was turned into a goodwill hospital for shell-shocked veterans and folks looking for some quiet in the old sanatorium gardens.\""
 msgstr ""
+"\"Po válce z toho udělali dobročinnou nemocnici pro traumatizované veterány a lidi, kteří hledali nějaký klid ve starých zahradách sanatoria.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F4B2"
 msgid "\"Maybe,\" she says with unnerving calm. \"It would be easy. But right now you want something from me, right?\""
 msgstr ""
+"\"Možná,\" řekne se znepokojivým klidem. \"Bylo by to snadné. Ale teď zrovna ode mě něco chcete, že ano?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F645"
 msgid "\"What, you're one of those real-estate people with big plans? If you want a development opportunity, you can check out the abandoned building over at Land's End.\""
 msgstr ""
+"\"Copak, vy jste jedním z těch realiťáků s velkými plány? Jestli chete příležitost k rozvoji, můžete se podívat na tu opuštěnou budovu támhle na Konci světa.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F80A"
 msgid "\"I have a possible explanation in my mind.\""
 msgstr ""
+"\"Napadlo mě možné vysvětlení.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F840"
 msgid "\"That bad, is it?\""
 msgstr ""
+"\"Je to až tak zlé?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F975"
 msgid "The lieutenant stops writing for a moment. He looks at you, then at the old woman."
 msgstr ""
+"Poručík na chvíli přestane psát. Pohlédne na tebe, pak na starou ženu."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000066000004A3"
 msgid "\"Harrier Du Bois, but call me Harry.\""
 msgstr ""
+"\"Harrier Du Bois, ale říkejte mi Harry.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000330F"
 msgid "\"Wait, I've been here before?\""
 msgstr ""
+"\"Počkat, já už tady byl někdy předtím?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044A7"
 msgid "\"Evrart wants to turn part of the village into a little youth centre.\""
 msgstr ""
+"\"Evrart chce přestavět část vesnice na malé centrum pro mládež.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -187,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044CD"
 msgid "\"Thought so.\" The old woman inhales sharply. \"So what do the Claire brothers want this time?\""
 msgstr ""
+"\"To jsem si myslela.\" Stará žena se ostře nadechne. \"Takže, copak bratři Jasní chtějí tentokrát?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -195,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004503"
 msgid "\"Aye. Lilienne's not the only one who's too trusting.\""
 msgstr ""
+"\"Aj. Liliana není jediná příliš důvěřivá.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -203,6 +235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000465D"
 msgid "\"Do you know who takes the cream off these deals? Real estate developers, construction companies, restaurant owners, Claire's accountants in La Delta...\""
 msgstr ""
+"\"Víte, kdo z těchto kšeftů slízne smetanu? Realitní developeři, stavební firmy, majitelé restaurací, Jasného účetní v La Deltě...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -211,6 +244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000045E"
 msgid "\"Sounds nice.\""
 msgstr ""
+"\"To zní hezky.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -219,6 +253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000652"
 msgid "The question must be prompted by your sloppy posture. Straighten you back, man."
 msgstr ""
+"Tu otázku určitě vyvolal tvůj nedbalý postoj. Narovnej záda, chlape."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -227,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001ADC"
 msgid "\"Do you know anything about a lost jacket?\""
 msgstr ""
+"\"Nevíte něco o ztracené bundě?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001AEF"
 msgid "\"One of the drunks lost his and I agreed to look for it.\""
 msgstr ""
+"\"Jeden z opilců tu svou ztratil, a já souhlasil, že se po ní podívám.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B63"
 msgid "\"I found this jacket, but it's filthy. Could you wash it for me?\""
 msgstr ""
+"\"Našel jsem jeho bundu, ale je velmi špinavá. Nemohla byste mi ji vyprat?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007B00001B63"
 msgid "\"I found that jacket I was looking for, but it's filthy. Could you wash it for me?\""
 msgstr ""
+"\"Našel jsem tu bundu, kterou jsem hledal, ale je velmi špinavá. Nemohla byste mi ji vyprat?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014802"
 msgid "\"I'm sorry I couldn't warn him in time.\""
 msgstr ""
+"\"Mrzí mě, že jsem ho nemohl včas varovat.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C7F7"
 msgid "The grandmother card *will* do the trick. Last chance to turn back."
 msgstr ""
+"Sázka na babičku *zabere*. Poslední šance obrátit."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001555"
 msgid "Test the waters here. Say that there's nothing to be worried about."
 msgstr ""
+"Vyzkoušej vody. Řekni, že to není nic, z čeho mít obavy."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000156A"
 msgid "\"Evrart gave me five reál, he could easily give you fifteen. Or even fifty?\""
 msgstr ""
+"\"Evrart mi dal pět reálů, vám klidně mohl dát patnáct. Nebo dokonce padesát?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000133AD"
 msgid "He's a little relieved you're no longer in that room."
 msgstr ""
+"Trochu se mu ulevilo, že v tom pokoji už nebudeš."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -299,6 +343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009234"
 msgid "She really believes that."
 msgstr ""
+"Opravdu tomu věří."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -307,6 +352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000092E8"
 msgid "\"I'm guessing you didn't put it there -- Ruby did.\""
 msgstr ""
+"\"Hádám, že vy jste ji tam nedala - to Ruby.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -315,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000931C"
 msgid "She probably heard the lieutenant's Kineema drive by and it woke her up, just like it did you."
 msgstr ""
+"Pravděpodobně slyšela poručíkovu Kineemu projíždět kolem a to ji vzbudilo, zrovna jako tebe."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -323,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DF7F"
 msgid "\"Aye? What's this about?\" She takes out the documents and squints her eyes. \"Come now, I can't read all this scribble. Tell me what it says.\""
 msgstr ""
+"\"Aj? O čem to je?\" Vytáhne dokumenty a přimhouří oči. \"No ták, já ten škrabopis nepřečtu. Řekněte mi, co se tam píše.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -331,6 +379,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E353"
 msgid "\"Which is it then? Apartments or electrical plant?\""
 msgstr ""
+"\"Co to tedy bude? Bytovky nebo elektrárna?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -339,6 +388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EEE6"
 msgid "\"I won't be going anywhere.\" She side-eyes the bucket full of clothes."
 msgstr ""
+"\"Já nikam nepůjdu.\" Koutkem oka pohlédne na kýbl plný prádla."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -347,6 +397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F04F"
 msgid "\"Now it's your turn, mister...?\""
 msgstr ""
+"\"A teď je řada na vás, pane...?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -355,6 +406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F10D"
 msgid "\"You got yourself a tenant!\" (Get keys to your new home.)"
 msgstr ""
+"\"Našla jste nájemníka!\" (Převezmi klíče od tvého nového domova.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -363,6 +415,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F208"
 msgid "\"Okay, but I'll be back later if I find anything *suspicious*.\""
 msgstr ""
+"\"Dobře, ale jestli najdu něco *podezřelého*, tak se později vrátím.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -371,6 +424,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000F208"
 msgid "\"Okay, but we'll be back later if we find anything *suspicious*.\"\n"
 msgstr ""
+"\"Dobře, ale pokud najdeme něco *podezřelého*, tak se později vrátíme.\"\n"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -379,6 +433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3FB"
 msgid "\"It's okay,\" she calms you. \"What matters is we are still around. Still living our lives. Even in 'pornographic' poverty we make do...\""
 msgstr ""
+"\"Nic se neděje,\" uklidní tě. \"Na čem záleží je, že jsme stále tady. Stále žijeme naše životy. I v té 'pornózní' chudobě nějak vyjdeme...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -387,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F40F"
 msgid "\"The Pox? What's that?\""
 msgstr ""
+"\"Neštovice? Copak to je?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -395,6 +451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F43A"
 msgid "\"The good will ran out.\" She tightens the scarf around her neck. \"The staff left and the place was shut down. It's long gone by now.\""
 msgstr ""
+"\"Dobročinnost jednou vyprchá.\" Utáhne si šálu okolo krku. \"Zaměstnanci odešli, a to zařízení zavřeli. Už tam dlouho nic není.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -403,6 +460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F479"
 msgid "\"At least those who remain...\" She falls silent and turns to look over her shoulder, as though looking for someone."
 msgstr ""
+"\"Aspoň ti, kdož zůstanou...\" Odmlčí se a ohlédne se přes rameno, jako by se po někom dívala."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -411,6 +469,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F7A6"
 msgid "\"That's for the police to find out.\" The lieutenant takes out his familiar blue notebook. \"Right then, please answer each question to the best of your ability. I'm sure we have a few.\""
 msgstr ""
+"\"To je na policii, aby to zjistila.\" Poručík vytáhne svůj známý modrý zápisník. \"Dobře tedy, prosím odpovězte na každou z otázek, jak nejlépe můžete. Jsem si jistý, že jich pár máme.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -419,6 +478,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F7B1"
 msgid "\"I cleaned it, like I always do.\""
 msgstr ""
+"\"Uklidila jsem ji, jak to obvykle dělám.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -427,6 +487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F804"
 msgid "She planned on fuckin' shooting herself in the goddamned head."
 msgstr ""
+"Plánovala, že se kurva střelí přímo do svý zatracený hlavy."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -435,6 +496,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F869"
 msgid "\"No...\" She tilts her head to the side, looking up at you, deep in thought. \"She's a fighter.\""
 msgstr ""
+"\"Ne...\" Nakloní hlavu do strany a zamyšleně na tebe vzhlédne. \"Ona je bojovnice.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -443,6 +505,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000043E4"
 msgid "\"Have you asked Lilienne about this? I won't even consider signing till I know she's on board.\" She hands the envelope back."
 msgstr ""
+"\"Ptal jste se na to Liliany? Nad podpisem se ani nezamyslím, dokud se nedozvím, zda je pro.\" Podá ti obálku zpět."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -451,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004510"
 msgid "\"I changed my mind, I want you to sign the documents.\" (Give her the envelope.)"
 msgstr ""
+"\"Rozmyslel jsem to, chtěl bych, abyste mi podepsala ty dokumenty.\" (Podej jí obálku.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -459,6 +523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004BD"
 msgid "\"Wouldn't *dance* with you? Is that what you look for in a partner?\""
 msgstr ""
+"\"Nechtěl s vámi *tancovat*? Je tohle to, co hledáte v partnerovi?"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -467,6 +532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000796"
 msgid "\"You watch your tongue, boy. This village has held up much better than *some* people.\" Even with her cataracts she can pierce right through you."
 msgstr ""
+"\"Dávejte si pozor na jazyk, chlapče. Tahle vesnice obstála mnohem lépe, než *někteří* lidi.\" I s jejím šedým zákalem tě dokáže propálit pohledem."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -475,6 +541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B43"
 msgid "\"I just need to be needed.\""
 msgstr ""
+"\"Jen potřebuji být potřebován.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -483,6 +550,7 @@ msgstr ""
 msgctxt "Dialogue Text/od4wbivq4owzkoz0"
 msgid "\"You're still not saying it right.\""
 msgstr ""
+"\"Stále to neříkáte správně.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -491,6 +559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C772"
 msgid "That's you alright. A black hound licking your own heels."
 msgstr ""
+"To jsi opravdu ty. Černý pes lízající si vlastní zadek."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -499,6 +568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C82A"
 msgid "The truth, sire."
 msgstr ""
+"Pravdu dí, sire."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -507,6 +577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C83A"
 msgid "\"This...\" (Spread your hands.)"
 msgstr ""
+"\"Tohle...\" (Roztáhni paže.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -515,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000FEB4"
 msgid "Relax, you're not a 'new face'. She doesn't mean you. You are an outsider. And a cop, remember?"
 msgstr ""
+"V klidu, ty nejsi 'nová tvář'. Nemyslí tebe. Ty jsi cizinec. A polda, pamatuješ?"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -523,6 +595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001342C"
 msgid "\"And what do you think I'm doing right now, Mr. RCM?!\" The scrub brush flies into the bucket so furiously some splashes hit your face."
 msgstr ""
+"\"A co si myslíte, že právě teď dělám, pane ROM?!\" Kartáč vjede do kýblu tak zuřivě, že ti do tváře vstříkne něco vody."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -531,6 +604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001344A"
 msgid "I'm not forging anything. It's dishonourable. And illegal."
 msgstr ""
+"Já nic falšovat nebudu. Je to nečestné. A nelegální."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -539,6 +613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000927D"
 msgid "\"Are you sure she didn't go somewhere more pleasant... and less wet?\""
 msgstr ""
+"\"Jste si jistá, že nešla někam, kde je to příjemnější... a méně vlhké?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -547,6 +622,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009306"
 msgid "\"Yes, early, with the dogs -- around 8 o'clock, I think.\""
 msgstr ""
+"\"Ano, brzy, vstala se slepicema - myslím, že tak kolem osmé.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -555,6 +631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002876"
 msgid "\"Hm...\" The lieutenant furrows his brow. He looks back to the children and sighs."
 msgstr ""
+"\"Hm...\" Poručík nakrčí čelo. Pohlédne zpět na děti a vzdychne."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -563,6 +640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000028EA"
 msgid "\"I'm ready when you are.\" He turns his face away, toward nothing in particular."
 msgstr ""
+"\"Budu připraven, až budete připraven vy.\" Odvrátí se pryč, k ničemu konkrétnímu."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -571,6 +649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E24E"
 msgid "\"I don't need much. This sounds just fine.\""
 msgstr ""
+"\"Nepotřebuji moc. Tohle vypadá dobře.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -579,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E2B1"
 msgid "\"Who, what drunks?\""
 msgstr ""
+"\"Kdo, jací opilci?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -587,6 +667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E2BD"
 msgid "\"Sooner or later you'll see for yourself.\" She slowly shakes her head. \"Don't have to look long to find these guys.\""
 msgstr ""
+"\"Dřív nebo později, uvidíte sám.\" Pomalu zavrtí hlavou. \"Ty chlápk nebudete muset hledat dlouho.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -595,6 +676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EE42"
 msgid "\"I heard she was a heavy drinker with anger issues. You ever witness that kind of behaviour?\""
 msgstr ""
+"\"Slyšel jsem, že byla alkoholička s problémem se zuřivostí. Byla jste svědkem takového chování?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -603,6 +685,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EE66"
 msgid "\"Not that I know of, though she was into nice music. She once showed me a few mixtape-milieus she'd made.\" She brushes her forehead with the back of her hand. Water drips to the ground."
 msgstr ""
+"\"O žádných nevím, ale měla ráda dobrou muziku. Jednou mi pustila pár kazet s výběrem, který si nahrála.\" Otře si čelo hřbetem ruky. Voda kape na zem."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -611,6 +694,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F085"
 msgid "\"Why would I do that? That's a fool's name. Are you a fool?\" Her bony finger raises before you can speak. \"Don't ridicule yourself before an old woman, officer. It's undignified.\""
 msgstr ""
+"\"Proč bych to dělala? To je jméno pro hlupáka. Jste snad hlupák?\" Než stihneš promluvit, pozvedne kostnatý prst. \"Nezesměšňujte se před starou paní, detektive. Je to nedůstojné.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -619,6 +703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F113"
 msgid "\"No, I don't want a free room, it's not proper.\" (Stay at Whirling-in-Rags.)"
 msgstr ""
+"\"Ne, nechci pokoj zdarma, není dostačující.\" (Zůstaň v Cárech.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -627,6 +712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F13F"
 msgid "\"Actually, is that free room still available?\""
 msgstr ""
+"\"Vlastně, je ten pokoj zdarma ještě volný?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -635,6 +721,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F1DB"
 msgid "\"Oh, because you're blind, right.\""
 msgstr ""
+"\"Ach, protože jste slepá, jasně.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -643,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3D5"
 msgid "\"That's what I thought.\""
 msgstr ""
+"\"To jsem si myslel.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -651,6 +739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F8CC"
 msgid "\"What more do you want to know about that poor girl?\""
 msgstr ""
+"\"Co ještě chcete vědět o tom nebohém děvčeti?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -659,6 +748,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00003401"
 msgid "\"What do you expect? Police officers get put into dangerous situations all the time. Sometimes they get shot. It's a rough trade you're in.\""
 msgstr ""
+"\"A co čekáte? Policejní důstojníci jsou pořád zatahovaní do nebezpečných situací. No a někdy je střelí. Je to prostě tvrdá práce.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -667,6 +757,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00003431"
 msgid "\"A lullaby my mother used to sing. I sang it to my kids too. It's an old Samaran children's song.\""
 msgstr ""
+"\"Ukolébavka, kterou mi zpívala moje matka. A já ji zpívala mým dětem. Je to stará Samarská písnička pro děti.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -675,6 +766,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004294"
 msgid "You know, there could be another way. You'll need to go some place *private* and *discreet*, though... like your shack."
 msgstr ""
+"Víš, našel by se ještě jiný způsob. Ale musíš jít někam, kde to bude *v soukromí* a *diskrétní*... jako například v tvojí chatrči."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -683,6 +775,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000042B7"
 msgid "She is headstrong, but there's a *slight* hesitation in there... You may be able to convince her."
 msgstr ""
+"Je tvrdohlavá, ale vidím tam *mírné* váhání... Možná se ti podaří ji přesvědčit."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -691,6 +784,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004413"
 msgid "\"You can start by signing these papers. I've got a pen right here.\" (Hand her the documents.)"
 msgstr ""
+"\"Můžete začít podepsáním těchto papírů. Mám tady pero.\" (Podej jí dokumenty.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -699,6 +793,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100006B00004413"
 msgid "\"I said, 'You can start by signing these papers.' I've got a pen right here.\" (Hand her the documents.)"
 msgstr ""
+"\"Říkal jsem, 'Můžete začít tak, že podepíšete tyto papíry.' Zrovna tady mám pero.\" (Podej jí dokumenty.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -707,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044A0"
 msgid "\"It's just a real estate deal. Nothing ominous.\""
 msgstr ""
+"\"Je to jen stavitelský kšeft. Nic zlověstného.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -715,6 +811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000046B8"
 msgid "It's okay. She's emotional right now. Keep at it, wear her out."
 msgstr ""
+"Je to v pořádku. Je zrovna v emocionálně vypjatém stavu. Zůstaň u toho, udolej ji."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -723,6 +820,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005526"
 msgid "\"You've got to put the kids first.\""
 msgstr ""
+"\"Ale co děti, mají si kde hrát?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -731,6 +829,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B13"
 msgid "\"Are you getting a reward for it at least?\""
 msgstr ""
+"\"Dostanete za to aspoň odměnu?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -739,6 +838,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001E12"
 msgid "\"That's an *excellent* question, ma'am.\""
 msgstr ""
+"\"To je *excelentní* otázka, paní.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -747,6 +847,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000002000009D6"
 msgid "Forging the signatures, of course. Was that not obvious?"
 msgstr ""
+"Zfalšovat podpisy, samozřejmě. Nebylo to snad zřejmé?"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -755,6 +856,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001338B"
 msgid "\"You need to check your facts, officer.\" Her bony finger is pointing at you, soapy water dripping on the skirt. \"I said no such thing.\""
 msgstr ""
+"\"Musíte si ověřit vaše fakta, detektive.\" Její kostnatý prst ukazuje na tebe, mydlinky odkapávají na sukni. \"Nic takového jsem neřekla.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -763,6 +865,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015414"
 msgid "\"I could use a breather, it's been another *track and field day*,\" the lieutenant says, rubbing his thigh."
 msgstr ""
+"\"Hodila by se mi přestávka na vydechnutí, než začne další *atletický den*,\" řekne poručík, masírujíc si stehno."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -779,6 +882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000933E"
 msgid "\"Yes. That is a downside of having a 130 kilowatt engine.\" His voice is tinged with pride. \"It lets the bad guys know when you're coming.\""
 msgstr ""
+"\"Ano. To je nevýhoda toho, když máte 130kW motor.\" V jeho hlase zvoní pýcha. \"Dá to zlým lidem na vědomí, že se blížíte.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -787,6 +891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009371"
 msgid "\"No, she was mostly silent this time. Kept to herself...\""
 msgstr ""
+"\"Ne, tentokrát byla většinou potichu. Nechala si vše pro sebe...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -795,6 +900,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000AA6E"
 msgid "\"She tried not to let it show, but I could tell she hadn't come to fish -- usually she likes to cast a few lines, but this time she mostly stayed in her room.\""
 msgstr ""
+"\"Pokoušela se, aby to nebylo vidět, ale poznala jsem, že nepřišla rybařit - obvykle si ráda nahodí pár udic, ale tentokrát většinou zůstávala ve svém pokoji.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -803,6 +909,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E3BA"
 msgid "\"Isobel, you must understand, this place *needs* that construction project.\""
 msgstr ""
+"\"Izabelo, musíte tomu porozumět, tohle místo ten stavitelský počin *potřebuje*.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -811,6 +918,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E750"
 msgid "\"I won't charge you for it. Take it as a gesture of goodwill, from the village to the RCM.\""
 msgstr ""
+"\"Nebudu za to nic chtít. Berte to jako projev dobré vůle, od vesničanů pro ROM.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -819,6 +927,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EF73"
 msgid "Don't bother her. [Leave.]"
 msgstr ""
+"Neotravuj ji. [Odejdi.]"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -835,6 +944,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F22F"
 msgid "\"There's not much *to* tell. People come and go. Now, was there something else?\""
 msgstr ""
+"\"Není moc co říct. Lidé přicházejí a odcházejí. No, chcete vědět něco jiného?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -843,6 +953,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3CE"
 msgid "\"The lack of wealth is the one thing we've got in abundance.\" The woman smiles cryptically."
 msgstr ""
+"\"Nedostatek bohatství je jedinou věcí, které máme přebytek.\" Žena se záhadně usměje."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -851,6 +962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000032B0"
 msgid "\"I'm a cop, I don't cause trouble, I take care of trouble.\""
 msgstr ""
+"\"Jsem polda, nezpůsobuji problémy, já problémy řeším.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -859,6 +971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004B4"
 msgid "\"He was a prig who wouldn't dance with me.\""
 msgstr ""
+"\"Byl to nudař, který se mnou nechtěl tancovat.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -867,6 +980,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000006D5"
 msgid "\"What's going to happen to the children?\""
 msgstr ""
+"\"Co se stane s dětmi?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -875,6 +989,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007B000006D5"
 msgid "\"What's going to happen to Lilienne's kids? The twins and little Lily?\""
 msgstr ""
+"\"Co se stane s Lilianinými dětmi? Dvojčaty a malou Lily?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -883,6 +998,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100007B000006D5"
 msgid "\"What's going to happen to little Lily?\""
 msgstr ""
+"\"Co se stane s malou Lily?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -891,6 +1007,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100007B000006D5"
 msgid "\"What's going to happen to Lilienne's twins?\""
 msgstr ""
+"\"Co se stane s Lilianinými dvojčaty?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -899,6 +1016,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000760"
 msgid "\"And *then* what?\""
 msgstr ""
+"\"A *potom* co?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -907,6 +1025,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000767"
 msgid "\"Then...\" the old woman exhales. She stares at the ground, unable to finish the thought."
 msgstr ""
+"\"Potom...\" vydechne stará žena. Zírá na zem, neschopná dokončit myšlenku."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -915,6 +1034,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000007CB"
 msgid "\"Aye, officer. I certainly will.\""
 msgstr ""
+"\"Aj, detektive. Určitě řeknu.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -923,6 +1043,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001E3B"
 msgid "\"There's honour in retrieving lost things.\""
 msgstr ""
+"\"Vracet ztracené věci je velká čest.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -931,6 +1052,7 @@ msgstr ""
 msgctxt "Dialogue Text/97q5v8v6t52r9au5"
 msgid "The old woman shakes her head slowly. She drops the rag into the bucket -- it's clean now."
 msgstr ""
+"Stará žena pomalu zavrtí hlavou. Upustí hadr do kýblu - nyní je čistý."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -947,6 +1069,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015E2A"
 msgid "\"Nothing good ever comes from paperwork, in my experience.\" She nods."
 msgstr ""
+"\"Z papírování nikdy nevzejde nic dobrého, dle mých zkušeností.\" Přikývne."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -955,6 +1078,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014811"
 msgid "\"So be careful. And don't be a hero.\""
 msgstr ""
+"\"Dávejte na sebe pozor. A nedělejte hrdinu.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -963,6 +1087,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013239"
 msgid "\"Aye? What's this about?\" She takes out the documents and squints her eyes. \"Come now, I can't read all this scribble. Tell me what it says.\""
 msgstr ""
+"\"Aj? O čem to je?\" Vytáhne dokumenty a přimhouří oči. \"No ták, tenhle škrabopis nepřečtu. Řekněte mi, co se tam píše.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -971,6 +1096,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000134C8"
 msgid "That doesn't make a whole lot of sense."
 msgstr ""
+"Tohle moc nedává smysl."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -979,6 +1105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000091FF"
 msgid "\"She came last Friday. Left on Monday, in a hurry...\" Her wrinkled hand kneads a blue rag in the water. \"What has she gotten herself into, that girl?\""
 msgstr ""
+"\"Přišla minulý pátek. Odešla v pondělí, ve spěchu...\" Její vrásčité ruce ve vodě mačkají modrý hadr. \"Do čeho se to ta holka namočila?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -987,6 +1114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009284"
 msgid "\"Yes, it's going to be too much work for you to find her.\" She drops the rag into the bucket -- it's clean now. \"Better for you to stay here, get a nice, cosy fire going in the heater...\""
 msgstr ""
+"\"Ano, dá vám to hodně práce ji najít.\" Upustí hadr do kýblu - nyní je čistý. \"Měl byste tady raději zůstat, rozdělat si příjemný, hřejivý oheň v kamnech...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -995,6 +1123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000092F7"
 msgid "She seems genuinely worried about her previous tenant. She's seen her hiding out from trouble before, but this seems different."
 msgstr ""
+"Zdá se, že si o svou předchozí nájemnici opravdu dělá starosti. Schovávat se před problémy ji viděla už předtím, ale tohle vypadá jinak."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1003,6 +1132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000284D"
 msgid "Olden days were golden days. Life's lustre is lost on those who speed."
 msgstr ""
+"Staré časy - zlaté časy. Život ztrácí lesk pro ty, kdož spěchají."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1019,6 +1149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E1F6"
 msgid "\"As you please.\""
 msgstr ""
+"\"Jak si přejete.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1035,6 +1166,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E2A5"
 msgid "\"Who else lives in this... village?\""
 msgstr ""
+"\"Kdo další žije v téhle... vesnici?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1043,6 +1175,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E317"
 msgid "\"Well, there's that music. Music from across the sea.\" She scoffs. \"It started a few days ago and now it's blasting, even through the nights.\""
 msgstr ""
+"\"No, je tady ta hudba. Hudba ze zámoří.\" Uchechtne se. \"Začalo to před pár dny, a stále se valí, i přes noc.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1051,6 +1184,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E708"
 msgid "\"You're still up?\""
 msgstr ""
+"\"Vy jste stále vzhůru?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1059,6 +1193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E74A"
 msgid "She nods, rinsing another piece of cloth."
 msgstr ""
+"Přikývne, namáčejíc další kus hadru."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1075,6 +1210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F152"
 msgid "\"An uncomplicated man,\" she nods approvingly. \"I take it that means you're interested?\""
 msgstr ""
+"\"Nekomplikovaný muž,\" souhlasně přikývne. \"Beru to tak, že máte zájem?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1083,6 +1219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000429F"
 msgid "You know, there could be another way. You'll need to go some place *private* and *discreet*, though. Your room in the Whirling would do..."
 msgstr ""
+"Víš, našel by se ještě jiný způsob. Ale musíš jít někam, kde to bude *v soukromí* a *diskrétní*. Stačil by třeba tvůj pokoj v Cárech..."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1091,6 +1228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044E6"
 msgid "\"Nothing good ever comes from paperwork, in my experience.\" She nods."
 msgstr ""
+"\"Z papírování nikdy nevzejde nic dobrého, dle mojí zkušenosti.\" Přikývne."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1099,6 +1237,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004643"
 msgid "\"I could try to ask Evrart to pay you some money...\""
 msgstr ""
+"\"Mohl bych se zeptat Evrarta, jestli by vám něco nezaplatil...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1107,6 +1246,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004670"
 msgid "\"Have some integrity. You're an officer of the law, not some fat slug's corrupt little crony.\""
 msgstr ""
+"\"Mějte nějakou integritu. Jste důstojníkem práva, ne nějaký kamarádíček prohnilého sádelnatého slimáka.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1115,6 +1255,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004D9"
 msgid "You could follow up on that, but suspect you're not going to pry much out of her."
 msgstr ""
+"Mohl by ses toho držet, ale mám podezření, že z ní mnoho nevytáhneš."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1123,6 +1264,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000059F"
 msgid "There's nobody there."
 msgstr ""
+"Nikdo tam není."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1131,6 +1273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000076E"
 msgid "Wait -- Let her come to it herself."
 msgstr ""
+"Počkat - ať na to přijde sama."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1139,6 +1282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000079C"
 msgid "Damn, that's cold."
 msgstr ""
+"Sakryš, to je chladné."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1147,6 +1291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200001679"
 msgid "\"I think I also met the drunks...\""
 msgstr ""
+"\"Myslím, že ochlasty jsem potkal...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1155,6 +1300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000140DA"
 msgid "\"So they don't hold services there anymore? The Ecclesiastes?\""
 msgstr ""
+"\"Takže oni už neslouží mše? To duchovenstvo?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1171,6 +1317,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C8CF"
 msgid "No. You can do it. You still have plenty of juice in you before you drop."
 msgstr ""
+"Ne. Ty to dáš. Stále máš v sobě dostatek šťávy, než padneš."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1179,6 +1326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C8D7"
 msgid "Behind the cinderblock houses, old pre-war ruins rise to the sky like dark palaces. The wind calls."
 msgstr ""
+"Za škvárobetonovými domy se k nebi tyčí staré předválečné ruiny jako temné paláce. Vítr kvílí."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1187,6 +1335,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008EFC"
 msgid "\"Get out of here, trying to ruin my day!\" She raises her bony finger. \"And that youth centre better be a good one or you'll have trouble from me.\""
 msgstr ""
+"\"Ztraťte se, než mi zkazíte den!\" Pozvedne kostnatý prst. \"A to mládežnické centrum ať raději stojí za to, nebo vám způsobím problémy.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1195,6 +1344,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001DBB"
 msgid "Those would be the dance music enthusiasts in their tent."
 msgstr ""
+"To budou ti nadšenci do taneční hudby v tom jejich stanu."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1203,6 +1353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001DDA"
 msgid "\"Alright. Got it.\""
 msgstr ""
+"\"Dobře. Rozumím.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1211,6 +1362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900001DE1"
 msgid "\"As I said. It's a peninsula. There's no one there. Just ghosts and vagrants. And teenagers making out.\""
 msgstr ""
+"\"Jak jsem říkala. Je to poloostrov. Nikdo tam není. Jen duchové a pobudové. A ocucávající se puberťáci.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1219,6 +1371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002886"
 msgid "\"Is there anything else I can help you with?\""
 msgstr ""
+"\"Ještě s něčím vám můžu pomoci?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1227,6 +1380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D9CD"
 msgid "Because she's blind, which you seem to have forgotten."
 msgstr ""
+"Protože je slepá, což jsi, zdá se, zapomněl."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1235,6 +1389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E20F"
 msgid "\"Some things just don't *fly*, officer.\" She smiles a gap-toothed smile and smells the air. \"Look around. Who'd go to church here? They built it three hundred years ago, must have been nicer then...\""
 msgstr ""
+"\"Některé věci prostě *neletí*, detektive.\" Zasměje se děravým úsměvem a nosem natáhne vzduch. \"Rozhlédněte se. Kdo by tady chodil do kostela? Postavili ho před třemi sty let, tehdy musel být hezčí...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1243,6 +1398,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E37D"
 msgid "\"There was a murder in Martinaise.\" He points east. \"She might be a suspect. We would appreciate your help.\""
 msgstr ""
+"\"V Martinéze se stala vražda.\" Ukáže na východ. \"Může být podezřelá. Ocenili bychom vaši pomoc.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1251,6 +1407,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E382"
 msgid "She's being evasive. She knows something."
 msgstr ""
+"Je vyhýbavá. Něco ví."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1259,6 +1416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E713"
 msgid "\"Yes. I can't really sleep anymore. Only a few hours a night. It happens when you grow older...\" She sloshes the water in the bucket around for a bit."
 msgstr ""
+"\"Ano. Já už nemůžu spát. Jen pár hodin v noci. To se stává, když zestárnete...\" Prohrábne vodu v kýblu."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1267,6 +1425,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EE5A"
 msgid "\"How would I know? She's a gruff one, but not violent. She doesn't go around toting a gun.\" She looks back toward her shack, thinking."
 msgstr ""
+"\"Jak to mám vědět? Je drsná, ale ne násilnická. Nechodí tady okolo a nemává pistolí.\" Zamyšleně se ohlédne směrem ke své chatrči."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1275,6 +1434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F415"
 msgid "\"It feels like I've heard the name somewhere, but tell me more.\""
 msgstr ""
+"\"Připadá mi, že to jméno už jsem někde slyšel, ale povězte mi víc.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1283,6 +1443,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F5E9"
 msgid "\"Not much...\" She replies and wipes her forehead. \"There's the abandoned church -- the Dolorian Church of Humanity. It's been there since before my time even.\""
 msgstr ""
+"\"Nic moc...\" Odpoví a otře si čelo. \"Je tady ten opuštěný kostel - Doloriánský kostel Lidskosti. Je tady dokonce déle, než já.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1307,6 +1468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000335D"
 msgid "\"Why?\""
 msgstr ""
+"\"Proč?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1315,6 +1477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000033AB"
 msgid "\"What kind of an ill omen are we talking about?\""
 msgstr ""
+"\"O jakém druhu zlých znamení se to tady bavíme?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1323,6 +1486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004F4"
 msgid "Should you try *THE EXPRESSION* on her?"
 msgstr ""
+"Měl bys na ni vyzkoušet *VÝRAZ*?"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1331,6 +1495,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000064B"
 msgid "She acknowledges you as her equal."
 msgstr ""
+"Považuje tě za sobě rovného."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1339,6 +1504,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000732"
 msgid "\"No! They're good kids. I brought them up the right way.\" There's a note of defiance in her voice."
 msgstr ""
+"\"Ne! Jsou to dobré děti. Vychovala jsem je správně.\" V jejím hlase je vzdorovitý tón."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1347,6 +1513,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000749"
 msgid "\"Well, I imagine they'll grow up and leave, too.\""
 msgstr ""
+"\"No, představuju si, že také vyrostou a odejdou.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1363,6 +1530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C7CF"
 msgid "Perhaps the mysterious music is somehow connected to the case? A rusálka, or a half-demonic *apsara*, singing..."
 msgstr ""
+"Možná má ta záhadná hudba spojitost s případem? Rusalka, nebo polo-démonická *nymfa*, zpívající..."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1371,6 +1539,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000918A"
 msgid "Ask her about lodgings..."
 msgstr ""
+"Zeptej se jí na bydlení..."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1379,6 +1548,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000091F8"
 msgid "\"When was this?\""
 msgstr ""
+"\"Kdy to bylo?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1459,6 +1629,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000331C"
 msgid "\"I *am* an ill omen, alright.\" (Proceed.)"
 msgstr ""
+"\"Ano, já vskutku *jsem* zlé znamení.\" (Pokračuj.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1483,6 +1654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004CB"
 msgid "\"That the best you can say about your *partner*? Sounds like it wasn't working out.\""
 msgstr ""
+"\"To je to nejlepší, co dokážete říct o svém *parťákovi*? Zní to, že vám to moc nefungovalo.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1491,6 +1663,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004E6"
 msgid "\"Guy was cramping my style. Every superstar goes solo in the end.\""
 msgstr ""
+"\"Týpek mi kazil styl. Každá superstar nakonec jede sólo.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1531,6 +1704,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000002000009F4"
 msgid "No, I don't wanna resort to forgery."
 msgstr ""
+"Ne, k falšování se neuchýlím."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1627,6 +1801,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000ABE"
 msgid "\"Enough about Ruby, I had other questions...\""
 msgstr ""
+"\"Dost už o Ruby, mám další otázky...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1635,6 +1810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DF5F"
 msgid "The old woman still hums her unknown song. She opens her eyes to acknowledge your presence."
 msgstr ""
+"Stará žena si stále brouká neznámou písničku. Otevře oči a vezme na vědomí tvou přítomnost."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1643,6 +1819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002815"
 msgid "\"Are you *sure* you didn't hear any radio playing?\""
 msgstr ""
+"\"Jste si *jistá*, že jste neslyšela hrát žádné rádio?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1651,6 +1828,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DA10"
 msgid "\"What is in this fishing village?\""
 msgstr ""
+"\"Copak je v téhle rybářské vesnici?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1659,6 +1837,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E214"
 msgid "\"This is my little cinderblock town.\" She nods with a wrinkled smile. \"I know what goes on around here.\""
 msgstr ""
+"\"Tohle je moje škvárobetonové městečko.\" Pokývne s vrásčitým úsměvem. \"Vím, co se tady okolo děje.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1667,6 +1846,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E359"
 msgid "\"Anything else of note?\""
 msgstr ""
+"\"Ještě něco pozoruhodného?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1675,6 +1855,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E41E"
 msgid "\"Why do you think she left the bullet there?\""
 msgstr ""
+"\"Proč si myslíte, že tam tu kulku nechala?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1683,6 +1864,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E424"
 msgid "\"Did she have any technical equipment with her, like radio stuff?\""
 msgstr ""
+"\"Měla s sebou nějaké elektronické vybavení, například rádiové?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1691,6 +1873,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E436"
 msgid "It's a peninsula. She might be *trapped*."
 msgstr ""
+"Je to poloostrov. Možná je *v pasti*."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1715,6 +1898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F224"
 msgid "\"'I see. You know something, but you've decided not to tell us.\""
 msgstr ""
+"\"Vidím. Něco víte, ale rozhodla jste se nám to neříct.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1787,6 +1971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000043DE"
 msgid "\"I see Lilienne's name is already here. Tsk, tsk. The girl is too trusting. Either way, I won't sign Union papers.\" She hands the envelope back to you."
 msgstr ""
+"\"Vidím, že Lilianino jméno už tady je. Tsk, tsk. Ta holka je příliš důvěřivá. Každopádně, papíry Odborům nepodepíšu.\" Podá ti obálku zpět."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1827,6 +2012,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001481D"
 msgid "\"You rented the room to her?\""
 msgstr ""
+"\"Pronajmula jste jí pokoj?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1851,6 +2037,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013433"
 msgid "Tastes like soap. Unsurprisingly."
 msgstr ""
+"Chutná jako mýdlo. Nepřekvapivě."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1859,6 +2046,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015429"
 msgid "\"No, not right now.\""
 msgstr ""
+"Ne, teď ne.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1891,6 +2079,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000280E"
 msgid "\"A radio? Hah -- no, we play no radio here. There is one in the shack, but it's never used.\""
 msgstr ""
+"\"Rádio? Hah - ne, my tady rádio nepouštíme. Jedno je v chatrči, ale nikdo ho nikdy nepoužívá.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1907,6 +2096,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002821"
 msgid "\"These ears know every sound that belongs to this coast. I would know if I heard anything different.\""
 msgstr ""
+"\"Tyhle uši znají každý zvuk, který k tomuto pobřeží náleží. Poznala bych, kdybych zaslechla něco jiného.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1915,6 +2105,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E311"
 msgid "\"I get the feeling you're leaving stuff out. What else is going on?\""
 msgstr ""
+"\"Mám pocit, že některé věci vynecháváte. Co ještě se děje?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1923,6 +2114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E3AC"
 msgid "No one? There's something about her... She's definitely not a 'no one'."
 msgstr ""
+"Nikdo? Něco na ní je... Ona určitě není 'nikdo'."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1931,6 +2123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EECE"
 msgid "\"Uh, what if I don't want to?\""
 msgstr ""
+"\"Uh, co když nechci?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1955,6 +2148,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F432"
 msgid "\"What happened to the hospital?\""
 msgstr ""
+"\"Co se s tou nemocnicí stalo?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1963,6 +2157,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F9A3"
 msgid "\"I wouldn't worry about that, ma'am. We're persistent.\""
 msgstr ""
+"\"S tím bych si nedělal hlavu, paní. Jsme vytrvalí.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -1995,6 +2190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044C3"
 msgid "\"I don't believe that. Police showing up here, collecting signatures -- this has Union written all over it.\""
 msgstr ""
+"\"Nevěřím tomu. Objeví se tady policie, sbírá podpisy - tohle má na sobě napsáno Odbory.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2003,6 +2199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004A1"
 msgid "\"Still, I'm sorry to hear about your partner. He seemed to be a decent enough sort.\""
 msgstr ""
+"\"I tak, to s vaším parťákem mě mrzí. Vypadal jako dost slušný typ.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2027,6 +2224,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B20"
 msgid "(Lie.) \"Yes.\""
 msgstr ""
+"(Lži.) \"Ano.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2035,6 +2233,7 @@ msgstr ""
 msgctxt "Dialogue Text/pr1o_zxiy2rwlmzn"
 msgid "\"Nothing. What did you say?\""
 msgstr ""
+"\"Nic. Co jste říkala?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2043,6 +2242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000002000009E2"
 msgid "Okay, forgery it is."
 msgstr ""
+"Dobře, tak tedy budem falšovat."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2051,6 +2251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C822"
 msgid "\"You didn't put it there, did you? *She* did.\""
 msgstr ""
+"\"Vy jste ji tam ale nedala, že ne? To *ona*.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2059,6 +2260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000FE21"
 msgid "\"Like I said,\" her tone sharpens, \"it's an old *children's* song. You don't have to like it.\""
 msgstr ""
+"\"Jak jsem říkala,\" její tón se zostří, \"jde o starou *dětskou* písničku. Nemusí se vám líbit.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2067,6 +2269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013252"
 msgid "\"Yes,\" she replies, slowly nodding. \"You do that. Can't let fat Mr. Claire down now, can you?\""
 msgstr ""
+"\"Ano,\" odpoví a pomalu přikývne. \"Vy to uděláte. Nemůžete teď sádelnatce pana Jasného podrazit, což?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2075,6 +2278,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013392"
 msgid "True. She only said she wouldn't even *consider* signing before Lilienne."
 msgstr ""
+"Pravda. Řekla jen, že nad podpisem nebude ani *uvažovat*, dokud to neudělá Liliana."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2083,6 +2287,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000133D4"
 msgid "Should he? This environment encourages one thing and one thing only -- drinking."
 msgstr ""
+"Měl by? Tohle prostředí povzbuzuje k jedné a jediné věci - chlastání."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2091,6 +2296,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00010AC5"
 msgid "\"I was asked to get your signature.\" (Hand her the envelope.)"
 msgstr ""
+"\"Požádali mě, abych získal váš podpis.\" (Podej jí obálku.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2099,6 +2305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002853"
 msgid "\"That's useful information. Thanks.\""
 msgstr ""
+"\"To je užitečná informace. Díky.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2107,6 +2314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000028E2"
 msgid "\"Must be exciting for you, Kim. Calling the station you're *accidentally* tuned into.\""
 msgstr ""
+"\"Musí to být pro vás vzrušující, Kime. Volat na stanici, kterou máte *omylem* naladěnou.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2115,6 +2323,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B000028E2"
 msgid "\"Ready to meet your heroes, Kim?\""
 msgstr ""
+"\"Připraven potkat své hrdiny, Kime?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2123,6 +2332,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E31D"
 msgid "She's not telling you all she knows. Keep her talking."
 msgstr ""
+"Neříká ti vše, co ví. Ať mluví dál."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2147,6 +2357,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F8C6"
 msgid "\"I had a few more questions about Ruby...\""
 msgstr ""
+"\"Měl bych o Ruby pár dalších otázek...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2155,6 +2366,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000033FB"
 msgid "\"This is no time for jokes. Can't you see I'm in pain?\""
 msgstr ""
+"\"Není čas na vtipkování. Nevidíte snad, že jsem v bolestech?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2163,6 +2375,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004289"
 msgid "It's really in her best interest to listen to you. You *know* how the world works."
 msgstr ""
+"Opravdu je v jejím nejlepším zájmu, aby tě poslouchala. Ty *víš*, jak svět funguje."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2171,6 +2384,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000046B2"
 msgid "Maybe just look at her with big pleading eyes?"
 msgstr ""
+"Možná by ses na ni mohl podívat velikýma prosebnýma očima?"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2179,6 +2393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000551F"
 msgid "\"I won't be around much longer, anyway. Not with the dampness in my bones.\" She looks at her knees. \"If they want to take a chance, who am I to stop them?\""
 msgstr ""
+"\"Už tady moc dlouho nebudu, každopádně. Ne s mými provlhlými kostmi.\" Pohlédne si na kolena. \"Pokud chtějí popadnout příležitost za pačesy, kdo jsem já, abych jim v tom mohla zabránit?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2187,6 +2402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000514"
 msgid "And risk fleshly contact with this old crone? Spare yourself!"
 msgstr ""
+"A riskovat fyzický kontakt s touhle stařenou? Střez se toho!"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2195,6 +2411,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000716"
 msgid "\"Are they here now?\""
 msgstr ""
+"\"Jsou teď tady?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2203,6 +2420,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000774"
 msgid "You have her! Now twist the knife..."
 msgstr ""
+"Dostals ji! A teď otoč nožem..."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2211,6 +2429,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000147EA"
 msgid "She makes it sound like losing one's name was as common as a mid-life crisis."
 msgstr ""
+"Říká to tak, jako by ztratit své jméno bylo tak obvyklé, jako krize středního věku."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2219,6 +2438,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C7C6"
 msgid "Between here and Jamrock, a dusty sea of old trees, all covered in industrial soot. Small houses under them, an overgrown park..."
 msgstr ""
+"Mezi tímhle místem a Šprajclem, prašné moře starých stromů, všechny pokryté sazemi průmyslu. Pod nimi malé domky, přerostlý park..."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2227,6 +2447,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C7E0"
 msgid "Ruby was here. You know it."
 msgstr ""
+"Ruby tady byla. Víš to."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2235,6 +2456,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005B9F"
 msgid "\"Lilienne is tough.\" She nods. \"Tougher than the men here at least. If it wasn't for her and the kids, this place wouldn't have a spark of life left.\""
 msgstr ""
+"\"Liliana je tvrdá.\" Přikývne. \"Alespoň tvrdší, než místní muži. Nebýt jí a jejích dětí, na tomhle místě by nezbyla ani jiskřička života.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2259,6 +2481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009183"
 msgid "You need to look into these shacks. Especially hers."
 msgstr ""
+"Do těch chatrčí se musíš podívat. Zvláště do té její."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2267,6 +2490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000016000092FF"
 msgid "\"You said she left on Monday?\""
 msgstr ""
+"\"Říkala jste, že odešla v pondělí?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2275,6 +2499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009369"
 msgid "\"Did she talk to you much this time?\""
 msgstr ""
+"\"Bavila se tentokrát s vámi hodně?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2291,6 +2516,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DF6F"
 msgid "\"Goodbye, I'm off.\" [Leave.]"
 msgstr ""
+"\"Nashledanou, odcházím.\" [Odejdi.]"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2299,6 +2525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D9B9"
 msgid "\"Have you seen a woman named Ruby around here?\""
 msgstr ""
+"\"Neviděla jste tady ženu zvanou Ruby?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2307,6 +2534,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005A0000D9B9"
 msgid "\"Have you seen a red-haired woman named Ruby around the coast?\""
 msgstr ""
+"\"Neviděla jste tady na pobřeží rudovlasou ženu zvanou Ruby?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2315,6 +2543,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DA22"
 msgid "\"Why was there a bullet under the floorboards of your shack?\""
 msgstr ""
+"\"Proč byla pod podlahou vaší chatrče schovaná kulka?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2331,6 +2560,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F1C5"
 msgid "\"Well, if you're not in the hostel in the morning, I'll know where to find you.\" He looks around and adds: \"Here. In a shack.\""
 msgstr ""
+"\"No, pokud ráno nebudete v hostelu, budu vědět, kde vás najít.\" Rozhlédne se a dodá: \"Tady. V chatrči.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2339,6 +2569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3E9"
 msgid "\"That doesn't make any sense.\""
 msgstr ""
+"\"To nedává žádný smysl.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2347,6 +2578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F4A3"
 msgid "\"Maybe I should stay lost. Just move here and... disappear completely.\""
 msgstr ""
+"\"Možná bych měl zůstat ztracen. Prostě se sem přestěhovat... a zcela zmizet.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2355,6 +2587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F509"
 msgid "She nods and raises her unseeing eyes. \"What are you interested in then?\""
 msgstr ""
+"Přikývne a pozvedné své nevidoucí oči. \"Copak vás tedy zajímá?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2363,6 +2596,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F612"
 msgid "\"And now *suspicious*-looking people are sneaking around the church. I don't like that.\""
 msgstr ""
+"\"A teď okolo kostela slídí *podezřele* vypadající lidé. Nelíbí se mi to.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2371,6 +2605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F632"
 msgid "\"Who'd want to come to a fishmarket here?\""
 msgstr ""
+"\"Kdo by sem chtěl chodit do rybí tržnice?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2379,6 +2614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F778"
 msgid "\"What is she like, Ruby?\""
 msgstr ""
+"\"Ta Ruby, jaká je?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2387,6 +2623,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F830"
 msgid "\"It's an exit plan.\""
 msgstr ""
+"\"Je to plán úniku.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2419,6 +2656,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044FD"
 msgid "\"So it was a test?\""
 msgstr ""
+"\"Takže to byla zkouška?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2459,6 +2697,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B1A"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2483,6 +2722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000133BC"
 msgid "Sire, she doesn't believe things will ever improve around here."
 msgstr ""
+"Sire, ona nevěří, že by se věci vezdejší zlepšiti mohly."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2491,6 +2731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000934D"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2499,6 +2740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009363"
 msgid "\"Did she talk to you much during her last stay?\""
 msgstr ""
+"\"Když tady byla naposled, bavila se s vámi hodně?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2507,6 +2749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000DF49"
 msgid "The woman next to a bucket of clothes hums an odd melody. Her eyes are closed."
 msgstr ""
+"Žena s kýblem plným prádla si brouká podivnou melodii. Její oči jsou zavřené."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2515,6 +2758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E22A"
 msgid "The place is so pornographically poor it's not even funny."
 msgstr ""
+"Tohle místo je tak pornózně chudé, že to ani není vtipné."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2523,6 +2767,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E231"
 msgid "\"Wait, hold on, you're just *giving* it to me?\""
 msgstr ""
+"\"Počkat, vy mi to prostě *dáváte*?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2531,6 +2776,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E260"
 msgid "\"One more time: I can just *have* the room?\""
 msgstr ""
+"\"Ještě jednou: Mohl bych prostě *dostat* pokoj?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2539,6 +2785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E371"
 msgid "\"And now you know everything there is to know about this coast.\" She drops a bar of soap into the bucket with a splash."
 msgstr ""
+"\"A teď už víte vše, co je možné vědět o tomto pobřeží.\" Se šplouchnutím vhodí mýdlo do kýblu."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2547,6 +2794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EE48"
 msgid "\"Nothing of the sort.\" She shakes her head. \"Sure, she was no stranger to the bottle... she fit in, that way. But I only knew her to have a beer on the beach while watching the sunset...\""
 msgstr ""
+"\"Nic takového.\" Zavrtí hlavou. \"Jasně, láhev jí nebyla cizí... tím způsobem zapadala. Ale viděla jsem ji jen, jak na pláži pozoruje západ slunce a dává si k tomu pivo...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2755,6 +3003,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F073"
 msgid "\"I lost my name.\""
 msgstr ""
+"\"Ztratil jsem své jméno.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2763,6 +3012,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F0C9"
 msgid "\"There's this guy -- Garte -- who makes me give him money *every night* just so I don't die out in the cold.\""
 msgstr ""
+"\"Je takový chlápek - Gart - kterému musím *každou noc* dávat peníze, jen abych venku neumrzl.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2771,6 +3021,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3F1"
 msgid "\"Aye.\" Her eyes grow wide with glee. \"Sometimes it's as though I've also gotten lost inside this nameless nothing.\""
 msgstr ""
+"\"Aj.\" Její oči se radostně rozšíří. \"Někdy mi připadá, jako bych se také ztratila uvnitř této bezejmenné nicoty.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2779,6 +3030,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F425"
 msgid "\"Now the area is criss-crossed with nameless streets and makeshift cinderblock houses. Shacks as far as the eye can see.\""
 msgstr ""
+"\"A teď tu oblast křižují bezejmenné ulice a provizorní škvárobetonové domy. Chatrče, kam až oko dohlédne.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2787,6 +3039,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F502"
 msgid "\"I'm not really interested in town drunks, but thanks.\""
 msgstr ""
+"\"Městští ochlastové mě vlastně nezajímají, ale díky.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2795,6 +3048,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000032D7"
 msgid "\"We're cops. We're hellraisers. Click, click. Bang, bang!\""
 msgstr ""
+"\"Jsme poldové. Rozpoutáváme peklo. Klik, klik. Prásk, prásk!\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2803,6 +3057,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004628"
 msgid "\"Cops bribing citizens? Doesn't it usually go the other way around?\" She doesn't wait for your reply."
 msgstr ""
+"\"Poldové uplácejí občany? Nechodí to obvykle naopak?\" Na tvou odpověď nečeká."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2811,6 +3066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004635"
 msgid "\"What you'll find is poverty and abandon.\" She grins. \"Not much of a threat you've got there.\""
 msgstr ""
+"\"Co najdete, bude chudoba a opuštěnost.\" Zakření se. \"Tady nic moc hrozivého není.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2827,6 +3083,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004AE"
 msgid "\"He was alright.\""
 msgstr ""
+"\"Byl v pořádku.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2835,6 +3092,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000005C3"
 msgid "\"I met Lilienne already.\""
 msgstr ""
+"\"S Lilianou už jsem se setkal.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2843,6 +3101,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007B000005C3"
 msgid "\"I met Lilienne and her kids already.\""
 msgstr ""
+"\"S Lilianou a jejími dětmi už jsem se setkal.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2851,6 +3110,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100007B000005C3"
 msgid "\"I met Lilienne and her daughter already.\""
 msgstr ""
+"\"S Lilianou a její dcerou jsem se už setkal.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2859,6 +3119,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100007B000005C3"
 msgid "\"I met Lilienne and her twins already.\""
 msgstr ""
+"\"S Lilianou a jejími dvojčaty jsem se už setkal.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2867,6 +3128,7 @@ msgstr ""
 msgctxt "Alternate4/0x0100007B000005C3"
 msgid "\"I met Lilienne and her twins already.\""
 msgstr ""
+"\"S Lilianou a jejími dvojčaty jsem se už setkal.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2875,6 +3137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000072B"
 msgid "\"No...\" the old woman says, her cloudy eyes darting sideways. \"They moved to Faubourg for work.\""
 msgstr ""
+"\"Ne...\" řekne stará žena, její zastřený pohled se odvrátí stranou. \"Přestěhovali se do Fauburku za prací.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2883,6 +3146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000022B8"
 msgid "\"Gone and hid things in there...\" She shakes her head. \"She's usually a good tenant. And not a *stupid* one either.\""
 msgstr ""
+"\"Zmizela a schovala tam věci...\" Zavrtí halvou. \"Ona je obvkle dobrou nájemnicí. A ani není *hloupá*.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2899,6 +3163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0q5s_ibh1eqly1th"
 msgid "\"What?\""
 msgstr ""
+"\"Cože?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2907,6 +3172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C832"
 msgid "She wanted to talk to her, as they usually do. But she was brooding."
 msgstr ""
+"Chtěla s ní mluvit, tak jako obvykle. Ale byla zadumaná."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2915,6 +3181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700008EE6"
 msgid "\"About the document you signed... Evrart plans to muscle you out with construction noise.\""
 msgstr ""
+"\"K těm dokumentům, které jste podepsala... Evrart vás plánuje vystrnadit hlukem ze stavby.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2939,6 +3206,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013480"
 msgid "You catch the lieutenant's side-glance, but he doesn't say anything."
 msgstr ""
+"Zachytíš poručíkův postranní pohled, ale nic neřekne."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2947,6 +3215,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153F3"
 msgid "Hell yeah!"
 msgstr ""
+"Sakra jo!"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2955,6 +3224,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153FA"
 msgid "No, we must run around ceaselessly. It would be torture to stay put."
 msgstr ""
+"Ne, musíme neúnavně běhat kolem. Zůstat stát by bylo mučením."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2963,6 +3233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009337"
 msgid "\"Kim, she must have heard your Kineema.\""
 msgstr ""
+"\"Kime, musela slyšet vaši Kineemu.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2971,6 +3242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000D9BE"
 msgid "\"Nay, I haven't *seen* anyone lately.\""
 msgstr ""
+"\"Ne-e, poslední dobou jsem *neviděla* nikoho.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2979,6 +3251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E284"
 msgid "\"Now this is real Revacholian hospitality. That Garte must be half-kipt or something.\""
 msgstr ""
+"\"Tak to máme pravou Revacholskou pohostinnost. Ten Gart snad je polo-kipt, nebo něco takového.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -2987,6 +3260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E335"
 msgid "\"Before you get to the church, there's some ruins -- an apartment complex, or some kind of electrical plant... Run down bunch of houses, empty.\""
 msgstr ""
+"\"Než dojdete ke kostelu, jsou tam nějaké ruiny - bytovka, nebo jakási elektrárna... Vybydlené, prázdné domy.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3003,6 +3277,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E756"
 msgid "\"This place is pornographically poor.\""
 msgstr ""
+"\"Tohle místo je pornózně chudé.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3115,6 +3390,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000045A4"
 msgid "\"What do you have against the Union?\""
 msgstr ""
+"\"Co máte proti Odborům?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3123,6 +3399,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000462F"
 msgid "\"Sign it or I'll have the RCM turn this place upside down. We're gonna find *something*...\""
 msgstr ""
+"\"Podepište to, nebo nechám ROM, aby to tady obrátila vzhůru nohama. My už *něco* najdeme...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3131,6 +3408,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000468F"
 msgid "Like ocean waves shaping the coastline, you will wear her down. Pebble by pebble. Just be persistent."
 msgstr ""
+"Tak, jako mořské vlny tvarují pobřeží, ty ji udoláš. Oblázek za oblázkem. Prostě buď vytrvalý."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3459,6 +3737,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000FE43"
 msgid "It's a cold, cynical smile."
 msgstr ""
+"Je to chladný, cynický úsměv."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3467,6 +3746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001540D"
 msgid "\"I could use a breather before another *runny* day begins...\""
 msgstr ""
+"\"Hodila by se mi přestávka na vydechnutí, než začne další *den v poklusu*.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3523,6 +3803,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E2B7"
 msgid "\"Oh yeah, I met a couple of drunks here.\""
 msgstr ""
+"\"Ach ano, potkal jsem tady pár opilců.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3531,6 +3812,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EEC9"
 msgid "Lean forward."
 msgstr ""
+"Nakloň se dopředu."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3539,6 +3821,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000EEF6"
 msgid "\"If you can't see, then how did you know I was here?\""
 msgstr ""
+"\"Když nevidíte, jak jste poznala, že jsem tady?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3547,6 +3830,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F06D"
 msgid "\"You can call me Tequila Sunset.\""
 msgstr ""
+"\"Můžete mi říkat Tequila Sunset.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3555,6 +3839,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F080"
 msgid "\"These things happen occasionally. Don't worry, you'll find yourself once more.\""
 msgstr ""
+"\"Takové věci se občas stávají. Nedělejte si starosti, však se zas najdete.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3563,6 +3848,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F0B8"
 msgid "\"Don't know if I can afford another place to stay.\""
 msgstr ""
+"\"Nevím, jestli si můžu dovolit další ubytování.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3571,6 +3857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3BC"
 msgid "\"What do you mean?\""
 msgstr ""
+"\"Co tím myslíte?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3579,6 +3866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F45B"
 msgid "\"I'd really rather go back to talking about the village.\""
 msgstr ""
+"\"Radši bych se vrátil k té vesnici.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3587,6 +3875,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F5FA"
 msgid "\"Why is it abandoned?\""
 msgstr ""
+"\"Proč je to opuštěné?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3595,6 +3884,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F7C4"
 msgid "\"One thing. Officer, if you do find her, please go easy on her...\" She looks around. The air is getting colder."
 msgstr ""
+"\"Jedna věc. Detektive, jestli ji najdete, prosím buďte slitovný...\" Rozhlédne see. Vzduch se ochlazuje."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3603,6 +3893,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F864"
 msgid "\"Her life.\""
 msgstr ""
+"\"Její život.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3611,6 +3902,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000045CE"
 msgid "\"Perhaps some... 'financial compensation' would change your mind?\" (Wink.)"
 msgstr ""
+"\"Možná nějaká... 'finanční kompenzace' by vás přemluvila?\" (Zamrkej.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3619,6 +3911,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00005532"
 msgid "Shake your head."
 msgstr ""
+"Zavrť hlavou."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3651,6 +3944,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000160000923C"
 msgid "She may simply have kept the equipment elsewhere."
 msgstr ""
+"To vybavení prostě mohla mít někde jinde."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3659,6 +3953,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009268"
 msgid "\"Further up the coast we go then.\""
 msgstr ""
+"\"Takže tedy půjdeme dále po pobřeží.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3667,6 +3962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000282E"
 msgid "\"I told you before! No, there has been no listening to the radio. Not last week, not in the weeks before.\""
 msgstr ""
+"\"Už jsem vám to řekla! Ne, nikdo tady neposlouchal rádio. Minulý týden ne, a ani ty předchozí týdny.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3675,6 +3971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002866"
 msgid "\"No, I have no idea where they heard it. They've been in earshot all week, and no radio.\""
 msgstr ""
+"\"Ne, nenapadá mě, kde to mohli slyšet. Byli na doslech celý týden, a žádné rádio.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3683,6 +3980,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DA16"
 msgid "\"What's further down the coast?\""
 msgstr ""
+"\"Co je dál podél pobřeží?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3691,6 +3989,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E28A"
 msgid "\"Unfortunate that incremental development hasn't *elevated* this neighbourhood yet. I see potential here.\""
 msgstr ""
+"\"Škoda, že postupný rozvoj stále *nepozvedl* tuhle čtvrť. Vidím zde potenciál.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3699,6 +3998,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E2D4"
 msgid "\"Is there a way to make a little money around here?\""
 msgstr ""
+"\"Byla by tady možnost si vydělat nějaké malé peníze?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3707,6 +4007,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E36B"
 msgid "\"That's it? There's got to be more along the coast.\""
 msgstr ""
+"\"To je vše? Podél pobřeží toho musí být víc.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3715,6 +4016,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E40C"
 msgid "\"Where did she go?\" (Move on.)"
 msgstr ""
+"\"Kam odešla?\" (Pojď dál.)"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -3787,6 +4089,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000033EE"
 msgid "\"I got shot!\""
 msgstr ""
+"\"Střelili mě!\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4211,6 +4514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000332F"
 msgid "She says it as if he was on some kind of spiritual retreat."
 msgstr ""
+"Řekla to tak, jako by prožíval nějaké duchovní usebrání."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4219,6 +4523,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00003381"
 msgid "\"You're still welcome here.\" She nods. \"As long as men with guns aren't chasing you. And maybe even then, because that's the kind of fishing village we've built.\""
 msgstr ""
+"\"Stále jste zde vítán.\" Pokývne. \"Dokud po vás nepůjdou chlapi s bouchačkama. A možná i potom, protože taková už je naše rybářská vesnice, kterou jsme postavili.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4227,6 +4532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000045B2"
 msgid "\"I've seen it all before. You think they've got *our* interests at heart? Rich men are always selling poor men promises they never plan to keep...\" She pulls a dark red rag out of the bucket and puts it back."
 msgstr ""
+"\"To už jsem někdy viděla. Myslíte si, že mají na srdci *naše* zájmy? Bohatí muži vždy prodávají chudým lidem sliby, které ani neplánují splnit...\" Vytáhne z kýblu červený hadr a vrátí jej zpět."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4235,6 +4541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000045BF"
 msgid "She speaks with the authority of a leader. Hers is the final word around here."
 msgstr ""
+"Mluví s vůdcovskou autoritou. Její slovo je tady konečné."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4243,6 +4550,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004649"
 msgid "\"Were you dropped on the head as a kid? You can't live off a pittance for long...\""
 msgstr ""
+"\"Upustili vás jako mimino na hlavičku? Z almužny dlouho nevyžijete...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4251,6 +4559,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004C4"
 msgid "You did call him a monkey fucker. That had something to do with it."
 msgstr ""
+"Nazvals ho opicomrdem. To s tím mělo co dělat. "
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4259,6 +4568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B0000050D"
 msgid "Absolutely not."
 msgstr ""
+"Rozhodně ne."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4267,6 +4577,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000007AA"
 msgid "\"I don't believe the fat man's *youth centre* is gonna change anything. But what other choice do we have? It's not like the Coalition Government is coming to save us...\""
 msgstr ""
+"\"Nevěřím, že tlusťochovo *centrum pro mládež* něco změní. Ale co máme na výběr jiného? Není to tak, že by Koalice měla přijít a zachránit nás...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4275,6 +4586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B0C"
 msgid "\"Anyhow, you might ask Lilienne if she's seen anything lately -- that girl's got a way of attracting lost and broken things.\""
 msgstr ""
+"\"Nicméně, můžete se zeptat Liliany, jestli poslední dobou něco neviděla - ta holka nějakým způsobe přitahuje ztracené a rozbité kousky.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4291,6 +4603,7 @@ msgstr ""
 msgctxt "Dialogue Text/w8301pfl3xbm1_nz"
 msgid "The old woman shakes her head slowly."
 msgstr ""
+"Stará žena pomalu zavrtí hlavou."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4307,6 +4620,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200001685"
 msgid "\"I haven't seen any drunks yet, though...\""
 msgstr ""
+"\"Žádné opilce jsem zatím ale neviděl...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4315,6 +4629,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014809"
 msgid "\"I warned you,\" she nods solemnly. \"I warned you men with guns would be coming after you. They always are with your kind...\" Her features soften."
 msgstr ""
+"\"Varovala jsem vás,\" vážně pokývne. \"Varovala jsem vás, že po vás půjdou chlapi s bouchačkama. Tak se to lidem jako vy vždycky děje...\" Její rysy změknou."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4323,6 +4638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C7D8"
 msgid "Nothing is *impossible*, surely."
 msgstr ""
+"Nic není *nemožné*, jistě."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4339,6 +4655,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013441"
 msgid "\"We really should focus on some actual leads...\" The lieutenant looks around uncomfortably. \"Negotiating real estate deals isn't our main thing.\""
 msgstr ""
+"\"Měli bychom se soustředit na nějaké skutečné stopy...\" Poručík se neklidně rozhlédne. \"Přesvědčování o realitních kšeftech není naše hlavní věc.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4347,6 +4664,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700013466"
 msgid "The virtue you exhibit in even the most difficult of moral dilemmas, speaks of the purest of heart and soul. Soon it will be time for another Arch."
 msgstr ""
+"Ctnost, kterou projevuješ i v těch nejobtížnějších morálních dilematech, hovoří o tom nejčistším srdci a nejčistší duši. Brzy nadejde čas na další Oblouk. "
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4355,6 +4673,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700015458"
 msgid "\"Must say, I'm proud of this one,\" she nods, handing the jacket back to you. \"It's pretty nice underneath all that filth. I hope you take better care of it than its last owner.\""
 msgstr ""
+"\"Musím říct, že na tuhle jsem pyšná,\" pokývne a předá ti bundu. \" Pod tou špínou je hodně pěkná. Doufám, že se o ni budete starat lépe, než její předchozí majitel.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4363,6 +4682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009159"
 msgid "\"You know something. We're here to help.\""
 msgstr ""
+"\"Vy něco víte. Jsme tady, abychom pomáhali.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4371,6 +4691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002833"
 msgid "\"Can you confirm for my partner Kim that no one listened to the radio recently?\""
 msgstr ""
+"\"Můžete mně a mému partneru Kimovi potvrdit, že tady v poslední době nikdo neposlouchal rádio?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4379,6 +4700,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000DA1C"
 msgid "\"Tell me about yourself. Who exactly are you here?\""
 msgstr ""
+"\"Povězte mi něco o sobě. Co tady přesně děláte?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4387,6 +4709,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E395"
 msgid "Enough of this! She better start talking RIGHT NOW!"
 msgstr ""
+"Dost už! Měla by se rozpovídat TEĎ HNED!"
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4395,6 +4718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000E406"
 msgid "\"She's good company. Knows how to talk to an old woman.\" She rubs her cold hands together. \"At my age, you don't get a lot of quality conversation, so I really appreciate that about her.\""
 msgstr ""
+"\"Je dobrou společnicí. Ví, jak mluvit se starou ženou.\" Promne si studené ruce. \"V mém věku se vám mnoha kvalitních rozhovorů nedostane, takže tohle na ní opravdu oceňuji.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4403,6 +4727,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F05B"
 msgid "\"Uh... call me Harry.\""
 msgstr ""
+"\"Uh... říkejte mi Harry.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4411,6 +4736,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F3AF"
 msgid "\"There's got to be *something* here. Tell me.\""
 msgstr ""
+"\"Něco tady *musí* být. Povězte mi.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4419,6 +4745,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000F8BE"
 msgid "The sun sets for everyone."
 msgstr ""
+"Slunce zapadá pro všechny."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4427,6 +4754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000344E"
 msgid "Convince her to sign Evrart's document."
 msgstr ""
+"Přesvědč ji, ať podepíše Evrartovy dokumenty."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4435,6 +4763,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100006B0000344E"
 msgid "Your name is ridiculous."
 msgstr ""
+"Tvoje jméno je směšné."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4443,6 +4772,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100006B0000344E"
 msgid "Harrier's a good name."
 msgstr ""
+"Harrier je dobré jméno."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4451,6 +4781,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100006B0000344E"
 msgid "Trusts the tenant."
 msgstr ""
+"Věří nájemnici."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4459,6 +4790,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100006B0000344E"
 msgid "Dresscode: Interisolar business class."
 msgstr ""
+"Styl oblečení: Interizolární obchodník."
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4467,6 +4799,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044AE"
 msgid "\"A deal with who?\" She narrows her eyes, then scoffs. \"It's the Débardeurs Union, isn't it?\""
 msgstr ""
+"\"Kšeft s kým?\" Přimhouří oči a uchechtne se. \"S dokařskými Odbory, že ano?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4475,6 +4808,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000044D5"
 msgid "\"Uh, actually, never mind. I won't bother you with this.\""
 msgstr ""
+"\"Ah, vlastně, zapomeňte na to. Nebudu vás s tím otravovat.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4483,6 +4817,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004524"
 msgid "\"Lilienne should let her sword make her decisions. The girl just doesn't have the head for it.\" She lets out a chortle, coarse like a raven's caw. \"Either way, I won't sign.\""
 msgstr ""
+"\"Liliana by měla rozhodování ponechat na svém meči. Ta holka na to prostě nemá hlavu.\" Vydá ze sebe uchechtnutí, drsné jako havraní spár. \"Každopádně to nepodepíšu.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4491,6 +4826,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000045B8"
 msgid "\"Then the poor get pushed out of their homes and the rich get a little richer. That's the way it goes. So no, I don't trust the fat man, and neither should you.\""
 msgstr ""
+"\"Potom vytlačí chudé z jejich domovů, a bohatí se stanou ještě o kousek bohatšími. Tak to chodí. Takže ne, nevěřím tlusťochovi, a ani vy byste neměl.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4499,6 +4835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000004ED"
 msgid "\"What kind of foolishness is that? A cop's got to have a partner. That's in your nature, however you may deny it.\""
 msgstr ""
+"\"Jaký druh hlouposti to je? Polda musí mít parťáka. Taková je vaše přirozenost, jakkoliv to můžete popírat.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4507,6 +4844,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000722"
 msgid "\"You must be so proud.\""
 msgstr ""
+"\"Musíte být tak pyšná.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4515,6 +4853,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00000788"
 msgid "\"Look, this village isn't what it used to be. It's a dilapidated shit hole.\""
 msgstr ""
+"\"Hele, tahle vesnice není, co bývala. Je to zchátralá díra po granátu.\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4523,6 +4862,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B000007A3"
 msgid "\"That doesn't mean you're wrong though,\" she sighs. \"This place ain't what it used to be, even I can see that...\""
 msgstr ""
+"\"To ale neznamená, že nemáte pravdu,\" vzdychne. \"Tohle místo už není, co bývalo, vidím to dokonce i já...\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4531,6 +4871,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001AE9"
 msgid "\"What do you want with a lost jacket?\""
 msgstr ""
+"\"Co chcete dělat se ztracenou bundou?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4539,6 +4880,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001B7A"
 msgid "\"I *can* wash it for you,\" she says after looking the jacket over, \"but it's going to take about a half an hour. Think you can stay put for that long?\""
 msgstr ""
+"\"*Můžu* vám ji vyprat,\" řekne poté, co si bundu prohlédne, \"ale zabere to tak půl hodiny. Dokážete zůstat v klidu tak dlouho?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4547,6 +4889,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001E51"
 msgid "\"You're trying to wink at me, aren't you? I can't see, or did you forget that part?\""
 msgstr ""
+"\"Zkoušíte na mě mrknout, že ano? Já nevidím, nebo jste to snad zapomněl?\""
 
 #. Title = VILLAGE / WASHERWOMAN
 #. Description = The Washing Woman who gives you access to the alternate sleeping location -- the shack. Includes fishing village mood and Evrart quest stuff.
@@ -4555,3 +4898,4 @@ msgstr ""
 msgctxt "Alternate1/0x0100007B00001E51"
 msgid "\"You're trying to wink at me, aren't you? You seem to have trouble remembering that I don't see so well these days.\"\n"
 msgstr ""
+"\"Zkoušíte na mě mrknout, což? Zdá se, že máte problém si zapamatovat, že už zrovna dobře nevidím.\"\n"
