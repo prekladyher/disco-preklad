@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D633"
 msgid "\"Well enough, actually. It's odd how that works. I'm no sharpshooter, but I pass my shooting courses 7 out of 10.\""
 msgstr ""
+"\"No, vlastně. Je zvláštní, jak to funguje. Nejsem žádný ostrostřelec, ale na střeleckých kurzech mívám 7 z 10.\""
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D612"
 msgid "There's rust and corrosion on the bars, they're foaming with it. And a small layer of white salt from the sea."
 msgstr ""
+"Na mřížích je rez a koroze, jakoby tím pěnily. A malá vrstva bílé soli z moře."
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D63A"
 msgid "His hands lead the way when it comes to that. And his shoulders. It's reflex."
 msgstr ""
+"Když na to přijde, směr udávají jeho ruce. A ramena. Je to reflex."
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015089"
 msgid "[Finish thought.]"
 msgstr ""
+"[Dokonči myšlenku.]"
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D61B"
 msgid "\"Can you still shoot, though?\""
 msgstr ""
+"\"Umíš ale pořád střílet?\""
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D629"
 msgid "This partner of his, Eyes -- things didn't end well. It saddens him to say his name. Don't even ask. He wouldn't answer. Maybe some other small talk?"
 msgstr ""
+"Tenhle jeho parťák, Oči - neskončilo to dobře. Rozesmutní ho jen vyslovit jeho jméno. Ani se neptej. Neodpověděl by. Možná nějakou další průpovídku?"
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000249F"
 msgid "Dripping water falls from a high place. All you can see is the shadow of a collapsing staircase."
 msgstr ""
+"Z vyvýšeného místa kape voda. Vidíš jen stín rozpadajícího se schodiště."
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009AFB"
 msgid "\"Lieutenant, can you make out what's inside?\" (Point at the windows.)"
 msgstr ""
+"\"Poručíku, dokážeš zjistit, co je uvnitř?\" (Ukaž na ta okna.)"
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D622"
 msgid "Just nod. [Finish thought.]"
 msgstr ""
+"Jen přikývni. [Dokonči myšlenku.]"
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F0000244C"
 msgid "Try to see inside."
 msgstr ""
+"Zkus se podívat dovnitř."
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009B05"
 msgid "\"No.\" He shakes his head. The windows rattle in their frames. \"I won't even try. You know...\" He takes his glasses off."
 msgstr ""
+"\"Ne.\" Zakroutí hlavou. Okna rachotí v rámech. \"Ani to nebudu zkoušet. Víš...\" Sundá si brýle."
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001A37"
 msgid "The remaining windows rattle from a strong gust of wind. They're covered in a thick layer of grime. They must have been like this for forty years."
 msgstr ""
+"Zbývající okna rachotí v silném poryvu větru. Jsou pokryty tlustou vrstvou špíny. Takhle museli být asi čtyřicet let."
 
 #. Title = COAST ORB / feldwindows
 #. Description = A conversation with SF about the inside of the building and hiding.
@@ -94,3 +114,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D60B"
 msgid "\"I had a partner once. They called him Eyes, because he had to show me things. It's that bad.\""
 msgstr ""
+"\"Jednou jsem měl parťáka. Říkali mu Oči, protože mi musel ukazovat věci. Tak je to špatné.\""
