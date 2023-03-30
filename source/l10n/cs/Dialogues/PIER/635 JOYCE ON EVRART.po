@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007E0C"
 msgid "\"The position of my *unusual* colleague does not reflect official policy. I hope you understand -- the RCM does not pick sides.\""
 msgstr ""
+"\"Postoj mého *neobvyklého* kolegy neodráží oficiální politiku. Doufám, že chápete, že ROM si nevybírá strany.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007E29"
 msgid "\"Of course -- and I don't expect you to share anything he told you with me. I am not a *corrupt würm* myself.\" She turns to you: \"However, if you felt like *discussing* something...\""
 msgstr ""
+"\"Samozřejmě - a neočekávám, že se se mnou podělíte o všechno, co vám řekl. Já sama nejsem *zkorumpovaný würm*.\" Otočí se k tobě: \"Kdybyste však měl chuť si o něčem promluvit...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007F81"
 msgid "\"...how could I stop you? Are we not human? Are we not *curious* to hear another person's take? It's only natural. We would only be...\" she smiles, \"gossiping.\""
 msgstr ""
+"\"...jak bych vás mohla zastavit? Copak nejsme lidé? Nejsme snad *zvědaví* na názor jiného člověka? Je to přirozené. Vždyť bychom jen...\" usměje se, \"klábosili.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -83,6 +94,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D396"
 msgid "The lieutenant might have -- but I don't remember you logging anything as anything, Harry."
 msgstr ""
+"Poručík možná... ale nepamatuji si, že bys něco ohlásil jako něco, Harry."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -180,6 +192,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9FF"
 msgid "The humidity crawls under your skin. Your eyes track her gaze: past the net picker... toward the concrete square of the nameless village off the coast of Martinaise."
 msgstr ""
+"Vlhkost ti zaleze pod kůži. Očima sleduješ její pohled: kolem síťařky... k betonové návsi bezejmenné vesnice u pobřeží Martinézy."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -188,6 +201,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DA2C"
 msgid "\"What?\" She looks at the soles of her tiny green rubber boots: \"Thirty-five, I think. Why? I have mutant's feet. Very small.\""
 msgstr ""
+"\"Cože?\" Podívá se na podrážky svých malých zelených gumáků: \"Myslím, že pětatřicet. Proč? Mám nohy mutanta. Velmi malé.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -196,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DABA"
 msgid "\"You've been to Martinaise before?\""
 msgstr ""
+"\"Už jste byla v Martinéze dřív?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -204,6 +219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DBCC"
 msgid "\"Do not spend 22 days a year in pale transit, don't waste your twenties slumming it with your stupid friends, and don't deliver Evrart Claire's mail.\" Her bony finger is pointed like an arrow at your chest..."
 msgstr ""
+"\"Netravte 22 dní v roce v tranzitu bledomezí, nepromarněte své dvacetiny čundrováním se s hloupými kamarády a nedoručujte poštu Evrarta Jasného.\" Její kostnatý prst míří jako šíp na tvou hruď..."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -212,6 +228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD4F"
 msgid "\"I've seen the Union's forces. They're better organized than these mercenaries. They also have the support of the people of Revachol West.\""
 msgstr ""
+"\"Viděl jsem síly Odborů. Jsou lépe organizované než ti žoldáci. Mají také podporu lidí z Revacholu Západ.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -220,6 +237,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD5D"
 msgid "\"I am sure you have the money. The question is how many years and how many lives are you willing to sacrifice?\""
 msgstr ""
+"\"Jsem si jistý, že peníze máte. Otázkou je, kolik let a kolik životů jste ochotni obětovat?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -244,6 +262,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DE8F"
 msgid "\"Do you think it's within my authority to give it to them? Do you think I can control the board and the shell-shocked mercenaries they've sent?\""
 msgstr ""
+"\"Myslíte, že je v mé pravomoci jim ho dát? Myslíte, že dokážu kontrolovat vedení a žoldáky, které poslali?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -252,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E0D1"
 msgid "\"Slowly raining down until it formed a vast ocean.\""
 msgstr ""
+"\"Pomalu pršela, až vytvořila obrovský oceán.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -260,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E164"
 msgid "\"It's raining.\""
 msgstr ""
+"\"Prší.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -268,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1B2"
 msgid "\"There was no one but the skua. The Liliacea. And the blood beech and the River Esperance. It was the New New World. The Mondials used it to amass the greatest concentration of wealth mankind has ever seen -- Revachol the Suzerain.\""
 msgstr ""
+"\"Tady nebyl nikdo jiný než ta chaluha. Liliaceae. A buk červenolistý a řeka Naděje. Byl to Nový Nový svět. Mondiálové ho využili k nahromadění největší koncentrace bohatství, jakou kdy lidstvo vidělo - Revacholská suzerenita.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -276,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E285"
 msgid "\"Understood.\" (Let her go.)"
 msgstr ""
+"\"Rozumím.\" (Nech ji jít.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -284,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E29A"
 msgid "There are no employers. She's a member of the board. Probably a partner."
 msgstr ""
+"Neexistují žádní zaměstnavatelé. Je členkou vedení. Pravděpodobně je partnerem."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -292,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E304"
 msgid "\"Even after all this time I still don't really understand who you are or what your angle is.\""
 msgstr ""
+"\"Ani po tak dlouhé době pořád nechápu, kdo jste a jaké je vaše stanovisko.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -308,6 +333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E421"
 msgid "\"Goodbye, Rejoyce Leyton.\" (Conclude.)"
 msgstr ""
+"\"Sbohem, Rejoyce Leytonová.\" (Uzavři to.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -388,6 +414,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D514"
 msgid "After life, death. After death, life again. After the isola, the pale. After the pale, isola again."
 msgstr ""
+"Po životě smrt. Po smrti život zas. Po izole bledomez. Po bledomezi zase izola."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -396,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D52A"
 msgid "You could use a little of it yourself."
 msgstr ""
+"Sám bys ho mohl trochu využít."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -404,6 +432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D54E"
 msgid "The lieutenant watches her boat grow smaller on the bay, its white sails fluttering."
 msgstr ""
+"Poručík sleduje, jak se její loď v zátoce zmenšuje a její bílé plachty se třepotají."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -412,6 +441,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D00F"
 msgid "\"Four years later the queen’s councillor was proclaimed Her Innocence Dolores Dei, the elected world spirit. The age of humanism, internationalism, and parliamentary rule followed. We were *high*...\""
 msgstr ""
+"\"O čtyři roky později byla královská rádkyně prohlášena za Její Neposkvrněnost Dolores Božskou, zvolenou duší světa. Následoval věk humanismu, internacionalismu a parlamentní vlády. Byli jsme *v rauši*...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -461,6 +491,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9B1"
 msgid "\"No, don't tell me. I don't want to know what he has in store for this place... Probably a statue. It's a statue, right?\""
 msgstr ""
+"\"Ne, neříkejte mi to. Nechci vědět, co má pro tohle místo připravené... Nejspíš sochu. Je to socha, že?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -469,6 +500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DA12"
 msgid "Close your eyes."
 msgstr ""
+"Zavři oči."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -493,6 +525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DDF3"
 msgid "\"Everything affects the decision making process, detective.\""
 msgstr ""
+"\"Všechno ovlivňuje rozhodovací proces, detektive.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -549,6 +582,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E125"
 msgid "\"A total shift,\" she nods. \"In human comprehension of reality. On the second day, a great skua was shot down, above the flagship Lysergique. The bird was preserved and brought back. Along with pollen.\""
 msgstr ""
+"\"Dokonalá změna,\" přikývne. \"V lidském chápání reality. Druhý den byla sestřelena chaluha velká, nad vlajkovou lodí Lysergique. Pták byl zakonzervován a přivezen zpět. Spolu s pylem.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -557,6 +591,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E158"
 msgid "\"The great skua was the first bird they saw?\""
 msgstr ""
+"\"Prvním ptákem, kterého viděli, byla chaluha velká?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -565,6 +600,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E15E"
 msgid "\"And this was the last break we got?\""
 msgstr ""
+"\"A tohle byl poslední průlom, který jsme zažili?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -573,6 +609,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1CD"
 msgid "\"Well done, Suzerain!\" (Nod.)"
 msgstr ""
+"\"Výborně, suzeréne!\" (Přikývni.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -581,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E4CD"
 msgid "\"Goodbye, Joyce L. Messier.\" (Conclude.)"
 msgstr ""
+"\"Sbohem, Joyce L. Messierová.\" (Uzavři to.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -605,6 +643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002E16"
 msgid "\"I should be.\" She nods -- there's that crooked smile again. \"In my youth I had a brief dalliance here in Martinaise. He was an older man, with impossibly broad shoulders...\""
 msgstr ""
+"\"To bych měla.\" Přikývne - a zase ten křivý úsměv. \"V mládí jsem měla krátkou známost tady v Martinéze. Byl to starší muž s neuvěřitelně širokými rameny...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -653,6 +692,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600015ED1"
 msgid "(No. Say it.) \"Ma'am, this is a takeover.\""
 msgstr ""
+"(Ne. Řekni to.) \"Madam, tohle je převrat.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -669,6 +709,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CFD4"
 msgid "\"This ocean?\""
 msgstr ""
+"\"Tenhle oceán?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -677,6 +718,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4D0"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -701,6 +743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D5DB"
 msgid "\"Well, maybe he's not as *helpful* as you thought then? Is there anything else?\""
 msgstr ""
+"\"No, možná tedy není tak *ochotný*, jak jste si myslel? Je tu ještě něco?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -733,6 +776,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9EF"
 msgid "\"Go ahead, help him. Make it so. I have no power to stop him.\""
 msgstr ""
+"\"Jen do toho, pomozte mu. Udělejte to tak. Nemám sílu ho zastavit.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -781,6 +825,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E250"
 msgid "\"We will see.\""
 msgstr ""
+"\"Uvidíme.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -789,6 +834,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E275"
 msgid "\"Yes. Mr. Claire has a two-month head start. I can't let it grow any bigger. And I've exhausted all my options from here.\""
 msgstr ""
+"\"Ano. Pan Jasný má dvouměsíční náskok. Nemůžu ho nechat vyrůst ještě víc. A odsud už jsem vyčerpala všechny možnosti.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -797,6 +843,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E39F"
 msgid "\"Why not?\""
 msgstr ""
+"\"Proč ne?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -805,6 +852,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E3F2"
 msgid "\"I know -- because I, too, am insane. I just hide my illness better. And I'm rich.\""
 msgstr ""
+"\"Vím to - protože i já jsem šílená. Jen svou nemoc lépe skrývám. A jsem bohatá.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -925,6 +973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D357"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -941,6 +990,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D41F"
 msgid "\"Ah yes. As you said.\" She looks confused for a moment."
 msgstr ""
+"\"Aha ano. Jak jste řekl.\" Chvíli vypadá zmateně."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -974,6 +1024,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DC13"
 msgid "\"Full of ghosts and ancient memories.\" She smiles. \"Has this errand yielded you any... information?\""
 msgstr ""
+"\"Plnou duchů a dávných vzpomínek.\" Usměje se. \"Přinesla vám ta pochůzka nějaké... informace?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -998,6 +1049,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD2B"
 msgid "\"The war *is* their goal. I told you before -- Evrart has always wanted this to escalate.\""
 msgstr ""
+"\"Válka je jejich cílem. Už jsem vám to říkal - Evrart vždycky chtěl, aby se to vyhrotilo.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1006,6 +1058,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD37"
 msgid "\"I can ask him to let you in.\""
 msgstr ""
+"\"Můžu ho požádat, aby vás pustil dovnitř.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1079,6 +1132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007FE6"
 msgid "\"Mr. Evrart helped me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomohl najít zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1143,6 +1197,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C62B"
 msgid "That's wrong! You don't get into loops!"
 msgstr ""
+"To je špatně! Do smyček se nedostávej!"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1151,6 +1206,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D36B"
 msgid "\"Which isn't to suggest our talks constitute *corporate espionage*. Even *if* they did -- it would be fine. But they don't, since you logged the money as a donation and this is *clearly* just gossip between friends.\""
 msgstr ""
+"\"Což neznamená, že naše rozhovory představují *průmyslovou špionáž*. I *kdyby* ano, bylo by to v pořádku. Ale nepředstavují, protože vy jste ty peníze ohlásil jako dar a tohle je *jasně* jen klábosení mezi přáteli.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1159,6 +1215,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D433"
 msgid "\"Of course. Thank you for the advice -- I'm glad you were here to assist.\" She turns to you: \"Your *other* dealings with Evrart are still of considerable interest to me...\""
 msgstr ""
+"\"Samozřejmě. Děkuji vám za radu - jsem ráda, že jste mi pomohl.\" Otočí se k tobě: \"Vaše *další* jednání s Evrartem mě stále ještě docela zajímají...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1199,6 +1256,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DAA0"
 msgid "\"You're quite fond of this village, aren't you?\""
 msgstr ""
+"\"Vy máte tuhle vesnici docela ráda, že?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1231,6 +1289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DFF1"
 msgid "\"It may be the only *break* we've ever caught as a species. The last one for four hundred years.\""
 msgstr ""
+"\"Je to možná jediný *průlom*, který jsme jako druh kdy udělali. Poslední na čtyři sta let.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1239,6 +1298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E102"
 msgid "The air is cold and scented with petrichor."
 msgstr ""
+"Vzduch je chladný a provoněný petrichorem."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1247,6 +1307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1BA"
 msgid "\"Revolution, poverty, and the mercurial rise of capitalism,\" she nods."
 msgstr ""
+"\"Revoluce, chudoba a nestálý vzestup kapitalismu,\" přikývne."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1255,6 +1316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2A9"
 msgid "\"You *are* the Wild Pines. There are no employers.\""
 msgstr ""
+"\"Divoké pinie *jste* vy. Žádní zaměstnavatelé neexistují.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1263,6 +1325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E427"
 msgid "She smiles. \"Watch out for yourselves. They will strike soon.\""
 msgstr ""
+"Usměje se \"Dávejte na sebe pozor. Brzy udeří.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1271,6 +1334,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000E427"
 msgid "\"Watch out for yourselves. They will strike soon.\""
 msgstr ""
+"\"Dávejte na sebe pozor Brzy udeří.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1279,6 +1343,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E441"
 msgid "\"Isn't *everybody* a little insane?\""
 msgstr ""
+"\"Nejsou *všichni* tak trochu šílení?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1287,6 +1352,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0001166D"
 msgid "\"You would prefer something else? Not a youth centre?\""
 msgstr ""
+"\"Dala byste přednost něčemu jinému? Ne centrum pro mládež?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1367,6 +1433,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3FC"
 msgid "\"So very, very helpful,\" she repeats. \"And how is that going? Do you have any *leads* on that gun?\""
 msgstr ""
+"\"Tak velmi, velmi ochotný,\" opakuje. \"A jak to jde? Máte nějakou stopu k té zbrani?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1375,6 +1442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D46F"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1383,6 +1451,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4B5"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1391,6 +1460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4BD"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1407,6 +1477,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4EF"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1415,6 +1486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D509"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1439,6 +1511,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D98E"
 msgid "\"Here.\""
 msgstr ""
+"\"Sem.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1463,6 +1536,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCCE"
 msgid "\"A takeover?\""
 msgstr ""
+"\"Převrat?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1471,6 +1545,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD56"
 msgid "\"It will take more than Krenel to wipe them out. Wild Pines will need to send more and better-equipped men. Make no mistake, ma'am...\""
 msgstr ""
+"\"K jejich smetení bude potřeba víc než jen Krenel. Divoké pinie budou muset poslat více a lépe vybavených mužů. Nenechte se mýlit, madam...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1479,6 +1554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DEA0"
 msgid "\"So, what are you going to do?\""
 msgstr ""
+"\"Takže, co budete dělat?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1487,6 +1563,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DFD9"
 msgid "\"What will I do...\" she says slowly looking around."
 msgstr ""
+"\"Co budu dělat...\" pomalu se rozhlíží kolem sebe."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1527,6 +1604,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E42D"
 msgid "\"Goodbye, nether creature of the forbidden swamp.\" (Conclude.)"
 msgstr ""
+"\"Sbohem, podzemní stvoření ze zakázané bažiny.\" (Uzavři to.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1535,6 +1613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000116B6"
 msgid "\"Sadly, it's just one of the million things I'll never get around to. I just have to accept that I'll never be the rich candy-girl who goes around solving people's problems with money.\""
 msgstr ""
+"\"Bohužel je to jedna z milionu věcí, ke kterým se nikdy nedostanu. Musím se prostě smířit s tím, že ze mě nikdy nebude bohatá bárbína, která chodí a řeší problémy lidí pomocí peněz.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1559,6 +1638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002E2F"
 msgid "\"We told ourselves we were the worst thing to happen to the coast since the Coalition landed in '08. Imagine!\" She tosses her head."
 msgstr ""
+"\"Říkaly jsme si, že jsme to nejhorší, co se na pobřeží stalo od vylodění Koalice v roce 08. Představte si to!\" Zakroutí hlavou."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1567,6 +1647,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007DC7"
 msgid "\"He's a beautiful man. Beautiful and *just*.\""
 msgstr ""
+"\"Je to krásný muž. Krásný a *spravedlivý*.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1631,6 +1712,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CF41"
 msgid "\"The eighth expedition returned, sane and intact. They told of a new continent of matter. They told the queen and her councillor, Dolores Dei, that the pale had begun to condense, day after day, hour after hour, minute after minute.\""
 msgstr ""
+"\"Osmá výprava se vrátila, příčetná a nedotknutá. Vyprávěli o novém kontinentu hmoty. Řekli královně a její rádkyni Dolores Božské, že bledomez začala kondenzovat, den za dnem, hodinu za hodinou, minutu za minutou.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1639,6 +1721,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3D9"
 msgid "The lieutenant looks at you and you can swear his jaw muscle is trembling."
 msgstr ""
+"Poručík se na tebe podívá a přísahal bys, že se mu cuká čelistní sval."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1647,6 +1730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D40A"
 msgid "\"Mr. Evrart says it's *almost* ready to be found soon.\""
 msgstr ""
+"\"Pan Evrart říká, že už je *téměř* na spadnutí, aby se brzy našla.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1655,6 +1739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D445"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1679,6 +1764,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D5D4"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1695,6 +1781,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DB31"
 msgid "\"Sounds like you miss those times.\""
 msgstr ""
+"\"Zdá se, že vám ty časy chybí.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1711,6 +1798,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DB79"
 msgid "\"If you say so.\""
 msgstr ""
+"\"Když to říkáte.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1719,6 +1807,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DBE1"
 msgid "She's pointing it *quite* hard in there. Feels like a knife."
 msgstr ""
+"Hrotí to tady *docela* tvrdě. Je jako nůž."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1727,6 +1816,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD97"
 msgid "\"What do you suggest I do?\""
 msgstr ""
+"\"Co mám podle vás dělat?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1767,6 +1857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF1F"
 msgid "\"I will surrender Terminal B to the Union.\""
 msgstr ""
+"\"Vzdám se Terminálu B ve prospěch Odborů.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1775,6 +1866,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E116"
 msgid "\"'After life, death -- after death, life again. After the world, the pale -- after the pale, the world again.'\""
 msgstr ""
+"\"Po životě smrt - po smrti život zpět. "
+"Po světě, bledomez - po bledomezi zase svět.'\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1783,6 +1876,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1A5"
 msgid "\"The nations of Mundi proceeded to discover five more isolae -- or they discovered us -- all in the rush of the great interisolary reconnection...\""
 msgstr ""
+"\"Národy Mundi objevily dalších pět izol - nebo ony objevily nás - a to vše ve shonu velkého mezizolárního propojení...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1791,6 +1885,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E319"
 msgid "\"Here I am. I am the face and I'm here to answer -- Rejoyce Leyton.\""
 msgstr ""
+"\"Tady jsem. Já jsem ta tvář a jsem tu, abych odpovídala - Rejoyce Leytonová.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1799,6 +1894,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E323"
 msgid "\"I have not deceived you. I told you who exactly who I was -- Rejoyce Leyton.\""
 msgstr ""
+"\"Nepodvedla jsem vás. Řekla jsem vám, kdo přesně jsem - Rejoyce Leytonová.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1807,6 +1903,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000E323"
 msgid "\"I have not deceived you. I showed you who I was -- Rejoyce Leyton.\""
 msgstr ""
+"\"Nepodvedla jsem vás. Ukázala jsem vám, kdo jsem - Rejoyce Leytonová.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1823,6 +1920,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E407"
 msgid "\"The same strict psychological regimen the eighth admiral developed when he crossed the pale and discovered this isola -- the *Volta do Mar*. It's used by interisolary travellers and other troubled souls even to this day.\""
 msgstr ""
+"\"Stejně přísný psychologický režim si  vytvořil osmý admirál, když překročil bledomez a objevil tuto izolu - *Volta do Mar*. Dodnes ho používají transizolární cestovatelé a další neklidné duše.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1831,6 +1929,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E43B"
 msgid "\"No, detective -- no one's as insane as you.\""
 msgstr ""
+"\"Ne, detektive, nikdo není tak šílený jako vy.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1839,6 +1938,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000E43B"
 msgid "\"No, detective -- no one's as insane as you.\""
 msgstr ""
+"\"Ne, detektive, nikdo není tak šílený jako vy.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1847,6 +1947,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E48E"
 msgid "\"As your investigation reaches a climax, so does theirs. They are your shadow. Arm yourselves. Armour yourselves...\""
 msgstr ""
+"\"Jak vaše vyšetřování vrcholí, vrcholí i to jejich. Jsou vaším stínem. Ozbrojte se. Obrňte se...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1871,6 +1972,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002C7B"
 msgid "\"Weird? Oh no. One of the positive things to come from the Revolution is the *unhindered* exchange of information, you see, even when it comes to *trade secrets*...\""
 msgstr ""
+"\"Divně? Ale ne. Jednou z pozitivních věcí, které přinesla revoluce, je *neomezená* výměna informací, víte, i když jde o *obchodní tajemství*...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1887,6 +1989,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014D26"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1895,6 +1998,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007DB5"
 msgid "\"You have?\" She smiles, carefully. \"And how did you like Mr. Claire?\""
 msgstr ""
+"\"Opravdu?\" Opatrně se usměje. \"A jak se vám líbil pan Jasný?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1927,6 +2031,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001BC9B"
 msgid "Tell her, she'll *like* you for it."
 msgstr ""
+"Řekni jí to, bude tě mít *ráda*."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1935,6 +2040,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D351"
 msgid "\"That money you gave me -- would that make things... *weird*? If I shared information, I mean?\""
 msgstr ""
+"\"Ty peníze, které jste mi dala - nepůsobilo by to... *divně*? Kdybych se podělil o informace, myslím?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1943,6 +2049,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3E7"
 msgid "\"Unconventional police officers sometimes *lose* their guns. They then go around and tell people about this -- to gauge their reactions. It's all part of *detecting*.\""
 msgstr ""
+"\"Nekonvenční policisté někdy *ztrácejí* své zbraně. Pak o tom chodí vyprávět lidem - aby zjistili jejich reakce. Je to součást *detektývování*.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -1999,6 +2106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCF8"
 msgid "Green livery changing into red, blot by blot."
 msgstr ""
+"Zelená livrej se mění na červenou, skvrna po skvrně."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2015,6 +2123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF19"
 msgid "\"I will take your advice, detective. I will surrender Terminal B to the Union.\""
 msgstr ""
+"\"Dám na vaši radu, detektive. Předám terminál B Odborům.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2023,6 +2132,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000DF19"
 msgid "\"I will take your advice, lieutenant-yefreitor. I will surrender Terminal B to the Union.\""
 msgstr ""
+"\"Dám na vaši radu, poručíku-jefrejtore. Předám Terminál B Odborům.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2031,6 +2141,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E11D"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2039,6 +2150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1C7"
 msgid "\"What happened?\" (Look around.)"
 msgstr ""
+"\"Co se stalo?\" (Rozhlédni se kolem sebe.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2047,6 +2159,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E258"
 msgid "\"The age of capital has only begun. I will talk to my employers in person. We will amputate and cauterize Martinaise -- if you handle the situation on the ground.\""
 msgstr ""
+"\"Věk kapitálu teprve začíná. Se svými zaměstnavateli promluvím osobně. Amputujeme a kauterizujeme Martinézu - pokud zvládnete situaci na místě.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2071,6 +2184,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000E3F9"
 msgid "\"You're over-radiated?\""
 msgstr ""
+"\"Jste nadměrně ozářená?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2079,6 +2193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E419"
 msgid "\"How do you keep it together?\""
 msgstr ""
+"\"Jak to udržíte pohromadě?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2087,6 +2202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E47A"
 msgid "\"How far along is Krenel's *investigation*?\""
 msgstr ""
+"\"Jak daleko je *vyšetřování* Krenelu?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2095,6 +2211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E496"
 msgid "\"Protect their targets. Violence may be unavoidable, but we can limit the casualties.\""
 msgstr ""
+"\"Chraňte jejich cíle. Násilí se možná nevyhneme, ale můžeme omezit počet obětí.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2103,6 +2220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A000116A3"
 msgid "\"A *fishery*. I've been speaking with Lilienne here. She gave me the idea. The infrastructure is all here, and with my connections...\""
 msgstr ""
+"\"*Rybářství*. Mluvila jsem tady s Lilianou. Vnukla mi ten nápad. Infrastruktura je celá tady a díky mým konexím...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2303,6 +2421,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD09"
 msgid "\"*Taking* it...\" She looks toward the colourful mountain of crates, like toy blocks rising above Martinaise."
 msgstr ""
+"\"*Bere si* ho...\" Podívá se k barevné hoře beden, která se jako dětské kostky tyčí nad Martinézou."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2327,6 +2446,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF27"
 msgid "\"Is that within your means?\""
 msgstr ""
+"\"Je to ve vašich možnostech?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2335,6 +2455,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000DF27"
 msgid "\"I thought it was not within your means.\""
 msgstr ""
+"\"Myslel jsem, že to není ve vašich možnostech.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2343,6 +2464,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DFF7"
 msgid "\"No, ma'am.\""
 msgstr ""
+"\"Ne, madam.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2351,6 +2473,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E0D8"
 msgid "There are rain circles on water all around, humidity crawls up your back like a piano trill."
 msgstr ""
+"Všude kolem jsou dešťové kruhy na vodě, vlhkost ti leze po zádech jako trylek klavíru."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2367,6 +2490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1E0"
 msgid "\"It is.\" She pulls the hood over her head. \"Soon it will be spring and everything will blossom.\""
 msgstr ""
+"\"Je.\" Přetáhne si kapuci přes hlavu. \"Brzy bude jaro a všechno rozkvete.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2407,6 +2531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E3D4"
 msgid "\"Keep the peace -- and I will keep my end of the bargain.\""
 msgstr ""
+"\"Udržte mír - a já dodržím svou část dohody.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2415,6 +2540,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E44D"
 msgid "\"Don't worry madam. I am very sane.\""
 msgstr ""
+"\"Nebojte se, madam. Já nejsem vůbec šílený.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2423,6 +2549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E4B0"
 msgid "\"Soon. I do not know precisely. They have cut off all communication, you see. They know I've been feeding you information.\""
 msgstr ""
+"\"Brzy. Nevím přesně. Přerušili veškerou komunikaci, víte. Vědí, že jsem vám podávala informace.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2463,6 +2590,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007FA3"
 msgid "\"Incredible,\" she shakes her head. \"Simply incredible -- and how is it going? Has this *detecting* produced a gun?\""
 msgstr ""
+"\"Neuvěřitelné,\" zavrtí hlavou. \"Prostě neuvěřitelné... a jak to jde? Vyprodukovalo to *detektývování* nějakou zbraň?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2487,6 +2615,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000820B"
 msgid "\"Of course, detective,\" she simmers down. \"You can always drop by later, should something come up -- now, what else can I do you for?\""
 msgstr ""
+"\"Samozřejmě, detektive,\" odtuší. \"Kdyby něco, vždycky se můžete zastavit později... tak, co pro vás ještě můžu udělat?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2503,6 +2632,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CFCC"
 msgid "She nods. \"The phenomenon has never again been encountered. For a time the crew thought they were experiencing a hallucination. The mast-hand proclaimed 'L´Insulinde! L´Insulinde!' -- the signal to wake up.\""
 msgstr ""
+"Přikývne. \"S tímto jevem jsme se už nikdy nesetkali. Nějakou dobu si posádka myslela, že jde o halucinaci. Hlídka vyhlásila: 'L´Insulinde! L´Insulinde! - signál k probuzení.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2519,6 +2649,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D488"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2527,6 +2658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D494"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2535,6 +2667,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D5A8"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2575,6 +2708,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9F8"
 msgid "\"A youth centre with Edgar Claire's statue on top of it...\" Her eyes run across the water, remorsefully."
 msgstr ""
+"\"Centrum pro mládež se sochou Edgara Jasného na vrcholu...\" Očima lítostivě přejíždí po vodě."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2583,6 +2717,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DA5D"
 msgid "\"Yes. I'm sad I will never have the time, detective -- I've always wanted a dilapidating fishing village.\""
 msgstr ""
+"\"Ano. Jsem smutná, že na to nikdy nebudu mít čas, detektive - vždycky jsem chtěla mít zchátralou rybářskou vesnici.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2591,6 +2726,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DB2B"
 msgid "\"Not overly so. It's not like this was the only place we visited -- me and my girlfriends from Ozonne with our shiny boats, like reavers...\""
 msgstr ""
+"\"Ne zas tak příliš. Nebylo to jediné místo, které jsme navštívily - já a moje přítelkyně z Ozonu s našimi nablýskanými loděmi, jako plenitelé...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2599,6 +2735,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD19"
 msgid "\"An insane goal.\" Her eyes return to you. \"Krenel has a thousand men on their payroll. The next batch will be a platoon of twenty men and a gunship. You can't simply *trick* them.\""
 msgstr ""
+"\"Šílený cíl.\" Její oči se vrátí k tobě. \"Krenel má na výplatní listině tisíc mužů. Další várka bude četa o dvaceti mužích a dělový člun. Nemůžete je jednoduše *obelstít.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2615,6 +2752,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DFFD"
 msgid "\"You said you would. One day.\""
 msgstr ""
+"\"Řekla jste, že to uděláte. Jednoho dne.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2623,6 +2761,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E0DF"
 msgid "Put your hand in the rain."
 msgstr ""
+"Dej ruku do deště."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2631,6 +2770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E139"
 msgid "She nods. \"There was no precedent for such an undertaking. People thought she was punishing the admirals, or had gone mad, or both...\""
 msgstr ""
+"Přikývne. \"Pro takový podnik neexistoval precedens. Lidé si mysleli, že trestá admirály, nebo že se zbláznila, nebo obojí...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2639,6 +2779,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1AC"
 msgid "\"But these others weren't uninhabited. We had to kill people there, wipe out indigenous populations, gunboat economies. Or they came to do the same for us. Or had done to each other. But here...\" she spreads her arms."
 msgstr ""
+"\"Ale ty ostatní nebyly neobydlené. Museli jsme tam zabíjet lidi, vyhlazovat původní obyvatelstvo, hospodářství dělových člunů. Jinak by přišli udělat totéž nám. Nebo si to udělat navzájem. Ale tady...\" Rozpřáhne ruce."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2647,6 +2788,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E3EC"
 msgid "\"One last thing, Lieutenant Du Bois.\" She starts the engine. \"I've given the matter much thought and come to this conclusion: You're not an amnesiac. You're *insane*.\""
 msgstr ""
+"\"Ještě něco, poručíku Du Boisi.\" Nastartuje motor. \"Dlouho jsem o tom přemýšlela a dospěla jsem k tomuto závěru: Nemáte amnézii. Jste *šílený*.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2655,6 +2797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E400"
 msgid "\"I'm over-exposed, baby. My travels take me through the pale dozens of times a year. I've got the longing -- and I've got it *bad*.\" She points to her heart."
 msgstr ""
+"\"Jsem nadměrně exponovaná, zlato. Moje cesty mě zavedou do bledomezi tucetkrát ročně. Mám touhu - a mám ji *špatnou*.\" Ukáže si na srdce."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2663,6 +2806,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E433"
 msgid "She smiles. \"Watch out for yourself. They will strike soon.\""
 msgstr ""
+"Usměje se. \"Dávejte na sebe pozor. Brzy udeří.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2671,6 +2815,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000E433"
 msgid "\"Watch out for yourself. They will strike soon.\""
 msgstr ""
+"\"Dávejte na sebe pozor. Brzy udeří.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2687,6 +2832,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007DFB"
 msgid "\"Oh, come on now! He has his uses -- how else would he have stayed in power all these years? Or wait -- actually...\" She answers her own question:"
 msgstr ""
+"\"Ale no tak! Má své výhody - jak jinak by se udržel u moci celé ty roky? Nebo počkat... vlastně...\" Sama si odpoví na svou otázku:"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2695,6 +2841,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007FF0"
 msgid "\"Oh!\" Her eyes become large and round. \"That's so *helpful* of him...\""
 msgstr ""
+"\"Och!\" Její oči se zvětší a zakulatí. \"On je tak *ochotný*...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2727,6 +2874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3BB"
 msgid "\"Of course, detective,\" she simmers down. \"Should something come up, later down the road -- don't be afraid to drop by for a chat.\""
 msgstr ""
+"\"Samozřejmě, detektive,\" odtuší. \"Kdyby se později něco objevilo, nebojte se zastavit na kus řeči.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2735,6 +2883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3CC"
 msgid "\"Oh!\" Her eyes become large and round. \"That's so *helpful* of him...\""
 msgstr ""
+"\"Och!\" Její oči se zvětší a zakulatí. \"On je tak *ochotný*...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2743,6 +2892,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D548"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2799,6 +2949,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9E0"
 msgid "\"A youth centre with Edgar Claire's statue on top of it!\" She looks down the jetty, remorsefully."
 msgstr ""
+"\"Centrum pro mládež se sochou Edgara Jasného na vrcholu!\" Lítostivě se podívá dolů na molo."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2807,6 +2958,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DAC2"
 msgid "\"Yes, I was *slumming* it with some girl-friends of mine. We had boats and...\" She smiles. \"Don't hold it against me -- my *paramour* certainly did not.\""
 msgstr ""
+"\"Ano, byla jsem tu *čundrovat* s nějakými svými kamarádkami. Měli jsme lodě a...\" Usměje se. \"Nemějte mi to za zlé - můj *amant* to rozhodně neudělal.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2815,6 +2967,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DDD8"
 msgid "\"The workers should have the harbour.\""
 msgstr ""
+"\"Přístav by měl patřit dělníkům.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2831,6 +2984,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DDEC"
 msgid "\"First, will this affect your decision making process?\""
 msgstr ""
+"\"Zaprvé, ovlivní to váš rozhodovací proces?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2847,6 +3001,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DEE9"
 msgid "It is. It is well within her authority. It's been clear for some time that this woman is more than she lets on."
 msgstr ""
+"Je to tak. Je to v její pravomoci. Už nějakou dobu je jasné, že tato žena je víc, než dává najevo."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2855,6 +3010,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF44"
 msgid "She puts her hand in the rain. She's silent for a second."
 msgstr ""
+"Vloží ruku do deště. Chvíli mlčí."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2863,6 +3019,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF7D"
 msgid "\"Ma'am... This may well unravel property law this side of the river. If that occurs, we may never see the end of this kind of confrontation. The next time there will be two strikes...\" He looks toward the harbour. \"Then four, then a hundred.\""
 msgstr ""
+"\"Madam... Tohle může rozvrátit majetkové právo na této straně řeky. Pokud k tomu dojde, je možné, že tento druh konfrontace nikdy neskončí. Příště tu budou dvě stávky...\" Podívá se směrem k přístavu. \"Pak čtyři, pak sto.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2879,6 +3036,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2FC"
 msgid "\"I answer for my own actions. I don't hide behind some faceless organization.\""
 msgstr ""
+"\"Za své činy odpovídám sám. Neschovávám se za nějakou organizaci bez tváře.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2895,6 +3053,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E4A6"
 msgid "\"When will they make their move? Where?\""
 msgstr ""
+"\"Kdy s tím začnou? Kde?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2903,6 +3062,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014D50"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2959,6 +3119,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CF3B"
 msgid "\"Until after *years* of trial and error -- and the development of a *strict* psychological regime imitating the creation process of poetry...\""
 msgstr ""
+"\"Až po *letech* pokusů a omylů - a vytvoření *přísného* psychologického režimu napodobujícího proces tvorby poezie...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2967,6 +3128,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CF55"
 msgid "\"The nations who colonized this isola called theirs *Mundi*. The World. It was all they knew, all they thought would be. That there would be something more was a gamble. Akin to another world -- or life after death.\""
 msgstr ""
+"\"Národy, které kolonizovaly tuto izolu, ji nazvaly svým *Mundi*. Světem. Bylo to vše, co znali, vše, o čem si mysleli, že bude. To, že tu bude něco víc, byla sázka do loterie. Něco jako jiný svět - nebo život po smrti.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -2975,6 +3137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D416"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3048,6 +3211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9A3"
 msgid "\"Here?\" She looks around. \"Oh no... what does that bloated hellbat want with my little cinder block town?\""
 msgstr ""
+"\"Sem?\" Rozhlédne se kolem. \"Ale ne... co chce ten odulý netopýr s mým malým městečkem ze škvárových tvárnic?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3056,6 +3220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DB02"
 msgid "\"I'm over-radiated, detective,\" she spurts out. \"I do silly things sometimes -- out of pale-related sickness. Like sail over here. The moral of the story is...\""
 msgstr ""
+"\"Jsem nadměrně ozářená, detektive,\" vyhrkne \"Občas dělám hlouposti - z nemoci z bledomezi Jako třeba plout sem. Poučení z příběhu je...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3064,6 +3229,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000DB02"
 msgid "\"I'm over-radiated, Harry,\" she sprouts. \"I do silly things sometimes -- out of pale-related illness. Like sail over here. The moral of the story is...\" she lists:"
 msgstr ""
+"\"Jsem nadměrně ozářená, Harry,\" vyhrkne. \"Občas dělám hlouposti - z nemoci z bledomezi. Jako třeba plout sem. Poučení z příběhu je...\" vyjmenuje:"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3072,6 +3238,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCE4"
 msgid "\"He's ready for a war. They all are.\""
 msgstr ""
+"\"Je připraven na válku. Všichni jsou.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3080,6 +3247,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD1F"
 msgid "\"War is their goal. They think they can win before you even know it's started.\""
 msgstr ""
+"\"Válka je jejich cílem. Myslí si, že mohou vyhrát, ještě než se dozvíte, že začala.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3088,6 +3256,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E0E7"
 msgid "The droplets feel warm. Like spring rain."
 msgstr ""
+"Kapky se zdají teplé. Jako jarní déšť."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3096,6 +3265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E171"
 msgid "\"On Caillou...\" She studies your reaction. \"The Pebble, the largest of the fertile, uninhabited islands of the northeast Insulindian archipelago. Four centuries and two revolutions later.\""
 msgstr ""
+"\"Na Caillou...\" Zkoumá tvou reakci. \"Na Oblázku, největším z úrodných, neobydlených ostrovů severovýchodu Inzulindického souostroví. O čtyři století a dvě revoluce později.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3104,6 +3274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2B7"
 msgid "\"What? Of course I have superiors.\""
 msgstr ""
+"\"Cože? Samozřejmě, že mám nadřízené.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3112,6 +3283,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E40D"
 msgid "\"How do you keep your shit together?\""
 msgstr ""
+"\"Jak si udržíte svoje sračky pohromadě?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3136,6 +3308,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014D32"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3160,6 +3333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007F99"
 msgid "Intellectually speaking... it would be quite *interesting* to hear what she has to say about these things..."
 msgstr ""
+"Intelektuálně řečeno... bylo by docela *zajímavé* slyšet, co o těchto věcech říká..."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3184,6 +3358,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D532"
 msgid "With worry in his eyes. He does not know if it was the right thing to do. But he doesn't say anything."
 msgstr ""
+"S obavami v očích. Neví, jestli to bylo správné. Ale nic neříká."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3232,6 +3407,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D981"
 msgid "\"Sounds like he has you running errands, detective. A well-established dominance ritual...\" She thinks. \"Where did he have you deliver it?\""
 msgstr ""
+"\"Vypadá to, že vás nechal vyřizovat pochůzky, detektive. Dobře zavedený rituál nadvlády...\" Přemýšlí. \"Kam vás ji nechal doručit?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3256,6 +3432,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DC40"
 msgid "\"Until then -- is there anything *I* can help *you* with?\""
 msgstr ""
+"\"Do té doby - mohu vám s něčím pomoci?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3296,6 +3473,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0001168E"
 msgid "\"First, there won't *be* a youth centre, whatever he's told you or the residents. It'll be something horrific. Perhaps even *worse* than a statue -- so yes, I do.\""
 msgstr ""
+"\"Zaprvé, žádné centrum pro mládež *nebude*, ať už vám nebo obyvatelům řekl cokoli. Bude to něco příšerného. Možná ještě *horší* než socha - takže ano, dala.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3344,6 +3522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007E01"
 msgid "\"Corruption! That's how he's done it. Fantastic, würm-like corruption reaching into the bowels of the Earth.\" She looks at the ground and nods."
 msgstr ""
+"\"Korupce! Tak to udělal. Fantastická, würmská korupce sahající až do útrob Země.\" Podívá se na zem a přikývne."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3400,6 +3579,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000821C"
 msgid "*Now* say it: \"Ma'am, this whole thing is a takeover.\""
 msgstr ""
+"*Teď* to řekni: \"Madam, celá tahle věc je převrat.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3416,6 +3596,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D536"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3472,6 +3653,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E12D"
 msgid "\"Sounds cruel.\""
 msgstr ""
+"\"To zní krutě.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3488,6 +3670,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2DF"
 msgid "Events are already in motion. Whether your actions accelerated or momentarily retarded their progress, even the lieutenant cannot really say."
 msgstr ""
+"Události už v pohybu jsou. Zda tvé činy jejich průběh urychlily, nebo naopak zpomalily, to nedokáže říct ani poručík."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3520,6 +3703,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600008225"
 msgid "For once, I don't seem to know what the right thing to do is."
 msgstr ""
+"Pro jednou se mi zdá, že nevím, co je správné udělat."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3544,6 +3728,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D53D"
 msgid "Slowly, the sails turn a grey blue as more oxygen gets between you."
 msgstr ""
+"Plachty se pomalu zbarvují do šedomodra, jak se mezi vás dostává více kyslíku."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3552,6 +3737,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CF2F"
 msgid "\"The pale was thought to be impregnable, perpetual.\" She points northwest. \"Irene La Navigateur, the Queen of Suresne, sent *eight* expeditions, one after the other, into the mass at the edge of the world. Five of the crews did not return. Two did, but had lost their minds.\""
 msgstr ""
+"\"Bledomez byla považována za nedobytnou, věčnou.\" Ukáže na severozápad. \"Irena Navigátorka, královna Suresne, vyslala *osm* výprav, jednu po druhé, do masy na okraji světa. Pět z posádek se nevrátilo. Dvě ano, ale přišly o rozum.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3568,6 +3754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3B4"
 msgid "\"I'd rather talk about something else for now, if you don't mind.\" (Conclude.)"
 msgstr ""
+"\"Jestli ti to nevadí, raději bych teď mluvil o něčem jiném.\" (Uzavři to.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3584,6 +3771,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D469"
 msgid "\"What is happening?\""
 msgstr ""
+"\"Co se děje?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3632,6 +3820,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DA1A"
 msgid "Keep them open."
 msgstr ""
+"Nech je otevřené."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3648,6 +3837,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DBA1"
 msgid "She is more defensive about it than usual."
 msgstr ""
+"Brání se tomu víc než obvykle."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3656,6 +3846,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DBB2"
 msgid "\"He's probably dead by now -- even his shack is long gone... not that it matters. These buildings are all carbon copies of one another.\""
 msgstr ""
+"\"Nejspíš už je mrtvý - i jeho chatrč je dávno pryč... ne že by na tom záleželo. Všechny tyhle budovy jsou jako přes kopírák.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3664,6 +3855,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCF2"
 msgid "\"He has told me so in his own words -- he's taking it. He'll also use the drug trade to finance the harbour.\""
 msgstr ""
+"\"Řekl mi to sám - bere si ho. Obchod s drogami také využije k financování přístavu.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3672,6 +3864,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD11"
 msgid "\"Then we're talking about a *war*. Evrart needs to let me into the harbour at once. We need to talk about this.\""
 msgstr ""
+"\"Pak mluvíme o *válce*. Evrart mě musí okamžitě pustit do přístavu. Musíme si o tom promluvit.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3680,6 +3873,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DDD2"
 msgid "\"It's not the RCM's job to make these decisions.\""
 msgstr ""
+"\"Není úkolem ROM činit taková rozhodnutí.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3696,6 +3890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DFE0"
 msgid "The wind blows, waves crash in the distance. She crosses her arms and asks: \"Did I ever tell you how they discovered this isola? During our talks?\""
 msgstr ""
+"Vítr fouká, v dálce šumí vlny. Zkříží ruce a zeptá se: \"Už jsem vám někdy říkala, jak objevili tuhle izolu? Během našich rozhovorů?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3704,6 +3899,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000DFE0"
 msgid "The wind blows, waves crash in the distance. She crosses her arms and asks: \"Did I ever tell you how they discovered this isola? During our... reality low-down?\""
 msgstr ""
+"Vítr fouká, v dálce šumí vlny. Zkříží ruce a zeptá se: \"Už jsem vám někdy říkala, jak objevili tuhle izolu? Během našich... základů reality?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3712,6 +3908,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E152"
 msgid "\"Leaving us *here*.\""
 msgstr ""
+"\"Nechali nás *tady*.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3720,6 +3917,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2BE"
 msgid "\"I am.\" (Nod.)"
 msgstr ""
+"\"To jsem.\" (Přikývni.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3784,6 +3982,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000081D6"
 msgid "\"I'm over-radiated, detective,\" she spurts out. \"I do silly things sometimes -- out of pale-related sickness. Like take this job. The moral of the story is...\""
 msgstr ""
+"\"Jsem nadměrně ozářená, detektive,\" vyhrkne \"Občas dělám hlouposti - z nemoci z bledomezi Jako třeba vzít tuhle práci. Poučení z příběhu je...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3792,6 +3991,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000006000081D6"
 msgid "\"I'm over-radiated, Harry,\" she sprouts. \"I do silly things sometimes -- out of pale-related illness. Like take this job. The moral of the story is...\" she lists:"
 msgstr ""
+"\"Jsem nadměrně ozářená, Harry,\" vyhrkne \"Občas dělám hlouposti - z nemoci z bledomezi. Jako třeba vzít tuhle práci. Poučení z příběhu je...\" vyjmenuje:"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3800,6 +4000,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000081F5"
 msgid "\"Like what?\""
 msgstr ""
+"\"Jako čemu?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3832,6 +4033,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CFAD"
 msgid "\"But they could not. They were sane and conscious, as islands began to appear on the horizon... There are 78,000 uninhabited islands in the Insulindian archipelago, officer. The freckled face of god,\" she smiles."
 msgstr ""
+"\"Ale oni nemohli. Byli při smyslech a vědomí, když se na obzoru začaly objevovat ostrovy... V Inzulindickém souostroví je 78 000 neobydlených ostrovů, detektive. Pihovatá tvář boha,\" usměje se."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3840,6 +4042,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D42C"
 msgid "\"Please don't get him in a loop. If he gets in a loop it will last *forever*. Ask him to say something else please.\""
 msgstr ""
+"\"Prosím, nedostaňte ho do smyčky. Pokud se dostane do smyčky, bude to trvat *navždy*. Požádejte ho, aby řekl něco jiného, prosím.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3897,6 +4100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9D9"
 msgid "\"What size boots do you wear, madam?\""
 msgstr ""
+"\"Jakou velikost bot nosíte, madam?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3929,6 +4133,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCDD"
 msgid "\"If they're *taking* it...\" She look toward the colourful mountain of crates, like toy blocks rising above Martinaise."
 msgstr ""
+"\"Jestli si ho *berou*...\" Podívá se k barevné hoře beden, která se jako dětské kostky tyčí nad Martinézou."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3945,6 +4150,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000450000DD43"
 msgid "\"And if he does not avert his course it will be a war negotiation, detectives.\""
 msgstr ""
+"\"A jestli nezmění svůj kurz, bude to válečné vyjednávání, detektivové.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -3969,6 +4175,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E0F5"
 msgid "So does the lieutenant. His mouth is slightly open as he looks to the sky."
 msgstr ""
+"Stejně tak udělá i poručík. Jeho ústa jsou mírně pootevřená, jak se dívá k obloze."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4009,6 +4216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400014D5C"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4066,6 +4274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D50C"
 msgid "She nods. \"It may be the only *break* we've ever caught as a species. The last one for four hundred years.\""
 msgstr ""
+"Kývne. \"Je to možná jediný *průlom*, který jsme jako druh kdy udělali. Poslední na čtyři sta let.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4082,6 +4291,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D3AD"
 msgid "\"Ma'am, this whole thing is a takeover.\""
 msgstr ""
+"\"Madam, celá tahle věc je převrat.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4090,6 +4300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4D6"
 msgid "How do we get out of here?"
 msgstr ""
+"Jak se odsud dostaneme?"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4098,6 +4309,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4E3"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4114,6 +4326,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D5E2"
 msgid "\"Did he now?\" Her eyes narrow. \"Well, then it should be any day now. Unless, of course, he's *lying* to you. Anyway, was there anything else you've heard?\""
 msgstr ""
+"\"Opravdu?\" Oči se jí zúží. \"No, tak to by mělo být každým dnem. Pokud vám ovšem nelže. Každopádně, slyšel jste ještě něco jiného?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4170,6 +4383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DA06"
 msgid "The concrete plates cross to meet in an abstract shape, in them: small footprints -- impressions left by rubber boots. Small rubber boots."
 msgstr ""
+"Betonové panely se kříží, aby se setkaly v abstraktním tvaru, v němž jsou malé otisky nohou - otisky gumových bot. Malých gumových boty."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4194,6 +4408,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E179"
 msgid "\"The first living, autonomous organism. Proof of reality. It's the symbol of Insulinde, detective, the coat-of-arms of the Suzerain and the wings on the crest of the Commune.\""
 msgstr ""
+"\"První živý, autonomní organismus. Důkaz reality. Je to symbol Inzulindie, detektive, erb suzeréna a ta křídla ve znaku Komuny.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4202,6 +4417,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E1F1"
 msgid "\"The gangs will run wild.\" The lieutenant keeps his hand in the rain. \"Jacking motor carriages, ferrying amphetamines through Coal City. Spring is tough in Revachol.\""
 msgstr ""
+"\"Gangy budou řádit.\" Poručík drží ruku v dešti. \"Přepadávají motorové vozy, převážejí amfetamin přes Uhelné město. Jaro je v Revacholu drsné.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4210,6 +4426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2B0"
 msgid "\"You *are* the Citizens Militia. There are no superiors.\" She turns to you, rope in hand."
 msgstr ""
+"\"Vy *jste* Občanská milice. Žádní nadřízení neexistují.\" Otočí se k tobě s provazem v ruce."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4218,6 +4435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E2CB"
 msgid "\"That's right, detective. And next time you should confer with them before you go setting events in motion.\""
 msgstr ""
+"\"Přesně tak, detektive. A příště byste se s nimi měl poradit, než uvedete události do pohybu.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4242,6 +4460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E4EB"
 msgid "\"One last thing, nameless detective.\" She starts the engine. \"I've given the matter much thought and come to this conclusion: You're not an amnesiac. You're *insane*.\""
 msgstr ""
+"\"Ještě něco, bezejmenný detektive\" Nastartuje motor. \"Dlouho jsem o tom přemýšlela a dospěla jsem k tomuto závěru: Nemáte amnézii. Jste *šílený*.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4266,6 +4485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007EAE"
 msgid "\"Just? Hmm... in what way?\""
 msgstr ""
+"\"Spravedlivý? Hmm... v jakém smyslu?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4290,6 +4510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C632"
 msgid "Totally slanderous. Maybe you've gotten into *one* tiny loop once."
 msgstr ""
+"To je naprostá pomluva. Možná jsi se jednou dostal do *jedné* malé smyčky."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4306,6 +4527,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C73E"
 msgid "The prints are *hers*."
 msgstr ""
+"Otisky jsou *její*."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4314,6 +4536,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D538"
 msgid "You wonder what Evrart has to say about this..."
 msgstr ""
+"Zajímalo by tě, co na to řekne Evrart..."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4322,6 +4545,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CFFF"
 msgid "\"On the second day, a great skua was shot down above the flagship Lysergique. The bird was preserved and brought back. Along with pollen.\" She looks to the sky, then back at you."
 msgstr ""
+"Druhý den byla sestřelena chaluha velká, nad vlajkovou lodí Lysergique. Pták byl zakonzervován a přivezen zpět. Spolu s pylem.\" Podívá se k obloze a pak zpátky na tebe."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4330,6 +4554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D45B"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4338,6 +4563,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D4A8"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4346,6 +4572,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D55A"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4378,6 +4605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9B8"
 msgid "\"A giant statue of him or, better yet, his twin brother. Practically the same thing, but makes him seem less like a psychopath.\""
 msgstr ""
+"\"Obří sochu jeho nebo ještě lépe jeho dvojčete. Prakticky to samé, ale vypadá to, že není takový psychopat.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4402,6 +4630,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCD6"
 msgid "\"Yes. It's not a strike. You aren't being let in because there's nothing to negotiate. The Union is taking the terminal.\""
 msgstr ""
+"\"Ano, není to stávka. Nepustí vás dovnitř, protože není o čem vyjednávat. Odbory si berou terminál.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4410,6 +4639,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD25"
 msgid "\"An insane goal.\" Her eyes return to you. \"Krenel has a thousand men on their payroll. The next batch will be a platoon of twenty men and a gunship, the one after that, a hundred.\""
 msgstr ""
+"\"Šílený cíl.\" Její oči se vrátí k tobě. \"Krenel má na výplatní listině tisíc mužů. Příští várka bude četa o dvaceti mužích a dělový člun, ta další pak stovka.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4418,6 +4648,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DE00"
 msgid "\"Officer...\" The look on the lieutenant's face conveys uncertainty. He doesn't even sound angry."
 msgstr ""
+"\"Policisto...\" Výraz poručíkovy tváře vyjadřuje nejistotu. Dokonce ani nevypadá rozzlobeně."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4434,6 +4665,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E027"
 msgid "\"Do we have the time?\""
 msgstr ""
+"\"Máme čas?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4442,6 +4674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E090"
 msgid "\"Why?\""
 msgstr ""
+"\"Proč?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4458,6 +4691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100006109"
 msgid "\"So you're sad you can't buy the place?\" (Conclude.)"
 msgstr ""
+"\"Takže jste smutná, že to tu nemůžete koupit?\" (Uzavři.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4466,6 +4700,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007DC1"
 msgid "\"I didn't.\""
 msgstr ""
+"\"Nelíbil.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4490,6 +4725,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007EB5"
 msgid "\"In a funky socialist way. He looks out for the people.\""
 msgstr ""
+"\"Ve funky socialistickém smyslu. Stará se o lidi.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4522,6 +4758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CF9A"
 msgid "Called Volta do Mar, or Return from the Sea."
 msgstr ""
+"Nazvaném Volta do Mar neboli Návrat z moře."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4530,6 +4767,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D363"
 msgid "\"He asked me to deliver an envelope.\""
 msgstr ""
+"\"Požádal mě, abych doručil jednu obálku.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4602,6 +4840,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D9CD"
 msgid "\"He wants to build a youth centre here. For the children of Martinaise.\""
 msgstr ""
+"\"Chce zde vybudovat centrum pro mládež. Pro děti z Martinézy.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4610,6 +4849,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DBEE"
 msgid "\"Are you satisfied, detective? What else can you tell me about your *mail delivery quest* for Evrart? Do you think it will *improve* the place?\""
 msgstr ""
+"\"Jste spokojen, detektive? Co mi ještě můžete říct o svém *doručovacím úkolu* pro Evrarta? Myslíte si, že to tohle místo *zlepší?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4626,6 +4866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DE88"
 msgid "\"Of course. Your job is to clean up after them. And it looks like there will be a *lot* of cleaning to be done in the near future.\""
 msgstr ""
+"\"Samozřejmě. Vaším úkolem je po nich uklidit. A vypadá to, že v blízké budoucnosti bude potřeba uklízet hodně.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4634,6 +4875,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF8D"
 msgid "\"What happens will happen.\" She takes the end in her rain-slick hand and starts untying the knot."
 msgstr ""
+"\"Co se stane, to se stane.\" Vezme konec lana do deštěm zmáčené ruky a začne rozvazovat uzel."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4650,6 +4892,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E133"
 msgid "\"Sounds *political*.\""
 msgstr ""
+"\"To zní *politicky*.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4658,6 +4901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E267"
 msgid "\"You're going *now*?\""
 msgstr ""
+"\"Odjíždíte *hned*?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4706,6 +4950,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002CF1"
 msgid "\"What happened?\""
 msgstr ""
+"\"Co se stalo?\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4714,6 +4959,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000002E9D"
 msgid "\"You're wrong, detective. And next time you should confer with those superiors before you go setting events in motion.\""
 msgstr ""
+"\"Mýlíte se, detektive. A příště byste se měl poradit s nadřízenými, než uvedete události do pohybu.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4730,6 +4976,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007ECF"
 msgid "\"Of course. *Some* of them, at least. The ones who work for him -- how else would he have stayed in power all these years... no wait, actually...\""
 msgstr ""
+"\"Samozřejmě. *Alespoň o *některé* z nich. O ty, kteří pro něj pracují - jak jinak by se udržel u moci celé ty roky... ne, počkat, vlastně...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4810,6 +5057,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000CFEA"
 msgid "You've thought it a million times."
 msgstr ""
+"Přemýšlel jsi o tom už milionkrát."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4850,6 +5098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000D52F"
 msgid "\"Mr. Evrart is helping me find my gun.\""
 msgstr ""
+"\"Pan Evrart mi pomáhá najít mou zbraň.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4898,6 +5147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCEB"
 msgid "\"They most certainly are not.\" Her eyes return to you. \"Krenel has a thousand men on their payroll. The next batch will be a platoon of twenty men and a gunship.\""
 msgstr ""
+"\"To rozhodně nejsou.\" Její oči se vrátí k tobě. \"Krenel má na výplatní listině tisíc mužů. Další várka bude četa o dvaceti mužích a dělový člun.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4906,6 +5156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DCFF"
 msgid "Like a cancer of the blood, metastasising..."
 msgstr ""
+"Jako rakovina krve, která metastázuje..."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4914,6 +5165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DD31"
 msgid "\"No,\" her eyes return to you. \"It's naive of me. He sent you -- this *is* the negotiation now.\""
 msgstr ""
+"\"Ne,\" vrátí se její oči k tobě. \"Je to ode mě naivní. On vás poslal - tohle *je* teď vyjednávání.\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4938,6 +5190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000DF74"
 msgid "It is. It is well within her authority. It's been clear for some time that this woman is more than she lets on."
 msgstr ""
+"Je to tak. Je to v její pravomoci. Už nějakou dobu je jasné, že tato žena je víc, než dává najevo."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4954,6 +5207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E0B7"
 msgid "Each of those expeditions would have been led by an admiral. Sounds like a purge. Like she was purging her political rivals."
 msgstr ""
+"Každou z těchto výprav vedl admirál. To zní jako čistka. Jako by dělala čistky mezi svými politickými soupeři."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4962,6 +5216,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E16A"
 msgid "\"What will you do?\" (Proceed.)"
 msgstr ""
+"\"Co budete dělat?\" (Pokračuj.)"
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4970,6 +5225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E261"
 msgid "*We*? She generally avoids that term with her employers."
 msgstr ""
+"*My*? U svých zaměstnavatelů se tomuto termínu většinou vyhýbá."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4978,6 +5234,7 @@ msgstr ""
 msgctxt "tooltip1/0x010000450000E261"
 msgid "More than she seems."
 msgstr ""
+"Ona je víc, než se zdá."
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
@@ -4994,6 +5251,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000450000E488"
 msgid "\"A confrontation is imminent. They have followed in your footsteps...\""
 msgstr ""
+"\"Konfrontace se blíží. Šli ve vašich stopách...\""
 
 #. Title = PIER / JOYCE ON EVRART
 #. Description = EVRART HUB and all such relevant information. Also tells you Discovery of Insulinde story.
