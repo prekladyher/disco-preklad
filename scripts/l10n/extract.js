@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { decodeAsset } from "../game/main.js";
 import { decodeEntries } from "../text/main.js";
-import { writeTextFile, loadFileTree, encodeTextFile } from "./utils.js";
+import { encodeTextFile, loadFileTree, writeTextFile } from "./utils.js";
 
 /**
  * Translatable dialogue fields.

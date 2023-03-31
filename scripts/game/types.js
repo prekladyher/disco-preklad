@@ -103,7 +103,7 @@ export function arrayType(itemType) {
       length.writeUInt32LE(value.length);
       const buffers = [length];
       for (let item of value) {
-        buffers.push(...itemType.encode(item));
+        buffers.push(Buffer.concat(itemType.encode(item)));
       }
       buffers.push(Buffer.alloc(padding(buffers.reduce((acc, buf) => acc + buf.length, 0))));
       return buffers;

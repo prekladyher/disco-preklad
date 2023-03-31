@@ -10,27 +10,41 @@ build_text() {
   node scripts/l10n append -c source/l10n/cs/General.po > target/text/General.po
 }
 
-# Apply translations to `shadow/lockit/*.dat` assets
+# Apply translations to `shadow/lockits/*.dat` assets
 build_lockit() {
-  mkdir -p target/lockit
+  mkdir -p target/lockits
 
-  for file in shadow/lockit/*.dat; do
-    local json="target/lockit/$(basename $file).json"
-
+  for file in shadow/lockits/*.dat; do
     echo "Building lockit $(basename $file)..." >&2
-    # Convert asset file to JSON model
-    node scripts/game read -j LanguageSourceAsset "$file" > "$json"
-    # Merge translation to JSON file
-    node scripts/build lockit "$json" "target/text/*.po"
-    # Convert JSON back to asset file
-    node scripts/game write -o "target/lockit/$(basename $file)" LanguageSourceAsset "$json"
+    node scripts/build lockit "$file" "target/text/*.po" "target/lockits/$(basename $file)"
   done
 }
+
+# Build translations for dialogue database asset
+build_dialogue() {
+  mkdir -p target/assets
+
+  find "shadow/dialogue/" -name "*.dat" | while read -d $'\n' file; do
+    echo "Building dialogue database $(basename "$file")..." >&2
+    node scripts/build dialogue "$file" "target/text/*.po" "target/assets/$(basename "$file")"
+  done
+}
+
+# Copy localized textures to `shadow/images/`
+build_images() {
+  mkdir -p target/images
+
+  # Copy original images
+  cp shadow/images/*.png target/images/
+  # Override localized images
+  node scripts/build images
+}
+
 
 # Clean previous builds if requested
 if [[ -v CLEAN ]]; then
   echo "Cleaning previous build..." >&2
-  rm -rf build target/{text,lockit}
+  rm -rf build target/{text,lockits,images,assets}
 fi
 
 # Combine translation files (default)
@@ -42,4 +56,15 @@ fi
 # Build lockit assets
 if [[ -v LOCKIT ]]; then
   build_lockit
+fi
+
+# Build dialogue database asset
+if [[ -v DIALOGUE ]]; then
+  build_dialogue
+fi
+
+# Build image assets
+if [[ -v IMAGES ]]; then
+  echo "Copying image assets data..." >&2
+  build_images
 fi

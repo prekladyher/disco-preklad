@@ -64,3 +64,18 @@ Sloučení překladů jednoho souboru do projektových souborů:
 ```shell
 node scripts/l10n.js merge -g "target/WHIRLING F1.po" "source/l10n/cs/Dialogues/WHIRLING F1/*.po"
 ```
+
+
+### Sestavení finálního překladu
+
+Pro sestavení finálního překladu je nutné vytvořit `shadow` složku se zdrojovými assety hry.
+Obsah složky by měl být následující:
+
+* `lockits/` - složka původními s lockit assety (UABEA export z `disco_Data/resources.assets` nebo `disco_Data/StreamingAssets/AssetBundles/Windows/images/{jazyk}`)
+* `images/` - složka s původními PNG texturami (UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/images/{jazyk}`)
+
+Pro sestavení překladu stačí zavolat následující příkaz:
+
+```bash
+CLEAN= LOCKIT= DIALOGUE= IMAGES= ./build.sh
+```
