@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600010942"
 msgid "\"And one more thing -- as you've seen, these sorts of attitudes are quite common in Martinaise. So I expect this to happen again. And again...\""
 msgstr ""
+"\"A ještě jedna věc - jak jste viděl, podobné postoje jsou v Martinéze docela běžné. Takže očekávám, že se to bude opakovat. A pak zase...\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000900001FFB"
 msgid "\"Relax, I was practising the time-honoured technique known as the 'lie'.\""
 msgstr ""
+"\"Klid, cvičil jsem osvědčenou techniku zvanou \"lež\".\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000009000020EC"
 msgid "The lieutenant falls silent and looks down at his boots. Whether he thinks you have a point or not, he isn't saying. It's unclear what this means for your relationship. Then he speaks..."
 msgstr ""
+"Poručík se odmlčí a podívá se na své boty. Neříká, jestli si myslí, že máš pravdu, nebo ne. Není jasné, co to znamená pro váš vztah. Pak promluví..."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000008A4"
 msgid "\"It's not about me. As police officers, we gain nothing by staking out the moral high ground over him.\""
 msgstr ""
+"\"Nejde o mě. Jako policisté nezískáme nic tím, že se nad ním budeme vyvyšovat morálně.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000000989"
 msgid "\"Wonderful.\" The lieutenant falls silent. His expression is hard to read, but it certainly doesn't look *happy*. Then he speaks..."
 msgstr ""
+"\"Úžasné.\" Poručík se odmlčí. Jeho výraz je těžko čitelný, ale rozhodně nevypadá *šťastně*. Pak promluví..."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001091F"
 msgid "\"Wait, am I becoming some sort of Death's Head Racist suddenly?!\""
 msgstr ""
+"\"Počkat, to se ze mě najednou stává nějaký rasistický Smrtihlav?!\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000090000202D"
 msgid "\"I've got nothing against them, but we have a responsibility to future generations.\""
 msgstr ""
+"\"Nemám nic proti nim, ale máme odpovědnost vůči budoucím generacím.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00004FE3"
 msgid "\"And what exactly do you think should happen to those with *undesirable* traits?\""
 msgstr ""
+"\"A co přesně by se podle vás mělo stát těm, kteří mají *nežádoucí* vlastnosti?\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000008DE"
 msgid "Wait a second. Are you sure you want to go there? Even if you succeed, you're going to fail."
 msgstr ""
+"Počkej. Jsi si jistý, že do toho chceš jít? I když uspěješ, neuspěješ."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000000A62"
 msgid "\"I've had this conversation enough times in my life. From now on, I'm going to stay out of it. How you choose to respond is your business.\" He concludes: \"Now -- let's get back to the task at hand.\""
 msgstr ""
+"\"Tenhle rozhovor jsem vedl už dostkrát v životě. Odteď se do toho nebudu plést. Jak se rozhodnete reagovat, je vaše věc.\" A uzavírá: \"A teď se vraťme k tomu, co máme udělat.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000000904"
 msgid "Hoo boy, we're really doing this."
 msgstr ""
+"Úúú chlapče, my to fakt děláme."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000008B2"
 msgid "\"Of course. But he's also not entirely responsible for them. I haven't been in this world for long -- already I'm a product of my environment.\""
 msgstr ""
+"\"Samozřejmě. Ale také za ně není zcela zodpovědný. Nejsem na tomto světě dlouho - ale stejně jsem produktem svého prostředí.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000008D1"
 msgid "\"Apology accepted, detective.\" The lieutenant relaxes. A weight seems to have been lifted from his shoulders."
 msgstr ""
+"\"Omluva se přijímá, detektive.\" Poručík se uvolní. Zdá se, že z jeho ramen spadla tíha."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000090000201E"
 msgid "\"I'm going to *stop* this conversation.\" He makes a sudden hand gesture. An open palm. \"This is Martinaise. People have certain attitudes here. You will find plenty of citizens to agree with you. As for me...\""
 msgstr ""
+"\"*Končím* s tímhle rozhovorem.\" Udělá náhlé gesto rukou. Otevřenou dlaní. \"Tohle je Martinéza. Lidé tu mají určité postoje. Najdete tu spoustu občanů, kteří s vámi budou souhlasit. Pokud jde o mě...\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000009000022E6"
 msgid "\"That's good to hear. I don't want there to be any unnecessary friction in our relationship during this *important* case.\""
 msgstr ""
+"\"To rád slyším. Nechci, aby v našem vztahu během tohoto *důležitého* případu docházelo ke zbytečným třenicím.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000000981"
 msgid "\"That doesn't mean they don't have rights. If they're perpetrators, then we punish, if they're victims, then we help. That's all there is.\""
 msgstr ""
+"\"To neznamená, že nemají práva. Pokud jsou pachatelé, pak je trestáme, pokud jsou oběti, pak jim pomáháme. To je vše.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600010925"
 msgid "\"I don't know what you mean by *death's head* but it certainly looks like you're becoming a racist, officer.\""
 msgstr ""
+"\"Nevím, co myslíte tím *smrtihlavem*, ale rozhodně to vypadá, že se z vás stává rasista, strážníku.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000900002026"
 msgid "(Shrug.) \"Let Nature sort them out.\""
 msgstr ""
+"(Pokrč rameny.) \"Nechme přírodu, ať si je přebere sama.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000000919"
 msgid "\"And what point would that be?\""
 msgstr ""
+"\"A jaký smysl to má být?\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D193"
 msgid "Okay... feels like this is going to be a *discussion* now."
 msgstr ""
+"Dobře... mám pocit, že teď z toho bude *diskuse*."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001D19E"
 msgid "Okay. You think there's a way out of this."
 msgstr ""
+"Dobře. Myslíš si, že z toho vede cesta ven."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00004FC1"
 msgid "\"I don't really want to talk about it.\" [Leave.]"
 msgstr ""
+"\"Opravdu o tom nechci mluvit.\" [Odejdi.]"
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000008C0"
 msgid "\"Our position in Revachol is already precarious: Many people think we're vigilantes as it is. I can't have them thinking we're *racist* vigilantes to boot.\""
 msgstr ""
+"\"Naše pozice v Revacholu je už teď nejistá: mnoho lidí si myslí, že jsme nějací domobranáři. Nemůžu dopustit, aby si mysleli, že jsme *rasističtí* domobranáři.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000008FB"
 msgid "Forget it, this was a dumb idea."
 msgstr ""
+"Zapomeňme na to, byl to hloupý nápad."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000900002051"
 msgid "\"Well,\" he says after taking a moment to collect himself. \"You've made your views on the subject quite clear...\" Another little pause."
 msgstr ""
+"\"No,\" řekne poté, co se po chvíli sebere. \"Své názory na toto téma jste vyjádřil zcela jasně...\" Další malá pauza."
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000009000020D0"
 msgid "\"I was just trying to convey that I understood his grievances and wasn't judging him for having them.\""
 msgstr ""
+"\"Jen jsem se snažil vyjádřit, že chápu jeho stížnosti a neodsuzuji ho za to, že je má.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
@@ -220,6 +254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000000912"
 msgid "\"Maybe he's got a point.\""
 msgstr ""
+"\"Možná to dává smysl.\""
 
 #. Title = KIM SWITCH / RACIST KITSURAGI
 #. Description = Dialogue about if you are down the racism. Triggers some distance after leaving the lorry driver (it's hooked up to the Kim switchboard).
