@@ -69,9 +69,9 @@ const BaseField = {
       const $schema = Symbol.for("$schema");
       const result = [];
       for (let fieldDef of value[$schema] || []) {
-        result.push({ value: value[fieldDef.title], ...fieldDef.title });
+        result.push({ value: value[fieldDef.title], ...fieldDef });
       }
-      return result;
+      return { fields: result };
     }
   }
 };

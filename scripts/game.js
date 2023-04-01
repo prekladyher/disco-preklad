@@ -1,6 +1,6 @@
 import { program } from "commander";
 import { promises as fs } from "fs";
-import { decodeAsset } from "./game/main.js";
+import { decodeAsset, encodeAsset } from "./game/main.js";
 
 const INSPECT_OPTS = {
   depth: null,
@@ -29,7 +29,7 @@ program.command("read")
       decoded = JSONPath({ path: options.path, json: decoded });
     }
     if (options.json) {
-      BigInt.prototype.toJSON = value => value|0;
+      BigInt.prototype.toJSON = function() { return this.toString(); };
       console.log(JSON.stringify(decoded, null, "  "));
     } else {
       console.dir(decoded, {
@@ -37,6 +37,16 @@ program.command("read")
         ...INSPECT_OPTS
       });
     }
+  });
+
+program.command("write")
+  .description("Write Unity script data from JSON model")
+  .argument("<type>", "asset data type ('LanguageSourceAsset' or 'DialogueDatabase')")
+  .argument("<file>", "JSON data file")
+  .requiredOption("-o, --output <output>", "output file")
+  .action(async (type, file, options) => {
+    let data = JSON.parse(await fs.readFile(file));
+    await fs.writeFile(options.output, encodeAsset(type, data));
   });
 
 program.parseAsync();
