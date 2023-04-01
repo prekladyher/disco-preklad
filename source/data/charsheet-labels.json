@@ -1,0 +1,448 @@
+{
+  "m_GameObject": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": "0"
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": "6576"
+    },
+    "m_Name": "CharsheetSkillLabelsEnglish"
+  },
+  "labelSettings": [
+    {
+      "skill": 1,
+      "labelText": "LOGIC",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.900023937225342
+      },
+      "nameplateSize": {
+        "x": 100,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 2,
+      "labelText": "ENCYCLOPEDIA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -7.300000190734863,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 127,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 3,
+      "labelText": "RHETORIC",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": 1.2000000476837158,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 125.9000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 4,
+      "labelText": "DRAMA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -1.5,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 125.69999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 5,
+      "labelText": "CONCEPTUALIZATION",
+      "fontSize": 15,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -14.5,
+        "y": 2.900023937225342
+      },
+      "nameplateSize": {
+        "x": 140,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 6,
+      "labelText": "VISUAL\nCALCULUS",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.30000001192092896,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 90.69999694824219,
+        "y": 35.599998474121094
+      }
+    },
+    {
+      "skill": 7,
+      "labelText": "VOLITION",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.30000001192092896,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 90.69999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 8,
+      "labelText": "INLAND EMPIRE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -9,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 125,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 9,
+      "labelText": "EMPATHY",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 107.4000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 10,
+      "labelText": "AUTHORITY",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 106.4000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 12,
+      "labelText": "ESPRIT \nDE CORPS",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 94.19999694824219,
+        "y": 35.790000915527344
+      }
+    },
+    {
+      "skill": 11,
+      "labelText": "SUGGESTION",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.699999988079071,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 109.30000305175781,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 15,
+      "labelText": "ENDURANCE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 106.4000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 18,
+      "labelText": "PAIN\nTHRESHOLD",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -4,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 105,
+        "y": 36
+      }
+    },
+    {
+      "skill": 13,
+      "labelText": "PHYSICAL\nINSTRUMENT",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -3.9000000953674316,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 109.19999694824219,
+        "y": 35
+      }
+    },
+    {
+      "skill": 14,
+      "labelText": " ELECTRO-\nCHEMISTRY",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -1.2000000476837158,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 115.80000305175781,
+        "y": 35.20000076293945
+      }
+    },
+    {
+      "skill": 19,
+      "labelText": "SHIVERS",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 105.19999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 17,
+      "labelText": "HALF LIGHT",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 108.12999725341797,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 20,
+      "labelText": "HAND / EYE\nCOORDINATION",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -7.5,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 122.5999984741211,
+        "y": 36
+      }
+    },
+    {
+      "skill": 21,
+      "labelText": "PERCEPTION",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 108.69999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 26,
+      "labelText": "REACTION SPEED",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -11.600000381469727,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 132.5,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 27,
+      "labelText": "SAVOIR FAIRE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 110.19999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 28,
+      "labelText": "INTERFACING",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 107.19999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 29,
+      "labelText": "COMPOSURE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 107.0999984741211,
+        "y": 21.700000762939453
+      }
+    }
+  ]
+}
