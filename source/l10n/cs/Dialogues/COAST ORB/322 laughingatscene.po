@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000295A"
 msgid "\"This was some kind of theatre to them. A circus production by a great clown.\""
 msgstr ""
+"\"Bylo to pro ně takové divadélko. Cirkusový výstup velkého klauna.\""
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000294A"
 msgid "\"Hey -- let's keep moving, detective.\" The lieutenant adjusts his glasses."
 msgstr ""
+"\"Hej - pojďme dál, detektive.\" Poručík si upraví brýle."
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002954"
 msgid "\"Looks like they had a great time laughing here.\""
 msgstr ""
+"\"Vypadá to, že se tady výborně nasmáli.\""
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002908"
 msgid "This is it -- the scene of the party. The fire pit, cigarettes, and empty bottles all evidence it."
 msgstr ""
+"To je ono - dějiště té párty. Ohniště, cigarety a prázdné lahve to dokazují."
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000291E"
 msgid "Yeah. Sure does look like a lot of folks partied here."
 msgstr ""
+"Jo. Určitě to vypadá na to, že se tady bavilo hodně lidí."
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002960"
 msgid "\"Was this party against the law? On the ice like this -- it was probably a public danger.\""
 msgstr ""
+"\"Byla ta párty nezákonná? Na takovém kusu ledu - pravděpodobně šlo o veřejné ohrožení.\""
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002944"
 msgid "\"Looks like it.\""
 msgstr ""
+"\"Vypadá to tak.\""
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002913"
 msgid "Looks like they were here a while, judging from all the bottles. The sunken motor carriage provided them a focal point -- like a goose ice-sculpture or a chocolate fountain."
 msgstr ""
+"Vypadá to, že tady chvíli pobyli, soudě podle všech těch flašek. Potopený motorový kočár jim poskytl stěžejní bod - jako něcha socha husy z ledu nebo čokoládová fontána."
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002918"
 msgid "Hold up -- don't you mean scene of the crime?"
 msgstr ""
+"Zadrž - nemyslíš tím místo činu?"
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002935"
 msgid "\"Hey, Kim. Looks like we've had a couple of party-goers here.\""
 msgstr ""
+"\"Hej, Kime. Vypadá to, že jsme tady měli pár hostů na večírku.\""
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000294F"
 msgid "\"Not as such, no. Let's keep moving, detective.\""
 msgstr ""
+"\"Ne tak docela, ne. Pojďme dál, detektive.\""
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C22F"
 msgid "Somehow he doesn't want to dwell on it..."
 msgstr ""
+"Nějak se mu to nechce rozebírat..."
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000293B"
 msgid "Guess I'll be on my way. (Finish thought.)"
 msgstr ""
+"Myslím, že půjdu. (Dokonči myšlenku.)"
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000080000290E"
 msgid "Not as such. I'm talking about what came after -- the party scene."
 msgstr ""
+"Ne tak docela. Mluvím o tom, co přišlo potom - po tom večírku."
 
 #. Title = COAST ORB / laughingatscene
 #. Description = Convo with Logic about the scene of the party
@@ -108,3 +130,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800002923"
 msgid "(Dismiss thought.)"
 msgstr ""
+"(Zavrhni myšlenku.)"
