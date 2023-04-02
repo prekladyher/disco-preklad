@@ -1,7 +1,7 @@
 import { program } from "commander";
 import glob from "fast-glob";
 import { copyFile, readFile, writeFile } from "fs/promises";
-import { basename } from "path";
+import { basename, join } from "node:path";
 import { mergeDialogue, mergeLockit } from "./build/merge.js";
 import { decodeAsset, encodeAsset } from "./game/main.js";
 
@@ -18,6 +18,15 @@ program.command("lockit")
     const lockitData = decodeAsset("LanguageSourceAsset", await readFile(file))
     await mergeLockit(lockitData, await glob(source));
     await writeFile(target, encodeAsset("LanguageSourceAsset", lockitData));
+  });
+
+program.command("others")
+  .description("Build additional localized assets")
+  .argument("[target]", "target output directory", "target/assets")
+  .action(async (target) => {
+    const charsheetData = JSON.parse(await readFile("source/data/charsheet-labels.json", "utf-8"));
+    const charsheetTarget = join(target, "CharsheetSkillLabelsEnglish-resources.assets-3006.dat");
+    await writeFile(charsheetTarget, encodeAsset("CharsheetSkillLabels", charsheetData));
   });
 
 program.command("images")

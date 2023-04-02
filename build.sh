@@ -12,12 +12,19 @@ build_text() {
 
 # Apply translations to `shadow/lockits/*.dat` assets
 build_lockit() {
-  mkdir -p target/lockits
+  mkdir -p target/assets
 
   for file in shadow/lockits/*.dat; do
     echo "Building lockit $(basename $file)..." >&2
-    node scripts/build lockit "$file" "target/text/*.po" "target/lockits/$(basename $file)"
+    node scripts/build lockit "$file" "target/text/*.po" "target/assets/$(basename $file)"
   done
+}
+
+# Build additional localization assets
+build_others() {
+  mkdir -p target/assets
+
+  node scripts/build others
 }
 
 # Build translations for dialogue database asset
@@ -44,7 +51,7 @@ build_images() {
 # Clean previous builds if requested
 if [[ -v CLEAN ]]; then
   echo "Cleaning previous build..." >&2
-  rm -rf build target/{text,lockits,images,assets}
+  rm -rf build target/{text,assets,images}
 fi
 
 # Combine translation files (default)
@@ -56,6 +63,12 @@ fi
 # Build lockit assets
 if [[ -v LOCKIT ]]; then
   build_lockit
+fi
+
+# Build other assets
+if [[ -v OTHERS ]]; then
+  echo "Building additional localization assets..." >&2
+  build_others
 fi
 
 # Build dialogue database asset

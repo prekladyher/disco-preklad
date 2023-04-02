@@ -77,5 +77,5 @@ Obsah složky by měl být následující:
 Pro sestavení překladu stačí zavolat následující příkaz:
 
 ```bash
-CLEAN= LOCKIT= DIALOGUE= IMAGES= ./build.sh
+CLEAN= LOCKIT= DIALOGUE= IMAGES= OTHERS= ./build.sh
 ```
