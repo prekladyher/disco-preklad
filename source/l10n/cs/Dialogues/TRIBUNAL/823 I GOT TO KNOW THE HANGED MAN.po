@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E80"
 msgid "\"Who are you?\""
 msgstr ""
+"\"Kdo jsi?\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800012E80"
 msgid "\"Who are you -- a major?\""
 msgstr ""
+"\"Kdo jsi - major?\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100007800012E80"
 msgid "\"Who are you -- *Korty*?\""
 msgstr ""
+"\"Kdo jsi - *Korty*?\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E99"
 msgid "As he moves, the interlocking pieces of his armour click, softly."
 msgstr ""
+"Když se pohne, navzájem provázané části jeho zbroje měkce zacinkají."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -59,6 +71,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FFC"
 msgid "\"Listen, man. We told you we...\""
 msgstr ""
+"\"Poslyš, chlape. Říkali jsme, že...\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -83,6 +96,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012EDD"
 msgid "\"His parents left him in a fucking leaf compactor.\""
 msgstr ""
+"\"Jeho rodiče ho zanechali v zasraným lisu na listí.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -99,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FBB"
 msgid "\"Banaital, '41... that really happened didn't it?\""
 msgstr ""
+"\"Banaital, rok 41... to se opravdu stalo, že?"
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -107,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013035"
 msgid "\"It was creepy, but bitches... bitches like that shit, I guess. Or... I don't know what bitches like. I just know how to mow down *cloths*.\""
 msgstr ""
+"\"Bylo to úchylný, ale kundám... kundám se to líbí, řek bych. Nebo... Já nevím, co se vlastně kundám líbí. Já jenom vím, jak kosit *křováky*.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -131,6 +147,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012EC7"
 msgid "No -- probably foster brothers! Ellis was put into a foster home, remember..."
 msgstr ""
+"Ne - asi bratři v pěsnounské péči! Ellise strčili do náhradního domova, pamatuj..."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -139,6 +156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FA2"
 msgid "\"It's a mind-fuck, Korty. He wasn't put it a leaf compactor. They're making it up to fuck with us.\" She glances at him. \"Major, permission to...\""
 msgstr ""
+"\"Zkouší s tebou vyjebat, Korty. Nedali ho do lisu na listí. Vymýšlej si to, aby s náma vymrdali.\" Pohlédne na něj. \"Majore, povolení k...\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -155,6 +173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E87"
 msgid "\"Sergeant Major Raul Kortenaer -- reporting in to burn this fucking mud hut to the ground!\" He points at the Whirling-in-Rags..."
 msgstr ""
+"\"Seržant major Raul Kortenaer se hlásí do mrtě vypálit tuhle zasranou hliněnou chýš!\" Ukáže na V-Cárech-Vířící."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -163,6 +182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012EE9"
 msgid "(Conclude.) \"Your colonel did not deserve to go out like that. I promise -- I *will* find his killer.\""
 msgstr ""
+"(Uzavři.) \"Váš plukovník si nezasloužil takhle zemřít. Přísahám - já jeho vraha *najdu*.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -171,6 +191,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800012EE9"
 msgid "(Conclude.) \"Your brother did not deserve to go out like that. I promise -- I *will* find his killer.\""
 msgstr ""
+"(Uzavři.) \"Tvůj bratr si nezasloužil takhle zemřít. Přísahám - já jeho vraha *najdu*.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -203,6 +224,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012EF7"
 msgid "\"Raul and Ellis Kortenaer...\" Look him in the eye. \"I'm sorry about your brother, Raul.\""
 msgstr ""
+"\"Raul a Ellis Kortenaerovi...\" Pohlédni mu do očí. \"To s vaším bratrem mě mrzí, Raule.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -211,6 +233,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F99"
 msgid "\"They fucking put Lely in a leaf compactor and now these cunts finished the job...\" He waves at the gang huddled by the doors."
 msgstr ""
+"\"Lelyho strčili do zasranýho lisu na listí, a teď ho ty kundy dodělaly...\" Mávne směrem ke hloučku lidí u dveří."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -219,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FE7"
 msgid "\"He was a good commander. I can see you miss him.\""
 msgstr ""
+"\"Byl dobrým velitelem. Chápu, že vám chybí.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -235,6 +259,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500018ACE"
 msgid "I should talk to him about the hanged man."
 msgstr ""
+"Měl bych s ním promluvit o viselci."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -243,6 +268,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100004500018ACE"
 msgid "His name was Ellis Kortenaer"
 msgstr ""
+"Jmenoval se Ellis Kortenaer."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -251,6 +277,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100004500018ACE"
 msgid "He was fostered"
 msgstr ""
+"Byl v pěstounské péči."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -259,6 +286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F66"
 msgid "\"Ready to open fire, major. At your command.\""
 msgstr ""
+"\"Připravena vystřelit, majore. Na tvůj pokyn.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -267,6 +295,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001E8BA"
 msgid "This one isn't used to being suited this long. She's uncomfortable; will open fire just to hurry things along."
 msgstr ""
+"Tahle není zvyklá být tak dlouho napnutá. Připadá si neklidně; vystřelí jen proto, aby věci uspíšila."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -275,6 +304,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E5E"
 msgid "Of course! Nothing bad will happen. Talk about his dead friend! He seems stable enough to take it."
 msgstr ""
+"Samozřejmě! Nic zlého se nestane. Mluv o jeho mrtvém příteli! Vypadá dostatečně vyrovnaně na to, aby se s tím vypořádal."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -283,6 +313,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012EFE"
 msgid "\"He wasn't my fucking brother! We just grew up on the same farm and got beat into place by the same sick fuck...\""
 msgstr ""
+"\"Nebyl to můj zasranej bratr! Prostě jsme vyrostli na té stejné farmě, a srovnal nás do latě ten samej úchylnej zmrd...\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -331,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F06"
 msgid "\"And then went to the same military academy. And the same unit. And the same war...\""
 msgstr ""
+"\"A pak šli na stejnou vojenskou akademii. Do stejné jednotky. A do stejné války...\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -355,6 +387,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FC2"
 msgid "\"He had blue eyes didn't he -- your colonel.\""
 msgstr ""
+"\"Tvůj plukovník - měl modré oči, že ano.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -363,6 +396,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007800012FC2"
 msgid "\"He had blue eyes didn't he -- your brother.\""
 msgstr ""
+"\"Tvůj bratr - měl modré oči, že ano.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -371,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000130BE"
 msgid "Big talk, but you got him to admit he's a bad leader. It's a small thing -- but it got him off centre..."
 msgstr ""
+"Mnoho keců, ale přiměls ho uznat, že je špatným vůdcem. Je to drobnost - ale vykolejila ho..."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -395,6 +430,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000130D4"
 msgid "\"I feel like I got to know your dead friend. During our investigation.\""
 msgstr ""
+"\"Mám pocit, že jsem tvého mrtvého kamaráda poznal. Během našeho vyšetřování.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -403,6 +439,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000130E2"
 msgid "\"You don't fucking TALK TO ME about my brother, loincloth!\" He squeezes the words out from between clamped lips, his hand on the pistol..."
 msgstr ""
+"\"NEMLUV NA MĚ, kurva, o mým bratrovi, křováku!\" Protlačí slova skrz sevřené rty, jeho ruka položená na pistoli..."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -411,6 +448,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012ECE"
 msgid "Korty -- Kortenaer. Major Raul *Korty* Kortenaer. Friends with Lely. Raul and Lely."
 msgstr ""
+"Korty - Kortenaer. Major Raul *Korty* Kortenaer. Kamarád Lelyho. Raul a Lely."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -427,6 +465,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FCB"
 msgid "\"Baby blue, yeah... Like someone fucked up and put a baby's eyes on a grown man.\" He smiles, pulling his face in a strange way."
 msgstr ""
+"\"Dětsky modrý, jo... Jako by to někdo posral a vložil oči z mimina do ksichtu dospělýho chlapa.\" Usměje se a podivně zkřiví obličej."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -443,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F86"
 msgid "Don't let him finish the sentence!"
 msgstr ""
+"Nenech ho dokončit větu!"
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -451,6 +491,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000130A1"
 msgid "Big talk, but that leaf compactor won't leave his mind any time soon. It's a small thing -- but it got him off centre..."
 msgstr ""
+"Hodně keců, ale lis na listí mu ještě dlouho nedá klid. Je to maličkost - ale vykolejila ho..."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -459,6 +500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012E6C"
 msgid "\"I knew you weren't a god damn scab leader!\""
 msgstr ""
+"\"Já věděl, že nejsi zatracenej vůdce stávkokazů!\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -475,6 +517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000139FF"
 msgid "Okay. Good."
 msgstr ""
+"Dobře. Skvělé."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -491,6 +534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F33"
 msgid "\"Who... Lely?\""
 msgstr ""
+"\"Kdo... Lely?\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -499,6 +543,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FF4"
 msgid "\"...fucking murdered him. Had him stink the village up for two weeks after. And you fucks did nothing.\" He points at you."
 msgstr ""
+"\"... oni ho kurva zavraždili. Nechali ho zasmradit celou tu vesnici po celý dva týdny. A vy zmrdi jste nic neudělali.\" Ukáže na tebe. "
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -515,6 +560,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012ED7"
 msgid "\"Kortenaer -- I know that name.\""
 msgstr ""
+"\"Kortenaer - to jméno znám.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -523,6 +569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F0C"
 msgid "\"You were foster brothers. I know that.\""
 msgstr ""
+"\"Byli jste bratři v pěstounské péči. Vím to.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -531,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F3A"
 msgid "\"Yes. When he was small... just an infant.\""
 msgstr ""
+"\"Ano. Když byl malý... jen děťátko.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -539,6 +587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013105"
 msgid "The man he's mourning was called Ellis *Kortenaer*. Korty could be short for Kortenaer? Could they be brothers? Ask him that. What could go wrong. It's a discovery!"
 msgstr ""
+"Ten muž, pro kterého truchlí, se jmenoval Ellis *Kortenaer*. Korty by mohlo být Kortenaer zkráceně? Že by to byli bratři? Zeptej se ho. Co se tak může pokazit. Je to objev!"
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -547,6 +596,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F29"
 msgid "Beaten by a foster parent, or someone on the farm?"
 msgstr ""
+"Bil ho náhradní rodič, nebo někdo na té farmě?"
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -555,6 +605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012F51"
 msgid "\"We've heard testimony. People say he was charismatic. A nice guy to be around.\""
 msgstr ""
+"\"Slyšeli jsme doznání. Lidé říkají, že byl charizmatický. Příjemný společník.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -587,6 +638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800013056"
 msgid "\"Find his killer?! Cop, his killers stand right there!\" He waves at the men behind you. \"Shitting their pants -- and *you're* standing in the way protecting them.\""
 msgstr ""
+"\"Najít jeho vraha?! Poldo, jeho vrahové stojej právě tady!\" Mávne směrem k lidem za tebou. \"Maj nasráno v gatích - a *ty* stojíš v cestě a chráníš je.\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -627,6 +679,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012FB1"
 msgid "...open fire -- we can't have that. Interfere, now!"
 msgstr ""
+"...vystřelit - to se nesmí stát. Vložme se do toho, teď!"
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -635,6 +688,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001310C"
 msgid "\"Hey... I don't mean to pry but the hanged man -- was he your brother?\""
 msgstr ""
+"\"Hej... Nechci z vás nic tahat, ale ten viselec - on byl tvůj bratr?\""
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -659,6 +713,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000130CE"
 msgid "He doesn't seem stable at all...."
 msgstr ""
+"Nevypadá vyrovnaný ani trochu...."
 
 #. Title = TRIBUNAL / I GOT TO KNOW THE HANGED MAN
 #. Description = "Look, I've gotten to know the hanged man too a bit over the course of this investigation..."
@@ -667,3 +722,4 @@ msgstr ""
 msgctxt "Alternate1/0x01000078000130CE"
 msgid "Am I sure? He's already shot one person..."
 msgstr ""
+"Jsem si tím jistý? Jednu osobu už zastřelil..."
