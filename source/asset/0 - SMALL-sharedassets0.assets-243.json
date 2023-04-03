@@ -1,0 +1,1277 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4972
+  },
+  "m_Name": "0 - SMALL",
+  "proflieName": "SMALL",
+  "mainMenuProfile": {
+    "ViewName": "Main Menu",
+    "mainMenuButtons": {
+      "textElementID": "mainMenu_buttons",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 65,
+            "maxFontSize": 70
+          },
+          {
+            "languageCode": "es",
+            "minFontSize": 41,
+            "maxFontSize": 46
+          },
+          {
+            "languageCode": "pt-BR",
+            "minFontSize": 36,
+            "maxFontSize": 41
+          },
+          {
+            "languageCode": "fr",
+            "minFontSize": 37,
+            "maxFontSize": 41
+          },
+          {
+            "languageCode": "de",
+            "minFontSize": 35,
+            "maxFontSize": 39
+          },
+          {
+            "languageCode": "ru",
+            "minFontSize": 30,
+            "maxFontSize": 33
+          },
+          {
+            "languageCode": "pl",
+            "minFontSize": 55,
+            "maxFontSize": 60
+          },
+          {
+            "languageCode": "ja",
+            "minFontSize": 46,
+            "maxFontSize": 50
+          },
+          {
+            "languageCode": "et",
+            "minFontSize": 46,
+            "maxFontSize": 50
+          },
+          {
+            "languageCode": "tr",
+            "minFontSize": 58,
+            "maxFontSize": 61
+          }
+        ]
+      }
+    }
+  },
+  "optionsProfile": {
+    "ViewName": "Options",
+    "optionsLabels": {
+      "textElementID": "options_labels",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "optionsItemsLabels": {
+      "textElementID": "options_itemLabels",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "optionsLanguageHelp": {
+      "textElementID": "options_languageHelp",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          },
+          {
+            "languageCode": "ko",
+            "fontSize": 18
+          },
+          {
+            "languageCode": "pt-BR",
+            "fontSize": 18
+          },
+          {
+            "languageCode": "fr",
+            "fontSize": 18
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "optionsLanguageAnd": {
+      "textElementID": "options_languageAnd",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "optionElementHeight": {
+      "textElementID": "options_elementHeight",
+      "height": 26.0
+    }
+  },
+  "controllerHelpMenuProfile": {
+    "ViewName": "Controller Help Menu",
+    "controlerLabels": {
+      "textElementID": "controller_labels",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 24
+          }
+        ]
+      }
+    },
+    "controlerStadiaDisclaimer": {
+      "textElementID": "controller_stadiaDisclaimer",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 14
+          }
+        ]
+      }
+    }
+  },
+  "infoPanelProfile": {
+    "ViewName": "Info Panel",
+    "title": {
+      "textElementID": "infoPanel_title",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 26
+          }
+        ]
+      }
+    },
+    "description": {
+      "textElementID": "infoPanel_description",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "tipsText": {
+      "textElementID": "infoPanel_tipText",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 21
+          },
+          {
+            "languageCode": "es",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "ko",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "pt-BR",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "fr",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "de",
+            "fontSize": 21
+          }
+        ]
+      }
+    }
+  },
+  "saveLoadProfile": {
+    "ViewName": "Save Load Screen",
+    "mainMenuButtons": {
+      "textElementID": "saveLoad_Text",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "dateHourText": {
+      "textElementID": "saveLoad_dateHour",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "dayRect": {
+      "textElementID": "saveLoad_dayRect",
+      "anchoredPositionX": -112.0,
+      "sizeDeltaX": 102.0
+    },
+    "hourRect": {
+      "textElementID": "saveLoad_hourRect",
+      "anchoredPositionX": -32.0,
+      "sizeDeltaX": 56.0
+    },
+    "saveName": {
+      "textElementID": "saveLoad_saveNameRect",
+      "anchoredPositionX": 8.0,
+      "sizeDeltaX": 580.0
+    }
+  },
+  "archetypeSelectionProfile": {
+    "ViewName": "Archetype screen",
+    "archetypeSelection_Title": {
+      "textElementID": "archetypeSelection_Title",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 68
+          }
+        ]
+      }
+    },
+    "archetypeSelection_Name": {
+      "textElementID": "archetypeSelection_Name",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 46
+          },
+          {
+            "languageCode": "ru",
+            "minFontSize": 18,
+            "maxFontSize": 30
+          }
+        ]
+      }
+    },
+    "archetypeSelection_Description": {
+      "textElementID": "archetypeSelection_Description",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 26
+          }
+        ]
+      }
+    },
+    "archetypeSelection_StatName": {
+      "textElementID": "archetypeSelection_StatName",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "archetypeSelection_StatValue": {
+      "textElementID": "archetypeSelection_StatValue",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 60
+          }
+        ]
+      }
+    },
+    "archetypeSelection_SignatureText": {
+      "textElementID": "archetypeSelection_SignatureText",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 26
+          }
+        ]
+      }
+    }
+  },
+  "charsheetProfile": {
+    "ViewName": "Charsheet",
+    "attributeValue": {
+      "textElementID": "charsheet_attributeValue",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 159
+          }
+        ]
+      }
+    },
+    "attributeName": {
+      "textElementID": "charsheet_attributeName",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 26
+          }
+        ]
+      }
+    },
+    "skillValue": {
+      "textElementID": "charsheet_skillValue",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 28
+          }
+        ]
+      }
+    },
+    "menuTitle": {
+      "textElementID": "charsheet_menuTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 42
+          },
+          {
+            "languageCode": "es",
+            "fontSize": 34
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 29
+          }
+        ]
+      }
+    },
+    "overviewInfo": {
+      "textElementID": "charsheet_overviewInfo",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 24
+          }
+        ]
+      }
+    },
+    "highlightedSkillName": {
+      "textElementID": "charsheet_highlightedSkillName",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 32,
+            "maxFontSize": 36
+          }
+        ]
+      }
+    },
+    "highlightedSkillDescription": {
+      "textElementID": "charsheet_highlightedSkillDescription",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 20,
+            "maxFontSize": 20
+          }
+        ]
+      }
+    },
+    "highlightedSkillModifiers": {
+      "textElementID": "charsheet_highlightedSkillModifiers",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "totalSkillPointsLabel": {
+      "textElementID": "charsheet_totalSkillPointsLabel",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "totalSkillPointsValue": {
+      "textElementID": "charsheet_totalSkillPointsValue",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 72
+          }
+        ]
+      }
+    },
+    "experience": {
+      "textElementID": "charsheet_experience",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "skillPoints": {
+      "textElementID": "charsheet_skillPoints",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "skillInfo": {
+      "textElementID": "charsheet_skillInfo",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    }
+  },
+  "inventoryProfile": {
+    "ViewName": "Inventory",
+    "menuTitle": {
+      "textElementID": "inventory_menuTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 67
+          },
+          {
+            "languageCode": "pt-BR",
+            "fontSize": 55
+          },
+          {
+            "languageCode": "fr",
+            "fontSize": 60
+          }
+        ]
+      }
+    },
+    "equippedTitle": {
+      "textElementID": "inventory_equippedTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "equippedItemSlot": {
+      "textElementID": "inventory_equippedItemSlot",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "autoItemName": {
+      "textElementID": "inventory_itemName",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 26
+          }
+        ]
+      }
+    },
+    "itemEffect": {
+      "textElementID": "inventory_itemEffect",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "itemPrice": {
+      "textElementID": "inventory_itemPrice",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          },
+          {
+            "languageCode": "zh",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "itemDescription": {
+      "textElementID": "inventory_itemDescription",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "itemsTabLabels": {
+      "textElementID": "inventory_itemsTabLabels",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 13
+          }
+        ]
+      }
+    },
+    "itemPawnShowClose": {
+      "textElementID": "inventory_itemPawnShowClose",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 36
+          }
+        ]
+      }
+    },
+    "tooltipTitle": {
+      "textElementID": "inventory_tooltipTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "tooltipText": {
+      "textElementID": "inventory_tooltipText",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    }
+  },
+  "leftStatsHealthBonusesPanelProfile": {
+    "ViewName": "Left Stats Health Bonuses Panel",
+    "statNumericalValues": {
+      "textElementID": "leftPanel_statNumericalValues",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 62
+          }
+        ]
+      }
+    },
+    "statAbbreviation": {
+      "textElementID": "leftPanel_statAbbreviation",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 26
+          },
+          {
+            "languageCode": "zh",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "ko",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "healthMoraleLabel": {
+      "textElementID": "leftPanel_healthMoraleLabel",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "healthMoraleValue": {
+      "textElementID": "leftPanel_healthMoraleValue",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "bonusesTitle": {
+      "textElementID": "leftPanel_bonusesTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "bonusesTextValues": {
+      "textElementID": "leftPanel_bonusesTextValues",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "buttonPrompts": {
+      "textElementID": "leftPanel_buttonPrompt",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 31
+          }
+        ]
+      }
+    }
+  },
+  "thoughtCabinetProfile": {
+    "ViewName": "Thought cabinet",
+    "menuTitle": {
+      "textElementID": "thc_menuTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 67
+          },
+          {
+            "languageCode": "pt-BR",
+            "fontSize": 55
+          },
+          {
+            "languageCode": "fr",
+            "fontSize": 60
+          },
+          {
+            "languageCode": "de",
+            "fontSize": 57
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 57
+          }
+        ]
+      }
+    },
+    "sortThoughts": {
+      "textElementID": "thc_sortThoughts",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 16
+          }
+        ]
+      }
+    },
+    "sortType": {
+      "textElementID": "thc_sortType",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "thoughtListItem": {
+      "textElementID": "thc_thoughtListItem",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "thoughtListItemAutoSize": {
+      "textElementID": "thc_thoughtListItemAutoSize",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 17,
+            "maxFontSize": 18
+          }
+        ]
+      }
+    },
+    "thoughtTitle": {
+      "textElementID": "thc_thoughtTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 42
+          }
+        ]
+      }
+    },
+    "autoThoughtBonus": {
+      "textElementID": "thc_thoughtBonus",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 26
+          }
+        ]
+      }
+    },
+    "problemSolution": {
+      "textElementID": "thc_problemSolution",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "description": {
+      "textElementID": "thc_description",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          },
+          {
+            "languageCode": "zh",
+            "fontSize": 21
+          },
+          {
+            "languageCode": "ko",
+            "fontSize": 21
+          }
+        ]
+      }
+    },
+    "experiencePoints": {
+      "textElementID": "thc_experiencePoints",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "skillPointsLabel": {
+      "textElementID": "thc_skillPointsLabel",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 22
+          }
+        ]
+      }
+    }
+  },
+  "thoughtSplashScreenProfile": {
+    "ViewName": "Thought Splash Screen",
+    "screenTitle": {
+      "textElementID": "thcSplash_screenTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 46
+          }
+        ]
+      }
+    },
+    "thoughtTitle": {
+      "textElementID": "thcSplash_thoughtTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 60
+          }
+        ]
+      }
+    },
+    "description": {
+      "textElementID": "thcSplash_description",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "tabs": {
+      "textElementID": "thcSplash_tabs",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 24
+          }
+        ]
+      }
+    },
+    "stats": {
+      "textElementID": "thcSplash_stats",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "button": {
+      "textElementID": "thcSplash_button",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 40
+          }
+        ]
+      }
+    }
+  },
+  "journalProfile": {
+    "ViewName": "Journal",
+    "screenTitle": {
+      "textElementID": "journal_screenTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 42
+          }
+        ]
+      }
+    },
+    "taskMapTab": {
+      "textElementID": "journal_taskMapTab",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 32
+          }
+        ]
+      }
+    },
+    "dayTitle": {
+      "textElementID": "journal_dayTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 32
+          }
+        ]
+      }
+    },
+    "taskItem": {
+      "textElementID": "journal_taskItem",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "activeDoneTab": {
+      "textElementID": "journal_activeDoneTab",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 30
+          }
+        ]
+      }
+    },
+    "taskTitle": {
+      "textElementID": "journal_taskTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 30
+          }
+        ]
+      }
+    },
+    "taskState": {
+      "textElementID": "journal_taskState",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "taskDetails": {
+      "textElementID": "journal_taskDetails",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "officerProfile": {
+      "textElementID": "journal_officerProfile",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 26
+          },
+          {
+            "languageCode": "pl",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "de",
+            "fontSize": 24
+          }
+        ]
+      }
+    },
+    "characterName": {
+      "textElementID": "journal_characterName",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 36
+          }
+        ]
+      }
+    },
+    "characterRank": {
+      "textElementID": "journal_characterRank",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 14
+          }
+        ]
+      }
+    },
+    "characterStats": {
+      "textElementID": "journal_characterStats",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    }
+  },
+  "mapProfile": {
+    "ViewName": "Map",
+    "checkTitle": {
+      "textElementID": "map_checkTitle",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 20,
+            "maxFontSize": 20
+          }
+        ]
+      }
+    },
+    "checkDifficulty": {
+      "textElementID": "map_checkDifficulty",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "checkTutorial": {
+      "textElementID": "map_checkTutorial",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 18
+          }
+        ]
+      }
+    },
+    "characterName": {
+      "textElementID": "map_characterName",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 24
+          }
+        ]
+      }
+    }
+  },
+  "newspaperEndingProfile": {
+    "ViewName": "Newspaper Ending",
+    "headline": {
+      "textElementID": "newspaper_headline",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 30,
+            "maxFontSize": 160
+          }
+        ]
+      }
+    },
+    "description": {
+      "textElementID": "newspaper_description",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "paragraph": {
+      "textElementID": "newspaper_paragraph",
+      "localPosition": {
+        "x": -172.6624,
+        "y": 62.57791,
+        "z": 0.0
+      },
+      "anchoredPosition": {
+        "x": -172.6624,
+        "y": 62.57791
+      },
+      "sizeDelta": {
+        "x": -790.8064,
+        "y": -163.5363
+      }
+    },
+    "backgroundCoverEnabled": {
+      "textElementID": "newspaper_backgroundCoverEnabled",
+      "isEnabled": 0
+    }
+  },
+  "collageModeProfile": {
+    "ViewName": "CollageMode",
+    "subDrawerSelector": {
+      "textElementID": "collageMode_subDrawerSelector",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 15
+          }
+        ]
+      }
+    },
+    "title": {
+      "textElementID": "collageMode_title",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 18,
+            "maxFontSize": 32
+          }
+        ]
+      }
+    },
+    "button": {
+      "textElementID": "collageMode_button",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 20
+          }
+        ]
+      }
+    },
+    "tooltip": {
+      "textElementID": "collageMode_tooltip",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 18
+          }
+        ]
+      }
+    },
+    "popup": {
+      "textElementID": "collageMode_popup",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 24
+          }
+        ]
+      }
+    },
+    "largeButton": {
+      "textElementID": "collageMode_largeButton",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 32
+          }
+        ]
+      }
+    },
+    "dialogueAutofill": {
+      "textElementID": "collageMode_dialogueAutofill",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "minFontSize": 16,
+            "maxFontSize": 24
+          }
+        ]
+      }
+    },
+    "screenshotPopup": {
+      "textElementID": "collageMode_screenshotPopup",
+      "sizes": {
+        "Array": [
+          {
+            "languageCode": "en",
+            "fontSize": 26
+          }
+        ]
+      }
+    }
+  }
+}
