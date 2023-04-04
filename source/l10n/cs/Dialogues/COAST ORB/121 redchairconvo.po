@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000004000152FF"
 msgid "It's only a red chair. Just a red chair in an empty shack -- with what looked like a dusty bow tie on the shelf. Nothing to see here, right?"
 msgstr ""
+"Je to jen červené křeslo. Jenom červené křeslo v jinak prázdné chatrči - s něčím, co vypadá jako zaprášený motýlek na polici. Tady není nic k vidění, že?"
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C519"
 msgid "Your neck tie sounds very scared. NEVER take it off."
 msgstr ""
+"Tvoje kravata vypadá velmi vyděšeně. NIKDY ji nesundávej."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4AA"
 msgid "You suddenly feel afraid of the chair. It looks like blood is peeling off it..."
 msgstr ""
+"Najednou z toho křesla pocítíš strach. Vypadá to, že se z něj krev přímo odlupuje..."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4B2"
 msgid "\"What's with the red chair?\""
 msgstr ""
+"\"Co s tím červeným křeslem?\""
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015306"
 msgid "[Discard thought.]"
 msgstr ""
+"[Zahoď myšlenku.]"
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C513"
 msgid "Yes. Agreed. You should never take your neck tie off. Ever."
 msgstr ""
+"Ano. Souhlas. Nikdy by sis neměl sundávat kravatu. Vůbec."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C52A"
 msgid "Red paint is peeling off it. Looks like blood, no?"
 msgstr ""
+"Odlupuje se z něj červená barva. Vypadá to jako krev, ne?"
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015315"
 msgid "Sounds like we need to investigate it, then."
 msgstr ""
+"Vypadá to tak, že to musíme prozkoumat."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001531C"
 msgid "\"In someone's abandoned shack. On the coast. In Martinaise...\" He looks at you. \"In Revachol.\""
 msgstr ""
+"\"V něčí opuštěné chatrči. Na pobřeží. V Martinéze...\" Podívá se na tebe. \"V Revacholu.\""
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400016453"
 msgid "\"Hey Kim, where are we?\""
 msgstr ""
+"\"Hej, Kime, kde to jsme?\""
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4BF"
 msgid "\"What's with the red bow tie?\" (Show it to him.)"
 msgstr ""
+"\"Co s tím červeným motýlkem?\" (Ukaž mu ho.)"
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C53C"
 msgid "\"Could our suspect be staying here?\""
 msgstr ""
+"\"Mohl by tady náš podezřelý ještě pobývat?\""
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4D3"
 msgid "He sounds a little worried. It's an odd habit."
 msgstr ""
+"Zní trochu ustaraně. Je to zvláštní zvyk."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C543"
 msgid "\"Here?\" He looks around. \"I don't see signs of recent habitation. This place is abandoned.\""
 msgstr ""
+"\"Tady?\" Rozhlíží se kolem sebe. \"Nevidím tady známky nedávného bydlení. Tohle místo je opuštěné.\""
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4DA"
 msgid "Don't be worried, lieutenant. Clothes are therapeutic."
 msgstr ""
+"Neboj se, poručíku. Oblečení je terapeutické."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4A2"
 msgid "He's afraid you've forgotten suddenly."
 msgstr ""
+"Bojí se, že jsi z ničehonic zapomněl."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C50C"
 msgid "Your neck tie sounds very scared. It's unsafe not to wear it. Put it back."
 msgstr ""
+"Tvoje kravata vypadá velmi vyděšeně. Je nebezpečné ji nenosit. Dej to zpátky."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C54E"
 msgid "See? He doesn't like the *vibration* from the red chair either."
 msgstr ""
+"Vidíš? Nelíbí se mu ani ty *vibrace* z toho červeného křesla."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C523"
 msgid "\"Nothing. It's just a piece of furniture.\" He looks at the chair gathering dust."
 msgstr ""
+"\"Nic. Je to jenom kus nábytku.\" Podívá se na křeslo, na kterém se hromadí prach."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C556"
 msgid "\"All right. Let's move.\" [Finish thought.]"
 msgstr ""
+"\"Dobře. Tak pojďme.\" [Dokonči myšlenku.]"
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400016494"
 msgid "Investigate the blood red chair? You're going to leave it alone, Harry. That's what you're going to do."
 msgstr ""
+"Prozkoumat to krvavě červené křeslo? Ty to necháš být, Harry. To je to, co uděláš."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4C6"
 msgid "\"It's just a piece of clothing you've picked up. You do that, officer -- you collect clothes sometimes.\""
 msgstr ""
+"\"Je to jenom kus oblečení, co jsi zvedl. To děláš, detektive - občas sbíráš oblečení.\""
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C4F3"
 msgid "You better not fucking think about ditching me for some shitty cum stained bow tie. You and I are gearing up for the *final showdown* that's gonna be off *all walls*. You wait and see."
 msgstr ""
+"Radši kurva ani nemysli, že by ses na mě vykašlal kvůli nějakýmu zasranýmu zacákanýmu motýlkovi. Ty a já se připravujeme na *konečné zúčtování*, které bude mimo *všechny zdi*. Počkej a uvidíš."
 
 #. Title = COAST ORB / redchairconvo
 #. Description = The Red Chair Dialogue with Inland Empire.
@@ -171,3 +202,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C500"
 msgid "You took *me* off for that shit? YOU FUCKING IDIOT! Put the horrific neck tie back on immediately -- or you will miss out on the FINAL SHOWDOWN. This is your last warning. Put me back on."
 msgstr ""
+"Tys *mě* sundal kvůli takové sračce? TY ZKURVENEJ IDIOTE! Vrať toho hroznýho motýla okamžitě zpátky - nebo zmeškáš to KONEČNÉ ZÚČTOVÁNÍ. Toto poslední varování. Vrať mě zpátky."
