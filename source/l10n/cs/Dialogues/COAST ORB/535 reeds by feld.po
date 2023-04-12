@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000140AB"
 msgid "Look around."
 msgstr ""
+"Rozhlédni se kolem."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014117"
 msgid "Say nothing, just put the trap down."
 msgstr ""
+"Neříkej nic, jen tu past polož."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -52,6 +62,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014247"
 msgid "There's a trap in the reeds at your feet. Looks like the same one you saw Morell set before -- same mesh, same wiring."
 msgstr ""
+"U tvých nohou je v rákosí past. Vypadá, že je stejná, jakou jsi předtím viděl nastavovat Morella - stejné pletivo, stejné dráty."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -59,6 +70,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001431B"
 msgid "\"Let's keep going. The next one is the *lucky* one.\""
 msgstr ""
+"\"Pojďme dál. Další bude ta *šťastná*.\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -66,6 +78,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900000925"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -94,6 +107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014150"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -101,6 +115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000142F6"
 msgid "No locusts!"
 msgstr ""
+"Žádné kobylky!"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -108,6 +123,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014335"
 msgid "\"Yup. The next one has a *crab* trapped in it.\" He raises his collar -- it's windy. \"These are just crab traps, you do realize?\""
 msgstr ""
+"\"Jo. V další bude chycený *krab*.\" Zvedne si límec - fouká vítr. \"To jsou prostě pasti na kraby, uvědomuješ si to?\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -115,6 +131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000290000098F"
 msgid "The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That must have been another one."
 msgstr ""
+"Kobylkám se moc nedaří, ale stále tam jsou. Tohle není ta prázdná past. To musela být nějaká jiná."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -122,6 +139,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000290000098F"
 msgid "The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was by the canal."
 msgstr ""
+"Kobylkám se moc nedaří, ale stále tam jsou. Tohle není ta prázdná past. To by ta u kanálu."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -129,6 +147,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000290000098F"
 msgid "The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one Morell was setting up, near the cryptozoologists camp."
 msgstr ""
+"Kobylkám se moc nedaří, ale stále tam jsou. Tohle není ta prázdná past. To byla ta nastražená Morellem, poblíž toho tábora kryptozoologů."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -136,6 +155,7 @@ msgstr ""
 msgctxt "Alternate3/0x010000290000098F"
 msgid "The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was in Land's End, in the northern tip of this peninsula."
 msgstr ""
+"Kobylkám se moc nedaří, ale stále tam jsou. Tohle není ta prázdná past. To byla ta na Konci světa, v severním cípu tohoto poloostrova."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -143,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001424D"
 msgid "A familiar apparatus lies among the reeds -- another one of Morell's traps, weighed down by stones to keep it in place."
 msgstr ""
+"Mezi rákosím leží nějaké povědomé zařízení - další z Morellových pastí, zatížená kameny, aby zůstala na místě."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -150,6 +171,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014253"
 msgid "This trap's not too hard to spot -- once you know what to look for. Keeping it hidden has not been a priority for the cryptozoologist."
 msgstr ""
+"Tuto past není moc si všimnout - když už víš, co hledat. Udržet ji skrytou nebylo pro toho kryptozoologa prioritou."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -157,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000142FC"
 msgid "Look closer."
 msgstr ""
+"Podívej se důkladněji."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -171,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001433B"
 msgid "\"Always up for a good jog -- otherwise, would I still be *on* this case with *you*?\" He smiles and raises his collar. It's windy."
 msgstr ""
+"\"Jsem vždycky pro pořádný běhání - kdyby ne, byl byl ještě *na* tomto případu s *tebou*?\" Usměje se a zvedne si límec. Je větrno."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -178,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014426"
 msgid "Your voice echoes on the coast, carried by a gust of cold wind."
 msgstr ""
+"Tvůj hlas se ozývá pobřežím, nesen poryvem studeného větru."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -192,6 +217,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900000A86"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -206,6 +232,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001435C"
 msgid "Man, it's lonely doing this alone. The wind seems to howl in a strange manner..."
 msgstr ""
+"Chlape, dělat to sám je takové osamělé. Zdá se, že vítr kvílí zvláštním způsobem..."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -213,6 +240,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000143AA"
 msgid "\"No-no. I'm fine. I didn't mean to complain, it's just...\" He's short-winded. The sentence ends there."
 msgstr ""
+"\"Ne-ne. Jsem v pohodě. Nechtěl jsem si stěžovat, jenom...\" Je zadýchaný. Tím věta končí."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -220,6 +248,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000143ED"
 msgid "(Immediately yell.) \"It's empty!\""
 msgstr ""
+"(Okamžitě zakřič.) \"Je prázdná!\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -227,6 +256,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000143FE"
 msgid "Nothing. No traces of the locusts *or* the Insulindian phasmid. What happened?"
 msgstr ""
+"Nic. Žádné stopy po kobylkách *nebo* po inzulindcké strašilce. Co se stalo?"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -234,6 +264,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001445B"
 msgid "The netting is a little untidy, messier than the others. Like someone or something picked up the trap and shook it before dropping it back down on the ground."
 msgstr ""
+"Síťovina je trochu zaneřáděná, špinavější než ty ostatní. Jako by někdo nebo něco tu past zvedlo a zatřáslo s ní, než ji pustilo zpátky na zem."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -255,6 +286,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000140B4"
 msgid "Behind you, the ruins of a residential building rise over the reeds, shielding them from the wind. The reeds rustle confidentially."
 msgstr ""
+"Za tebou se tyčí ruina obytné budovy, nad rákosím, které ji chrání před větrem. Rákosí důvěrně šustí."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -269,6 +301,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000006000140B4"
 msgid "Behind you, a ruined residential building looms over the reeds, shielding them from the wind. They rustle confidentially, in tune with the pitter-patter of the rain."
 msgstr ""
+"Za tebou se nad rákosím tyčí zničená obytná budova, rákosí ji chrání před větrem. Důvěrně šustí, v souladu se zvukem pokapávání deště."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -276,6 +309,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000006000140B4"
 msgid "Behind you, the ruins of a residential building loom over the reeds. They whisper amongst themselves confidentially. Snowflakes cling to their shivering stems."
 msgstr ""
+"Za tebou se nad rákosím tyčí ruina obytné budovy. Rákosí si spolu důvěrně šeptá. Na jeho chvějících se stoncích ulpívají sněhové vločky."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -297,6 +331,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900000A30"
 msgid "You've checked all the traps now. There's nothing else to do with them. The cryptozoologists await your report."
 msgstr ""
+"Už jsi zkontroloval všechny pasti. Nic jiného se s nimi nedá dělat. Kryptozoologové čekají na tvoji zprávu."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -304,6 +339,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014384"
 msgid "\"Bummer it wasn't in here...\""
 msgstr ""
+"\"Kruci, nebylo to tady...\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -311,6 +347,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000143A4"
 msgid "\"I'm just...\" he breathes out. \"Glad we haven't found some poor cat trapped in one of these.\""
 msgstr ""
+"\"Já jen...\" vydechne. \"Jsem rád, že jsme v jedné z nich nenašli chycenou nějakou mizernou kočku.\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -346,6 +383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014347"
 msgid "Neither does the lieutenant. He just raises his collar -- it's cold out, as always."
 msgstr ""
+"Ani poručík nic neříká. Jen si zvedne límec - je zima, jako vždycky."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -367,6 +405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000029000009B1"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -381,6 +420,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014398"
 msgid "Say nothing, just put the trap down."
 msgstr ""
+"Neříkej nic, jen tu past polož."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -395,6 +435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014259"
 msgid "It takes you a moment, but finally you spot the last of Morell's traps. This one's partially obscured by the reeds..."
 msgstr ""
+"Chvíli ti to zabere, ale nakonec tu poslední Morellovu past uvidíš. Tahle je částečně zakrytá rákosím..."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -402,6 +443,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000142ED"
 msgid "Nothing but locusts in this trap as well. Definitely no cryptozoological monstrosity."
 msgstr ""
+"V této pasti není nic jiného než kobylky. Rozhodně tam není žádná kryptozoologická zrůdnost."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -430,6 +472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000142B0"
 msgid "Nothing has changed about this trap. You need to check the others."
 msgstr ""
+"S touto pastí se nic nezměnilo. Musíš zkontrolovat ty ostatní."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -437,6 +480,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014327"
 msgid "\"I want to make it clear that I don't *actually* believe the phasmid exists, okay?\""
 msgstr ""
+"\"Chci dát jasně na vědomí, že *vlastně* nevěřím, že ta strašilka existuje, jo?\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -465,6 +509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001432D"
 msgid "Say nothing, just put the trap down."
 msgstr ""
+"Neříkej nic, jen tu past polož."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -472,6 +517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014390"
 msgid "\"I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap.\""
 msgstr ""
+"\"*Musím* zdůraznit, že jsem neočekával, že v této pasti bude nějaká kryptozoologická zrůdnost.\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -486,6 +532,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000143F8"
 msgid "The lieutenant studies the trap with you. \"Well, the bait worked on *something*. This doesn't mean it was a reed-monster, though. Unless you see one in there? I just see an empty trap...\""
 msgstr ""
+"Poručík si prohlíží past s tebou. \"No, návnada na *něco* zafungovala. To ale neznamená, že to byla ta rákosová příšera. Pokud tam nějakou nevidíš? Já vidím jenom prázdnou past...\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -507,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001439E"
 msgid "The lieutenant stretches his back."
 msgstr ""
+"Poručík si protáhne záda."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -514,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014409"
 msgid "Look closer still."
 msgstr ""
+"Podívej se ještě důkladněji."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -521,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900000A29"
 msgid "There's nothing else to do with the traps at this time. They're all just lying around, gathering dust and rainwater."
 msgstr ""
+"Teď se s těmi pastmi nedá nic jiného dělat. Všechny tady jen tak leží a zachycují prach a dešťovou vodu."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -528,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014314"
 msgid "\"Another empty trap,\" the lieutenant takes a note -- more out of habit than duty."
 msgstr ""
+"\"Další prázdná past,\" poručík si udělá poznámku - spíš ze zvyku než z povinnosti."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -549,6 +600,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002900000A7B"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -556,6 +608,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000140A5"
 msgid "Reach for the trap."
 msgstr ""
+"Sáhni po té pasti."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -570,6 +623,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000142DA"
 msgid "The trap feels light -- and silent -- as you pick it up. Something is different here..."
 msgstr ""
+"Past se zdá lehká - a tichá - a když ji zvedneš. Něco je tady jinak..."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -577,6 +631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001438A"
 msgid "\"You getting tired?\""
 msgstr ""
+"\"Jde na tebe únava?\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -591,6 +646,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000140F7"
 msgid "When this district was booming, the reeds were kept at bay. Nothing obscured the freshly painted façades, nowhere for drunks and adventurous teenagers to hide. Now only the wind blows..."
 msgstr ""
+"Když tato čtvrť vzkvétala, rákosí bylo drženo na uzdě. Čerstvě natřené fasády nic nezakrývalo, opilci a dobrodružní teenageři se neměli kam schovat. Teď tady jen fouká vítr..."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -598,6 +654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014341"
 msgid "\"Of course. Noted.\" He looks at you, incredulously, as you place the trap back in the reeds."
 msgstr ""
+"\"Jistě. Beru na vědomí.\" Nevěřícně se na tebe dívá, jak pokládáš tu past zpátky do rákosí."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -605,6 +662,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014376"
 msgid "\"Empty as all of them...\" he pants. \"*One* more of these and we're done...\" His face is red from the cold sea air. He crouches to catch his breath."
 msgstr ""
+"\"Prázdná jako všechny ostatní...\" vzdychne. \"Ještě *jedna* a hotovo...\" Jeho tvář je červená od studeného mořského vzduchu. Přikrčí se, aby popadl dech."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -612,6 +670,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000143B0"
 msgid "\"Of course. Noted.\" He looks at you, incredulously, as you place the trap back in the reeds."
 msgstr ""
+"\"Jistě. Beru na vědomí.\" Nevěřícně se na tebe dívá, jak pokládáš tu past zpátky do rákosí."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -675,6 +734,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014321"
 msgid "\"How are you enjoying the cardio, lieutenant? I'm quite enjoying it myself.\""
 msgstr ""
+"\"Jak si to kardio užíváš, poručíku? Já si to docela užívám.\""
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
@@ -689,6 +749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600014420"
 msgid "No phasmid either -- but still..."
 msgstr ""
+"Ani žádná strašilka - ale přesto..."
 
 #. Title = COAST ORB / reeds by feld
 #. Description = These reeds are somewhere near Feld. The interactable reeds you can search when Morell tells you to check the phasmid traps. There are traps in these reeds.
