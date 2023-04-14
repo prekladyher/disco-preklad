@@ -1,5 +1,7 @@
 # Ziriath <ziriath@gmail.com>, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,7 +12,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
@@ -130,7 +132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000060A4"
 msgid "\"Huh, I hope no one *dangerous* heard that.\""
 msgstr ""
-"\"Huh, snad to neslyšel nikdo *nebezpečný*."
+"\"Hm, snad to neslyšel nikdo *nebezpečný*."
 
 #. Title = LAIR / EXIT DOOR
 #. Description = Door interactable, open the door, let Kim in. Kim possibly hidden behind fog of war.
