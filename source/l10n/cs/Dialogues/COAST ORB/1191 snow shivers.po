@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -31,6 +39,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001845"
 msgid "Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. Your hat is of little help. To distract yourself, you look around..."
 msgstr ""
+"Drkotají ti zuby, jak ti na odhalené kůži taje sníh, v ledových potůčcích ti stéká po hrudi a zádech. Tvůj klobouk ti moc nepomáhá. Aby ses rozptýlil, rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -38,6 +47,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008100001845"
 msgid "Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. The toes of your one bare foot are growing numb. Your hat is of little help. To distract yourself, you look around..."
 msgstr ""
+"Drkotají ti zuby, jak ti na odhalené kůži taje sníh, v ledových potůčcích ti stéká po hrudi a zádech. Prsty na jedné tvé bosé noze znecitlivují. Klobouk ti moc nepomáhá. Aby ses rozptýlil, rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -45,6 +55,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100008100001845"
 msgid "Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. Your bare feet are growing numb. Your hat is of little help. To distract yourself, you look around..."
 msgstr ""
+"Drkotají ti zuby, jak ti na odhalené kůži taje sníh, v ledových potůčcích ti stéká po hrudi a zádech. Tvoje bosé nohy znecitlivují. Klobouk ti moc nepomáhá. Aby ses rozptýlil, rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -108,6 +119,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001743F"
 msgid "How does it feel?"
 msgstr ""
+"Jaký je to pocit?"
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -129,6 +141,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007D000003A3"
 msgid "Winter, slow to let go of Revachol, flecks some more wet snow from above..."
 msgstr ""
+"Zima, pomalá na to, aby odešla z Revacholu, cáká seshora ještě víc mokrého sněhu..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -136,6 +149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000181B"
 msgid "What do I see?"
 msgstr ""
+"Co vidím?"
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -255,6 +269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007D000003B0"
 msgid "What am I doing?"
 msgstr ""
+"Co dělám?"
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -297,6 +312,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001742E"
 msgid "Look around you."
 msgstr ""
+"Rozhlédni se kolem sebe."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -304,6 +320,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007D000003B6"
 msgid "And to think -- it seemed as though it were already spring."
 msgstr ""
+"No tohle - už to vypadalo, že už je jaro."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -332,6 +349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001813"
 msgid "Looking up at the sky, melted snow dripping from your hair..."
 msgstr ""
+"Díváš se nahoru k obloze, z vlasů ti kape roztátý sníh."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -339,6 +357,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008100001813"
 msgid "Looking up at the sky, melted snow dripping from your hat."
 msgstr ""
+"Díváš se nahoru k obloze, z klobouku ti kape roztátý sníh."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -346,6 +365,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000183B"
 msgid "The melting snow seeps through your thin clothes. Grandmothers don't let their grandchildren out dressed so lightly in this weather. At least your hair is protected from getting wet and sticking together. You look around..."
 msgstr ""
+"Tající sníh prosakuje tvým tenkým oblečením. Babičky v takovém počasí nepouštějí svá vnoučata ven oblečená tak nalehko. Alespoň že máš před zvlhnutím a zalepením chráněny vlasy. Rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -353,6 +373,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000810000183B"
 msgid "The melting snow seeps through your thin clothes. The toes of your one bare foot are growing numb. At least your hair is protected from getting wet and sticking together. You look around..."
 msgstr ""
+"Tající sníh prosakuje tvým tenkým oblečením. Prsty na jedné tvé bosé noze znecitlivují. Alespoň že máš před zvlhnutím a zalepením chráněny vlasy. Rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -360,6 +381,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000810000183B"
 msgid "The melting snow seeps through your thin clothes. The toes of your bare feet are growing numb. At least your hair is protected from getting wet and sticking together. You look around..."
 msgstr ""
+"Tající sníh prosakuje tvým tenkým oblečením. Prsty na tvých bosých nohou znecitlivují. Alespoň že máš před zvlhnutím a zalepením chráněny vlasy. Rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -486,6 +508,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017467"
 msgid "Look around."
 msgstr ""
+"Rozhlédni se kolem."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -521,6 +544,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600017427"
 msgid "The snow falls lazily, making the beach sand paler still, mixing with the rust-coloured sewage run-off."
 msgstr ""
+"Sníh líně padá, takže písek na pláži je stále bledší a mísí se s do rezava zbarvenými odpadními vodami."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -528,6 +552,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001827"
 msgid "How does it feel?"
 msgstr ""
+"Jaký je to pocit?"
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -577,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007D00000317"
 msgid "Shake the shivers off. [Discard thought.]"
 msgstr ""
+"Setřes to chvění. [Zavrhni myšlenku.]"
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -640,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001742"
 msgid "It has been a cold year. All things waiting for spring will have to wait a bit longer."
 msgstr ""
+"Byl to studený rok. Všechno, co čeká na jaro, bude muset ještě chvíli počkat."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -647,6 +674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000017B2"
 msgid "You're warm in your hat and your coat. Like a well-equipped explorer, you comfortably survey the white landscape."
 msgstr ""
+"V kabátě a klobouhu je ti teplo. Jako dobře vybavený průzkumník si v pohodlí prohlížíš krajinu kolem sebe."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -696,6 +724,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001872"
 msgid "The melting snow seeps through your thin clothes. Grandmothers don't let their grandchildren out dressed so lightly in this weather. You look around..."
 msgstr ""
+"Tající sníh prosakuje tvým tenkým oblečením. Babičky v takovém počasí nepouštějí svá vnoučata ven oblečená tak nalehko. Rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -703,6 +732,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008100001872"
 msgid "The melting snow seeps through your thin clothes. The toes of your one bare foot are growing numb. You look around..."
 msgstr ""
+"Tající sníh prosakuje tvým tenkým oblečením. Prsty na jedné tvé bosé noze znecitlivují. Rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -710,6 +740,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100008100001872"
 msgid "The melting snow seeps through your thin clothes. The toes of your bare feet are growing numb. You look around..."
 msgstr ""
+"Tající sníh prosakuje tvým tenkým oblečením. Prsty na tvých bosých nohou znecitlivují. Rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -717,6 +748,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001888"
 msgid "Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. To distract yourself, you look around..."
 msgstr ""
+"Drkotají ti zuby, jak ti na odhalené kůži taje sníh, v ledových potůčcích ti stéká po hrudi a zádech. Aby ses rozptýlil, rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -724,6 +756,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008100001888"
 msgid "Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. The toes of your one bare foot are growing numb. To distract yourself, you look around..."
 msgstr ""
+"Drkotají ti zuby, jak ti na odhalené kůži taje sníh, v ledových potůčcích ti stéká po hrudi a zádech. Prsty na jedné tvé bosé noze znecitlivují. Aby ses rozptýlil, rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -731,6 +764,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100008100001888"
 msgid "Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. Your bare feet are growing numb. To distract yourself, you look around..."
 msgstr ""
+"Drkotají ti zuby, jak ti na odhalené kůži taje sníh, v ledových potůčcích ti stéká po hrudi a zádech. Tvoje bosé nohy znecitlivují. Aby ses rozptýlil, rozhlédneš se kolem..."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -808,6 +842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000184F"
 msgid "You're warm in your coat, though your cold, damp hair sticks to your head unpleasantly -- you should have a hat. You survey the landscape around you."
 msgstr ""
+"V kabátě je ti teplo, přestože se ti studené vlhké vlasy nepříjemně lepí na hlavu - měl jsi mít klobouk. Prohlížíš si krajinu kolem sebe."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -815,6 +850,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000810000184F"
 msgid "You're warm in your coat, though your cold, damp hair sticks to your head unpleasantly, and your one bare foot is growing numb. You survey the landscape around you."
 msgstr ""
+"V kabátě je ti teplo, přestože se ti studené vlhké vlasy nepříjemně lepí na hlavu a jedna bosá noha ti znecitlivuje. Prohlížíš si krajinu kolem sebe."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -822,6 +858,7 @@ msgstr ""
 msgctxt "Alternate2/0x010000810000184F"
 msgid "You're warm in your coat, though your cold, damp hair sticks to your head unpleasantly, and your bare feet are growing numb. You survey the landscape around you."
 msgstr ""
+"V kabátě je ti teplo, přestože se ti studené vlhké vlasy nepříjemně lepí na hlavu a bosé nohy ti znecitlivují. Prohlížíš si krajinu kolem sebe."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.
@@ -864,6 +901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001821"
 msgid "The sky is full of great battleships. White clouds collide with one another, and the world is drenched with their debris."
 msgstr ""
+"Nebe je plné velkých bitevních lodí. Bílé mraky se navzájem srážejí a svět je zmáčený jejich troskami."
 
 #. Title = COAST ORB / snow shivers
 #. Description = If it snows when you cross the desolate beach, Shivers tells you a little about Revachol.

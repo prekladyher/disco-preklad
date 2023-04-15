@@ -563,7 +563,7 @@
         </langSet>
       </termEntry>
       <termEntry id="circuit bender">
-        <descrip type="definition">[OK] [aA] analogie k hackerovi, co se nabourává do systémů</descrip>
+        <descrip type="definition">[aA] jde o poťouchlé úpravy elektroniky</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>circuit bender</term>
@@ -571,7 +571,20 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>lamač obvodů</term>
+            <term>elektrobastlíř</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="circuit bending">
+        <descrip type="definition">[aA] jde o poťouchlé úpravy elektroniky</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>circuit bending</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>bastlení (obvodů)</term>
           </tig>
         </langSet>
       </termEntry>
