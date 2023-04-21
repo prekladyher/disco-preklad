@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D76C"
 msgid "See that massive container there, held up by that humongous crane? That's it! We need to get that box of treasures down. Try using that control panel over there."
 msgstr ""
+"Vidíš tam ten mohutný kontejner, držený tím obrovským jeřábem? To je ono! Musíme tu bednu s poklady dostat dolů. Zkus použít támhle ten ovládací panel."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7CE"
 msgid "Yes, but..."
 msgstr ""
+"Ano, ale..."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000120D2"
 msgid "There! In that container you moved. There's *something* rich in there. We've got to get inside."
 msgstr ""
+"Tam! V tom kontejneru, se kterým jsi pohnul. Je tam *něco* bohatého. Musíme se dostat dovnitř."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000120E2"
 msgid "What do you suggest?"
 msgstr ""
+"Co navrhuješ?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D728"
 msgid "The ominous hum of a preposterously affluent individual... It seems to be coming from above us."
 msgstr ""
+"Ten zlověstný hukot nesmyslně bohaté osoby... Zdá se, že to přichází shora."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D73C"
 msgid "(Look up.)"
 msgstr ""
+"(Vzhlédni.)"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7F9"
 msgid "No, not the rain -- the ominous hum of a *preposterously affluent individual*... It seems to be coming from above us."
 msgstr ""
+"Ne, ten déšť ne - ten zlověstný hukot *nesmyslně bohaté osoby*... Zdá se, že to přichází shora."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D801"
 msgid "No, not the snow -- the ominous hum of a *preposterously affluent individual*... It seems to be coming from above us."
 msgstr ""
+"Ne, ten sníh ne - ten zlověstný hukot *nesmyslně bohaté osoby*... Zdá se, že to přichází shora."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000120F3"
 msgid "Opening the door? C'mon, I shouldn't have to tell you that. Get me up close and I'll show you how it's done."
 msgstr ""
+"Otevřít ty dveře? No tak, tohle bych říkat nemusel. Přibliž mě tam a já ti ukážu, jak se to dělá."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D71B"
 msgid "I don't hear anything."
 msgstr ""
+"Nic neslyším."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D785"
 msgid "Let's slow down here. Why would we search for rich people in containers?"
 msgstr ""
+"Tak to zpomal. Proč hledat bohaté lidi v kontejnerech?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7D5"
 msgid "No 'buts', I want to see your *can-do* attitude shine this time. Get moving!"
 msgstr ""
+"Žádná 'ale', chci vidět, jak tentokrát zazáří tvůj přístup *umím to*. Pohyb!"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D790"
 msgid "Wait, you mean tax havens?"
 msgstr ""
+"Počkej, ty myslíš daňové ráje?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000120D8"
 msgid "But I already tried to convince it to open for me and failed."
 msgstr ""
+"Ale já už jsem se snažil přesvědčit ho, aby se mi otevřel, a nepodařilo se mi to."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D79E"
 msgid "No problemo, boss-man. On my way to lower that crane... [Leave.]"
 msgstr ""
+"No problemo, šéfíku. Jdu spustit ten jeřáb... [Odejdi.]"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7B5"
 msgid "*Slow down*? We don't have time to slow down -- it's *crunch time*! Get your ass moving and control that crane! We've got sales to make."
 msgstr ""
+"Zpomal*? Nemáme čas na zpomalování - to je *krizovka*! Pohni zadkem a začni ovládat ten jeřáb! Máme tady byznys."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D751"
 msgid "Wait, OFCs?"
 msgstr ""
+"Počkej, OFC?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7F3"
 msgid "Everything gets so quiet when it snows."
 msgstr ""
+"Všechno je tak tiché, když sněží."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D715"
 msgid "Hear what?"
 msgstr ""
+"Slyším co?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D70F"
 msgid "Psst, hear that?"
 msgstr ""
+"Psst, slyšíš to?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D74A"
 msgid "Yes, I'm sure. *Someone* here has assets stacked away in OFCs. Look up."
 msgstr ""
+"Ano, jsem si jistý. *Někdo* tady má aktiva naskládaná v OFC. Vzhlédni."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7BC"
 msgid "Great *work* ethic, friend. No one should be scared to get their hands dirty on the road to brilliant *success*."
 msgstr ""
+"Skvělá *pracovní* morálka, kamaráda. Nikdo by se neměl bát ušpinit si na cestě za brilantním *úspěchem* ruce."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000120EE"
 msgid "Then it's time to show you how a *master* does it. No lock survives a round with Savvy. Get me up close."
 msgstr ""
+"Pak je čas ukázat ti, jak to dělá *mistr*. Žádný zámek nepřežije se Savvy ani kolo. Přibliž mě tam."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D774"
 msgid "You hear dock water quietly lapping against seaweed-slimed concrete, but definitely no ominous hums."
 msgstr ""
+"Slyšíš, jak voda v docích o beton pokrytý mořskými řasami tiše šplouchá voda, ale rozhodně ne žádné zlověstné hučení."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D7ED"
 msgid "You mean the rain?"
 msgstr ""
+"Myslíš ten déšť?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D736"
 msgid "Hold up a minute... why should a preposterously affluent individual be hiding themselves in a container?"
 msgstr ""
+"Počkej chvilku... proč by se nějaká nesnyslně bohatá osoba měla schovávat v kontejneru?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D743"
 msgid "I don't see anyone. Are you sure?"
 msgstr ""
+"Já nikoho nevidím. Víš to jistě?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000580001D743"
 msgid "Still nothing. Are you sure?"
 msgstr ""
+"Pořád nic. Jsi si jistý?"
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D77E"
 msgid "OFCs or Offshore Financial Centres -- that's another word for tax havens. EPIS has adopted the OFFNET approach into their frameworks for addressing OFCs, but it's still a problem."
 msgstr ""
+"OFC nebo Offshore finanční centrum - to je jiné slovo pro daňové ráje. EPIS přijal přístup OFFNET do svých rámců pro řešení OFC, ale stále je to problém."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0001618F"
 msgid "Here we are. Whoever is in there definitely has money, so let's convince them to part with it for our *exclusive* piece of art."
 msgstr ""
+"Tak je to tady. Ať je tam kdokoliv, má určitě peníze, tak ho přesvědčme, aby se s nimi za náš *exkluzivní* umělecký kousek rozloučil."
 
 #. Title = CONTAINERYARD ORB / ultraliberal dream quest
 #. Description = Savoir Faire hears wealth humming in the container -- whether it's raised or lowered. Also gives you instant access to MRLBG.
@@ -220,3 +258,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D796"
 msgid "Tax havens, OFCs, Sinks, Conduits, *heavens*... Get with the terms, hustler-boy. Now look up!"
 msgstr ""
+"Daňové ráje, OFC, Sinks, Conduits, *ráje*... Dodržuj podmínky, šmelináři. Teď se podívej nahoru!"
