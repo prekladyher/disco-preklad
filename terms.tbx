@@ -458,6 +458,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="can-opener">
+        <descrip type="definition">[OK] [aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>can-opener</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Louskáček</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Capeside apartments">
         <descrip type="definition">[OK] [aA] činžák</descrip>
         <langSet xml:lang="en">
@@ -1143,7 +1156,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>f****t, -a m.</term>
+            <term>b****t, -a m.</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1486,29 +1499,29 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Hardie Boys (Hardies)">
-        <descrip type="definition">[OK] [aA] militantní odnož odborů</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Hardie Boys (Hardies)</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Valchařovi hoši (Valchařovci)</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Hardie, Titus">
+      <termEntry id="Hardie">
         <descrip type="definition">[OK] [aA] [TYKAT] odborář, TYKAT</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Hardie, Titus</term>
+            <term>Hardie</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
             <term>Valchař, Titus</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Hardie Boys">
+        <descrip type="definition">[OK] [aA] militantní odnož odborů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hardie Boys</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Valchařovi hoši (Valchařovci)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1574,19 +1587,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>houmlesajt</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Human can-opener">
-        <descrip type="definition">[OK] [aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Human can-opener</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Louskáček</term>
           </tig>
         </langSet>
       </termEntry>
