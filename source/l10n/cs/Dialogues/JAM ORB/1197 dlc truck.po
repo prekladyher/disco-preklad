@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030C2"
 msgid "Yes, and it's rather ironic, because they believe themselves to be Mazovians deep down."
 msgstr ""
+"Ano, a je to poněkud ironické, protože oni sami hluboce věří, že jsou mazoviáni."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030BB"
 msgid "Irony. They're yuppies masquerading as Mazovians... Or was it Mazovians masquerading as yuppies? Even they get confused sometimes, out here in poverty-stricken Martinaise."
 msgstr ""
+"Ironické. Jsou to hipstři převlékající se za mazoviány... Nebo to byli mazoviáni převlečení za hipstry? I oni si tady, v chudobou stižené Martinéze, připadají zmatení. "
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030AF"
 msgid "Sounds like a highly motivated bunch."
 msgstr ""
+"To zní jako vysoce motivovaná banda."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000063E7"
 msgid "\"Whatever's going on there could hardly be of any consequence to our ongoing investigation.\" The lieutenant adjusts his glasses."
 msgstr ""
+"\"Ať už se tady chystá cokoliv, těžko to bude mít nějaký vliv na naše rozjeté vyšetřování.\" Poručík si urovná brýle."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000081000063E7"
 msgid "\"A mythical cocaine skull could hardly be of any consequence to our ongoing investigation.\" The lieutenant adjusts his glasses."
 msgstr ""
+"\"Legendární kokainová lebka bude těžko mít nějaký vliv na naše rozjeté vyšetřování.\" Poručík si urovná brýle."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003048"
 msgid "Let it go for now. [Leave.]"
 msgstr ""
+"Nech to prozatím být. [Odejdi.]"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030B5"
 msgid "I hope they're working for the glory of Revachol, at least."
 msgstr ""
+"Doufám, že aspoň pracují pro slávu Revacholu."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000063DA"
 msgid "Not yet."
 msgstr ""
+"Ještě ne."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000081000063DA"
 msgid "You're not yet equipped for that expedition."
 msgstr ""
+"Na tuhle výpravu nejsi vybaven."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030A7"
 msgid "Those don't sound like proper working conditions."
 msgstr ""
+"Tohle nezní jako řádné pracovní prostředí."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003075"
 msgid "Could be. They certainly want to stir the pot. Remake reality in some new image."
 msgstr ""
+"To je možné. Určitě chtějí šťourat klackem v bahně. Přetavit realitu k nějakému jinému obrazu. "
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100006408"
 msgid "You knew it would be here, blocking the gate."
 msgstr ""
+"Věděl jsem, že bude tady blokovat bránu."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000305D"
 msgid "Because this is a place of mystery."
 msgstr ""
+"Protože tohle je místo záhad."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003042"
 msgid "Why is the light so strange?"
 msgstr ""
+"Co je na tom světle divného?"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030CB"
 msgid "Could be. Not sure they remember what they're working for anymore themselves..."
 msgstr ""
+"To je možné. Nejsem si jistý, zda si pamatují, pro co vůbec pracují."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003029"
 msgid "The Delta Logistics Company truck stands here waiting, reflecting white light from the courtyard behind it."
 msgstr ""
+"Stojí tam a čeká náklaďák firmy Delta - Logistická Centrála, odrážejíc bílou záři, kterou je osvětlen dvůr z ním. "
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000063EF"
 msgid "\"You can come back to it on your own when we're done with this case.\""
 msgstr ""
+"\"Můžete se sem vrátit sám, až vyřešíme náš případ.\""
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000306F"
 msgid "What keeps them motivated?"
 msgstr ""
+"Čím jsou motivováni?"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000063F5"
 msgid "Can't I get into the courtyard somehow?"
 msgstr ""
+"Mohl bych se nějak dostat do dvora?"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000081000063F5"
 msgid "\"Hey Kim, let's try to get into that courtyard. That's where Idiot Doom Spiral said we could find the cocaine skull...\""
 msgstr ""
+"\"Hej Kime, zkusme se nějak dostat do toho dvora. Spirál říkal, že zrovna tam bychom mohli najít kokainovou lebku...\""
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000081000063F5"
 msgid "\"Hey Kim, let's try to get into that courtyard. It's *so* mysterious.\""
 msgstr ""
+"\"Hej Kime, zkusme se dostat do toho dvora. Vypadá tak *hrozně* tajemně.\""
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000081000063F5"
 msgid "Isn't that where the cocaine skull is supposed to be? How do I get into the courtyard?"
 msgstr ""
+"Neměla by tam být ta kokainová lebka? Jak se do toho dvora dostanu?"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003063"
 msgid "Yes, people hard at work at their desks. They can barely tell if it's day or night anymore because the lights in the building are so uniform and bright. Who knows when they'll come out?"
 msgstr ""
+"Ano, lidé tvrdě pracují za svými stoly. Stěží můžou říct, zde je noc nebo den, protože vnitřní osvětlení je tak jednotné a jasné. Kdo ví, kdy vylezou?"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100003036"
 msgid "Are there people in there?"
 msgstr ""
+"Jsou tam uvnitř lidé?"
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000810000309E"
 msgid "Are they really so pressed for time to finish whatever they're doing? Sounds potentially dangerous..."
 msgstr ""
+"Opravdu je tak moc tlačí čas, aby dokončili to, co dělají? To zní potenciálně nebezpečně..."
 
 #. Title = JAM ORB / dlc truck
 #. Description = Those are some big letters on that truck.
@@ -185,3 +218,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000081000030D1"
 msgid "Yes, they are highly motivated by irony, being yuppies masquerading as Mazovians... Or was it Mazovians masquerading as yuppies? Even they get confused sometimes, here in poverty-stricken Martinaise."
 msgstr ""
+"Ano, jsou vysoce motiváni ironií, když jsou to hipstři převlečení za mazoviány. Nebo to byli mazoviáni převlečení za hipstry? I oni si tady, v chudobou stižené Martinéze, připadají zmatení. "
