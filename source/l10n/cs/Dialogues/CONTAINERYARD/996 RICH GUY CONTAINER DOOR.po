@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009770"
 msgid "Before you stands a cargo container. Just one of many in the yard."
 msgstr ""
+"Stojí před tebou nákladní kontejner. Prostě jeden z mnoha na tomto dvoře."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -27,6 +36,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009945"
 msgid "Why are you even trying to open a door with rhetoric?"
 msgstr ""
+"Proč se vůbec pokoušíš otevřít ty dveře rétorikou?"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -35,6 +45,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003911"
 msgid "\"Using my body over my wits.\""
 msgstr ""
+"\"Použít mé tělo místo důvtipu.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -43,6 +54,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F9B3"
 msgid "[Leave the container alone.]"
 msgstr ""
+"[Nechej ten kontejner být.]"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -67,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009789"
 msgid "Nothing more to do here for now. [Leave.]"
 msgstr ""
+"Teď už tady není co dělat. [Odejdi.]"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -91,6 +104,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038E8"
 msgid "No one needs you. Go away."
 msgstr ""
+"Nikdo tě nepotřebuje. Jdi pryč."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -99,6 +113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000391F"
 msgid "Try again."
 msgstr ""
+"Zkus to znovu."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -123,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038D2"
 msgid "\"Now is not the time to get philosophical, detective. You can do that after hours.\""
 msgstr ""
+"\"Teď není čas na filozofování, detektive. To můžeš dělat po pracovní době.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -147,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000590000994C"
 msgid "\"Yeah, why *am* I?\""
 msgstr ""
+"\"Jo, proč *já*?\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -187,6 +204,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009976"
 msgid "Despite the dirt that surrounds and trails you, a beacon of light emerges from deep within you."
 msgstr ""
+"Navzdory prachu, který tě obklopuje a táhne se za tebou, se z hloubi tvého nitra vynoří maják světla."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -195,6 +213,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006A0000360C"
 msgid "\"Never mind.\""
 msgstr ""
+"\"To je jedno.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -203,6 +222,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B0000A43E"
 msgid "Who understands anything you do?"
 msgstr ""
+"Kdo chápe něco z toho, co děláš?"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -211,6 +231,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000393A"
 msgid "The smile disappears. \"You can't be serious.\""
 msgstr ""
+"Ten úsměv mizí. \"To nemůžeš myslet vážně.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -259,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001FAA5"
 msgid "The door does not respond to your advances. Is it possible that it seems somehow *more* closed than before?"
 msgstr ""
+"Dveře na tvoje návrhy nereagují. Je možné, vypadájí tak nějak *víc* zavřenější, než předtím?"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -267,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0001688D"
 msgid "That's a very good question considering you have Savvy around -- the ultimate VIP."
 msgstr ""
+"To je moc dobrá otázka, vezme-li se v úvahu, že máš s sebou Kočičáka - ultimátního VIP."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -275,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006A0000367C"
 msgid "Just like that, you hear a click. Then a rattle. Some mechanism unlocks itself inside the door."
 msgstr ""
+"Jen tak zničehonic uslyšíš cvaknutí. Pak zarachocení. Uvnitř těch dveří se sám odemkl nějaký mechanismus."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -299,6 +323,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000590000999E"
 msgid "From deep within the container, a voice: \"Ahoy! Come on in!\""
 msgstr ""
+"Z hloubi kontejneru se ozve hlas: \"Ahoj! Pojďte dál!\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -307,6 +332,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000389A"
 msgid "\"I wonder what's in there.\""
 msgstr ""
+"\"Zajímalo by mě, co tam uvnitř je.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -315,6 +341,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038CA"
 msgid "The lieutenant nods. \"Are you satisfied, detective?\""
 msgstr ""
+"Poručík přikývne. \"Jsi spokojen, detektive?\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -323,6 +350,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000059000097C7"
 msgid "Persuade the door to open."
 msgstr ""
+"Přesvědč ty dveře, aby se otevřely."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -395,6 +423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009963"
 msgid "\"Why are you what?\" The lieutenant looks startled."
 msgstr ""
+"\"Proč ty co?\" Poručík vypadá šokovaně."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -435,6 +464,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006A00003613"
 msgid "The door stands silent."
 msgstr ""
+"Dveře zůstávají tiché."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -443,6 +473,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000387F"
 msgid "\"C'mon, don't shut me out. Let me in.\""
 msgstr ""
+"\"No tak, nenechávej mě venku. Pusť mě dovnitř.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -451,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001FA97"
 msgid "The mundaneness of the situation does not seem to affect the container in the slightest."
 msgstr ""
+"Zdá se, že všednost této situace se kontejneru ani v nejmenším nedotýká."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -483,6 +515,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000590000996A"
 msgid "\"Anything at all.\""
 msgstr ""
+"\"Vůbec nic.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -491,6 +524,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000059000097E6"
 msgid "\"Hey there, sugar.\""
 msgstr ""
+"\"Nazdárek, brouku.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -499,6 +533,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009898"
 msgid "The container door appears unmoved by your attempt at flattery."
 msgstr ""
+"Vypadá, že dveře kontejneru se tvým pokusem o lichotky nepohnula."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -507,6 +542,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038DA"
 msgid "\"Because getting physical wasn't an option!\""
 msgstr ""
+"\"Protože udělat to fyzicky nepřicházelo v úvahu!\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -547,6 +583,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005900009996"
 msgid "\"If there's someone in there, I'd like to talk to you.\""
 msgstr ""
+"\"Jestli tam někdo je, rád bych si s vámi promluvil.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -555,6 +592,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003890"
 msgid "Why does this situation feel so familiar? Do you have a history of propositioning inanimate objects?"
 msgstr ""
+"Proč ti tato situace připadá tak povědomá? Máš z minulosti zkušenosti s děláním návrhů neživým věcem?"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -563,6 +601,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007B00001E81"
 msgid "You're back before the cargo container. Its draw has not lessened since you were last here. If anything, it seems to have grown slightly."
 msgstr ""
+"Jste zpět před tím nákladním kontejnerem. Jeho kouzlo od té doby, co jsi tu byl naposledy, nezmenšilo. Jestli něco, tak se zdá, že mírně vzrostlo."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -579,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00016897"
 msgid "Seems like it. You're still hanging with this fool? Something isn't right..."
 msgstr ""
+"Vypadá to tak. Pořád se stýkáš s tím bláznem? Něco není v pořádku..."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -587,6 +627,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000590000997D"
 msgid "\"Hello, is there anybody in there?\""
 msgstr ""
+"\"Haló, je tam někdo?\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -595,6 +636,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006A0000361B"
 msgid "\"Nevermind, I have better things to do.\" [Leave.]"
 msgstr ""
+"\"Nevadí, mám na práci lepší věci.\" [Odejdi.]"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -603,6 +645,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003878"
 msgid "A tough nut to crack, for sure. But the strongest containers often have the softest hearts."
 msgstr ""
+"Tvrdý oříšek na rozlousknutí, to určitě. Ale ty nejsilnější nádoby mívají často ta nejměkčí srdce."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -611,6 +654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038E1"
 msgid "Have I been summoned?"
 msgstr ""
+"Byl jsem povolán?"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -619,6 +663,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038F5"
 msgid "\"Because what wasn't an option?\" The lieutenant looks startled."
 msgstr ""
+"\"Protože co nepřicházelo v úvahu?\" Poručík vypadá šokovaně."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -627,6 +672,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003909"
 msgid "You've got to dance with the one that brought you, detective."
 msgstr ""
+"Tančit musíš s tím, kdo tě přivedl, detektive."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -635,6 +681,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F9BB"
 msgid "\"It's just another day, another cop and another container.\""
 msgstr ""
+"\"Je to prostě jen další den, další policajt a další kontejner.\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -667,6 +714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000392B"
 msgid "\"Satisfied, detective?\" A wry smile crosses the lieutenant's face."
 msgstr ""
+"\"Spokojený, detektive?\" Přes poručíkovu tvář přelétne ironický úsměv."
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -683,6 +731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000038A2"
 msgid "\"What's the matter, honey? You shy?\""
 msgstr ""
+"\"Co se děje, zlatíčko? Ty se stydíš?\""
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -691,6 +740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001FA8A"
 msgid "Aaaaand as it's always been -- it's impossible to open a container with rhetoric. Maybe you're losing your mind?"
 msgstr ""
+"Ááááá tak jako vždycky - je nemožné otevřít kontejner rétorikou. Že už bys ztrácel rozum?"
 
 #. Title = CONTAINERYARD / RICH GUY CONTAINER DOOR
 #. Description = Here be the container door with which you converse good Sir, getting rhetorical awards you the ability to *drum-roll* enter the container!
@@ -699,3 +749,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003887"
 msgid "The door does not respond to your advances. Is it possible that it seems somehow *more* closed than before?"
 msgstr ""
+"Dveře na tvoje návrhy nereagují. Je možné, vypadájí tak nějak *víc* zavřenější, než předtím?"
