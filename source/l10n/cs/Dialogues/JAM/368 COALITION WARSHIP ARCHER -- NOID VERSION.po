@@ -1,4 +1,6 @@
 # Jindřich Černý <cernyjindrich22@gmail.com>, 2023.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -27,7 +29,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C0D0"
 msgid "\"Coalition Warship Archer, this is Firewalker. Please acknowledge.\""
 msgstr ""
-"\"Koaliční válečná loď Archer, tady Firewalker. Prosím, ozvěte se.\""
+"\"Koaliční válečná loď Střelec, tady Ohnivák. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -36,6 +38,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000C0D0"
 msgid "\"Coalition Warship Archer, this is Tequila Sunset. Please acknowledge.\""
 msgstr ""
+"\"Koaliční válečná lodi Střelec, tady Revacholský strážník Tequila Sunset. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -44,6 +47,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000C0D0"
 msgid "\"Coalition Warship Archer, this is Detective Costeau. Please acknowledge.\""
 msgstr ""
+"\"Koaliční válečná lodi Střelec, tady detektiv Costeau. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -52,6 +56,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000C0D0"
 msgid "\"Coalition Warship Archer, this is Lieutenant Du Bois. Please acknowledge.\""
 msgstr ""
+"\"Koaliční válečná lodi Střelec, tady Revacholský poručík Harrier du Bois. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -78,7 +83,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C568"
 msgid "The signals are getting increasingly mixed. Plucking Archer's signal from this will be like isolating a single strand from a tangle of hair..."
 msgstr ""
-"Signály se čím dál tím víc mísí. Vytrhnout z tohohle signál Archera bude jako izolovat jeden pramen ze spleti vlasů..."
+"Signály se čím dál tím víc mísí. Vytrhnout z tohohle signál Střelce bude jako izolovat jeden pramen ze spleti vlasů..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -96,6 +101,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CA1B"
 msgid "\"Looks like it's working. Keep going, just a bit more...\""
 msgstr ""
+"\"Zdá se, že to funguje. Pokračuj, jen trochu...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -113,6 +119,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CC4A"
 msgid "There's something in the way she refers to herself, always with the first-person plural. A deliberate blurring of the boundary between herself and the institution she represents..."
 msgstr ""
+"Je něco zvláštního na tom způsobu, jak mluví o sobě, vždy množném čísle první osoby. Záměrné rozmazání hranice mezi jí samotnou a institucí, kterou reprezentuje..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -121,6 +128,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCAD"
 msgid "\"No, of course not. There are many nations outside the Moralintern's umbrella, in Seol, Samara, and elsewhere. At most you might say the Moralintern represents between a quarter and a third of humanity.\""
 msgstr ""
+"\"Ne, samozřejmě, že ne. Je mnoho národů mimo rozsah Moralinterny - Seol, Samara, a všude možně jinde. Dalo by se říci, že Moralinterna reprezentuje něco mezi čtvrtinou a třetinou lidstva.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -129,6 +137,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCBB"
 msgid "\"It all depends on your perspective.\""
 msgstr ""
+"\"Záleží na vašem úhlu pohledu.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -137,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCCC"
 msgid "\"The Moralintern is *nothing* like a Frittte -- you don't even sell the fun stuff!\""
 msgstr ""
+"\"Moralinterna vůbec *není* jako Frittte - ani neprodáváte zábavné věci!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -145,6 +155,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000CCCC"
 msgid "\"The Moralintern is *nothing* like a Frittte -- you don't even sell the fun stuff!\"\n"
 msgstr ""
+"\"Moralinterna vůbec *není* jako Frittte - ani neprodáváte zábavné věci!\"\n"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -153,6 +164,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000CCCC"
 msgid "\"The Moralintern is *nothing* like a Frittte -- you don't even sell booze!\""
 msgstr ""
+"\"Moralinterna vůbec *není* jako Frittte - ani neprodáváte chlast!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -161,6 +173,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000CCCC"
 msgid "\"The Moralintern is *nothing* like a Frittte -- you don't even sell smokes!\""
 msgstr ""
+"\"Moralinterna vůbec *není* jako Frittte - ani neprodáváte cíga!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -169,6 +182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCF9"
 msgid "Averro, SRL, is a chain of high-end pharmacies found only in Vesper and Messina. They are *much* nicer than your average Frittte."
 msgstr ""
+"Averro, SRL, je řetězcem prémiových lékáren, jež se dají nalézt pouze ve Vesperu a Messině. Jsou *mnohem* hezčí, než tvoje obvyklé Frittte."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -177,6 +191,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD22"
 msgid "\"Now... your request?\""
 msgstr ""
+"\"A teď... váš požadavek?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -225,6 +240,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CEF5"
 msgid "\"Can you see Martinaise from where you are?\""
 msgstr ""
+"\"Tam kde jste, můžete odtud vidět Martinézu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -233,6 +249,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF58"
 msgid "\"Hmmm. Maybe it *is* to the west, then?\""
 msgstr ""
+"\"Hmmm. Možná to tedy *je* západním směrem?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -313,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D80B"
 msgid "\"I get it. So the real power is even *higher* up.\""
 msgstr ""
+"\"Rozumím. Takže skutečná moc je ještě *výše*.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -417,6 +435,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DBE8"
 msgid "\"We're afraid that won't be possible, Firewalker.\""
 msgstr ""
+"\"Obáváme se, že to nebude možné, Ohniváku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -425,6 +444,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000DBE8"
 msgid "\"We're afraid that won't be possible, officer.\""
 msgstr ""
+"\"Obáváme se, že to nebude možné, detektive.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -433,6 +453,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000DBE8"
 msgid "\"We're afraid that won't be possible, detective.\""
 msgstr ""
+"\"Obáváme se, že to nebude možné, detektive.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -441,6 +462,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000DBE8"
 msgid "\"We're afraid that won't be possible, lieutenant.\""
 msgstr ""
+"\"Obáváme se, že to nebude možné, poručíku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -449,6 +471,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DC18"
 msgid "\"Why not?\""
 msgstr ""
+"\"Proč ne?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -457,6 +480,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD78"
 msgid "\"No way. Big Bad's coming here...\""
 msgstr ""
+"\"To není možný. Velký Špatný přichází...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -513,6 +537,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E09E"
 msgid "\"Yes, *exactly*.\""
 msgstr ""
+"\"Ano, *přesně*.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -529,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E1F8"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -569,6 +595,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000303B"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -585,6 +612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003297"
 msgid "\"It was a kind of gradient.\""
 msgstr ""
+"\"Byl to takový gradient.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -593,6 +621,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000036EA"
 msgid "\"In a few months, then?\""
 msgstr ""
+"\"Takže za pár měsíců?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -625,6 +654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003E03"
 msgid "THIS IS YOUR CITY. DEFEND IT AT ALL COSTS."
 msgstr ""
+"TOHLE JE TVOJE MĚSTO. BRAŇ JEJ ZA KAŽDOU CENU."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -659,7 +689,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004A5B"
 msgid "\"My guess, you climb up the centaur-man, see if there's anything obviously *interfering* with them. Maybe you've got some technical law-science?\""
 msgstr ""
-" \"Já bych řekl, že budeš muset vylézt na toho kentaura a podíváš se, jestli neuvidíš něco, co by ty signály *rušilo*. Náhodou nemáš nějaou technickou právnickou vědu?\""
+" \"Já bych řekl, že budeš muset vylézt na toho kentaura a podíváš se, jestli neuvidíš něco, co by ty signály *rušilo*. Náhodou nemáš nějakou technickou právničinu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -738,6 +768,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB9A"
 msgid "\"... a long winter... Long and cold...\""
 msgstr ""
+"\"...dlouhá zima..... Dlouhá a chladná...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -762,6 +793,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD74"
 msgid "\"Just a lucky guess.\""
 msgstr ""
+"\"Jen šťastný odhad.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -810,6 +842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CE4D"
 msgid "\"What kind of sacrifices?\""
 msgstr ""
+"\"Jaký druh obětí?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -922,6 +955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D9E2"
 msgid "Oh dear, you seem to be losing the thread..."
 msgstr ""
+"Ach, drahý, zdá se, že ztrácíš nit..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -970,6 +1004,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DC0E"
 msgid "\"So... when do I get to talk to the Committee?\""
 msgstr ""
+"\"Takže... kdy budu moci mluvit s Komisí?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1026,6 +1061,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DE27"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1050,6 +1086,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DF5F"
 msgid "\"Afraid of what, detective?\""
 msgstr ""
+"\"Obáváte se čeho, detektive?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1098,6 +1135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E6F3"
 msgid "\"I'm still not sure.\""
 msgstr ""
+"\"Stále si nejsem jistý.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1114,6 +1152,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002FB6"
 msgid "\"Uh... can you elaborate?\""
 msgstr ""
+"\"Eh... můžete to rozvést?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1122,6 +1161,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000036CD"
 msgid "\"Whoa, the Coalition has *talking* warships?\""
 msgstr ""
+"\"Jejda, Koalice má *mluvící* lodě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1146,6 +1186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000038A7"
 msgid "\"Who picks the slates of candidates?\""
 msgstr ""
+"\"Kdo vybírá lidi na kandidátku?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1154,6 +1195,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000038F1"
 msgid "\"Well, that isn't very realistic, is it?\""
 msgstr ""
+"\"No, to není zrovna realistické, že?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1178,6 +1220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003D31"
 msgid "\"It is possible. We grew up there. We have seen the lattice with our own eyes.\""
 msgstr ""
+"\"To je možné. My jsme tam vyrostli. Viděli jsme tu krajku na vlastní oči.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1244,7 +1287,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004A55"
 msgid "\"How am I supposed to inspect the connections?\""
 msgstr ""
-"\"Jak mám zkontrolovat spojení?\""
+"\"Jak mám zkontrolovat spoje?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1262,7 +1305,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300005E19"
 msgid "The cold metal chills your bare hands. Some part of your brain tells you something is missing..."
 msgstr ""
-"Studená tyč tě studí na tvých holých rukách. Nějaká část tvého mozku ti říká, že ti něco chybí..."
+"Studená tyč tě studí na holých rukách. Nějaká část tvého mozku ti říká, že ti něco chybí..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1280,7 +1323,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C052"
 msgid "\"Hey, lawman. We're waiting on you.\""
 msgstr ""
-"\"Hej, policisto. Čekáme na vás.\""
+"\"Hej, muži zákona. Čekáme na vás.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1342,6 +1385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CA3B"
 msgid "\"Try it now.\""
 msgstr ""
+"\"Zkus to teď.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1390,6 +1434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D2DD"
 msgid "\"That sounds like a very long time.\""
 msgstr ""
+"\"To zní jako velmi dlouhá doba.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1398,6 +1443,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D2E2"
 msgid "\"That sounds like an *impossibly* long time.\""
 msgstr ""
+"\"To zní jako *nemožně* dlouhá doba.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1414,6 +1460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D7C9"
 msgid "\"They typically respond within a few weeks.\""
 msgstr ""
+"\"Obvykle odpovídají během několika týdnů.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1438,6 +1485,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DBB4"
 msgid "\"Detective, what in god's name are you doing?\""
 msgstr ""
+"\"Detektive, co to proboha děláte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1446,6 +1494,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DBC1"
 msgid "(Whisper.) \"Relax, Kim. I've *got* this.\""
 msgstr ""
+"(Zašeptej.)\" V klidu, Kime. Tohle *dám*.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1454,6 +1503,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DC93"
 msgid "\"... a long winter...\""
 msgstr ""
+"\"... dlouhá zima...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1462,6 +1512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD0D"
 msgid "\"Archer, I can't hold on much longer...\""
 msgstr ""
+"\"Střelče, už o moc déle nevydržím na příjmu...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1470,6 +1521,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD2A"
 msgid "\"Just tell me where to meet them.\""
 msgstr ""
+"\"Jen mi řekněte, kde se s nimi setkat.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1518,6 +1570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E17A"
 msgid "\"It's Kim, my partner, I can't abandon him.\""
 msgstr ""
+"\"To Kim, můj parťák, nemůžu ho opustit.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1534,6 +1587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E438"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1558,6 +1612,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E4E4"
 msgid "Let him keep going."
 msgstr ""
+"Nech ho pokračovat."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1574,6 +1629,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E5CF"
 msgid "\"Just give me a minute.\""
 msgstr ""
+"\"Jen mi dejte minutu.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1582,6 +1638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E673"
 msgid "\"Everything alright, detective?\""
 msgstr ""
+" \"Je vše v pořádku, detektive?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1686,6 +1743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000396B"
 msgid "\"Within my lifetime?\""
 msgstr ""
+"\"Během mého života?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1694,6 +1752,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000039F3"
 msgid "She's got you there..."
 msgstr ""
+"Dostala tě tam..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1726,6 +1785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003E67"
 msgid "\"Esattamente.\""
 msgstr ""
+"\"Esattamente.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1767,6 +1827,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004676"
 msgid "Keep it to yourself."
 msgstr ""
+"Nech si to pro sebe."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1775,6 +1836,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004681"
 msgid "\"You alright up there?\""
 msgstr ""
+"\"V pořádku, tam nahoře?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1783,6 +1845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004FC9"
 msgid "\"It's been a long winter... Long and cold.\""
 msgstr ""
+"\"Byla to dlouhá zima... Dlouhá a chladná.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1791,6 +1854,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D62C"
 msgid "\"So... they're really coming...\""
 msgstr ""
+"\"Takže... opravdu přilétají...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1815,7 +1879,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BF71"
 msgid "\"Hold on, I need a minute.\""
 msgstr ""
-"\"Ještě chvilku.\""
+"\"Počkejte, nechte mi ještě chvilku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1842,7 +1906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C0EA"
 msgid "Nervous for who, though, you cannot say."
 msgstr ""
-"Nervózní pro koho se však nedá říct."
+"Komu to připadá nervózní, se však nedá říct."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1851,7 +1915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C174"
 msgid "You can't make out a word of this gibberish."
 msgstr ""
-"Z tohohle blábolu se nedá rozeznat jediné slovo."
+"Z téhle brblaniny se nedá rozeznat jediné slovo."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1860,7 +1924,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C511"
 msgid "\"... Warship Archer. Are you there, Firewalker? Please acknowledge.\""
 msgstr ""
-"\"... Válečná loď Archer. Jste tam, Firewalkře? Prosím, ozvěte se.\""
+"\"... Válečná loď Střelec. Jste tam, Ohniváku? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1869,7 +1933,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000C511"
 msgid "\"... Warship Archer. Are you there, Tequila Sunset? Please acknowledge.\""
 msgstr ""
-"\"...Válečná loď Archer. Tequilo Sunsete, jste tam? Prosím, ozvěte se.\""
+"\"...Válečná loď Střelec. Tequilo Sunsete, jste tam? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1878,7 +1942,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000C511"
 msgid "\"... Warship Archer. Are you there, Detective Costeau? Please acknowledge.\""
 msgstr ""
-"\"...Válečná loď Archer. Detektive Costeaue, jste tam? Prosím, ozvěte se.\""
+"\"...Válečná loď Střelec. Detektive Costeau, jste tam? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1887,7 +1951,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000C511"
 msgid "\"... Warship Archer. Are you there, Lieutenant Du Bois? Please acknowledge.\""
 msgstr ""
-"\"...Válečná loď Archer. Poručíku Du Boisi, jste tam? Prosím, ozvěte se.\""
+"\"...Válečná loď Střelec. Poručíku Du Bois, jste tam? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1896,7 +1960,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C544"
 msgid "\"Archer! This is Firewalker. Can you hear me?\""
 msgstr ""
-"\"Archere! Tady Firewalker. Slyšíte mě?\""
+"\"Střelče! Tady Ohnivák. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1905,7 +1969,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000C544"
 msgid "\"Archer! This is Tequila Sunset. Can you hear me?\""
 msgstr ""
-"\"Archere! Tady Tequila Sunset. Slyšíte mě?\""
+"\"Střelče! Tady Tequila Sunset. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1914,7 +1978,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000C544"
 msgid "\"Archer! This is Detective Costeau. Can you hear me?\""
 msgstr ""
-"\"Archere! Tady Detektiv Costeau. Slyšíte mě?\""
+"\"Střelče! Tady Detektiv Costeau. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1923,7 +1987,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000C544"
 msgid "\"Archer! This is Lieutenant Du Bois. Can you hear me?\""
 msgstr ""
-"\"Archere! Tady poručík Du Bois. Slyšíte mě?\""
+"\"Střelče! Tady poručík Du Bois. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1932,7 +1996,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C64C"
 msgid "The cold metal chills your bare hands. Some part of your brain tells you something is missing..."
 msgstr ""
-"Studená tyč tě studí na tvých holých rukách. Nějaká část tvého mozku ti říká, že ti něco chybí..."
+"Studená tyč tě studí na holých rukách. Nějaká část tvého mozku ti říká, že ti něco chybí..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1957,6 +2021,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB5E"
 msgid "... and then, nothing."
 msgstr ""
+"... a potom, nic."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -1973,6 +2038,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CBD4"
 msgid "\"Sorry, I messed up and we ran out of time.\""
 msgstr ""
+"\"Omlouvám se, podělal jsem to a došel nám čas.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2061,6 +2127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D2CF"
 msgid "\"About 3,000 years.\""
 msgstr ""
+"\"Přibližně tři tisíce let.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2069,6 +2136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D40B"
 msgid "\"No reason, the name just came to mind.\""
 msgstr ""
+"\"To nemá důvod, to jméno mě prostě jen tak napadlo.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2077,6 +2145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D7BB"
 msgid "Convince her you need to address the Committee."
 msgstr ""
+"Přesvědč ji, že potřebuješ učinit oznámení pro Komisi."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2085,6 +2154,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100000F0000D7BB"
 msgid "Showed her Martinaise."
 msgstr ""
+"Ukázals jí Martinézu."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2093,6 +2163,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100000F0000D7BB"
 msgid "Clean and sober."
 msgstr ""
+"Čistý a střízlivý."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2101,6 +2172,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100000F0000D7BB"
 msgid "Discovered a strange anomaly."
 msgstr ""
+"Objevils podivnou anomálii."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2109,6 +2181,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100000F0000D7BB"
 msgid "Not boring, *normal*."
 msgstr ""
+"Ne nudný, ale *normální*."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2117,6 +2190,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100000F0000D7BB"
 msgid "Guessed her name."
 msgstr ""
+"Uhodls její jméno."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2125,6 +2199,7 @@ msgstr ""
 msgctxt "tooltip6/0x0100000F0000D7BB"
 msgid "History of prank calls."
 msgstr ""
+"Střílel sis z lidí po telefonu."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2141,6 +2216,7 @@ msgstr ""
 msgctxt "tooltip8/0x0100000F0000D7BB"
 msgid "Superstar's ego."
 msgstr ""
+"Superstar ego."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2149,6 +2225,7 @@ msgstr ""
 msgctxt "tooltip9/0x0100000F0000D7BB"
 msgid "Won't let the past go."
 msgstr ""
+"Nenechals minulost být."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2157,6 +2234,7 @@ msgstr ""
 msgctxt "tooltip10/0x0100000F0000D7BB"
 msgid "Questioned her authority."
 msgstr ""
+"Pochybovals o její autoritě."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2221,6 +2299,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DE36"
 msgid "I wonder what Kim's up to now."
 msgstr ""
+"Zajímalo by mě, co teď Kim dělá."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2317,6 +2396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E571"
 msgid "\"'Après le gris, le monde encore'...\""
 msgstr ""
+"\"'Après le gris, le monde encore'...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2357,6 +2437,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000038D3"
 msgid "\"What are you talking about?\""
 msgstr ""
+"\"O čem to mluvíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2373,6 +2454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003A96"
 msgid "\"Is it because I'm a miserable failure?\""
 msgstr ""
+"\"Je to proto, že jsem jedno velké mizerné selhání?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2381,6 +2463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003D2B"
 msgid "\"Beautiful.\""
 msgstr ""
+"\"Nádhera.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2389,6 +2472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003D44"
 msgid "\"Where is Advesperascit exactly?\""
 msgstr ""
+"\"Kde přesně je Advesperascit?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2405,6 +2489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003E33"
 msgid "\"Pretty different from Adversperascit, isn't it?\""
 msgstr ""
+"\"Docela rozdíl oproti Advesperascitu, což?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2422,7 +2507,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004395"
 msgid "Pour some alcohol over the connections."
 msgstr ""
-"Nalej na ty spojení nějaký alkohol."
+"Nalej na ty spoje nějaký alkohol."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2431,7 +2516,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004428"
 msgid "\"The connections look fine to me.\""
 msgstr ""
-"\"Spojení se mi zdají v pořádku.\""
+"\"Spoje se mi zdají v pořádku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2456,6 +2541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004966"
 msgid "He's right. This was your responsibility..."
 msgstr ""
+"Má pravdu. Tohle byla tvoje zodpovědnost..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2481,6 +2567,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004FB1"
 msgid "\"... Firewalker? Are you there?\""
 msgstr ""
+"\"...Ohniváku? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2489,6 +2576,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005300004FB1"
 msgid "\"... Officer Sunset? Are you there?\""
 msgstr ""
+"\"... Detektive Sunsete? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2497,6 +2585,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100005300004FB1"
 msgid "\"... Detective Costeau? Are you there?\""
 msgstr ""
+"\"... Detektive Costeau? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2505,6 +2594,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100005300004FB1"
 msgid "\"... Lieutenant Du Bois? Are you there?\""
 msgstr ""
+"\"... Poručíku Du Bois? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2554,7 +2644,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C073"
 msgid "\"Coalition Warship Archer, this is Lieutenant Harrier du Bois of the RCM. Please acknowledge.\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Revacholský poručík Harrier du Bois. Prosím, ozvěte se.\""
+"\"Koaliční válečná lodi Střelec, tady Revacholský poručík Harrier du Bois. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2590,7 +2680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C56F"
 msgid "\"This isn't looking good.\"  The speedfreak removes his sweat-drenched headphones. \"The radio-spookers are winning.\""
 msgstr ""
-"\"Nevypadá to moc dobře.\" Rychlík si sundá jeho potem promočená sluchátka. \"Rádioví bubáci vyhrávají.\""
+"\"Nevypadá to moc dobře.\" Speedař si sundá svoje potem zbrocená sluchátka. \"Rádioví bubáci vyhrávají.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2599,7 +2689,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C5C2"
 msgid "\"Don't know. If we can't get around the interference, we're in deep trouble. Hold on, I think Egg gave me some kind of checklist...\""
 msgstr ""
-"\"To nevím. Pokud se nám nepovede se dostat přes to rušení, tak jsme v pořádným maléru. Počkej, myslím, že mi Vajíčko dal nějaký seznam...\""
+"\"To nevím. Pokud se nám nepovede se dostat přes to rušení, tak jsme v pořádným maléru. Počkej, myslím, že mi Eyckin dal nějaký seznam...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2633,6 +2723,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD46"
 msgid "\"You're an Eleanora, I'm sure of it.\""
 msgstr ""
+"\"Jste Eleanora, jsem si tím jistý.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2657,6 +2748,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF2E"
 msgid "\"To the south. Let us see...\""
 msgstr ""
+"\"Na jih. Ať se podíváme...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2705,6 +2797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D9C6"
 msgid "\"He said it was *love* that did him in.\""
 msgstr ""
+"\"Říkal, že to, co ho dostalo, byla *láska*.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2771,6 +2864,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DF74"
 msgid "\"It's my past... it's going to catch up with me.\""
 msgstr ""
+"\"To moje minulost... dohání mě.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2819,6 +2913,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DFDA"
 msgid "\"Acknowledged, Archer. This is Firewalker.\""
 msgstr ""
+"\"Potvrzuji, Střelče. Zde je Ohnivák.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2827,6 +2922,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000DFDA"
 msgid "\"Acknowledged, Archer. This is Tequila Sunset.\""
 msgstr ""
+"\"Potvrzuji, Střelče. Zde Tequila Sunset.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2859,6 +2955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E1AF"
 msgid "\"Yes, I accept. Now, let's get me out of here.\""
 msgstr ""
+"\"Ano, přijímám. A teď mě odsud dostaňte.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2875,6 +2972,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E23B"
 msgid "\"The thing is, I can't remember *anything*.\""
 msgstr ""
+"\"Má se to tak, že si nepamatuju vůbec *nic*.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2923,6 +3021,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E3F2"
 msgid "Quick, hang up on her first!"
 msgstr ""
+"Rychle, zavěs první!"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2931,6 +3030,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E67F"
 msgid "\"I don't know. Maybe.\""
 msgstr ""
+"\"Nevím. Možná.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2963,6 +3063,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F77"
 msgid "\"No, I'm in Martinaise.\""
 msgstr ""
+"\"Ne, jsem v Martinéze.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -2971,6 +3072,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003764"
 msgid "\"I won't have any water?\""
 msgstr ""
+"\"Nebudu mít žádnou vodu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3071,7 +3173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004405"
 msgid "Once the alcohol has had time to dissolve the oils, you wipe off the bar with your sleeve and reattach the cable."
 msgstr ""
-"Když už měl alkohol dost času rozpuštění olejů, otřeš rukávem tyč a znovu připojíš kabel."
+"Když už měl alkohol dost času na rozpuštění olejů, otřeš rukávem tyč a znovu připojíš kabel."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3080,6 +3182,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000466C"
 msgid "Attach the sabre."
 msgstr ""
+"Připevnil jsi šavli."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3122,7 +3225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C100"
 msgid "Then he turns to you. He gives you a half smile along with an almost imperceptible nod of encouragement."
 msgstr ""
-"Pak se otočí k tobě. Věnuje ti poloviční úsměv společně s takřka nepostřehnutelným povzbuzujícím přikývnutím."
+"Pak se otočí k tobě. Věnuje ti poloúsměv společně s takřka nepostřehnutelným povzbuzujícím přikývnutím."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3167,7 +3270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C4F6"
 msgid "\"Coalition Warship Archer. Do you acknowledge? This is Firewalker.\""
 msgstr ""
-"\"Koaliční válečná lodi Archere, potvrzujete? Tady Firewalker.\""
+"\"Koaliční válečná lodi Střelec, potvrzujete? Tady Ohnivák.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3176,7 +3279,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000C4F6"
 msgid "\"Coalition Warship Archer. Do you acknowledge? This is Tequila Sunset.\""
 msgstr ""
-"\"Koaliční válečná lodi Archere, potvrzujete? Tady Tequila Sunset.\""
+"\"Koaliční válečná lodi Střelec, potvrzujete? Tady Tequila Sunset.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3185,7 +3288,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000C4F6"
 msgid "\"Coalition Warship Archer. Do you acknowledge? This is Detective Costeau.\""
 msgstr ""
-"\"Koaliční válečná lodi Archere, potvrzujete? Tady detektiv Costeau.\""
+"\"Koaliční válečná lodi Střelec, potvrzujete? Tady detektiv Costeau.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3194,7 +3297,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000C4F6"
 msgid "\"Coalition Warship Archer. Do you acknowledge? This is Lieutenant Du Bois.\""
 msgstr ""
-"\"Koaliční válečná lodi Archere, potvrzujete? Tady poručík Du Bois.\""
+"\"Koaliční válečná lodi Střelec, potvrzujete? Tady poručík Du Bois.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3203,6 +3306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB2B"
 msgid "\"That piece of junk didn't even work!\""
 msgstr ""
+"\"Ten kus šrotu ani nefungoval!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3211,6 +3315,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB30"
 msgid "\"I'm sorry! I was trying to do good.\""
 msgstr ""
+"\"Omlouvám se! Snažil jsem se to udělat dobře.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3219,6 +3324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB84"
 msgid "\"... Firewalker? Please respond...\""
 msgstr ""
+"\"... Ohniváku? Prosím, odpovězte...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3227,6 +3333,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000CB84"
 msgid "\"... Officer Sunset? Please respond...\""
 msgstr ""
+"\"... Detektive Sunsete? Prosím, odpovězte...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3235,6 +3342,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000CB84"
 msgid "\"... Detective Costeau? Please respond...\""
 msgstr ""
+"\"Detektive Costeau? Prosím, ozvěte se...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3243,6 +3351,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000CB84"
 msgid "\"... Lieutenant Du Bois? Please respond...\""
 msgstr ""
+"\"... Poručíku Du Bois? Prosím, odpovězte...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3251,6 +3360,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CBC4"
 msgid "\"When is real democracy coming to Revachol?\""
 msgstr ""
+"\"Kdy do Revacholu dorazí pravá demokracie?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3275,6 +3385,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CE15"
 msgid "(Wait for her to continue.)"
 msgstr ""
+"(Počkej, až bude pokračovat.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3307,6 +3418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D0B1"
 msgid "\"That's me!\" (Wave your hand.)"
 msgstr ""
+"\"To jsem já!\" (Zamávej.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3419,6 +3531,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD08"
 msgid "\"Yes, I'm here!\""
 msgstr ""
+"\"Ano, jsem tady!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3484,6 +3597,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E094"
 msgid "\"Then I choose the illusion.\""
 msgstr ""
+"\"Pak si zvolím iluzi.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3500,6 +3614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E353"
 msgid "\"This absolute lunatic! But why am I surprised?\""
 msgstr ""
+"\"Naprostý šílenec! Ale proč mě to překvapuje?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3516,6 +3631,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E563"
 msgid "\"Two... one... 'Après le monde, le gris'...\""
 msgstr ""
+"\"Dva... jedna... 'Après le monde, le gris'...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3524,6 +3640,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E61F"
 msgid "You could stay a while longer, if you wanted."
 msgstr ""
+"Jestli chceš, můžeš ještě chvíli zůstat."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3596,6 +3713,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F90"
 msgid "\"Internal.\""
 msgstr ""
+"\"Vnitřní.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3668,6 +3786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000375E"
 msgid "\"The dirt will get wet?\""
 msgstr ""
+"\"Hlína zvlhne?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3732,6 +3851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000045FB"
 msgid "Look at the rider."
 msgstr ""
+"Pohlédni na jezdce."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3740,6 +3860,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000053000045FB"
 msgid "Look at Filippe III."
 msgstr ""
+"Pohlédni na Filipa III."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3748,7 +3869,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004AA5"
 msgid "\"You actually haven't. But you have proven that you're a relatively capable climber.\""
 msgstr ""
-"\"Ve skutečnosti tomu tak není, ale ukázal jste, že jste docela schopný horolezec.\""
+"\"Ve skutečnosti tomu tak není, ale ukázal jste, že jste docela schopný lezec.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3872,6 +3993,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB35"
 msgid "\"It's not *my* fault the statue broke.\""
 msgstr ""
+"\"Není *moje* chyba, že se ta socha rozbila.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3896,6 +4018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCDC"
 msgid "\"Why, the Archer itself...\""
 msgstr ""
+"\"Počkat, proč Střelec samotný...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3928,6 +4051,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CFF6"
 msgid "\"That bad, huh?\""
 msgstr ""
+"\"Až tak zlé, he?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -3992,6 +4116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DE3B"
 msgid "Pretend you're riding the horse."
 msgstr ""
+"Předveď, jako že jedeš na koni."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4000,6 +4125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DEC4"
 msgid "\"Here they are.\""
 msgstr ""
+"\"Tady je máme.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4137,6 +4263,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E459"
 msgid "\"Nope, not a clue.\""
 msgstr ""
+"\"Ne-e, nemám tušení.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4153,6 +4280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E50B"
 msgid "\"Now, get down from there. We've got work to do.\""
 msgstr ""
+"\"A teď už odtud slezte. Máme práci, kterou musíme udělat.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4161,6 +4289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E649"
 msgid "Climb down."
 msgstr ""
+"Slez dolů."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4169,6 +4298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F80"
 msgid "\"Please answer the question.\""
 msgstr ""
+"\"Prosím, odpovězte na otázku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4177,6 +4307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002FDE"
 msgid "\"Mhmm. Let's go on...\""
 msgstr ""
+"\"Mm-hm. Pokračujme...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4201,6 +4332,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003917"
 msgid "\"Mob rule?\""
 msgstr ""
+"\"Vláda davu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4225,6 +4357,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000039E1"
 msgid "\"Where does the RCM fit into all of this?\""
 msgstr ""
+"\"Jak do toho zapadá ROM?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4265,6 +4398,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003FFD"
 msgid "\"What's going on?\""
 msgstr ""
+"\"Co se děje?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4273,6 +4407,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300005127"
 msgid "That's sarcasm, she's clearly Messinian."
 msgstr ""
+"To byl sarkasmus, zřejmě je Messiniánka. "
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4281,6 +4416,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000515B"
 msgid "\"We repeat: Were you alone?\""
 msgstr ""
+"\"Opakujeme! Byl jste sám?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4350,7 +4486,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C6D3"
 msgid "The connection itself is nothing more than a little braid of exposed wire wrapped about the hoof of the horse, a copper fetter it cannot slip..."
 msgstr ""
-"Spojení jako takové není nic víc, než malé opletení nechráněného drátu omotaného kolem koňského kopyta. Měděné pouto, které nemůže sklouznout..."
+"Spoj jako takový není nic víc, než malé opletení nechráněného drátu omotaného kolem koňského kopyta. Měděné pouto, které nemůže sklouznout..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4385,6 +4521,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CBBF"
 msgid "\"What does the Moralintern *really* want?\""
 msgstr ""
+"\"Co Moralinterna *doopravdy* chce?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4393,6 +4530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CC19"
 msgid "\"Are you the captain?\""
 msgstr ""
+"\"Jste kapitánka?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4465,6 +4603,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DA67"
 msgid "\"From the northwest, specifically.\""
 msgstr ""
+"\"Konkrétně od severozápadu.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4601,6 +4740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E555"
 msgid "\"No, no, no -- please don't go...\""
 msgstr ""
+"\"Ne, ne, ne - prosím, neodcházejte.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4625,6 +4765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F28"
 msgid "\"And has it worked?\""
 msgstr ""
+"\"A fungovalo to?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4633,6 +4774,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F9C"
 msgid "\"I have no idea what you're asking.\""
 msgstr ""
+"\"Nemám ponětí, na co se to ptáte.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4641,6 +4783,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003015"
 msgid "Do as she says. There's no other option."
 msgstr ""
+"Dělej, co říká. Není jiné možnosti."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4746,6 +4889,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003B50"
 msgid "\"Firewalker, was there anything else?\""
 msgstr ""
+"\"Ohniváku, chtěl jste ještě něco?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4754,6 +4898,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005300003B50"
 msgid "\"Officer Sunset, was there anything else?\""
 msgstr ""
+"\"Detektive Sunsete, chtěl jste ještě něco?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4762,6 +4907,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100005300003B50"
 msgid "\"Detective Costeau, was there anything else?\""
 msgstr ""
+"\"Detektive Costeau, chtěl jste ještě něco?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4770,6 +4916,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100005300003B50"
 msgid "\"Lieutenant Du Bois, was there anything else?\""
 msgstr ""
+"\"Poručíku Du Bois, chtěl jste ještě něco?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4873,7 +5020,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C06E"
 msgid "\"Coalition Warship Archer, this is Detective Raphaël Ambrosius Costeau of the RCM. Please acknowledge.\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Revacholský detektiv Raphaël Ambrosius Costeau. Prosím, ozvěte se.\""
+"\"Koaliční válečná lodi Střelec, tady Revacholský detektiv Raphaël Ambrosius Costeau. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4900,6 +5047,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C42D"
 msgid "\"It's been a long winter... Long and cold.\""
 msgstr ""
+"\"Byla to dlouhá zima... Dlouhá a chladná.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4916,7 +5064,7 @@ msgstr ""
 #. Conversant = Noid
 msgctxt "Dialogue Text/0x0100000F0000C523"
 msgid "\"Archer! This is Firewalker. Can you hear me?\""
-msgstr "\"Archere! Tady Firewalker. Slyšíte mě?\""
+msgstr "\"Střelče! Tady Ohnivák. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4924,7 +5072,7 @@ msgstr "\"Archere! Tady Firewalker. Slyšíte mě?\""
 #. Conversant = Noid
 msgctxt "Alternate1/0x0100000F0000C523"
 msgid "\"Archer! This is Tequila Sunset. Can you hear me?\""
-msgstr "\"Archere! Tady Tequila Sunset. Slyšíte mě?\""
+msgstr "\"Střelče! Tady Tequila Sunset. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4932,7 +5080,7 @@ msgstr "\"Archere! Tady Tequila Sunset. Slyšíte mě?\""
 #. Conversant = Noid
 msgctxt "Alternate2/0x0100000F0000C523"
 msgid "\"Archer! This is Detective Costeau. Can you hear me?\""
-msgstr "\"Archere! Tady Detektiv Costeau. Slyšíte mě?\""
+msgstr "\"Střelče! Tady Detektiv Costeau. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4940,7 +5088,7 @@ msgstr "\"Archere! Tady Detektiv Costeau. Slyšíte mě?\""
 #. Conversant = Noid
 msgctxt "Alternate3/0x0100000F0000C523"
 msgid "\"Archer! This is Lieutenant Du Bois. Can you hear me?\""
-msgstr "\"Archere! Tady poručík Du Bois. Slyšíte mě?\""
+msgstr "\"Střelče! Tady poručík Du Bois. Slyšíte mě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4949,7 +5097,7 @@ msgstr "\"Archere! Tady poručík Du Bois. Slyšíte mě?\""
 msgctxt "Dialogue Text/0x0100000F0000C5A7"
 msgid "\"Okay, let's do this.\" (Climb the monument.)"
 msgstr ""
-"\"Dobrá, pojďme na to,\" (Vylez na monument.)"
+"\"Dobrá, pojďme na to.\" (Vylez na monument.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4958,6 +5106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB17"
 msgid "\"Probably because you broke it.\""
 msgstr ""
+"\"Možná proto, že jste to rozbil.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4982,6 +5131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CC72"
 msgid "\"What's it like, being a second signaller?\""
 msgstr ""
+"\"Jaké to je, být druhou signalistkou?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4990,6 +5140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCC2"
 msgid "\"Who is the secretary?\""
 msgstr ""
+"\"Kdo je sekretářka?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -4998,6 +5149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CDC4"
 msgid "\"How's the work-life balance?\""
 msgstr ""
+"\"Jaké je skloubení života s prací?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5006,6 +5158,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CDFA"
 msgid "Hold on, you can tell she has more to say..."
 msgstr ""
+"Počkat, víš, že má ještě co říct..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5054,6 +5207,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D038"
 msgid "\"Look happy and well adjusted?\""
 msgstr ""
+"\"Vypadají šťastní a zajištění?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5062,6 +5216,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000D038"
 msgid "\"Look poor, but in a sexy way?\""
 msgstr ""
+"\"Vypadají chudě, ale sexy způsobem?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5086,6 +5241,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D9C1"
 msgid "\"He said it was *communism* that killed him.\""
 msgstr ""
+"\"Říkal, že *komunismus* byl tím, co ho zabilo.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5094,6 +5250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D9DC"
 msgid "Oh dear, you seem to be losing the thread..."
 msgstr ""
+"Ach, drahý, zdá se, že ztrácíš nit..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5118,6 +5275,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DB9E"
 msgid "\"Firewalker... can you... what do you mean?\""
 msgstr ""
+"\"Ohniváku... mohl byste... co tím myslíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5126,6 +5284,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000DB9E"
 msgid "\"Officer... can you... what do you mean?\""
 msgstr ""
+"\"Detektive... mohl byste... co tím myslíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5134,6 +5293,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000DB9E"
 msgid "\"Detective... can you... what do you mean?\""
 msgstr ""
+"\"Detektive... mohl byste... co tím myslíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5142,6 +5302,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000DB9E"
 msgid "\"Lieutenant... can you... what do you mean?\""
 msgstr ""
+"\"Poručíku... mohl byste... co tím myslíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5175,6 +5336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD25"
 msgid "\"When is that?\""
 msgstr ""
+"\"Kdy to bude?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5312,6 +5474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F5D"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5320,6 +5483,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002FD8"
 msgid "\"Final question: Were you alone?\""
 msgstr ""
+"\"Konečná otázka: Byl jste sám?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5328,6 +5492,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002FF2"
 msgid "Her tone has shifted. She's no longer herself."
 msgstr ""
+"Tón jejího hlasu se změnil. Už není sama sebou."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5336,6 +5501,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000304B"
 msgid "There's no need to overthink this."
 msgstr ""
+"Není třeba nad tím příliš přemýšlet."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5344,7 +5510,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000032FE"
 msgid "\"No use, man. Don't think he can hear you.\""
 msgstr ""
-"\"Je to k ničemu. Myslím, že tě neslyší:\""
+"\"Je to k ničemu. Myslím, že tě neslyší.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5409,6 +5575,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003DCF"
 msgid "\"Firewalker, are you still there?\""
 msgstr ""
+"\"Ohniváku, jste tam ještě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5417,6 +5584,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005300003DCF"
 msgid "\"Officer Sunset, are you still there?\""
 msgstr ""
+"\"Detektive Sunsete, jste tam ještě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5425,6 +5593,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100005300003DCF"
 msgid "\"Detective Costeau, are you still there?\""
 msgstr ""
+"\" Detektive Costeau, jste tam ještě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5433,6 +5602,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100005300003DCF"
 msgid "\"Lieutenant Du Bois, are you still there?\""
 msgstr ""
+"\"Poručíku Du Bois, jste tam ještě?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5492,6 +5662,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004FE1"
 msgid "\"... Firewalker? Are you there?\""
 msgstr ""
+"\"...Ohniváku? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5500,6 +5671,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005300004FE1"
 msgid "\"... Officer Sunset? Are you there?\""
 msgstr ""
+"\"... Detektive Sunsete? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5508,6 +5680,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100005300004FE1"
 msgid "\"... Detective Costeau? Are you there?\""
 msgstr ""
+"\"... Detektive Costeau? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5516,6 +5689,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100005300004FE1"
 msgid "\"... Lieutenant Du Bois? Are you there?\""
 msgstr ""
+"\"... Poručíku Du Bois? Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5524,6 +5698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000533A"
 msgid "\"Built by whom?\""
 msgstr ""
+"\"Postavil ho kdo?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5532,7 +5707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C037"
 msgid "Where's the sound coming from?"
 msgstr ""
-"Kde se ten zvuk bere."
+"Kde se ten zvuk bere?"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5642,6 +5817,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D092"
 msgid "\"A roundabout, a roundabout...\""
 msgstr ""
+"\"Kruhový objezd, kruhový objezd...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5754,6 +5930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E431"
 msgid "\"Women, am I right?\""
 msgstr ""
+"\"Ženy, nemám pravdu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5794,6 +5971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E6A4"
 msgid "Climb down."
 msgstr ""
+"Slez dolů."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5827,6 +6005,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000036E3"
 msgid "\"We can assure you, it is coming as soon as possible.\""
 msgstr ""
+"\"Můžeme vás ujistit, že dorazí co možná nejdříve.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5851,6 +6030,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000395C"
 msgid "\"Within a couple of years, surely.\""
 msgstr ""
+"\"Jistě, během pár let.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5859,6 +6039,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003A17"
 msgid "\"That's confusing.\""
 msgstr ""
+"\"To je matoucí.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5907,7 +6088,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000043C6"
 msgid "\"Glad that stuff came in handy after all...\""
 msgstr ""
-"\"Jsme rád, že se ta věc nakonec hodila...\""
+"\"Jsem rád, že se ta věc nakonec hodila...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5932,7 +6113,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004A69"
 msgid "This isn't exactly your area of expertise, though..."
 msgstr ""
-"Tohle není zrovna, ve které bys byl nějak zkušený..."
+"Tohle není zrovna oblast, ve které bys byl nějak zkušený..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5941,6 +6122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000536A"
 msgid "\"For you, for all of humanity...\""
 msgstr ""
+"\"Pro vás, pro celé lidstvo...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5974,7 +6156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BFAF"
 msgid "A soft rustling. Between your ears, a winterscape with fast falling snow..."
 msgstr ""
-"Jemné šustění. Mezi tvými uši, zimní krajina s rychle padajícím sněhem..."
+"Jemné šustění. Mezi tvýma ušima, zimní krajina s rychle padajícím sněhem..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -5983,7 +6165,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C04B"
 msgid "Every lightswitch, every motor carriage, every doorbell, tea kettle, and radio in Martinaise, all mingled with electrical interference caused by scattered thunderstorms over Ozonne."
 msgstr ""
-"Každý vypínač, každé motorové vozidlo, každý zvonek, konvice na čaj a Martinaiské rádio, všechno pomíchané elektrickým rušením způsobené bouřkou rozptýlenou nad Ozonnem."
+"Každý vypínač, každé motorové vozidlo, každý zvonek, konvice na čaj a martnézské rádio, všechno pomíchané elektrickým rušením způsobené bouřkou rozptýlenou nad Ozonnem."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6037,7 +6219,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C51C"
 msgid "\"... Walker? Please acknowledge.\""
 msgstr ""
-"\"... Walkře? Prosím, ozvěte se.\""
+"\"... Ohniváku? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6055,7 +6237,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000C51C"
 msgid "\"... Costeau? Please acknowledge.\""
 msgstr ""
-"\"... Costeaui? Prosím, ozvěte se.\""
+"\"... Costeau? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6064,7 +6246,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000C51C"
 msgid "\"... Du Bois? Please acknowledge.\""
 msgstr ""
-"\"... Du Boisi? Prosím, ozvěte se.\""
+"\"... Du Bois? Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6073,6 +6255,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C8A5"
 msgid "Attempt to narrow the receiving mode manually."
 msgstr ""
+"Pokus se zúžit přijímací rozsah ručně."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6081,6 +6264,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100000F0000C8A5"
 msgid "Solid grip."
 msgstr ""
+"Pevný stisk."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6089,6 +6273,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100000F0000C8A5"
 msgid "Cleaned the connections."
 msgstr ""
+"Vyčistils spoje."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6097,6 +6282,7 @@ msgstr ""
 msgctxt "tooltip3/0x0100000F0000C8A5"
 msgid "Signal purifier engaged."
 msgstr ""
+"Čistič signálu použit."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6105,6 +6291,7 @@ msgstr ""
 msgctxt "tooltip4/0x0100000F0000C8A5"
 msgid "Eye for sculpture."
 msgstr ""
+"Ocenils sochu."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6113,6 +6300,7 @@ msgstr ""
 msgctxt "tooltip5/0x0100000F0000C8A5"
 msgid "Advanced transceiver."
 msgstr ""
+"Pokročilý transcíver."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6121,6 +6309,7 @@ msgstr ""
 msgctxt "tooltip6/0x0100000F0000C8A5"
 msgid "Sabre actually *does* help."
 msgstr ""
+"Ta šavle ve skutečnosti *pomáhá*."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6129,6 +6318,7 @@ msgstr ""
 msgctxt "tooltip7/0x0100000F0000C8A5"
 msgid "Anti-object prejudice."
 msgstr ""
+"Protipředmětové předsudky."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6137,6 +6327,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB0B"
 msgid "\"Nein, Liebling!\""
 msgstr ""
+"\"Nein, Liebling!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6145,6 +6336,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CDCE"
 msgid "\"Do you believe in the mission?\""
 msgstr ""
+"\"Věříte ve vaši misi?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6161,6 +6353,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF0F"
 msgid "\"I thought it was to the south?\""
 msgstr ""
+"\"Myslel jsem, že je to jižním směrem?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6209,6 +6402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D110"
 msgid "\"Listen, Archer -- Martinaise is a *disco* town.\""
 msgstr ""
+"\"Poslouchejte, Střelče - Martinéza je městem *diska*.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6225,6 +6419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D11A"
 msgid "\"I'm singing the song of annihilation.\""
 msgstr ""
+"\"Zpívám píseň naprostého zničení.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6305,6 +6500,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D9D6"
 msgid "Oh dear, you seem to be losing the thread..."
 msgstr ""
+"Ach, drahý, zdá se, že ztrácíš nit..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6313,6 +6509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DA01"
 msgid "\"Yeah, that's my working hypothesis.\""
 msgstr ""
+"\"Jo, to je moje pracovní hypotéza.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6329,6 +6526,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DAA4"
 msgid "\"Uh, right, we spoke beforehand.\""
 msgstr ""
+"\"Uh, ano, už jsme spolu mluvili předtím.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6401,6 +6599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E59F"
 msgid "Showed her *what*, though?"
 msgstr ""
+"Ukázal jí vlastně *co*?"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6433,6 +6632,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003041"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6530,6 +6730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003D72"
 msgid "The name Advesperascit means 'Evening Comes.'"
 msgstr ""
+"Jméno Advesperascit znamená 'Nadchází Večer.'"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6546,7 +6747,7 @@ msgstr "\"Liebling, bitte… Er ist unser einziges Kind. Er kann doch auch näch
 msgctxt "Dialogue Text/0x0100005300004017"
 msgid "\"Keep trying. We'll get through these radio-spookers eventually.\""
 msgstr ""
-"\"Zkouše to dál. Nakonec se přes ty rádiové bubáky dostaneme.\""
+"\"Zkoušej to dál. Nakonec se přes ty rádiové bubáky dostaneme.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6564,7 +6765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000447F"
 msgid "\"Yeah... maybe some. Not enough though. Would've hoped between that and the de-spooker engaged that we'd be able to align with any frequency, but we're still just medium core, at best.\""
 msgstr ""
-"\"Jo... možná trochu, ale nestačí to. Doufal bych, že mezi tím a zapojeným odbubákovačem se budeme moci sladit s jakoukoli frekvencí, ale v nejlepším případě jsme stále jen na středním jádře."
+"\"Jo... možná trochu, ale nestačí to. Doufal bych, že mezi tím a zapojeným odbubákovačem se budeme moci sladit s jakoukoli frekvencí, ale v nejlepším případě jsme stále jen na středním jádře.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6582,7 +6783,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004491"
 msgid "\"Hang on, I'm looking at Egg's checklist. He says: 'IF ALL FAILS, BEND ANTENNA. NARROW IS THE HARD CORE WAY'... That make any sense to you?\""
 msgstr ""
-"\"Moment, koukám se na Vejcův seznam. Říka: \"POKUD NIC Z TOHO NEVÝJDE, OHNĚTE ANTÉNU. ÚZKÝ JE OBTÍŽNÁ CESTA\"... Dává vám to nějaký smysl?\""
+"\"Moment, koukám se na Eyckův seznam. Říká: \"POKUD NIC Z TOHO NEVÝJDE, OHNĚTE ANTÉNU. ÚZKÝ JE OBTÍŽNÁ CESTA\"... Dává vám to nějaký smysl?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6658,7 +6859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C55F"
 msgid "\"... Warship Archer. Please identify.\""
 msgstr ""
-"\"... Válečná lodi Archere. Prosím, identifikujte se.\""
+"\"... Válečná lodi Střelec. Prosím, identifikujte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6684,6 +6885,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB63"
 msgid "\"Try it now.\""
 msgstr ""
+"\"Zkus to teď.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6700,6 +6902,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD67"
 msgid "\"You are 100% wrong...\""
 msgstr ""
+"\"Stoprocentně se pletete...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6804,6 +7007,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D2C2"
 msgid "(Say nothing, just look around.)"
 msgstr ""
+"(Neříkej nic, jen se rozhlédni.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6828,6 +7032,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D83D"
 msgid "\"Archer, are you there?\""
 msgstr ""
+"\"Střelče, jste tam?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6836,6 +7041,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000D83D"
 msgid "\"Elena, are you there?\""
 msgstr ""
+"\"Eleno, jste tam?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6860,6 +7066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DA2B"
 msgid "No way. Sex and death is what it's *all* about."
 msgstr ""
+"V žádném případě. *Celé* je to o smrti a sexu."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6876,6 +7083,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DAA9"
 msgid "\"Nope, after.\""
 msgstr ""
+"\"Ne-e, potom.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6901,6 +7109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DCA1"
 msgid "\"You have to, Noid. Just a little longer...\""
 msgstr ""
+"\"Musíš, Noide. Ještě chvíli...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6941,6 +7150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E000"
 msgid "\"Hold on, I have a few questions first.\""
 msgstr ""
+"\"Počkat, nejprve bych měl pár otázek.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6981,6 +7191,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E5D4"
 msgid "\"I'm coming.\" (Climb down.)"
 msgstr ""
+"\"Už lezu.\" (Slez dolů.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6989,6 +7200,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000E5D4"
 msgid "\"Yeah, you're right.\" (Climb down.)"
 msgstr ""
+"\"Jo, máte pravdu.\" (Slez.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -6997,6 +7209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E6FD"
 msgid "\"How do you know?\""
 msgstr ""
+"\"Jak to víte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7093,6 +7306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003D5B"
 msgid "\"Impossible.\""
 msgstr ""
+"\"Nemožné.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7127,7 +7341,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000401D"
 msgid "\"Coalition Warship Archer, this is Firewalker. If you're there, Archer, please acknowledge.\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Firewalker. Archere, jestli tam jste, prosím, ozvěte se.\""
+"\"Koaliční válečná lodi Střelec, tady Ohnivák. Střelče, jestli tam jste, prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7169,6 +7383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004574"
 msgid "Look down."
 msgstr ""
+"Shlédni dolů."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7227,6 +7442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D613"
 msgid "\"You have to, Soona. Just a little longer...\""
 msgstr ""
+"\"Musíš, Soňo. Ještě chvíli...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7244,6 +7460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD41"
 msgid "\"You're an Elena, aren't you?\""
 msgstr ""
+"\"Jste Elena, že ano?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7276,6 +7493,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CFFB"
 msgid "\"What do you see?\""
 msgstr ""
+"\"Co vidíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7308,6 +7526,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D0B7"
 msgid "\"Would you say he seems like a *handsome* man?\""
 msgstr ""
+"\"Řekla byste, že vypadá jako *pohledný* muž?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7332,6 +7551,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D18F"
 msgid "\"Right, and that legacy is...?\""
 msgstr ""
+"\"Dobře, a ten odkaz je...?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7396,6 +7616,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D9B0"
 msgid "\"No, those are the facts as I have them.\""
 msgstr ""
+"\"Ne, tohle jsou fakta, jaká jsem získal.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7436,6 +7657,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DCF9"
 msgid "\"Firewalker, this is Archer. Are you there?\""
 msgstr ""
+"\"Ohniváku, zde Střelec. Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7444,6 +7666,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000DCF9"
 msgid "\"Officer Sunset, this is Archer. Are you there?\""
 msgstr ""
+"\" Detektive Sunsete, zde Střelec. Jste na příjmu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7484,6 +7707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E14B"
 msgid "YOU CANNOT LEAVE. SO MUCH HANGS IN THE BALANCE."
 msgstr ""
+"NEMŮŽEŠ ODEJÍT. NA ROVNOVÁZE TOHO TOLIK ZÁLEŽÍ."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7508,6 +7732,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E55A"
 msgid "Say nothing."
 msgstr ""
+"Neříkej nic."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7548,6 +7773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F6B"
 msgid "\"I've never heard of any of those places.\""
 msgstr ""
+"\"O žádném z těch míst jsem nikdy neslyšel.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7556,6 +7782,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F71"
 msgid "\"You already know exactly where I am.\""
 msgstr ""
+"\"Vy už přesně víte, kde jsem.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7572,6 +7799,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F96"
 msgid "\"External.\""
 msgstr ""
+"\"Vnější.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7580,6 +7808,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002FBD"
 msgid "\"Yes. Examples may include sound, memory, light.\""
 msgstr ""
+"\"Ano. Příklady mohou obsahovat zvuky, vzpomínky, světlo.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7620,6 +7849,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000030CB"
 msgid "A-a-afraid? What is she afraid of?"
 msgstr ""
+"B-b-bojí se? Čeho se bojí?"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7644,6 +7874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000376A"
 msgid "\"The water will run down the hill?\""
 msgstr ""
+"\"Voda steče ze svahu?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7676,6 +7907,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000038C3"
 msgid "\"The first phase of democratisation.\""
 msgstr ""
+"\"První fáze demokratizace.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7700,6 +7932,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003994"
 msgid "\"Enough of this. I have another question.\""
 msgstr ""
+"\"Dost už toho. Mám další otázku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7793,7 +8026,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C4DB"
 msgid "(Sigh.) \"Coalition Warship Archer. Do you acknowledge? This is Firewalker.\""
 msgstr ""
-"(Povzdechni si.) \"Koaliční válečná lodi Archere, potvrzujete? Tady Firewalker.\""
+"(Povzdechni si.) \"Koaliční válečná lodi Střelec, potvrzujete? Tady Ohnivák.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7802,7 +8035,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000C4DB"
 msgid "(Sigh.) \"Coalition Warship Archer. Do you acknowledge? This is Tequila Sunset.\""
 msgstr ""
-"(Povzdechni si.) \"Koaliční válečná lodi Archere, potvrzujete? Tady Tequilla Sunset.\""
+"(Povzdechni si.) \"Koaliční válečná lodi Střelec, potvrzujete? Tady Tequilla Sunset.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7811,7 +8044,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000C4DB"
 msgid "(Sigh.) \"Coalition Warship Archer. Do you acknowledge? This is Detective Costeau.\""
 msgstr ""
-"(Povzdechni si.) \"Koaliční válečná lodi Archere, potvrzujete? Tady Detektiv Costeau.\""
+"(Povzdechni si.) \"Koaliční válečná lodi Střelec, potvrzujete? Tady Detektiv Costeau.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7820,7 +8053,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000C4DB"
 msgid "(Sigh.) \"Coalition Warship Archer. Do you acknowledge? This is Lieutenant Du Bois.\""
 msgstr ""
-"(Povzdechni si.) \"Koaliční válečná lodi Archere, potvrzujete? Tady Tady poručík Du Bois.\""
+"(Povzdechni si.) \"Koaliční válečná lodi Střelec, potvrzujete? Tady poručík Du Bois.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7893,6 +8126,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF28"
 msgid "\"Hold on. We're adjusting our viewfinder...\""
 msgstr ""
+"\"Počkejte. Jen zaostříme hledáček...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7901,6 +8135,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF87"
 msgid "If it's so funny, why isn't she laughing?"
 msgstr ""
+"Pokud je to tak legrační, tak proč se nesměje?"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7933,6 +8168,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D2F1"
 msgid "\"That sounds about right, actually.\""
 msgstr ""
+"\"To zní vlastně docela správně.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7973,6 +8209,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DC09"
 msgid "\"We see...\""
 msgstr ""
+"\"Vidíme...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -7981,6 +8218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DCEB"
 msgid "\"Damn spookers. Can't keep 'em off our back...\""
 msgstr ""
+"\"Zatracení bubáci. Nemůžu je setřást...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8005,6 +8243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD94"
 msgid "\"Well, what now?\""
 msgstr ""
+"\"Dobře, co teď?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8103,6 +8342,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E282"
 msgid "\"This absolute lunatic! But why am I surprised?\""
 msgstr ""
+"\"Naprostý šílenec! Ale proč mě to překvapuje?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8135,6 +8375,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E446"
 msgid "\"You really don't know?\""
 msgstr ""
+"\"Vy opravdu nevíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8151,6 +8392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E578"
 msgid "Disconnect before she clears the line."
 msgstr ""
+"Odpoj se dřív, než tě odpojí ona."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8159,6 +8401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E6F8"
 msgid "\"Yeah, you're right.\""
 msgstr ""
+"\"Jo, pravda.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8167,6 +8410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E732"
 msgid "\"Now, come on. It's getting late.\""
 msgstr ""
+"\"No tak. Už se zpozdívá.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8183,7 +8427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000330C"
 msgid "\"I've got a feeling this is related to the pale, some piece of the past that's mixing in with our signal.\""
 msgstr ""
-"\"Mám takové tušení, že to má cosi dočinění s bledomezí, nějaký kus minulosti mísící se s naším signálem.\""
+"\"Mám takové tušení, že to má cosi do činění s bledomezí, nějaký kus minulosti mísící se s naším signálem.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8281,7 +8525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000414F"
 msgid "Here it is again, this pale... If only you knew more about it."
 msgstr ""
-"A je to tu zas, bledomez... Kdybys o ní věděl víc."
+"A je to tu zas, bledomez... Kdybys tak o ní věděl víc."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8324,7 +8568,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C14A"
 msgid "\"Hello... Archer? Do you acknowledge?\""
 msgstr ""
-"\"Halo... Archere? Potvrzujete?\""
+"\"Haló... Střelče? Potvrzujete?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8369,7 +8613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C6A9"
 msgid "Examine the connections."
 msgstr ""
-"Prozkoumej spojení."
+"Prozkoumej spoj."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8394,6 +8638,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CA24"
 msgid "\"... Nein, Liebling!\""
 msgstr ""
+"\"...Nein, Liebling!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8418,6 +8663,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CBBA"
 msgid "\"What does Revachol look like from up there?\""
 msgstr ""
+"\"Jak vypadá Revachol takhle z výšky?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8434,6 +8680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD3C"
 msgid "\"You sound like an Eloïse to me.\""
 msgstr ""
+"\"Zníte mi jako Eloise.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8450,6 +8697,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CEBC"
 msgid "\"Where are you, exactly?\""
 msgstr ""
+"\"Kdo přesně jste?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8466,6 +8714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D03D"
 msgid "\"Look like ants, isn't that what they say?\""
 msgstr ""
+"\"Opravdu vypadají jak mravenečci, jak se to tak říká?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8490,6 +8739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D426"
 msgid "\"Yes, names tend to do that, don't they?\""
 msgstr ""
+"\"Ano, to jména obvykle dělají, že?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8507,6 +8757,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D8A0"
 msgid "\"What? How do you know this?\""
 msgstr ""
+"\"Cože? Jak tohle víte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8548,6 +8799,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DDE4"
 msgid "\"Well, thank you for trying at least.\""
 msgstr ""
+"\"No, díky, že jste to aspoň zkusili.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8580,6 +8832,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E005"
 msgid "\"I... can't do it.\" (Back out.)"
 msgstr ""
+"\"Já... já to nemůžu udělat.\" (Vycouvej.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8628,6 +8881,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E2F9"
 msgid "\"This absolute lunatic! But why am I surprised?\""
 msgstr ""
+"\"Naprostý šílenec! Ale proč mě to překvapuje?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8684,6 +8938,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003032"
 msgid "Of course not. The radio-programmer was there..."
 msgstr ""
+"Samozřejmě, že ne. Byla tam ta radio-programátorka..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8724,6 +8979,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000038FF"
 msgid "\"How can I get involved?\""
 msgstr ""
+"\"Jak bych se mohl zúčastnit?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8831,7 +9087,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000441C"
 msgid "\"The whole statue's covered in weird oils. I don't think it's good for the connections.\""
 msgstr ""
-"\"Celá socha je pokryta nějakými divnými oleji. Nemyslím si, že to spojením nějak prospívá.\""
+"\"Celá socha je pokryta nějakými divnými oleji. Nemyslím si, že to spojům nějak prospívá.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8889,7 +9145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C069"
 msgid "\"Coalition Warship Archer, this is RCM Officer Tequila Sunset. Please acknowledge.\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Revacholský strážník Tequila Sunset. Prosím, ozvěte se."
+"\"Koaliční válečná lodi Střelec, tady Revacholský strážník Tequila Sunset. Prosím, ozvěte se."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -8934,7 +9190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C6A4"
 msgid "\"That was pretty bad. I hope nobody saw it.\""
 msgstr ""
-"\"To bylo docela špatné. Doufám, že to nikdo neviděl.\""
+"\"To bylo dost špatné. Doufám, že to nikdo neviděl.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9007,6 +9263,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CC9B"
 msgid "\"That sounds like an awesome responsibility.\""
 msgstr ""
+"\"To zní jako úžasná zodpovědnost.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9015,6 +9272,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CCA0"
 msgid "\"Sounds like kind of a hard job.\""
 msgstr ""
+"\"To zní jako tvrdá práce.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9023,6 +9281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD79"
 msgid "\"It was obvious. No other name would fit you.\""
 msgstr ""
+"\"Bylo to zřejmé. Žádné jiné jméno by k vám nesedělo.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9031,6 +9290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF14"
 msgid "\"Nope, it's to the north. Definitely north.\""
 msgstr ""
+"\"Ne-e, je to na severu. Určitě na severu.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9039,6 +9299,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF8E"
 msgid "\"Enough jokes, then. What was your request?\""
 msgstr ""
+"\"Dost tedy bylo vtipkování. Co je vaším požadavkem?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9103,6 +9364,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D406"
 msgid "\"I was just thinking about artillery systems.\""
 msgstr ""
+"\"Jen jsem myslel na dělostřelecké systémy.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9143,6 +9405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DEEB"
 msgid "\"Yes, and then?\""
 msgstr ""
+"\"Ano, a pak?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9191,6 +9454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E373"
 msgid "\"Good god, here we go...\""
 msgstr ""
+"\"Dobrý bože, tady to máme...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9223,6 +9487,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E67A"
 msgid "\"I'm fine.\""
 msgstr ""
+"\"Jsem v pořádku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9247,6 +9512,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002FA5"
 msgid "\"Answer the question, please.\""
 msgstr ""
+"\"Prosím, odpovězte na otázku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9327,6 +9593,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000038F7"
 msgid "\"An institutional crisis?\""
 msgstr ""
+"\"Institucionální krize?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9359,7 +9626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000403D"
 msgid "\"Me neither. Just keep trying. We'll get through these radio-spookers eventually.\""
 msgstr ""
-"\"To ani já. Jen to zkouš dál. Nakonec se přes tyhle rádiové bubáky dostaneme.\""
+"\"To ani já. Jen to zkoušej dál. Nakonec se přes tyhle rádiové bubáky dostaneme.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9377,7 +9644,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000439B"
 msgid "If you had something *alcoholic*, you could dissolve the oils, creating a cleaner (and clearer) connection."
 msgstr ""
-"Kdyby jsi měl u sebe nějaký alkohol, mohl bys ty oleje rozpustit a tím vytvořit čistší (a jasnější) spojení."
+"Kdybys měl u sebe nějaký alkohol, mohl bys ty oleje rozpustit a tím vytvořit čistší (a jasnější) spojení."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9386,7 +9653,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004411"
 msgid "Clean the connections with the ammonia."
 msgstr ""
-"Vyčisti spojení čpavkem."
+"Vyčisti spoje čpavkem."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9419,6 +9686,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300005353"
 msgid "(Say nothing.)"
 msgstr ""
+"(Nic neříkej.)"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9436,7 +9704,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C15F"
 msgid "Something about her son going to Vredefort on an aerostatic... to see some psychologists? Or maybe the psychologists are saying it's normal... to have feelings for strangers? Foreign languages were never your strong suit."
 msgstr ""
-"Něco o jejím synovi, který jede na Vredefort aerostatiky... aby viděl nějaké psychology? Možná že psychologové tvrdí, že je to zcela normální... mít city k cizím lidem? Cizí jazyky nikdy nebyly tvou silnou stránkou."
+"Něco o jejím synovi, který jede na Vredefort aerostatiky... aby navštívil psychology? Možná že psychologové tvrdí, že je to zcela normální... mít city k cizím lidem? Cizí jazyky nikdy nebyly tvou silnou stránkou."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9472,7 +9740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C576"
 msgid "\"Bad news.\" The speedfreak removes his sweat-drenched headphones. \"Even with the de-spooker flipped, the signal is still too weak to get down with...\""
 msgstr ""
-"\"Špatné zprávy.\" Rychlík si sundá jeho potem promočená sluchátka. \"I se zapnutým odbubákovačem je signál moc slabý na to, aby ho šlo správně zachytit\""
+"\"Špatné zprávy.\" Speedař si sundá potem zbrocená sluchátka. \"I se zapnutým odbubákovačem je signál moc slabý na to, aby ho šlo správně zachytit\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9499,6 +9767,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C896"
 msgid "Look at the horse."
 msgstr ""
+"Pohlédni na koně."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9524,6 +9793,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CC6D"
 msgid "\"I bet I can guess your name.\""
 msgstr ""
+"\"Vsadím se, že uhodnu vaše jméno.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9540,6 +9810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CD4B"
 msgid "\"You're 100% an Eliška.\""
 msgstr ""
+"\"Stoprocentně budete Eliška.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9548,6 +9819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CDC9"
 msgid "\"How are the benefits?\""
 msgstr ""
+"\"Jaké máte benefity?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9572,6 +9844,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D7D8"
 msgid "\"We're afraid that is quite impossible, Firewalker.\""
 msgstr ""
+"\"Obáváme se, že to je poněkud nemožné, Ohniváku.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9580,6 +9853,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000D7D8"
 msgid "\"We're afraid that is quite impossible, Officer Sunset.\""
 msgstr ""
+"\"Obáváme se, že to je poněkud nemožné, detektive Sunsete.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9588,6 +9862,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000F0000D7D8"
 msgid "\"We're afraid that is quite impossible, Detective Costeau.\""
 msgstr ""
+"\"Obáváme se, že to je poněkud nemožné, detektive Costeau.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9596,6 +9871,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000F0000D7D8"
 msgid "\"We're afraid that is quite impossible, Lieutenant Du Bois.\""
 msgstr ""
+"\"Obáváme se, že to je poněkud nemožné, poručíku Du Bois.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9660,6 +9936,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DE22"
 msgid "\"Wait, is there no other way?\""
 msgstr ""
+"\"Počkat, neexistuje jiný způsob?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9668,6 +9945,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DF52"
 msgid "\"But I'm afraid, Kim.\""
 msgstr ""
+"\"Ale já se bojím, Kime.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9740,6 +10018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E3FD"
 msgid "\"Go ahead and leave, you stupid whore!\""
 msgstr ""
+"\"Tak do toho, odejdi, ty blbá kurvo!\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9764,6 +10043,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E581"
 msgid "... and the line goes quiet."
 msgstr ""
+"... a linka ztichne."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9780,6 +10060,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E62F"
 msgid "Wait a little longer."
 msgstr ""
+"Počkej ještě chvíli."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9788,6 +10069,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E634"
 msgid "Climb down."
 msgstr ""
+"Slez dolů."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9812,6 +10094,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003A05"
 msgid "\"Of course. This is history we're talking about.\""
 msgstr ""
+"\"Samozřejmě. Je to historie, o čem mluvíme.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9877,7 +10160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003FEB"
 msgid "\"Coalition Warship Archer, this is Firewalker. Do you acknowledge?\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Firewalker. Potvrzujete?\""
+"\"Koaliční válečná lodi Střelec, tady Ohnivák. Potvrzujete?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9886,7 +10169,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005300003FEB"
 msgid "\"Coalition Warship Archer, this is Tequila Sunset. Do you acknowledge?\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Tequila Sunset. Potvrzujete?\""
+"\"Koaliční válečná lodi Střelec, tady Tequila Sunset. Potvrzujete?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9895,7 +10178,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100005300003FEB"
 msgid "\"Coalition Warship Archer, this is Detective Costeau. Do you acknowledge?\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady detektiv Costeau. Potvrzujete?\""
+"\"Koaliční válečná lodi Střelec, tady detektiv Costeau. Potvrzujete?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9904,7 +10187,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100005300003FEB"
 msgid "\"Coalition Warship Archer, this is Lieutenant Du Bois. Do you acknowledge?\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, poručík Du Bois. Potvrzujete?\""
+"\"Koaliční válečná lodi Střelec, zde poručík Du Bois. Potvrzujete?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9970,6 +10253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580001D65C"
 msgid "\"It's here.\""
 msgstr ""
+"\"A je tady.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -9986,7 +10270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C095"
 msgid "\"That's up to you. I don't know your *callsign*.\""
 msgstr ""
-"\"To je na robě. Já vaše *volací znaky* neznám.\""
+"\"To je na tobě. Já vaše *volací znaky* neznám.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10096,6 +10380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CDDF"
 msgid "\"Oh, it's fine...\""
 msgstr ""
+"\"Ach, to je v pořádku...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10112,6 +10397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CE91"
 msgid "\"What can you see?\""
 msgstr ""
+"\"Co vidíte?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10120,6 +10406,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF05"
 msgid "\"Yes. Look across the River Esperance.\""
 msgstr ""
+"\"Ano. Podívejte se přes řeku Naději.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10136,6 +10423,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CFE8"
 msgid "\"Mhmmm... ah. So *that* is Martinaise...\""
 msgstr ""
+"\"Mhmmm... ach. Takže *to* je Martinéza...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10168,6 +10456,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D185"
 msgid "\"Dolores Dei... she was really beautiful, right?\""
 msgstr ""
+"\"Dolores Dei... byla krásná, že ano?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10200,6 +10489,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E099"
 msgid "\"*Yes*, exactly.\""
 msgstr ""
+"\"*Ano*, přesně.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10240,6 +10530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E475"
 msgid "\"I suppose that's possible...\""
 msgstr ""
+"\"Řekl bych, že je to možné...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10328,6 +10619,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003D9F"
 msgid "\"Maybe? I've been forgetting things lately.\""
 msgstr ""
+"\"Možná? Poslední dobou jsem dost zapomínal věci.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10344,6 +10636,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300003E59"
 msgid "\"Like the city of Advesperascit, you mean.\""
 msgstr ""
+"\"Jako město Advesperascit, chcete říct.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10361,6 +10654,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000045CC"
 msgid "Look up."
 msgstr ""
+"Vzhlédni."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10404,7 +10698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C064"
 msgid "\"Coalition Warship Archer, this is RCM Officer Firewalker. Please acknowledge.\""
 msgstr ""
-"\"Koaliční válečná lodi Archer, tady Revacholský strážník Firewalker. Prosím, ozvěte se.\""
+"\"Koaliční válečná lodi Střelec, tady Revacholský strážník Ohnivák. Prosím, ozvěte se.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10440,7 +10734,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C4B4"
 msgid "\"Is that what this switch does? I'll flip it now.\""
 msgstr ""
-"\"K tomu je tenhle vypínáč? Tak já ho přepnu.\""
+"\"K tomu je tenhle vypínač? Tak já ho přepnu.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10449,7 +10743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C882"
 msgid "The speedfreak is right. The responsibility is yours and yours alone. There's no turning back now."
 msgstr ""
-"Rychlík má pravdu. Odpovědnost je jen a jen tvoje. Už není cesty zpět."
+"Speedař má pravdu. Odpovědnost je jen a jen tvoje. Už není cesty zpět."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10466,6 +10760,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CB93"
 msgid "\"Archer! Is that you?\""
 msgstr ""
+"\"Střelče! Jste to vy?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10474,6 +10769,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CBB5"
 msgid "\"Who am I speaking with?\""
 msgstr ""
+"\"S kým právě mluvím?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10490,6 +10786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CFA0"
 msgid "\"Maybe follow the motorway as far as it goes?\""
 msgstr ""
+"\"Možná následujte dálnici, co nejdál to půjde?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10554,6 +10851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DBED"
 msgid "\"And *how* do you know this?\""
 msgstr ""
+"\"A tohle víte *jak*?"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10562,6 +10860,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DD5D"
 msgid "The sky is grey and overcast."
 msgstr ""
+"Nebe je šedé a zatažené."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10610,6 +10909,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DE40"
 msgid "Keep waiting."
 msgstr ""
+"Čekej dál."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10618,6 +10918,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DEDD"
 msgid "\"I guess we wait.\""
 msgstr ""
+"\"Řekl bych, že počkáme.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10634,6 +10935,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DFF6"
 msgid "Look around, one last time."
 msgstr ""
+"Ještě se naposledy rozhlédni."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10650,6 +10952,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E406"
 msgid "... and the line goes quiet."
 msgstr ""
+"... a linka ztichne."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10658,6 +10961,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E4DF"
 msgid "\"Okay, Kim, I got it.\""
 msgstr ""
+"\"Dobře, Kime, chápu.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10666,6 +10970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E590"
 msgid "There, you really showed her."
 msgstr ""
+"Tak, a teď jsi jí ukázal."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10811,7 +11116,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004422"
 msgid "\"The connections are pretty dirty, but I don't have anything to clean them with.\""
 msgstr ""
-"\"Spojení jsou docela špinavé, ale nemám nic, s čím bych je mohl vyčistit.\""
+"\"Spoje jsou docela špinavé, ale nemám nic, s čím bych je mohl vyčistit.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10852,6 +11157,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004627"
 msgid "Keep it to yourself."
 msgstr ""
+"Nech si to pro sebe."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10893,7 +11199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000BF49"
 msgid "\"It's done. I believe we're ready.\" The lieutenant wipes his brow."
 msgstr ""
-"\"Hotovo. Myslím, že jsme připtaveni.\" Poručík si otře čelo."
+"\"Hotovo. Myslím, že jsme připraveni.\" Poručík si otře čelo."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10929,7 +11235,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C418"
 msgid "\"I've encountered this before. It's entroponetic crosstalk. This is a piece of the past mixing in with our signal.\""
 msgstr ""
-"\"S tímhle jsem se už dříve setkal. Je to entroponetický přeřek. Tohle je kus minulosti mísící se s naším signálem.\""
+"\"S tímhle jsem se už dříve setkal. Je to entroponetický přeslech. Tohle je kus minulosti mísící se s naším signálem.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -10974,7 +11280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000C69F"
 msgid "\"Did you *see* that bar work?\""
 msgstr ""
-"\"*Viděl* jsi tu práci s tyčí?\""
+"\"*Viděl* jsi tu práci s hrazdou?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11065,6 +11371,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CE0B"
 msgid "\"Me, I'm a workaholic. It's just what I do...\""
 msgstr ""
+"\"Já jsem workoholik. Takový už prostě jsem...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11073,6 +11380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CE26"
 msgid "A scoff from the lieutenant's channel."
 msgstr ""
+"Z poručíkova kanálu se ozve uchechtnutí."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11081,6 +11389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CEB7"
 msgid "\"You're above Revachol East then.\""
 msgstr ""
+"\"Takže jste nad Východním Revacholem.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11089,6 +11398,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF0A"
 msgid "\"Uh, sure. Let's go with west.\""
 msgstr ""
+"\"Uh, jasně. Řekněme, že západ.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11097,6 +11407,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000CF34"
 msgid "\"But to the north is all water...\""
 msgstr ""
+"\"Ale na severu je jen voda...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11129,6 +11440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D174"
 msgid "Dolores Dei... so, *so* beautiful."
 msgstr ""
+"Dolores Božská... tak moc, *tak* krásná."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11145,6 +11457,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000D401"
 msgid "\"I was just thinking about birds.\""
 msgstr ""
+"\"Jen jsem přemýšlel o ptácích.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11177,6 +11490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000DB8B"
 msgid "You hear the sound of a page ripping."
 msgstr ""
+"Slyšíš zvuk odtrhávané stránky."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11314,6 +11628,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E1EE"
 msgid "\"I'm sorry, Archer.\""
 msgstr ""
+"\"Mrzí mě to, Střelče.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11322,6 +11637,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000F0000E1EE"
 msgid "\"I'm sorry, Elena.\""
 msgstr ""
+"\"Mrzí mě to, Eleno.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11330,6 +11646,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E1F3"
 msgid "\"Wait! I've changed my--\""
 msgstr ""
+"\"Počkat! Rozmyslel jsem si -\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11362,6 +11679,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E4A5"
 msgid "\"Hmmm. Well, in that case...\""
 msgstr ""
+"\"Hmmm. No, v tom případě...\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11386,6 +11704,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0000E740"
 msgid "Climb down."
 msgstr ""
+"Slez dolů."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11394,6 +11713,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300002F22"
 msgid "\"But what if states *aren't* rational?\""
 msgstr ""
+"\"Ale co když státy *nejsou* racionální?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11402,6 +11722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000301F"
 msgid "Yes. Unquestionably, *irrevocably* alone..."
 msgstr ""
+"Ano. Nepopiratelně, *neodvolatelně* sám..."
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11426,6 +11747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000032C6"
 msgid "\"I'm here, Archer! What's the news?\""
 msgstr ""
+"\"Jsem zde, Střelče! Co je nového?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11474,6 +11796,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000039A1"
 msgid "\"Acknowledged. We are at your disposal.\""
 msgstr ""
+"\"Potvrzujeme. Jsme vám k dispozici.\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11482,6 +11805,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000053000039C3"
 msgid "\"What do these 'wings' represent?\""
 msgstr ""
+"\"Co tahle 'křídla' představují?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11522,6 +11846,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000530000465A"
 msgid "Wait, what's this 'better way'?"
 msgstr ""
+"Počkat, co je ten 'lepší způsob'?"
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11530,6 +11855,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300004FF5"
 msgid "\"Is everything alright?\""
 msgstr ""
+"\"Je všechno v pořádku?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
@@ -11546,6 +11872,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005300005363"
 msgid "\"Built for *me*?\""
 msgstr ""
+"\"Postavili ho pro *mě*?\""
 
 #. Title = JAM / COALITION WARSHIP ARCHER -- NOID VERSION
 #. Description = CUTSCENE where you attempt to contact Coalition Warship Archer with NOID. PART OF THE MORALIST DREAM QUEST
