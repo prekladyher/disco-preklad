@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD / JOYCE
 #. Description = "I met Joyce."
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001526B"
 msgid "\"Yes, we're all trying to do what's best for Martinaise.\" His smile widens. \"Don't feel like you shouldn't work with her just because you and I are such good friends. I'm not a jealous guy.\""
 msgstr ""
+"\"Ano. Všichni se snažíme dělat pro Martinézu jenom to nejlepší.\" Zeširoka se usmál. \"Neměj pocit, že bys s ní neměla pracovat jenom proto, že my dva jsme tak dobří přátelé. Nejsem žádný žárlivec.\" "
 
 #. Title = CONTAINERYARD / JOYCE
 #. Description = "I met Joyce."
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020F1A"
 msgid "\"One thing I wanna make very clear, Harry, is that this is not some kind of Union *versus* Corporation situation. Everyone is just pals here.\""
 msgstr ""
+"\"Chtěl bych vyjasnit jednu věc, Harry. Tohle není situace, ve které proti sobě stojí odbory a korporace. Tady jsme všichni kámoši.\""
 
 #. Title = CONTAINERYARD / JOYCE
 #. Description = "I met Joyce."
