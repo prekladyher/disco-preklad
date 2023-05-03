@@ -21,7 +21,7 @@ instalace závislostí pomocí příkazu `npm install`).
 
 Skript `game.js` umožnuje pracovat s _asset_ soubory.
 
-Herní soubory je nutné ručně extrahovat pomocí nástroje [UBAE](https://github.com/SeriousCache/UABE) do
+Herní soubory je nutné ručně extrahovat pomocí nástroje [UBAEA](https://github.com/nesrak1/UABEA) do
 složky `source/game/`. Očekávaná struktura souborů je:
 
 ```
@@ -63,4 +63,19 @@ Sloučení překladů jednoho souboru do projektových souborů:
 
 ```shell
 node scripts/l10n.js merge -g "target/WHIRLING F1.po" "source/l10n/cs/Dialogues/WHIRLING F1/*.po"
+```
+
+
+### Sestavení finálního překladu
+
+Pro sestavení finálního překladu je nutné vytvořit `shadow` složku se zdrojovými assety hry.
+Obsah složky by měl být následující:
+
+* `lockits/` - složka původními s lockit assety (UABEA export z `disco_Data/resources.assets` nebo `disco_Data/StreamingAssets/AssetBundles/Windows/images/{jazyk}`)
+* `images/` - složka s původními PNG texturami (UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/images/{jazyk}`)
+
+Pro sestavení překladu stačí zavolat následující příkaz:
+
+```bash
+CLEAN= LOCKIT= DIALOGUE= IMAGES= OTHERS= ./build.sh
 ```

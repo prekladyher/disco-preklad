@@ -34,7 +34,7 @@ export function resolver(schema) {
       case "int": return nativeType(4, "Int32LE");
       case "uint8": return nativeType(1, "UInt8");
       case "uint32": return nativeType(4, "UInt32LE");
-      case "uint64": return nativeType(8, "BigUInt64LE");
+      case "uint64": return nativeType(8, "BigUInt64LE", BigInt);
       case "float": return nativeType(4, "FloatLE");
       case "string": return stringType();
       default:
@@ -45,14 +45,14 @@ export function resolver(schema) {
 }
 
 /** @return {Type} */
-export function nativeType(size, type) {
+export function nativeType(size, type, convert = null) {
   const decoder = Buffer.prototype["read" + type];
   const encoder = Buffer.prototype["write" + type];
   return {
     decode: (buffer, offset) => [size, decoder.call(buffer, offset)],
     encode: (value) => {
       const buffer = Buffer.alloc(size);
-      encoder.call(buffer, value);
+      encoder.call(buffer, convert ? convert(value) : value);
       return [buffer];
     }
   };
@@ -103,9 +103,9 @@ export function arrayType(itemType) {
       length.writeUInt32LE(value.length);
       const buffers = [length];
       for (let item of value) {
-        buffers.push(...itemType.encode(item));
+        buffers.push(Buffer.concat(itemType.encode(item)));
       }
-      buffers.push(Buffer.alloc(padding(value.length)));
+      buffers.push(Buffer.alloc(padding(buffers.reduce((acc, buf) => acc + buf.length, 0))));
       return buffers;
     }
   };
@@ -146,8 +146,8 @@ export function structType(schema, resolve) {
       return schema.flatMap((property) => {
         const value = property.name in struct ? struct[property.name] : property.value;
         const buffers = resolve(property.type).encode(value);
-        const length = buffers.reduce((acc, buf) => acc + buf.length);
-        return length % 4 ? [Buffer.concat(buffers, padding(length))] : buffers;
+        const length = buffers.reduce((acc, buf) => acc + buf.length, 0);
+        return length % 4 ? [Buffer.concat(buffers), Buffer.alloc(padding(length))] : buffers;
       });
     }
   };

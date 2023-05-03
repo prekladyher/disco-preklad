@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM / HORSEBACK MONUMENT
 #. Description = On the traffic island in the jam, an old monument of Filippe III The Squanderer pointing towards an unknown location in the sea. The chest region seems to have suffered chip damage.
@@ -35,6 +43,7 @@ msgstr ""
 msgctxt "tooltip3/0x010000060001CF69"
 msgid "Dresscode: Royalist reenactor."
 msgstr ""
+"Styl oblečení: Fanoušek royalistických uniforem"
 
 #. Title = JAM / HORSEBACK MONUMENT
 #. Description = On the traffic island in the jam, an old monument of Filippe III The Squanderer pointing towards an unknown location in the sea. The chest region seems to have suffered chip damage.

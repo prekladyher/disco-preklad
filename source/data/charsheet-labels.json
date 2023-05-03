@@ -1,0 +1,448 @@
+{
+  "m_GameObject": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": "0"
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": "6576"
+    },
+    "m_Name": "CharsheetSkillLabelsEnglish"
+  },
+  "labelSettings": [
+    {
+      "skill": 1,
+      "labelText": "LOGIKA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.900023937225342
+      },
+      "nameplateSize": {
+        "x": 100,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 2,
+      "labelText": "ENCYKLOPEDIE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -7.300000190734863,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 127,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 3,
+      "labelText": "RÉTORIKA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": 1.2000000476837158,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 125.9000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 4,
+      "labelText": "DRAMA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -1.5,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 125.69999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 5,
+      "labelText": "KONCEPTUÁLNOST",
+      "fontSize": 15,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -14.5,
+        "y": 2.900023937225342
+      },
+      "nameplateSize": {
+        "x": 140,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 6,
+      "labelText": "VIZUÁLNÍ\nANALÝZA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.30000001192092896,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 90.69999694824219,
+        "y": 35.599998474121094
+      }
+    },
+    {
+      "skill": 7,
+      "labelText": "VŮLE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.30000001192092896,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 90.69999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 8,
+      "labelText": "VNITŘNÍ SVĚT",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -9,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 125,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 9,
+      "labelText": "EMPATIE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 107.4000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 10,
+      "labelText": "AUTORITA",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 106.4000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 12,
+      "labelText": "POLICEJNÍ\nDUCH",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 94.19999694824219,
+        "y": 35.790000915527344
+      }
+    },
+    {
+      "skill": 11,
+      "labelText": "SUGESTIVNOST",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -14,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 140,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 15,
+      "labelText": "ODOLNOST",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 106.4000015258789,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 18,
+      "labelText": "PRÁH\nBOLESTI",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -4,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 105,
+        "y": 36
+      }
+    },
+    {
+      "skill": 13,
+      "labelText": "FYZICKÁ\nVYBAVENOST",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -3.9000000953674316,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 109.19999694824219,
+        "y": 35
+      }
+    },
+    {
+      "skill": 14,
+      "labelText": "ELEKTROCHEMIE",
+      "fontSize": 17,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -14.5,
+        "y": 2.900023937225342
+      },
+      "nameplateSize": {
+        "x": 140,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 19,
+      "labelText": "MRAZENÍ\nV TÝLE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -3.9000000953674316,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 109.19999694824219,
+        "y": 35
+      }
+    },
+    {
+      "skill": 17,
+      "labelText": "POLOŠERO",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 108.12999725341797,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 20,
+      "labelText": "KOORDINACE\nRUKA/OKO",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "nameplateSize": {
+        "x": 122.5999984741211,
+        "y": 36
+      }
+    },
+    {
+      "skill": 21,
+      "labelText": "VNÍMÁNÍ",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 108.69999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 26,
+      "labelText": "RYCHLOST REAKCE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 110.19999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 27,
+      "labelText": "KOČIČÍ MRŠTNOST",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 110.19999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 28,
+      "labelText": "TECHNOLOGIE",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -4,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 107.19999694824219,
+        "y": 21.700000762939453
+      }
+    },
+    {
+      "skill": 29,
+      "labelText": "LEDOVÝ KLID",
+      "fontSize": 18,
+      "leftMargin": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "labelOffset": {
+        "x": -0.03024899959564209,
+        "y": 2.4000000953674316
+      },
+      "nameplateSize": {
+        "x": 107.0999984741211,
+        "y": 21.700000762939453
+      }
+    }
+  ]
+}

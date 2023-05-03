@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM / box of sun glasses
 #. Actor = Reaction Speed
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C5F9"
 msgid "Hey, at least it might actually offer some protection against the sun, not like those cheap plastic shades."
 msgstr ""
+"Hej, aspoň by tě trochu mohly ochránit před sluncem, a ne jako ta levná plastová stínítka."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C669"
 msgid "\"You're right, I'm too sensible for those.\""
 msgstr ""
+"\"Máte pravdu, na tyhle jsem příliš rozumný.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E9DD"
 msgid "\"And they can be yours for a mere three reál. My regular customers have passed them all up because they've got no taste, but *you* found them...\""
 msgstr ""
+"\"A mohou být vaše za pouhé tři reály. Moji stálí zákazníci je přehlíželi, protože se jim nelíbily, ale *vy* jste je našel...\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C61A"
 msgid "(Turn to the lieutenant.) \"Kim, are firefights something we should be prepared for?\""
 msgstr ""
+"(Obrať se na poručíka.) \"Kime, měli bychom být připraveni na přestřelky?\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000EEB"
 msgid "\"You like sunglasses, officer? I've got the latest styles, right here!\" The vendor takes a pair of sunglasses and sticks them under your nose."
 msgstr ""
+"\"Máte rád sluneční brýle, detektive? Mám tu pro vás nejnovější modely!\" Prodavač vezme sluneční brýle a strčí ti je rovnou pod nos."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00040FBE"
 msgid "Rummage through the box."
 msgstr ""
+"Prohrab krabici."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00040FD2"
 msgid "Try again, maybe you can find *some* interesting sunglasses in the box."
 msgstr ""
+"Zkus to znovu, možná v ní najdeš *nějaké* zajímavé sluneční brýle."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100002B00040FD2"
 msgid "Dresscode: Rummager."
 msgstr ""
+"Styl oblečení: Z bazaru."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C6C1"
 msgid "\"Sporty *and* practical, officer! Good choice.\""
 msgstr ""
+"\"Sportovní *a* praktické, detektive! Dobrá volba.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C620"
 msgid "Put the visor back."
 msgstr ""
+"Vrať je zpátky."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C66F"
 msgid "\"Damn, officer, you look like a mega-secret spy, very secret,\" the man nods eagerly. \"They're practically made for you. I'll let you have them for... two reál and fifty cents!\""
 msgstr ""
+"\"Zatraceně, detektive, vypadáte jako mega-tajný špion, moc tajný,\" muž horlivě přikývne. \"Jsou pro vás jako dělané. Nechám vám je za... dva reály a padesát centů!\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Perception (Sight)
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003F1DF"
 msgid "Alright, but these actually make your vision worse. It's like literally being under water."
 msgstr ""
+"Dobrá, ale ve skutečnosti zhoršují viditelnost. Je to jako být doslova pod vodou."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C69D"
 msgid "\"I'll take those ugly glasses.\""
 msgstr ""
+"\"Vezmu si tyhle ošklivé brýle.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Composure
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E8BE"
 msgid "It's going to be very difficult for anyone to take you seriously with these things on your face."
 msgstr ""
+"S těmito brýlemi bude obtížné, aby tě někdo bral vážně."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F52"
 msgid "\"Oh, that visor is perfect for you, officer. It'll definitely keep the sun out of your eyes while you're shooting criminals.\" The street vendor makes a bang-bang sound. \"And all for a mere six reál.\""
 msgstr ""
+"\"Tyhle jsou pro vás jak dělané, detektive. S nimi vám při střelbě na zločince určitě nebude svítit do očí.\" Pouliční prodejce vydá zvuk prásk-prásk. \"A to všechno za pouhých šest reálů.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C628"
 msgid "\"You don't like it? Sure, square-jaw, no problem. Let's get you some real shades.\""
 msgstr ""
+"\"Nelíbí se vám? Jasně, hranaté obroučky, žádný problém. Dáme vám nějaké skutečné brýle.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Kim Kitsuragi
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C62F"
 msgid "\"I hope not,\" he says, looking up from his browsing."
 msgstr ""
+"\"Doufám, že ne,\" řekne a zvedne oči od prohlížení."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C6EF"
 msgid "\"What, change your mind, officer?\""
 msgstr ""
+"\"Cože, rozmyslel jste si to, detektive?\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Inland Empire
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003F1E5"
 msgid "Yes, but they also make your soul quiver like jello. So deep."
 msgstr ""
+"Ano, ale také se ti z nich duše rozechvěje jako želé. Tak hluboko."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Box of Sunglasses
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00040FB2"
 msgid "There's a pile of cheap sunglasses in a small box, a variety of shapes and colours."
 msgstr ""
+"V té malé krabičce je hromada levných slunečních brýlí různých tvarů a barev."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Kim Kitsuragi
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C676"
 msgid "\"No, I can't... We can't walk around with you looking like this.\" His hand has already risen mid-air, but he stops. \"Okay, fine. Go ahead. If you want to look like a walking mid-life crisis, then who am I to interfere?\""
 msgstr ""
+"\"Ne, já nemůžu... Nemůžeme chodit kolem, když vypadáte takhle.\" Jeho ruka už se napůl vznesla do vzduchu, ale zarazí se. \"Dobře, fajn. Pokračujeme. Jestli chcete vypadat jako chodící krize středního věku, tak kdo jsem pak já, abych vám v tom bránil?\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C6B6"
 msgid "\"A man who knows his style,\" the street vendor nods. \"Much respect.\""
 msgstr ""
+"\"Muž, který zná svůj styl,\" přikývne pouliční prodejce. \"Velký respekt.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Volition
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005EA70"
 msgid "The lieutenant's reverse psychology fourberie doesn't work on you. If you want to look like a mega-secret mid-life crisis, that's your choice."
 msgstr ""
+"Poručíkova reverzní psychologická čtyřhra na tebe nefunguje. Jestli chceš vypadat jako mega-tajný člověk s krizí středního věku, tak je to tvoje volba."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F3D"
 msgid "\"I'll take those cool deep blue glasses.\""
 msgstr ""
+"\"Vezmu si ty super tmavě modré brýle.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F43"
 msgid "\"I'll take that Amphibian sports visor.\""
 msgstr ""
+"\"Vezmu si tyhle sportovní brýle Obojživelník.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Box of Sunglasses
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C641"
 msgid "Abort! These are hideous. What's more, they don't even fit your face. You can feel them pinching your nose and chafing against your brow."
 msgstr ""
+"Zadrž! Tyhle jsou hrozné. Navíc ti ani nesedí na obličeji. Musíš cítit, jak tě tlačí kolem nosu a lezou ti do čela."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F14"
 msgid "\"Oh, very interesting choice, officer, very *high-culture*...\" For the first time the street vendor's voice trails off, as he watches you inspect the glasses."
 msgstr ""
+"\"Ou, velice zajímavá volba, detektive, velice *kultivované*...\" Poprvé se hlas pouličního prodavače vytrácí, když sleduje, jak si prohlížíš brýle."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F1C"
 msgid "\"Wow, officer, you look so cool,\" the street vendor has picked up his pace again, as you observe the world through deep sea-tinted lenses."
 msgstr ""
+"\"Páni, detektive, vypadáte tak skvěle,\" pouliční prodejce opět přidá na tempu, zatímco ty pozoruješ svět skrz čočky zbarvené jako hluboké moře."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F24"
 msgid "\"Kim, what about these?\""
 msgstr ""
+"\"Kime, a co tyhle?\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Conceptualization
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E944"
 msgid "This is how a sea monster sees the world. You've become a sea monster -- giant, hidden and... strangely tender at heart. All is blue."
 msgstr ""
+"Takhle nějak vidí svět mořská příšera. Stal jsi se mořskou příšerou - obří, skrytou a... zároveň podivně něžnou v srdci. Všechno je tak modré."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Conceptualization
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002B0005E944"
 msgid "This is how a sea monster sees the world. You've become a sea monster, Harry -- giant, hidden and... strangely tender at heart. All is blue. "
 msgstr ""
+"Takto nějak vidí svět mořská příšera. Stal jsi se mořskou příšerou, Harry - obrovskou, skrytou a... zároveň podivně něžnou v srdci. Všechno je tak modré. "
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F0C"
 msgid "Try them on."
 msgstr ""
+"Zkus si je."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Savoir Faire
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F000149D9"
 msgid "Stylish shades, huh? They'd be even more stylish if you paid for them with net worth. Go over and ask him."
 msgstr ""
+"Stylové brýle, že? Byly by ještě stylovější, kdybys za ně zaplatil čistou cenu. Zajdi za ním a zeptej se ho na ně."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C663"
 msgid "\"Don't tell me what to do, Kim. I like those sunglasses.\""
 msgstr ""
+"\"Neříkejte mi, co mám dělat, Kime. Ty sluneční brýle se mi prostě líbí.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Kim Kitsuragi
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E8D4"
 msgid "\"You look like a musician,\" he declares, eyes still squinted behind his own glasses. \"Like a *blind* musician. But you could do worse. Take them if you want.\""
 msgstr ""
+"\"Vypadáte jako muzikant,\" prohlásí s přimhouřenýma očima skrz vlastní brýle. \"Jako *slepý* muzikant. Ale mohl byste dopadnout hůř. Vezměte si je, jestli chcete.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000EF3"
 msgid "\"These are all first-rate sunglasses!\" the man declares. \"Premium design, superb material, *very cool* UV-resistant! These will definitely keep your eyes safe *and* cool while doing your dangerous police work.\""
 msgstr ""
+"\"To všechno jsou prvotřídní sluneční brýle!\" prohlásí muž. \"Prvotřídní design, vynikající materiál, *velmi skvělá* odolnost proti UV záření! Tyhle brýle rozhodně udrží vaše oči v bezpečí *a* v pohodě při vaší nebezpečné policejní práci.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000F2A"
 msgid "Put them back."
 msgstr ""
+"Vrať je zpátky."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00040FCA"
 msgid "[Leave for now.]"
 msgstr ""
+"[Prozatím odejdi.]"
 
 #. Title = JAM / box of sun glasses
 #. Actor = Conceptualization
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00041027"
 msgid "Ah, I see... A pair of waterblue shades. The writing on the left temple says: \"Sub-Insulindic Rendezvous.\" The frame appears to be hand-carved out of bone."
 msgstr ""
+"Aha, rozumím... Pár vodově modrých brýlí. Na levé obroučce je napsáno: \"Sub-inzulindické setkání.\" Obroučky se zdají být vyrobeny z ručně vyřezaných z kostí."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Kim Kitsuragi
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A821"
 msgid "\"A pity,\" the lieutenant says. \"Those actually weren't half bad.\""
 msgstr ""
+"\"Jaká škoda,\" řekne poručík. \"Ty vlastně nebyly vůbec špatné.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Kim Kitsuragi
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C655"
 msgid "\"No,\" the lieutenant gently removes the glasses from your face, setting you free again. \"You're definitely not buying those.\""
 msgstr ""
+"\"Ne,\" poručík jemně sundá brýle z tvého obličeje a znovu tě osvobodí. \"Ty si rozhodně nekupujte.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003F2B1"
 msgid "\"The shine on these sunglasses lasts a lifetime, officer! One hundred percent guaranteed!\""
 msgstr ""
+"\"Lesk těchto slunečních brýlí vydrží celý život, detektive! Na sto procent!\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Drama
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C602"
 msgid "Those UV-stickers are almost certainly just there for show. If anything, these lenses probably direct more UV light *into* your pupils -- a UV magnifier."
 msgstr ""
+"Ty UV nálepky jsou tam skoro jistě jen na parádu. Když už nic jiného, tak tyhle čočky pravděpodobně směřují více UV záření *do* tvých zorniček - UV lupa."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C685"
 msgid "\"Are you sure? But they look so good on you!\" The street vendor frowns. \"You should think this through, officer.\""
 msgstr ""
+"\"Jste si jistý? Hrozně vám sluší!\" Pouliční prodejce se zamračí. \"Měl byste si to rozmyslet, detektive.\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Electrochemistry
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E8B9"
 msgid "They're perfect for concealing your bloodshot and baggy eyes."
 msgstr ""
+"Skvěle zakryjí tvoje krví podlité oči a váčky."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Box of Sunglasses
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00040FDA"
 msgid "These are all boring. Boring third-rate ho-hum sunglasses made of cheap Seraise plastic. The kind of plastic that melts in the sun."
 msgstr ""
+"Všechny jsou tak nudné. Nudné sluneční brýle třetí kategorie z levného plastu z Seraise. Z plastu, který se na slunci rozpouští."
 
 #. Title = JAM / box of sun glasses
 #. Actor = Conceptualization
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B00041039"
 msgid "No luck. All you find is this... lime-coloured cellophane visor? Produced by a bargain sportswear brand called Amphibian, apparently. There's a malformed green frog on its bent cap."
 msgstr ""
+"Bez šance. Jediné, co najdeš, je tohle... celofánové stínítko v barvě limetky? Vyrábí ho zřejmě nějaká výhodná značka sportovního oblečení jménem Obojživelník. Na jeho ohnutém konci je znetvořená zelená žába."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C63A"
 msgid "Try the shades on."
 msgstr ""
+"Zkus si brýle nasadit."
 
 #. Title = JAM / box of sun glasses
 #. Actor = You
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002B0005C63A"
 msgid "\"Give me those shades you recommended.\" (Try them on.)"
 msgstr ""
+"\"Dejte mi ty brýle, které jste mi doporučil.\" (Vyzkoušej si je.)"
 
 #. Title = JAM / box of sun glasses
 #. Actor = Siileng
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C6AA"
 msgid "\"A good starter pair, officer! And when you're ready to upgrade, come back and see me!\""
 msgstr ""
+"\"Dobrý startovní pár, detektive! A až budete připraven na vyšší úroveň, přijďte za mnou!\""
 
 #. Title = JAM / box of sun glasses
 #. Actor = Kim Kitsuragi
@@ -360,3 +418,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005C6E9"
 msgid "The lieutenant tilts his head and steps back, eyes narrowed in a thorough examination. It's a case to him."
 msgstr ""
+"Poručík nakloní hlavu a ustoupí, oči zúžené v důkladné prohlídce. Pro něj je to další případ."

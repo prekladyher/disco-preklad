@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CC0"
 msgid "\"Kim, I think I should tell people to fuck off more often. It felt really good.\""
 msgstr ""
+"\"Kime, myslím, že bych měl lidem říkat častěji, ať jdou do prdele. Byl to fakt dobrý pocit.\""
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CDC"
 msgid "That means you should do it whenever you feel like someone's disrespecting your authority."
 msgstr ""
+"To znamená, že bys to měl dělat, kdykoliv budeš mít pocit, že někdo nerespektuje tvoji autoritu."
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CEB"
 msgid "No, you shouldn't. You're an officer of the law."
 msgstr ""
+"Ne, neměl bys. Jsi důstojníkem práva."
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000009B5"
 msgid "That's the spirit!"
 msgstr ""
+"O tom to je!"
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CCE"
 msgid "\"Not as a general rule, but that one was justified. Better to get the lay of the land before telling people to fuck off.\""
 msgstr ""
+"\"Neplatí to obecně, ale v tom případě to bylo ospravedlněné. Než budete posílat lidi do prdele, je vždy lepší nejprve zvážit situaci.\""
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CF5"
 msgid "Never forget: The whole world's a wooden house and you're a god damn flamethrower."
 msgstr ""
+"Nikdy nezapomeň: Celý svět je jen kůlnička na dříví, a ty jsi zatracený plamenomet."
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CFB"
 msgid "Hey, I've got an idea on how to fix your style. Maybe you should just go fuck yourself? Yeah, ever thought of that?"
 msgstr ""
+"Hej, měl bych nápad, jak spravit tvůj styl. Možná bys moh jít ty do prdele? Jo, napadlo tě to někdy?"
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CB2"
 msgid "Damn, that felt *good*. Your heart's pounding nicely. You should tell people to fuck off more often."
 msgstr ""
+"Sakryš, to byl *skvělý* pocit. Tvoje srdce příjemně buší. Měl bys lidem říkat častěji, ať jdou do prdele."
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CB9"
 msgid "Fuck yeah, motherfuckers!"
 msgstr ""
+"Kurva že jo, sráči!"
 
 #. Title = JAM ORB / fuckoffafterthought
 #. Description = Afterthought dialogue if you told the lorry driver to fuck off.
@@ -73,3 +90,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A00002CC6"
 msgid "It's not really my style."
 msgstr ""
+"To fakt není můj styl."

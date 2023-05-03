@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001640"
 msgid "\"I'll just keep the Cor-de-Leite in the channel, if that's okay. It's too shallow near the pier...\" She winds the mooring line around a post."
 msgstr ""
+"\"Prostě nechám Cor-de-Leite v průlivu, jestli to nevadí. U mola je příliš mělká voda....\" Obtočí kotevní lano okolo sloupku."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001694"
 msgid "\"It's good to see you here. I only just arrived myself.\""
 msgstr ""
+"\"Ráda vás tu vidím. Sama jsem právě dorazila.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016C4"
 msgid "\"Well, it was good running into you.\" [Leave.]"
 msgstr ""
+"\"No, rád jsem na vás narazil.\" [Odejdi.]"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016DE"
 msgid "\"What brings you here?\""
 msgstr ""
+"\"Copak vás sem přivádí?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001705"
 msgid "...then secures the mooring line. \"It's good to see you here, detective. I only just arrived myself.\""
 msgstr ""
+"... potom upevní kotvící lano. \"Ráda vás tu vidím, detektive. Sama jsem právě dorazila.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001780"
 msgid "\"Hmh... How *do* I like it?\" She casts her gaze toward the village -- slush melting on the cinder blocks, construction work left half-finished ten years ago..."
 msgstr ""
+"\"Hmm... Jak se mi to líbí?\" Vrhne pohled směrem k vesnici - břečka taje na škvárobetonu, stavební práce zůstaly nedokončené deset let nazpět...."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001894"
 msgid "What is this? Destruction of property? Hooliganism? Elder abuse? And who is this *scamp*, anyway?"
 msgstr ""
+"Co to má být? Ničení majetku? Chuligánství? Zneužívání starých lidí? A kdo je vůbec ten *spratek*?"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000174D"
 msgid "\"Oblivion -- that's so me.\""
 msgstr ""
+"\"Zapomnění - to jsem celý já.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017EB"
 msgid "\"The place is doomed either way.\""
 msgstr ""
+"\"Tak jako tak, to místo je odsouzené k zániku.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000181C"
 msgid "\"The children carry them up. Come May, the streets will be flooded...\" Outside the wind rattles the loose hatches. \"*Flooded* with cheap weapons. In angry hands.\""
 msgstr ""
+"\"Děti je vynášejí ven. Přijde květen, a ulice budou zaplavené...\" Venku vítr mlátí volnými okenicemi. \"*Zaplavené* levnými zbraněmi. V rukou rozzuřených.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000184A"
 msgid "\"Oh, I'm not *frightened*, officer. I'd never...\" She leans against the railing, looking up at the grey sky."
 msgstr ""
+"\"Ach, já nejsem *vyděšená*, detektive. Já bych nikdy...\" Opře se o zábradlí a pohlédne k šedému nebi."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EFB8"
 msgid "\"Perhaps you shouldn't have. I sort of liked it on her...\" She leans against the railing, looking up at the grey sky."
 msgstr ""
+"\"Asi jste ho neměl brát. Mně se na ní docela líbil...\" Opře se o zábradlí a pohlédne k šedému nebi."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000167A"
 msgid "\"This isola?\""
 msgstr ""
+"\"Tuhle izolu?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001742"
 msgid "\"What brings you here, madam?\""
 msgstr ""
+"\"Copak vás sem přivádí, madam?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000177A"
 msgid "\"So how do you like it here?\" (Look around.)"
 msgstr ""
+"\"Tak jak se vám tady líbí?\" (Rozhlédni se.)"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017AD"
 msgid "\"Remind me to tell you one day.\" She corrects the scarf around her neck. \"For now -- how can I assist you in this new location?\""
 msgstr ""
+"\"Někdy mi připomeňte, ať vám to povykládám.\" Upraví si šálu okolo krku. \"A teď - jak vám ve své nové pozici mohu být nápomocná?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001839"
 msgid "\"They're antiques,\" says Lieutenant John 'The Archetype' McCoy to his partner. \"They're digging them up from the catacombs now, fixing them. Old caches from the Revolution. \""
 msgstr ""
+"\"Jsou to starožitnosti,\" říká poručík Jan \"Archetyp\" Plachý svému parťákovi. \"Vyhrabávají je z katakomb a opravujou. Staré skrýše z dob Revoluce.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018FB"
 msgid "\"Have I told you how they discovered this place?\" The wind picks up, her raincoat flaps in the gust."
 msgstr ""
+"\"Už jsem vám říkala, jak tohle místo objevili?\" Zvedne se vítr a v jeho poryvu zatřepetá její pláštěnka."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001901"
 msgid "\"You're not alone. Neither do most of these people -- the literacy rate is around 45% west of the river. Fifty years of occupation have left these people in an *oblivion* of poverty.\""
 msgstr ""
+"\"To nejste sám. Neví to ani většina lidí okolo - gramotnost na západním břehu řeky je okolo 45%. Padesát let okupace ty lidi zanechalo v propasti chudoby a zapomnění.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008900001901"
 msgid "\"Well, your condition has left you no worse off than most of these people -- the literacy rate is around 45% west of the river. Fifty years of occupation have left these people in an *oblivion* of poverty.\"\n"
 msgstr ""
+"\"No, váš stav vás nezanechal v horší pozici, než většinu z těchto lidí - na západním břehu řeky je gramotnost okolo 45%. Padesát let okupace tyto lidi zanechalo v propasti chudoby a zapomnění.\"\n"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018EE"
 msgid "\"It's just as well -- Lilienne and I are getting on much better. For one, she appreciates the concept of *rent*.\""
 msgstr ""
+"\"To se daří dobře - Liliana a já spolu začínáme vycházet mnohem lépe. Zaprvé, oceňuje koncept *nájmu*.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007D4A"
 msgid "\"That they don't...\" She leans against the railing, looking up at the grey sky."
 msgstr ""
+"\"Že nemá...\" Opře se o zábradlí a pohlédne k šedému nebi."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -195,6 +225,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018B1"
 msgid "\"Sounds like Cindy the SKULL alright. Want me to book her?\""
 msgstr ""
+"\"To zní zrovna jako Cindy LEBKA. Mám ji předvolat na stanici?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -203,6 +234,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000089000018B1"
 msgid "\"Who is this *scamp*? Want me to look into it?\""
 msgstr ""
+"\"Kdo je ten *spratek*? Mám se jím zabývat?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -211,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018C6"
 msgid "\"No need -- Lilienne and I are getting on much better. For one, she appreciates the concept of *rent*.\""
 msgstr ""
+"\"Není třeba - Liliana a já spolu začínáme vycházet mnohem lépe. Zaprvé, oceňuje koncept *nájmu*.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -219,6 +252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000176D"
 msgid "\"Hello, detectives.\" She fastens the end of the line around the post and straightens her back."
 msgstr ""
+"\"Zdravím, detektivové.\" Upevní konec lana okolo sloupku a narovná záda."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -227,6 +261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001855"
 msgid "\"She could easily just...\" She leans against the railing, looking up at the grey sky."
 msgstr ""
+"\"Mohla by prostě...\" Opře se o zábradlí a pohlédne k šedému nebi."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -235,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000189A"
 msgid "\"Thank you, ma'am. Do keep an eye on your boat.\""
 msgstr ""
+"\"Děkujeme, madam. Dávejte na svůj člun pozor.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -243,6 +279,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018E6"
 msgid "\"No -- the Insulindian isola.\""
 msgstr ""
+"\"Ne - Inzulindickou izolu.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -251,6 +288,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00012CC9"
 msgid "The woman is tying a complicated nautical knot around the post."
 msgstr ""
+"Žena uvazuje okolo sloupu složitý námořnický uzel."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -259,6 +297,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016B6"
 msgid "\"Do we?\" He glances at his watch. It doesn't look like he does."
 msgstr ""
+"\"My máme?\" Pohlédne si na hodinky. Nevypadá to, že by měl."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -275,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001861"
 msgid "It's early spring and the rains are coming. An officer enters a low hut of stone and wood. Inside, weapons are piled against the walls. Rifles with splintering stocks... and swords. Tens if not hundreds."
 msgstr ""
+"Je časné jaro a přicházejí deště. Důstojník vejde do chatrče z kamení a dřeva. Uvnitř jsou u stěn naskládané zbraně. Pušky s tříštivými náboji... a meče. Stovky, pokud ne rovnou tisíce."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -299,6 +339,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017D3"
 msgid "\"Tell me something else then.\""
 msgstr ""
+"\"Řekněte mi tedy něco jiného.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -307,6 +348,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001815"
 msgid "\"Of course -- how fortuitous that I'm so close at hand. What do you need?\""
 msgstr ""
+"\"Samozřejmě - jaká to šťastná náhoda, že jsem takto po ruce. Copak potřebujete?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -315,6 +357,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C61A"
 msgid "All right. Politics time. Let's *react*."
 msgstr ""
+"Výborně. Čas na politiku. *Zareagujme*."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -331,6 +374,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001674"
 msgid "Something about the way she says it makes you want to sing."
 msgstr ""
+"Něco na tom způsobu, jakým to říká, tě nutí do zpěvu."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -339,6 +383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016CD"
 msgid "She's tying a complicated nautical knot around the post."
 msgstr ""
+"Uvazuje okolo sloupu složitý námořnický uzel."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -347,6 +392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016FF"
 msgid "\"I hear you have singled out a *suspect* and are in pursuit. This is cause for cautious optimism -- I would not want to delay you...\""
 msgstr ""
+"\"Slyšela jsem, že jste vytipovali *podezřelou* a stíháte ji - což je důvod k opatrnému optimismu. Jak vám na tomto rozcestí mohu pomoci...\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -355,6 +401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001787"
 msgid "\"This... fishing village?\""
 msgstr ""
+"\"Tuhle... rybářskou vesnici?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -371,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001797"
 msgid "\"Have you been spying on me?\""
 msgstr ""
+"\"Špehovala jste mě?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -379,6 +427,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008900001797"
 msgid "\"Have you been spying on us?\""
 msgstr ""
+"\"Špehovala jste nás?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -387,6 +436,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000179F"
 msgid "\"'Spying' has such a negative connotation. I did track your progress along the coast, however, and decided I would be better able to assist you from here...\""
 msgstr ""
+"\"'Špehování' má tak negativní konotaci. Nicméně, sledovala jsem váš postup podél pobřeží, a rozhodla se, že bude lepší, když vám budu nápomocná odtud...\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -395,6 +445,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001912"
 msgid "\"Do you know how they discovered this place?\" The wind picks up, her raincoat flaps in the gust."
 msgstr ""
+"\"Chcete vědět, jak tohle místo objevili?\" Zvedne se vítr a v jeho poryvu zatřepetá její pláštěnka."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -403,6 +454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016EC"
 msgid "\"I need your help with something, right away! No time to talk!\""
 msgstr ""
+"\"Potřebuji s něčím pomoct, hned teď! Není čas na řeči!\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -411,6 +463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017B3"
 msgid "You detect a note of longing in her voice."
 msgstr ""
+"V jejím hlase slyšíš náznak stesku."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -419,6 +472,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017D9"
 msgid "\"It's pornographically poor. The street has no name, all the men are dead or missing... and is that the carcass of a motor carriage over there?\" She squints her eyes..."
 msgstr ""
+"\"Je to tady pornózně chudé. Ta ulice nemá žádné jméno, všichni muži jsou mrtví nebo zmizelí... a vidím támhle mršinu motorového kočáru?\" Přimhouří oči..."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -427,6 +481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000180D"
 msgid "\"Maybe...\" She leans against the railing, looking up at the grey sky."
 msgstr ""
+"\"Možná...\" Opře se o zábradlí a pohlédne k šedému nebi."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -443,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018D7"
 msgid "\"No, I don't know how they discovered it.\""
 msgstr ""
+"\"Ne, nevím, jak ji objevili.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -451,6 +507,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000089000018D7"
 msgid "\"No, you haven't told me how they found it.\""
 msgstr ""
+"\"Ne, neřekla jste mi, jak ji objevili.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -459,6 +516,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018DF"
 msgid "\"Then there's the matter of that little scamp in old-lady clothes. She threatened to paint the Cor-de-Leite red. Like blood, you see. Well, I like it the way it is -- white.\""
 msgstr ""
+"\"A pak je tady ta záležitost toho spratka v babičkovských šatech. Hrozila mi, že červeně pomaluje moji Cor-de-Leite. Jakoby krví, chápete. No, mám ji ráda takovou, jaká je - bílou.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -467,6 +525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018F5"
 msgid "\"That's just Cindy being Cindy. You can ignore her.\""
 msgstr ""
+"\"Taková už Cindy prostě je. Můžete ji ignorovat.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -475,6 +534,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000190B"
 msgid "\"I'm surprised that woman hasn't put me to the sword yet. Maybe she will? You should ask your questions while you can.\""
 msgstr ""
+"\"Jsem překvapená, že mě ta žena dosud neseznámila s tím mečem. Možná to udělá? Měl byste mi položit otázky, dokud můžete.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -491,6 +551,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001EFB1"
 msgid "\"Don't worry. I got her sword.\" (Show it.)"
 msgstr ""
+"\"Nedělejte si starosti. Dostal jsem její meč.\" (Ukaž ho.)"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -499,6 +560,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001762"
 msgid "\"What is an isola, exactly?\""
 msgstr ""
+"\"Izola, co to přesně je?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -507,6 +569,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017E0"
 msgid "\"Of course. I hear you have singled out a *suspect* and are in pursuit -- this is cause for cautious optimism. How can I help you at this juncture?\""
 msgstr ""
+"\"Samozřejmě. Slyšela jsem, že jste vytipovali *podezřelou* a stíháte ji - což je důvod k opatrnému optimismu. Jak vám na tomto rozcestí mohu pomoci?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -515,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001876"
 msgid "\"She's a woman. She doesn't know how to use a sword.\""
 msgstr ""
+"\"Je to ženská. Neví, jak zacházet s mečem.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -523,6 +587,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000172D"
 msgid "Their cloud shadows slide over the ruins of Revachol West -- wherever they pass, the temperature drops slightly but perceptibly."
 msgstr ""
+"Stíny mraků přejedou přes ruiny Západního Revacholu - kudy proplují, tam mírně, ale znatelně poklesne teplota."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -531,6 +596,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001774"
 msgid "\"Fortunately for you, madam, the RCM is on the scene.\""
 msgstr ""
+"\"Naštěstí pro vás, madam, ROM dorazila na scénu.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -539,6 +605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001801"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -547,6 +614,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018AB"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -555,6 +623,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000018B9"
 msgid "Leave it be."
 msgstr ""
+"Nech to být."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -563,6 +632,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007D3A"
 msgid "\"You're right to be scared. This is all your fault.\""
 msgstr ""
+"\"Vyděšená jste poprávu. Všechno je to vaše chyba.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -571,6 +641,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007D41"
 msgid "\"You're in no danger.\" (Whisper) \"The working class have no idea what's happening to them.\""
 msgstr ""
+"\"Nehrozí vám žádné nebezpečí.\" (Zašeptej.) \"Dělnická třída nemá ponětí, co se jí vlastně děje.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -579,6 +650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C622"
 msgid "Real men, real politics, real thoughts in your head!"
 msgstr ""
+"Praví muži, pravá politika, pravé myšlenky uvnitř tvojí hlavy!"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -587,6 +659,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016BE"
 msgid "You leave her fastening the mooring line around the post rotting in the water."
 msgstr ""
+"Necháš ji vázat kotvící lano okolo sloupku hnijícího ve vodě."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -595,6 +668,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017C9"
 msgid "Water drips down eaves of eternite. The jetty below her feet creaks to the tune."
 msgstr ""
+"Voda skapává z eternitových plátů. Molo pod jejíma nohama skřípe do rytmu."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -603,6 +677,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017F5"
 msgid "\"Try not to be scared. This is just how the *real* city looks.\""
 msgstr ""
+"\"Zkuste nebýt vyděšená. Takhle prostě *skutečné* město vypadá.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -611,6 +686,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600007D6A"
 msgid "This story she will tell only before she *leaves* Martinaise. At the very end of her stay."
 msgstr ""
+"Příběh, který řekne těsně předtím, než *opustí* Martinézu. Na úplném konci jejího pobytu."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -619,6 +695,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001647"
 msgid "\"Aye, ma'am... And it's a jetty, by the way.\""
 msgstr ""
+"\"Aj, madam... A říká se tomu molo, mimochodem.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -627,6 +704,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001757"
 msgid "\"I'm guessing you *don't* know then...\""
 msgstr ""
+"\"Hádám, že tedy *nevíte*.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -635,6 +713,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017A6"
 msgid "\"No matter -- Lilienne and I are getting on much better. For one, she appreciates the concept of *rent*.\""
 msgstr ""
+"\"Ale to je jedno - Liliana a já spolu začínáme vycházet mnohem lépe. Zaprvé, oceňuje koncept *nájmu*.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -643,6 +722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017C3"
 msgid "The smell of salt and dog shit in the background."
 msgstr ""
+"Zápach soli a psích výkalů v pozadí."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -651,6 +731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000188C"
 msgid "What is this? Destruction of property? Hooliganism? Elder abuse?"
 msgstr ""
+"Co to má být? Ničení majetku? Chuligánství? Zneužívání starých lidí?"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -659,6 +740,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000164E"
 msgid "\"This island?\""
 msgstr ""
+"\"Tenhle ostrov?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -667,6 +749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001661"
 msgid "\"Hello, ma'am.\""
 msgstr ""
+"\"Zdravím, madam.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -675,6 +758,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000168D"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -683,6 +767,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001822"
 msgid "The woman is tying a complicated nautical knot around the post, while occasionally exchanging a few words with the other woman."
 msgstr ""
+"Žena uvazuje okolo sloupku složitý námořnický uzel a občas si vymění pár slov s druhou ženou."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -691,6 +776,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100008900001822"
 msgid "The woman is tying a complicated nautical knot around the post while occasionally exchanging a few words with Lilienne, the Net Picker."
 msgstr ""
+"Žena uvazuje okolo sloupu složitý námořnický uzel a občas si vymění pár slov se Síťařkou Lilianou."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -699,6 +785,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001687"
 msgid "\"Yes -- Insulinde.\""
 msgstr ""
+"\"Ano - Inzulindii.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -707,6 +794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000169B"
 msgid "\"Hello, detective.\" She fastens the end of the line around the post and straightens her back."
 msgstr ""
+"\"Zdravím, detektive.\" Upevní konec lana okolo sloupku a narovná záda."
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -715,6 +803,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016F2"
 msgid "\"...maybe there is something else I can assist you with? While you're *hot* in pursuit?\""
 msgstr ""
+"\"... možná je něco jiného, s čím bych vám mohla pomoci? Zatímco následujete *horkou* stopu?\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -723,6 +812,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000183F"
 msgid "Above you there forms a quilt of altocumulus clouds, twisting into each other. The wind tugs and stretches them over the bay."
 msgstr ""
+"Nad tebou se formuje peřina z obláčků vyvýšené kupy,  proplétajících se navzájem. Vítr je tlačí a roztahuje po celé zátoce. "
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -731,6 +821,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000016E4"
 msgid "\"Tell me now, I have time.\""
 msgstr ""
+"\"Povězte mi to teď, mám čas.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -739,6 +830,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000089000016E4"
 msgid "\"Tell me now, we have time.\""
 msgstr ""
+"\"Povězte mi to teď, máme čas.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -747,6 +839,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000171B"
 msgid "...then secures the mooring line. \"It's good to see you here, detectives. I only just arrived myself.\""
 msgstr ""
+".. potom upevní kotvící lano. \"Ráda vás tu vidím, detektivové. Sama jsem právě dorazila.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -755,6 +848,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001733"
 msgid "\"I knew you would sympathize.\" She nods. \"Most Revacholians will never know what this place means, our home -- this island of matter. Or why they were ferried over in the first place...\""
 msgstr ""
+"\"Věděla jsem, že jim porozumíte.\" Pokývne. \"Většina Revacholiánů se nikdy nedozví, co tohle místo znamená, náš domov - tenhle ostrov hmoty. Nebo proč sem vůbec byli přivezeni...\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -763,6 +857,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000017FB"
 msgid "\"It's a pity. Most of these people will never know what this place means -- this island of matter. Or why they were ferried over in the first place...\""
 msgstr ""
+"\"Je to škoda. Většina těchto lidí se nikdy nedozví význam tohoto místa - tohoto ostrova hmoty. Nebo proč sem vůbec byli přivezeni...\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -771,6 +866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900001807"
 msgid "\"Forty-five percent is around where I operate. Things are getting better though.\""
 msgstr ""
+"\"Čtyřicet pět procent, natolik já asi funguji. Nicméně se to zlepšuje.\""
 
 #. Title = VILLAGE / JOYCE
 #. Description = Joyce has sailed to village once you're looking for instigator. She's talking to net picker about sailing. Extra content about village and why she sailed there. GREETING HERE!
@@ -779,3 +875,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000182B"
 msgid "Dark eyes survey the coast leading up to Martinaise. Dull grey metal rests in her scabbard -- a sword. The wind is too loud for her to hear..."
 msgstr ""
+"Temné oči sledují pobřeží vedoucí k Martinéze. Matně šedý kov spočívá v pochvě - meč. Vítr je příliš silný na to, aby slyšela..."

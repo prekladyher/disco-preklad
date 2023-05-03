@@ -69,9 +69,9 @@ const BaseField = {
       const $schema = Symbol.for("$schema");
       const result = [];
       for (let fieldDef of value[$schema] || []) {
-        result.push({ value: value[fieldDef.title], ...fieldDef.title });
+        result.push({ value: value[fieldDef.title], ...fieldDef });
       }
-      return result;
+      return { fields: result };
     }
   }
 };
@@ -224,9 +224,30 @@ const DialogueDatabase = {
   ],
 };
 
+/**
+ * Character sheet labels.
+ */
+const CharsheetSkillLabels = {
+  SkillPortraitLabelSettings: [
+    { name: "skill", type: "int" },
+    { name: "labelText", type: "string" },
+    { name: "fontSize", type: "float" },
+    { name: "leftMargin", type: "float" },
+    { name: "textOffset", type: "Vector2f" },
+    { name: "labelOffset", type: "Vector2f" },
+    { name: "nameplateSize", type: "Vector2f" },
+  ],
+  CharsheetSkillLabels: [
+    { name: "m_GameObject", type: "Base" },
+    { name: "labelSettings", type: "SkillPortraitLabelSettings[]" }
+  ]
+};
+
+
 export default {
   ...BaseScript,
   ...BaseField,
   ...LanguageSourceAsset,
-  ...DialogueDatabase
+  ...DialogueDatabase,
+  ...CharsheetSkillLabels
 };

@@ -1,4 +1,6 @@
 # Ziriath <ziriath@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.
@@ -201,7 +203,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800010C0C"
 msgid "Is it feasible to hit a target in the Whirling-in-Rags from this window? (Conclude.)"
 msgstr ""
-"Bylo by proveditelné, zasáhnout něco v Cárech z tohoto okna? (Uzavři.)"
+"Je možné z tohoto okna zasáhnout cíl v Cárech? (Uzavři.)"
 
 #. Title = LAIR ORB / shot viscal
 #. Description = You decide that the shot that killed the merc couldn't have come from this bunker.

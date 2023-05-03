@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Perception (Sight)
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E982"
 msgid "A small heat emboss on the veneer reads: \"Solidarity Aid from the People's Republic of Samara.\" The speakers themselves don't seem to display any magical qualities."
 msgstr ""
+"Na štítku je malý tepelný reliéf s nápisem: \"Solidární pomoc od Samarské lidové republiky\". Samotné reproduktory nevykazují žádné magické vlastnosti."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E9B2"
 msgid "\"Okay, now let me buy the speakers.\""
 msgstr ""
+"\"Dobrá, a teď mi dovolte koupit ty reproduktory.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Conceptualization
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600010391"
 msgid "*FALN \"Ultra\" -- wear the future!* You remember the slogan from some magazine..."
 msgstr ""
+"*FALN \"Ultra\" - nosí budoucnost!* Určitě si pamatuješ si slogan z podobného časopisu..."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Savoir Faire
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00014960"
 msgid "You should go over and ask him about paying for those sneakers with your net worth."
 msgstr ""
+"Měl bys za ním zajít a zeptat se ho, jestli bys ty tenisky moha zaplatit čistou měnou."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = FALN Sneakers on a Pedestal of Speakers
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D7EB"
 msgid "A pair of FALN 'Ultras.' The design is impossibly sleek and simple -- a futuristic silhouette with a sleek monochrome colourway, a jet black upper, and a silver-lined midsole."
 msgstr ""
+"Pár FALN \"Ultras\". Design je neuvěřitelně elegantní a prostý - futuristická silueta s elegantním monochromatickým zbarvením, černý svršek se stříbrně lemovanou mezipodešví."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Savoir Faire
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D7F7"
 msgid "Dedicated! Victorious! Sporty! These *FALN* sneakers are a must-have for a track-and-field legend."
 msgstr ""
+"Oddané! Vítězné! Sportovní! Tyto tenisky *FALN* musí mít legenda atletiky."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D855"
 msgid "\"Super cool! Now the premium lifestyle is yours, officer.\""
 msgstr ""
+"\"Super švihácké! Nyní je tento prémiový životní styl váš, detektive.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005EA0F"
 msgid "Contemplate your sneakers in total silence."
 msgstr ""
+"Popřemýšlím o těch teniskách v klidu."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = FALN Sneakers on a Pedestal of Speakers
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600010389"
 msgid "The speakers below are banged up and worthless. The sneakers triumph over them. They're the star of the show here."
 msgstr ""
+"Níže uvedené reproduktory jsou otlučené a bezcenné. Tenisky nad nimi zcela vítězí. Jsou zde hlavní hvězdou."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = FALN Sneakers on a Pedestal of Speakers
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003CF9F"
 msgid "You see two lowly, defeated speakers. Thralls, slaves basically. Perched atop them like conquerors surveying the land: a pair of FALN durable-wear sneakers, 'Ultra' series."
 msgstr ""
+"Uvidíš dva nízké, a odevzdané reproduktory. V podstatě jsou to otroci.  Stojí tam jako dobyvatelé, kteří obhlížejí zemi: pár odolných tenisek FALN řady \"Ultra\"."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = FALN Sneakers on a Pedestal of Speakers
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D7F1"
 msgid "These once-respectable speakers have been conquered, reduced to a mere prop by the indomitable FALN 'Ultras' atop them."
 msgstr ""
+"Tito kdysi úctyhodné reproduktory byli dobyti, zredukováni na pouhou rekvizitu nezdolnými FAJN \"ultras\" na jejich vrcholu."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007000003270"
 msgid "\"If, on the other hand, you wanted to buy the *sneakers*, too, I could maybe throw in the speakers for a little extra -- 50 cents.\""
 msgstr ""
+"\"Na druhou stranu, kdybyste chtěl koupit i ty tenisky, mohl bych vám za malý příplatek - 50 centů - přihodit i reproduktory.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D829"
 msgid "\"Good move, officer. You won't find a deal like this anywhere.\""
 msgstr ""
+"\"Dobrý tah, detektive. Takovou nabídku už nikde jinde nedostanete.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E934"
 msgid "\"So you did! Now put them on and look at them, officer! Make the people jealous of your premium lifestyle!\""
 msgstr ""
+"\"Tak jste to dokázal! Tak si je nasaďte a podívejte se na ně, detektive! Ať vám lidé závidí váš prvotřídní životní styl!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E996"
 msgid "\"On the one hand, these speakers are socialist garbage. On the *other* hand, you *did* buy the sneakers, so I don't really need them anymore...\""
 msgstr ""
+"\"Na jednu stranu jsou tyto reproduktory socialistický odpad. Na *druhou* stranu jste ty tenisky *koupil*, takže už je vlastně nepotřebuju...\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = A Pedestal of Speakers
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000A8B1"
 msgid "Only the speakers remain, dusty and forgotten..."
 msgstr ""
+"Zůstaly tu jen reproduktory, zapomenuté a zaprášené..."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D84B"
 msgid "\"No, don't pity them, officer! These are old Samaran garbage. Don't even look at them! Check out these super-cool FALN 'Ultras,' instead.\""
 msgstr ""
+"\"Ne, nelitujte je, detektive! Jsou to staré Samaranské odpadky. Ani se na ně nedívejte! Podívejte se raději na tyhle super-prďácké FAJN \"Ultras.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Logic
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000103A6"
 msgid "Damn, so you *have* to buy the sneakers first."
 msgstr ""
+"Zatraceně, takže si *musíš* koupit nejprve ty tenisky."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D814"
 msgid "\"What about the speakers though? Doesn't anyone want those speakers?\""
 msgstr ""
+"\"A co ty reproduktory? To ty reproduktory opravdu nikdo nechce?\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E9A3"
 msgid "\"That's right, officer!\" The street vendor flashes you a smile. \"You're a high-class policeman who accepts nothing less than the best! Lucky for you, I've got the best on sale!\""
 msgstr ""
+"\"Máte pravdu, detektive!\" Pouliční prodejce se na vás usměje. \"Jste prvotřídní policista, který nepřijímá nic jiného než to nejlepší! Naštěstí pro vás mám to nejlepší co lze koupit!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A842"
 msgid "\"Wait, what if I *do* deserve more than a low-fi socialist sound system...\""
 msgstr ""
+"\"Počkat, a co když si zasloužím víc než jen nízkofrekvenční socialistický zvukový systém...\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Logic
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000103DB"
 msgid "Of course, yes. Better not risk it."
 msgstr ""
+"Samozřejmě že ano. Raději to neriskuj."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003CFAB"
 msgid "Inspect the sneakers."
 msgstr ""
+"Prohlédnout tenisky."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D80D"
 msgid "\"No-no, don't look at the speakers, officer! Look at the *sneakers*!\" The man points to the footwear. \"The *sneakers* are the stars here!\""
 msgstr ""
+"\"Ne-ne, nedívejte se na ty reproduktory, detektive! Podívejte se raději na ty tenisky!\" Muž ukáže na obuv. \"Ty *tenisky* jsou tady hvězdy!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D822"
 msgid "\"Okay, I'll look at the sneakers, then.\""
 msgstr ""
+"\"Dobrá, tak já se na ně tedy podívám.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E92E"
 msgid "\"But I already *bought* the sneakers.\""
 msgstr ""
+"\"Ale já už jsem si ty tenisky koupil.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E955"
 msgid "\"But I need some speakers.\""
 msgstr ""
+"\"Ale já potřebuju nějaké tenisky.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E99C"
 msgid "\"But see, they are the pedestal for my sneakers. If I let go of the speakers, where will the sneakers go? I can't leave premium lifestyle sneakers on the *ground*...\""
 msgstr ""
+"\"Ale podívejme, jsou to podstavce pro moje tenisky. Když upustím od reproduktorů, kam dám ty tenisky? Nemůžu přeci nechat prémiové lifestylové tenisky na *zemi*...\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = FALN Sneakers on a Pedestal of Speakers
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000700000325C"
 msgid "The sneakers seem to vibrate in your hands with an almost mystical energy."
 msgstr ""
+"Ty tenisky vibrovaly, jako by měli téměř mystickou energii."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E977"
 msgid "\"No, officer, you're a high-class policeman who accepts nothing less than the best! Lucky for you, I've got the best on sale!\""
 msgstr ""
+"\"Ne, detektive, jste přeci prvotřídní policista, který nepřijímá nic jiného než to nejlepší! Naštěstí pro vás mám to nejlepší co lze koupit!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A849"
 msgid "\"You do, officer, you do! Remember -- we don't have to resort to socialism, we can have nice things too! At socialist *prices*.\" He pats the boxes tenderly."
 msgstr ""
+"\"Zasloužíte, důstojníku, zasloužíte! Nezapomeňte - nemusíme se uchylovat k socialismu, můžeme mít i hezké věci! Za socialistické *ceny*.\"A jemně se dotkne krabice."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E96A"
 msgid "\"Well, if you *want* them...\" He pauses for a moment, calculating."
 msgstr ""
+"\"No, jestli je chcete...\" Na chvíli se odmlčí jelikož počítá."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D82F"
 msgid "\"These, officer? These speakers are Samaran garbage. I'm ashamed to even use them for props. Don't waste your time on them.\""
 msgstr ""
+"\"Tyto, detektive? Tyhle reproduktory jsou Samaranský odpad. Stydím se, že je vůbec používám jako rekvizity. Neztrácejte s nimi čas.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D836"
 msgid "\"Can't I just buy the sad, conquered Samaran speakers?\""
 msgstr ""
+"\"Nemůžu si prostě koupit ty nebohé, dobyté samaranské reproduktory?\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E963"
 msgid "\"You're right, I don't have time for junk, I lead a luxury life.\""
 msgstr ""
+"\"Máte pravdu, nemám čas na haraburdí, vedu přeci luxusní život.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E95B"
 msgid "\"That's why I want them. I think I might be low-fi socialist junk myself.\""
 msgstr ""
+"\"A proto je chci. Myslím, že bych sám mohl být socialistický šmejd s malou potřebou.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Savoir Faire
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F0001494C"
 msgid "Speaking of luxury, you should go over and ask about paying for those sneakers with your net worth."
 msgstr ""
+"Když už mluvíme o luxusu, měl bys tam zajít a zeptat se, jestli bys za ty tenisky mohl zaplatit plnou cenu."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D800"
 msgid "\"Those sneakers, mister...\" the street vendor intones. \"Those sneakers are the latest FALN sneakers. Super-rare, super-fine, super-cool -- only 50 reál!\""
 msgstr ""
+"\"Tyhle tenisky, pane...\" ozve se pouliční prodejce. \"Toto jsou nejnovější tenisky FALN. Velice vzácné, superjemné, super prďácké - a to jen za 50 reálů!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D81A"
 msgid "\"Poor little speakers.\" (Pat them.)"
 msgstr ""
+"\"Nebohé reproduktory.\" (Pohladit je.)"
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000570000A829"
 msgid "\"I can see you've a taste for luxury, officer!\" says the shopkeeper. \"Can't keep your eyes off those sneakers?\""
 msgstr ""
+"\"Vidím, že si potrpíte na luxus, detektive!\" řekne prodejce. \"Nemůžete odtrhnout oči od těch tenisek?\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003CFB1"
 msgid "Inspect the speakers."
 msgstr ""
+"Prozkoumat tenisky."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E9FB"
 msgid "\"That you are, officer,\" the street vendor says. \"Stupid me! Go forth and live that premium lifestyle!\""
 msgstr ""
+"\"To jste vy, detektive,\" řekne pouliční prodejce. \"Jsem to ale hlupák! Běžte a ižívejte si tento prémiový životní styl!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005EA7C"
 msgid "\"Oh,\" he exclaims, appearing to wipe a tear from his eye. \"They're so beautiful I can hardly look at them.\""
 msgstr ""
+"\"Ou,\" zvolá a zdá se, že si utírá slzu z oka. \"Jsou tak krásné, že se na ně nemůžu ani dívat.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Logic
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000103D3"
 msgid "Yup. Hustle and grind, one reál at a time."
 msgstr ""
+"Jo. Jedno po druhém, jeden reál za druhým."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D83D"
 msgid "\"No way, officer, these aren't for sale. They're bad speakers, low-fi socialist junk.\""
 msgstr ""
+"\"Nepřipadá v úvahu, detektive, tyhle nejsou na prodej. Jsou to špatné reproduktory, tzv. socialistický šmejd.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000070000032B1"
 msgid "\"Okay, officer, they're yours. For 50 cents.\""
 msgstr ""
+"\"Dobrá tedy, detektive, jsou vaše. Za 50 centů.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Logic
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000103B8"
 msgid "Here's a crazy plan! Get the *seed money* for the sneakers, buy them, then buy the speakers too. Then *sell* the speakers to Roy, that wacky vendor in the pawn shop. They're right up his alley. You'll make most of the sneakers money back that way."
 msgstr ""
+"Tady máš ten bláznivý plán! Získej peníze na tenisky, kup si je a pak si kup i reproduktory. Pak je prodej Royovi, tomu potrhlému prodejci v zastavárně. Jsou přesně podle jeho gusta. A tímto způsobem získáš většinu peněz za tenisky zpátky."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000103CC"
 msgid "Silly idea, go away."
 msgstr ""
+"Hloupý nápad, zmiz."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E928"
 msgid "\"Then look at them again! These are premium lifestyle sneakers, officer -- the best on the market!\""
 msgstr ""
+"\"Tak se na ně podívejte znovu! Tohle jsou prémiové lifestylové tenisky, detektive - nejlepší na trhu!\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Siileng
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E9B8"
 msgid "\"The junk is yours, officer,\" the street vendor hands you the speakers. \"Happy listening! Try not to hurt your ears with that Samaran garbage.\""
 msgstr ""
+"\"To harampádí je vaše, detektive,\" pouliční prodejce vám podá reproduktory. \"Šťastný poslech! Snažte se, abyste si s tím samaranským odpadem nepoškodil sluch.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = A Pedestal of Speakers
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780000A8C4"
 msgid "These once-mighty speakers have been conquered, reduced to a mere prop by the indomitable FALN 'Ultras' that used to crown them."
 msgstr ""
+"Tyto kdysi mocné reproduktory byli zdecimoványi, zredukovány na pouhou oporu nezdolných FALN \"Ultras\", kteří je dříve korunovali."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000103C6"
 msgid "*I* came up with that plan?"
 msgstr ""
+"A *já* jsem s tím plánem přišel?"
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Rhetoric
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CDD9"
 msgid "Only?! That's madness."
 msgstr ""
+"Jenom?! To je šílenství."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0003CFB7"
 msgid "[Leave.]"
 msgstr ""
+"[Odejít.]"
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005D807"
 msgid "\"I *need* those FALN sneakers.\""
 msgstr ""
+"\"Potřebuji tyhle tenisky FALN.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E922"
 msgid "\"But I already looked at the sneakers.\""
 msgstr ""
+"\"Ale já už jsem se na ty tenisky díval.\""
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005E9F5"
 msgid "\"But I'm already wearing them.\" (Point to the sneakers.)"
 msgstr ""
+"\"Ale já už je mám na sobě.\" (Ukázat na tenisky.)"
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = Encyclopedia
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001039D"
 msgid "Samaran trash? That sounds like they're from the Samaran People's Republic, produced under the dictatorship of the proletariat."
 msgstr ""
+"Samaranský odpad? To zní, jako by byly ze Samaranské lidové republiky, vyrobené pod diktaturou proletariátu."
 
 #. Title = JAM / faln sneakers on a pedestal of speakers
 #. Actor = You
@@ -416,3 +482,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002B0005EA8A"
 msgid "\"You don't know what I am. I don't even know it myself.\" (Pause). \"I want the speakers.\""
 msgstr ""
+"\"Nevíte, kdo jsem. Ani já sám to nevím.\" (Pauza). \"Chci ty reproduktory.\""

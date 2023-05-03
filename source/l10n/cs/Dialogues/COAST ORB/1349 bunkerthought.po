@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001518F"
 msgid "\"We might find her down *somewhere* -- there's an old storm drain system beneath Martinaise that's mostly collapsed. Revachol's sewage system has been built and rebuilt four or five times now.\""
 msgstr ""
+"\"Můžeme ji najít *kdekoliv* tam dole - pod Martinézou je starý bouřkový odtokový systém, většinou už zhroucený. Revacholský kanalizační systém byl postaven a přestavěn už čtyřikrát nebo pětkrát.\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001514E"
 msgid "[Finish thought.]"
 msgstr ""
+"[Dokonči myšlenku.]"
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015180"
 msgid "\"Think we might find Ruby down there?\""
 msgstr ""
+"\"Myslíte, že bychom tam dole mohli najít Ruby?\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009AC5"
 msgid "He puts his glasses back on. \"In conclusion -- she could be under any building.\""
 msgstr ""
+"Znovu si nasadí brýle. \"Sečteno, podtrženo - mohla by být pod jakoukoliv budovou.\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015168"
 msgid "\"Kim, any idea what's down there?\""
 msgstr ""
+"\"Kime, máte ponětí, co tam dole je?\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015147"
 msgid "The light vanishes inside the concrete slit. The structure goes deep under the earth."
 msgstr ""
+"Světlo mizí v betonové štěrbině. Stavba sahá hluboko pod zem."
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009AAB"
 msgid "Yell \"Ho!\" into the slit."
 msgstr ""
+"Zakřič do té štěrbiny \"Hoj!\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009AD8"
 msgid "He looks into the slit and sighs. \"I hope not.\""
 msgstr ""
+"Podívá se do té štěrbiny a povzdechne si. \"Doufám, že ne.\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015179"
 msgid "\"No idea.\" He takes his glasses off to polish. \"Could be connected to one of the buildings around here...\""
 msgstr ""
+"\"Nemám.\" Sundá si brýle, aby je vyleštil. \"Mohlo by to být napojeno na jednu z těch budov tady kolem...\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009ACE"
 msgid "\"But not in there?\""
 msgstr ""
+"\"Ale ne tady?\""
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000400015154"
 msgid "What's in there?"
 msgstr ""
+"Co tam je?"
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000040001515D"
 msgid "Maybe it's just a storm drain for the sewer?"
 msgstr ""
+"Možná je to jen bouřkový odtok do kanalizace?"
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009AB3"
 msgid "There's no echo -- and no answer."
 msgstr ""
+"Žádná ozvěna - a žádná odpověď."
 
 #. Title = COAST ORB / bunkerthought
 #. Description = Maybe a way underground? Maybe she’s down there?
@@ -101,3 +122,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001600009ABA"
 msgid "The silence of god? Sorry..."
 msgstr ""
+"Boží ticho? Promiň..."

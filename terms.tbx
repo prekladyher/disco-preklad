@@ -251,7 +251,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Archer">
-        <descrip type="definition">[OK] [aA] válečná loď</descrip>
+        <descrip type="definition">[OK] [aA] válečná vzduchololoď</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Archer</term>
@@ -259,7 +259,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Lukostřelec</term>
+            <term>Střelec</term>
           </tig>
         </langSet>
       </termEntry>
@@ -458,6 +458,19 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="can-opener">
+        <descrip type="definition">[OK] [aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>can-opener</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Louskáček</term>
+          </tig>
+        </langSet>
+      </termEntry>
       <termEntry id="Capeside apartments">
         <descrip type="definition">[OK] [aA] činžák</descrip>
         <langSet xml:lang="en">
@@ -511,7 +524,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Charles Villedroiun">
-        <descrip type="definition">[OK] [aA] [VYKAT] Nedělní přítel</descrip>
+        <descrip type="definition">[OK] [aA] [VYKAT] poslanec, homosexuál, nedělní přítel</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Charles Villedroiun</term>
@@ -519,12 +532,12 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Karel Villedrouin</term>
+            <term>CharlesVilledrouin</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Chester McLaine">
-        <descrip type="definition">[OK] [aA] [TYKAT] všichni na okrsku 41 si tykají</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] člen ROM</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Chester McLaine</term>
@@ -532,7 +545,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Chester McLaine</term>
+            <term>Čestmír Cesta</term>
           </tig>
         </langSet>
       </termEntry>
@@ -563,7 +576,7 @@
         </langSet>
       </termEntry>
       <termEntry id="circuit bender">
-        <descrip type="definition">[OK] [aA] analogie k hackerovi, co se nabourává do systémů</descrip>
+        <descrip type="definition">[OK] [aA] jde o poťouchlé úpravy elektroniky</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>circuit bender</term>
@@ -571,7 +584,20 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>lamač obvodů</term>
+            <term>elektrobastlíř</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="circuit bending">
+        <descrip type="definition">[OK] [aA] jde o poťouchlé úpravy elektroniky</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>circuit bending</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>bastlení (obvodů)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -663,6 +689,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Komitét</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Committee of Responsibility">
+        <descrip type="definition">[OK] [aA] Něco jako u nás orgán Evropské Unie, objevuje se jen v moralistickém questu. </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Committee of Responsibility</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Výbor pro zodpovědnost</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1130,7 +1169,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>f****t, -a m.</term>
+            <term>b****t, -a m.</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1339,7 +1378,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Garet Morrand</term>
+            <term>Garet Morand</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1456,7 +1495,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Kujón Milión</term>
+            <term>Guillaume le Million</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1473,29 +1512,29 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Hardie Boys (Hardies)">
-        <descrip type="definition">[OK] [aA] militantní odnož odborů</descrip>
+      <termEntry id="Hardie">
+        <descrip type="definition">[OK] [aA] [TYKAT] vůdce Valchařových hochů</descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Hardie Boys (Hardies)</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Valchařovi hoši (Valchařovci)</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Hardie, Titus">
-        <descrip type="definition">[OK] [aA] [TYKAT] odborář, TYKAT</descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Hardie, Titus</term>
+            <term>Hardie</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
           <tig>
             <term>Valchař, Titus</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Hardie Boys">
+        <descrip type="definition">[OK] [aA] milice Odborů</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hardie Boys</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Valchařovi hoši (Valchařovci)</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1561,19 +1600,6 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>houmlesajt</term>
-          </tig>
-        </langSet>
-      </termEntry>
-      <termEntry id="Human can-opener">
-        <descrip type="definition">[OK] [aA] Přezdívka, pod kterou je Harry známý v podsvětí. Každého rozlouskne jak ořech. </descrip>
-        <langSet xml:lang="en">
-          <tig>
-            <term>Human can-opener</term>
-          </tig>
-        </langSet>
-        <langSet xml:lang="cs">
-          <tig>
-            <term>Louskáček</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2332,7 +2358,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Martin Martinaise">
-        <descrip type="definition">[OK] [aA] přezdívka, nepamatuji si, kde všude zaznívá</descrip>
+        <descrip type="definition">[OK] [aA] fiktivní postava - něco jako Pepík Přažák</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Martin Martinaise</term>
@@ -2851,11 +2877,11 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Perdition (Street)">
+      <termEntry id="Perdition">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Perdition (Street)</term>
+            <term>Perdition</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">
@@ -4282,7 +4308,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="weasel">
-        <descrip type="definition">[aA] ve smyslu podrazák, zrádce</descrip>
+        <descrip type="definition">[OK] [aA] ve smyslu podrazák, zrádce</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>weasel</term>
@@ -4421,6 +4447,19 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         <langSet xml:lang="cs">
           <tig>
             <term>Yvona</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Zone of Control">
+        <descrip type="definition">[OK] [aA] něco jako byly okupační zóny v Německu - Revacholska kontrolní zóna je spravovaná Koaliční vládou</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zone of Control</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Kontrolní zóna</term>
           </tig>
         </langSet>
       </termEntry>

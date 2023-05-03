@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = COAST ORB / reeds with buoy
 #. Description = Visual Calculus notes that this is a good place to hide things.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000572A"
 msgid "What is this about?"
 msgstr ""
+"A je asi tohle?"
 
 #. Title = COAST ORB / reeds with buoy
 #. Description = Visual Calculus notes that this is a good place to hide things.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100005723"
 msgid "You don't have a reason to -- yet."
 msgstr ""
+"Nemáš důvod - zatím."
 
 #. Title = COAST ORB / reeds with buoy
 #. Description = Visual Calculus notes that this is a good place to hide things.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100005730"
 msgid "[Discard thought.]"
 msgstr ""
+"[Zahoď myšlenku.]"
 
 #. Title = COAST ORB / reeds with buoy
 #. Description = Visual Calculus notes that this is a good place to hide things.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000571D"
 msgid "Wait, I can't see anything interesting..."
 msgstr ""
+"Počkat, nevidím nic zajímavého..."
 
 #. Title = COAST ORB / reeds with buoy
 #. Description = Visual Calculus notes that this is a good place to hide things.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100005710"
 msgid "That patch of reeds over there -- it's a great place to hide something. Kind of out of the way, being so close to the water."
 msgstr ""
+"Ten pruh rákosí támhle - to je skvělé místo, kde něco schovat. Trochu od cesty, a tak blízko u vody."
 
 #. Title = COAST ORB / reeds with buoy
 #. Description = Visual Calculus notes that this is a good place to hide things.
@@ -45,3 +58,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100005739"
 msgid "Nothing. Just a hunch. The hunch passes, leaving you there, by the old buoy bobbing in the water. Time to go."
 msgstr ""
+"Nic. Jenom nějaké tušení. Tušení přejde a nechá tě tam, u jedné staré bóje pohupující se ve vodě. Je čas jít."
