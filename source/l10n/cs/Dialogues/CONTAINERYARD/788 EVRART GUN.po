@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -12,6 +20,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000129B8"
 msgid "\"Wait... the gun may have been bought from Roy's pawn shop. Have your men factored that in?\""
 msgstr ""
+"\"Počkej... ta zbraň mohla být zakoupena v Royově zastavárně. Vzali to tvoji chlapi v potaz?\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -21,6 +30,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020606"
 msgid "\"'I don't care about my gun...'\" he repeats. \"I love it, Harry! Wish I could be like that. But I can't. I have a responsibility to this community. I can't have a loaded gun in the streets.\""
 msgstr ""
+"\"'Moje zbraň mě nezajímá...'\" opakuje. \"To miluju, Harry! Kéž bych takový mohl být. Ale nemůžu. Mám k této komunitě zodpovědnost. Nemůžu mít v ulicích nabitou zbraň.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -30,6 +40,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000213B8"
 msgid "Hold on, could he really hold my gun hostage?"
 msgstr ""
+"Počkej, opravdu mohl držet moji zbraň jako rukojmí?"
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -39,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000129C5"
 msgid "It did not come as a surprise to him. He might actually not be bullshitting."
 msgstr ""
+"Nepřekvapilo ho to. Možná, že vlastně neplácá nesmysly."
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -48,6 +60,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000129F8"
 msgid "\"Now please... let the professionals do their job. Kick back, Harry, relax! I have *great guys* on this. You focus on what's important – building our relationship for the good of Martinaise.\""
 msgstr ""
+"\"A teď prosím... nech profesionály dělat svou práci. Uvolni se, Harry, klídek! Mám na tom *skvělé kluky*. Ty se soustřeď na to, co je důležité - budování našeho vztahu pro dobro Martinézy.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -57,6 +70,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020661"
 msgid "\"Of course,\" the lieutenant replies dryly. \"I understand. We help you -- you help us.\""
 msgstr ""
+"\"Samozřejmě,\" odpoví suše poručík. \"Rozumím. My pomůžeme vám - vy pomůžete nám.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -66,6 +80,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820002066C"
 msgid "He is not."
 msgstr ""
+"Nedělá."
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -75,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000213C0"
 msgid "Who knows? Only one thing is certain: If you work with him, you're going to get it back, and working with him might be the only way to do it."
 msgstr ""
+"Kdo ví? Jen jedna věc je jistá: Pokud s ním budeš pracovat, vrátí se ti to a spolupráce s ním může být jediný způsob, jak toho dosáhnout."
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -84,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020628"
 msgid "His tone is suddenly very serious. \"Kids could be playing gun-roulette with it as we speak. Teenage gangs could be arming themselves. Get a hold of yourself, Harry!\""
 msgstr ""
+"Jeho tón je najednou velmi vážný. \"Když my tady spolu mluvíme, děti by s ní mohly zatím hrát ruskou ruletu. Mládežnické gangy by se mohly ozbrojovat. Seber se, Harry!\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -93,6 +110,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205EF"
 msgid "\"I don't care about my gun. Keep it.\""
 msgstr ""
+"\"Moje zbraň mě nezajímá. Nech si ji.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -102,6 +120,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020635"
 msgid "\"I assure you, we are working on locating the missing sidearm as well.\""
 msgstr ""
+"\"Ujišťuji vás, že my také na lokalizaci té ztracené zbraně pracujeme.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -111,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000200000905"
 msgid "The lieutenant is concerned about the lost gun and feels that the fact you haven't prioritized looking for it is unfortunate, if inevitable, and doesn't put the RCM in a good light."
 msgstr ""
+"Poručík je tou ztracenou zbraní znepokojen a cítí, že skutečnost, že jsi její hledání neměl jako prioritu, je nešťastná, i když nevyhnutelná, a nestaví ROM do dobrého světla."
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -120,6 +140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205D1"
 msgid "\"Your gun *will* be found, Harry. Let me assure you of that.\" He winks at you. \"It's just a matter of time and... *effort*.\""
 msgstr ""
+"\"Tvoje zbraň se *najde*, Harry. Dovol mi, abych tě o tom ujistil.\" Mrkne na tebe. \"Je to jen otázka času a... *úsilí*.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -129,6 +150,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820002058F"
 msgid "\"Yes, yes, my best men are tracking it down. Some kids saw some other kids running away with it. Some folks said a paranoid schizophrenic might have it. Leads are being checked, Harry.\""
 msgstr ""
+"\"Ano, ano, jdou po tom moji nejlepší chlapi. Nějaké děti viděly jiné děti, jak s tím utíkají. Nějací lidé říkali, že by to mohl mít paranoidní schizofrenik. Sledují se vodítka, Harry.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -138,6 +160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205F5"
 msgid "\"Does this mean if I do things for you I will get my gun back?\""
 msgstr ""
+"\"Znamená to, že když pro tebe něco udělám, dostanu svou zbraň zpátky?\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -147,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820002061A"
 msgid "\"'I don't care about my gun'...\" he repeats. \"I love it, Harry! Wish I could be like that. But I can't. I have a responsibility to this community. I can't have a loaded gun out in the streets.\""
 msgstr ""
+"\"'Moje zbraň mě nezajímá'...\" opakuje. \"To miluju, Harry! Kéž bych takový mohl být. Ale nemůžu. Mám k této komunitě zodpovědnost. Nemůžu mít v ulicích nabitou zbraň.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -156,6 +180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205E9"
 msgid "\"I will not be blackmailed with this gun business.\""
 msgstr ""
+"\"Nenechám se tady tou záležitostí se zbraní vydírat.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -165,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020642"
 msgid "\"Excellent, Mr. Kitsuragi. That's excellent news.\" He claps his hands together. \"Looks like we have a friendly gun-finding competition on our hands.\""
 msgstr ""
+"\"Výborně, pane Kitsuragi. To je skvělá zpráva.\" Tleskne rukama. \"Vypadá to, že máme takovou přátelskou soutěž v hledání zbraní.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -174,6 +200,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000129BF"
 msgid "\"Yes, thank you for the *hot tip* regarding your lost gun, Harry. My men have indeed\" -- he makes air quotes -- \"*factored in that you pawned it*.\""
 msgstr ""
+"\"Ano, děkuji za *horký tip* ohledně tvé ztracené zbraně, Harry. Moji muži opravdu\" - udělá ve vzduchu uvozovky - \"*vzali v potaz, že jsi ji zastavil*.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -183,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205C8"
 msgid "\"Yes. Your lost gun.\" His face turns serious. \"My best men are on it. They're turning every stone, searching every playground, asking kids, grandmas, everyone.\""
 msgstr ""
+"\"Ano. Tvoje ztracená zbraň.\" Jeho tvář zvážní. \"Dělají na tom moji nejlepší muži. Obracejí každý kámen, prohledávají každé hřiště, ptají se dětí, babiček, prostě všech.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -192,6 +220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205DB"
 msgid "The only way to find it seems to be working with him. He might even be holding your gun hostage..."
 msgstr ""
+"Zdá se, že jediný způsob, jak ji najít, je pracovat s ním. Možná dokonce drží tvoji zbraň jako rukojmí..."
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -201,6 +230,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820002064E"
 msgid "\"The officer is exaggerating,\" says the lieutenant, leaning forward. \"Of course we care about the missing firearm, and we are *actively* looking for it as well.\""
 msgstr ""
+"\"Detektiv to přehání,\" řekne poručík a předkloní se. \"Samozřejmě nám na té ztracené střelné zbrani záleží a také ji *aktivně* hledáme.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -210,6 +240,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000129CF"
 msgid "It did not come as a surprise to him. He might actually not be bullshitting."
 msgstr ""
+"Nepřekvapilo ho to. Možná, že vlastně neplácá nesmysly."
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -219,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020596"
 msgid "\"What's that, Harry? You're getting a little pale. Is it the words *paranoid schizophrenic* and *lost gun* in one sentence? Don't worry, it's just a lead. It'll probably turn out to be nothing.\""
 msgstr ""
+"\"Co je, Harry? Tak trochu bledneš. To ta slova *paranoidní schizofrenik* a *ztracená zbraň* v jedné větě? Neboj se, je to jenom jedno vodítko. Pravděpodobně z toho nic nebude .\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -228,6 +260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200020621"
 msgid "\"Harry, Harry -- I was only trying to be tactful. A lost gun is a dangerous thing. I can't have it around in my neighbourhood.\""
 msgstr ""
+"\"Harry, Harry - jenom jsem se snažil být taktní. Ztracená zbraň je nebezpečná věc. Nemůžu ji mít ve svém sousedství.\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -237,6 +270,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000082000205FE"
 msgid "\"Damn it, Harry, that's exactly what it means!\""
 msgstr ""
+"\"Sakra, Harry, přesně to to znamená!\""
 
 #. Title = CONTAINERYARD / EVRART GUN
 #. Description = "Let's talk about my lost gun."
@@ -246,3 +280,4 @@ msgstr ""
 msgctxt "Alternate1/0x01000082000205FE"
 msgid "\"Damn it, Harry, that's exactly what it means!\" He turns to the lieutenant. \"I am only kidding of course.\""
 msgstr ""
+"\"Sakra, Harry, přesně to to znamená!\" Otočí se k poručíkovi. \"Samozřejmě si dělám jenom legraci.\""

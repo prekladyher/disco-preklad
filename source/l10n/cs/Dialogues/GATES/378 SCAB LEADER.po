@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -11,6 +19,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000800001346"
 msgid "Do not be fooled by the programming. There is a precarious balance inside him, keeping him in check. But it's shaky as hell. And he's tired of it all..."
 msgstr ""
+"Nenechej se zmást tím programováním."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -19,6 +28,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000014000007B1"
 msgid "\"A bouncer? Where? I frequent a lot of bars, maybe it's one I know.\""
 msgstr ""
+"\"Vyhazovač? Kde? Chodím do barů často, takže ho možná znám.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -27,6 +37,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000014000007DB"
 msgid "Now that *is* interesting."
 msgstr ""
+"Tohle *je* ale zajímavé."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -35,6 +46,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000618C"
 msgid "\"No.\""
 msgstr ""
+"\"Ne.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -43,6 +55,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F0000618C"
 msgid "\"Okay, then I'm thinking no.\""
 msgstr ""
+"\"Dobře, potom teda říkám ne.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -51,6 +64,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000082EC"
 msgid "\"We'll see.\""
 msgstr ""
+"\"Uvidíme.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -59,6 +73,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008680"
 msgid "\"I don't really drink. But work *has* taken me to some. Which one was it?\""
 msgstr ""
+"\"Moc nepiju, ale kvůli práci jsem trochu *začal*. Co jsem to pil?\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -67,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000C903"
 msgid "\"Okay, I wanted to discuss something else.\""
 msgstr ""
+"\"Dobře, chtěl jsem probrat něco jiného.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -75,6 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000023BD"
 msgid "\"Uh. I'll be going now.\" [Leave.]"
 msgstr ""
+"\"Hmm, tak to abych už šel.\" [Odejdi.]"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -83,6 +100,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001263F"
 msgid "\"I don't know how the Union has a trained killer up there, but that one's no joke. And my men are tired. And hungry. They're WORKERS, not fighters.\""
 msgstr ""
+"\"Nevím, jak si Odbory dostly trénovaného zabijáka až tam nahoru, ale není dobré to brát na lehkou váhu. Mí muži jsou unavení a hladoví. Sakra, jsou to dělníci, ne bojovníci.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -91,6 +109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001268F"
 msgid "Yes. Of course."
 msgstr ""
+"Ano, samozřejmě."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -99,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012706"
 msgid "\"Makes sense, I guess. Never mind, not gonna pry.\""
 msgstr ""
+"\"To dává smysl, asi. Víš co? Nebudu vyzvídat.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -107,6 +127,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000128F6"
 msgid "\"Are you a mercenary hired by Wild Pines?\""
 msgstr ""
+"\"Jsi žoldák najatý Divokými piniemi?\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -115,6 +136,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000129F8"
 msgid "Don't interrupt him. (Hear it.)"
 msgstr ""
+"Nepřerušuj ho. (Vyslechni si to.)"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -123,6 +145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012AFB"
 msgid "Silence. He takes the photo. Grey eyes dart  back and forth on the glossy surface -- his face is unmoving."
 msgstr ""
+"Ticho. Vezme si tu fotku. Jeho šedé oči těkají tam a zpátky po jejím lesklém povrchu, ale jeho obličej zůstává v klidu.  "
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -131,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012B96"
 msgid "\"Actually, no.\" (Take the photo back.)"
 msgstr ""
+"\"Vlastně ne\" (Vezmi si fotku zpátky.)"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -139,6 +163,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100009700004EF3"
 msgid "\"They were on the body of the man who was hanged behind the cafeteria there.\" (Give him the photo.)"
 msgstr ""
+"\"Byly na těle toho muže, který byl oběšen támhle za hostelem.\" (Dej mu tu fotku.)"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -147,6 +172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B3FD"
 msgid "Wrong. You did the right thing with Measurehead. The ballerina antics won you the fight."
 msgstr ""
+"Chyba. Udělal jsi správnou věc s tím Hlavoměrem. Ty baletkovské šaškárny ti ten souboj vyhrály."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -155,6 +181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000606E"
 msgid "\"Okay, I gotta ask. Where exactly are you from?\""
 msgstr ""
+"\"Dobře, musím se ale zeptat. Odkud přesně jsi?"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -163,6 +190,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000609F"
 msgid "\"Everyone understands you're *the law*. That's why you have that insignia on your arm. So you don't have to keep saying it.\""
 msgstr ""
+"\"Všichni chápou, že jsi tady *zákon*, ale nemusíš to pořád opakovat. Je to jasné z toho odznaku, co má na paži.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -171,6 +199,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00006150"
 msgid "\"RIGHT TO WORK! RIGHT TO WORK!\" the ostensible leader of the strikebreakers chants furiously. \"SHAME ON YOU!\""
 msgstr ""
+"\"PRÁVO PRACOVAT! PRÁVO PRACOVAT!\" Zuřivě skanduje údajný vůdce stávkokazů. \"STYĎTE SE!\" "
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -179,6 +208,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000085D0"
 msgid "\"That's what they always say, before stabbing you in the back. You want boots? Go find your own.\""
 msgstr ""
+"\"Tohle říkají vždycky, než ti píchnou kudlu do zad. Jestli chceš boty, tak si je budeš muset najít sám.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -187,6 +217,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008B68"
 msgid "Prissy milksop. Get back to me when you've grown a backbone!"
 msgstr ""
+"Ty zbabělče upjatý.. Vrať se ke mně, až ti naroste páteř."
+""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -195,6 +227,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012628"
 msgid "Silence is the answer. There's something off here but he won't say what."
 msgstr ""
+"Odpovědí je mlčení. Něco je tady divné, ale nechce mi říct, co."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -203,6 +236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000780001296D"
 msgid "Loincloth? Now, you see, that's not really what a scab would say is it? Better not to press the issue further, sire. He seems... tense."
 msgstr ""
+"Říkáš křovák? Podívej se, to není něco, co by takový stávkokaz řekl, nemám pravdu? "
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -211,6 +245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012B3F"
 msgid "You see dead flesh -- in colourful rivers of Polychrome -- melting skin and hair."
 msgstr ""
+"V pestrobarevných řekách Polychromie vidíš mrtvoly, jak se jim roztéká kůže a vlasy."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -219,6 +254,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000014000007CD"
 msgid "\"Not right now, but I might have been there. I don't really remember things well.\""
 msgstr ""
+"\"Teď ne, ale někdy jsem tam být mohl. Moc dobře si věci nepamatuji.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -235,6 +271,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008560"
 msgid "Damn, you're right. Super sweet. Where can I get in on this bad-ass boot fashion?"
 msgstr ""
+"Sakra, máš pravdu. To je hustý. Kde se můžu připojit k tomuhle hustému trendu bot? (hodně divný překlad)"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -243,6 +280,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000085BB"
 msgid "\"Around.\" He shifts his gaze away. \"Eminent Domain. Previous... workplace.\""
 msgstr ""
+"\"Kolem.\" Odvrátí pohled. \"Vyvlastnění z minulého ... pracoviště.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -251,6 +289,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000085E4"
 msgid "\"You do that.\""
 msgstr ""
+"\"To děláš ty.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -259,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000884B"
 msgid "\"Have you considered storming in? Like, all of you?\""
 msgstr ""
+"\"Napadlo vás tam prostě vtrhnout? Jakože v plném počtu?\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -267,6 +307,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008863"
 msgid "\"Why don't *you* go arrest them instead? I'm sure they've done plenty of criminal shit, they have *that look*.\""
 msgstr ""
+"\"Víš co? Proč si je nejdeš zatknout *sám*? Určitě už udělali spoustu nekalostí. Čtu jim to z obličeje.\" (vynechnaná *)"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -275,6 +316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008A95"
 msgid "\"It's a... gut feeling.\""
 msgstr ""
+"\"Je to takový ... instinkt.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -283,6 +325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008F0E"
 msgid "\"Bad.\" The man glares at you. \"Standing on a narrow bridge, he's got a strategically advantageous position. And he's trained.\""
 msgstr ""
+"\"Špatné.\" Muž na tebe zlostně podívá. \"Jak tam stojí na úzkem mostě, tak má strategicky výhodnou pozici. Ještě k tomu všemu je trénovaný.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -291,6 +334,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000078000125C0"
 msgid "\"What are you talking about? I'm not tense.\""
 msgstr ""
+"\"O čem to mluvíš? Nejsem nervózní.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -323,6 +367,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012C0D"
 msgid "\"You can have that.\" (Conclude.)"
 msgstr ""
+"\"Můžeš si to vzít.\" (Skončit.)"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -331,6 +376,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012C13"
 msgid "\"Nah, you've earned it.\" He turns toward the gate, slowly, and yells: \"All right now! FREE COMMERCE! KEEP THE GOODS FLOWING!\""
 msgstr ""
+"\"Ne, zasloužil sis to.\" Pomalu se otáčí směrem k bráně a křičí: \"PŘICHÁZÍ ČAS VOLNÉHO OBCHODU! AŤ OBCHODY PRASKAJÍ VE ŠVECH!!"
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -347,6 +393,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007800012C97"
 msgid "\"We shot the boy, he was useless, but the girl... she was nice. A little fat you know. But not too old.\""
 msgstr ""
+"\"Toho kluka jsme zastřeli, nebyl nám k ničemu. Ta holka ale ... byla dobrá. Trochu tlustší, ale zase né moc stará.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -363,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000184F1"
 msgid "He smirks. \"Not before you get in there and get your ass whooped. Learn by failure, I always say.\""
 msgstr ""
+"Přidrzle se na mě usměje. \"Né dřív, než tam půjdeš a dostaneš namláceno. Člověk se toho nejvíce naučí, když selže.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -371,6 +419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100001400000710"
 msgid "\"I'm interviewing people about a murder that took place here. Behind the hostel-cafeteria there.\""
 msgstr ""
+"\"Vyslýchám lidi ohledně vraždy, která se stala tady za tím hostelem."
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -379,6 +428,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00006118"
 msgid "\"Rights of people. Rights of workers. To have gainful employment. To make a salary and feed their families.\""
 msgstr ""
+"\"Práva lidí. Práva dělníků. Mít dobře placené zaměstnání. Donést domů výplatu a nakrmit své rodiny.\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -387,6 +437,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000619B"
 msgid "\"Hah! Couldn't handle us. A cause gives the workers strength. Gives them power.\" He bellows at the gates: \"We have -- A RIGHT TO WORK!\""
 msgstr ""
+"\"Haha! Na nás jsou krátcí. Mít, za co bojovat, dává dělníkům sílu a moc.\" Zařve na brány: \"MÁME PRÁVO PRACOVAT!\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.
@@ -395,6 +446,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008524"
 msgid "\"Those are some sweet boots. Can I have them?\""
 msgstr ""
+"\"To jsou husté boty. Můžu si je vzít?\""
 
 #. Title = GATES / SCAB LEADER
 #. Description = Scab Leader, a large mercenary in disguise. Shouts a lot about LETTING US WORK, doesn't actually provide much information for now, except being suspicious and shouting.

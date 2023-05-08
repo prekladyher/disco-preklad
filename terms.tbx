@@ -251,7 +251,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Archer">
-        <descrip type="definition">[OK] [aA] válečná loď</descrip>
+        <descrip type="definition">[OK] [aA] válečná vzduchololoď</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Archer</term>
@@ -259,7 +259,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Lukostřelec</term>
+            <term>Střelec</term>
           </tig>
         </langSet>
       </termEntry>
@@ -524,7 +524,7 @@
         </langSet>
       </termEntry>
       <termEntry id="Charles Villedroiun">
-        <descrip type="definition">[OK] [aA] [VYKAT] Nedělní přítel</descrip>
+        <descrip type="definition">[OK] [aA] [VYKAT] poslanec, homosexuál, nedělní přítel</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Charles Villedroiun</term>
@@ -532,12 +532,12 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Karel Villedrouin</term>
+            <term>CharlesVilledrouin</term>
           </tig>
         </langSet>
       </termEntry>
       <termEntry id="Chester McLaine">
-        <descrip type="definition">[OK] [aA] [TYKAT] všichni na okrsku 41 si tykají</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] člen ROM</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Chester McLaine</term>
@@ -545,7 +545,7 @@
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Chester McLaine</term>
+            <term>Čestmír Cesta</term>
           </tig>
         </langSet>
       </termEntry>
@@ -576,7 +576,7 @@
         </langSet>
       </termEntry>
       <termEntry id="circuit bender">
-        <descrip type="definition">[aA] jde o poťouchlé úpravy elektroniky</descrip>
+        <descrip type="definition">[OK] [aA] jde o poťouchlé úpravy elektroniky</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>circuit bender</term>
@@ -589,7 +589,7 @@
         </langSet>
       </termEntry>
       <termEntry id="circuit bending">
-        <descrip type="definition">[aA] jde o poťouchlé úpravy elektroniky</descrip>
+        <descrip type="definition">[OK] [aA] jde o poťouchlé úpravy elektroniky</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>circuit bending</term>
@@ -689,6 +689,19 @@
         <langSet xml:lang="cs">
           <tig>
             <term>Komitét</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="Committee of Responsibility">
+        <descrip type="definition">[OK] [aA] Něco jako u nás orgán Evropské Unie, objevuje se jen v moralistickém questu. </descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Committee of Responsibility</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>Výbor pro zodpovědnost</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1365,7 +1378,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Garet Morrand</term>
+            <term>Garet Morand</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1482,7 +1495,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
         <langSet xml:lang="cs">
           <tig>
-            <term>Kujón Milión</term>
+            <term>Guillaume le Million</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1500,7 +1513,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Hardie">
-        <descrip type="definition">[OK] [aA] [TYKAT] odborář, TYKAT</descrip>
+        <descrip type="definition">[OK] [aA] [TYKAT] vůdce Valchařových hochů</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Hardie</term>
@@ -1513,7 +1526,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Hardie Boys">
-        <descrip type="definition">[OK] [aA] militantní odnož odborů</descrip>
+        <descrip type="definition">[OK] [aA] milice Odborů</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Hardie Boys</term>
@@ -2345,7 +2358,7 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
         </langSet>
       </termEntry>
       <termEntry id="Martin Martinaise">
-        <descrip type="definition">[OK] [aA] přezdívka, nepamatuji si, kde všude zaznívá</descrip>
+        <descrip type="definition">[OK] [aA] fiktivní postava - něco jako Pepík Přažák</descrip>
         <langSet xml:lang="en">
           <tig>
             <term>Martin Martinaise</term>
@@ -2864,11 +2877,11 @@ https://prekladyher.github.io/disco-website/#/conversations/740?entryId=48</desc
           </tig>
         </langSet>
       </termEntry>
-      <termEntry id="Perdition (Street)">
+      <termEntry id="Perdition">
         <descrip type="definition">[OK] [aA] </descrip>
         <langSet xml:lang="en">
           <tig>
-            <term>Perdition (Street)</term>
+            <term>Perdition</term>
           </tig>
         </langSet>
         <langSet xml:lang="cs">

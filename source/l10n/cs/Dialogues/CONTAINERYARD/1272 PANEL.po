@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004028"
 msgid "[Leave.]"
 msgstr ""
+"[Odejdi.]"
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002EC3"
 msgid "*Marche* -- On. *Arrêt* -- Off."
 msgstr ""
+"*Marche* - Zapnout. *Arrêt* - Vypnout."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004058"
 msgid "No screech of metal when you push the button this time. Only silence, as the crane remains in its state of dormancy."
 msgstr ""
+"Tentokrát žádné skřípání kovu, když to tlačítko stiskneš. Jen ticho, protože jeřáb zůstává v neaktivním stavu."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004070"
 msgid "The crane does not return to its original position. It does not move at all."
 msgstr ""
+"Jeřáb se nevrátí do původní polohy. Vůbec se nehýbe."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004002"
 msgid "With a loud grind the crane shifts overhead, moving a massive metal container through the air..."
 msgstr ""
+"Jeřáb se s hlasitým skřípěním posouvá nad hlavou a ve vzduchu posunuje masivní kovový kontejner..."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000459A"
 msgid "Understood. Let's get back to the panel."
 msgstr ""
+"Srozuměno. Vraťme se k tomu panelu."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000045B0"
 msgid "A faint smell of burning rubber reaches your nostrils. A short-circuit."
 msgstr ""
+"Do nosních dírek se ti dostane slabý zápach hořící gumy. Zkrat."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002F9C"
 msgid "This crane was built with a purpose which has now been fulfilled -- to move *this* container."
 msgstr ""
+"Tento jeřáb byl postaven s účelem, který byl nyní splněn - přesunout *tento* kontejner."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000401C"
 msgid "Press *Arrêt*."
 msgstr ""
+"Stiskni *Arrêt*."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002EDD"
 msgid "Understood. Let's get back to the panel."
 msgstr ""
+"Srozuměno. Vraťme se k tomu panelu."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000185E5"
 msgid "\"I can't see how that was worth the ruckus...\" He looks at the crate. \"Except for seeing the crane in action. Which, I admit, was satisfying.\""
 msgstr ""
+"\"Nechápu, že to stálo za ten rozruch...\" Podívá se na tu bednu. \"Kromě toho, že jsem viděl ten jeřáb v akci. Což, přiznávám, bylo uspokojivé.\""
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004595"
 msgid "Its purpose? What do you mean?"
 msgstr ""
+"Jeho účel? Co tím myslíš?"
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004580"
 msgid "The harbour sleeps as the strike rages in the distance. The crane can rest again, now that its purpose has been fulfilled."
 msgstr ""
+"Přístav spí, zatímco v dálce zuří stávka. Jeřáb si teď může opět odpočinout, když splnil svůj účel."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002EEE"
 msgid "If only you knew..."
 msgstr ""
+"Kdybys jenom věděl..."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002ED8"
 msgid "What's inside the container?"
 msgstr ""
+"Co je uvnitř toho kontejneru?"
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004021"
 msgid "Press *Marche*."
 msgstr ""
+"Stiskni *Marche*."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002EE4"
 msgid "Who can say? All you know is -- it's special."
 msgstr ""
+"Kdo může říct? Jediné, co víš, je - je to zvláštní."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000400A"
 msgid "A rusting control panel with several knobs. Two buttons, marked *Marche* and *Arrêt*, are faded with use. It seems to control the large crane above -- a container is attached to its hook block."
 msgstr ""
+"Rezivějící ovládací panel s několika knoflíky. Dvě tlačítka, označená *Marche* a *Arrêt*, jsou vybledlá používáním. Vypadá to, že ovládá ten velký jeřáb nahoře - k jeho háku je připevněn kontejner."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000044DF"
 msgid "... and with a surprisingly quiet thunk, the crane places the container down."
 msgstr ""
+"...a s překvapivě tichým žuchnutím položí jeřáb ten kontejner dolů."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000045A1"
 msgid "The rusty control panel grows warm to the touch. Then grows cold. It is finished."
 msgstr ""
+"Rezavý ovládací panel je na dotek teplý. Pak vychladne. Je to hotovo."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004590"
 msgid "Moving *this* container, of course. For this purpose it was built; for this purpose it has acted. And now it will rest."
 msgstr ""
+"Přesun *tohoto* kontejneru, samozřejmě. K tomuto účelu byl postaven; za tímto účelem jednal. A teď bude odpočívat."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004032"
 msgid "The crane stands tall: proud, erect and *still*."
 msgstr ""
+"Jeřáb tam stojí, vysoký: hrdý, napřímený a *nehybný*."
 
 #. Title = CONTAINERYARD / PANEL
 #. Description = very likely we need this panel to make mega-rich-light-bendy-guy container move.
@@ -164,3 +194,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F00002EBC"
 msgid "A rusting control panel with several knobs. The words *Marche* and *Arrêt* are -- very, very slightly -- even more faded with use."
 msgstr ""
+"Rezivějící ovládací panel s několika knoflíky. Slova *Marche* a *Arrêt* jsou - dost, poněkud dost - hodně vybledlá používáním."

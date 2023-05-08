@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009002"
 msgid "\"We saw you point a gun at the little foul-mouthed girl. What kind of an insane bastard move is that? Fuck, what's wrong with you?\""
 msgstr ""
+"\"Viděli jsme, jak míříš na tu malou holku s tou prořízlou hubou. Co je to za šílený tah? Kurva, co to s tebou je?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009030"
 msgid "\"As if you've got better ones, Officer Bloodshot.\" A muffled voice suddenly clambers through the thick, solid metal gates."
 msgstr ""
+"\"Jako bys měl lepší, detektive Podlité krvavé oči.\" Přes tlustá a pevná kovová vrata se náhle prodere tlumený hlas."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009091"
 msgid "\"Umm... bi?\""
 msgstr ""
+"\"Umm... bi?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090BC"
 msgid "\"Can you stop being such a jerk?\""
 msgstr ""
+"\"Můžeš se přestat chovat jako blbec?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090CA"
 msgid "\"Hum. Well, this went... nowhere. Zero fun and excitement here. I'm getting real bored, how about we change the subject?\""
 msgstr ""
+"\"Hum. No, tohle by nikam nevedlo. Nulová zábava a vzrušení. Začínám se vážně nudit, co kdybychom změnili téma?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000935D"
 msgid "\"I don't really believe you.\""
 msgstr ""
+"\"Nevěřím ti.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093E8"
 msgid "\"Yeah? I got a suggestion, you should go try knock the guard above us out. Ha ha, that would be fuckin' priceless.\""
 msgstr ""
+"\"Opravdu? Měl bych jeden nápad, měl by ses pokusit vyřadit toho strážného nad námi. Ha ha, to by bylo tak sladké.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000022FF"
 msgid "\"Sure thing, pisspig, ha ha ha.\" The eyes blink rapidly. \"Oh, and no, I'm not some fuckin' 'lookout' for the *leeches*.\""
 msgstr ""
+"\"Jasná páka, prasátko, ha ha ha.\"Jeho oči rychle zamrkají. \"\"Jo, a ne, nejsem žádný zasraný \"hlídač\" těch *píčovinek*.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002388"
 msgid "\"You can fucking say that again. God, yes, the power!\""
 msgstr ""
+"Můžeš to klidně říct znova. Bože, ano, ta síla!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009014"
 msgid "\"God fuck, don't do that, you lunatic.\""
 msgstr ""
+"\"Proboha, nedělej to, ty blázne.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090AB"
 msgid "\"That's a bit boring, don't you think?\""
 msgstr ""
+"\"To zní tak trochu nudně, nemyslíš?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090EF"
 msgid "\"Ha ha. Okay, good luck! I'm getting bored now... change the subject, why don't we?\""
 msgstr ""
+"\"Ha ha. Dobře, tak hodně štěstí! Začínám se nudit... změňme téma, proč vlastně ne?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009267"
 msgid "\"Okay, who or what are you looking at?\""
 msgstr ""
+"\"Dobrá, kdo jsi a co tu hledáš?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000943A"
 msgid "\"I don't actually want to talk about my personal life with a stupid voice behind a wall.\""
 msgstr ""
+"\"Ve skutečnosti nechci mluvit o svém osobním životě s nějakým hloupým hlasem za zdí.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094F4"
 msgid "\"Umm, what? That's not... *literal* -- there are not people actually stuffed into various tiny holes. You get that, right?\""
 msgstr ""
+"\"Umm, co? Nemyslel jsem to... *doslova* - do různých malých otvorů nejsou nacpáni lidé. Rozumíš tomu, že?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000096C8"
 msgid "\"Whoah, I retract my statement.\""
 msgstr ""
+"\"Páni, beru to zpět.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002314"
 msgid "Oh-oh, you know who's got things to hide!?"
 msgstr ""
+"Oh-oh, víte, kdo má co skrývat!?"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008F96"
 msgid "A faint, irregular breathing sound resonates through the gap. Almost inaudible, but still there."
 msgstr ""
+"Skrz mezeru se ozve slabý, leč nepravidelný zvuk dýchání. Je téměř až neslyšitelný, ale stále tam je."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009041"
 msgid "\"I don't feel comfortable continuing this discussion.\" [Leave.]"
 msgstr ""
+"\"Tenhle rozhovor mi není příjemný.\" [Odejdi.]"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F00009041"
 msgid "\"Okay, I'm getting real tired of your shit. I'm out.\" [Leave.]"
 msgstr ""
+"\"Dobře, už mě ty tvoje kecy vážně unavují. Končím.\" [Odejít.]"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009056"
 msgid "\"How do I get to the other side of these gates?\""
 msgstr ""
+"\"Jak se dostanu na druhou stranu té brány?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009062"
 msgid "\"No. And even if I were, I'm not engaged in anything factually illegal. No crime here.\""
 msgstr ""
+"\"Ne. A i kdybych byl, nedělám skutečně nic nezákonného. Nic zločinného.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090B4"
 msgid "\"Err... okay, I guess.\""
 msgstr ""
+"\"Ehm... dobrá, tedy.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091BF"
 msgid "\"To keep the strikebreakers out?\""
 msgstr ""
+"\"Aby se ti stávkující nedostali ven?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091FD"
 msgid "\"Step right up, folks! Read all about the Incredible Adventures of Flop the Wonder-Cop! Able to solve the *most dastardly* of plots and ploys. Ha ha ha.\""
 msgstr ""
+"\"Přistupte blíž, přátelé! Přečtěte si vše o neuvěřitelných dobrodružstvích zázračného policisty Flopa! Dokáže vyřešit i ty *nejpodlejší* zápletky a úskoky. Ha ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009243"
 msgid "\"Yes. My identity. Ha ha ha.\""
 msgstr ""
+"\"Ano. Svojí identitu. Ha ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000927D"
 msgid "\"You've got something against honest workers?\""
 msgstr ""
+"\"Máš snad něco proti poctivým dělníkům?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093D4"
 msgid "\"Aren't we the lucky ones then? But I'm getting *real* bored with this... maybe it's time to change the subject.\""
 msgstr ""
+"\"Nejsme tedy my vlastně ti šťastní? Ale už mě to začíná nudit... možná je čas změnit téma.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009425"
 msgid "\"O-ho! I wonder what *harrowing mystery* lies behind this feat of self-destruction.\""
 msgstr ""
+"O-ho! Zajímalo by mě, jaká *hrozivá záhada* leží za tímto sebedestrukčním počinem.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094AC"
 msgid "\"Prove it, creep.\""
 msgstr ""
+"\"Tak to dokaž, obludo.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009DC5"
 msgid "\"Right now? You! Ha ha. We've got our eyes on you, believe you me!\""
 msgstr ""
+"\"Jako teď? Tebe! Ha ha. Stále tě pozorujeme, věř mi!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000A044"
 msgid "\"Alright, you want more? We saw you try to punch that kid. A grown man, a *police officer* trying to punch a snot-nosed punk kid! A kid, for fuck's sake!\""
 msgstr ""
+"\"Dobře, chceš víc? Viděli jsme tě, jak jsi chtěl toho kluka praštit. Dospělý muž, *policejní detektiv*, který se snaží praštit usmrkaného kluka! Dítě, pro krista!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F0000A044"
 msgid "\"Alright, you want more? We saw you punch a kid. A grown man, a *police officer* punched a wee snot-nosed punk kid. In the face! Do you understand how fucked up that is, you maniac?\""
 msgstr ""
+"\"Tak dobře, chceš víc? Viděli jsme, jak jsi praštil to dítě. Dospělý muž, *policejní detektiv*, udeřil malého usmrkaného kluka. Do obličeje! Chápeš, jak moc je to ubohý, ty maniaku?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009124"
 msgid "\"Do what, look?\""
 msgstr ""
+"\"Nedělej co? Porozhlížet se?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009131"
 msgid "\"From your perspective... I'm a Mysterious Pair of Eyes, boo!!\""
 msgstr ""
+"\"Z tvého pohledu.... jsem mysteriozní pár očí, boo!!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091F5"
 msgid "\"Yeah, someone should.\""
 msgstr ""
+"\"No, někdo by mohl.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F000091F5"
 msgid "\"Yes! Exactly what the little book girl said earlier.\""
 msgstr ""
+"\"Ano! Přesně to, co předtím říkala ta holčička s tou knihou.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100002F000091F5"
 msgid "\"Yes! Exactly what young Annette said earlier.\""
 msgstr ""
+"\"Ano! Přesně to, co předtím řekla tak mladá Aneta.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009259"
 msgid "\"Looking. Peeking. Gazing. Staring. Watching. Ogling. Gawking.\""
 msgstr ""
+"\"Hledám. Nahlížím. Dívám. Sleduji. Pokoukávám. Zírám.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093A3"
 msgid "\"Well, we know what you're up to. We observe your every move. Take care and watch your back.\" The eyes suddenly disappear from sight, only emptiness remains, floating in the lacuna between the gates."
 msgstr ""
+"\"No, víme, co máš za lubem. Sledujeme každý tvůj krok. Dávej si pozor a kryj si záda.\" Oči náhle zmizí z dohledu, a zůstane jen prázdnota, která se vznáší v mezeře mezi branami."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009549"
 msgid "\"That's way more boring than I imagined.\""
 msgstr ""
+"\"To je mnohem nudnější, než jak jsem si to představoval.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000A05F"
 msgid "\"Sorry, things just got out of... hand.\""
 msgstr ""
+"\"Omlouvám se, prostě se mi to vymklo z... ruky.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002340"
 msgid "\"I'm sure your story is very *unique* and not a stereotype-ridden re-hash of tired ideas.\""
 msgstr ""
+"\"Jsem si jistý, že tvůj příběh je velice *ojedinělý* a není stereotypním se spoustou opakujících se a otřepaných myšlenek.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000236B"
 msgid "\"I'm still not sure that's an actual thing...\""
 msgstr ""
+"\"Tím si nejsem tak úplně jistej...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FEA"
 msgid "\"Welcome to fucking Martinaise, piggy! We've got our eye on you.\""
 msgstr ""
+"\"Vítej v podělané Martinéze, prasátko! Stále tě pozorujeme.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000905C"
 msgid "\"Are you some kind of a sex pervert?\""
 msgstr ""
+"\"Jsi snad nějaký sexuální úchylák?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090D9"
 msgid "\"Ha ha ha ha!\" A loud, derisive laugh echoes wildly through the gates."
 msgstr ""
+"\"Ha ha ha ha!\" Bránou se ozve hlasitý posměšný úšklebek."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090E1"
 msgid "\"Whatever. Jerk.\""
 msgstr ""
+"\"To je jedno. Hlupáku.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009170"
 msgid "\"*We* who?\""
 msgstr ""
+"\"*Pozorujete*, kdo?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093BF"
 msgid "\"Oh. I don't do that... I think. As far as I remember.\""
 msgstr ""
+"\"Oh. To nedělám... Myslím, že ne. Pokud si dobře vzpomínám.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009595"
 msgid "\"Just doing my job.\""
 msgstr ""
+"\"Jen dělám svou práci.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000A051"
 msgid "\"He fuckin' deserved it.\""
 msgstr ""
+"\"Zasloužil si to, sakra.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000A057"
 msgid "\"It was a lesson in *respect*.\""
 msgstr ""
+"\"Dostal lekci z *pokory*.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000235F"
 msgid "\"Ah, but of course! It's all a huge part of the secret homo-sexual underground.\""
 msgstr ""
+"\"Ach, no jistě! Je to všechno jedna obrovská součást tajného homo-sexuálního podsvětí.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FF6"
 msgid "\"There are *so many* eyes all over the place, you can't even fathom it. Every hole, every gap, every nook -- someone will be peeking. You can't escape.\""
 msgstr ""
+"\"Je nás tu *mnoho*, že to ani nedokážeš pochopit. V každé díře, v každé mezeře, v každém zákoutí - je někdo kdo sleduje. Nemůžeš jim uniknout.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009076"
 msgid "\"I make it my responsibility to judge and police the intimate behaviours of complete strangers.\""
 msgstr ""
+"\"Považuji za svou povinnost posuzovat a kontrolovat intimní chování zcela cizích lidí.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009099"
 msgid "\"Uhh... plain, maybe?\""
 msgstr ""
+"\"Uhh... možná obyčejný?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090C2"
 msgid "\"Fuck you, man, come say that to my face.\""
 msgstr ""
+"\"Naser si, chlape, pojď mi to říct do očí.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009140"
 msgid "\"Know what? Fine... no point in getting riled up by some clown trying to be abusive.\""
 msgstr ""
+"\"Víš co? Fajn... nemá smysl se rozčilovat kvůli nějakému šaškovi, který se snaží být akorát toxický.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -423,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009355"
 msgid "\"Go think-man, go. Find some clues, put two and two together. That's how the magic happens, ha ha.\""
 msgstr ""
+"\"Směle do toho hlavičko. Najdi nějaké stopy, a dej si dvě a dvě dohromady. Tak vzniká ta magie, ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -430,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009378"
 msgid "\"Hell yes!\""
 msgstr ""
+"\"To sakra jo!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -437,6 +506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000937D"
 msgid "\"Well, maybe?\""
 msgstr ""
+"\"No, možná?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -444,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094BB"
 msgid "\"We saw you kick the mailbox. That's kind of a jerk thing to do, you know.\""
 msgstr ""
+"Viděli jsme tě, jak jsi kopl do té poštovní schránky. To bylo docela polovičaté, víš?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -451,6 +522,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F000094BB"
 msgid "\"We saw you kick the mailbox and the coin-operated viewer. Are you some kind of a maniac with anger management issues?\""
 msgstr ""
+"\"Viděli jsme, jak jsi kopl do té poštovní schránky a do toho stroje na mince. Jsi snad nějaký maniak, který má problémy se zvládáním vzteku?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -458,6 +530,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100002F000094BB"
 msgid "\"We saw you kick the coin-operated viewer. Bit of a streak of violence when it comes to inanimate objects, eh?\""
 msgstr ""
+"\"Viděli jsme, jak jsi kopl do toho stroje na mince. Trochu násilnický, když jde o neživé předměty, co?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -465,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009518"
 msgid "\"Ooh, so *spooky*. Anyone could have seen this.\""
 msgstr ""
+"\"Ooh, to je tak *strašidelné*. Tohle mohl vidět každý.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -472,6 +546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000953A"
 msgid "Holy shit! A disembodied voice! Have cursed void-phantasms come to haunt us for misdeeds done in the past?"
 msgstr ""
+"No to mě poser! Hlas bez těla! Přišly nás snad prokleté přízraky z prázdnoty pronásledovat za špatné skutky spáchané v minulosti?"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -479,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000957D"
 msgid "\"Ha ha, you won't take us seriously? You will yet -- and you will rue that day.\""
 msgstr ""
+"\"Ha ha, ty nás nechceš brát vážně? Však budeš - a budeš toho dne litovat.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -486,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000A072"
 msgid "\"Yeah? Does that happen to you often, Officer Heavyhands? Seriously, what a psychopath. You can't cover that up...\""
 msgstr ""
+"\"Vážně? Děje se ti to často, detektive tvrdá ruko? Vážně, ty seš psychopat. Z tohohle se nevykecáš...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -493,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002374"
 msgid "\"Of course it's not, you numbnuts!\" A groan comes from the other side. \"Unbelievable.\""
 msgstr ""
+"\"Samozřejmě, že ne, ty natvrdlino!\" Z druhé strany se ozve sténání. \"Neuvěřitelný.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -500,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009194"
 msgid "\"Good use of sarcasm there, man.\" You hear a faint clapping sound, brimming with caricature."
 msgstr ""
+"\"Skvěle použitý sarkasmus, chlape.\" Náhle uslyšíš slabé tlesknutí, které je plné karikatury."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -507,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000920D"
 msgid "\"Whatever, it's not really my thing anyway.\""
 msgstr ""
+"\"To je fuk, to není nic pro mě.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -514,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009214"
 msgid "\"Oh no, certainly not! Who would ever dare such a thing.\""
 msgstr ""
+"\"Ne, to určitě ne! Jak by si to mohl někdo vůbec dovolit.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -521,6 +602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092BE"
 msgid "\"No, I meant... don't scare people like that.\""
 msgstr ""
+"\"Ne, chtěl jsem tím jen říct... nestrašte lidi.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -528,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092D4"
 msgid "The mysterious pair of eyes attentively follow your every move."
 msgstr ""
+"Misteriozní pár očí pozorně sleduje každý tvůj pohyb."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -535,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009402"
 msgid "\"A rallying cry for coppers everywhere! *We haven't done anything, we are never of any use*, ha ha.\""
 msgstr ""
+"\"Oznámení všem policistům na celém světě! *Nic jsme neudělali, nikdy nejsme nic neprovedli*, ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -542,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002358"
 msgid "\"Is this one of those homo things that keeps coming up?\""
 msgstr ""
+"\"To je ta jedna z těch homo věcí, které se tu pořád objevují?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -549,6 +634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002366"
 msgid "\"Really?!\""
 msgstr ""
+"\"Vážně?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -556,6 +642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000237A"
 msgid "\"No.\" A groan comes from the other side. \"You're a complete tool, aren't you.\""
 msgstr ""
+"\"Ne.\" A z druhé strany se ozve sténání. \"Ty jsi úplně natvrdlej, co?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -563,6 +650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009048"
 msgid "\"Suit yourself!\" The eyes gleam in the murky depths beyond the gates."
 msgstr ""
+"\"Jak chceš!\" A v temné hlubině za branou se zalesknou oči."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -570,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009167"
 msgid "\"Exactly. That's what being a police officer is all about.\""
 msgstr ""
+"\"Přesně. A o tom je práce dětektiva.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -577,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091E7"
 msgid "\"Of course! Amazing! If a little girl says so, it absolutely should happen!\""
 msgstr ""
+"\"Samozřejmě! Úžasné! Když to říká malá holčička, tak by se to rozhodně mělo stát!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -584,6 +674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093C5"
 msgid "\"But what if they *really* deserved it?\""
 msgstr ""
+"\"Ale co když si to *opravdu* zaslouží?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -591,6 +682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009431"
 msgid "\"Your life sounds like an immeasurable clusterfuck. Something's gone *really wrong*.\""
 msgstr ""
+"\"Tvůj život vypadá jako nezměrný zmatek. Něco se muselo *opravdu pokazit*.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -598,6 +690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009493"
 msgid "\"You've really fallen off the rocker, haven't you? This is getting boring, it's time to change the subject.\""
 msgstr ""
+"\"Ty ses vážně pomátnul, co? Začíná to být nuda, je čas změnit téma.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -605,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009562"
 msgid "\"Right. Good. You get it. We are watching you, ever vigilant. Nothing you do escapes our vision.\""
 msgstr ""
+"\"Správně. Dobře. Chápeš to. Sledujeme tě, jsme stále ostražití. Nic z toho, co děláš, neunikne našemu zraku.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -612,6 +706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009622"
 msgid "\"And we saw your attempt to shoot the dead guy down from the tree. That was an... exceptionally impressive failure, if I say so myself.\""
 msgstr ""
+"\"A také jsme viděli tvůj pokus sestřelit toho oběšence ze stromu. To byl... mimořádně působivý neúspěch, když to řeknu osobně.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -619,6 +714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000997F"
 msgid "Don't be ridiculous. It's just a regular person, probably a worker from the harbour."
 msgstr ""
+"Nebuď směšný. Je to jen obyčejný člověk, pravděpodobně dělník z přístavu."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -626,6 +722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000022F1"
 msgid "\"Yes, I would like to. Very much.\""
 msgstr ""
+"\"Ano, to bych fakt moc rád věděl. Opravdu moc.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -633,6 +730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FB9"
 msgid "\"Huh, what a freak.\" [Leave.]"
 msgstr ""
+"\"Huh, divný přízrak.\" [Odejdi.]"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -640,6 +738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FE4"
 msgid "\"The eyes. The eyes! There are eyes everywhere, copper. Beware.\""
 msgstr ""
+"\"Oči. Oči! Všude tady máme oči, poldíku. Dávej si pozor.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -647,6 +746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090D2"
 msgid "\"If you say so... I haven't really thought about it?\""
 msgstr ""
+"\"Když to říkáš... Opravdu jsem o tom nepřemýšlel.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -654,6 +754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091B8"
 msgid "\"Probably a docker, aiming to block these loud-ass scab fucks from getting in. The guys get panicky sometimes...\""
 msgstr ""
+"\"Nejspíš nějaký dokař, který chce těmhle uřvaným stávkokazům zabránit aby se dostali dovnitř. Chlapi občas zpanikaří...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -661,6 +762,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000939C"
 msgid "\"It's easy and comfortable to side with the ignorant, the arrogant, the condescending, isn't it? Hide away in the soft, secure existence of perceived superiority, a vapid fantasy of your mind.\""
 msgstr ""
+"\"Je snadné a pohodlné stát na straně ignorantů, arogantních a povýšených, že? Zachumlat se do měkkého, a bezpečného bytí domnělé nadřazenosti, tzv. oparu fantazie své mysli.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -668,6 +770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009442"
 msgid "\"Think I don't know that?\""
 msgstr ""
+"\"Myslíš, že to nevím?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -675,6 +778,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009452"
 msgid "\"Mm, the delights of existence. A constant anguish and concern over horrible things you don't even know about, but can *imagine* so vividly. Ha ha.\""
 msgstr ""
+"\"Mm, slasti existence. Neustálá úzkost a starost o strašné věci, o kterých nemáš ani potuchy, ale dokážeš si je celkem živě *představit*. Ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -682,6 +786,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009618"
 msgid "\"And we saw you got the body down. Oh, such wonderful progress! Hold the applause, ladies and gents.\""
 msgstr ""
+"\"A také jsme viděli, že jsi sundal to tělo. Jaký to úžasný progres! Dámy a pánové, zadržte váš potlesk.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -689,6 +794,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000A066"
 msgid "\"Oh, sure, think up any justification you can for your fucked up, vicious deeds. Seriously, what a psychopath. You can't cover that up...\""
 msgstr ""
+"\"No jistě, vymysli si pro své zkurvené a sadistické činy jakékoliv ospravedlnění. Vážně, ty jsi psychopat. Tohle neokecáš...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -696,6 +802,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000022E1"
 msgid "\"Are you the company lookout Joyce hinted at?\""
 msgstr ""
+"\"Ty jseš ten hlídač, o kterém mluvila Joyce?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -703,6 +810,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000907D"
 msgid "\"Bi-curious or plain curious?\""
 msgstr ""
+"\"Bi- zvědavý, nebo zvědavý?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -710,6 +818,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009085"
 msgid "\"Believe me, we know. We've got our eyes on you. Can't keep it to yourself, can you? Always creepin' into the lives of others, trying to dominate their actions, even their conversations.\""
 msgstr ""
+"\"Věř mi, my to víme. Stále tě pozorujeme. Nemůžeš si to nechat pro sebe, že ne? Vždycky se vplížíš do života ostatním, a snažíš se ovládnout jejich chování, dokonce i jejich výroky.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -717,6 +826,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091C6"
 msgid "\"Most likely, Mr. *Amazing Investigator*. Aren't you a sharp-ass pencil! Maybe someone should write a novel about you.\""
 msgstr ""
+"\"S největší pravděpodobností, pane *Úžasný vyšetřovateli*. Nejsi ty náhodou náhodou nejostřejší tužka v penále? Možná by o tobě měl někdo napsat román.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -724,6 +834,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009293"
 msgid "\"Honest, my ass. Just look at the guy, geez!\""
 msgstr ""
+"\"No, abych byl upřímný. Stačí se na něj podívat, proboha!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -731,6 +842,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092C6"
 msgid "\"Never mind, doesn't matter.\" (Calm yourself.)"
 msgstr ""
+"\"To je jedno, na tom nezáleží.\" (Uklidnit se.)"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -738,6 +850,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093CD"
 msgid "\"Isn't that what the judicial system is all about? The rules of law are developed and set for a reason. Well, this turned boring quickly... it's time to change the subject.\""
 msgstr ""
+"\"Není právě tohle smyslem soudní jurisdikce? Pravidla a práva jsou vytvořena a stanovena z nějakého důvodu. No, tohle se rychle změnilo v nudu... je čas změnit téma.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -745,6 +858,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009576"
 msgid "\"Watch all you want, I don't mind.\""
 msgstr ""
+"\"Sleduj si co chceš, je mi to šumák.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -752,6 +866,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002337"
 msgid "\"It's gotta be something *big* and *deep* and *important*. Because certainly you aren't some regular asshole avoiding the fact that he goes around fucking up everyone's lives with their self-serving, egotistical arrogance?\""
 msgstr ""
+"\"Musí to být něco *velkého* a *hlubokého* a *důležitého*. Protože určitě nejsi nějej ten obyčejnej kretén, který se vyhýbá tomu, že chodí a všem sere život svou sobeckou a egoistickou arogancí, že ne?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -759,6 +874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000023A6"
 msgid "\"What, did your brain shut off or something?\" He grunts. \"I don't understand how you get anything done. Well, whatever.\""
 msgstr ""
+"\"Cože, to se dostal mozkovou mrtvici nebo co?\" Zachrčí. \"Nechápu, jak můžeš vůbec něco udělat. No, to je fuk.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -766,6 +882,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FC0"
 msgid "\"Hello?\""
 msgstr ""
+"\"Zdravíčko?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -773,6 +890,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000901A"
 msgid "\"What are you doing?\""
 msgstr ""
+"\"Co tady děláš?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -780,6 +898,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090A0"
 msgid "\"Figures. What else is new! Certainly not a surprise when it comes to you nit-wit coppo-goons.\""
 msgstr ""
+"\"Údaje. Co je ještě nového! U vás, hnidopichů, to rozhodně není žádné překvapení.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -787,6 +906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009114"
 msgid "\"Maybe I am? Never thought of that.\""
 msgstr ""
+"\"Možná jsem? To mě nikdy nenapadlo.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -794,6 +914,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009186"
 msgid "\"I meant, who are you *really*?\""
 msgstr ""
+"\"Myslím, co seš *doopravdy* zač?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -801,6 +922,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091A7"
 msgid "\"The gate is broken as shit. Someone absolutely destroyed the access panel in the control tower above.\""
 msgstr ""
+"\"Tahle brána je na beton rozbitá. Někdo úplně zničil přístupový panel v řídicí věži, tam nahoře.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -808,6 +930,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000926D"
 msgid "\"Nice going, Detective Thesaurus! You do know a few words, ha ha ha! Yeah, *spying* as well.\""
 msgstr ""
+"\"Dobrý postřeh, detektive Tezerusi! Znáš pár slov, ha ha ha! Jo, a taky znáš *špionáž*.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -815,6 +938,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093FA"
 msgid "\"I haven't done anything!\""
 msgstr ""
+"\"Nic jsem neudělal!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -822,6 +946,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094CD"
 msgid "\"We've had our eye on you for some time now. And I can tell you straight... goddamn, you're one *boring fuckin' cop*!\""
 msgstr ""
+"\"Už nějakou dobu tě sledujeme. A můžu ti na rovinu říct, že jsi zatraceně *nudnej polda*!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -829,6 +954,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000951F"
 msgid "\"Okay, a bit suspicious, but still not particularly menacing.\""
 msgstr ""
+"\"Dobře, to je trochu podezřelé, ale pořád to není nijak zvlášť děsivé.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -836,6 +962,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000959C"
 msgid "\"Think you're some kind of a nice, clean, up-standing citizen? Don't worry, we'll get you yet... you can't keep your nose out of the gutter forever.\""
 msgstr ""
+"\"Myslíš si snad, že jsi nějaký milý, nevinný a bezúhonný občan? Neboj se, my tě ještě dostaneme... nemůžeš věčně vystrkovat ten svůj rypák z kanálu.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -843,6 +970,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000095CF"
 msgid "\"It's a beginning, copper! You consider yourself a clean-cut, up-standing citizen? Don't worry, we'll get you yet... no keeping your nose out of the gutter forever.\""
 msgstr ""
+"\"To je teprve začátek, poldíku! Považuješ se za bezúhonného a spořádaného občana? Neboj se, my tě ještě dostaneme... už nebude žádné vystrkování rypáku z kanálu.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -850,6 +978,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000095F0"
 msgid "\"No such thing. I deny everything.\""
 msgstr ""
+"\"Nic takového. Všechno popírám.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -857,6 +986,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000022EA"
 msgid "\"Wouldn't you like to know, fuckstick!\""
 msgstr ""
+"\"To bys rád věděl, ty vypatlanče!!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -864,6 +994,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002350"
 msgid "\"Sure thing, you pretty flower, you. Go and discover your *exciting* backstory. I'm sure it'll be one-of-a-kind.\""
 msgstr ""
+"\"Jistě, ty překrásná květinko. Jdi a objev svou *vzrušující* minulost. Jsem si jistý, že bude jedinečná.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -871,6 +1002,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008F9D"
 msgid "\"Goddamn! Who's there?\""
 msgstr ""
+"\"Zatraceně! Kdo je to?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -878,6 +1010,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091B1"
 msgid "\"Why would anyone do that?\""
 msgstr ""
+"\"Proč by to někdo dělal?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -885,6 +1018,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009347"
 msgid "\"I'm not scared of you.\""
 msgstr ""
+"\"Já se tě nebojím.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -892,6 +1026,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009372"
 msgid "\"Yes.\""
 msgstr ""
+"\"Ano.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -899,6 +1034,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009480"
 msgid "\"Until doom comes and liberates us from all our woes.\""
 msgstr ""
+"\"Dokud nepřijde zkáza která nás nevysvobodí ze všech našich utrpeních.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -906,6 +1042,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000096CE"
 msgid "\"Getting too hot for you? Ha ha! Yeah, skitter off, find some actual criminals.\""
 msgstr ""
+"\"Začíná ti být velké dusno? Ha ha! Jo, tak si běž najít nějaké skutečné zločince.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -913,6 +1050,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000022F6"
 msgid "\"Can you please not call me names?\""
 msgstr ""
+"\"Můžeš mě oslovovat mým jménem, prosím?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -920,6 +1058,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002349"
 msgid "\"You don't know me.\""
 msgstr ""
+"\"Ty mě neznáš.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -927,6 +1066,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FD8"
 msgid "\"Not through here, that's for sure.\""
 msgstr ""
+"\"Nedostaneš, a to bez debat.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -934,6 +1074,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009070"
 msgid "\"Geez, sorry. I was just being curious?\""
 msgstr ""
+"\"Prokrista, tak promiň. Byl jsem jen zvědavý.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -941,6 +1082,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000923B"
 msgid "\"Secretive much? Hiding something?\""
 msgstr ""
+"\"Jsi až nějak moc tajnůstkářský? Něco skrýváš?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -948,6 +1090,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092CC"
 msgid "\"We are the eyes, we cannot be closed... if one pair shuts, another takes its place, ha ha!\" The eyes grow wide and ominous."
 msgstr ""
+"\"Jsme oči, nemůžeme se přestat dívat... když se jeden pár zavře, otevře se jiný, ha ha!\" Jeho oči se rozšíří a zlověstně se rozzáří."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -955,6 +1098,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092FC"
 msgid "\"You're the one sticking your nose where it doesn't belong, coppola.\" The eyes blink at you."
 msgstr ""
+"\"To ty strkáš nos, kam nemáš, Poldomoldo.\" Oči na tebe mrknou."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -962,6 +1106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000941C"
 msgid "\"Both, maybe?\""
 msgstr ""
+"\"Možná, oboje?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -969,6 +1114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000996E"
 msgid "Holy fuck! It's coming to get us!"
 msgstr ""
+"No doprdele! Jdou si pro nás!"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -976,6 +1122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000239D"
 msgid "Say nothing."
 msgstr ""
+"Nic neříkej."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -983,6 +1130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FDE"
 msgid "\"And the other eye's on that hulking, blaring leader of the scabs. What a suspicious fucking guy.\""
 msgstr ""
+"\"A druhým okem sleduji toho hromotluka, alias řvoucího vůdce stávkokazů. Jaký to podezřelý chlap.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -990,6 +1138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009069"
 msgid "\"Who do you think you are, being disdainful and judgemental about a person's private, idiosyncratic, voyeuristic-erotic preferences anyway? Fuckshit. Goddamn pigs.\""
 msgstr ""
+"\"Kdo si myslíš, že jsi, když pohrdáš a odsuzuješ soukromé, idiosynkratické, voyeursko-erotické preference člověka? Co to kurva jako má být? Zatracený prasata.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -997,6 +1146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009161"
 msgid "\"I don't know if that's completely accurate...\""
 msgstr ""
+"\"Nevím, jestli je to úplně přesné...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1004,6 +1154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000932B"
 msgid "\"Fine, if you won't take this seriously, I'm going to ask about something else.\""
 msgstr ""
+"\"Fajn, jestli to nechceš brát vážně, zeptám se na něco jiného.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1011,6 +1162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000936B"
 msgid "\"You know what you've done, don't start denying it now.\""
 msgstr ""
+"\"Ty víš, co jsi udělal, nezačínej se z toho teď vykrucovat.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1018,6 +1170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009387"
 msgid "\"Look at you, little authoritarian. Bet it also makes you feel good and strong to discriminate against any disenfranchised people that get in your way. Makes you feel all *manly*.\""
 msgstr ""
+"\"No jen se na sebe podívej, takový malý autoritář. Vsadím se, že ti také dělá dobře a dodává ti sílu diskriminovat všechny diskriminované lidi, kteří se ti připletou do cesty. Cítíš se pak *mužně*.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1025,6 +1178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009416"
 msgid "\"It's the booze, definitely. For certain. No doubt.\""
 msgstr ""
+"\"Určitě je to chlast. Stoprocentně. Bez debat.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1032,6 +1186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000942B"
 msgid "\"An intriguing mystery! I wonder what *terrible secrets* lie behind this dark and ominous veil, ha ha.\""
 msgstr ""
+"\"Poutavá záhada! Zajímalo by mě, jaká *strašná tajemství* se skrývají za tímto temným a zlověstným závojem, ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1039,6 +1194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094D3"
 msgid "\"Yeah, you piss off, you self-righteous, lecturing ass-goblin!\""
 msgstr ""
+"\"Jo, jen táhni ty namyšlenej skřete!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1046,6 +1202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000095E9"
 msgid "\"She is a demon begging for release from this mortal coil.\""
 msgstr ""
+"\"Je to démon, který prosí o propuštění z tohoto smrtelného těla.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1053,6 +1210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000095F7"
 msgid "\"It was just a joke, come on. I was teaching her a lesson.\""
 msgstr ""
+"\"To byl jen vtípek, no tak. Chtěl jsem jí dát lekci.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1060,6 +1218,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002398"
 msgid "\"Oh yeah, him. He's a mercenary posing as a worker, yeah.\""
 msgstr ""
+"\"Jo, on. Je to žoldák, který se vydává za dělníka, už vím.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1067,6 +1226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FB3"
 msgid "\"Hey, I asked you a question.\""
 msgstr ""
+"\"Hej, položil jsem ti otázku.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1074,6 +1234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009008"
 msgid "\"We saw you puke in the back yard, trying to get to the hanged man. Shows what a soft-bellied sissy you are.\""
 msgstr ""
+"\"Viděli jsme tě jak zvracíš na dvoře, jak se snažíš dostat k tomu oběšenci. Ukazuješ, jaká jsi měkkota.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1081,6 +1242,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100002F00009008"
 msgid "\"We saw you puking *a lot* in the yard. It was hilarious! You call yourself an officer of the law?\""
 msgstr ""
+"\"Viděli jsme tě na tom dvoře, jak zvracíš. Bylo to k popukání! To si říkáte strážce zákona?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1088,6 +1250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009050"
 msgid "\"Hang on, how *do* you know who I am and what I do?\""
 msgstr ""
+"\"Tak počkat, jak *víš* kdo jsem a co tu hledám?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1095,6 +1258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000911C"
 msgid "\"Ha... live and learn, lawman. Get out there and blossom into a flower! Go figure things out! Meanwhile, I'm getting bored... how about we change the subject?\""
 msgstr ""
+"\"Ha... žij a uč se, muži zákona. Vyjdi ven a rozkveť v květinu! Běž a rozlouskni to! Ale už se začínám nudit... co kdybychom změnili téma?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1102,6 +1266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000918D"
 msgid "\"Ha ha. It was funny enough to me.\""
 msgstr ""
+"\"Ha ha. Pro mě teda bylo.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1109,6 +1274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092B0"
 msgid "\"Look at you, Super-Constable on his way to solve a suspicious case! Seems like that's going to take a long fucking while, ha ha.\""
 msgstr ""
+"\"No to se podívejme, superkonstábl na cestě za vyřešením podezřelého případu! Vypadá to, že ti to bude trvat zatraceně dlouho, ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1116,6 +1282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092F4"
 msgid "\"Boo! The eyes of Martinaise are upon you, piggy!\""
 msgstr ""
+"\"Bú! Martinaizovy oči tě sledují, prasátko!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1123,6 +1290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009313"
 msgid "You know very well she did not talk about how someone should write a book about you. *You* are the one who brought the topic up."
 msgstr ""
+"Dobře víš, že nemluvil o tom, že by o tobě někdo měl napsat knihu. To *ty* jsi to téma nadhodil."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1130,6 +1298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000944C"
 msgid "\"A good thing, too! I am not one of your fatuous Königstein neurosis analyst fucks, cashing in on the anxieties of nice ordinary folk. So, what now, Mr. Sensational Sleuth, sir?\""
 msgstr ""
+"\"To je jedině dobře! Nejsem jeden z těch vašich vypatlaných analytiků neurózy z Königsteinu, kteří vydělávají na úzkostech milých obyčejných lidí. Tak co teď, pane senzační detektive?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1137,6 +1306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000956E"
 msgid "\"Boring?! That you are always being watched and judged? Nothing you do escapes our grasp, we are ever vigilant.\""
 msgstr ""
+"\"Nudnější?! To že jsi neustále někým sledován a souzen? Nic z toho, co děláš, nám neunikne, jsme stále ve střehu.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1144,6 +1314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000230A"
 msgid "The eyes blink rapidly. \"No, I'm not, ha ha ha.\""
 msgstr ""
+"Jeho oči rychle zamrkají. \"Ne, nejsem, ha ha ha.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1151,6 +1322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000232C"
 msgid "Don't be an idiot and say it. In this day and age, of all times. It won't end well."
 msgstr ""
+"Nebuď idiot a vyklop to. V dnešní době, ze všech dob. To nikdy nedopadne dobře."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1158,6 +1330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FA3"
 msgid "\"Hello?\""
 msgstr ""
+"\"Zdravíčko?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1165,6 +1338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FC8"
 msgid "The eyes flicker in the darkness beyond the gates."
 msgstr ""
+"Skrz bránu se v temnotě mihnou oči."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1172,6 +1346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FD0"
 msgid "\"I heard you.\" A muffled voice suddenly clambers through the thick, solid metal gates."
 msgstr ""
+"\"Já tě slyšel.\" Skrz tlustá a pevná kovová vrata se náhle ozve tlumený hlas."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1179,6 +1354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000908B"
 msgid "\"What? I don't understand.\""
 msgstr ""
+"\"Cože? Nerozumím.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1186,6 +1362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009100"
 msgid "\"You're apologizing to me after *I* called you a bunch of shitty things? Goddamn, now who's the weird one?\""
 msgstr ""
+"\"Ty se mi omlouváš poté, co jsem ti řekl spoustu nesmyslů? Zatraceně, kdo je tady teď divnej?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1193,6 +1370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000912B"
 msgid "\"Yes!\""
 msgstr ""
+"\"Ano!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1200,6 +1378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000924F"
 msgid "\"Indeed... oh yes. We know who you are, we do! Don't you worry about that.\""
 msgstr ""
+"\"Vskutku... ach ano. Víme, kdo seš, víme! S tím si ale nedělej těžkou hlavu.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1207,6 +1386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092ED"
 msgid "The eerie pair of blue eyes is still here, gazing out from the dark void between the gates."
 msgstr ""
+"Strašidelný pár modrých očí je stále tady a hledí z temné prázdnoty mezi branami."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1214,6 +1394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009466"
 msgid "\"Oh whatever, I'm not going to give you the satisfaction.\""
 msgstr ""
+"Ale to je fuk, nehodlám ti nahrát na smeč.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1221,6 +1402,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000948C"
 msgid "\"Okay, enough already, this is making me feel even worse.\""
 msgstr ""
+"\"Dobře, už dost, cítím se kvůli tomu ještě hůř.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1228,6 +1410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094A5"
 msgid "\"There's no way you could *fit* inside all those nooks and gaps.\""
 msgstr ""
+"\"Není přeci možné, aby ses do všech těch zákoutí a mezer vešel.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1235,6 +1418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094DD"
 msgid "There is no reply. Only silence lurks in the cavernous depths of the darkness beyond."
 msgstr ""
+"Žádná odpověď však nepřichází. V jeskynních útrobách temnoty se rozprostírá jen ticho."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1242,6 +1426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009551"
 msgid "How can they fit into all the holes and gaps? Are they very tiny people? Or are they... eyes, separated from the body?"
 msgstr ""
+"Jak se mohou vejít do všech těch děr a mezer? Jsou to snad nějací malí lidé? Nebo jsou to snad... oči, oddělené od těla?"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1249,6 +1434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009022"
 msgid "\"Who are you?\""
 msgstr ""
+"\"Co seš zač?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1256,6 +1442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009029"
 msgid "\"Those are some creepy fucking eyes.\""
 msgstr ""
+"\"To jsou ale zatraceně strašidelné oči.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1263,6 +1450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090E7"
 msgid "\"I'm going to get over there and find you, mark my words!\""
 msgstr ""
+"\"Dostanu se tam a najdu tě, pamatuj si má slova!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1270,6 +1458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009107"
 msgid "\"Maybe you're like a... masochist. Into humiliation and stuff.\""
 msgstr ""
+"\"Možná jsi něco jako... masochista. Na ponižování a tak.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1277,6 +1466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009148"
 msgid "\"Ha ha. Okay, you've got me *cornered* there, good sir officer. Anyway, this is really boring... change the subject, why don't we?\""
 msgstr ""
+"\"Ha ha. Dobře, *dostal* jsi mě, pane detektive. Každopádně je to vážně nuda... změňme téma, a proč vlastně ne?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1284,6 +1474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000091D5"
 msgid "\"Are you making fun of me?\""
 msgstr ""
+"\"Snažíš se mě pobavit?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1291,6 +1482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009235"
 msgid "\"I'm a cop, it sure is my business!\""
 msgstr ""
+"\"Já jsem policista a do toho ti nic není!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1298,6 +1490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000929B"
 msgid "\"I dunno...\""
 msgstr ""
+"\"Nevím...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1305,6 +1498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092A1"
 msgid "\"I'll have to... think about it.\""
 msgstr ""
+"\"Musím se nad tím... zamyslet.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1312,6 +1506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000938E"
 msgid "\"I sincerely doubt it. You're supposed to help people and handle actual crime. Not walk around like an oppressive tyrant, passing punishments however you feel.\""
 msgstr ""
+"\"O tom upřímně pochybuji. Máš pomáhat lidem a řešit skutečné zločiny. A ne chodit jako despotický tyran a udělovat tresty, jak se ti zlíbí.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1319,6 +1514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093F4"
 msgid "\"I don't actually remember much of what I've done.\""
 msgstr ""
+"\"Já si skutečně nevybavuji, že bych něco provedl.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1326,6 +1522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009460"
 msgid "\"What do you have against cops?\""
 msgstr ""
+"\"Co máš proti policistům?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1333,6 +1530,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000095FE"
 msgid "\"No, no. That's... like... a super fucked-up thing to do. Seriously, I can't believe you still have your job. Everything else pales compared to this shit...\""
 msgstr ""
+"\"Ne, ne. To... je jako... super zbastlená záležitost. Vážně, nemůžu uvěřit, že máš pořád práci. Všechno ostatní bledne ve srovnání s touhle sračkou...\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1340,6 +1538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008F8F"
 msgid "The spooky pair of blue eyes is peeking in from beyond the gates. The look is very intense, as if trying to burrow into your very soul."
 msgstr ""
+"Strašidelný pár modrých očí nakukuje zpoza brány. Ten pohled je velice intenzivní, jako by se snažil zarýt do tvojí duše."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1347,6 +1546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090A6"
 msgid "\"Yeah, I bet you are.\""
 msgstr ""
+"\"Jo, vsadím se že seš.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1354,6 +1554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000090F9"
 msgid "\"Fair point. Sorry, I haven't been... doing well these past days.\""
 msgstr ""
+"\"To je pravda. Omlouvám se, ale v posledních dnech se mi nevedlo zrovna... dobře.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1361,6 +1562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000917E"
 msgid "\"Good joke, man.\" (Do a slow sarcastic clap.)"
 msgstr ""
+"\"Dobrej vtip, chlape.\" (Pomalu a sarkasticky zatleskat.)"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1368,6 +1570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000919B"
 msgid "\"None of your business. Ooh, so spoo-ooky!\""
 msgstr ""
+"\"Do toho ti nic není. Ooh, jsem tak straši-delný!\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1375,6 +1578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009277"
 msgid "\"Why is he suspicious?\""
 msgstr ""
+"\"Proč, je snad podezřelý?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1382,6 +1586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009364"
 msgid "\"Is it now, is it *really*?\""
 msgstr ""
+"\"Jako teď, je to *skutečné*?!"
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1389,6 +1594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093E1"
 msgid "\"Rotten luck. I guess I'll find another way.\""
 msgstr ""
+"\"Mám zatracenou smůlu. Musím si najít jinou cestu.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1396,6 +1602,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000946E"
 msgid "\"Aw, shucks! And here I was, getting ever so hopeful. Does the ardent cop-man want to ask *more questions* then?\""
 msgstr ""
+"\"A sakra! A já už jsem si dělal naděje. Chce se snad ten vášnivý policajt ptát na *další otázky*?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1403,6 +1610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000949C"
 msgid "\"Good plan, I was kinda getting bored of this topic already. What's next on the menu, Inspector Repression?\""
 msgstr ""
+"\"Dobrý nápad, už mě to téma začínalo nudit. Co je další na pořadu dne, inspektore Potlačovateli?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1410,6 +1618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000089000023AE"
 msgid "\"That so? Well I'll be damned...\" He snorts. \"Guess you ain't all shit-for-brains after all.\""
 msgstr ""
+"\"Vážně? No, to mě podrž...\" Zachrčí. \"Takže nestojíš za úplné hovno.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1417,6 +1626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000910D"
 msgid "\"Nah... I'm just a sorry sack of a man, a positively shitty cop.\""
 msgstr ""
+"\"Ne... jsem jen ubohý člověk, naprosto obyčejně průměrnej polda.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1424,6 +1634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009178"
 msgid "\"That's not funny.\""
 msgstr ""
+"To nebylo vtipné.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1431,6 +1642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009222"
 msgid "\"Not a learned type? Sure is a shocker!\" The eyes gleam brightly in the darkness of the void."
 msgstr ""
+"\"Nejsi ten typ? Jsem šokován!\" Oči se v temnotě prázdnoty jasně lesknou."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1438,6 +1650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000928B"
 msgid "There's something twitching in the back of your mind... a connection hidden between the numbly aching folds of your brain."
 msgstr ""
+"Vzadu v hlavě ti něco škube... spojení skryté mezi otupěle bolavými záhyby tvého mozku."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1445,6 +1658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009332"
 msgid "\"Try not to hurt yourself, old man, ha ha.\" The pair of eyes beams impishly at you."
 msgstr ""
+"\"Hlavně si nic neudělej, staříku, ha ha.\" Pár očí se na tebe bezelstně podívá."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1452,6 +1666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009409"
 msgid "\"A serious bout of denial? Or perhaps the result of the incessant stream of alcohol you've been pouring down your throat?\""
 msgstr ""
+"\"Máš vážný záchvat popírání? Nebo je to snad důsledek neustálého proudu alkoholu, který do sebe liješ?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1459,6 +1674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000947A"
 msgid "\"Nothing, sir, oh nothing at all! Please don't arrest me, I'm just a poor, honest man, trying not to make a mistake. Ha ha!\" The sarcastic laughter effortlessly makes it's way through the thick gates. There's no stopping it."
 msgstr ""
+"\"Nic, pane, vůbec nic! Prosím, nezatýkejte mě, jsem jen chudý, poctivý člověk, který se snaží neudělat chybu. Ha ha!\" Sarkastický smích si bez námahy razí cestu skrz tlustá vrata. Není možné ho zastavit."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1466,6 +1682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000950A"
 msgid "\"We've had our eye on you for quite some time. We saw you stumble out of the hostel, all messed up and stinking of booze.\""
 msgstr ""
+"\"Už nějakou dobu jsme tě sledovali. Viděli jsme tě, jak se potácíš z ubytovny, celý zřízený a páchnoucí chlastem.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1473,6 +1690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00008FAB"
 msgid "The eyes blink rapidly. They seem to be focused on following your every move."
 msgstr ""
+"Oči rychle zamrkají. Zdá se, že soustředěně sledují každý tvůj pohyb."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1480,6 +1698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009260"
 msgid "\"Spying?\""
 msgstr ""
+"\"Špehuješ?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1487,6 +1706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009284"
 msgid "\"Just look at the guy, come on.\""
 msgstr ""
+"\"No jen se na něj podívej, no tak.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1494,6 +1714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000092A9"
 msgid "\"I mean... maybe, somehow?\""
 msgstr ""
+"\"Chci tím říct... možná, tak trochu?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1501,6 +1722,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009341"
 msgid "\"Why should I beware?\""
 msgstr ""
+"\"Proč bych si měl dávat pozor?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1508,6 +1730,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000093B4"
 msgid "In the shadowy depths of the gap between the gates... there is nothing. Not even a single pair of blue eyes, vigilantly observing your every move. Whoever it was, he is gone."
 msgstr ""
+"Ve stinných hlubinách mezery mezi branami... není nic. Dokonce ani jeden pár modrých očí, které ostražitě sledují každý tvůj pohyb. Ale ať už to byl kdokoli, je fuč."
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1515,6 +1738,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009410"
 msgid "\"Denial...? I don't know.\""
 msgstr ""
+"\"Záchvat popírání...? Nevím.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1522,6 +1746,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094D8"
 msgid "\"Hey, come back! Where are you going?\""
 msgstr ""
+"\"Hej, vrať se zpátky! Kam to jako jdeš?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1529,6 +1754,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F000094EC"
 msgid "\"Try not to get too cocky, you might get that eye poked out.\""
 msgstr ""
+"\"Snaž se nebýt až tak nafoukaný, mohl by sis pak vypíchnout oko.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1536,6 +1762,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009513"
 msgid "\"That's it?\""
 msgstr ""
+"\"A to je všechno?\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1543,6 +1770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F00009543"
 msgid "\"Oh. Of course I get it.\""
 msgstr ""
+"\"Oh. Samozřejmě, že tomu rozumím.\""
 
 #. Title = GATES / MYSTERIOUS EYES
 #. Description = Interactable object (the gap in the gates) leads to a dialogue with the spooky pair of eyes.
@@ -1550,3 +1778,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002F0000958E"
 msgid "\"Damn straight.\""
 msgstr ""
+"\"To si teda piš.\""
