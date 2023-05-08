@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Shack Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000021000022FF"
+msgid "It's getting cold this late in the night. Time to call it a day."
+msgstr ""
+"Il fait froid le soir, à cette heure tardive. Mieux vaut s’arrêter là pour aujourd’hui."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Shack Door
+#. Conversant = You
+msgctxt "Alternate1/0x01000021000022FF"
+msgid "It's getting late and it's raining. Time to call it a day."
+msgstr ""
+"Il se fait tard et il pleut. Mieux vaut s’arrêter là pour aujourd’hui."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Shack Door
+#. Conversant = You
+msgctxt "Alternate2/0x01000021000022FF"
+msgid "It's getting late and it's snowing. Time to call it a day."
+msgstr ""
+"Il se fait tard et il neige. Mieux vaut s’arrêter là pour aujourd’hui."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100000AB8"
+msgid "\"I'll wait outside to give you some time and privacy to check out your new living arrangement. But just so you know...\""
+msgstr ""
+"« Je vais attendre dehors pour vous laisser le temps de jeter un œil en toute tranquillité à votre nouveau logement. Par contre... »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100002100000AB8"
+msgid "\"I'll wait outside to give you some time and privacy to check out your new living arrangement and look for any signs of Ruby. But just so you know...\""
+msgstr ""
+"« Je vais attendre dehors pour vous laisser le temps de jeter un œil en toute tranquillité à votre nouveau logement et chercher des traces de Ruby. Par contre... »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100001273"
+msgid "\"After we're done with the day, I'll still be staying in the Whirling-in-Rags for the night. We'll meet in front of the shack in the morning.\""
+msgstr ""
+"« Quand nous aurons fini notre journée, je retournerai au Whirling-in-Rags pour y passer la nuit. On se retrouvera devant la cabane le matin. »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000DE8D"
+msgid "\"I'll be sleeping in my room in the Whirling. We'll meet in front of the shack in the morning.\""
+msgstr ""
+"« Je vais aller dormir au Whirling. On se retrouve devant la cabane demain matin. »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100002F0000DE8D"
+msgid "\"It's getting late. I'll let you sweep this place on your own. I'm sure you can handle the washerwoman... I'll be sleeping in my room in the Whirling. We'll meet in front of the shack in the morning.\""
+msgstr ""
+"« Il se fait tard. Je vais vous laisser balayer tranquillement. Je suis sûr que vous vous en sortirez sans aucun problème avec la laveuse... Je retourne au Whirling. On se retrouve devant la cabane demain matin. »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x0100002100002305"
+msgid "\"Good night, Kim.\" (Send him away for the night.)"
+msgstr ""
+"« Bonne nuit, Kim. » (Renvoyer Kim pour la nuit.)"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x010000210000230B"
+msgid "Not yet. [Leave.]"
+msgstr ""
+"Pas encore. [Partir.]"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000231D"
+msgid "\"Good night, officer. We'll meet in front of the shack in the morning.\""
+msgstr ""
+"« Bonne nuit. On se retrouve devant la cabane demain matin. »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x0100002F0000DE6B"
+msgid "Unlock the shack door with the key."
+msgstr ""
+"Déverrouiller la porte de la cabane avec la clé."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100001600009CFD"
+msgid "\"I'm afraid we don't have time for rest stops right now, officer. We should really get back to the Whirling.\""
+msgstr ""
+"« Nous n’avons pas le temps de faire une pause maintenant, je le crains. On devrait retourner au Whirling. »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Shack Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100002343"
+msgid "..."
+msgstr ""
+"..."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600014C1C"
+msgid "\"Good night.\" He smiles: \"And try not to break the case without me.\""
+msgstr ""
+"« Bonne nuit, dit-il en souriant. N’essayez pas de découvrir la clé de l’énigme sans moi. »"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x0100002F0000DE71"
+msgid "Never mind. [Leave.]"
+msgstr ""
+"Peu importe. [Partir.]"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x0100001600009D03"
+msgid "\"Right.\" [Leave.]"
+msgstr ""
+"« Très bien. » [Partir.]"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x0100002100002371"
+msgid "Enter the shack."
+msgstr ""
+"Entrer dans la cabane."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x0100000600014C15"
+msgid "\"I'll sleep here then. See you in the morning.\" (Keep turning the key.)"
+msgstr ""
+"« Je vais dormir ici, alors. À demain. » (Continuer à tourner la clé.)"
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = You
+#. Conversant = Shack Door
+msgctxt "Dialogue Text/0x010000210000233B"
+msgid "Enter the shack."
+msgstr ""
+"Entrer dans la cabane."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Shack Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000DE81"
+msgid "The key turns with a satisfying click. You can enter the shack now."
+msgstr ""
+"La clé tourne en émettant un bruit satisfaisant. Vous pouvez désormais entrer dans la cabane."
+
+#. Title = VILLAGE / SHACK DOOR
+#. Description = The shack door dialogue, if you have gained access to the shack where you can sleep. It's locked until you get it from the Washerwoman.
+#. Actor = Shack Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000DE65"
+msgid "The door has seen better days -- the layer of paint has started to peel off due to the salt and wind from the sea. Even the lock looks slightly rusted."
+msgstr ""
+"La porte a vu des jours meilleurs. La couche de peinture commence à s’écailler à cause du sel et du vent marin. Même le verrou a l’air légèrement rouillé."

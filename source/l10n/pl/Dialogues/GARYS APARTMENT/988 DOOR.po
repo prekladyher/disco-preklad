@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154C4"
+msgid "Someone is moving around in the apartment. You hear the water being turned off and the sound of dishes clinking together."
+msgstr ""
+"Ktoś porusza się w mieszkaniu. Słyszysz zakręcanie wody i odgłos stukających talerzy."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700000A2A"
+msgid "There *might* be important information in the apartment... I mean... there *might*..."
+msgstr ""
+"W mieszkaniu *mogą* być ważne informacje... No... *mogą*..."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008200021739"
+msgid "Good job. Let's go now. I'm sure there's *nothing* interesting in there."
+msgstr ""
+"Dobra robota. Chodźmy już. Na bank nie ma tam *nic* ciekawego."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012FAF"
+msgid "\"It is,\" the lieutenant remarks. \"However, we should definitely get the key from this 'Mañana' Evrart mentioned. That would drastically increase our credibility.\""
+msgstr ""
+"„Tak” – stwierdza porucznik. „Ale na pewno musimy wziąć klucz od tego Mañany, o którym wspominał Evrart. To znacznie zwiększy naszą wiarygodność”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000007000154A3"
+msgid "Press your ear against the door."
+msgstr ""
+"Przyciśnij ucho do drzwi."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000580001B523"
+msgid "Use Mañana's key to unlock the door."
+msgstr ""
+"Otwórz drzwi za pomocą klucza Mañany."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700000A48"
+msgid "Only *curiosity* could account for stepping over that threshold. Maybe there's treasure in there? A white alligator? A fountain of quicksilver?"
+msgstr ""
+"Tylko *ciekawość* mogłaby wytłumaczyć przekroczenie tej granicy. Może tam jest skarb? Biały aligator? Rtęciowa fontanna?"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012F77"
+msgid "The lieutenant merely nods in response."
+msgstr ""
+"W odpowiedzi porucznik tylko kiwa głową."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700015493"
+msgid "The door has braved the elements for decades. The copper nails holding the upholstery in place have turned green from sea air and so is the knocker, shaped like a lion's head."
+msgstr ""
+"Drzwi przez dziesięciolecia znosiły ataki żywiołów. Miedziane gwoździe mocujące ich obicie pozieleniały pod wpływem działania morskiego powietrza. To samo dotyczy kołatki w kształcie lwiego łba."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700015508"
+msgid "The key stops mid-way in the lock. Something's blocking its path. You hear a dish smashing and shattering inside the apartment, then everything falls very silent."
+msgstr ""
+"Klucz zatrzymuje się w zamku w połowie ruchu. Coś go blokuje. Słyszysz z mieszkania odgłos tłukącego się talerza, po czym zapada absolutna cisza."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000344F"
+msgid "You hear someone inside, walking from room to room... whoever lives here must be back home."
+msgstr ""
+"Słyszysz, jak ktoś w środku chodzi z pokoju do pokoju... Ktokolwiek tu mieszka, musiał wrócić do domu."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004000002E28"
+msgid "\"That's probably the door Evrart mentioned. We still need to get the key from this Mañana first though.\""
+msgstr ""
+"„To pewnie drzwi, o których mówił Evrart. Ale wciąż musimy jeszcze wziąć klucz od tego Mañany”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008200021740"
+msgid "There's *nothing* else to do than leave and tell Evrart. No *conceivable* reason for you to intrude on the premises."
+msgstr ""
+"Nie pozostało już *nic* innego, jak stąd iść i powiedzieć Evrartowi. Nie sposób *wymyślić* jakikolwiek powód, żebyś miał wchodzić do środka."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000580001B517"
+msgid "Carefully knock."
+msgstr ""
+"Zapukaj ostrożnie."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004000002E06"
+msgid "This must be the door Evrart mentioned. You still need to get the key from Mañana first though."
+msgstr ""
+"To muszą być te drzwi, o których mówił Evrart. Wciąż jednak musisz zdobyć klucz od Mañany."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Shivers
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008200021747"
+msgid "As you hold the opened door you can feel the air moving. A little draft. A whistle..."
+msgstr ""
+"Trzymając otwarte drzwi, czujesz ruch powietrza. Lekki przeciąg. Pogwizd..."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B5AE"
+msgid "In fact, it's oddly silent in the yard around you. No birds chirp."
+msgstr ""
+"Prawdę mówiąc, na podwórzu panuje dziwna cisza. Nie słychać nawet ptaków."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700000A0B"
+msgid "The door is right here. You can just open it and be done with this."
+msgstr ""
+"Drzwi są tutaj. Możesz je po prostu otworzyć i mieć to z głowy."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012FDE"
+msgid "The door to the 'Weasel's' Den', guarded by the lionhead-knocker. Both have seen better days."
+msgstr ""
+"Drzwi do strzeżonej przez lwią kołatkę „szczurzej nory”. I kołatka, i nora pamiętają lepsze czasy."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000007000154B6"
+msgid "Use Mañana's key to unlock the door."
+msgstr ""
+"Otwórz drzwi za pomocą klucza Mañany."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00009D22"
+msgid "The door to cryptofascist's shabby apartment. It has been locked again."
+msgstr ""
+"Drzwi do obskurnego mieszkania kryptofaszysty. Zostały znów zamknięte."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000082000216B3"
+msgid "\"Let's be honest, this isn't what I joined the RCM for. But -- every day tells you something new about yourself...\" the lieutenant replies, still inspecting the padded door."
+msgstr ""
+"„Bądźmy ze sobą szczerzy – nie po to dołączyłem do MOR-u. Ale... każdego dnia człowiek dowiaduje się o sobie czegoś nowego...” – odpowiada porucznik, wciąż przyglądając się uważnie tapicerowanym drzwiom."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154ED"
+msgid "A plate, glass or a mug."
+msgstr ""
+"Talerz, szklanka lub kubek."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700015517"
+msgid "The tenant's key is in the lock."
+msgstr ""
+"Klucz lokatora jest w zamku."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700019415"
+msgid "No answer."
+msgstr ""
+"Brak odpowiedzi."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580001B570"
+msgid "Finally, the door unlocks with a small clack. Thoughts race through your head..."
+msgstr ""
+"Drzwi otwierają się w końcu z cichym kliknięciem. W twojej głowie roi się od myśli..."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Endurance
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000070001548D"
+msgid "The Royal Lion. Guillaume's Kitten. This knocker will last a lifetime and then some."
+msgstr ""
+"Królewski lew. Kociak Guillaume'a. Ta kołatka przeżyje swojego właściciela z dużą nawiązką."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154CA"
+msgid "Not a sound. The silence is eerie."
+msgstr ""
+"Absolutna, upiorna wręcz cisza."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Suggestion
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008200021732"
+msgid "Well buddy, you opened it. No need to go inside. It would be *rude*."
+msgstr ""
+"No, kolego. Otworzyłeś je. Nie ma sensu wchodzić do środka. To byłoby *niegrzeczne*."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700000A04"
+msgid "\"Yes, presenting a fabrication is known to get results here and there.\" He crosses his arms. \"You took this task. You make the call.\""
+msgstr ""
+"„Tak, konfabulacje pomagają czasem uzyskać pożądane rezultaty” – krzyżuje ręce na piersi. „To ty podjąłeś się tego zadania, więc ty decyduj”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100003443"
+msgid "The door is closed again. Nothing to do here anymore."
+msgstr ""
+"Drzwi są znowu zamknięte. Nie masz tu już nic do zrobienia."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000082000216BC"
+msgid "\"Apparently, working with the local Union boss to get info on an investigation is not something I'm squeamish about.\""
+msgstr ""
+"„Najwyraźniej współpraca z szefem lokalnego Związku, aby zdobyć informacje dotyczące śledztwa, to coś, co mnie nie mierzi”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Savoir Faire
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B5A3"
+msgid "You're *pretty* sure the owner of the apartment isn't here. It's safe-ish."
+msgstr ""
+"Jesteś *raczej* pewien, że właściciela mieszkania tu nie ma. Powinno być bezpiecznie."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580001B54A"
+msgid "The door is slick with rain. You don't hear any movement inside."
+msgstr ""
+"Drzwi są śliskie od deszczu. Nie słyszysz, żeby w środku ktokolwiek się poruszał."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Drama
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B5B7"
+msgid "I don't know... you're a *pretty* good liar. Are you as good an *infiltrator* as you are a liar?"
+msgstr ""
+"No nie wiem... Jesteś *dość* dobrym kłamcą. Ale czy jesteś równie dobrym *dywersantem*?"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700000A19"
+msgid "Besides, if you never open it, you're never gonna find out, what's *behind* the door."
+msgstr ""
+"Poza tym jeśli ich nie otworzysz, to nigdy się nie dowiesz, co jest *za nimi*."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004000002E1D"
+msgid "This must be the door Evrart mentioned. You still need to get the key from Mañana first though."
+msgstr ""
+"To muszą być te drzwi, o których mówił Evrart. Wciąż jednak musisz zdobyć klucz od Mañany."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000007000154B0"
+msgid "[Leave.]"
+msgstr ""
+"[Odejdź]."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x0100000700019401"
+msgid "\"I know you're in there!\""
+msgstr ""
+"„Wiem, że tam jesteś!”"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700019408"
+msgid "\"That already defeats the point, doesn't it?\" The lieutenant glances at the surrounding windows. \"Let's get out of here.\""
+msgstr ""
+"„To niweczy cały plan, prawda?” – porucznik rzuca okiem na okna otaczających was budynków. „Wynośmy się stąd”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000210000342D"
+msgid "The lieutenant looks first at the door, then back at you, then signals you to back off from the door."
+msgstr ""
+"Porucznik spogląda najpierw na drzwi, później na ciebie i daje ci znak, aby od nich odejść."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004000002E0F"
+msgid "\"That's probably the door Evrart mentioned. We still need to get the key from this Mañana first though.\""
+msgstr ""
+"„To pewnie drzwi, o których mówił Evrart. Ale wciąż musimy jeszcze wziąć klucz od tego Mañany”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000082000216D9"
+msgid "\"So you don't mind if I unlock the door?\""
+msgstr ""
+"„Więc nie masz nic przeciwko temu, żebym otworzył drzwi?”"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700015523"
+msgid "The key stops mid-way in the lock. Something's blocking its path. Not a sound is coming from the apartment."
+msgstr ""
+"Klucz zatrzymuje się w zamku w połowie ruchu. Coś go blokuje. Z mieszkania nie dobiega cię żaden odgłos."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100003407"
+msgid "\"We should leave,\" the lieutenant whispers, \"and go talk with Evrart, tell him what happened -- that we couldn't open the door. Maybe there's a workaround.\""
+msgstr ""
+"„Powinniśmy się stąd wynosić” – szepcze porucznik, „I powiedzieć Evrartowi, co się wydarzyło – że nie mogliśmy otworzyć drzwi. Może da się to jakoś obejść”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000580001B53D"
+msgid "Press your ear against the door."
+msgstr ""
+"Przyciśnij ucho do drzwi."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580001B550"
+msgid "The leather upholstery is worn and rough against your jaw. You don't hear any movement."
+msgstr ""
+"Skórzane obicie jest zniszczone i szorstkie w dotyku. Nie słyszysz żadnego ruchu."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Endurance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008200021B1C"
+msgid "The Royal Lion. Guillaume's Kitten. This knocker will last a lifetime and then some."
+msgstr ""
+"Królewski lew. Kociak Guillaume'a. Ta kołatka przeżyje swojego właściciela z dużą nawiązką."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000009F5"
+msgid "You feel eyes on you, watching you from the windows overlooking the yard."
+msgstr ""
+"Czujesz na sobie spojrzenia ludzi obserwujących cię z wychodzących na podwórze okien."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000820002169E"
+msgid "\"Lieutenant, what is your opinion of this task we're undertaking?\""
+msgstr ""
+"„Poruczniku, co sądzisz o zadaniu, którego się podjęliśmy?”"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000082000216F6"
+msgid "\"On the other hand...\" He looks at the surrounding windows uncomfortably. \"We *could* just leave and tell Evrart we opened the door. No one seems to be tailing us to see if we actually did it.\""
+msgstr ""
+"„Z drugiej strony...” – stwierdza, rzucając nieswojo okiem na okna otaczających was budynków. „*Moglibyśmy* po prostu odejść i powiedzieć Evrartowi, że otworzyliśmy te drzwi. Zdaje się, że nikt nas nie śledzi, więc nikt nie zaprzeczy naszym słowom”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580001B532"
+msgid "You knock silently. The upholstery muffles the sound. No response comes from the apartment."
+msgstr ""
+"Pukasz cicho. Obicie tłumi odgłos. Z mieszkania nie dobiega żadna odpowiedź."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000082000216E0"
+msgid "\"Got it!\""
+msgstr ""
+"„Dobra!”"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000082000216EF"
+msgid "\"I mind that a local thug is using the RCM for his busywork, but if this gets us to the bottom of this hanging then I'm willing to look over it.\""
+msgstr ""
+"„Nie podoba mi się, że miejscowy bandzior wykorzystuje MOR do swoich porachunków, ale jeśli dzięki temu odkryjemy prawdę kryjącą się za tym powieszeniem, to jestem skłonny przymknąć na to oko”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700000A22"
+msgid "You try to be as silent as you can. It takes a bit of rattling of the handle to loosen the bolt."
+msgstr ""
+"Próbujesz zachowywać się możliwie cicho. Poluzowanie zasuwy wymaga jednak dość długiego potrząsania klamką."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154D2"
+msgid "The tenant must be cleaning up. That means you're too late. Nothing more to do here, better report back to Evrart."
+msgstr ""
+"Lokator najwyraźniej sprząta. A to znaczy, że się spóźniłeś. Nic tu już nie zdziałasz, lepiej zamelduj Evrartowi."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154E6"
+msgid "Something hits the ground and shatters inside the apartment."
+msgstr ""
+"Coś w mieszkaniu uderza o ziemię, tłukąc się przy okazji."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700019442"
+msgid "You're too late -- the weasel's already back in its den. Let's see what Evrart thinks about it."
+msgstr ""
+"Spóźniłeś się – szczur wrócił już do nory. Zobaczmy, co sądzi o tym Evrart."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000021000033FD"
+msgid "As you turn to leave, you hear footsteps on the other side -- yes, someone's definitely home."
+msgstr ""
+"Kiedy odwracasz się, żeby odejść, z drugiej strony drzwi dobiegają cię kroki. Tak, ktoś ewidentnie jest w domu."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580001B502"
+msgid "This must be it. The basement door is weather-worn. The copper nails holding the upholstery in place have turned green from sea air and there's a knocker, shaped like a lion's head."
+msgstr ""
+"To musi być tu. Drzwi do piwnicy są zniszczone przez pogodę. Miedziane gwoździe mocujące ich obicie pozieleniały pod wpływem działania morskiego powietrza. Na wejściu wisi kołatka w kształcie lwiego łba."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000082000216AE"
+msgid "\"As I already said,\" the lieutenant replies, adjusting his glasses. \"I understand this can't be avoided.\""
+msgstr ""
+"„Jak już mówiłem” – odpowiada porucznik, poprawiając okulary – „zdaję sobie sprawę, że nie da się tego uniknąć”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000082000216E8"
+msgid "\"If the merc tribunal happens before we solve this...\" His eyes meet yours. \"We're looking at casualties. What's one unlocked door compared to that?\""
+msgstr ""
+"„Jeśli trybunał najemników wydarzy się, zanim zakończymy tę sprawę...” – spogląda ci prosto w oczy – „...to zginą ludzie. Jakie znaczenie w porównaniu z tym mają jakieś drzwi?”"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000007000009FD"
+msgid "\"Lie to Evrart? That's also an option?\""
+msgstr ""
+"„Skłamać Evrartowi? To też jest rozwiązanie?”"
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000700012F6E"
+msgid "\"But we do need to get the key from this 'Mañana' Evrart mentioned.\" The lieutenant glances at the door. \"Cause we are *not* gonna break the lock.\""
+msgstr ""
+"„Ale potrzebujemy klucza od tego Mañany, o którym wspominał Evrart” – porucznik zerka na drzwi. „Bo na pewno *nie* wyłamiemy żadnego zamka”."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x01000007000154A9"
+msgid "Knock on the door."
+msgstr ""
+"Zapukaj do drzwi."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154DE"
+msgid "Even the darkness is holding it's breath inside the apartment."
+msgstr ""
+"Nawet mrok wstrzymuje oddech w tym mieszkaniu."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100003410"
+msgid "Maybe it's a good thing you didn't get to open this stranger's door? Go talk with Evrart, tell him what happened."
+msgstr ""
+"Może to i dobrze, że nie otworzyłeś drzwi tego nieznajomego? Idź do Evrarta i powiedz mu, co się stało."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002100003436"
+msgid "You should leave. Leave! Before anything happens..."
+msgstr ""
+"Powinieneś już iść. Idź! Zanim coś się stanie..."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = You
+#. Conversant = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000580001B529"
+msgid "[Leave.]"
+msgstr ""
+"[Odejdź]."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Perception (Hearing)
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580001B582"
+msgid "The sound of the key turning still echoes in the yard. Hopefully no one heard."
+msgstr ""
+"Dźwięk obracającego się klucza wciąż odbija się echem po podwórzu. Miejmy nadzieję, że nikt go nie usłyszał."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000820002168F"
+msgid "\"I guess no one is in.\" The lieutenant looks uncomfortable."
+msgstr ""
+"„Zdaje się, że w środku nikogo nie ma” – porucznik wygląda na skrępowanego."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000154FA"
+msgid "Then a running tap is turned off and the complete absence of sounds feels... tense."
+msgstr ""
+"Potem zakręcony zostaje kran i zapada absolutna cisza pełna... napięcia."
+
+#. Title = GARYS APARTMENT / DOOR
+#. Description = You can open this door when you get the key from Manana.
+#. Actor = Door, Basement Apartment
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000007000193F6"
+msgid "No answer."
+msgstr ""
+"Brak odpowiedzi."

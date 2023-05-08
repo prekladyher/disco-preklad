@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000012B0"
+msgid "\"Why would we want to break into some random citizen's apartment?\""
+msgstr ""
+"« Pourquoi irait-on s’introduire dans l’appartement d’un citoyen lambda ? »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Rhetoric
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000012D3"
+msgid "There's so much he could say right now, but he knows it wouldn't make much of a difference."
+msgstr ""
+"Il pourrait te faire un long exposé sur la question, mais il sait pertinemment que ça ne servirait à rien."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x01000008000012B8"
+msgid "\"Why *wouldn't* we want to?\""
+msgstr ""
+"« Et pourquoi on le ferait *pas* ? »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005BFF"
+msgid "\"I believe it's the *shackle* you mean to cut, detective.\" The lieutenant points to the corroded loop with a gloved finger."
+msgstr ""
+"« Je crois que c’est la *chaîne* que vous êtes censé couper. » Le lieutenant pointe un doigt ganté sur la chaîne corrodée."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Empathy
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001B954"
+msgid "He's just trying to help, don't take it... bad. Relax."
+msgstr ""
+"Il essaie simplement de t’aider, ne le prend pas... mal. Détends-toi."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x010000570001DCC9"
+msgid "Use the chaincutters to cut through the padlock."
+msgstr ""
+"Utiliser la pince coupante pour forcer le cadenas."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "tooltip1/0x010000570001DCC9"
+msgid "Tool not in hand."
+msgstr ""
+"Vous n’avez pas l’outil en main."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "tooltip2/0x010000570001DCC9"
+msgid "Kim pointed out the shackle."
+msgstr ""
+"Kim a pointé le doigt vers la chaîne."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "tooltip3/0x010000570001DCC9"
+msgid "Standard Anti-Wirrâl Die."
+msgstr ""
+"Dé anti-Wirrâl standard."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "tooltip4/0x010000570001DCC9"
+msgid "One More Door."
+msgstr ""
+"Encore une porte."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x010000570001E12B"
+msgid "\"Time for a little snip-snip!\" (Do hand-scissors.)"
+msgstr ""
+"« Il est temps de donner un bon coup de ciseau ! » (Mimer des ciseaux.)"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008900004564"
+msgid "A lock blocks your path! You might have use for one of those standard police devices for cutting chains. Something that may be found in an RCM motor carriage..."
+msgstr ""
+"Un cadenas se dresse en travers de votre chemin ! Vous pourriez avoir besoin de ces pinces coupantes de service de la police. C’est le genre d’objet que l’on trouve dans une automotrice de la MCR..."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x01000008000012C4"
+msgid "\"I don't know, just seems like something we could do.\""
+msgstr ""
+"« J’en sais rien, simplement parce qu’on le peut. »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E133"
+msgid "\"You seem committed to it, so go on.\""
+msgstr ""
+"« Vous semblez en mourir d’envie, alors ne vous privez pas. »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x01000008000012A9"
+msgid "\"We could use some chaincutters here to cut the shackle.\""
+msgstr ""
+"« On pourrait se servir d’une pince coupante pour sectionner la chaîne. »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000012DC"
+msgid "The lieutenant doesn't say a word, his face wiped clear of any emotion."
+msgstr ""
+"Le lieutenant ne prononce pas le moindre mot, le visage vide de toute émotion."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DCDA"
+msgid "The shackle snaps like a twig and the lock falls to the floor with a little thud. It should be possible to enter now..."
+msgstr ""
+"La chaîne craque comme une brindille, puis le cadenas chute au sol dans un bruit sourd. Vous devriez désormais pouvoir entrer..."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100007000005C16"
+msgid "\"Perhaps you should give it another go?\""
+msgstr ""
+"« Peut-être devriez-vous essayer une nouvelle fois ? »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Padlocked Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000FE64"
+msgid "This door has been closed with a padlock. A chalk-drawn number on the board says #11."
+msgstr ""
+"La porte est verrouillée par un cadenas. Le numéro 11 a été dessiné à la craie sur le panneau."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Padlocked Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0000FE7A"
+msgid "No reply."
+msgstr ""
+"Aucune réponse."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000012CD"
+msgid "The lieutenant looks at you for a long moment, then blinks once..."
+msgstr ""
+"Le lieutenant vous observe un long moment, avant de cligner deux fois des yeux..."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x0100002F0000FE71"
+msgid "[Leave.]"
+msgstr ""
+"[Partir.]"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E163"
+msgid "\"After you, detective.\""
+msgstr ""
+"« Après vous. »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x01000008000012BE"
+msgid "\"Snip-snip, my friend!\" (Do hand-scissors.)"
+msgstr ""
+"« Attention, ça va couper ! » (Mimer des ciseaux.)"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000008000012E4"
+msgid "He takes a closer look at the lock. \"I supposed if one were *committed* to it, there's a pair of chaincutters in the Kineema.\""
+msgstr ""
+"Il inspecte le cadenas de plus près. « J’imagine que pour qui en *mourrait d’envie*, la pince coupante dans la Kineema serait d’un grand secours. »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x010000570001DCE6"
+msgid "Examine the padlock."
+msgstr ""
+"Examiner le cadenas."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x0100007000005C08"
+msgid "\"Don't you think that's what I'm *trying* to do?\""
+msgstr ""
+"« Vous croyez pas que c’est ce que *j’essaie* de faire ? »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000002000011A0"
+msgid "What are you doing? You need to get your tools out, man."
+msgstr ""
+"Qu’est-ce que vous fabriquez ? Sortez donc vos outils."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x0100002F0000FE6B"
+msgid "Knock."
+msgstr ""
+"Frapper."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008900004572"
+msgid "Yes! Get those cutters in there and *snip* away. This weak chain is no match for your might."
+msgstr ""
+"Voilà ! Ramenez une de ces pinces coupantes par ici et *découpez-nous* ça. Cette maigrelette chaîne ne résistera pas à votre force."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Padlocked Door
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DCED"
+msgid "It's a solid lump of metal, but the shackle is deeply corroded -- a solid pair of chaincutters would make short work of it."
+msgstr ""
+"C’est un morceau de métal costaud, mais la chaîne est profondément rouillée – une bonne pince coupante devrait faire l’affaire."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001DCDF"
+msgid "What are you doing? You're trying to cut the body of the lock with the chaincutters and it's really not working."
+msgstr ""
+"Qu’est-ce que vous fabriquez ? Vous essayez en vain de couper le cadenas avec la pince coupante."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x010000570001E13F"
+msgid "Refrain from commenting."
+msgstr ""
+"S’abstenir de tout commentaire."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000570001E14D"
+msgid "The lieutenant is concentrated on the hallway, scanning both ways for any approachers."
+msgstr ""
+"Le lieutenant scrute le couloir, guettant des deux côtés la venue d’éventuels curieux."
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = You
+#. Conversant = Padlocked Door
+msgctxt "Dialogue Text/0x0100007000005C0E"
+msgid "\"These chaincutters are broken, Kim.\""
+msgstr ""
+"« Cette pince coupante est merdique, Kim. »"
+
+#. Title = APT / MAZOV DOOR
+#. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
+#. 
+#. 1. Use the wirecutters to cut the chain.
+#. If you don't have them, the door suggests it. The chain is very flimsy. 
+#. Exactly the same structure as other doors. 
+#. 
+#. 1. Observe the padlock. - the weakness here is in chain.
+#. 
+#. Option to get a task if you do not have the chaincutters.
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100008900004552"
+msgid "Better whip out those cutters... you won't get very far otherwise."
+msgstr ""
+"Vous feriez mieux de dégainer votre pince coupante... Sinon, vous n’arriverez pas à grand-chose."

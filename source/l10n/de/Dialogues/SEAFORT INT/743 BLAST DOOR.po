@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B00001809"
+msgid "\"What do you think that shit's for? Let's press some buttons.\" He points to the console at the other end of the room."
+msgstr ""
+"„Was glaubst du, wofür der Scheiß da gedacht ist? Drücken wir ’n paar Knöpfe.“ Er zeigt auf das Steuerpult am anderen Ende des Raumes."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CE50"
+msgid "What's on the other side?"
+msgstr ""
+"Was befindet sich auf der anderen Seite?"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Alternate1/0x010000450001CE50"
+msgid "\"What's on the other side?\""
+msgstr ""
+"„Was befindet sich auf der anderen Seite?“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900000E17"
+msgid "\"You're right. We open the big one -- do you see controls somewhere?\""
+msgstr ""
+"„Du hast recht. Wir öffnen die große Tür. Siehst du irgendwo eine Steuervorrichtung?“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x010000450001D889"
+msgid "The heavy metal door stands as it did, firmly rusted shut into its big brother."
+msgstr ""
+"An der schweren Metalltür hat sich nichts verändert. Ein festes Band aus Rost verbindet sie mit ihrer großen Schwester."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x0100008900000DF3"
+msgid "Fuel --> generator --> console. Seems like an obvious path, now that the power is on."
+msgstr ""
+"Schweröl – Generator – Steuerpult. Jetzt, wo der Strom wieder da ist, klingt das logisch."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x0100008900000E10"
+msgid "He's right. It would be better to open its *big brother*. A powerful engine hangs beneath the ceiling -- it must control the blast door."
+msgstr ""
+"Er hat recht. Es wäre besser, ihre <i>große Schwester</i> zu öffnen. Unter der Decke hängt ein leistungsstarker Motor – er muss die Schutztür bewegen."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CE5C"
+msgid "[Leave.]"
+msgstr ""
+"[Ende.]"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CE76"
+msgid "\"Maybe this is one of the doors we *don't* open?\" He looks at the door, then at its bigger brother, then at the lock…"
+msgstr ""
+"„Vielleicht ist das eine der Türen, die wir <i>nicht</i> öffnen?“ Er begutachtet die Tür, dann ihre größere Schwester, dann das Schloss …"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CE7D"
+msgid "\"All right.\" The lieutenant knocks on the metal. \"I retract my statement. It was naive. Let's look around and get it open.\""
+msgstr ""
+"„Alles klar.“ Der Lieutenant klopft gegen das Metall. „Ich nehme meine Aussage zurück. Sie war naiv. Sehen wir uns um und öffnen wir diese Tür.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000450001CF50"
+msgid "He's right. It would be better to open its *big brother*. A powerful engine hangs under the ceiling -- it must control the blast door."
+msgstr ""
+"Er hat recht. Es wäre besser, ihre <i>große Schwester</i> zu öffnen. Unter der Decke hängt ein leistungsstarker Motor – er muss die Schutztür bewegen."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CEA0"
+msgid "\"No, this isn't 'One More Door'. We're opening it.\""
+msgstr ""
+"„Nein, das ist nicht ‚Noch eine Tür‘. Wir öffnen sie.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x0100008900000DF8"
+msgid "Fuel --> generator --> console. Seems like the obvious path."
+msgstr ""
+"Schweröl – Generator – Steuerpult. Klingt logisch."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900000E29"
+msgid "\"I find that highly unlikely.\""
+msgstr ""
+"„Ich halte das für sehr unwahrscheinlich.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900000E2F"
+msgid "\"One of the *very few doors*? Perhaps...\""
+msgstr ""
+"„Ist das eine der <i>sehr wenigen Türen</i>? Vielleicht …“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100008900000E35"
+msgid "\"Fuckin' A, let's get this shit open. Get to the secrets behind. Secret style.\" He stares at the large doors looming above him."
+msgstr ""
+"„Ja, verdammt, öffnen wir dieses Scheißding und finden wir raus, was für Geheimnisse dahinterstecken. So voll agentenmäßig.“ Er starrt die großen Türen an, die vor ihm aufragen."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D978"
+msgid "\"Fuel -- generator -- console. That's our best chance.\" He points to the console at the other end of the room. \"That there could open it, now that the power's on.\""
+msgstr ""
+"„Schweröl – Generator – Steuerpult. Das wird am ehesten funktionieren.“ Er zeigt auf das Steuerpult am anderen Ende des Raumes. „Jetzt, wo die Stromversorgung wieder funktioniert, könnte sich die Tür damit öffnen lassen.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100008900000E3A"
+msgid "\"Yeah, the console over there?\" He points to the southeast. \"Yeah. Yeah. Let's get this big shit open.\""
+msgstr ""
+"„Ja, das Steuerpult da?“ Er deutet nach Südosten. „Ja, ja! Machen wir die große Scheißtür auf.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Alternate1/0x0100008900000E3A"
+msgid "\"Yeah, the console over there. Remember?\" He points to the southeast. \"Buttons and shit. Yeah. Yeah. Let's get this big shit open, seems like the best plan.\""
+msgstr ""
+"„Ja, das Steuerpult da. Weißt du noch?“ Er deutet nach Südosten. Mit Knöpfen und so ’nem Scheiß. Ja, ja! Machen wir die große Scheißtür auf. Scheint der beste Plan zu sein.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CECF"
+msgid "\"Another part of the island probably.\" The lieutenant looks into the keyhole. \"The lock looks like it could still be usable.\""
+msgstr ""
+"„Vermutlich ein anderer Teil der Insel.“ Der Lieutenant blickt in das Schlüsselloch hinein. „Das Schloss sieht so aus, als könnte es noch funktionsfähig sein.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000450001CF56"
+msgid "Perhaps you could open its *big brother*? A powerful engine hangs beneath the ceiling -- it must control the blast door. There must be controls somewhere..."
+msgstr ""
+"Vielleicht bekommst du die <i>große Schwester</i> auf? Unter der Decke hängt ein leistungsstarker Motor – er muss die Schutztür bewegen. Irgendwo muss sich eine Steuervorrichtung befinden …"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B000017F7"
+msgid "\"We fuelled the generator, didn't we?\" He points to the console at the other end of the room. \"What do you think that shit's for? Let's press some buttons.\""
+msgstr ""
+"„Wir haben Öl in den Generator gekippt, oder?“ Er zeigt auf das Steuerpult am anderen Ende des Raumes. „Was glaubst du, wofür der Scheiß da gedacht ist? Drücken wir ’n paar Knöpfe.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CEBA"
+msgid "\"Sure, you're right. We won't have to open it.\""
+msgstr ""
+"„Klar, Sie haben recht. Wir müssen sie nicht öffnen.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CF69"
+msgid "\"I think there's a console just southeast...\"  He shuffles his feet to stay warm. \"Let's look around. Getting the blast door open seems like the best plan.\""
+msgstr ""
+"„Ich glaube, etwas südöstlich von hier steht ein Steuerpult …“ Er tritt von einem Fuß auf den anderen, um sich warmzuhalten. „Sehen wir uns um. Die Schutztür zu öffnen, scheint mir der beste Plan zu sein.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Alternate1/0x010000450001CF69"
+msgid "\"Yeah -- on the console just southeast of here. Remember?\" He points to it, then shuffles his feet to stay warm. \"Let's look around. Getting the blast door open seems like the best plan.\""
+msgstr ""
+"„Ja – etwas südöstlich von hier steht doch ein Steuerpult. Erinnern Sie sich?“ Er zeigt darauf und tritt dann von einem Fuß auf den anderen, um sich warmzuhalten. „Sehen wir uns um. Die Schutztür zu öffnen, scheint mir der beste Plan zu sein.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D951"
+msgid "\"Fuel -- generator -- console. That's our best chance.\" He points to the console at the other end of the room. \"That there could open it, once we've put some fuel in the generator.\""
+msgstr ""
+"„Schweröl – Generator – Steuerpult. Das wird am ehesten funktionieren.“ Er zeigt auf das Steuerpult am anderen Ende des Raumes. „Damit könnte sich die Tür öffnen lassen, sobald wir den Generator mit etwas Schweröl befüllt haben.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x010000450001CE97"
+msgid "How indeed? Finding the key seems unlikely..."
+msgstr ""
+"Ja, wie? Der Schlüssel wird sich wohl ziemlich sicher nicht auftreiben lassen …"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900000E1D"
+msgid "\"No. This is the titular *One More Door*. We're opening it.\""
+msgstr ""
+"„Nein. Das ist <i>die</i> ‚Noch eine Tür‘, die mir nicht aus dem Kopf geht. Wir öffnen sie.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000060000E8EC"
+msgid "The lieutenant knocks on the metal. \"I retract my statement. It was naive. Let's look around and get it open.\""
+msgstr ""
+"Der Lieutenant klopft gegen das Metall. „Ich nehme meine Aussage zurück. Sie war naiv. Sehen wir uns um und öffnen wir diese Tür.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF62"
+msgid "\"You're right. We open the big one -- do you see controls anywhere?\""
+msgstr ""
+"„Sie haben recht. Wir öffnen die große Tür. Sehen Sie irgendwo eine Steuervorrichtung?“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x0100008900000E23"
+msgid "\"Sure, you're right. We won't have to open it.\""
+msgstr ""
+"„Klar, du hast recht. Wir müssen sie nicht öffnen.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CEA6"
+msgid "\"I find us not opening it highly unlikely.\""
+msgstr ""
+"„Es erscheint mir sehr unwahrscheinlich, dass wir sie nicht öffnen.“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B000017FD"
+msgid "\"Cuno don't know how to pick this lock. This one's... military shit.\" He looks at the door, then at its bigger brother, then at the lock."
+msgstr ""
+"„Cuno hat kein’ Plan, wie man dieses Schloss knackt. Das ist … militärischer Scheiß.“ Er begutachtet die Tür, dann ihre größere Schwester, dann das Schloss."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Logic
+msgctxt "Dialogue Text/0x010000060001EF37"
+msgid "The chances of there being 'important shit' there are rather high, yes."
+msgstr ""
+"Die Wahrscheinlichkeit, dass sich dort „wichtige Scheiße“ befindet, ist ziemlich hoch, ja."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CE56"
+msgid "How do I open this?"
+msgstr ""
+"Wie bekomme ich diese Tür auf?"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = You
+msgctxt "Alternate1/0x010000450001CE56"
+msgid "\"How do we open this?\""
+msgstr ""
+"„Wie bekomme ich diese Tür auf?“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B000017ED"
+msgid "\"Another part of Death Island? Some secret hidden shit, Cuno thinks. Important shit...\""
+msgstr ""
+"„’n anderer Teil von der Todesinsel? Vielleicht irgend ’ne geheime versteckte Scheiße, denkt Cuno. Wichtige Scheiße …“"
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x010000450001CE68"
+msgid "The door is mute, cold as ice. The lock looks like it may have seen recent use, but it's impossible to tell."
+msgstr ""
+"Die Tür schweigt eiskalt. Das Schloss könnte vor kurzem benutzt worden sein, aber sicher lässt sich das unmöglich sagen."
+
+#. Title = SEAFORT INT / BLAST DOOR
+#. Description = blast door interactable dialogue. (this is closed, no way to open, open from console if has fuel in)
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x010000450001CE43"
+msgid "You see a small metal door nested inside a larger one -- a heavy steel blast door. There is a conventional keyhole above the handle. It's very small."
+msgstr ""
+"Du siehst eine kleine Metalltür, eingesetzt in eine größere und schwere Schutztür aus Stahl. Über der Klinke befindet sich ein gewöhnliches Schlüsselloch. Es ist sehr klein."

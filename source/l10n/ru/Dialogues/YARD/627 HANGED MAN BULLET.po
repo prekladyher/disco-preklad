@@ -1,0 +1,3857 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600009050"
+msgid "You touch the dead man's body. His skin is cold, light blue and silvery in the light of the fridge. You *still* have no idea where to begin -- or what to even do with him..."
+msgstr ""
+"Ты касаешься мертвого тела. Кожа у него холодная, светло-синяя и серебристая в свете холодильника. У тебя *до сих пор* нет никаких идей, с чего начинать и что вообще делать с трупом."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019EE5"
+msgid "The word lingers in the air of the basement, far away ice cream makers are buzzing and the sea wind blows outside..."
+msgstr ""
+"Это слово будто повисает в воздухе подвала. Снаружи гудит морской ветер, где-то далеко жужжат машины для мороженого..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A016"
+msgid "*Detective*."
+msgstr ""
+"*Детектив*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004E89"
+msgid "Crawl up his nostrils."
+msgstr ""
+"Засунуть пальцы в ноздри."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000509A"
+msgid "Cuno is silent."
+msgstr ""
+"Куно молчит."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005113"
+msgid "Push deeper."
+msgstr ""
+"Протиснуться дальше."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Empathy
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000051A1"
+msgid "Quivering with awe."
+msgstr ""
+"Он трепещет от благоговейного ужаса."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000534C"
+msgid "\"Fucking shit.\""
+msgstr ""
+"«Твою мать»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005771"
+msgid "\"Yes. And the belt around his neck; the hanging; even dragging him to the yard... *all* of it was done after this man was already dead.\""
+msgstr ""
+"«Да. И ремень вокруг шеи, повешение, даже то, что его затащили во двор... *всё* это делали уже с трупом»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005809"
+msgid "\"I think I need to wash myself.\""
+msgstr ""
+"«Мне бы помыться»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000582F"
+msgid "\"To hide something. The real killer? The real motivation? What really happened here.\""
+msgstr ""
+"«Чтобы что-то скрыть? Настоящего убийцу? Настоящий мотив? То, что на самом деле здесь случилось»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005857"
+msgid "\"Oh.\" He nods. \"You *really, really* do. I am glad to hear you say that. Your room in the Whirling-in-Rags should come with a bathroom. Be sure to make use of it in the evening.\""
+msgstr ""
+"«О, — кивает он, — *это точно*. Я рад, что вы об этом заговорили. В вашем номере в „Танцах в тряпье” должна быть ванная. Обязательно воспользуйтесь ей вечером»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cunoesse
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005987"
+msgid "\"Fucking pig's probably thinking about touching it again...\""
+msgstr ""
+"«Ебаный мусор, небось, хочет снова его помацать...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005998"
+msgid "\"There is no need. We have been thorough with the genitals...\" The lieutenant looks worried."
+msgstr ""
+"«В этом нет нужды. Мы уже осмотрели гениталии...» — лейтенант выглядит взволнованным."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000059A6"
+msgid "His fingernails have turned dark. They're chipped and quite long. There is dirt under them. That's all."
+msgstr ""
+"Его ногти потемнели. Они довольно длинные и обломанные. Под ними грязь. Это всё."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000059A6"
+msgid "His fingernails have turned dark. They're chipped, and quite long. There is dirt under them. Surprise-surprise. No bullet here."
+msgstr ""
+"Его ногти потемнели. Они довольно длинные и обломанные. Под ними только грязь — пули нет. Удивительно!"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000059000066BB"
+msgid "It seems he is leaving you no choice in the matter."
+msgstr ""
+"Похоже, он не оставляет тебе выбора."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600008FA0"
+msgid "\"Klaasje told us the bullet hit him in the *mouth* -- try putting your hand there...\""
+msgstr ""
+"«Клаасье сказала, что пуля попала ему *в рот*. Попробуйте засунуть туда руку...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000090AD"
+msgid "The lieutenant should *clearly* be here for this. You're lost."
+msgstr ""
+"Для этого лейтенант *обязательно* должен быть рядом. Это поражение."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000060001A03E"
+msgid "Bag the corpse and drag it to the motor carriage. [Leave.]"
+msgstr ""
+"Упаковать труп в мешок и перетащить в мотокарету. [Уйти.]"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000511A"
+msgid "Feel around first."
+msgstr ""
+"Сначала прощупать все вокруг."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000520E"
+msgid "You're not far, it'll come to you, keep crawling..."
+msgstr ""
+"Ты уже близко. Вот-вот придет понимание. Продолжай исследовать..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000535A"
+msgid "\"I can't get it...\""
+msgstr ""
+"«Не получается достать...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000053E8"
+msgid "\"Can I have it?\""
+msgstr ""
+"«Можно мне ее забрать?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005473"
+msgid "\"Agreed.\""
+msgstr ""
+"«Согласен»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000056AE"
+msgid "\"The ligament mark, the fractured hyoid bone, it was all treatment...\""
+msgstr ""
+"«Странгуляционная борозда, раздробленная подъязычная кость — все это было манипуляцией...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000580F"
+msgid "\"What happens next?\" (Proceed.)"
+msgstr ""
+"«Ну, что теперь?» (Продолжить.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005972"
+msgid "\"I can't believe the pig is stroking him *again*...\""
+msgstr ""
+"«Поверить не могу! Мусор *снова* ему дрочит...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005A0D"
+msgid "\"I've got a gut feeling that there's more to this corpse.\""
+msgstr ""
+"«Мне чутье подсказывает, что этот труп раскрыл нам не все секреты»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005A65"
+msgid "\"Can't he just... hang out here for a while longer?\""
+msgstr ""
+"«А он не может... просто поваляться тут еще немного?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000040001370C"
+msgid "The inside of the head feels cold and smooth like a glove as you pull out, sweat dripping down your brow -- careful not to lose the prize between your fingers..."
+msgstr ""
+"Внутренность его головы холодная и гладкая, как перчатка. Ты вытягиваешь руку, стараясь не упустить зажатый между пальцами приз, и от напряжения пот стекает у тебя по лбу..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600009004"
+msgid "\"Only if *all else* fails,\" he stresses."
+msgstr ""
+"«Только в *крайнем* случае», — с нажимом повторяет он."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019EB7"
+msgid "\"We bag the corpse and carry him to the holding pen of my Kineema. I can transport him to Processing myself, but I *will* be gone for the rest of the day.\""
+msgstr ""
+"«Упакуем тело в мешок для трупов и положим в багажное отделение моей „Кинемы”. Я могу сам отвезти его в лабораторию на вскрытие, но тогда меня не будет до конца дня»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A09E"
+msgid "Oh well -- in another lifetime."
+msgstr ""
+"Ладно, в другой жизни."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A0AA"
+msgid "If you have nothing to do, read books or sit on the bench on the plaza."
+msgstr ""
+"Если вам нечего делать, можете почитать или посидеть на скамейке на площади."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A12D"
+msgid "We didn't fall for it, he thinks. There's pride in there."
+msgstr ""
+"«Мы не попались на их удочку», — с гордостью думает он."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F0001380B"
+msgid "There go those beautiful enamel boots. You will never own the full set now. May they rest in Processing..."
+msgstr ""
+"Вот и плакали эти чудесные эмалированные ботинки. Теперь у тебя никогда не будет полного комплекта. Да упокоятся они в лаборатории..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004FB9"
+msgid "A vision of black and dark red death, pried open by your naked hands and studded with teeth. Looks like he's laughing, death fumes rising from the throat. And there, in the back of his mouth, above the bell of the uvula, right in the soft palate..."
+msgstr ""
+"Лик черно-багровой смерти, раскуроченный твоими голыми руками и оскалившийся во все зубы. Труп словно смеется; пары смерти поднимаются у него из глотки. И там, в задней части рта, над виноградиной язычка, прямо в мягком нёбе..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500004FB9"
+msgid "A vision of black and dark red death: pried open by your hands and studded with teeth. Looks like he's laughing, death fumes rising from his throat. And there, in the back of his mouth, above the bell of the uvula, right in the soft palate..."
+msgstr ""
+"Лик черно-багровой смерти, раскуроченный твоими руками и оскалившийся во все зубы. Труп словно смеется; пары смерти поднимаются у него из глотки. И там, в задней части рта, над виноградиной язычка, прямо в мягком нёбе..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005188"
+msgid "Your fingers are all the way in now, reaching toward the inside of his skull. The cavity goes further, but the entry wound isn't wide enough for the rest of your hand to follow..."
+msgstr ""
+"Твои пальцы вошли в черепную коробку трупа до конца. Полость идет и дальше, но входное отверстие слишком узкое, чтобы в него могла пройти вся твоя рука..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000525A"
+msgid "\"Can you... can you get to it?\" He searches his pockets for something."
+msgstr ""
+"«Вы можете... вы можете достать его?» — лейтенант что-то ищет у себя в карманах."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005273"
+msgid "There's a tiny crack, a protrusion in the cranium, right in the back of his head. Your finger must be pointing straight at it. From the *inside*."
+msgstr ""
+"В черепной крышке есть крохотная трещинка, выпуклость — прямо на затылке. Похоже, что твой палец направлен прямо на нее. *Изнутри*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000059AD"
+msgid "\"F****ts can't get enough of that dick...\""
+msgstr ""
+"«П***р все на хуй не насмотрится...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00008B6C"
+msgid "He unrolls the plastic. \"I need a little help for carrying him to the holding pen of my Kineema. I'll take it from there.\""
+msgstr ""
+"«Он разворачивает пакет. — Помогите мне дотащить тело до „Кинемы”, погрузить в багажное отделение, а дальше я сам»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600008FCA"
+msgid "He closes his notebook and cracks his neck. \"Let's move. With every hour, whatever we're looking for in the deceased will become harder to find.\""
+msgstr ""
+"Он закрывает блокнот и разминает шею. «Идемте. С каждым часом снижаются наши шансы найти у покойного то, что мы ищем»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A26F"
+msgid "If you have nothing to do, read books or sit on the bench on the plaza."
+msgstr ""
+"Если вам нечего делать, можете почитать или посидеть на скамейке на площади."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004E7B"
+msgid "What is this?"
+msgstr ""
+"Что это?"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate1/0x0100004500004E7B"
+msgid "\"Here we go.\""
+msgstr ""
+"«Поехали...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004F8A"
+msgid "Play with it -- this feels right."
+msgstr ""
+"Поиграть с языком. Почему-то это кажется тебе правильным."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004FE3"
+msgid "A black trickle of liquid runs into his throat from the wound..."
+msgstr ""
+"Из раны в глотку вытекает струйка черной жидкости..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004FF1"
+msgid "Put your finger in."
+msgstr ""
+"Просунуть внутрь палец."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000051BC"
+msgid "Sharp, serrated material. The edges cut right into your skin."
+msgstr ""
+"Острый и зазубренный предмет. Края режут тебе пальцы."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000051BC"
+msgid "Sharp, serrated material. The edges cut right into your skin. This must be the *bullet*."
+msgstr ""
+"Острый и зазубренный предмет. Края режут тебе пальцы. Должно быть, это *пуля*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Alternate2/0x01000045000051BC"
+msgid "Ice cold, serrated metal. Its edges cut right through the latex and into your finger."
+msgstr ""
+"Холодный как лед и зазубренный предмет. Его металлические края пропарывают латекс и режут тебе пальцы."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000051E4"
+msgid "The cartilage gives in with a crack, like some fruit. Just like that your hand is in his head. Strange fluid streams down your wrist -- and then you feel it, with the tip of your finger..."
+msgstr ""
+"Затрещав, как перезревший плод, поддается хрящ. Теперь твоя рука у него в голове. Странная жижа течет у тебя по запястью — а потом ты нащупываешь это кончиком пальца..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000051E4"
+msgid "The cartilage gives in with a crack, like some fruit. Just like that your hand is in his head. Fluid streams down your wrist -- and then you finally feel it, with the tip of your finger...\n"
+msgstr ""
+"Затрещав, как перезревший плод, поддается хрящ. Теперь твоя рука у него в голове. Какая-то жижа течет у тебя по запястью — а потом ты, наконец, нащупываешь это кончиком пальца..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Suggestion
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005288"
+msgid "Her voice is absolutely sizzling with excitement."
+msgstr ""
+"Ее голос срывается от волнения."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000052D0"
+msgid "Slowly pull your fingers out..."
+msgstr ""
+"Медленно вытащить пальцы..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053A3"
+msgid "With a *crack* he punches the knife in the skull. Then one more time -- and one more -- until the bone comes loose like eggshell. Inside you feel the jelly move from his poking. The object is still under your finger."
+msgstr ""
+"Раздается громкий треск — лейтенант вгоняет свой клинок в череп. Потом еще раз, и еще, пока кость не отходит, как яичная скорлупа. Ты чувствуешь, как от ударов колышется желейная масса внутри. Объект все еще у тебя под пальцем."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000053A3"
+msgid "With a *crack* he punches the knife in the skull. Then one more time -- and one more -- until the bone comes loose like eggshell. Inside you feel the jello move from his poking. The bullet is still under your finger."
+msgstr ""
+"Раздается громкий треск — лейтенант вгоняет свой клинок в череп. Потом еще раз, и еще, пока кость не отходит, как яичная скорлупа. Ты чувствуешь, как от ударов колышется желейная масса внутри. Пуля все еще у тебя под пальцем."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005427"
+msgid "\"We need to add an item to the injury list.\" He turns to his notebook. \"Injury #4: Oval entry wound with an abrasion collar. Soft palate, back of mouth.\""
+msgstr ""
+"«Нам надо дополнить список повреждений». Он возвращается к блокноту. «Повреждение № 4: овальная входная рана с пояском осаднения. Задняя часть рта, мягкое нёбо»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005427"
+msgid "\"Looks like we need to add one more item to your injury list...\" He takes out his notebook, *click* goes the pen. \"Injury #4. Oval entry wound with an abrasion collar. Soft palate, back of mouth.\""
+msgstr ""
+"«Похоже, надо дополнить ваш список повреждений... — он достает блокнот, щелкает ручкой. — Повреждение № 4: овальная входная рана с пояском осаднения. Задняя часть рта, мягкое нёбо»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000054BE"
+msgid "\"Good-good...\" The fridge in the background buzzes with excitement."
+msgstr ""
+"«Чудно... дивно...» Где-то на фоне радостно-возбужденно гудит морозильник."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005536"
+msgid "Suddenly, you recall: Two officers must be present for a field autopsy. You take your hand from the dead man's face and open your eyes. You will still need to come back with the lieutenant."
+msgstr ""
+"Вдруг ты вспоминаешь: внутренний осмотр проводится в присутствии двух сотрудников полиции. Ты убираешь руку с лица мертвеца и открываешь глаза. Тебе нужно будет вернуться сюда с лейтенантом."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005734"
+msgid "\"...*this* injury here.\" He points to the mark encircling the corpse's neck."
+msgstr ""
+"«...вот за этой», — показывает он на отметину на шее трупа."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000575D"
+msgid "\"I have had this doubt since I inspected his hands, officer -- there were no signs of struggle. No claw marks on his neck. Why? Why didn't he fight for his life?\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как осмотрел его руки, офицер. На них не было следов борьбы. И на шее нет царапин от ногтей — почему? Почему он не боролся за жизнь?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000575D"
+msgid "\"I've had this doubt since you showed me the tracks, officer. We could not account for why they *carried* him over -- why not march him? There was no satisfying explanation.\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как вы показали мне следы, офицер. Мы не могли понять, почему они *принесли* его, а не привели. Этому не было разумного объяснения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x010000450000575D"
+msgid "\"I've had this doubt since you pointed out the lividity was faint. They know we do it -- analyze hypostasis. I have had perpetrators manipulate the body position before.\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как вы обратили внимание на бледность трупных пятен. Преступники знают, что мы это делаем — анализируем гипостаз. Я уже сталкивался с попытками изменить положение тела»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate3/0x010000450000575D"
+msgid "\"I've had this doubt since you had your *hunch*, officer. That he was doing something *else* at the time of his death. I don't have that kind of intuition myself -- and I don't usually trust it. But it made me... doubt.\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как вы рассказали мне о своей *догадке*, офицер. О том, что во время смерти он делал что-то *еще*. У меня таких озарений не бывает, и обычно я им не доверяю. Но на этот раз... вы посеяли во мне сомнения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005849"
+msgid "\"To put him out of his misery?\" He thinks. \"It's possible, but it does not explain all the other dubious things here -- lack of struggle primarily. I may be intellectually sloppy, but I prefer one theory at a time. And this just smacks of treatment to me.\""
+msgstr ""
+"«Чтобы избавить от мучений? — задумывается он. — Это возможно, но не объясняет остальных несоответствий, в частности — отсутствия борьбы. Может, это от недостатка интеллекта, но я предпочитаю работать с одной теорией за раз. А тут просто за версту несет манипуляцией»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005AE8"
+msgid "\"Hey...\" A wide smile appears on his face. \"Wasn't there a *giant ice bear sarcophagus* below that building?\" He points toward the commercial area."
+msgstr ""
+"«Послушайте, — у него на лице появляется широкая улыбка, — а мы ведь видели под тем зданием *саркофаг в виде огромного белого медведя*». Он показывает в сторону торговой зоны."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Endurance
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600009034"
+msgid "Soon you'll be looking for clues in a pile of sludge and bones."
+msgstr ""
+"Скоро улики ты будешь искать в месиве из гнили и костей."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001341A"
+msgid "This means Lieutenant Kitsuragi will leave the party until tomorrow morning. You're free to do side-tasks and even the main case -- though it might be more difficult."
+msgstr ""
+"Это означает, что лейтенант Кицураги покинет вас до следующего утра. Вы можете спокойно заняться побочными заданиями, или даже основным, но это будет сложнее."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100000600019E27"
+msgid "Brain stem?"
+msgstr ""
+"Мозгового ствола?"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A2AA"
+msgid "\"Work on the case, tend to personal matters? Try not to do anything *too* dangerous. An officer needs backup in a neighbourhood like this.\""
+msgstr ""
+"«Может, вести следствие или заняться личными делами? Постарайтесь только не затевать ничего *слишком* опасного. В таком районе полицейскому хорошо бы ходить с напарником»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000051D5"
+msgid "No, this is too much. (Pull your hand out.)"
+msgstr ""
+"Нет, это уже слишком. (Вытащить руку.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Pain Threshold
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000051DC"
+msgid "The pain is barely noticeable under the adrenaline rush."
+msgstr ""
+"За приливом адреналина ты почти не чувствуешь боли."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000523E"
+msgid "Inspect the skull first."
+msgstr ""
+"Сначала осмотреть череп."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053F5"
+msgid "\"Unknown calibre. Rifled. Some kind of brittle alloy, fractured on impact...\""
+msgstr ""
+"«Калибр неизвестен. С насечками. Какой-то хрупкий сплав, который разлетается при ударе...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005459"
+msgid "Say nothing, just nod."
+msgstr ""
+"Ничего не говорить, просто кивнуть."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000577D"
+msgid "\"Dead, daba-doop-doop.\""
+msgstr ""
+"«Труп, туру-ру-руп»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005954"
+msgid "You pull down his breeches. Marbling is present around the crotch. The penis has shrunk, crawling half way back inside him. There is nothing mysterious or noteworthy here."
+msgstr ""
+"Ты стягиваешь с тела штаны. Промежность покрыта мелкими прожилками, пенис сморщился и словно наполовину втянулся в пах. Тут нет ничего ни загадочного, ни хотя бы стоящего внимания."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005954"
+msgid "The genitals in his breeches continue to be unnoteworthy -- you see the penis of a dead man. If you've seen it once, you already got the picture."
+msgstr ""
+"Гениталии в штанах по-прежнему ничем не примечательны. Ты видишь пенис мертвеца, но картину ты уяснил уже в первый раз."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A49"
+msgid "\"Mhm.\" He gets up. \"This is one task we *cannot* sideline. With every hour, whatever we're looking for will become harder to find.\""
+msgstr ""
+"«Да, — поднимается он, — эту задачу нельзя откладывать. С каждым часом то, что мы ищем, найти будет все сложнее и сложнее»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000059000066AF"
+msgid "He frowns, thinking. \"Try putting your hand in his mouth and probing for the bullet in his *head*.\""
+msgstr ""
+"Он нахмуривается, размышляя. «Попробуйте поместить руку ему в рот и нащупать пулю *в голове*»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000060001A027"
+msgid "Bag the corpse and drag it to the motor carriage. [Leave.]"
+msgstr ""
+"Упаковать труп в мешок и перетащить в мотокарету. [Уйти.]"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100002D00004E42"
+msgid "Fish it out."
+msgstr ""
+"Подцепить."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "tooltip1/0x0100002D00004E42"
+msgid "Precise spot of exit wound."
+msgstr ""
+"Подцепить."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "tooltip2/0x0100002D00004E42"
+msgid "Don't let down Cunoesse!"
+msgstr ""
+"Подцепить."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "tooltip3/0x0100002D00004E42"
+msgid "Punched a hole."
+msgstr ""
+"Подцепить."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004DC6"
+msgid "Your arm reaches out and your eyes close, as if by their own volition. It's dark all around. You feel cold, slippery flesh -- first with your fingertips, then under the palm of your hand."
+msgstr ""
+"Ты протягиваешь руку и невольно зажмуриваешь глаза. Становится темно. Ты чувствуешь холодную слизистую плоть — сперва кончиками пальцев, потом всей ладонью."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500004DC6"
+msgid "Your arm reaches out and your eyes close -- as if by their own volition. It's dark all around. You feel cold, dead flesh through the latex glove. It's right under the palm of your hand."
+msgstr ""
+"Ты протягиваешь руку и невольно зажмуриваешь глаза. Становится темно. Сквозь латекс перчатки ты чувствуешь холодную мертвую плоть. Она у тебя под ладонью."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000504D"
+msgid "...you see a hole, barely visible to the human eye. It is swollen shut, almost vanished, no larger than 0.4 cm in radius. The edges appear darkened."
+msgstr ""
+"...ты видишь едва заметное глазу отверстие. Его радиус не больше 0,4 сантиметра, и оно почти исчезло, закрытое вздувшимися тканями. Края отверстия как будто потемнели."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000050A1"
+msgid "Cuno nods too. He takes a step closer."
+msgstr ""
+"Куно кивает и подходит еще на шаг."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005166"
+msgid "The lieutenant answers with the sound of his pen on paper."
+msgstr ""
+"Ручка лейтенанта скрипит по бумаге."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000053EE"
+msgid "\"Keep it, lieutenant. As a gift.\""
+msgstr ""
+"«Оставь ее себе, лейтенант. В подарок»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000593D"
+msgid "Look in his pants again."
+msgstr ""
+"Снова заглянуть к нему в штаны."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005949"
+msgid "Give up."
+msgstr ""
+"Сдаться."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000059F8"
+msgid "\"No, let's just leave it to the Processing guys.\""
+msgstr ""
+"«Нет. Давай оставим это парням в лаборатории»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A7A"
+msgid "Not to mention the damage that would be dealt to the force's reputation by the corpse just rotting here like this..."
+msgstr ""
+"Не говоря уже о том, какой ущерб репутации полиции наносит гниющий под открытым небом труп."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Electrochemistry
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019E40"
+msgid "The *funk soul brother* at the back of his head has gone dark. Forever."
+msgstr ""
+"*Фанк-соул-браза*, обитавший в затылке, ушел во тьму. Навсегда."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000539C"
+msgid "Pull your fingers back and nod."
+msgstr ""
+"Убрать пальцы и кивнуть."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053BF"
+msgid "\"A bullet.\" The lieutenant picks it up between his fingers. \"Unknown calibre. Rifled... you may remove your hand from the victim's head now, officer -- well done.\""
+msgstr ""
+"«Пуля, — рассматривает лейтенант кусочек металла, зажав его между пальцами. — Калибр неизвестен. С насечками... Можете вынуть руку из головы жертвы, лейтенант. Вы хорошо потрудились»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005419"
+msgid "\"No-no, you deserve it. We can log it later.\" The lieutenant drops the bag in your bloody hand. It feels light."
+msgstr ""
+"«Нет- нет, она ваша по праву. Потом как-нибудь зарегистрируем». Лейтенант опускает пакет в твою окровавленную руку. Он кажется легким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005419"
+msgid "\"No-no, you deserve it. We can log it later.\" The lieutenant drops the bag in your hand. It feels light. "
+msgstr ""
+"«Нет- нет, она ваша по праву. Потом как-нибудь зарегистрируем». Лейтенант опускает пакет тебе в руку. Он кажется легким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000548D"
+msgid "\"That was then. This time we have extensive tissue destruction away from the wound track. This time we have a *bullet*.\""
+msgstr ""
+"«То было тогда. На этот раз у нас есть обширное повреждение тканей в области раны. На этот раз у нас есть *пуля*»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cunoesse
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000054CC"
+msgid "\"Fucking *beautiful...*\""
+msgstr ""
+"«Охуенно...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005978"
+msgid "Don't touch it again."
+msgstr ""
+"Не трогать его."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005AAC"
+msgid "\"If you think so, officer.\" He nods. \"I am not going to object.\""
+msgstr ""
+"«Как скажете, офицер, — кивает он. — Я возражать не буду»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005B22"
+msgid "\"Continue working here. The locals, the case, or tend to your own business? I will meet you downstairs in the Whirling-in-Rags, tomorrow morning -- 7:30 sharp.\""
+msgstr ""
+"«Продолжайте работать здесь. Можете подумать над делом, расспросить местных или просто заняться чем-то своим. Встретимся завтра утром внизу „Танцев в тряпье” — ровно в 7:30."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000205EB"
+msgid "\"All right.\" He takes out a shiny black body bag and starts pulling the plastic over the dead man's face."
+msgstr ""
+"«Ну хорошо», — Ким достает блестящий черный мешок для трупа и начинает натягивать пластик на голову мертвеца."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600008FC4"
+msgid "\"Yes -- now. I've rarely been disappointed by the size of a *giant* ice bear fridge, but I think we should still take a look at it first. Make sure it's big *enough* before we carry him over.\""
+msgstr ""
+"«Именно. Что ж, еще не бывало такого, чтобы меня не устроил размер *гигантского* медведя-холодильника, но все же, наверное, надо сперва на него взглянуть. Убедиться, что внутри хватит места, прежде чем перетаскивать труп»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600009056"
+msgid "You really ought to wait until the cadaver is *refrigerated*. Digging around in this mess now is proving hopelessly difficult."
+msgstr ""
+"Тебе правда стоит подождать, пока труп как следует *промерзнет*. Искать что-то, копаясь в прогнившем месиве, почти безнадежно."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060000908A"
+msgid "The lieutenant rubs his side for warmth. \"It'll come to you sooner or later. At least he's safe here until then.\""
+msgstr ""
+"Лейтенант растирает бока, чтобы согреться. «Рано или поздно вы что-нибудь придумаете. По крайней мере, до тех пор он в надежном месте»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019ECB"
+msgid "\"Work on the case, tend to personal matters? Try not to do anything too dangerous. An officer needs backup in a neighbourhood like this.\""
+msgstr ""
+"«Может, вести следствие или заняться личными делами? Постарайтесь только не затевать ничего слишком опасного. В таком районе полицейскому хорошо бы ходить с напарником»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A11F"
+msgid "\"As I said, treatment is an attempt to manipulate the body after death -- to hide the real cause with a *false* cause. In this case...\""
+msgstr ""
+"«Как я уже говорил, манипуляция — это работа с телом после смерти, чтобы спрятать настоящую причину смерти за ложной. В нашем случае...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A275"
+msgid "This means Lieutenant Kitsuragi will leave until tomorrow morning. Meanwhile, you're free to do side-tasks and even the main case -- though it might be more difficult."
+msgstr ""
+"Это означает, что лейтенант Кицураги покинет вас до следующего утра. В это время вы можете спокойно заняться побочными заданиями, или даже основным, но это будет сложнее."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004FB2"
+msgid "Open your eyes and look."
+msgstr ""
+"Открыть глаза и посмотреть."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000051FC"
+msgid "Fish it out."
+msgstr ""
+"Выудить его."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "tooltip1/0x01000045000051FC"
+msgid "Precise spot of exit wound."
+msgstr ""
+"Точное место выходной раны."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "tooltip2/0x01000045000051FC"
+msgid "Don't let down Cunoesse!"
+msgstr ""
+"Не подвел Куну!"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "tooltip3/0x01000045000051FC"
+msgid "Punched a hole."
+msgstr ""
+"Пробил дыру."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000522E"
+msgid "No. Touch something else."
+msgstr ""
+"Нет. Коснуться чего-то еще."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A00"
+msgid "\"Okay, well... We're in livor mortis here. He's disintegrating. We need to *refrigerate* the body, if we want to conduct another examination -- and we need to do it fast.\""
+msgstr ""
+"«Ну что ж... видите, как посинела кожа? Это livor mortis, он разлагается. Если мы хотим снова обследовать тело, сперва надо его *заморозить*, и сделать это надо побыстрее»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005B1C"
+msgid "\"Okay.\" He unrolls the plastic. \"I need a little help for carrying him to the holding pen of my Kineema. I can take care of the rest.\""
+msgstr ""
+"«Ладно, — он разворачивает пакет. — Помогите мне дотащить тело до „Кинемы”, погрузить в багажное отделение, а дальше я сам»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100000600008FBC"
+msgid "\"An absolutely colossal fridge -- still plugged in -- *literally* in the shape of an ice bear!\""
+msgstr ""
+"«Да, колоссальный холодильник, работающий, и *действительно* в виде белого медведя!»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600008FD4"
+msgid "\"Now that's an overstatement. It's not actually *for* storing cadavers, or at least I hope so. I think we should take a look at it first. Make sure it's big *enough* before we carry him over.\""
+msgstr ""
+"«Ну, тут вы, конечно, преувеличиваете. На самом деле он не предназначен для хранения трупов — по крайней мере, я на это надеюсь. Надо сперва на него взглянуть. Убедиться, что внутри хватит места, прежде чем перетаскивать труп»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019EF6"
+msgid "The word lingers in the air of the yard, far away dogs are barking, further yet the sound of motor traffic..."
+msgstr ""
+"Это слово будто повисает в холодном воздухе двора. Где-то далеко лает собака, еще дальше шумят моторы машин..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004ECD"
+msgid "\"The fuck is he doing?\" You hear a voice squeak. It sounds very far away."
+msgstr ""
+"«Какого хуя он делает?» — слышишь ты хриплый фальцет. Он словно доносится откуда-то очень издалека."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005155"
+msgid "\"Fuckin' *CAVITY* C...\" Cuno's voice is hushed."
+msgstr ""
+"«Ебучая ПОЛОСТЬ», — говорит Куно приглушенным голосом."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cunoesse
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005281"
+msgid "\"Forget about the *fucking exit wound*, bino! THE PIG IS WEARING HIM LIKE A FUCK PUPPET!\""
+msgstr ""
+"«Да на хер твое выходное отверстие, очкозавр! МУСОР НАДЕЛ ЕГО НА РУКУ, КАК ЕБАЛЬНУЮ КУКЛУ!»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000052E5"
+msgid "He's watching his old man get the big prize at the claw game."
+msgstr ""
+"Он глядит, как его старик добыл большой приз из автомата с клешней."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005307"
+msgid "With a *plop*, your hand emerges from the mouth, covered in blood up to the wrist. Between your fingers -- a small flower, a blossom made of lead!"
+msgstr ""
+"С чавкающим всхлипом изо рта трупа появляется твоя рука, до запястья перемазанная кровью. Между пальцами зажато сокровище — крошечный свинцовый цветок."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005307"
+msgid "With a *plop*, your hand emerges from the mouth, covered in blood up to the wrist. Between your fingers -- a small flower, a blossom made of lead!"
+msgstr ""
+"С чавкающим всхлипом изо рта трупа появляется твоя рука, до запястья перемазанная кровью. Между пальцами зажато сокровище — крошечный свинцовый цветок."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate2/0x0100004500005307"
+msgid "With a *plop*, your hand emerges from the mouth. The garden glove is covered in blood right up to the wrist. Between your fingers -- a small flower, a blossom made of lead!"
+msgstr ""
+"С чавкающим всхлипом изо рта трупа появляется твоя рука. Садовая перчатка до запястья перемазана кровью. Между пальцами зажато сокровище — крошечный свинцовый цветок."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005361"
+msgid "Out comes his small folding knife -- the lieutenant moves its blade across the man's skull, searching for the exit wound..."
+msgstr ""
+"На свет появляется небольшой складной нож: лейтенант ведет лезвием по голове трупа в поисках выходного отверстия."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053AA"
+msgid "\"Can you push it out?\""
+msgstr ""
+"«Можете ее вытолкнуть?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000543C"
+msgid "\"High velocity, temporary cavity in brain tissue. Small exit wound on the occiput.\" He underlines the injury, forcefully. \"How does that sound?\""
+msgstr ""
+"«Высокая скорость, образование полости в тканях мозга. Небольшая выходная рана на затылке, — он с силой подчеркивает повреждения. — Ну что, похоже?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000544D"
+msgid "\"Sounds like heaven.\""
+msgstr ""
+"«Похоже на рай»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000596B"
+msgid "Maybe if I touch it again..."
+msgstr ""
+"Может, если снова его потрогать..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A26"
+msgid "The corpse seems to yawn contentedly, as though its glad you've run out of steam."
+msgstr ""
+"Тебе кажется, что труп довольно зевает, обрадованный тем, что у тебя иссяк запал."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005A58"
+msgid "\"Okay -- where do we find a fridge for the body?\""
+msgstr ""
+"«Ясно. И где нам искать морозильник для тела?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A86"
+msgid "\"It would have to be *industrial* in size. Let's start by asking the proprietor of the Whirling-in-Rags, then the Frittte store down at the gates. And if neither has one...\" His voice trails off -- and his gaze settles on *Cuno*."
+msgstr ""
+"«Это должно быть что-то *промышленных* размеров. Давайте для начала спросим в „Танцах в тряпье”, а потом в магазине „Фриттте” у ворот. Если же ни там, ни там ничего не найдется...» — голос лейтенанта стихает, и он смотрит *на Куно*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005A86"
+msgid "\"It would have to be *industrial* in size. Let's start by asking Garte at the Whirling-in-Rags, and the Frittte store down at the gates. If they don't know...\" His voice trails off -- and his gaze settles on *Cuno*. \"But only if *all else* fails.\""
+msgstr ""
+"«Это должно быть что-то *промышленных* размеров. Давайте для начала спросим у Гарта в „Танцах в тряпье”, а потом в магазине „Фриттте” у ворот. Если же там нам не помогут... — голос лейтенанта стихает, и он смотрит *на Куно*. — Но только в *крайнем* случае»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000205CB"
+msgid "He unrolls the plastic. \"I need a little help for carrying him to the holding pen of my Kineema. I'll take it from there.\""
+msgstr ""
+"Он разворачивает пакет. «Помогите мне дотащить тело до „Кинемы”, погрузить в багажное отделение, а дальше я сам»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00004582"
+msgid "\"It's too late to take him into Processing today. I'll take him first thing tomorrow.\" He pulls the black plastic over the dead man's face."
+msgstr ""
+"«Сегодня везти его на вскрытие уже поздно. Займусь завтра с утра». Он закрывает лицо мертвеца черным пластиком."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060000900D"
+msgid "\"Fuck are you looking at bino-man? You wanna piece of the Cuno? Wanna get *fucked*?\""
+msgstr ""
+"«Хули ты пялишься, очкозавр? Нарываешься? Давно по жопе не получал?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A098"
+msgid "There go those beautiful enamel boots. May they rest in Processing..."
+msgstr ""
+"Вот и плакали эти чудесные эмалированные ботинки. Да упокоятся они в лаборатории..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A0B7"
+msgid "There go those beautiful enamel boots. May they rest in Processing..."
+msgstr ""
+"Вот и плакали эти чудесные эмалированные ботинки. Да упокоятся они в лаборатории..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Hand/Eye Coordination
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A13F"
+msgid "This little thing could reveal much about the weapon that shot it."
+msgstr ""
+"Этот маленький кусочек металла может многое рассказать об оружии, из которого стреляли."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A289"
+msgid "\"All right.\" He takes out a shiny black body bag and starts pulling the plastic over the dead man's face."
+msgstr ""
+"«Ну хорошо», — Ким достает блестящий черный мешок для трупа и начинает натягивать пластик на голову мертвеца."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004EAC"
+msgid "Only the little one fits. The flesh changes shape as you bore in, searching for something in the cartilage."
+msgstr ""
+"Тебе удается просунуть внутрь только мизинец. Плоть поддается под нажимом, когда ты ковыряешься в хрящах, что-то выискивая."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004FDC"
+msgid "Touch it with your finger, gently. (Proceed.)"
+msgstr ""
+"Осторожно коснуться его пальцем. (Продолжить.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005094"
+msgid "\"Mhm,\" he agrees. \"Keep going.\""
+msgstr ""
+"«Ага, — соглашается лейтенант, — продолжайте»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000519B"
+msgid "Wriggle in..."
+msgstr ""
+"Вкрутить руку..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cunoesse
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000052EC"
+msgid "\"What?! WHAT is it?\""
+msgstr ""
+"«Что это?! Ну *ЧТО* это?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005300"
+msgid "\"A bullet...\" The lieutenant puts a small bag marked *evidence* under it."
+msgstr ""
+"«Пуля...» — лейтенант подставляет под нее пакетик с пометкой «вещественное доказательство»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000057C4"
+msgid "\"There have been other signs too, small things. We were right not to assign hanging as cause of death. As the perpetrators *expected* we would -- no such luck for them.\""
+msgstr ""
+"«Были и другие признаки, маленькие детали. Мы были правы, когда не стали записывать повешение в причину смерти. Преступники ждали от нас этого — но просчитались»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A14"
+msgid "You can't shake the feeling that there are more secrets concealed in the flesh before you."
+msgstr ""
+"Ты не можешь отделаться от чувства, что эта мертвая плоть хранит еще какие-то секреты."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000590000660B"
+msgid "\"Correct.\""
+msgstr ""
+"«Все верно»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005900006647"
+msgid "His brow furrows while his eyes glaze over. The lieutenant looks regretful for not figuring this out before."
+msgstr ""
+"Он хмурит брови, глаза становятся пустыми. По лейтенанту видно, как он жалеет, что не догадался об этом раньше."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000005000022C6"
+msgid "What about that giant ice bear fridge in the Doomed Commercial Area?"
+msgstr ""
+"А что насчет огромного холодильника-медведя в Проклятой торговой зоне?"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A081"
+msgid "\"All right.\" He takes out a shiny black body bag and starts pulling the plastic over the dead man's face."
+msgstr ""
+"«Ну хорошо», — Ким достает блестящий черный мешок для трупа и начинает натягивать пластик на голову мертвеца."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A127"
+msgid "We almost fell for it, he thinks. *Almost*."
+msgstr ""
+"«Мы едва не попались, — думает он. — Едва»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A2A1"
+msgid "\"I can drive him to Processing today, no problem. Since we stalled with this... But this *does* mean I will be gone for the rest of the day.\""
+msgstr ""
+"« Я могу уже сегодня отвезти его в лабораторию на вскрытие, раз уж мы с ним застряли... Но это означает, что меня не будет до конца дня»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004EA5"
+msgid "Push your fingers in his nose."
+msgstr ""
+"Пропихнуть пальцы."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005202"
+msgid "Touch something else."
+msgstr ""
+"Коснуться чего-то еще."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005247"
+msgid "The thing you're looking for -- it's not there. Crawl out, spider..."
+msgstr ""
+"Того, что ты ищешь, здесь нет. Вылезай обратно, паук."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005247"
+msgid "The thing you're looking for -- it's not here either. Crawl out, spider... "
+msgstr ""
+"Того, что ты ищешь, нет и здесь. Вылезай обратно, паук."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000052DE"
+msgid "\"My pig's fucking *got* it!\""
+msgstr ""
+"«Держит! Мой ебучий мусор *держит*!»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053D4"
+msgid "\"Wait, detective!\" Just as you start to slide your fingers out..."
+msgstr ""
+"«Погодите, детектив», — говорит он, как раз когда ты начинаешь вытаскивать пальцы."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cunoesse
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005519"
+msgid "\"Beautiful...\""
+msgstr ""
+"«Красота...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000560F"
+msgid "Squeeze his nose."
+msgstr ""
+"Сжать ему нос."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000566C"
+msgid "This is the *irregularity* you felt before. The one that was too tiny to register consciously."
+msgstr ""
+"Это и есть то, что ты тогда нащупал. Тебе не удалось осмыслить, что это, из-за крошечного размера."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005837"
+msgid "There is of course the very real possibility he was both shot *and* hanged."
+msgstr ""
+"Остается, конечно, возможность, что его и застрелили, и повесили."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005AC3"
+msgid "Hmm... Cuno looks like he gets around. *Knows* Martinaise. And its fridges too probably..."
+msgstr ""
+"Хм-м... Похоже, Куно разбирается, что тут к чему. *Знает* Мартинез. И холодильники, наверное, тоже..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000E80F"
+msgid "\"What should I do in the meanwhile?\""
+msgstr ""
+"«А чем мне тогда заниматься?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000095000002E6"
+msgid "\"Now, detective... I've rarely been disappointed by the size of a *giant* ice bear fridge, but I think we should still take a look at it first. Make sure it's big *enough* before we carry him over.\""
+msgstr ""
+"«Что ж, детектив... Еще не бывало такого, чтобы меня не устроил размер *гигантского* медведя-холодильника, но все же, наверное, надо сперва на него взглянуть. Убедиться, что внутри хватит места, прежде чем перетаскивать труп»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100000600008FB4"
+msgid "\"So that's what the *ice bear shaped* refrigerator is for!\""
+msgstr ""
+"«Так вот для чего нужен холодильник *в виде белого медведя*!»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A0BD"
+msgid "Oh well -- in another lifetime."
+msgstr ""
+"Ладно, в другой жизни."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000508E"
+msgid "\"I see it...\" The lieutenant looks in. There's a pen in his hand. His notebook is open at the red pages."
+msgstr ""
+"«Вижу...» — заглядывает в рот трупу Ким. У него в руке ручка, блокнот раскрыт на красных страницах."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000508E"
+msgid "\"Abrasion collar...\" The lieutenant looks in. There's a pen in his hand. His notebook is open at the copy paper."
+msgstr ""
+"«Поясок осаднения...» — заглядывает в рот трупу Ким. У него в руке ручка, блокнот раскрыт на чистой странице."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000540F"
+msgid "\"Don't be silly.\" A smile comes across his face. \"You've earned it. Consider the binoclard episode forgotten.\" The lieutenant drops the bag in your bloody hand. It feels light."
+msgstr ""
+"«Глупости, — улыбается он. — Она ваша по праву. И считайте, что мы забыли эпизод с ботаником». Лейтенант опускает пакет в твою окровавленную руку. Он кажется легким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000540F"
+msgid "\"Don't be silly.\" A smile comes across his face. \"You've earned it. Consider the binoclard episode forgotten.\" He drops the bag in your hand. "
+msgstr ""
+"«Глупости, — улыбается он. — Она ваша, вы заслужили. И считайте, что мы забыли эпизод с ботаником». Лейтенант опускает пакет в твою окровавленную руку."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000546D"
+msgid "\"God damn right.\""
+msgstr ""
+"«Так точно»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000056A2"
+msgid "\"Treatment?\""
+msgstr ""
+"«Манипуляция?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005756"
+msgid "\"Aren't we jumping to conclusions?\""
+msgstr ""
+"«Не слишком ли поспешно мы делаем выводы?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005788"
+msgid "\"Deadady-dead-dead.\""
+msgstr ""
+"«Труп-туп-туп»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000057D7"
+msgid "\"I did not *just* come up with this. I've had my doubts since we found no signs of struggle on his wrists. No claw marks on his neck -- why? Why didn't he fight for his life?\""
+msgstr ""
+"«Эта мысль не только что у меня появилась. Я сомневался в первой версии с того момента, как мы не нашли следов борьбы у него на запястьях. И на шее нет царапин от ногтей — почему? Почему он не боролся за жизнь?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000057D7"
+msgid "\"I did not *just* come up with this. I've had my doubts since you showed me the tracks, officer. Why did they *carry* him over -- why not march him? There is no satisfactory explanation.\""
+msgstr ""
+"«Эта мысль не только что у меня появилась. Я сомневался в первой версии с того момента, как вы показали мне следы, офицер. Почему они *принесли* его, а не привели? Этому нет другого разумного объяснения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x01000045000057D7"
+msgid "\"I did not *just* come up with this. I've had my doubts since you said the lividity was faint. *They* know we do it -- analyze hypostasis. I have had perpetrators manipulate the body position before.\""
+msgstr ""
+"«Эта мысль не только что у меня появилась. Я сомневался в первой версии с того момента, как вы обратили внимание на бледность трупных пятен. Преступники знают, что мы это делаем — анализируем гипостаз. Я уже сталкивался с попытками изменить положение тела»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate3/0x01000045000057D7"
+msgid "\"I did not *just* come up with this. I've had my doubts since you told me about that hunch, officer. Him doing something *else* when he died. I don't have intuition -- I don't usually trust it. But it made me doubt.\""
+msgstr ""
+"«Эта мысль не только что у меня появилась. Я сомневался в первой версии с того момента, как вы рассказали о своей *догадке*, офицер. Что во время смерти он делал что-то *еще*. У меня таких озарений не бывает, и обычно я им не доверяю. Но вы посеяли во мне сомнения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000057FD"
+msgid "\"Who would do this?\""
+msgstr ""
+"«Кто мог такое сделать?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005943"
+msgid "Look under his fingernails, like Kim already did."
+msgstr ""
+"Посмотреть у него под ногтями, как это делал Ким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000059F2"
+msgid "\"Yes. There's something we're not seeing.\""
+msgstr ""
+"«Да. Тут есть что-то, чего мы не видим»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A06"
+msgid "He shakes his head. \"I worked as one of these *Processing guys* for a year. They are butchers and clowns. I once saw twenty CODs go misidentified in one week. Chances are slim to none that they'll find anything useful in processing.\""
+msgstr ""
+"Он качает головой. «Я сам целый год работал таким *парнем в лаборатории*. Это мясники и клоуны. Как-то раз они всего за неделю поставили двадцать неправильных причин смерти. Шансов на то, что на вскрытии они найдут что-то полезное, почти никаких»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100006B0000458B"
+msgid "\"Then what?\""
+msgstr ""
+"«И что дальше?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000950000030C"
+msgid "You can almost see the body decomposing before your very eyes. You should drop everything else and look for a way to preserve it so you can conduct your examination better."
+msgstr ""
+"Тело разлагается буквально у тебя на глазах. Тебе нужно отложить все остальные занятия и найти способ сохранить его, чтобы можно было спокойно провести все исследования."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100000600009025"
+msgid "\"I need to take another look at the body first.\""
+msgstr ""
+"«Сначала я хочу еще раз взглянуть на тело»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019E2D"
+msgid "Yes. That's what this part is called."
+msgstr ""
+"Да. Так называется этот отдел."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019EB1"
+msgid "\"We put him in a bag and carry him to the holding pen of my Kineema. The bodybag should contain the odour for the duration of the transport...\""
+msgstr ""
+"«Упакуем тело в мешок для трупов и положим в багажное отделение моей „Кинемы”. На время перевозки мешок должен сдержать запах»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004E82"
+msgid "His face. His cheeks, his nose, his fat swollen lips. Like a spider, your hand crawls over his features. Everything is silent."
+msgstr ""
+"Его лицо. Щеки, нос, толстые распухшие губы. Твоя ладонь словно паук ползет по его чертам. Стоит тишина."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500004E82"
+msgid "His face. His cheeks, his nose, his fat swollen lips. Like a rubber spider your gloved hand crawls on his features. Everything is silent all around."
+msgstr ""
+"Его лицо. Щеки, нос, толстые распухшие губы. Твоя ладонь в перчатке словно резиновый паук ползет по его чертам. Стоит тишина."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004E9E"
+msgid "They are swollen shut -- you need to really *push* to get in."
+msgstr ""
+"Лицо так раздуто, что ноздри плотно закрылись. Тебе придется как следует постараться, чтобы *пропихнуть* пальцы."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000051AE"
+msgid "Punch a hole through his mouth."
+msgstr ""
+"Пробить дыру у него во рту."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000052A1"
+msgid "You push your hand further in. Whatever is in there keeps rolling between your fingers as you beckon it to come out."
+msgstr ""
+"Ты протискиваешь руку дальше. Тот предмет, который ты нашел, все крутится у тебя между пальцами, никак не желая выбираться наружу."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000052A1"
+msgid "You push your hand further in. The bullet keeps rolling between your fingers as you beckon it to come out.\n"
+msgstr ""
+"Ты протискиваешь руку дальше. Пуля все крутится у тебя между пальцами, никак не желая выбираться наружу."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005315"
+msgid "Drop it in."
+msgstr ""
+"Бросить туда пулю."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000532F"
+msgid "\"Of course. You've *earned* it.\" The lieutenant drops the bag in your bloody hand. It feels light."
+msgstr ""
+"«Конечно. Она ваша по праву». Лейтенант опускает пакет в твою окровавленную руку. Он кажется легким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000532F"
+msgid "\"Of course. You deserve it.\" The lieutenant drops the bag in your hand. It feels light. "
+msgstr ""
+"«Конечно. Она ваша по праву». Лейтенант опускает пакет тебе в руку. Он кажется легким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005453"
+msgid "\"Sounds about right.\""
+msgstr ""
+"«Похоже на правду»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000057B2"
+msgid "\"There have been other signs too, small details. Everything is too neatly designed for us to assign probable cause here. As we did, foolhardily. Well -- no more.\""
+msgstr ""
+"«Были и другие признаки, маленькие детали. Всё слишком уж удобно подталкивало нас к очевидной вероятной причине. И мы клюнули на их приманку. Но больше этого не повторится»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005AC8"
+msgid "Or -- remember the buttons on that intercom over there, on the side of the building next to the Whirling? One was for \"Revachol *Ice* City\"? Perhaps it's a... clue?"
+msgstr ""
+"Или... помнишь кнопки на том домофоне, что на здании рядом с «Танцами»? У одной из них была табличка «Ревашоль *Айс* Сити». Может быть, это... подсказка?"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000205F7"
+msgid "\"All right.\" He takes out a shiny black body bag and starts pulling the plastic over the dead man's face."
+msgstr ""
+"«Ну хорошо», — Ким достает блестящий черный мешок для трупа и начинает натягивать пластик на голову мертвеца."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060000902C"
+msgid "\"Hurry. This is one task we *cannot* sideline. With every hour, whatever we're looking for will become harder to find.\""
+msgstr ""
+"«Поторопитесь. Эту задачу нельзя откладывать. С каждым часом то, что мы ищем, найти будет все сложнее и сложнее»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000090C4"
+msgid "You're on the right track."
+msgstr ""
+"Ты на верном пути."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Encyclopedia
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000006000090CC"
+msgid "This is what he used to regulate his emotions with..."
+msgstr ""
+"Так он управлял своими эмоциями..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019FF7"
+msgid "\"One more thing -- this was *really* good work, detective.\""
+msgstr ""
+"«Да, и еще кое-что. Правда, отлично сработано, детектив»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004F9D"
+msgid "The tongue moves freely in the cavity. The mucous of the mouth is slippery, delicate to touch. From the soft meat -- teeth are budding; hard pearls of bone in the gums. And in the back of the mouth..."
+msgstr ""
+"Язык свободно движется в ротовой полости. Изнутри все покрыто влажной слизью, нежной на ощупь. Из рыхлой плоти прорастают зубы; твердые костяные жемчужины в деснах. А в задней части рта..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500004F9D"
+msgid "The tongue moves freely in the cavity. The mucose of the mouth is slippery, fragile even through the latex. From the soft meat -- teeth are budding; hard pearls of bone in the gums. And in the back of the mouth..."
+msgstr ""
+"Язык свободно движется в ротовой полости. Изнутри все покрыто влажной слизью, нежной даже через латекс. Из рыхлой плоти прорастают зубы; твердые костяные жемчужины в деснах. А в задней части рта..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Visual Calculus
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005056"
+msgid "An *abrasion collar*! THIS is what we're after."
+msgstr ""
+"*Поясок осаднения!* Вот что мы ищем!"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000510C"
+msgid "\"Oh shit, C...\""
+msgstr ""
+"«Ох, твою мать...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005121"
+msgid "The basal ganglia feels clumpy -- what entered here has torn apart his reptilian complex."
+msgstr ""
+"Базальные ядра комковатые на ощупь: то, что здесь прошло, разорвало на части его рептильный мозг."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005121"
+msgid "The basal ganglia feels clumpy -- the bullet has torn apart his reptilian complex."
+msgstr ""
+"Базальные ядра комковатые на ощупь: пуля разорвала на части его рептильный мозг."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000518F"
+msgid "All the muscles in your body harden. Time to *enter* him."
+msgstr ""
+"Все мускулы твоего тела напрягаются. Пора *войти* в него."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005237"
+msgid "Can you feel it? You're so close! Rip his jaws open now, look in..."
+msgstr ""
+"Ты чувствуешь? Ты так близко! Выломай ему челюсть, раскрой рот, посмотри..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005352"
+msgid "\"A little help, lieutenant?\""
+msgstr ""
+"«Может, поможешь, лейтенант?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Visual Calculus
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000563E"
+msgid "The object that is in there stopped just short of the skull, in the encephalus, knocking this tiny fracture into the cranium..."
+msgstr ""
+"Предмет, который ты нашел, остановился у самого черепа, в коре, оставив эту крохотную трещину в костяной крышке..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000059D0"
+msgid "\"Do you think we missed something?\""
+msgstr ""
+"«Вы думаете, мы что-то упустили?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000580000A325"
+msgid "You can almost see the body decomposing before your very eyes. You should drop everything else and look for a way to preserve it so you can conduct your examination better."
+msgstr ""
+"Тело разлагается буквально у тебя на глазах. Тебе нужно отложить все остальные занятия и найти способ сохранить его, чтобы можно было спокойно провести все исследования."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005900006637"
+msgid "He nods. \"I had my doubts --  there were no signs of a struggle on his hands. No claw marks on his neck. But still...\""
+msgstr ""
+"«У меня были сомнения, — кивает лейтенант. — На руках никаких следов борьбы, на шее не было царапин от ногтей. И все же...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100006B00005219"
+msgid "\"Yes. We should take a closer look at it. I am certain it has more to tell us.\""
+msgstr ""
+"«Да. Мы должны внимательно рассмотреть ее. Я уверен, что она способна нам что-то рассказать»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000005000022CC"
+msgid "The corpse looks *enormous* with its bloated belly. Was the ice bear fridge really that giant? You should go and measure it, just to be sure."
+msgstr ""
+"Труп с раздутым нутром выглядит просто *гигантским*. Неужели холодильник-медведь действительно был таким громадным? Надо сходить измерить его, чтобы точно знать."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019EF0"
+msgid "*Detective*."
+msgstr ""
+"*Детектив*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A005"
+msgid "The word lingers in the air of the yard, as far away dogs are barking, further yet the sound of motor traffic..."
+msgstr ""
+"Это слово будто повисает в холодном воздухе двора. Где-то далеко лает собака, еще дальше шумят моторы машин..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A00B"
+msgid "The word lingers in the air of basement, far away ice cream makers are buzzing and the sea wind blows outside..."
+msgstr ""
+"Это слово будто повисает в воздухе подвала. Снаружи гудит морской ветер, где-то далеко жужжат машины для мороженого..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004F5B"
+msgid "The oral cavity is cold and moist. A ball-like tongue attaches itself to the base of the mouth, lolling around like a scallop..."
+msgstr ""
+"Ротовая полость холодная и влажная. Распухший как шар язык еще держится на челюсти, безвольный и вялый, словно дохлый моллюск."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cunoesse
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005105"
+msgid "\"The fuck is happening?!\""
+msgstr ""
+"«Какого хера он творит?!»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000527A"
+msgid "\"We have the makings of a... very small exit wound here.\" The lieutenant leans closer."
+msgstr ""
+"«Выходное отверстие здесь... лишь только намечено», — наклоняется ближе лейтенант."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000052D7"
+msgid "Whisper: \"I got it.\""
+msgstr ""
+"Прошептать: «Держу»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053B8"
+msgid "A small flower of metal blossoms from the man's head, followed by your finger."
+msgstr ""
+"Распускается, выпав из головы убитого, небольшой металлический цветок , а за ним показывается твой палец."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000053B8"
+msgid "A fractured piece of lead, like a flower, blossoms from the man's head -- followed by your finger."
+msgstr ""
+"Как цветок распускается деформированный кусок свинца, выпавший из головы убитого, а за ним показывается твой палец."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate2/0x01000045000053B8"
+msgid "A small flower of metal blossoms from the man's head, followed by your yellow finger."
+msgstr ""
+"Распускается, выпав из головы убитого, небольшой металлический цветок , а за ним показывается твой желтый палец."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005616"
+msgid "You pick it between your fingers. The mass feels large, very porous somehow. Keep crawling, lest you break it..."
+msgstr ""
+"Ты берешь нос в пальцы. Он кажется массивным и отчего-то пористым. Если не оставить его в покое, то можно сломать..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005616"
+msgid "You pick it between your fingers. The mass is even larger than *your* nose. Very *porous* somehow. Like it's about to pop. Keep crawling, lest you break it."
+msgstr ""
+"Ты берешь нос в пальцы. Он кажется еще более массивным, чем *твой*. И отчего-то *пористым.* Если не оставить его в покое, то можно сломать..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005821"
+msgid "\"That's for us to find out. But *this* -- it will make finding them just a little easier.\""
+msgstr ""
+"«Это нам предстоит выяснить. Но *это*... это немного упрощает нам задачу»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100005900006630"
+msgid "\"We should have known.\""
+msgstr ""
+"«Ну как мы не догадались!»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Esprit de Corps
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100005900006687"
+msgid "Meanwhile, the lieutenant is sitting behind his desk, hunched over a stack of paperwork. His help would be invaluable right now."
+msgstr ""
+"Лейтенант тем временем сидит у себя за столом, склонившись над кипой бумаг. Его помощь сейчас была бы неоценима."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Inland Empire
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019E48"
+msgid "The ululations of the limbic system have ended. All is quiet."
+msgstr ""
+"С завываниями лимбической системы покончено. Все стихло."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A021"
+msgid "*Detective*."
+msgstr ""
+"*Детектив*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500004DCC"
+msgid "You run your hands over the victim's cold body: his limbs, his torso with its swollen organs... maybe you should be more *thorough*?"
+msgstr ""
+"Ты ощупываешь холодное тело жертвы: ноги и руки, торс с раздутыми органами... может быть, надо подойти к осмотру более *тщательно*?"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Perception
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500004DCC"
+msgid "You run your  hands over the cold-cold body of the victim: his limbs, swollen organs... there's a bullet in here, somewhere."
+msgstr ""
+"Ты ощупываешь холодное тело жертвы: ноги и руки, раздутые органы... пуля где-то здесь, но где?"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000050F5"
+msgid "Your index fits right in there. A tight tunnel of flesh opens up -- tissue damage -- wide enough for two fingers. As you push both in, you reach through his mouth, right into his brain stem."
+msgstr ""
+"Места хватает как раз для указательного пальца. Ткани повреждены, и тебе удается расширить тоннель в мертвой плоти так, что помещается второй. Проталкивая пальцы дальше, ты через отверстие во рту добираешься до мозгового ствола."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000513D"
+msgid "Push deeper."
+msgstr ""
+"Протиснуться дальше."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000051C9"
+msgid "\"I feel a solid object, right under the skull.\""
+msgstr ""
+"«Прямо под черепной крышкой я нащупал твердый предмет»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000053CC"
+msgid "\"Here's your prize.\" He drops the bullet in an evidence bag and puts it in your hand -- your other hand, the one *not* covered in blood and cerebral cortex."
+msgstr ""
+"«Вот ваш приз», — он бросает пулю в пакетик для вещественных доказательств и кладет тебе в руку — в другую руку, не покрытую кровью и мозговым веществом»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000053CC"
+msgid "\"Here's your prize.\" He drops the bullet in an evidence bag and puts it in your hand. It feels light. "
+msgstr ""
+"«Вот ваш приз», — он бросает пулю в пакетик для вещественных доказательств и кладет тебе в руку. Пакетик кажется легким."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005407"
+msgid "\"Keep it, lieutenant. Also, I'm sorry for calling you a binoclard.\""
+msgstr ""
+"«Оставь ее себе, лейтенант. И извини, что назвал тебя ботаником»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000054D7"
+msgid "\"I'm *still* not sure.\" (Look at your hand, quizzically.)"
+msgstr ""
+"«Я *все еще* не уверен». (Задумчиво посмотреть на руку.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000572C"
+msgid "\"Treatment, officer, is an attempt to manipulate the body after death -- to hide the real cause with a *false* cause. In this case...\""
+msgstr ""
+"«Манипуляция, офицер, это работа с телом после смерти, чтобы спрятать настоящую причину смерти за ложной. В нашем случае...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005861"
+msgid "\"Maybe the bullet holds more answers?\""
+msgstr ""
+"«Может быть, пуля даст нам больше ответов?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A73"
+msgid "\"If you want for this task to slowly become impossible, then yes. Otherwise -- no. He's been *hanging out* far too long already. We need to ice him.\""
+msgstr ""
+"«Если вы хотите, чтобы наша задача постепенно стала невозможной, то может, конечно. В противном случае — нет. Он тут достаточно *провалялся*. Ему нужен холод»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100005900006574"
+msgid "\"This concurs with the Hardie boys story.\""
+msgstr ""
+"«Это совпадает с историей парней Харди»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate1/0x0100005900006574"
+msgid "\"This concurs with the Hardie boys story -- and Klaasje's.\""
+msgstr ""
+"«Это совпадает с историей парней Харди. И Клаасье»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600009070"
+msgid "\"If the Hardies are to be trusted, there should be a bullet in there...\" The lieutenant looks at you. \"Try putting your hand in his mouth and probing for the bullet in his head.\""
+msgstr ""
+"«Если верить словам парней Харди, то где-то должна быть пуля... — лейтенант смотрит на тебя. — Попробуйте просунуть руку ему в рот и нащупать пулю в голове пальцами»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060001A08D"
+msgid "\"I will need a little help carrying him -- you take the hands, I'll take the legs.\""
+msgstr ""
+"«Мне понадобится ваша помощь в переноске. Я возьмусь за ноги, а вы берите руки»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005130"
+msgid "Your fingers slide into the remains of his limbic system. There is no resistance. It's gelatinous. The slug-like structures are damaged too, the tearing extends deep into both hemispheres."
+msgstr ""
+"Твои пальцы проскальзывают в студенистые останки его лимбической системы. Ты не чувствуешь сопротивления. Слизистые структуры разрушены; повреждения уходят глубоко в оба полушария."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005130"
+msgid "Your yellow fingers slide into the remains of the limbic system. There is no resistance. Its gelatinous. The slug-like structures are damaged too, the tearing extends deep into both hemispheres."
+msgstr ""
+"Твои желтые пальцы проскальзывают в студенистые останки его лимбической системы. Ты не чувствуешь сопротивления. Слизистые структуры разрушены; повреждения уходят глубоко в оба полушария."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005384"
+msgid "\"Mhm. Withdraw your hand 4 centimetres please.\""
+msgstr ""
+"«Ага. Отодвиньте руку на четыре сантиметра, пожалуйста»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000538D"
+msgid "\"There.\" (Nod toward the protrusion.)"
+msgstr ""
+"«Тут». (Кивком показать выпуклость.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000045000053B1"
+msgid "Push."
+msgstr ""
+"Толкнуть."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000573B"
+msgid "\"You think so?\""
+msgstr ""
+"«Ты так думаешь?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000057CB"
+msgid "\"I have had my doubts for a while now. Since I saw there were no signs of struggle on his hands. And no claw marks on his neck...\""
+msgstr ""
+"«У меня уже давно были сомнения. С того момента, как я не увидел у него на руках следов борьбы, а на шее — царапин от ногтей...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x01000045000057CB"
+msgid "\"I have had my doubts since you showed me the tracks. Why did they *carry* him over -- why not march him, I thought. There was no satisfying explanation.\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как вы показали мне следы. Почему они *принесли* его, а не привели? Этому нет другого разумного объяснения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x01000045000057CB"
+msgid "\"I have had my doubts since you pointed out the lividity was faint. They know we analyze hypostasis. I have had perpetrators manipulate the body position before.\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как вы обратили внимание на бледность трупных пятен. Преступники знают, что мы анализируем гипостаз. Я уже сталкивался с попытками изменить положение тела»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate3/0x01000045000057CB"
+msgid "\"I have had my doubts about this since you told me he was doing something *else*. At the time of his death. I don't have that kind of intuition -- I don't usually trust it. But it made me... doubt.\""
+msgstr ""
+"«Я сомневался в первой версии с того момента, как вы сказали, что он делал что-то *еще* во время смерти. У меня не бывает таких озарений, и обычно я им не доверяю. Но на этот раз... вы посеяли во мне сомнения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005842"
+msgid "\"Maybe they just shot him *while* they hanged him?\""
+msgstr ""
+"«Может, они застрелили его, *пока* вешали?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000059000066A8"
+msgid "\"And, if we are to believe Hardie boys, it's somewhere in there...\""
+msgstr ""
+"«А она, если мы верим парням Харди, должна здесь где-то быть...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000059000066C1"
+msgid "\"But where?\""
+msgstr ""
+"«Но где?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Half Light
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600008FF7"
+msgid "Why yes there was. It was massive. Red eyes glowing in the dark."
+msgstr ""
+"Точно, был. Здоровенная такая штука, и глаза в темноте горят."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100000600019EC4"
+msgid "\"You'll be gone? What should I do in the meanwhile?\""
+msgstr ""
+"«Тебя не будет? А чем мне тогда заниматься?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000060001A2BC"
+msgid "\"You'll be gone? What should I do in the meanwhile?\""
+msgstr ""
+"«Тебя не будет? А чем мне тогда заниматься?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100002F000137FF"
+msgid "There go those beautiful enamel boots. You will never own the full set now. May they rest in Processing..."
+msgstr ""
+"Вот и плакали эти чудесные эмалированные ботинки. Теперь у тебя никогда не будет полного комплекта. Да упокоятся они в лаборатории..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500004E95"
+msgid "Put your fingers in his mouth."
+msgstr ""
+"Засунуть пальцы ему в рот."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000529B"
+msgid "You pick the object between your index and middle finger. It feels sharp, like metal. With your face twisting from pain and concentration, all you need to do is just..."
+msgstr ""
+"Ты зажимаешь предмет между указательным и средним пальцем. На ощупь это что-то острое и металлическое. Твое лицо искажает гримаса боли и сосредоточенности, и тебе остается только..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Alternate1/0x010000450000529B"
+msgid "You pick the sharp, metal bullet between your index and middle finger. With your face twisting from pain and concentration, all you need to do is just... "
+msgstr ""
+"Ты зажимаешь острую металлическую пулю между указательным и средним пальцем. Твое лицо искажает гримаса боли и сосредоточенности, и тебе остается только..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Interfacing
+#. Conversant = You
+msgctxt "Alternate2/0x010000450000529B"
+msgid "You pick the object between your index and middle finger. Feels sharp, like metal. You press your teeth together, your jaw is clenched. All you need to do is just..."
+msgstr ""
+"Ты зажимаешь предмет между указательным и средним пальцем. На ощупь это что-то острое и металлическое. Ты напрягаешься, стискиваешь зубы, и тебе остается только..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Cuno
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005395"
+msgid "\"Oh yeah...\""
+msgstr ""
+"«О да...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005464"
+msgid "\"Opinion -- fatal injury.\""
+msgstr ""
+"«Предварительное заключение — является причиной смерти»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000547B"
+msgid "\"Wasn't that what we thought the last time?\" (Clean your hand in the snow.)"
+msgstr ""
+"«Разве мы уже так не считали?» (Очистить руку в снегу.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate1/0x010000450000547B"
+msgid "\"Wasn't that what we thought the last time?\""
+msgstr ""
+"«Разве мы уже так не считали?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate2/0x010000450000547B"
+msgid "\"Wasn't that what we thought the last time?\" (Shake the gloves clean.)"
+msgstr ""
+"«Разве мы уже так не считали?» (Стряхнуть с перчаток кровь.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate3/0x010000450000547B"
+msgid "\"Wasn't that what we thought the last time?\" (Clean your hand in the handkerchief.)"
+msgstr ""
+"«Разве мы уже так не считали?» (Вытереть руку носовым платком.)"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000054ED"
+msgid "\"We have *extensive* tissue destruction away from the wound track -- we have a *bullet*.\""
+msgstr ""
+"«У нас есть обширное повреждение тканей в области раны. У нас есть *пуля*»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Logic
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005721"
+msgid "He's proposing the bullet was the real cause of death -- and the hanging an attempt to *conceal* this fact."
+msgstr ""
+"Он говорит о том, что настоящей причиной смерти была пуля, а повешение — только попытка *скрыть* этот факт."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005A30"
+msgid "\"In short, you and I are the *last* line of detection. If you're not sure we got everything, we need to look *again*. And for that -- we need to refrigerate the corpse.\""
+msgstr ""
+"«Другими словами, мы с вами — последний рубеж, на котором можно что-то найти. Если вы не уверены, что мы проверили все возможное, давайте посмотрим *еще раз*. Но для этого мы должны заморозить труп»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x01000059000066A1"
+msgid "\"We still haven't found the *bullet*.\""
+msgstr ""
+"«Мы так и не нашли *пулю*»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Physical Instrument
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019E37"
+msgid "You've seen the drawings. You've studied them."
+msgstr ""
+"Ты видел схемы. Изучал их."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Reaction Speed
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019E65"
+msgid "He's proposing the bullet was the real cause of death -- and the hanging an attempt to *conceal* this fact."
+msgstr ""
+"Он говорит о том, что настоящей причиной смерти была пуля, а повешение — только попытка *скрыть* этот факт."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Tutorial Agent
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019ED2"
+msgid "After you bag the corpse, Lieutenant Kitsuragi will leave the party until tomorrow morning. You can do side-tasks and even the main case, but it might be more difficult. Plan his exit accordingly."
+msgstr ""
+"После упаковки трупа лейтенант Кицураги покинет вас до следующего утра. Вы сможете заняться побочными заданиями или даже основным, но это будет сложнее. Планируйте наперед."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019FFD"
+msgid "\"I *would* drive him to Processing, but it's too late to do that today... I'll do it first thing tomorrow. No problem.\""
+msgstr ""
+"«Я бы отвез его на вскрытие, но сегодня уже поздно... Ну, ничего страшного, займусь завтра с утра»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005064"
+msgid "Say: \"Fuck yeah.\""
+msgstr ""
+"Сказать: «Вот так, блядь»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate1/0x0100004500005064"
+msgid "\"This is it.\""
+msgstr ""
+"«Вот оно»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005137"
+msgid "\"There's a cavity... cut right between the hemispheres.\""
+msgstr ""
+"«Здесь полость... ровно между полушариями»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Alternate1/0x0100004500005137"
+msgid "\"The cavity is here, cut right between the hemispheres.\""
+msgstr ""
+"«Полость... ровно между полушариями»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = The Hanged Man
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000045000051B5"
+msgid "Your fingers reach toward his skull. His cerebral cortex feels like jelly -- cold jelly -- strange fluid streams down your wrist as you push deeper. Until you feel it, on the tip of your finger..."
+msgstr ""
+"Твои пальцы проникают глубже в его череп. Кора головного мозга на ощупь как желе — холодное желе — и странная жижа течет у тебя по запястью. А потом ты нащупываешь это кончиком пальца..."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000531C"
+msgid "The bullet falls in the bag leaving a smattering of blood on the plastic. He raises the bag under his eyes and says:"
+msgstr ""
+"Пуля падает в пакет, оставляя кровавый след на пластике. Лейтенант подносит пакет к глазам и говорит:"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100004500005482"
+msgid "\"And one last thing.\" *Click-click* goes the pen. \"We can now fill in injury #3: ligament mark. Opinion -- non-fatal, post-mortem: *treatment*.\""
+msgstr ""
+"«И последнее». Ручка делает *щёлк-щёлк*. «Надо внести описание повреждения № 3: странгуляционной борозды. Новое мнение: не является причиной смерти, нанесено post mortem. *Манипуляция*»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate1/0x0100004500005482"
+msgid "\"And one last thing.\" *Click-click* goes the pen. \"We should amend injury #3: ligament mark. *Treatment*. It's obvious the Hardie boys tampered with it.\""
+msgstr ""
+"«И последнее». Ручка делает *щёлк-щёлк*. «Надо исправить описание повреждения № 3: странгуляционной борозды. Это *манипуляция*: очевидно, парни Харди повозились с телом»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate2/0x0100004500005482"
+msgid "\"This goes very, very well with #3: ligament mark. *Treatment*.\" *Click-click* goes the pen. \"We have the tampering -- and real cause of death. Very neat.\""
+msgstr ""
+"«Это все очень, очень хорошо сочетается с повреждением № 3: странгуляционной бороздой. Это *манипуляция*». Ручка делает *щёлк-щёлк*. «У нас есть настоящая причина смерти — и попытка ее скрыть. Чудесно»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Alternate3/0x0100004500005482"
+msgid "\"And one last thing.\" *Click-click* goes the pen. \"We should amend injury #3: ligament mark. New opinion -- non-fatal, post-mortem: *treatment*.\""
+msgstr ""
+"«И последнее». Ручка делает *щёлк-щёлк*. «Надо исправить описание повреждения № 3: странгуляционной борозды. Новое мнение: не является причиной смерти, нанесено post mortem. *Манипуляция*»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Conceptualization
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000450000562A"
+msgid "This man will never sleep again. Never wake."
+msgstr ""
+"Этот человек больше не будет спать. И не проснется."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005803"
+msgid "\"Why would anyone do this?\""
+msgstr ""
+"«Зачем это было нужно?»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100000600008FAE"
+msgid "\"Why... yes there was.\""
+msgstr ""
+"«Хм... действительно, был»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x010000060000906A"
+msgid "\"Klaasje told us the bullet hit him in the mouth -- try putting your hand there...\""
+msgstr ""
+"«Клаасье сказала, что пуля попала ему в рот. Попробуйте засунуть туда руку...»"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019ED9"
+msgid "\"I'll leave that choice to you. And one more thing...\" He looks you in the eye. \"Great work, detective.\""
+msgstr ""
+"«Этот выбор я предоставлю вам... Да, и еще кое-что, — он глядит тебе прямо в глаза. — Отлично сработано, детектив»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Authority
+#. Conversant = You
+msgctxt "Dialogue Text/0x0100000600019F01"
+msgid "*Detective*."
+msgstr ""
+"*Детектив*."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x010000450000505E"
+msgid "Say: \"Abrasion collar.\""
+msgstr ""
+"Сказать: «Поясок осаднения»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005741"
+msgid "\"Agreed.\""
+msgstr ""
+"«Согласен»."
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = You
+#. Conversant = The Hanged Man
+msgctxt "Dialogue Text/0x0100004500005A5E"
+msgid "\"Let's hurry then.\" [Leave.]"
+msgstr ""
+"«Тогда, наверное, надо поторопиться». [Уйти.]"
+
+#. Title = YARD / HANGED MAN BULLET
+#. Description = This is the final phase of the hanged man:
+#. 1. White check to find bullet
+#. 2. Failure to find fridge
+#. 3. Bagging him and taking it away
+#. Actor = Kim Kitsuragi
+#. Conversant = You
+msgctxt "Dialogue Text/0x01000058000205DB"
+msgid "\"Okay.\" He unrolls the plastic. \"I need a little help for carrying him to the holding pen of my Kineema. I can take care of the rest.\""
+msgstr ""
+"«Ладно, — он разворачивает пакет. — Помогите мне дотащить тело до „Кинемы”, погрузить в багажное отделение, а дальше я сам»."

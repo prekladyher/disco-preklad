@@ -1,0 +1,1053 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Encyclopedia
+msgctxt "Dialogue Text/0x010000450001D196"
+msgid "It's an air-gapped system. An *off-air* military model. Its circuits are nearly impossible to *bend*, i.e. it cannot be remote controlled."
+msgstr ""
+"Эта система не подключена к общей сети. *Автономная* военная модель. Ее схемы практически невозможно *взломать*, а значит и удаленное управление невозможно."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D2B4"
+msgid "The dial slides under the dusty glass, dark and silent despite the power being on. You make out defunct stations on the UKV frequency. The words \"FELD INSULAR\" are written on the band."
+msgstr ""
+"Бегунок сдвигается по шкале под покрытым пылью стеклом — темной и безмолвной, несмотря на подаваемое питание. Ты настраиваешься на прекратившие трансляцию станции УКВ-частот. На полосе частот написано «ФЕЛЬД, ОСТРОВ»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DA78"
+msgid "\"What's there?\" (Point to the door.)"
+msgstr ""
+"«Что там?» (Указать на дверь.)"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DAF4"
+msgid "\"Extra good that I do.\""
+msgstr ""
+"«Тогда вдвойне хорошо, что он есть у меня»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Perception (Sight)
+msgctxt "Dialogue Text/0x010000890000289D"
+msgid "Pollen drifts in the light shaft."
+msgstr ""
+"В луче света летает пыльца."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000060000E927"
+msgid "\"Wait, what about this fuel I found from my MC?\" (Show him the canister.)"
+msgstr ""
+"«Погоди-ка, а как насчет топлива с моей мотокареты?» (Показать ему канистру.)"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF93"
+msgid "What does it... *do*?"
+msgstr ""
+"*Зачем*... это?"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Alternate1/0x010000450001CF93"
+msgid "\"What does this console *do?*\""
+msgstr ""
+"«*Зачем* нужна эта панель управления?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CFD4"
+msgid "[Leave.]"
+msgstr ""
+"[Уйти.]"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D051"
+msgid "\"Electrical devices do not work without electricity.\" The lieutenant looks on as you fiddle with the dial. \"We need to power the generator upstairs first.\""
+msgstr ""
+"«Электрические устройства не работают без электричества, — напоминает тебе лейтенант, глядя, как ты переключаешь реле и нажимаешь на кнопки. — Сначала нужно запустить генератор наверху»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D081"
+msgid "Who's to say this thing even works? You have to supply it with power first. There must be a generator nearby."
+msgstr ""
+"С чего ты вообще взял, что панель управления работает? На нее в любом случае сначала нужно подать питание. Где-то поблизости должен быть генератор."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Alternate1/0x010000450001D081"
+msgid "Who's to say this thing even works? You will have to provide it with power first. There was an un-fuelled generator upstairs..."
+msgstr ""
+"С чего ты вообще взял, что панель управления работает? Для начала на нее придется подать питание. Наверху был генератор без топлива..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000450001D20F"
+msgid "The boat engine!"
+msgstr ""
+"Мотор лодки!"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DA9A"
+msgid "\"I don't know.\""
+msgstr ""
+"«Не знаю»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DAA2"
+msgid "\"I'm scared.\""
+msgstr ""
+"«Мне страшно»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x01000089000028F6"
+msgid "\"Cuno doesn't know, but Cuno wants to know.\""
+msgstr ""
+"«Куно не знает, но Куно хочет узнать»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x0100000400014B1D"
+msgid "\"Don't worry, kid. I'm a cop. Maybe I don't have a gun, but I'm a cop.\""
+msgstr ""
+"«Не боись, пацан. Я же коп. Пусть и без оружия, но все-таки коп»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001CEFE"
+msgid "Green paint flakes off the monoblock aluminium cabinet. There are rows of switches on the front panel, a frequency band and even a keyboard..."
+msgstr ""
+"С зеленого алюминиевого корпуса хлопьями отваливается краска. На передней панели в несколько рядов расположились различные реле, полоса частот и даже клавиатура..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CF48"
+msgid "\"The console of an antique computation device.\" The lieutenant points to the wires running into the machine. \"There was a generator upstairs, with wires coming out. They terminate here.\""
+msgstr ""
+"«Панель управления древним вычислительным аппаратом. — Лейтенант показывает на провода, ведущие в машину: — Наверху есть генератор, из которого идут провода. Они заканчиваются здесь»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Logic
+msgctxt "Dialogue Text/0x010000450001D19D"
+msgid "You're right. You're not a *circuit bender*. You don't know about these things."
+msgstr ""
+"Ты прав. Ты же не *радиовзломщик*. Ты не обязан разбираться в таких вещах."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D1D8"
+msgid "[Leave.]"
+msgstr ""
+"[Уйти.]"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Perception (Sight)
+msgctxt "Dialogue Text/0x010000450001DB4E"
+msgid "Pollen drifts in the light shaft."
+msgstr ""
+"В луче света летает пыльца."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D156"
+msgid "\"This is an air-gapped system.\" The lieutenant inspects the indicator. \"*Off-air,* I think they call it. That won't work.\""
+msgstr ""
+"«Эта система не подключена к сети». Лейтенант изучает индикатор. «Полагаю, это называется *автономной* системой. Ничего не получится»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D221"
+msgid "Nod in agreement."
+msgstr ""
+"Кивнуть в знак согласия."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DAA8"
+msgid "\"Don't be. I have a gun.\" He takes out his sidearm, checks the barrel, then holsters it again."
+msgstr ""
+"«Не бойтесь. У меня есть пистолет». Он достает оружие, проверяет, заряжено ли оно, затем снова убирает в кобуру."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Half Light
+msgctxt "Dialogue Text/0x010000450001DAAF"
+msgid "A sudden wave of anxiety makes your skin crawl."
+msgstr ""
+"Тебя охватывает внезапный приступ беспокойства, от которого по коже пробегают мурашки."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Half Light
+msgctxt "Dialogue Text/0x010000450001DB48"
+msgid "A sudden anxious fear makes your skin crawl."
+msgstr ""
+"Внезапно на тебя накатывает волна беспокойства и страха, от которой мурашки бегут по коже."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D128"
+msgid "Maybe I could contact Soona -- the programmer lady? She could open the door remotely..."
+msgstr ""
+"Может, у меня получится связаться с Сооной — той программисткой — и она сможет удаленно открыть дверь?.."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Alternate1/0x010000450001D128"
+msgid "\"Maybe we could contact Soona -- the programmer lady? She could open the door for us remotely.\" \n"
+msgstr ""
+"«Может, у нас получится связаться с Сооной — той программисткой — и она сможет удаленно открыть дверь?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D16B"
+msgid "\"No, I'm not, but it would not be very good military technology if programmer ladies could control it remotely. Also, it's ancient. Incompatible.\""
+msgstr ""
+"«Нет, не уверен. Но что это за военная технология, которая позволяет всяким программисткам удаленно открывать двери? Кроме того, это древний аппарат. Несовместимый»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DA85"
+msgid "\"So did I. Not back there, but... I've felt it since we came here.\""
+msgstr ""
+"«Я тоже. Не там, но... Это ощущение не покидает меня с того момента, как мы сюда прибыли»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x01000089000028C1"
+msgid "\"Let's go.\" [Leave.]"
+msgstr ""
+"«Ну пойдем». [Уйти.]"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000060000E933"
+msgid "Nah, it won't work. The canister feels light."
+msgstr ""
+"Не, не прокатит. Канистра кажется слишком легкой."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D713"
+msgid "The glass is dusty, it's hard to make out the writing on the band. Nothing has changed about it."
+msgstr ""
+"Стекло покрыто пылью, поэтому очень сложно понять, что написано на полосе частот. В этом плане ничего не изменилось."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000450001D983"
+msgid "Automatic boot."
+msgstr ""
+"Автоматическая загрузка."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B00001817"
+msgid "\"Old hardware.\" He points to the wires running into the machine. \"From the big power-box upstairs. Circuit-bender shit. Military-grade.\""
+msgstr ""
+"«Старое оборудование. — Он показывает на провода, ведущие в машину: — Идут от той большой электрохерни наверху. Радиовзлом, мать его. Военного образца»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000060000E902"
+msgid "\"There's barely anything left. That won't work.\""
+msgstr ""
+"«Там почти ничего не осталось. Это нам не поможет»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x010000060000E975"
+msgid "\"Aw shit, it's on...\" He grins. \"Turn: Emergency -- Open!\""
+msgstr ""
+"«Включилась, блядь... — он ухмыляется. — Повернуть: аварийное открывание»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CFAE"
+msgid "\"'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'.\" He inspects the dials. \"Sounds like this device was used to control the electronics here. Maybe it still does?\""
+msgstr ""
+"„Urgence — Ouvert!“, „Allumer“, „Radiodiffusé“, — изучает он надписи на панели. — Похоже, с помощью этого аппарата управляли установленной здесь электроникой. Может, он до сих пор работает?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000450001D1FF"
+msgid "This device was used to control the electronics in the room. It could open doors, control lights, function as a radiocomputer..."
+msgstr ""
+"С помощью этого аппарата управляли установленной в помещении электроникой. Скорее всего, он открывает двери, включает и выключает свет, выполняет функции радиокомпьютера..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D992"
+msgid "\"I think yes. Let's see...\" He points to the emergency dial switch. \"That one. The emergency open...\""
+msgstr ""
+"«Думаю, да. Посмотрим... — Он указывает на аварийное реле: — Вот это. Для аварийного открывания...»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DA7E"
+msgid "\"Let's go.\" [Leave.]"
+msgstr ""
+"«Ну пойдем». [Уйти.]"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B0000184E"
+msgid "\"Whoa... Told you. Military mega grade. Also, like, four hundred years old, I think? A thousand?\""
+msgstr ""
+"«Ха!.. Говорю же тебе. Военные технологии, мать их. Да и ваще, им сто лет в обед. А то и тыща»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x01000089000028CD"
+msgid "\"Why? The door is open -- we can just fuck on now.\""
+msgstr ""
+"«Нахера? Дверь-то открыта. Попиздовали»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100000400014B11"
+msgid "\"Fucking great. Spooky island shit is gonna shit on us and we can't even *shoot* it.\""
+msgstr ""
+"«Ну заебись. Все ужасы этого ебучего острова будут пугать нас до усрачки, а мы от них даже *отстреливаться* не сможем»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000060000E92D"
+msgid "(Peek into the canister.)"
+msgstr ""
+"(Заглянуть в канистру.)"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001CF36"
+msgid "The keys rattle like teeth. This keyboard hasn't been functional in decades."
+msgstr ""
+"Клавиши стучат, словно кто-то щелкает зубами. Клавиатура сломана уже не один десяток лет."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D003"
+msgid "A dim golden glow animates the console. Faint, like a ghost-light. 'Urgence -- Ouvert!' reads one dial key. 'Allumer', reads another."
+msgstr ""
+"Панель управления оживает, заливаясь тусклым золотистым свечением. Словно призрак. Над одним из реле написано «Urgence — Ouvert!», еще над одной кнопкой — «Allumer»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x010000450001D06E"
+msgid "\"No, no, no...\" He stares at you as you fiddle with the dial. \"We gotta juice this thing first. Power it up! Pow-pow-power it up, get it?\""
+msgstr ""
+"«Не-не-не... — Он смотрит, как ты переключаешь реле и нажимаешь на кнопки. — Эту херню нужно сначала запитать. Включить! Чтобы она — тыр-тыр-тыр — заработала. Сечешь?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D163"
+msgid "\"Okay.\""
+msgstr ""
+"«Ну ладно»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D188"
+msgid "\"INSULAR...\" The lieutenant leans in to inspect the cursive writing. \"This is an *off-air* radiocomputer, I believe. Used for military communications.\""
+msgstr ""
+"«ОСТРОВ... — Лейтенант наклоняется поближе, чтобы рассмотреть надпись. — Полагаю, это *автономный* радиокомпьютер. Который военные использовали для связи»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Logic
+msgctxt "Dialogue Text/0x010000450001D1A9"
+msgid "Wait, actually, this would not be very good military technology if *programmer ladies* could control it remotely... It's probably not connected to the front. Or just plain broken. Nice idea, though..."
+msgstr ""
+"Нет, серьезно, что это за военные технологии, если любая *программистка* может удаленно открыть дверь?.. Скорее всего, этот агрегат не подключен к общей сети. Ну или вообще сломан. Хотя идея была, конечно, неплохая..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D28C"
+msgid "With the door open, the dial switch has locked into place -- a security measure of some sort."
+msgstr ""
+"Как только дверь открылась, реле заблокировалось в открытом положении — своего рода мера безопасности."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Shivers
+msgctxt "Dialogue Text/0x010000060001F088"
+msgid "A thin wisp of smoke rises from a charred black firepit... the wind picks up, then dies down again."
+msgstr ""
+"От черного, полного углей костровища поднимается тоненькая струйка дыма... Ветер усиливается, но потом снова затихает."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001CFDB"
+msgid "'Urgence -- Ouvert!' reads one dial key. 'Allumer', reads another. 'Radiodiffusé', says the frequency band."
+msgstr ""
+"Над одним из реле написано «Urgence — Ouvert!», еще над одной кнопкой — «Allumer». Над полосой частот тоже имеется надпись: «Radiodiffusé»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Half Light
+msgctxt "Dialogue Text/0x01000089000028A3"
+msgid "A sudden wave of anxiety makes your skin crawl."
+msgstr ""
+"Тебя охватывает внезапный приступ беспокойства, от которого по коже пробегают мурашки."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x01000089000028FC"
+msgid "\"Cuno knows. This place is spooky as fuck.\""
+msgstr ""
+"«Куно в курсе. Тут пиздец как жутко»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Reaction Speed
+msgctxt "Dialogue Text/0x010000060000E950"
+msgid "Of course. Anything else you want with this console?"
+msgstr ""
+"Естественно. Тебе от этой панели управления еще что-нибудь нужно?"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D21B"
+msgid "\"Failing that we could... go back to the mainland and get some from...\""
+msgstr ""
+"«И если ничего не найдем... можно вернуться на большую землю и слить немного с...»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D25F"
+msgid "The console looks on as you talk, mute and unpowered. Its dials are covered in dust."
+msgstr ""
+"Панель управления молчаливо и неподвижно наблюдает за вашим диалогом. Элементы управления покрыты слоем пыли."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B00001840"
+msgid "\"The fuck is this....\" He stares at the dials: \"'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'. Maybe, like, press the buttons or something.\""
+msgstr ""
+"«Чё за хуйня?.. — Он уставился на надписи на панели: — „Urgence — Ouvert!“, „Allumer“, „Radiodiffusé“. Может, типа, надо нажать на кнопку или еще что?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Shivers
+msgctxt "Dialogue Text/0x01000089000028AE"
+msgid "No, it's more than that. There's something there, waiting."
+msgstr ""
+"Все не так просто. Там кто-то есть. Ждет тебя."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CFA1"
+msgid "Could this console open the blast door?"
+msgstr ""
+"Может эта панель управления открывать взрывозащитную дверь?"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Alternate1/0x010000450001CFA1"
+msgid "\"Could this open the blast door?\""
+msgstr ""
+"«Может, она открывает взрывозащитную дверь?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D010"
+msgid "\"It's on...\" He smiles. \"Turn: Emergency -- Open!\""
+msgstr ""
+"«Заработала... — произносит он с улыбкой. — Повернуть: аварийное открывание»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000450001D0ED"
+msgid "There are barrels all around. One of them must still have fuel in it... Pour it into a generator and voila!"
+msgstr ""
+"Там повсюду бочки. В одной из них наверняка осталось хоть немного топлива... Просто залей его в генератор — и готово!"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x0100000400014B17"
+msgid "\"Don't worry, I've got a gun. No bullets, but I have a gun.\""
+msgstr ""
+"«Не боись, я вооружен. Пуль нет, но хотя бы пистолет при мне»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100000400014B23"
+msgid "\"Are you?\" He squints at you -- squints into your soul. \"*Are you?*\""
+msgstr ""
+"«Уверен? — Он прищуривается и смотрит на тебя, заглядывает прямо в душу. — *Точно* уверен?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CF8B"
+msgid "Nothing happens. \"We need to restore power before using this, officer. There was a generator that you missed...\" He looks upstairs. \"It didn't look like there was fuel in it.\""
+msgstr ""
+"Ничего не происходит. «Офицер, сначала нам придется восстановить подачу питания. Вы забыли про генератор... — Он смотрит наверх. — Похоже, в нем не осталось топлива»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Alternate1/0x010000450001CF8B"
+msgid "Nothing happens. \"We need to restore power before using this, officer. The generator...\" He looks upstairs. \"It didn't look like there was fuel in it.\""
+msgstr ""
+"Ничего не происходит. «Офицер, сначала нам придется восстановить подачу питания. Генератор... — Он смотрит наверх. — Похоже, в нем не осталось топлива»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D075"
+msgid "Nothing happens as you turn the dial. The power is off, the console stands silent."
+msgstr ""
+"Ты переключаешь реле, нажимаешь на кнопки, но ничего не происходит. Питание отключено, панель управления не подает признаков жизни."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Perception (Sight)
+msgctxt "Dialogue Text/0x010000450001DAB8"
+msgid "Pollen drifts in the light shaft."
+msgstr ""
+"В луче света летает пыльца."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DAED"
+msgid "\"I don't have a gun.\""
+msgstr ""
+"«У меня нет пистолета»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DB03"
+msgid "\"I also have a gun.\""
+msgstr ""
+"«У меня тоже есть оружие»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DB11"
+msgid "\"Then it's extra good that mine is not.\""
+msgstr ""
+"«Тогда вдвойне хорошо, что мой пистолет заряжен»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DB18"
+msgid "\"I know. It was not easy to acquire.\""
+msgstr ""
+"«Я знаю. Пришлось приложить усилия, чтобы его заполучить»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x010000450001DB70"
+msgid "The door comes screeching to a halt. Behind it you see a hole in the concrete wall, where light shines in."
+msgstr ""
+"Дверь со скрипом открывается. За ней в бетонной стене видна дыра, из которой льется свет."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Small Blast Door
+msgctxt "Alternate1/0x010000450001DB70"
+msgid "The door comes screeching to a halt. Behind it you see a hole in the concrete wall. A gust of wind blows in."
+msgstr ""
+"Дверь со скрипом открывается. За ней в бетонной стене — дыра, в которую задувает ветер."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Shivers
+msgctxt "Dialogue Text/0x010000450001DB89"
+msgid "No, it's more than that. There's something there, waiting."
+msgstr ""
+"Все не так просто. Там кто-то есть. Ждет тебя."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Shivers
+msgctxt "Dialogue Text/0x010000450001DB91"
+msgid "No, it's more than that. There's something there, waiting."
+msgstr ""
+"Все не так просто. Там кто-то есть. Ждет тебя."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001CF29"
+msgid "The keys rattle like teeth as black dust rises from them. This must be the console of some antique computation device. The wires from the generator upstairs are routed into its innards."
+msgstr ""
+"Клавиши стучат, словно кто-то щелкает зубами. В воздух поднимается черная пыль. Должно быть, это панель управления каким-то древним вычислительным аппаратом. Провода, идущие от генератора наверху, заходят в корпус этого аппарата."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Alternate1/0x010000450001CF29"
+msgid "A rattling sound, like teeth... the keyboard hasn't been functional in decades. This must be the console of another radiocomputer, albeit a much, much older model. The wires from the generator upstairs are routed into its innards."
+msgstr ""
+"Стук. Словно кто-то щелкает зубами... Клавиатура сломана уже не один десяток лет. Должно быть, это панель управления очередным радиокомпьютером, пусть даже старой, очень старой модели. Провода, идущие от генератора наверху, заходят в корпус этого аппарата."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CFBD"
+msgid "\"Possibly...\" He inspects the dials. \"'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'. It sounds like this device was used to control the electronics here. Maybe it still does?\""
+msgstr ""
+"«Возможно... — Он изучает надписи на панели: — „Urgence — Ouvert!“, „Allumer“, „Radiodiffusé“. Похоже, с помощью этого аппарата управляли установленной здесь электроникой. Может, он до сих пор работает?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D147"
+msgid "No. It's too far fetched."
+msgstr ""
+"Да не, это вряд ли поможет."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000060000E962"
+msgid "Nothing happens."
+msgstr ""
+"Ничего не происходит."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D10D"
+msgid "The dial slides under the glass, dark and silent. Restoring electric power has not breathed life into it."
+msgstr ""
+"Бегунок сдвигается по шкале под стеклом — темной и безмолвной. Ты восстановил подачу питания, но это не помогло вдохнуть жизнь в этот аппарат."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DB9D"
+msgid "\"What if we get into another fight?\""
+msgstr ""
+"«А что, если нам снова придется сражаться?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B00009C3E"
+msgid "\"Who the fuck is Soona?\" he grunts. \"Never mind. It won't work. This is fucking... military mega-grade shit, you know? It's also, like, four hundred years old.\""
+msgstr ""
+"«Соона? Это, блядь, еще кто? — ворчит он. — Забей. Ничё не получится. Это же, типа, сраные... военные технологии. Ну и ваще, этой херне сто лет в обед»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100000400014B2F"
+msgid "\"Fucking great news, cop. Scare away whatever shit out there's gonna spook on us with an *empty fucking gun*.\""
+msgstr ""
+"«Ну охуеть теперь. То есть ты собираешься отмахиваться ото всех ужасов, что нас там ждут, *незаряженным пистолетом*?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x010000060000E943"
+msgid "\"It's sweet you got government fuel -- way sweet -- but there ain't shit left in there. You need, like, a full load. Let's check outside when you're done with this.\""
+msgstr ""
+"«Это, конечно, клево, что ты надыбал правительственного мазута — очень клево, — но там же почти ни хера не осталось. Нужна, типа, полная канистра. Когда закончишь тут, давай поищем снаружи»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D241"
+msgid "\"But, officer,\" he looks you in the eye, \"then we would have to *swim* back to the mainland. Let's just look around, okay.\""
+msgstr ""
+"«Офицер, но... — Он смотрит тебе прямо в глаза. — Тогда обратно нам придется добираться *вплавь*. Давайте для начала осмотримся, хорошо?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x010000450001DB59"
+msgid "The blast door opens with a series of clicks. A shaft of light appears, then widens, as the light shines in."
+msgstr ""
+"Раздается несколько щелчков, и взрывозащитная дверь начинает открываться. Появившийся из-за нее лучик света становится шире, а затем ярко освещает выход."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Small Blast Door
+msgctxt "Alternate1/0x010000450001DB59"
+msgid "The blast door opens with a series of clicks. A cold wind blows in -- you see darkness behind it..."
+msgstr ""
+"Раздается несколько щелчков, и взрывозащитная дверь начинает открываться. В помещение врывается холодный ветер. За дверью темнота..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B00001846"
+msgid "\"Fuckin' right!\" Cuno points to the opening."
+msgstr ""
+"«Так-то, нахуй!» — Куно указывает на открывшуюся дверь."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Interfacing
+msgctxt "Dialogue Text/0x010000060000E97C"
+msgid "It's on! Automatic boot. Now, just turn the key..."
+msgstr ""
+"Включилась! Автоматическая загрузка. Нет, просто поверни реле..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF2F"
+msgid "Run your fingers across the keyboard."
+msgstr ""
+"Пробежать пальцами по клавиатуре."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D065"
+msgid "The lighting in the room turns on with a sizzle. A dim, ambient orange."
+msgstr ""
+"Раздается шипение, и в помещении загорается свет — оранжевый, тусклый, рассеянный."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Hand/Eye Coordination
+msgctxt "Dialogue Text/0x010000450001DB28"
+msgid "Harry, this reminds you -- you're out of bullets."
+msgstr ""
+"Гарри, и тут ты вспоминаешь, что патронов у тебя нет."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x01000089000028EA"
+msgid "\"What's there?\""
+msgstr ""
+"«Что там?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Reaction Speed
+msgctxt "Dialogue Text/0x010000060000E912"
+msgid "What about the fuel you found in the MC? The red government-marked fuel..."
+msgstr ""
+"А как насчет топлива с твоей мотокареты? Я про тот мазут, что предназначен для правительственного транспорта..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Reaction Speed
+msgctxt "Dialogue Text/0x010000060000E93C"
+msgid "Yeah, okay. There's barely anything left in there. You have to find a larger supply."
+msgstr ""
+"М-да, ну ладно. Там почти ничего не осталось. Придется найти побольше."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D114"
+msgid "The dial slides under the glass, silently. You make out defunct stations on the UKV frequency. The words \"FELD INSULAR\" are written on the band."
+msgstr ""
+"Бегунок беззвучно сдвигается по шкале под стеклом. Ты настраиваешься на прекратившие трансляцию станции УКВ-частот. На полосе частот написано «ФЕЛЬД, ОСТРОВ»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B0000182D"
+msgid "\"Try fucking with that one. It's red.\" He points to the emergency dial switch. It is large and alarmingly red."
+msgstr ""
+"«Попробуй вот эту херовину. Она красная». Он указывает на аварийное реле. Большое, предупреждающе красное."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x01000089000028F0"
+msgid "\"Before -- outside. When we were walking across the sand, I felt someone watching me.\""
+msgstr ""
+"«Раньше, еще снаружи. Когда мы ходили по пляжу, я чувствовал, что за мной кто-то наблюдает»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000060000E958"
+msgid "The console stands by, mutely. 'Urgence -- Ouvert!' reads a dial key. 'Allumer,' reads another. The frequency band says: 'Radiodiffusé.'"
+msgstr ""
+"Панель молчаливо ждет. Над одним из реле написано «Urgence — Ouvert!», еще над одной кнопкой — «Allumer». Над полосой частот тоже имеется надпись: «Radiodiffusé»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF06"
+msgid "What is this? (Run your fingers across the keyboard.)"
+msgstr ""
+"Это еще что? (Пробежать пальцами по клавиатуре.)"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Alternate1/0x010000450001CF06"
+msgid "\"What is this then?\" "
+msgstr ""
+"«А это тогда что такое?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Logic
+msgctxt "Dialogue Text/0x010000450001D135"
+msgid "An *idea* lights up in your head..."
+msgstr ""
+"Тебе в голову приходит *идея*..."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DA72"
+msgid "\"Before -- outside. When we were walking across the sand, I felt someone watching me.\""
+msgstr ""
+"«Раньше, еще снаружи. Когда мы ходили по пляжу, я чувствовал, что за мной кто-то наблюдает»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001DB09"
+msgid "\"My gun is out of bullets, by the way.\""
+msgstr ""
+"«Патронов у меня, кстати, нет»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x0100006B0000183A"
+msgid "\"Cuno isn't a machine-meister.\" He stares at the dials. \"'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'.... Yeah, why the fuck not?\""
+msgstr ""
+"«Куно ни хера не понимает в машинах. — Он уставился на надписи на панели: — „Urgence — Ouvert!“, „Allumer“, „Radiodiffusé“... Да почему бы, блядь, и нет?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x0100000400014B29"
+msgid "\"Don't worry kid. I'm a good guy with a gun.\""
+msgstr ""
+"«Не боись, пацан. Я хороший. И вооружен»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x01000004000150AA"
+msgid "Turn: 'Emergency -- Open!'"
+msgstr ""
+"Повернуть: «Аварийное открывание»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000060000E8FC"
+msgid "\"Wait, what about this fuel I found from my MC?\" (Show him the canister.)"
+msgstr ""
+"«Погоди-ка, а как насчет топлива с моей мотокареты?» (Показать ему канистру.)"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF84"
+msgid "Push: 'Light (Interior)'."
+msgstr ""
+"Нажать: «Свет (внутри)»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001CFEC"
+msgid "The console is powered off and covered in dust. 'Urgence -- Ouvert!' reads a dial key. 'Allumer', reads another. The frequency band says: 'Radiodiffusé'."
+msgstr ""
+"Панель управления выключена и вся покрыта пылью. Над одним из реле написано «Urgence — Ouvert!», еще над одной кнопкой — «Allumer». Над полосой частот тоже имеется надпись: «Radiodiffusé»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Cuno
+msgctxt "Dialogue Text/0x010000450001D087"
+msgid "\"Cuno's gonna stop you right there. This...\" he strokes the console, \"ain't gonna work.\" He points upward, to the generator. \"Not without the juice. You gotta fuel that shit if you want it to work. Let's look outside maybe?\""
+msgstr ""
+"«Так. Куно щас тебе всё объяснит. Это... — он проводит рукой по панели управления, — не работает. — Он показывает наверх, на генератор: — По крайней мере без тока. Хочешь, чтобы заработало? Заправь эту большую хреновину. Давай снаружи топливо поищем, что ли?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D0AC"
+msgid "\"We should look around outside. There are barrels all over, maybe one of them still has something in it...\" He looks into the dim light to his right."
+msgstr ""
+"«Нужно поискать снаружи. Там повсюду бочки — может, хотя бы в одной из них что-нибудь осталось...» Он смотрит направо — туда, где в тусклом свете виднеется дверь."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D172"
+msgid "\"We're better off looking for a mechanical solution -- if we need one at all.\""
+msgstr ""
+"«Нам лучше поискать какое-нибудь механическое решение... Если нам это вообще нужно»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D215"
+msgid "\"Or we could get some from the boat engine?\""
+msgstr ""
+"«Может, сольем немного с мотора, установленного на лодке?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D265"
+msgid "\"My Kineema?\" He shakes his head. \"I don't want to do that. Let's just look around.\""
+msgstr ""
+"«Моей „Кинемы“? — Он качает головой. — Я бы не хотел этого делать. Давайте поищем здесь»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001D9AB"
+msgid "\"After you.\" The lieutenant gestures at the opening."
+msgstr ""
+"«Прошу вас», — лейтенант делает приглашающий жест в сторону выхода."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Small Blast Door
+msgctxt "Dialogue Text/0x0100008900001553"
+msgid "The door comes screeching to a halt. Behind it you see a hole in the concrete wall, where light shines in."
+msgstr ""
+"Дверь со скрипом открывается. За ней в бетонной стене видна дыра, из которой льется свет."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Small Blast Door
+msgctxt "Alternate1/0x0100008900001553"
+msgid "The door comes screeching to a halt. Behind it you see a hole in the concrete wall. A gust of wind blows in."
+msgstr ""
+"Дверь со скрипом открывается. За ней в бетонной стене — дыра, в которую задувает ветер."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001CF22"
+msgid "\"The console of an antique computation device.\" The lieutenant points to the wires running into the machine. \"The generator upstairs, with wires coming out. They terminate here.\""
+msgstr ""
+"«Панель управления древним вычислительным аппаратом. — Лейтенант показывает на провода, ведущие в машину: — Тот генератор наверху, из которого идут провода. Они заканчиваются здесь»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF78"
+msgid "Turn: 'Emergency -- Open!'"
+msgstr ""
+"Повернуть: «Аварийное открывание»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001CF7E"
+msgid "Slide: 'Radio' dial."
+msgstr ""
+"Сдвинуть: регулятор «Радио»."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x010000450001D15D"
+msgid "\"Are you sure?\""
+msgstr ""
+"«Ты уверен?»"
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Feld "Insular" Console
+msgctxt "Dialogue Text/0x010000450001D282"
+msgid "The old button is stuck."
+msgstr ""
+"Старую кнопку заклинило."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = Kim Kitsuragi
+msgctxt "Dialogue Text/0x010000450001DBA4"
+msgid "\"Don't worry. I have a gun.\" He takes out his sidearm, checks the barrel, then holsters it again."
+msgstr ""
+"«Не переживайте. У меня есть пистолет». Он достает оружие, проверяет, заряжено ли оно, затем снова убирает в кобуру."
+
+#. Title = SEAFORT INT / FELD INSULAR CONSOLE
+#. Description = old electronic console – turn on lights and open blast door if fuel in generator
+#. Actor = You
+msgctxt "Dialogue Text/0x01000089000028C7"
+msgid "\"There was something I needed to do with this console first...\""
+msgstr ""
+"«Сначала мне нужно еще кое-что сделать на панели управления...»"
