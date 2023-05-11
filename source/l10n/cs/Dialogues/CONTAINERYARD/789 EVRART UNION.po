@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -24,6 +32,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC10"
 msgid "Hear that? You did it the honest way. You got the *real* signatures and now he's happy. Well done."
 msgstr ""
+"Slyšíš to? Udělal jsi to nejčestnějším způsobem. Získal jsi *skutečné* podpisy a on je teď šťastný. Výborně."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -31,6 +40,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC30"
 msgid "Oops... yes, the noise would do the trick. It'll be terrible."
 msgstr ""
+"Jejda... ano, v tom hluku bude ten trik. Bude to hrozné."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -38,6 +48,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC5A"
 msgid "\"Wait, but -- will you erect a statue to yourself?\""
 msgstr ""
+"\"Počkejte, ale - vztyčíte si tam také vlastní sochu?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -66,6 +77,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000541F"
 msgid "\"There was no fine print, Harry.\" He leans forward. \"But I do hope all that construction noise and limited street access *encourages* some people to move. After a year of that ruckus, who wouldn't?\""
 msgstr ""
+"\"Nebylo tam žádné drobné písmo, Harry.\" Nakloní se dopředu. \"Ale doufám, že všechen ten stavební hluk a omezený přístup v ulicích některé lidi  *povzbudí*, aby se přestěhovali. Kdo by to po roce toho zmatku neudělal?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -73,6 +85,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054C3"
 msgid "But will there be giant statues of the Claire brothers towering above it all? Joyce knew he was up to something."
 msgstr ""
+"Budou se ale nad tím vším tyčit obří sochy bratří Jasných? Joyce věděla, že něco takového chystá."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -143,6 +156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001C5D"
 msgid "He leans forward and looks straight into your eyes with the warmest of smiles. \"You're in my inner circle. We can talk about anything: the strike, the murder, your lost gun -- *nothing* is off the table.\""
 msgstr ""
+"Nakloní se dopředu a dívá se ti s tím nejvřelejším úsměvem přímo do očí. \"Jsi v mém úzkém kruhu. Můžeme mluvit o čemkoli: o stávce, o té vraždě, o tvé ztracené zbrani - *nic* není mimo rámec.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -150,6 +164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005446"
 msgid "\"Harry...\" He shakes his head. \"By now you should know I would never do anything tricky like that. However, if the construction noise and limited street access makes *some* people consider moving...\""
 msgstr ""
+"\"Harry...\" zakroutí hlavou. \"Teď už bys měl vědět, že bych nikdy nic tak lstivého neudělal. Jestli však hluk ze stavby a omezený přístup v ulicích přiměje *některé* lidi zvážovat stěhování...\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -164,6 +179,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000549B"
 msgid "\"And *life*...\" (Nod.) \"I knew you were a man of the people, Evrart.\""
 msgstr ""
+"\"A *životem*...\" (Přikývni.) \"Věděl jsem, že jste muž lidu, Evrarte.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -227,6 +243,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC46"
 msgid "There is true indignation in his voice when he speaks about the state of things. And even a touch of pain."
 msgstr ""
+"Když mluví o stavu věcí, v jeho hlase je skutečné rozhořčení. A dokonce i dotek bolesti."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -241,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054D6"
 msgid "\"Sounds like you got this. You can rely on my vote.\""
 msgstr ""
+"\"Zdá se, že jste to připravil. Můžete se spolehnout na můj hlas.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -276,6 +294,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC79"
 msgid "You would look nice as a statue..."
 msgstr ""
+"Ty bys jako socha vypadal hezky..."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -283,6 +302,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC7F"
 msgid "\"I'm not a *symbolist*, Harry. I'm a realist. My statue will be Martinaise rebuilt: five story building complexes, kids off speed and landowners in Ozonne *hating* me. That will be my statue -- *and* yours. We're doing this together.\""
 msgstr ""
+"\"Já nejsem *symbolista*, Harry. Jsem realista. Moje socha bude přebudovaná Martinéza: pětipatrové komplexy budov, děti pryč od speedu a vlastníků půdy v Ozonu, kteří mě *nenávidí*. To bude moje socha - *a* tvoje. Děláme to spolu.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -290,6 +310,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000053FD"
 msgid "See, forging that signature really paid off."
 msgstr ""
+"Vidíš, padělat ten podpis se vážně vyplatilo."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -297,6 +318,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000547A"
 msgid "\"*Re-set*,\" he repeats. \"I have big plans for Martinaise. And they do *not* include humans living in those pig sheds on the coast. That land will be used for municipal buildings and commerce.\""
 msgstr ""
+"\"*Re-set-ovat*,\" zopakuje. \"Mám s Martinézou velké plány. A ty *nezahrnují* lidi žijící v těch prasečích chlívech na pobřeží. Ta půda bude využívána pro obecní budovy a obchod.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -339,6 +361,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC94"
 msgid "\"Damn right I'm up to something, Harry!\" The fist lands on the table again. \"I'm gonna make the working man as rich as *Joyce Messier*. That's my job. Just like yours is to keep the peace.\""
 msgstr ""
+"\"Kurva, že něco chystám, Harry!\" Na stůl zase dopadne pěst. \"Udělám pracujícího muže tak bohatého jako je *Joyce Messierová*. To je moje práce. Stejně jako je tvoje udržovat mír.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -346,6 +369,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005418"
 msgid "\"What was the fine print on the document I mailed? What was the catch?\""
 msgstr ""
+"\"Co bylo v těch dokumentech, které jsem poslal, drobným písmem? V čem byl háček?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -416,6 +440,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC4F"
 msgid "The pain is true. He's seen the kids do worse than that."
 msgstr ""
+"Ta bolest je opravdová. On viděl ty děti dělat i horší věci."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -423,6 +448,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000544D"
 msgid "\"Well, let's just say there'll be freshly renovated buildings near the roundabout where those poor people can finally enjoy a significant uptick in quality of life. I'm talking real affordable *workers palaces*.\""
 msgstr ""
+"\"No, řekněme, že poblíž toho kruhového objezdu budou čerstvě zrekonstruované budovy, kde si tihle chudí lidé budou moci konečně užívat výrazného zvýšení kvality života. Mluvím o skutečně cenově dostupných *dělnických palácích*.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -493,6 +519,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054DD"
 msgid "\"Oh I do, Harry, I really do.\" He crosses his arms on his chest. \"I'm gonna make the working man as rich as *Joyce Messier* with that vote of yours. That's my job. Just like yours is to keep the peace.\""
 msgstr ""
+"\"Ach ano, Harry, opravdu.\" Zkříží ruce na hrudi. \"Tím tvým hlasem udělám pracujícího muže tak bohatého jako *Joyce Messierová*. To je moje práce. Stejně jako je tvoje udržovat mír.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -556,6 +583,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001C57"
 msgid "\"You're in my inner circle. You too, Mr. Kitsuragi,\" he nods to the lieutenant, smiling broadly. \"We can talk about anything: the strike, the murder, your lost gun -- *nothing* is off the table.\""
 msgstr ""
+"\"Jsi v mém nejužším kruhu. Vy také, pane Kitsuragi,\" kývne na poručíka a široce se usměje. \"Můžeme mluvit o čemkoli: o stávce, o té vraždě, o tvé ztracené zbrani - *nic* není mimo rámec.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -563,6 +591,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005488"
 msgid "\"Harry, imagine a Youth Centre-Supermarket-Church complex! Employing hundreds, no, thousands of people. The coast will be lit up with enterprise -- and *life*! All those ruins out there turned into *low-income housing*...\""
 msgstr ""
+"\"Harry, představ si takový komplex Centrum mládeže se supermarketem a kostelem! Zaměstná to stovky, ne, tisíce lidí. Pobřeží bude osvětleno akcí - a *životem*! Všechny ty ruiny tam venku se změněné na *nízko příjmové bydlení*...\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -647,6 +676,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC1E"
 msgid "Finally -- answers. Ask away, son."
 msgstr ""
+"Konečně - odpovědi. Ptej se, synu."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -661,6 +691,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005434"
 msgid "\"So the village is doomed -- because I helped you.\""
 msgstr ""
+"\"Takže vesnice je odsouzena k záhubě - protože jsem vám pomohl.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -668,6 +699,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005471"
 msgid "\"So the village is doomed,\" the lieutenant says grimly."
 msgstr ""
+"\"Takže vesnice je odsouzena k záhubě,\" řekne poručík zasmušile."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -675,6 +707,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054AB"
 msgid "\"I accept your salute, Harry,\" he nods. \"*All* of it is true. I've got the centre, I've got room for a retail complex, and in four years I'll get the church too. The wheels are turning, Harry. The wheels of progress. This post-war limbo -- I won't stand for it. There are kids practically playing with their own *faeces* out there... It cannot go on.\""
 msgstr ""
+"\"Beru tvůj projev uznání, Harry,\" přikývne. \"*Všechno* je to pravda. Mám to centrum, mám místo pro obchodní komplex a za čtyři roky dostanu i kostel. Kola se už točí, Harry. Kola pokroku. To poválečné předpeklí - to nebudu trpět. Jsou tam děti, které si prakticky hrají s vlastními *výkaly*... To nemůže pokračovat.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -682,6 +715,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054CF"
 msgid "\"Joyce was right when she said you were up to something...\""
 msgstr ""
+"\"Joyce měla pravdu, když říkala, že něco chystáte...\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -731,6 +765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001C2A"
 msgid "\"It's done. I mailed the signatures you asked me to mail.\""
 msgstr ""
+"\"Hotovo. Poslal jsem ty podpisy, o které jste mě žádal poštou.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -738,6 +773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005426"
 msgid "\"And when they do...\" He holds out his index finger. \"They will have a *good* place to go. I'm currently working on renovating the buildings near the roundabout into affordable *workers palaces*.\""
 msgstr ""
+"\"A až to udělají...\" Natáhne ukazováček. \"Budou mít *dobré* místo, kam jít. Momentálně pracuji na renovaci budov poblíž toho kruhového objezdu na cenově dostupné *dělnické paláce*.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -787,6 +823,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CCB5"
 msgid "A true flash of anger in him -- as he thinks of her."
 msgstr ""
+"Je v něm skutečný záblesk hněvu - když přemýšlí o ní."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -808,6 +845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000058C5"
 msgid "\"I'm always happy to educate and entertain you, my friend.\" He takes a sip from his coffee. \"So, what's on your mind?\""
 msgstr ""
+"\"Vždycky tě rád vzdělám a pobavím, příteli.\" Usrkne kávy. \"Tak co máš na srdci?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -864,6 +902,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000548F"
 msgid "\"Youth-Supermarket-Church complex? Do you really expect me to believe that?\""
 msgstr ""
+"\"Centrum mládeže se supermarketem a kostelem? To vážně čekáte, že tomu budu věřit?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -871,6 +910,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054B2"
 msgid "\"And I knew you're one too, Harry! Right when you rolled into town. I've got the centre, I've got room for a retail complex, and In four years I'll get the church too. The wheels are turning, Harry. The wheels of progress. This post-war limbo -- I won't stand for it. There are kids practically playing with their own *faeces* out there... It cannot go on.\""
 msgstr ""
+"\"A já věděl, že ty taky, Harry! Hned, když jsi přijel do města. Mám to centrum, mám místo pro obchodní komplex a za čtyři roky dostanu i kostel. Kola se už točí, Harry. Kola pokroku. To poválečné předpeklí - to nebudu trpět. Jsou tam děti, které si prakticky hrají s vlastními *výkaly*... To nemůže pokračovat.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -948,6 +988,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900002A80"
 msgid "Oh, *bratan*, you played the old man like a three-string banjo. He has no idea."
 msgstr ""
+"Och, *bratan*, zahrál jsi na toho staříka jako na třístrunné banjo. Vůbec nic netuší."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -983,6 +1024,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000542D"
 msgid "\"The signatures I got -- I know you plan to force them out with the construction noise.\""
 msgstr ""
+"\"Ty podpisy, které jsem získal - vím, že plánujete je vytlačit tím stavebním hlukem.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1018,6 +1060,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005C42"
 msgid "He leans forward. \"Harry, enough is enough! We're taking this district back. The war was fifty years ago, for god's sake. It's time to move on.\""
 msgstr ""
+"Nakloní se dopředu. \"Harry, všeho je příliš! Přebíráme si tuto čtvrť zpět. Válka byla před padesáti lety, proboha. Je čas jít dál.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1102,6 +1145,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC9A"
 msgid "\"Sounds like you got this. You can rely on my vote.\""
 msgstr ""
+"\"Zdá se, že jste to připravil. Můžete se spolehnout na můj hlas.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1116,6 +1160,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700001C40"
 msgid "\"My friend, the mail-man, confirms the letter is on its way. You've done a great thing today. You've given the children of Martinaise a real future. I feel I can finally trust you, Harry.\""
 msgstr ""
+"\"Můj přítel, ten pošťák potvrzuje, že ten dopis je na cestě. Dnes jsi udělal skvělou věc. Dal jsi dětem z Martinézy opravdovou budoucnost. Mám pocit, že ti konečně můžu věřit, Harry.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1123,6 +1168,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000700001C40"
 msgid "\"My friend, the mail-man, confirms the letter is on its way. You've done a great thing today. You've given the children of Martinaise a real future, Harry, and I feel I can finally trust you now.\""
 msgstr ""
+"\"Můj přítel, ten pošťák potvrzuje, že ten dopis je na cestě. Dnes jsi udělal skvělou věc. Dal jsi dětem z Martinézy opravdovou budoucnost, Harry, a já mám pocit, že ti teď konečně můžu věřit.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1130,6 +1176,7 @@ msgstr ""
 msgctxt "Alternate2/0x0100000700001C40"
 msgid "\"My friend, the mail-man, confirms the letter is on its way. You've done a great thing today. You've given the children of Martinaise a future and proven to be a true man of the left. I can finally trust you now.\""
 msgstr ""
+"\"Můj přítel, ten pošťák potvrzuje, že ten dopis je na cestě. Dnes jsi udělal skvělou věc. Dal jsi dětem z Martinézy budoucnost a dokázal jsi, že jsi ten pravý muž levice. Konečně ti teď můžu věřit.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1137,6 +1184,7 @@ msgstr ""
 msgctxt "Alternate3/0x0100000700001C40"
 msgid "\"My friend, the mail-man, confirms the letter is on its way. You've done a great thing today. You've given the children of Martinaise a bright future, and you've proven yourself someone I can trust, someone I can really do *business* with.\""
 msgstr ""
+"\"Můj přítel, ten pošťák potvrzuje, že ten dopis je na cestě. Dnes jsi udělal skvělou věc. Dal jsi dětem z Martinézy zářivou budoucnost, a prokázal jsi se jako někdo, komu můžu věřit, jako někdo s kým můžu skutečně dělat *byznys*.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1144,6 +1192,7 @@ msgstr ""
 msgctxt "Alternate4/0x0100000700001C40"
 msgid "\"My friend, the mail-man confirms the letter is on its way. You've done a great thing today. You've given the children of Martinaise a real future, Harry, and proven yourself a real kingsman who's not afraid to make the tough decisions. I know I can trust you now.\""
 msgstr ""
+"\"Můj přítel, ten pošťák potvrzuje, že ten dopis je na cestě. Dnes jsi udělal skvělou věc. Dal jsi dětem z Martinézy opravdovou budoucnost, Harry, a prokázal jsi se jako skutečný králův vojín, který se nebojí dělat těžká rozhodnutí. Teď vím, že ti můžu věřit.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1193,6 +1242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C00009CCA"
 msgid "\"The golden boy returns once more! Wonderful -- simply wonderful, Harry.\" He claps his hands together like a child who's just been offered cotton candy. \"Of course, I already knew this.\""
 msgstr ""
+"\"Zlatý chlapec se opět vrací! Báječné - prostě úžasné, Harry.\" Tleskne rukama jako dítě, kterému právě nabídli cukrovou vatu. \"A samozřejmě, už jsem to věděl.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1207,6 +1257,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC06"
 msgid "You don't know his full plan. Perhaps he expected trickery? Perhaps the signatures weren't important? The point is: do not think you're ahead of him."
 msgstr ""
+"Neznáš jeho úplný plán. Možná čekal podvod? Možná ty podpisy nebyly důležité? Jde o tohle: nemysli si, že před ním máš náskok."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1214,6 +1265,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC17"
 msgid "We would've preferred trickery, but the choice was yours, sire, as always. You are the liege. And you're *in*."
 msgstr ""
+"My bychom dali přednost lsti, ale volba byla na vás, pane, jako vždycky. Vy jste ten feudál. A jste v *tom*."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1221,6 +1273,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC24"
 msgid "I don't know... your dirty forgery-fingers aren't sure if playing this one straight was the right thing to do."
 msgstr ""
+"Já nevím... tvoje padělatelské prsyt si nejsou jisté, jestli hrát tohle na férovku byla ta správná věc."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1228,6 +1281,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC69"
 msgid "You would look nice as a statue..."
 msgstr ""
+"Ty bys jako socha vypadal hezky..."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1249,6 +1303,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054A2"
 msgid "\"Yes, I do. I got the centre, I got room for a retail complex, and in four years I'll get the church too. The wheels are already turning, Harry. The wheels of progress. This post-war limbo -- I won't stand for it. There are kids practically playing with their own *faeces* out there... It cannot go on.\""
 msgstr ""
+"\"Ano, čekám. Mám to centrum, mám místo pro obchodní komplex a za čtyři roky dostanu i kostel. Kola se už točí, Harry. Kola pokroku. To poválečné předpeklí - to nebudu trpět. Jsou tam děti, které si prakticky hrají s vlastními *výkaly*... To nemůže pokračovat.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1256,6 +1311,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000054E9"
 msgid "\"Damn right I am, Harry!\" The fist lands on the table again. \"I'm gonna make the working man as rich as she is one day. That's my job. Just like yours is to keep the peace.\""
 msgstr ""
+"\"Kurva, že chystám, Harry!\" Na stůl zase dopadne pěst. \"Jednoho dne udělám pracujícího muže tak bohatého jako je ona. To je moje práce. Stejně jako je tvoje udržovat mír.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1298,6 +1354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CBF7"
 msgid "Better not to gloat, sire. 'Tis *arrogance* that gives the play away. Be subtle."
 msgstr ""
+"Bude lepší se nechvástat, pane. Je to *arogance*, co kazí hru. Buďte nenápadný."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1305,6 +1362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CBFE"
 msgid "Judging from how happy he is, it looks like you did it. He doesn't *appear* to suspect trickery."
 msgstr ""
+"Podle toho, jak je šťastný, to vypadá, že jsi to zvládl. *Nezdá se*, že by měl podezření na podvod."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1312,6 +1370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC60"
 msgid "\"I'm not a *symbolist*, Harry. I'm a realist. My statue will be Martinaise rebuilt: five story building complexes, workers on welfare and landowners in Ozonne *hating* me. That will be my statue -- *and* yours. We're doing this together.\""
 msgstr ""
+"\"Já nejsem *symbolista*, Harry. Jsem realista. Moje socha bude přebudovaná Martinéza: pětipatrové komplexy budov, děti pryč od speedu a vlastníků půdy v Ozonu, kteří mě *nenávidí*. To bude moje socha - *a* tvoje. Děláme to spolu.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1417,6 +1476,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC38"
 msgid "He proudly spreads his hands to demonstrate the size of the palaces. They're very large."
 msgstr ""
+"Hrdě roztáhne ruce, aby demonstroval velikost těch paláců. Jsou hodně velké."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1424,6 +1484,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CCAC"
 msgid "A true flash of anger in him -- as he thinks of her."
 msgstr ""
+"Je v něm skutečný záblesk hněvu - když přemýšlí o ní."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1431,6 +1492,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005481"
 msgid "\"What do you mean?\""
 msgstr ""
+"\"Co tím myslíte?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1501,6 +1563,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005463"
 msgid "\"You were there, you saw the place. A waste land -- there's nothing left. But mark my words, Harry.\" His slams his fist on the table, causing some of the coffee to spill. \"We are going to *reset* it.\""
 msgstr ""
+"\"Byli jste tam, viděli jste to místo. Je to pustina - nezůstalo tam nic. Ale pamatuj na má slova, Harry.\" Bouchne pěstí do stolu, což způsobí, že se rozlije trocha kávy. \"My se to chystáme *resetovat*.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1508,6 +1571,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000700005463"
 msgid "\"You were there, you saw the place. A waste land -- there's nothing left. But mark my words, officers.\" His slams his fist on the table, causing some of the coffee to spill. \"We are going to *reset* it.\""
 msgstr ""
+"\"Byli jste tam, viděli jste to místo. Je to pustina - nezůstalo tam nic. Ale pamatujte na má slova, důstojníci.\" Bouchne pěstí do stolu, což způsobí, že se rozlije trocha kávy. \"My se to chystáme *resetovat*.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1571,6 +1635,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC85"
 msgid "\"Wait, but -- will you erect a statue to yourself?\""
 msgstr ""
+"\"Počkejte, ale - vztyčíte si tam také vlastní sochu?\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1578,6 +1643,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001CC8E"
 msgid "\"Oh I do, Harry, I really do.\" He crosses his arms on his chest. \"I'm gonna make the working man richer than *Joyce Messier* with that vote of yours. That's my job. Just like yours is to keep the peace.\""
 msgstr ""
+"\"Ach ano, Harry, opravdu.\" Zkříží ruce na hrudi. \"Tím tvým hlasem udělám pracujícího muže bohatějšího než je *Joyce Messierová*. To je moje práce. Stejně jako je tvoje udržovat mír.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1599,6 +1665,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005409"
 msgid "Well done, sire. By guile and deceit, you're in."
 msgstr ""
+"Výborně, pane. Díky lsti a podvodu jste ve hře."
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1606,6 +1673,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700005495"
 msgid "\"Low-income housing? If even part of this is true, then why not.\""
 msgstr ""
+"\"Nízkopříjmové bydlení? Pokud je to byť jen zčásti pravda, tak proč ne.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
@@ -1627,6 +1695,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000058BF"
 msgid "\"A few more questions about the harbour.\""
 msgstr ""
+"\"Ještě pár otázek o přístavu.\""
 
 #. Title = CONTAINERYARD / EVRART UNION
 #. Description = "I wanna discuss some matters regarding the union with you."
