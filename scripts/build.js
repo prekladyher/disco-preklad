@@ -38,7 +38,7 @@ program.command("images")
       return Object.assign(acc, { [basename(file, ".png")]: file });
     }, {});
     for (const image of await glob(target)) {
-      const lookup = basename(image).replace(/-CAB-.*$/, "");
+      const lookup = basename(image).replace(/(-CAB-.*|-resources.assets-.*)$/, "");
       if (sourceImages[lookup]) {
         copyFile(sourceImages[lookup], image);
       }
