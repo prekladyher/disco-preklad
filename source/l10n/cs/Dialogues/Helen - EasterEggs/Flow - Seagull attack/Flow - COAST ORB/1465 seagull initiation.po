@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/3rs8vi4pkvj73jh_"
 msgid "Target practice. For improving your aim. Some of us have been wondering when you'll get around to that."
 msgstr ""
+"Cvičení na cíl. Pro zlepšení tvé mušky. Někteří z nás si říkali, kdy se k tomu dostaneš."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -17,18 +26,21 @@ msgstr ""
 msgctxt "Dialogue Text/sdy2vpoqu54by8c2"
 msgid "Oh no..."
 msgstr ""
+"Ale ne..."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/zlg27c8m7yh7bg2t"
 msgid "Here it comes again... (Pick up some more dirt and launch it at the bird.)"
 msgstr ""
+"A znova... (Sebrat další hlínu a hodit ji na ptáka.)"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/0auohms0bzxiajfx"
 msgid "Enough. [Leave.]"
 msgstr ""
+"To by stačilo. [Odejdi.]"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Seagull
@@ -36,6 +48,7 @@ msgstr ""
 msgctxt "Dialogue Text/jjronbb4vzlts_9j"
 msgid "A clump of soil seems to graze the bird's wing, but the gull just fluffs its feathers and turns another side. It really doesn't seem to care."
 msgstr ""
+"Zdá se, že ta hrouda hlíny svědí toho ptáka na křídle, ale racek si jen načechrá peří a otočí se na jinou stranu. Zdá se, že je mu to úplně jedno."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -43,6 +56,7 @@ msgstr ""
 msgctxt "Dialogue Text/rsxox2_ckmit_y4j"
 msgid "Better, but practice makes perfect! One more time -- right into the seabull's eye!"
 msgstr ""
+"Lepší, ale praxe dělá mistra! Ještě jednou - přímo do oka toho racka!"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Half Light
@@ -50,12 +64,14 @@ msgstr ""
 msgctxt "Dialogue Text/_tst8_p6kepwbg5e"
 msgid "'Fuck off, you bipedal rodent,' whispers its psionic eye."
 msgstr ""
+"\"Táhni, ty dvounohý hlodavče,\" zašeptá tvoje psionické oko."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/tyebl3qt97rj2dp2"
 msgid "I don't have time for shenanigans. [Leave.]"
 msgstr ""
+"Na tyhle kraviny nemám čas. [Odejdi.]"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -63,6 +79,7 @@ msgstr ""
 msgctxt "Dialogue Text/wl6wmtt9rdr0_3fb"
 msgid "There! On the ice. Target practice."
 msgstr ""
+"Tady! Na ledě. Je cvičný cíl."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -70,6 +87,7 @@ msgstr ""
 msgctxt "Dialogue Text/1hyngv84bc2s0k85"
 msgid "It's a seagull. They're practically immortal. And the only thing you'll be throwing is some dirt. It's guaranteed no one will get hurt."
 msgstr ""
+"Je to jen racek. Jsou prakticky nesmrtelní. A jediné, co budeš házet, je hlína. Zaručeně se nikomu nic nestane."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Electrochemistry
@@ -77,12 +95,14 @@ msgstr ""
 msgctxt "Dialogue Text/f0o36p3qsmhb_s75"
 msgid "Come on, do it, don't be such a pussy -- it'll be fun! Especially while the lieutenant is gone..."
 msgstr ""
+"No tak, udělej to, nebuď takový posera - bude to zábava! Zvlášť když je poručík pryč..."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/np8hntdxfdx9fvc_"
 msgid "Okay, one more time... (Hurl the mother of all dirt clods at the gull.)"
 msgstr ""
+"Tak dobře, ještě jednou... (Hodit po rackovi matku všech hliněných hrudek.)"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Volition
@@ -90,6 +110,7 @@ msgstr ""
 msgctxt "Dialogue Text/3sbg720_q2z0bso5"
 msgid "No, it won't be fun, it'll be annoying. *You'll* be annoying."
 msgstr ""
+"Ne, zábava to nebude, bude to otrava. Ty *Budeš* otrava."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Logic
@@ -97,6 +118,7 @@ msgstr ""
 msgctxt "Dialogue Text/kgstxgov8jgf7n4s"
 msgid "It will be okay -- from a purely physical point of view. These birds are used to worse things than bits of flying soil. And you'll miss."
 msgstr ""
+"Z čistě fyzického hlediska to bude v pořádku. Tito ptáci jsou zvyklí na horší věci než kousky létající hlíny. A ty stejně mineš."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Empathy
@@ -104,6 +126,7 @@ msgstr ""
 msgctxt "Dialogue Text/8ncr6unh_y1v_npr"
 msgid "No, don't throw *anything* at the bird, the bird will get hurt!"
 msgstr ""
+"Ne, na toho ptáka *nic* neházej, mohl bys ho zranit!"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -111,12 +134,14 @@ msgstr ""
 msgctxt "Dialogue Text/r1xw_w7ajmr2_3h4"
 msgid "Told you we needed to practice! What if this was a combat situation? We wouldn't be talking anymore. Try again!"
 msgstr ""
+"Říkal jsem ti, že musíme trénovat! Co kdyby to byl skutečný boj? To už bychom spolu nemluvili. Zkus to znovu!"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/x0c33_8qgp7godlh"
 msgid "I don't see anything but a seagull."
 msgstr ""
+"Nevidím tam nic jiného než racka."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Hand/Eye Coordination
@@ -124,18 +149,21 @@ msgstr ""
 msgctxt "Dialogue Text/fpwx73lqv7q6qgny"
 msgid "Precisely. No obstructions, just the seagull. Pick up some dirt and throw it at the bird. Come on, hurry up!"
 msgstr ""
+"Přesně tak. Nic ti nebrání, jen racek. Seber nějakou hlínu a hoď ji po tom ptákovi. No tak, dělej!"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/fot7e98ytztegh5p"
 msgid "What if the bird gets hurt?"
 msgstr ""
+"Co když toho ptáka zraním?"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/fkxhufhu57sreuk8"
 msgid "Alright, here we go... (Pick up some dirt and throw it at the seagull.)"
 msgstr ""
+"Tak dobře, jdeme na to... (Sebrat trochu hlíny a hoďit ji po rackovi.)"
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = Seagull
@@ -143,9 +171,11 @@ msgstr ""
 msgctxt "Dialogue Text/oysjh3l2baog3w77"
 msgid "Particles of soil, grass, and tiny rocks fly in a wide arc over the seagull's head. The bird doesn't even bat an eye."
 msgstr ""
+"Částečky půdy, trávy a drobných kamínků létají v širokém oblouku nad rackovou hlavou. Pták ani nemrkne okem."
 
 #. Title = Helen - EasterEggs / Flow – Seagull attack / Flow – COAST ORB / seagull initiation
 #. Actor = You
 msgctxt "Dialogue Text/zfivkbn52pkl91m6"
 msgid "What?"
 msgstr ""
+"Co?"
