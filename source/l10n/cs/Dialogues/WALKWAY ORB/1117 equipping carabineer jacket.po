@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WALKWAY ORB / equipping carabineer jacket
 #. Description = putting jacket on +1 to revacholian nationhood you fascist man
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000009E8"
 msgid "Oops, I didn't mean to wear a nationalist jacket. [Discard the thought -- and the jacket.]"
 msgstr ""
+"Jejda, nechtěl jsem si vzít nacionalistickou bundu. [Zavrhni tu myšlenku - a bundu.]"
 
 #. Title = WALKWAY ORB / equipping carabineer jacket
 #. Description = putting jacket on +1 to revacholian nationhood you fascist man
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000009E1"
 msgid "Mixing? Does my blood *need* mixing? Or is it good as it is?"
 msgstr ""
+"Mísila? Potřebuje moje krev k *mísení*? Nebo je dobrá taková, jaká je?"
 
 #. Title = WALKWAY ORB / equipping carabineer jacket
 #. Description = putting jacket on +1 to revacholian nationhood you fascist man
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000025BB"
 msgid "It's time to clean up the streets and restore the city to its former glory! Whether you like it or not, this jacket gives you serious nationalist cred."
 msgstr ""
+"Je čas vyčistit ulice a vrátit městu jeho bývalou slávu! Ať už se ti to líbí, nebo ne, tahle bunda ti dodá pořádný nacionalistický vzhled."
 
 #. Title = WALKWAY ORB / equipping carabineer jacket
 #. Description = putting jacket on +1 to revacholian nationhood you fascist man
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000025AF"
 msgid "Wow... this jacket makes you feel *strong*. As if your blood is mixing with that of the venerable Filippian loyalists of old."
 msgstr ""
+"Páni... v týhle bundě se cítíš tak *silný*. Jako by se tvoje krev mísila s krví ctihodných starých filipínských věrných."
 
 #. Title = WALKWAY ORB / equipping carabineer jacket
 #. Description = putting jacket on +1 to revacholian nationhood you fascist man
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100000A03"
 msgid "Yes. Let's hope no one saw you wearing that outrageously fascist jacket."
 msgstr ""
+"Ano. Doufejme, že tě nikdo neviděl v té nehorázně fašistické bundě."
 
 #. Title = WALKWAY ORB / equipping carabineer jacket
 #. Description = putting jacket on +1 to revacholian nationhood you fascist man
@@ -45,3 +58,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000820001F588"
 msgid "Apologies, you're right! The need for a strong central government has always been clear to you. You're a true patriot of Revachol -- born to do it."
 msgstr ""
+"Omlouvám se, máš pravdu! Potřeba silné centrální vlády ti byla vždy jasná. Jsi pravý revacholský patriot - narodil ses pro ni."

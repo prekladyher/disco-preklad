@@ -1,65 +1,83 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Encyclopedia
 msgctxt "Dialogue Text/0x010000820001F98C"
 msgid "I knew it was a cargo lashing belt!"
 msgstr ""
+"Jedná se o stejné opasky, kterými byla oběť oběšena."
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Kim Kitsuragi
 msgctxt "Dialogue Text/0x010000060001863E"
 msgid "\"More ammo on our belt for the remainder of the investigation. Good find, detective.\""
 msgstr ""
+"\"Další důkazní náboje na opasku pro zbytek vyšetřování. Dobrý nález, detektive.\""
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Logic
 msgctxt "Dialogue Text/0x010000820001F935"
 msgid "These are the same belts as the one the victim was hanged with."
 msgstr ""
+"Jedná se o stejné opasky, kterými byla oběť oběšena."
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = You
 msgctxt "Dialogue Text/0x010000820001F953"
 msgid "\"Look, lieutenant. The same belts as the one the victim was hanged with. Says *Vermillion* on the side...\""
 msgstr ""
+"\"Podívejte, poručíku. Stejné opasky jako ty, kterými byla oběšena oběť. Na boku má napsáno *Vermillion*...\""
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = You
 msgctxt "Dialogue Text/0x010000820001F959"
 msgid "The same exact belts. Even the same writing..."
 msgstr ""
+"Přesně ty samé opasky. Dokonce i se stejným nápisem..."
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Logic
 msgctxt "Dialogue Text/0x010000820001F994"
 msgid "Indeed, it appears so. This is where the belt came from."
 msgstr ""
+"Zdá se, že tomu tak skutečně je. Odtud pochází ten opasek."
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Kim Kitsuragi
 msgctxt "Dialogue Text/0x010000820001F967"
 msgid "\"You're right.\" The lieutenant looks at the pile. \"This certainly confirms the theory that the belt must've come from inside the harbour.\""
 msgstr ""
+"\"Máte pravdu.\" Poručík se podívá na hromadu. \"To rozhodně potvrzuje teorii, že ten pásek musel pocházet odněkaď z vnitřku přístavu.\""
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Kim Kitsuragi
 msgctxt "Dialogue Text/0x010000820001F976"
 msgid "\"You're right. This is probably where Titus and his men got the belt.\" The lieutenant looks at the pile."
 msgstr ""
+"\"Máte pravdu. Tady Titus a jeho muži pravděpodobně získali ten pásek.\" Poručík se podívá na hromadu."
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = Logic
 msgctxt "Dialogue Text/0x010000820001F986"
 msgid "Yes, this confirms Titus's story."
 msgstr ""
+"Ano, to potvrzuje Titovu výpověď."
 
 #. Title = WALKWAY ORB / logic belt afterthought
 #. Actor = You
 msgctxt "Dialogue Text/0x010000820001F95F"
 msgid "[Finish thought.]"
 msgstr ""
+"[Ukonči myšlenku.]"

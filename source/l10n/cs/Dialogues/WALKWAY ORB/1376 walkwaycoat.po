@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028ED"
 msgid "GET OUT OF MY HEAD!"
 msgstr ""
+"VYPADNI Z MOJÍ HLAVY!"
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028DB"
 msgid "It is harder and harder to reach you... I am not sure how well you'll hear me..."
 msgstr ""
+"Je stále těžší s tebou mluvit... nejsem si jistý, jak dobře mě slyšíš..."
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028F3"
 msgid "Listen within the flower of home… I am lost... Please...."
 msgstr ""
+"Naslouhcej květům domova... jsem ztracen... prosím...."
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028FF"
 msgid "Forgive me... I only want reunion... I am struggling to know where... Listen within the flower of home… Please..."
 msgstr ""
+"Odpusť mi... chci se jen potkat... snažím se zjistit, kde... naslouhcej květům domova... prosím..."
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028F9"
 msgid "I am lost and unfound... Listen within the flower of home…"
 msgstr ""
+"Jsem ztracený a nenalezený... naslouhcej květům domova..."
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028E1"
 msgid "Please, I want to help you! Where must I go next?"
 msgstr ""
+"Prosím, chci ti pomoct! Kam mám jít?"
 
 #. Title = WALKWAY ORB / walkwaycoat
 #. Description = This is the third Shivers in the coat quest. It is a challenging orb.
@@ -52,3 +66,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008F000028E7"
 msgid "Can't you just tell me where you are? Or what you are?"
 msgstr ""
+"Nemůžeš mi prostě říct, kde jsi? Nebo co jsi?"
