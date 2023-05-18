@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000068A8"
 msgid "It must be cold and lonely down there, in the icy water."
 msgstr ""
+"Tam dole v ledové vodě musí být chlad a samota."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069C9"
 msgid "\"My guess is it started its journey from the plaza, where it backed through the fence.\""
 msgstr ""
+"\"Odhaduji, že přijel od náměstí a prorazil bránu plotu.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A8E"
 msgid "I should investigate."
 msgstr ""
+"Měl bych to prozkoumat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CE4"
 msgid "\"How long will it take for the low tide to come in?\""
 msgstr ""
+"\"Za jak dlouho přijde odliv?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D3B"
 msgid "\"Haha, very funny -- so I can't whistle.\""
 msgstr ""
+"\"Haha, velice vtipné - no tak neumím pískat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -45,6 +58,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DCB"
 msgid "\"I don't think I'm ever gonna find my gun.\" (Look around.) \"The world is so big and my gun is so small...\""
 msgstr ""
+"\"Myslím, že svou zbraň nikdy nenajdu.\" (Rozhlédnout se kolem sebe.) \"Svět je tak velký a moje zbraň je tak malá...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -52,6 +66,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E40"
 msgid "Squint your eyes and say: \"Is that a number on the side?\" (Proceed.)"
 msgstr ""
+"Přimhouřit oči a říct: \"To je číslo na tom boku?\" (Pokračovat.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -59,6 +74,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000729B"
 msgid "No matter how many times you say it, it won't change the truth."
 msgstr ""
+"Je jedno, kolikrát to řekneš, pravdu to nezmění."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -66,6 +82,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007311"
 msgid "You were not."
 msgstr ""
+"Ale možná taky ne."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -73,6 +90,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD71"
 msgid "\"What's your favourite blue thing?\""
 msgstr ""
+"\"Jaká je vaše oblíbená modrá věc?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -80,6 +98,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ADF9"
 msgid "With his lips puckered the lieutenant lets out a beautiful melodic trill that puts even the Insulindic thrush to shame."
 msgstr ""
+"S našpulenými rty vydá poručík tak krásně melodicky, který zahanbí i insulindského drozda."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -87,6 +106,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AFD6"
 msgid "Yes, Harry, it's the number 41. The number of our precinct. I hoped you would come back for me..."
 msgstr ""
+"Ano, Harry, to je 41. Číslo našeho okrsku. Doufal jsem, že se pro mě vrátíš..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -94,6 +114,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C238"
 msgid "Remember the tyre tracks in Martinaise? This is where they were leading."
 msgstr ""
+"Pamatuješ si na ty stopy pneumatik v Martinéze? Tak tudy vedou."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -101,6 +122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A7A"
 msgid "\"We don't have time for traffic hooliganism right now.\" [Leave.]"
 msgstr ""
+"\"Na vrtání se v autě teď nemáme čas.\" [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -108,6 +130,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D81"
 msgid "\"I miss my parents...\""
 msgstr ""
+"\"Chybí mi rodiče...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -115,6 +138,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D99"
 msgid "Well, napalm ants for example are used in some rites of passage rituals..."
 msgstr ""
+"No, napalmoví mravenci se například používají při některých pochodových rituálech..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -122,6 +146,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F05"
 msgid "A massive pit opens up in your stomach and the most terrible feeling comes over you."
 msgstr ""
+"V žaludku se ti otevře obrovská propast a přepadne tě ten nejhorší pocit."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -129,6 +154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070E0"
 msgid "\"Things were going so well, we were just whistling merrily...\""
 msgstr ""
+"\"Šlo nám to tak dobře, že jsme si dokonce vesele pískali...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -136,6 +162,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007118"
 msgid "\"Detective,\" he says almost gently. \"We *don't*. A rescue operation really isn't viable at this point.\""
 msgstr ""
+"\"Detektive,\" řekne téměř něžně. \"My ne. Záchranná operace v tuto chvíli opravdu není možná.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -143,6 +170,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071F3"
 msgid "\"Well...\" The lieutenant shrugs. \"Life has a way of pulling the rug from under your feet. But things can only go up from here.\""
 msgstr ""
+"\"No...\" Poručík pokrčí rameny. \"Život vám dokáže vytáhnout trn z paty. Ale odtud už to může jít jenom dobře.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -150,6 +178,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007276"
 msgid "A massive pit opens up in your stomach and the most terrible feeling comes over you."
 msgstr ""
+"V žaludku se ti otevře obrovská propast a přepadne tě ten nejhorší pocit."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -157,6 +186,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153C9"
 msgid "Does he know something about that speedracer?"
 msgstr ""
+"Ví snad něco o tom závodníkovi?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -164,6 +194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE65"
 msgid "The clouds pass in the sky and the shadow of the swing moves like the hour hand on a time piece... Thirty minutes have passed."
 msgstr ""
+"Na obloze se míhají mraky a stín houpačky se pohybuje jako hodinová ručička na hodinách... Uplynulo třicet minut."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -171,6 +202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C246"
 msgid "That *rebel* who jumped the canal and broke the waterlock! This is their doing."
 msgstr ""
+"Ten *rebel*, který přeskočil kanál a rozbil stavidlo! To je jeho práce."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -178,6 +210,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000063D4"
 msgid "This is where the rebel who jumped the canal ended up. Not so daring anymore!"
 msgstr ""
+"Tady skončil ten rebel, který přeskočil kanál. Už není tak odvážný!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -185,6 +218,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000007000063D4"
 msgid "\"This is where the rebel who jumped the canal ended up. Not so daring anymore!\""
 msgstr ""
+"\"Tady skončil ten rebel, který přeskočil kanál. Už není tak odvážný!\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -192,6 +226,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000068C2"
 msgid "The seawater has already started to corrode the metalworks."
 msgstr ""
+"Mořská voda již začala korodovat kovové konstrukce."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -199,6 +234,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A36"
 msgid "I don't have time for traffic hooliganism right now. [Leave.]"
 msgstr ""
+"Na motorové vandalství teď úplně nemám čas. [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -206,6 +242,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AD6"
 msgid "A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision."
 msgstr ""
+"Z napůl potopeného kočátru vzlétne racek. Působí to skoro, jako by ten pták převzal tvoje rozhodnutí na vědomí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -213,6 +250,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CA8"
 msgid "The lieutenant's estimate is correct. The incident probably occurred on Sunday eve."
 msgstr ""
+"Poručíkův odhad je správný. K incidentu došlo pravděpodobně v neděli v podvečer."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -220,6 +258,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D5D"
 msgid "\"Just keep at it, it will come to you.\""
 msgstr ""
+"\"Jen v tom pokračujte, ono to přijde.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -227,6 +266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EFC"
 msgid "Forty-one, Precinct 41. A massive pit opens up in your stomach and the most terrible feeling comes over you."
 msgstr ""
+"Čtyřicet-jedna, okrsek 41. V žaludku se ti otevře obrovská propast a přepadne tě ten nejhorší pocit."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -234,6 +274,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F61"
 msgid "\"But Jacob Irw...\""
 msgstr ""
+"\"Ale Jacob Irw...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -241,6 +282,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070E6"
 msgid "\"They're not gonna take me back after this, are they?\""
 msgstr ""
+"\"Po tomhle už mě zpátky nevezmou, že ne?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -248,6 +290,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007100"
 msgid "\"Things were going so well, we were just talking about our mums...\""
 msgstr ""
+"\"Všechno šlo tak dobře, dokonce jsme si povídali i našich matkách...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -255,6 +298,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071C9"
 msgid "I don't wanna hear about that."
 msgstr ""
+"Nechci o tom mluvit."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -262,6 +306,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000726A"
 msgid "You feel like you're about to faint and fall off the swing. Your hands get clammy and the air tastes sour to breathe."
 msgstr ""
+"Máš pocit, že omdlíš a spadneš z houpačky. Ruce se ti svírají a vzduch chutná kysele."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -269,6 +314,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072E5"
 msgid "How do we get you out?"
 msgstr ""
+"Jak vás dostanu pryč?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -276,6 +322,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007309"
 msgid "The sooner you accept it, the sooner you can move on."
 msgstr ""
+"Čím dřív se s tím smíříš, tím dřív můžeš jít dál."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -283,6 +330,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF07"
 msgid "\"But... if someone puts a gun to your head?\""
 msgstr ""
+"\"Ale... kdyby vám někdo přiloží pistoli ke spánku?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -290,6 +338,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF1D"
 msgid "\"I've been thinking: if I put enough time into eating right and exercising, I could turn myself into a living weapon. Then I wouldn't even need a gun...\""
 msgstr ""
+"\"Přemýšlel jsem, že kdybych věnoval dostatek času správnému stravování a cvičení, mohl bych ze sebe udělat vlastně takovou lidskou živou zbraň. Pak bych ani nepotřeboval zbraň...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -297,6 +346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000081D"
 msgid "Yes it is. It feels as the city behind you grows silent in the waiting. Seems like an eternity has passed..."
 msgstr ""
+"Ano, je. Je to pocit, jako by město za tebou při čekání ztichlo. Zdá se, že uplynula celá věčnost..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -304,6 +354,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A5E"
 msgid "I should investigate."
 msgstr ""
+"Měl bych to prozkoumat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -311,6 +362,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AA4"
 msgid "\"Let's investigate.\""
 msgstr ""
+"\"Pojďme to prozkoumat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -318,6 +370,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006BF3"
 msgid "What is the make of this MC? Can I see a logo?"
 msgstr ""
+"Co je to za logo MC? Mohl bych se na něj podívat?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -325,6 +378,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C45"
 msgid "\"Yet another case of the engine displacement triumphing over the driver's IQ.\""
 msgstr ""
+"\"Další případ vítězství zdvihového motoru nad řidičovou chytrostí.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -332,6 +386,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F51"
 msgid "\"No, it's the street racer.\""
 msgstr ""
+"\"Ne, patří tomu pouličnímu závodníkovi.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -339,6 +394,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070EC"
 msgid "\"First my badge and now THIS.\""
 msgstr ""
+"\"Nejdřív můj průkaz a teď tohle.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -346,6 +402,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000007000070EC"
 msgid "\"The badge, the gun -- and now THIS.\"\n"
 msgstr ""
+"\"Odznak, zbraň - a teď tohle.\"\n"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -353,6 +410,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000715E"
 msgid "\"I don't have that kind of money.\""
 msgstr ""
+"\"Tolik peněz nemám.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -360,6 +418,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072A7"
 msgid "Yes, Harry. You did."
 msgstr ""
+"Ano, Harry, to si teda vjel."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -367,6 +426,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000644B"
 msgid "The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion."
 msgstr ""
+"Motorový kočát leží ve slané vodě oceánu, který je studený a smutný. Nemá vlastní názor."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -374,6 +434,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069D7"
 msgid "The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion."
 msgstr ""
+"Motorový kočát leží ve slané vodě oceánu, který je studený a smutný. Nemá vlastní názor."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -381,6 +442,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CFB"
 msgid "The hinges creak under your weight -- dangerously so."
 msgstr ""
+"Panty pod tvou vahou nebezpečně - zavrzají."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -388,6 +450,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D1E"
 msgid "Two birds on a wire, whistling by the seaside. Looking at the water. And a sunken car."
 msgstr ""
+"Dva ptáci na drátě, co pískající u moře. Dívají se na vodu. A potopené auto."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -395,6 +458,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DF6"
 msgid "\"Can you make out the marque now?\""
 msgstr ""
+"\"Už je vidět co je to za značku?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -402,6 +466,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E7A"
 msgid "Does he know something about the driver of this vehicle?"
 msgstr ""
+"Ví snad něco o tom řidiči toho kočáru?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -409,6 +474,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F17"
 msgid "Oh god, Harry! Oh god, Harry, what did you do...?!"
 msgstr ""
+"Proboha, Harry! Proboha Harry, co si to provedl...?!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -416,6 +482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071AF"
 msgid "There is also a *fourth* thing you've lost."
 msgstr ""
+"Je tu také *čtvrtá* věc, o kterou jsi přišel."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -423,6 +490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071E5"
 msgid "\"You can still whistle,\" the lieutenant says with a smile. \"Besides, the night is always darkest before the dawn.\""
 msgstr ""
+"\"Pořád si můžeš pískat,\" řekne poručík s úsměvem. \"Kromě toho, nikdy se nepije kafe, hned jak se uvaří.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -430,6 +498,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000728D"
 msgid "\"OH GOD, IT *IS* MINE! I DROVE MY CAR INTO THE SEA!!!\""
 msgstr ""
+"\"PROBOHA, JE MOJE! VJEL JSEM AUTEM DO MOŘE!!!\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -437,6 +506,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072EB"
 msgid "They're not gonna take me back after this, are they?"
 msgstr ""
+"Po tomhle už mě zpátky nevezmou, že ne?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -444,6 +514,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AB9A"
 msgid "Run your hand over the cold metal."
 msgstr ""
+"Přejet rukou po tom studeném kusu kovu."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -451,6 +522,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD39"
 msgid "Spit flies from your mouth to your moustache, your chest, the ground before you... No sound though."
 msgstr ""
+"Slinyti prskají z úst do tvého kníru, na hruď, a na zem před tebou... nedělají žádný zvuk."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -458,6 +530,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C0000AD39"
 msgid "Spit flies from your mouth, spraying your chest and landing on the ground before you. No sound though."
 msgstr ""
+"Z úst ti vyletí slina, postříká ti hruď a přistane před tebou na zemi. Žádný zvuk to však neudělá."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -465,6 +538,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900000816"
 msgid "\"Man, this is taking a long time.\""
 msgstr ""
+"\"Člověče, tohle zabere věčnost.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -472,6 +546,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000064B6"
 msgid "I wonder what all these people in the city behind me are doing..."
 msgstr ""
+"Zajímalo by mě, co dělají všichni ti lidé v tom městě za mnou..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -479,6 +554,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069C1"
 msgid "The motor carriage sits in the salty ocean water, cold and sad, and doesn't provide an immediate answer."
 msgstr ""
+"Motorový kočár leží ve slané vodě oceánu, je tak studený a smutný, avšak mlčí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -486,6 +562,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A30"
 msgid "\"We don't have time for traffic hooliganism right now.\" [Leave.]"
 msgstr ""
+"\"Na vrtání se v autě teď nemáme čas.\" [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -493,6 +570,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C30"
 msgid "\"Did you say something, lieutenant?\""
 msgstr ""
+"\"Říkal jste něco, poručíku?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -500,6 +578,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D35"
 msgid "Keep blowing."
 msgstr ""
+"Pokračovat ve foukání."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -507,6 +586,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D41"
 msgid "\"I would like to see you try in this bloody wind.\""
 msgstr ""
+"\"Rád bych viděl vás, jak to v tom zatraceném větru zkušíte.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -514,6 +594,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000706A"
 msgid "\"I'm afraid so, yes. It looks like you drove your police motor carriage into the sea, after you jumped across the canal.\""
 msgstr ""
+"\"Obávám se, že ano. Vypadá to, že jste se svým policejním motorovým kočárem sjel do moře poté, co jste přeskočil kanál.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -521,6 +602,7 @@ msgstr ""
 msgctxt "Alternate1/0x010000070000706A"
 msgid "\"I'm afraid so, yes. It looks like you started in front of the Whirling, jumped over the canal and then drove your vehicle in the sea right here.\"\n"
 msgstr ""
+"\"Obávám se, že ano. Vypadá to, že jste začal před Vírem, přeskočil kanál a pak vjel se svým vozem do moře tudy.\"\n"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -528,6 +610,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007135"
 msgid "\"So it's just gonna *be* there like that?!\""
 msgstr ""
+"\"Takže tu *bude* trčet jen tak?!\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -535,6 +618,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007238"
 msgid "C'mon, Harry... There's nowhere to run. It's just you and me, old friend."
 msgstr ""
+"No tak, Harry... Není kam utéct. Jsme tu jen ty a já, starý příteli."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -542,6 +626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD1E"
 msgid "It's impossible to say if it's happening, if the water is receding. All you feel is a lot of time going by."
 msgstr ""
+"Nedá se říct, jestli se to děje, jestli ta voda už ustupuje. Jediné, co cítíš, je spousta ubíhajícího času."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -549,6 +634,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD52"
 msgid "The lieutenant must think it's rather funny. He smiles and quickly turns away."
 msgstr ""
+"Poručík si musí myslet, že je to docela legrační. Usměje se a rychle se otočí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -556,6 +642,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AEF2"
 msgid "Your voice echoes on the water, strange and out of place in the environment. Thirty more minutes pass."
 msgstr ""
+"Tvůj hlas se održáží na vodě, tak nějak podivně a nemístně v tomto prostředí. Uplyne dalších třicet minut."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -563,6 +650,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF42"
 msgid "\"Is that a Coupris 40?\""
 msgstr ""
+"\"To je Courpis 40?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -570,6 +658,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000890000082B"
 msgid "The lieutenant looks at his wristwatch. \"The world turns as fast as it wants.\""
 msgstr ""
+"Poručík se podívá na hodinky. \"Svět se točí, jak rychle je potřeba.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -577,6 +666,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006990"
 msgid "The seawater has already started to corrode the metalworks."
 msgstr ""
+"Mořská voda již začala korodovat kovové konstrukce."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -584,6 +674,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AE4"
 msgid "A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision."
 msgstr ""
+"Z napůl potopeného kočátru vzlétne racek. Působí to skoro, jako by ten pták převzal tvoje rozhodnutí na vědomí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -591,6 +682,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C50"
 msgid "The sad sunken vehicle refuses to respond."
 msgstr ""
+"Smutné potopené vozidlo odmítá reagovat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -598,6 +690,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E50"
 msgid "\"I think I know now, what my favourite blue thing is.\" He nods. \"Yes, my favourite blue thing is a blue police uniform... or blue police livery.\""
 msgstr ""
+"\"Myslím, že už vím, co je moje nejoblíbenější modrá věc.\" Přikývne. \"Ano, moje oblíbená modrá věc je modrá policejní uniforma... nebo modrý policejní vzor.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -605,6 +698,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EF5"
 msgid "\"I'm sorry, Harry. I'm so sorry.\""
 msgstr ""
+"\"Mrzí mě to Harry. Mrzí mě to Harry.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -612,6 +706,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007157"
 msgid "\"Well, not *cheaper*. This motor carriage costs 40,000 reál... but in the long run it stills makes more sense to buy a new machine than try to refurbish this.\""
 msgstr ""
+"\"No, *levnější* zrovna ne. Tenhle motorový kočár stojí 40 000 reálů... ale z dlouhodobého hlediska je pořád rozumnější koupit si nový kočát než se pokoušet renovovat tenhle.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -619,6 +714,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000716A"
 msgid "\"People are gonna be angry at me, aren't they? In Precinct 41.\""
 msgstr ""
+"\"Lidé se na mě budou zlobit, že? Ve 41 okrsku.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -626,6 +722,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072C7"
 msgid "I can fix it."
 msgstr ""
+"Tohle nedokážu napravit. "
+""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -633,6 +731,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD5C"
 msgid "It's sad that no one and nothing but the sunken vehicle is here to witness it, but the unexpected beauty of the tune lifts your spirits nonetheless."
 msgstr ""
+"Je smutné, že tu není nikdo a nic kromě potopeného kočáru, ale nečekaná krása melodie ti přesto zvedne náladu."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -640,6 +739,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE4F"
 msgid "\"I believe it's following a pattern set millions of years ago by cosmic forces... But I suppose it *could* move quicker, yes.\""
 msgstr ""
+"\"Věřím, že se řídí vzorem, který před miliony let určily vesmírné síly... ale předpokládám, že by se mohl pohybovat rychleji, to ano.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -647,6 +747,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE80"
 msgid "Just like how the crazy daredevil piloting that vehicle must have accelerated into the sea!"
 msgstr ""
+"Stejně jako musel ten bláznivý odvážlivec, který to vozidlo řídil, a zrychlil do moře!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -654,6 +755,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AEC4"
 msgid "\"Well...\" The lieutenant rubs his chin. \"Historically, leeches have been used to prevent and even cure many ailments...\""
 msgstr ""
+"\"No...\" Poručík si podrbe bradu. \"Historicky se pijavice používaly k prevenci a dokonce i k léčbě mnoha onemocnění...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -661,6 +763,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A2A"
 msgid "I don't have time for traffic hooliganism right now. [Leave.]"
 msgstr ""
+"Na motorové vandalství teď úplně nemám čas. [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -668,6 +771,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AB8"
 msgid "I don't have time for traffic hooliganism right now. [Leave.]"
 msgstr ""
+"Na motorové vandalství teď úplně nemám čas. [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -675,6 +779,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AC7"
 msgid "\"Let's investigate.\""
 msgstr ""
+"\"Pojďme to prozkoumat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -682,6 +787,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006BD0"
 msgid "Of course. Everything's okay."
 msgstr ""
+"Jistě. Všechno je v pořádku."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -689,6 +795,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C19"
 msgid "\"The ice hasn't closed around the vehicle yet...\" He leans forward to peek into the cold water. \"My guess is it's been here since last Saturday or Sunday.\""
 msgstr ""
+"\"To auto ještě není uplná kostka ledu...\" nakloní se dopředu, aby se podíval do studené vody. \"Hádám, že je tady od minulé soboty nebo neděle.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -696,6 +803,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EAB"
 msgid "\"Looks like the factory made a mistake and accidentally called this one Coupris 41.\" (Scoff.) \"Stupid factory.\""
 msgstr ""
+"\"Vypadá to, že se v továrně spletli a omylem ho nazvali Coupris 41.\" (Říct posměšek.) \"Blbá továrna.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -703,6 +811,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000712B"
 msgid "\"I'm afraid it will have to *be* there like that for many years.\" He looks around. \"Look at it -- parts of it might be salvageable, but overall this machine is a write-off.\""
 msgstr ""
+"\"Obávám se, že tam takhle bude muset trčet mnoho let.\" Rozhlédne se kolem. \"Podívejte se na to - některé části by se daly zachránit, ale celkově je tenhle stroj na odpis.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -710,6 +819,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000717A"
 msgid "\"Let's face it, this is a substantial loss to your district's budget.\" He's avoiding your gaze now. \"I mean, my station only has four other vehicles in addition to my Kineema...\""
 msgstr ""
+"\"Přiznejme si, že pro rozpočet vašeho okresu je to značná ztráta.\" Teď se vyhýbá tvému pohledu. \"Chci tím říct, že moje stanice má kromě Kineemy jen čtyři další vozidla...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -717,6 +827,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072CD"
 msgid "Maybe I was in pursuit of someone."
 msgstr ""
+"Možná jsem někoho pronásledoval."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -724,6 +835,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153D1"
 msgid "\"No, I mean seriously, it's just a coincidence...\""
 msgstr ""
+"\"Ne, myslím to vážně, je to jen náhoda...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -731,6 +843,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AC9B"
 msgid "Although the sunken motor carriage is probably flattered by you addressing it, it does not supply an answer."
 msgstr ""
+"Ačkoli potopenému motorovému kočáru zřejmě lichotí, že se na něj díváš, tak ti pravděpodobně neodpoví."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -738,6 +851,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE56"
 msgid "Clouds on the horizon grow darker and the shadow of the swing set keeps climbing. You hear the distant rumble of the city. Thirty minutes pass..."
 msgstr ""
+"Mraky na obzoru tmavnou a stín houpačky stále stoupá. Slyšíš vzdálené dunění města. Uplyne třicet minut..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -745,6 +859,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF00"
 msgid "\"Luckily, I am already a member of an independent organization, and therefore do not have to choose between a rock and a hard place.\""
 msgstr ""
+"\"Naštěstí jsem již členem nezávislé organizace, a proto nemusím volit mezi kámen nůžky papír.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -752,6 +867,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF2C"
 msgid "\"Yes. Forty-one. What do you think it stands for?\""
 msgstr ""
+"\"Ano, čtyřicet-jednička. Co myslíte, že to znamená?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -759,6 +875,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AFC3"
 msgid "Yes. Number 41. As in: Precinct 41. C'mon, man -- that's our ride!"
 msgstr ""
+"Ano. Číslo 41. Jako v: Okrsek 41. No tak, chlape - to je náš styl!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -766,6 +883,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006430"
 msgid "The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion."
 msgstr ""
+"Motorový kočát leží ve slané vodě oceánu, který je studený a smutný. Nemá vlastní názor."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -773,6 +891,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A6B"
 msgid "I don't have time for this right now. [Leave.]"
 msgstr ""
+"Na tohle teď nemám čas. [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -780,6 +899,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006BFA"
 msgid "How long has it been here?"
 msgstr ""
+"Jak dlouho tu asi je?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -787,6 +907,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100000700006BFA"
 msgid "\"How long has it been here?\""
 msgstr ""
+"\"Jak dlouho tu asi je?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -794,6 +915,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CB4"
 msgid "Great idea! Then we can get the things inside. The joyrider must have left something good inside. Guns? Papers? Maybe a cool jacket? A joyrider jacket?"
 msgstr ""
+"Skvělý nápad! A pak se můžeme dostat dovnitř. Ten řidič musel uvnitř nechat něco užitečného. Zbraně? Papíry? Možná parádní bundu? Zlodějskou bundu?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -801,6 +923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CC2"
 msgid "A joyrider jacket? You feel a strange connection to this joyrider. Maybe he's from some kind of Joyriders district and likes blue and white racing livery? Like a cop would."
 msgstr ""
+"Zlodějskou bundu? Cítíš k tomu zloději zvláštní vztah. Možná je z nějakého čorkařského okrsku a má rád modrobílé závodní barvy? Tak jako mají policajti."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -808,6 +931,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D67"
 msgid "You hear the sound echo on the large body of water. Clouds race across the spring sky and suddenly you just feel better. About everything."
 msgstr ""
+"Slyšíš, jak se ten zvuk odráží na té velké vodní ploše. Po jarní obloze se prohánějí mraky a ty se najednou cítíš lépe. Ve všech směrech."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -815,6 +939,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D8B"
 msgid "'Okay,' he's thinking. 'I can do this. Let's do this. Who'd want to sit on an anthill? There are no therapeutic benefits to...\""
 msgstr ""
+"\"Dobře,\" pomyslí si. \"Tohle zvládnu. Tak jo. Kdo by chtěl sedět v mraveništi? Nemá to žádný terapeutický přínos...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -822,6 +947,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DE5"
 msgid "A dim light scatters from the cloud cover above the city. In it you can see the *blue and white motor carriage* slowly appear  from the water -- centimetre by centimetre as the sea recedes..."
 msgstr ""
+"Z mraků nad městem se rozptýlí matné světlo. V něm vidíš, jak se z vody pomalu vynořuje *modrobílý motorový kočár* - centimetr po centimetru, jak moře ustupuje..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -829,6 +955,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E11"
 msgid "\"Detective, I've been able to make out the marque ever since we arrived. I find it odd that you haven't. It's a Coupris, Model 40.\" His eyes turn to you."
 msgstr ""
+"\"Detektive, od chvíle, kdy jsme sem přijeli, jsem dokázal rozeznat značku. Je mi ale divné, že vy ne. Je to Coupris, model 40.\" Jeho oči se zadívají vaším směrem."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -836,6 +963,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EBC"
 msgid "\"I hate guessing. District something? A *precinct*? Something municipal?\" (Rub your temples -- you're getting a horrible headache.)"
 msgstr ""
+"\"Nesnáším hádání. Někoho z okrsku? *Okres*? Něco obecního?\" (Promnout si spánek - začíná tě strašně bolet hlava.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -843,6 +971,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EE8"
 msgid "\"But it could also be,\" he tilts his head and stresses: \"... the number of a police precinct. Precinct 41 -- *your* precinct.\""
 msgstr ""
+"\"Ale taky to tak může být,\" nakloní hlavu a zdůrazní: \"číslo policejního okrsku. Okrsek 41 - tvůj okrsek.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -850,6 +979,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000725D"
 msgid "I'm so sorry, Harry."
 msgstr ""
+"Je mi to líto, Harry."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -857,6 +987,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007270"
 msgid "Oh god, Harry! Oh god, Harry, what did you do...?!"
 msgstr ""
+"Proboha, Harry! Proboha Harry, co si to provedl...?!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -864,6 +995,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD4C"
 msgid "The lieutenant gives you a quick glance. Then, still looking straight ahead, he joins you with a higher-pitched and slightly more melodic trill."
 msgstr ""
+"Poručík se na tebe rychle podívá. A pak se k tobě přidá s vyšším a trochu melodičtější notou a stále se dívá přímo před sebe."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -871,6 +1003,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000063D9"
 msgid "A carriage in the sea? Where did this come from?"
 msgstr ""
+"Kočár v moři? Kde se tam vzal"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -878,6 +1011,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000007000063D9"
 msgid "\"A carriage in the sea? Where did this come from?\""
 msgstr ""
+"\"Kočár v moři? Kde se tam vzal?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -885,6 +1019,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006420"
 msgid "\"It appears to be so.\" The lieutenant has a peculiar look in his eyes as he inspects the wreckage."
 msgstr ""
+"\"Vypadá to tak.\" Poručík má při prohlídce vraku zvláštní pohled."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -892,6 +1027,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006452"
 msgid "\"We don't have time for traffic hooliganism right now.\" [Leave.]"
 msgstr ""
+"\"Na vrtání se v autě teď nemáme čas.\" [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -899,6 +1035,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000689B"
 msgid "It must be cold and lonely down there, in the icy water."
 msgstr ""
+"Tam dole v ledové vodě musí být chlad a samota."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -906,6 +1043,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000068AF"
 msgid "The seawater is already corroding the fuel lines, metalworks, and undercarriage components. It's seeping into the various modules and short-circuiting the electrical systems, including the electro-magnetic steering and brakes..."
 msgstr ""
+"Mořská voda již způsobuje korozi palivového potrubí, kovových konstrukcí a součástí podvozku. Prosakuje do různých modulů a zkratuje elektrické obvody, včetně elektromagnetického řízení a brzd..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -913,6 +1051,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069F7"
 msgid "The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion."
 msgstr ""
+"Motorový kočát leží ve slané vodě oceánu, který je studený a smutný. Nemá vlastní názor."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -920,6 +1059,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A65"
 msgid "I should investigate."
 msgstr ""
+"Měl bych to prozkoumat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -927,6 +1067,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A88"
 msgid "I don't have time for traffic hooliganism right now. [Leave.]"
 msgstr ""
+"Na motorové vandalství teď úplně nemám čas. [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -934,6 +1075,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AB2"
 msgid "Most suspicious. I should investigate."
 msgstr ""
+"To je čím dál podezřelejší. Musíme to prozkoumat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -941,6 +1083,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006ACD"
 msgid "\"We don't have time for traffic hooliganism right now.\" [Leave.]"
 msgstr ""
+"\"Na vrtání se v autě teď nemáme čas.\" [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -948,6 +1091,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006BEB"
 msgid "Rust, moss, and sea life have already claimed it for themselves and initiated a slow decomposition process."
 msgstr ""
+"Rez, mech a mořští živočichové si ji již přivlastnili a zahájili pomalý proces rozkladu."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -955,6 +1099,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C56"
 msgid "\"Yes. Quite.\" The lieutenant seems to be inspecting you more closely than the motor carriage."
 msgstr ""
+"\"Ano, dost už.\" Poručík si tě zřejmě prohlíží pozorněji než ten motorový kočár."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -962,6 +1107,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D7B"
 msgid "\"I don't know who my mum *or* my dad was...\""
 msgstr ""
+"\"Já ani nevím proč moje matka *nebo* otec byly...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -969,6 +1115,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EA5"
 msgid "\"This must be Tommy 41, the morning host of FM 41!\""
 msgstr ""
+"\"To musí být Tommy 41, ranní moderátor FM 41!\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -976,6 +1123,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EC2"
 msgid "\"Oh god, no...\""
 msgstr ""
+"Ach bože, ne."
+""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -983,6 +1132,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070F4"
 msgid "\"Things were going so well, we were just talking how people have different skins...\""
 msgstr ""
+"\"Šlo to tak dobře, jak jsme si povídali o tom, že lidé mají různou barvu kůže...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -990,6 +1140,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071D1"
 msgid "It's lost forever. Into the deepest of seas."
 msgstr ""
+"Je navždy ztraceno. V nejhlubších mořích."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -997,6 +1148,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007335"
 msgid "After losing every single thing you were entrusted with? I wouldn't hold my breath."
 msgstr ""
+"Po tom co si ztratil všechny ty věci co ti dali? Neplítval bych dechem."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1004,6 +1156,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD78"
 msgid "\"Hmm...\" The lieutenant is staring at the wreck. \"Let me think about it...\""
 msgstr ""
+"\"Hmm...\" Poručík se zadívá na vrak. \"Nechte mě o tom chvilku popřemýšlet...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1011,6 +1164,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000697D"
 msgid "Suddenly you're reminded of the lieutenant's Kineema and the weird feeling about the fish and seaweed you had..."
 msgstr ""
+"Najednou si vzpomeneš na poručíka Kineema a na ten divný pocit z ryb a mořských řas, který jsi už měl..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1018,6 +1172,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A42"
 msgid "I don't have time for this right now. [Leave.]"
 msgstr ""
+"Na tohle teď nemám čas. [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1025,6 +1180,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B22"
 msgid "\"I agree,\" the lieutenant replies, a curious look in his eyes. \"We should *definitely* investigate.\""
 msgstr ""
+"\"Souhlasím,\" odvětí poručík a v očích se mu ukáže zvědavý pohled. \"Rozhodně bychom to měli prošetřit.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1032,6 +1188,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DA9"
 msgid "\"Mhmh-mhmh...\""
 msgstr ""
+"\"Mhmh-mhmh...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1039,6 +1196,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DFD"
 msgid "Can I make out the marque now?"
 msgstr ""
+"Dokážu už rozeznač jeho značku?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1046,6 +1204,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007202"
 msgid "\"At least we have a pretty good suspect. If we found your motor carriage in the sea, maybe we'll find her too.\""
 msgstr ""
+"\"Alespoň máme docela dobrého podezřelého. Když jsme v moři našli váš motorový kočár, možná najdeme i ji.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1053,6 +1212,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AB2E"
 msgid "A banged up motor carriage lies half-submerged in the icy water, slowly sinking into the Insulindian ocean. Only the cabin top, rear wheels and the engine remain visible."
 msgstr ""
+"Rozbitý motorový kočár leží napůl ponořený v ledové vodě a pomalu se noří do inzulínského oceánu. Viditelná zůstává pouze horní část kabiny, zadní kola a motor."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1060,6 +1220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AB87"
 msgid "\"Yes, yes. Crazy recklessness.\" The lieutenant glances at you. \"I'd say it has been here since last Saturday or Sunday.\""
 msgstr ""
+"\"Ano, ano. Taková šílená bezohlednost. \" Poručík se na tebe podívá. \"Řekl bych, že je tu od minulé soboty nebo neděle.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1067,6 +1228,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ABA7"
 msgid "The motor carriage is properly stuck in the ice. Getting it out would require a team of specialists."
 msgstr ""
+"Motorový kočát je pořádně zaseknutý v ledu. Jeho vytažení by vyžadovalo tým specialistů."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1074,6 +1236,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AEE9"
 msgid "\"And your eyes also used to...\""
 msgstr ""
+"\"A vaše oči jsou také...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1081,6 +1244,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF4B"
 msgid "\"It is indeed.\" The lieutenant nods. \"Or more accurately *was*.\""
 msgstr ""
+"\"To je pravda.\" Poručík přikývne. \"Nebo spíš *byla*.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1088,6 +1252,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00006910"
 msgid "The estimate is correct. The incident probably occurred on Sunday evening."
 msgstr ""
+"Tento odhad je správný. K incidentu došlo pravděpodobně v neděli večer."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1095,6 +1260,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C27E"
 msgid "The damage is too extensive."
 msgstr ""
+"Oprava by stála moře peněz."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1102,6 +1268,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B00"
 msgid "A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision."
 msgstr ""
+"Z napůl potopeného kočátru vzlétne racek. Působí to skoro, jako by ten pták převzal tvoje rozhodnutí na vědomí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1109,6 +1276,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C01"
 msgid "The logo is too deep in the murky water -- you can't make it out. But you *do* see a monkfish float by."
 msgstr ""
+"To logo je příliš hluboko ve špinavé vodě - nelze ho ani pořádně rozeznat. Ale můžeš si všimnout, jak kolem proplouvá mořská ryba."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1116,6 +1284,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CF4"
 msgid "As you sit down in the old, rusty playground, the world around you becomes very silent."
 msgstr ""
+"Jakmile se posadíš na staré rezavé hřiště, svět kolem tebe najednou ztichne."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1123,6 +1292,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EEF"
 msgid "\"A precinct, yes!\" He tilts his head and continues in a soft voice. \"A police precinct. Precinct 41 -- *your* precinct.\""
 msgstr ""
+"\"Ano, okrsek!\" Nakloní hlavu a pokračuje tichým hlasem. \"Policejní okrsek. Okrsek 41 - *váš* okrsek.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1130,6 +1300,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F58"
 msgid "\"There were never any street racers. It was always you. You drove your car in the sea.\""
 msgstr ""
+"\"Nikdy tam nebyli žádní pouliční závodníci. Vždycky jste to byl ty. Brázdil jste autem po moři.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1137,6 +1308,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007050"
 msgid "The lieutenant just shakes his head."
 msgstr ""
+"Poručík jen zavrtí hlavou."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1144,6 +1316,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007231"
 msgid "Oh, no-no-no-no-no. Mkm. Not happening! Not on my watch."
 msgstr ""
+"Ale, ne-ne-ne-ne-ne. Mkm. To se nestane! Ne, nemám to v plánu."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1151,6 +1324,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072F1"
 msgid "\"First my badge and now THIS.\""
 msgstr ""
+"\"Nejdřív můj průkaz a teď TOHLE.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1158,6 +1332,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000007000072F1"
 msgid "\"The badge, the gun -- and now THIS.\""
 msgstr ""
+"\"Odznak, zbraň - a teď TOHLE.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1165,6 +1340,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AB18"
 msgid "Why the doom and gloom? It's just a sunken motor carriage. Some motor carriages are bound to end up in the sea."
 msgstr ""
+"Proč ta sklíčenost? Je to jen potopený motorový kočár. Některé motorové kočáry zkrátka musí skončit v moři."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1172,6 +1348,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ACA2"
 msgid "Wait for the low tide -- then you should be able to access the cabin."
 msgstr ""
+"Počkej na odliv - pak by ses mohl dostat do kabiny."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1179,6 +1356,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AED9"
 msgid "\"...all I'm saying is I'm surprised people's skin colour varies so drastically.\""
 msgstr ""
+"\"...chci jen podotknout, že mě překvapuje, že se barva pleti u lidí tak drasticky liší.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1186,6 +1364,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C0000AED9"
 msgid "\"...all I'm saying is I'm surprised people's skin colour varies so drastically. And that I miss my mum.\"\n"
 msgstr ""
+"\"...chci jen říct, že mě překvapuje, že se barva pleti u lidí tak drasticky liší. A že mi chybí moje máma.\"\n"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1193,6 +1372,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF0F"
 msgid "\"Do you think I will ever find my gun?\""
 msgstr ""
+"\"Myslíte si, že někdy najdu svou zbraň?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1200,6 +1380,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C28F"
 msgid "It's sunken too deep. There is no access ramp to the coast."
 msgstr ""
+"Je až moc hluboku. Na pobřeží není žádná přístupová rampa."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1207,6 +1388,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C297"
 msgid "This was 20% of the station's vehicular budget?"
 msgstr ""
+"Takže se jednalo o 20% z celkového rozpočtu stanice?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1214,6 +1396,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000063CF"
 msgid "\"This is where the tracks on the plaza were leading to.\""
 msgstr ""
+"\"Tudy vedly stopy na náměstí.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1221,6 +1404,7 @@ msgstr ""
 msgctxt "Alternate1/0x01000007000063CF"
 msgid "\"So this is where all the tracks were leading to!\"\n"
 msgstr ""
+"\"Takže až sem vedly všechny stopy!\"\n"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1228,6 +1412,7 @@ msgstr ""
 msgctxt "Alternate2/0x01000007000063CF"
 msgid "So this is where all the tracks were leading to!"
 msgstr ""
+"\"So this is where all the tracks were leading to!\"\n"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1235,6 +1420,7 @@ msgstr ""
 msgctxt "Alternate3/0x01000007000063CF"
 msgid "This is where the tracks on the plaza were leading to."
 msgstr ""
+"Tudy vedly stopy na náměstí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1242,6 +1428,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069E3"
 msgid "\"No...\" The lieutenant looks at the carriage and then at you. \"Not so daring at all.\""
 msgstr ""
+"\"Ne...\" Poručík se podívá na ten kočár a pak na tebe. \"To vůbec není tak odvážné.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1249,6 +1436,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AEB"
 msgid "\"I agree,\" the lieutenant replies, a curious look in his eyes. \"We should *definitely* investigate.\""
 msgstr ""
+"\"Souhlasím,\" odvětí poručík a v očích se mu ukáže zvědavý pohled. \"Rozhodně bychom to měli prošetřit.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1256,6 +1444,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DB1"
 msgid "\"I hope my mom isn't dead...\""
 msgstr ""
+"\"Doufám, že moje máma je naživu...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1263,6 +1452,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E39"
 msgid "\"Actually not a coincidence. The Kineema is the next generation sports edition of the old 'Forty', which was a real work horse. Favoured by the *police* all over the city...\" He raises his finger."
 msgstr ""
+"\"Vlastně to není náhodička. Kineema je novou generací sportovní edice staré \"čtyřicítky\", která byla skutečným pracovním strojem. Oblíbili si ji *policisté* po celém městě...\" Zvedne prst."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1270,6 +1460,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F1E"
 msgid "No! Just nope. Say no to this, Harry."
 msgstr ""
+"Ne! Prostě ne. Řekni mu ne, Harry."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1277,6 +1468,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F3B"
 msgid "\"Yes, your car is in the sea. Face it so we can start dealing with this.\""
 msgstr ""
+"\"Ano, vaše auto je v moři. Postavte se k němu čelem, ať to můžeme začít řešit.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1284,6 +1476,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000710C"
 msgid "\"Of whom?\" The lieutenant looks sceptical. \"I don't think so. If anything... you were probably drunk.\""
 msgstr ""
+"\"Koho?\" Poručík se tváří skepticky. \"To si nemyslím. Když už... tak jste byl nejspíš opilý.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1291,6 +1484,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007164"
 msgid "\"I couldn't even pay a hostel bill.\""
 msgstr ""
+"\"Nemohl jsem ani zaplatit účet ani za ten hostel.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1298,6 +1492,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007195"
 msgid "\"People are more valuable than machines.\" He's trying to cheer you up now. \"Training a police officer is even more costly.\""
 msgstr ""
+"\"Lidé jsou cennější než stroje.\" Teď se vás snaží rozveselit. \"A výcvik detektiva je ještě nákladnější.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1305,6 +1500,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000722A"
 msgid "Oh god, no..."
 msgstr ""
+"Ach bože, ne."
+""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1312,6 +1509,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AEE2"
 msgid "\"Once again, differences in skin colour are the result of melanin production, liver functions, regional adaptation, and various other factors.\""
 msgstr ""
+"\"Rozdíly v barvě kůže jsou opět výsledkem produkce melaninu, funkce jater, regionální adaptace a různých dalších faktorů.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1319,6 +1517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000D59"
 msgid "Oh sweet, a Coupris 40. A nice little machine."
 msgstr ""
+"Oh, je to krásný, Coupris 40. Pěkný malý stroj."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1326,6 +1525,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006986"
 msgid "You get a sudden sinking feeling. Stomach acid comes up as you look at the motor carriage in the deep, dark, cold water."
 msgstr ""
+"Najednou tě přepadne sevřený žaludek. Při pohledu na ten motorový kočár v té hluboké, tmavé, a studené vodě se ti sevře žaludek."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1333,6 +1533,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069CF"
 msgid "\"My guess is it started its journey from the plaza, where it backed through the fence.\""
 msgstr ""
+"\"Odhaduji, že přijel od náměstí a prorazil bránu plotu.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1340,6 +1541,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A3C"
 msgid "\"We don't have time for this right now.\" [Leave.]"
 msgstr ""
+"\"Na to teď nemáme čas.\" [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1347,6 +1549,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A73"
 msgid "\"Let's investigate, Kim.\""
 msgstr ""
+"\"Pojďme to prošetřit, Kime.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1354,6 +1557,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A80"
 msgid "\"Let's investigate, Kim.\""
 msgstr ""
+"\"Pojďme to prošetřit, Kime.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1361,6 +1565,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C3C"
 msgid "\"Enough gloating. This is serious.\""
 msgstr ""
+"\"Dost už škodolibého zesměšňování. Tohje je vážné.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1368,6 +1573,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C71"
 msgid "\"I did not.\" He gives you a blank stare. \"But I'd say it has been here since last Saturday or Sunday.\""
 msgstr ""
+"\"Ne, nic jsem neřekl. Dívá se na tebe prázdným pohledem. \"Ale řekl bych, že je tu už od minulé soboty nebo neděle.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1375,6 +1581,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C8B"
 msgid "\"Yes, yes. Clearly this is a triumph,\" he remarks dryly. \"I'd say the vehicle has been here since last Saturday or Sunday.\""
 msgstr ""
+"\"Ano, ano. Určitě to byl triumf,\" poznamenal suše. \"Řekl bych, že to vozidlo je tu od minulé soboty nebo neděle.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1382,6 +1589,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CDB"
 msgid "It might be a good idea to wait for the tide to recede."
 msgstr ""
+"Možná by bylo moudré počkat až ten příliv opadne."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1389,6 +1597,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070D0"
 msgid "\"I can still fix it.\""
 msgstr ""
+"\"Pořád ho můžu opravit.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1396,6 +1605,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070D6"
 msgid "\"I want it to be Jacob Irw, not me.\""
 msgstr ""
+"\"Kéž byto byl Jacob Irw, ne já.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1403,6 +1613,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000719C"
 msgid "*People* yes, but not *you*."
 msgstr ""
+"*Lidé* ano, ale *ty* ne."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1410,6 +1621,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071A8"
 msgid "The lieutenant adjusts his glasses and doesn't say anything."
 msgstr ""
+"Poručík si poupraví brýle a nic neříká."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1417,6 +1629,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071D8"
 msgid "More precious than the gun, the badge and the motor carriage *combined*. Lost forever. Into the deepest of seas."
 msgstr ""
+"O cennější než zbraň, odznak a motorový kočár dohromady. Které jsou ztraceny navěky. V nejhlubších mořích."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1424,6 +1637,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007250"
 msgid "Oh please, 41 could mean *SO* many things. It's not like I own the number."
 msgstr ""
+"Prosím tě, 41 může znamenat *MNOHO* věcí. Není to tak, že bych to číslo vlastnil."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1431,6 +1645,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007321"
 msgid "We don't."
 msgstr ""
+"Nedostaneš."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1438,6 +1653,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000153BA"
 msgid "Unless someone... *someone* was trying to fake his own death and start life anew..."
 msgstr ""
+"Pokud se někdo... *kdokoli* snažil předstírat vlastní smrt a začít život znovu..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1445,6 +1661,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AB37"
 msgid "The motor carriage looks very sad sitting all alone in the ice."
 msgstr ""
+"Ten motorový kočát vypadá velice smutně, jak tam tak je v tom kusu ledu."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1452,6 +1669,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ACD8"
 msgid "Sit on the swing and wait for the tide to recede."
 msgstr ""
+"Posaďit se na houpačku a počkat, až ten příliv opadne."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1459,6 +1677,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ACF1"
 msgid "\"Yes, yes, it does.\""
 msgstr ""
+"\"Ano, ano, to je.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1466,6 +1685,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ADA2"
 msgid "In some way it is still sad that no living thing (other than seagulls) is here to witness a man in his prime trying to learn to whistle."
 msgstr ""
+"Svým způsobem je stále smutné, že tu není žádný živý tvor (kromě racků), který by byl svědkem toho, jak se muž v nejlepších letech snaží naučit pískat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1473,6 +1693,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE0F"
 msgid "\"Oh, so both... \""
 msgstr ""
+"\"Oh, takže jsou oba...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1480,6 +1701,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C0000AE0F"
 msgid "\"Oh, right... \""
 msgstr ""
+"Ach správně..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1487,6 +1709,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C268"
 msgid "Probably? Try definitely."
 msgstr ""
+"Pravděpodobně? Zkus se zamyslet."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1494,6 +1717,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000064BC"
 msgid "Dreaming, drinking, fucking, fighting, trying to improve their lives. Wishing for a better tomorrow."
 msgstr ""
+"Sní, pijí, šukají, perou se, snaží se zlepšit si svůj život. Přejí si lepší zítřky."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1501,6 +1725,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C36"
 msgid "\"Yes, yes...\" (Rub your chin.) \"Crazy recklessness.\""
 msgstr ""
+"\"Ano, ano...\" (Poodrbat se na bradě.) \"Taková šílená bezohlednost.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1508,6 +1733,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CEB"
 msgid "\"I don't know. An hour or two tops.\""
 msgstr ""
+"\"Nevím. Bude to trvat maximálně hodinu nebo dvě.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1515,6 +1741,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DBB"
 msgid "\"I guess that's just your way of saying you'd side with the company.\""
 msgstr ""
+"\"Myslím, že to je jen váš způsob, jak říct, že byste byl na straně společnosti.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1522,6 +1749,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E05"
 msgid "Yes, the emblem, now visible above the waterline, belongs to the Coupris Motor Corporation. Below it stands the model name, *40*."
 msgstr ""
+"Ano, značka, která je nyní vidět nad hladinou ponoření, patří společnosti Coupris Motor Corporation. A pod ním je název modelu, *40*."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1529,6 +1757,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E48"
 msgid "It's as if he knows what it stands for, but wants you to say it. It's pedagogical."
 msgstr ""
+"Jako by věděl, co to znamená, ale chce, abys to řekl. Je takový pedant."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1536,6 +1765,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007147"
 msgid "\"That is very unlikely,\" the lieutenant replies with a sigh. \"All the electrics are toast. That goes for the electromagnetic steering and brake systems as well.\""
 msgstr ""
+"\"To je velmi nepravděpodobné,\" odpoví poručík s povzdechem. \"Všechna elektrika je v háji. To platí i pro elektromagnetické řízení a brzdový systém.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1543,6 +1773,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071C3"
 msgid "A... fourth thing?"
 msgstr ""
+"Čtvrtá... věc?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1550,6 +1781,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007247"
 msgid "Even if the motor carriage *is* mine, literally anyone could have driven it into the sea."
 msgstr ""
+"I když je ten motorový kočát *můj*, tak do toho moře s ním mohl vjet doslova kdokoli."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1557,6 +1789,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007264"
 msgid "No! Just nope. Say no to this, Harry."
 msgstr ""
+"Ne! Prostě ne. Řekni mu ne, Harry."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1564,6 +1797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007286"
 msgid "No, no... That's not true! It can't be..."
 msgstr ""
+"Ne, ne... To není pravda! To není možné..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1571,6 +1805,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD13"
 msgid "Whistle a tune."
 msgstr ""
+"Zapískat melodii."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1578,6 +1813,7 @@ msgstr ""
 msgctxt "tooltip1/0x0100004C0000AD13"
 msgid "Art cop."
 msgstr ""
+"Policista umělec."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1585,6 +1821,7 @@ msgstr ""
 msgctxt "tooltip2/0x0100004C0000AD13"
 msgid "Dresscode: Man of charms."
 msgstr ""
+"Styl oblečení: Okouzlující muž."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1592,6 +1829,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE73"
 msgid "It's unclear whether the sunken vehicle agrees or not, but merely uttering these words gives you the illusion of time speeding up."
 msgstr ""
+"Není jasné, zda s tím potopený kočár souhlasí nebo ne, ale pouhé vyslovení těchto slov vyvolává iluzi zrychlení času."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1599,6 +1837,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AEF9"
 msgid "\"If you have to side with either the strikers or the shipping company, who would you choose?\""
 msgstr ""
+"\"Kdybyste se měl postavit na stranu stávkujících nebo přepravní společnosti, koho byste si vybral?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1606,6 +1845,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006437"
 msgid "\"Let's investigate.\""
 msgstr ""
+"\"Pojďme to prozkoumat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1613,6 +1853,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069DD"
 msgid "\"No...\" The lieutenant looks at the carriage and then at you. \"Not so daring at all.\""
 msgstr ""
+"\"Ne...\" Poručík se podívá na ten kočár a pak na tebe. \"To vůbec není tak odvážné.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1620,6 +1861,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A95"
 msgid "I should investigate."
 msgstr ""
+"Měl bych to prozkoumat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1627,6 +1869,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B0D"
 msgid "A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision."
 msgstr ""
+"Z napůl potopeného kočátru vzlétne racek. Působí to skoro, jako by ten pták převzal tvoje rozhodnutí na vědomí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1634,6 +1877,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C1F"
 msgid "The accident couldn't have happened too long ago. The ice hasn't closed up around the vehicle, so the crash must have happened last Saturday or Sunday."
 msgstr ""
+"K nehodě nemohlo dojít už dávno. Ale led se kolem vozidla ani pořádně neobepnul, takže k nehodě muselo dojít minulou sobotu nebo neděli."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1641,6 +1885,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D02"
 msgid "Nothing but the sound of seagulls, high above in the sky, echoing like distant laughter. Ice cracks around the blue motor carriage in the sea."
 msgstr ""
+"Nic zde není slyšet, kromě racků vysoko na obloze, který se ozývá jako vzdálený smích. Kolem modrého motorového kočáru v moři popraskává led."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1648,6 +1893,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D51"
 msgid "He's gloating at you. Oh, it's so easy for Mr. Teacher!"
 msgstr ""
+"Má z tebe škodolibou radost. Což je pro pana učitele celkem snadné!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1655,6 +1901,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D6D"
 msgid "Okay, okay... that's way better than what you did."
 msgstr ""
+"Dobře, dobře... to je mnohem lepší nežo to, o co ses pokoušel ty."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1662,6 +1909,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E92"
 msgid "\"But it could also be,\" he tilts his head and stresses: \"... the number of a police precinct. Precinct 41 -- *your* precinct.\""
 msgstr ""
+"\"Ale taky to tak může být,\" nakloní hlavu a zdůrazní: \"číslo policejního okrsku. Okrsek 41 - tvůj okrsek.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1669,6 +1917,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F43"
 msgid "\"No, no...\""
 msgstr ""
+"\"Ne, ne...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1676,6 +1925,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070CA"
 msgid "\"How do we get it out?\""
 msgstr ""
+"\"Jak ho dostaneme ven?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1683,6 +1933,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007150"
 msgid "\"You'd be *lucky* to find one undamaged component in there...\" He shakes his head. \"In a few months there will be nothing *but* rust left of this vehicle. It'll be cheaper to buy a new one...\""
 msgstr ""
+"\"Měl byste štěstí, kdybyte tam náhodou našel jen jedinou nepoškozenou součástku...\" Zavrtí hlavou. \"Za pár měsíců z toho vozidla nezbude nic než rez. Bude levnější si koupit nové...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1690,6 +1941,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000071EC"
 msgid "\"We can still do that,\" the lieutenant says with a smile. \"Besides, the night is always darkest before the dawn.\""
 msgstr ""
+"\"To ještě můžeme,\" usměje se poručík. \"Kromě toho, se nepije kafe, hned jak se uvaří.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1697,6 +1949,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000720E"
 msgid "Something about his notion gives you strength. Makes you realize this isn't the end of the road yet."
 msgstr ""
+"Něco na jeho představě ti dodává sílu. Uvědomíš si, že tohle ještě není konec cesty."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1704,6 +1957,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000072C1"
 msgid "\"Well, at least I can see what's in there now.\" (Conclude.)"
 msgstr ""
+"\"No, aspoň už vím, co je uvnitř.\" (Uzavřít.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1711,6 +1965,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AC77"
 msgid "A single day in the salty seawater would ruin most vehicles, but this one looks worn even in places the saltwater hasn't touched it."
 msgstr ""
+"Jediný strávený den ve slané mořské vodě by zničil většinu vozidel, ale tohle vypadá opotřebovaně i v místech, kde se ho slaná voda nemůže dotknout."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1718,6 +1973,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AC86"
 msgid "What should I do?"
 msgstr ""
+"Co mám udělat?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1725,6 +1981,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C0000AC86"
 msgid "\"What should we do?\""
 msgstr ""
+"\"Co budeme dělat?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1732,6 +1989,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ACEA"
 msgid "\"Hold on, it looks very blue.\" (Point to the sunken vehicle.)"
 msgstr ""
+"\"Tak počkat, vypadá velice modře.\" (Ukázat na potopené vozidlo.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1739,6 +1997,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD33"
 msgid "The tune on your lips forms a strange, yet undeniably beautiful contrast with the surrounding bleakness."
 msgstr ""
+"Melodie na tvých rtech tvoří zvláštní, ale nepopiratelně krásný kontrast s okolní bezútěšností."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1746,6 +2005,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE01"
 msgid "\"So, was your dad also... you know...\" (Point to your eyes.)"
 msgstr ""
+"\"Takže váš otec byl taky... však víte...\" (Poukázat na oči.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1753,6 +2013,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C254"
 msgid "Looks like this might take a while. Time to present a good topic for discussion."
 msgstr ""
+"Vypadá to, že to může chvíli trvat. Je čas nahodit dobré téma k rozhovoru."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1760,6 +2021,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000643D"
 msgid "\"I agree,\" the lieutenant replies, his eyes never leave the sunken vehicle. \"We should definitely investigate.\""
 msgstr ""
+"\"Souhlasím,\" odpoví poručík a nespouští oči z potopeného vozidla. \"Rozhodně bychom to měli prozkoumat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1767,6 +2029,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006551"
 msgid "Go to your inventory and interact with the item by clicking the INTERACT tab and then INTERACT."
 msgstr ""
+"Přejděte do inventáře a proveďte interakci s předmětem kliknutím na kartu INTERAGOVATa poté na INTERAKCE."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1774,6 +2037,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AF9"
 msgid "\"I agree,\" the lieutenant replies, a curious look in his eyes. \"We should *definitely* investigate.\""
 msgstr ""
+"\"Souhlasím,\" odvětí poručík a v očích se mu ukáže zvědavý pohled. \"Rozhodně bychom to měli prošetřit.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1781,6 +2045,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B15"
 msgid "\"I agree,\" the lieutenant replies, a curious look in his eyes. \"We should *definitely* investigate.\""
 msgstr ""
+"\"Souhlasím,\" odvětí poručík a v očích se mu ukáže zvědavý pohled. \"Rozhodně bychom to měli prošetřit.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1788,6 +2053,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B2A"
 msgid "A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision."
 msgstr ""
+"Z napůl potopeného kočátru vzlétne racek. Působí to skoro, jako by ten pták převzal tvoje rozhodnutí na vědomí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1795,6 +2061,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B3F"
 msgid "\"I agree,\" the lieutenant replies, his eyes never leave the sunken vehicle. \"We should definitely investigate.\""
 msgstr ""
+"\"Souhlasím,\" odpoví poručík a nespouští oči z potopeného vozidla. \"Rozhodně bychom to měli prozkoumat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1802,6 +2069,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006BC5"
 msgid "Fish and seaweed... I thought this was about Kim's car?"
 msgstr ""
+"To ty ryby a chaluhy... myslel jsem, že jde o Kimovo auto."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1809,6 +2077,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006C63"
 msgid "The motor carriage does not dispute your evaluation of the situation."
 msgstr ""
+"Motorový kočár tvé vyhodnocení situace nezpochybňuje."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1816,6 +2085,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006CCE"
 msgid "Papers? Papers would be cool. Maybe there's registration inside? Like a person registration? You know, like your badge is!"
 msgstr ""
+"Papíry? Papíry by byly super. Možná bude uvnitř řidičák? Nebo něco jako registrační průkaz? Však víš, jako je tvůj průkaz!"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1823,6 +2093,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D4A"
 msgid "\"That's right. Just keep at it, it will come to you.\""
 msgstr ""
+"\"Přesně tak. Jen se toho držte, ono to přijde.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1830,6 +2101,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E1C"
 msgid "\"It is a simple and rugged machine, favoured by working men, government offices...\" He pauses to think. \"Firefighters, animal control people. You know, *those* kinds of people.\""
 msgstr ""
+"\"Je to jednoduchý a robustní stroj, který si oblíbili dělníci, státní úřady...\" odmlčí se, aby se zamyslel. \"Hasiči, lidé pro kontrolu zvířat. Však víte, takový lidi.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1837,6 +2109,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E9F"
 msgid "\"Forty-one, huh? This street racer is quite the ladies man.\""
 msgstr ""
+"\"Jeden-a-čtyřicítka, huh? Tenhle pouliční závodník je pěkný sukničkář.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1844,6 +2117,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006EB3"
 msgid "\"Right...\" The lieutenant is looking at you peculiarly. \"*Or* 41 is the number of a police precinct? Your precinct.\""
 msgstr ""
+"\"Asi ano...\" Poručík se na vás zvláštně dívá. \"*Nebo* 41 může být  číslo policejního okrsku? Vašeho okrsek.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1851,6 +2125,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F0F"
 msgid "You feel like you're about to faint and fall off the swing. Your hands get clammy and the air tastes sour to breathe."
 msgstr ""
+"Máš pocit, že omdlíš a spadneš z houpačky. Ruce se ti svírají a vzduch chutná kysele."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1858,6 +2133,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007293"
 msgid "\"No, no, no.\" (Shake your head.) \"No. No. No...\""
 msgstr ""
+"\"Ne, ne, ne.\" (Zavrtět hlavou.) \"Ne. Ne. Ne. Ne...\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1865,6 +2141,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ABAD"
 msgid "Your mocking tone finds no response but the motion of the waves."
 msgstr ""
+"Tvůj posměšný tón nenachází jinou zpětnou vazbu než pohyb vln."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1872,6 +2149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AC94"
 msgid "\"Let's wait for the low tide and see what's inside.\""
 msgstr ""
+"\"Počkáme na odliv."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1879,6 +2157,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE08"
 msgid "\"My dad and mum are both half-Seolite.\""
 msgstr ""
+"\"Můj otec i matka jsou oba napůl Seolitové.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1886,6 +2165,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C0000AE08"
 msgid "\"I'm pretty sure I told you already, didn't I? My dad and mum are both half-Seolite.\""
 msgstr ""
+"\"Jsem si jistý, že jsem vám to už říkal, ne? Můj táta i máma jsou napůl Seolitové.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1893,6 +2173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006426"
 msgid "\"It appears to be so.\" The lieutenant has a peculiar look in his eyes as he inspects the wreckage."
 msgstr ""
+"\"Vypadá to tak.\" Poručík má při prohlídce vraku zvláštní pohled."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1900,6 +2181,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006AAA"
 msgid "\"We don't have time for traffic hooliganism right now.\" [Leave.]"
 msgstr ""
+"\"Na vrtání se v autě teď nemáme čas.\" [Odejdi.]"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1907,6 +2189,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E99"
 msgid "\"Forty-one is his rank in the underground street racing hierarchy.\" (Rub your chin.) \"Small fish, this one.\""
 msgstr ""
+"\"V hierarchii pouličních závodů mu patří jednačtyřicáté místo.\" (Podrbat si bradu.) \"Tohle bude malá ryba.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1914,6 +2197,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000721A"
 msgid "\"Yes. Let's go take a look.\""
 msgstr ""
+"\"Ano. Pojďme se na to podívat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1921,6 +2205,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007341"
 msgid "Keep moving. You're a shark. You stop -- you die."
 msgstr ""
+"Jen pokračuj. Jsi zvíře. Jakmile se zastavíš - tak umřeš."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1928,6 +2213,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000ACFF"
 msgid "Wait in silence."
 msgstr ""
+"Počkat v tichosti."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1935,6 +2221,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AD86"
 msgid "Raining heavily here, chief -- mind keeping it down a bit?"
 msgstr ""
+"Hustě tu prší, šéfe - nevadilo by ti, kdyby si to trochu ztišil?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1942,6 +2229,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AEBE"
 msgid "\"Would you rather sit on an anthill for an hour or stand in a river of leeches?\""
 msgstr ""
+"\"Chtěl byste raději hodinu sedět na mraveništi, nebo stát v řece plné pijavic?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1949,6 +2237,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C25C"
 msgid "Yes. Why haven't you?"
 msgstr ""
+"Pravda. Proč sis toho nevšimnul?"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1956,6 +2245,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001C287"
 msgid "It's sunken too deep."
 msgstr ""
+"Je tam až moc hluboko."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1963,6 +2253,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000069BB"
 msgid "The motor carriage sits in the salty ocean water, cold and sad, and doesn't provide an immediate answer."
 msgstr ""
+"Motorový kočár leží ve slané vodě oceánu, je tak studený a smutný, avšak mlčí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1970,6 +2261,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006ABE"
 msgid "Most suspicious. I should investigate."
 msgstr ""
+"To je čím dál podezřelejší. Musíme to prozkoumat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1977,6 +2269,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006B37"
 msgid "A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision."
 msgstr ""
+"Z napůl potopeného kočátru vzlétne racek. Působí to skoro, jako by ten pták převzal tvoje rozhodnutí na vědomí."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1984,6 +2277,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006D2C"
 msgid "The wind blows. In the distance, behind the church, some vagrants are having an argument over a bag of tare they found in the reeds. Further away -- a flock of sea gulls lands."
 msgstr ""
+"Vítr ševelí. V dálce za kostelem se nějací tuláci hádají o pytel sběru, který našli v rákosí. O kus dál přistává hejno racků."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1991,6 +2285,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DEE"
 msgid "It's a Coupris Forty. A work horse of the motor park. Favoured by the working men, government offices, fire fighters I guess, maybe animal control people? You know. Those kinds of people."
 msgstr ""
+"Je to Coupris Čtyřicítka. Pracovní kočár autoparku. Oblíbený u pracujících mužů, na úřadech, u hasičů, alespoň tuším, a možná u lidí pro kontrolu zvířat? Však víte. U takových lidech."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1998,6 +2293,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E32"
 msgid "\"You have a Coupris too. What a coincidence!\""
 msgstr ""
+"\"Vy máte přeci také Courpise. To je mi ale náhodička!\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2005,6 +2301,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E6E"
 msgid "In a little alley next to Boogie street, a man in stained overalls steps out of a workshop for a cigarette. His hands are bruised and soaked with motor oil and dirt. He breathes smoke out of his nostrils and closes his eyes. The next five minutes are his and his alone."
 msgstr ""
+"V malé uličce vedle Skočné uličce vyjde z dílny pro cigaretu muž v umazaných montérkách. Ruce má odřené a nasáklé motorovým olejem a špínou. Vydechuje kouř z nosních dírek a zavírá oči. Následujících pět minut je jen a jen jeho."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2012,6 +2309,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E8B"
 msgid "\"It's not uncommon for race cars to have numbers on them.\""
 msgstr ""
+"\"Na závodních vozech se nezřídka kdy objevují čísla.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2019,6 +2317,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070C4"
 msgid "\"Maybe I was in pursuit of someone.\""
 msgstr ""
+"\"Možná jsem někoho pronásledoval.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2026,6 +2325,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000007000070FA"
 msgid "\"Well, at least I can see what's in there now.\" (Conclude.)"
 msgstr ""
+"\"No, aspoň už vím, co je uvnitř.\" (Uzavřít.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2033,6 +2333,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007170"
 msgid "\"THIS IS A DISASTER.\""
 msgstr ""
+"\"TOHLE JE KATASTROFA.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2040,6 +2341,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007189"
 msgid "\"Well, it isn't. It's you. I'm very sorry.\""
 msgstr ""
+"\"Dobře, ale ten to nebyl. Byl jste to vy. Což mě opravdu mrzí.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2047,6 +2349,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700007329"
 msgid "No, you can't."
 msgstr ""
+"Ne, nedokážeš."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2054,6 +2357,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000734D"
 msgid "An aggressive looking seagull lands on the swing set and stares at you with a murderous look. You really need to keep moving."
 msgstr ""
+"Na houpačce přistane agresivně vyhlížející racek a upře na tebe svůj vražedný pohled. Opravdu by ses měl sebrat a pokračovat."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2061,6 +2365,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE42"
 msgid "The tide sure is taking its sweet time."
 msgstr ""
+"Příliv si dává načas."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2068,6 +2373,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004C0000AE42"
 msgid "\"The tide sure is taking its sweet time.\""
 msgstr ""
+"\" Příliv si dává načas.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2075,6 +2381,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AF16"
 msgid "The lieutenant's expression suddenly turns very serious. \"God, I hope so.\""
 msgstr ""
+"Poručíkův výraz náhle zvážní. \"Bože, to doufám.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2082,6 +2389,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100000D60"
 msgid "It probably used to be. All wet, bent, and broken -- the old work horse has seen better days."
 msgstr ""
+"Pravděpodobně tomu tak bývalo. Je celý mokrý, ohnutý a polámaný - ten starý pracovní stroj už má lepší časy za sebou."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2089,6 +2397,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070000699F"
 msgid "The seawater is already corroding the fuel lines, metalworks, and undercarriage components. It's seeping into the various modules and short-circuiting the electrical systems, including the electro-magnetic steering and brakes..."
 msgstr ""
+"Mořská voda již způsobuje korozi palivového potrubí, kovových konstrukcí a součástí podvozku. Prosakuje do různých modulů a zkratuje elektrické obvody, včetně elektromagnetického řízení a brzd..."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2096,6 +2405,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006A9D"
 msgid "\"Let's investigate.\""
 msgstr ""
+"\"Pojďme to prozkoumat.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2103,6 +2413,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006BD7"
 msgid "Everything is *not* okay."
 msgstr ""
+"Všechno zřejmě *není* tak úplně v pořádku."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2110,6 +2421,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006DC2"
 msgid "\"I understand, you're saying you're siding with the Union.\""
 msgstr ""
+"\"Rozumím tomu správně, že jste, na straně odborů?\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2117,6 +2429,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006E5F"
 msgid "\"Actually not a coincidence. The Kineema is the next generation sports edition of the 'Forty', which was a real work horse. Favoured by the *police* all over the city.\" His expression is unreadable."
 msgstr ""
+"\"Vlastně to není náhodička. Kineema je novou generací sportovní edice modelu \"Čtyřicítka\", který byl skutečným pracovním strojem. Oblíbený u *policie* po celém městě.\" Jeho výraz je nečitelný."
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2124,6 +2437,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700006F67"
 msgid "\"OH MY GOD, IT'S MINE, I DROVE MY CAR INTO THE SEA????!?!?!?!?!!!??!!!!\" (Proceed.)"
 msgstr ""
+"\"PROBOHA, TO JE MOJE AUTO, ZAJEL JSEM S NÍM DO MOŘE????!?!?!?!?!!!!??!!!!\" (Pokračovat.)"
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2131,6 +2445,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AB80"
 msgid "\"Well, well, well. Looks like Jacob Irw's journey came to an abrupt end here.\""
 msgstr ""
+"\"Tak dobře, dobře, dobře. Vypadá to, že cesta Jacoba Irwa tady z nenadání náhle skončila.\""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -2138,3 +2453,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004C0000AE87"
 msgid "What a clumsy wuss..."
 msgstr ""
+"Musel to být nemotorný švihák..."
