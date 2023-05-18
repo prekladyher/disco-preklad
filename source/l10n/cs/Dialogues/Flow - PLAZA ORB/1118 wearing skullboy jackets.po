@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = Flow – PLAZA ORB / wearing skullboy jackets
 #. Description = This what happens when you put either of their jackets on, ya cool cad!
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000025D9"
 msgid "You are very dangerous, my friend. Dangerous and cool. In fact, no one dares to say *a single thing* about the jacket. But believe me, they are all *very impressed*."
 msgstr ""
+"Seš opravdový šílenec, můj příteli. Šílený a chladný. Ve skutečnosti se nikdo neodváží říct o té bundě *ani slovo*. Ale věř mi, všichni jsou jí *velice ohromeni*."
 
 #. Title = Flow – PLAZA ORB / wearing skullboy jackets
 #. Description = This what happens when you put either of their jackets on, ya cool cad!
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B38A"
 msgid "Oh no, believe me -- it will be *everyone else* who's uncomfortable with it. You're safe. No one dares say a word -- unless they're, like, from your station and coming to *judge* you. But what are the chances of that happening?"
 msgstr ""
+"Ale ne, věř mi - budou to *všichni ostatní*, kterým to bude nepříjemné. Seš v bezpečí. Nikdo se neodváží ti říct ani slovo - ledaže by byl třeba z tvého postavení a přišel tě *odsoudit*. Ale jaká je šance, že se to kdy stane?"
 
 #. Title = Flow – PLAZA ORB / wearing skullboy jackets
 #. Description = This what happens when you put either of their jackets on, ya cool cad!
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000025D3"
 msgid "You've finally made it haven't you? People point fingers at you and whisper to each other when you pass by, wondering to themselves:"
 msgstr ""
+"Konečně se ti to podařilo, že? Lidé si na tebe ukazují prstem a šeptají si, když procházíš kolem, a říkají si:"
 
 #. Title = Flow – PLAZA ORB / wearing skullboy jackets
 #. Description = This what happens when you put either of their jackets on, ya cool cad!
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00004779"
 msgid "\"Where did that man get such a cool jacket? Did he receive it upon graduating the École normale supérieure de Bad-Assery? Is he *dangerous?*\""
 msgstr ""
+"\"Kde ten člověk vzal tak suprovou bundu? Dostal ji snad po absolvování drsňácké fakulty kulturních studií na École? Máme se ho bát?\""
 
 #. Title = Flow – PLAZA ORB / wearing skullboy jackets
 #. Description = This what happens when you put either of their jackets on, ya cool cad!
@@ -38,6 +50,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B37B"
 msgid "Damn right I'm dangerous."
 msgstr ""
+"To teda zatraceně jo, jsem šílenec."
 
 #. Title = Flow – PLAZA ORB / wearing skullboy jackets
 #. Description = This what happens when you put either of their jackets on, ya cool cad!
@@ -45,3 +58,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B381"
 msgid "Yeah -- a danger to *myself*. What am I doing? This is insane."
 msgstr ""
+"Jo - šílený, leda tak sám pro sebe. Co to dělám? Tohle je šílený."
