@@ -63,17 +63,25 @@ function decodeEntry(entry) {
   const fields = [];
   for (let line of  entry.split(/\r?\n/)) {
     if (line[0] === "\"") {
-      fields[fields.length - 1][1] += JSON.parse(line);
+      fields[fields.length - 1][1] += parseValue(line);
       continue;
     }
     const split = line.indexOf(" ");
     const type = split >= 0 ? line.substring(0, split) : line;
-    const value = split >= 0 ? line.substring(split + 1) : '';
+    const value = split >= 0 ? line.substring(split + 1) : "";
     if (line[0] === "#") {
       result[type] = result[type] !== undefined ? `${result[type]}\n${value}` : value;
     } else {
-      fields.push([type, JSON.parse(value)]);
+      fields.push([type, parseValue(value)]);
     }
   }
   return { ...result, ...Object.fromEntries(fields) };
+}
+
+function parseValue(value) {
+  try {
+    return JSON.parse(value);
+  } catch (error) {
+    throw new Error(`Unable to parse value: ${value}`, { cause: error });
+  }
 }

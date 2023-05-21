@@ -25,14 +25,18 @@ function validateEntry(entry) {
 export function validateL10n(base) {
   return loadFileTree(base, "")
     .map(subpath => {
-      const errors = decodeEntries(fs.readFileSync(path.join(base, subpath)).toString())
-        // do not validate header entry and entries with `valid` flag
-        .filter(entry => entry.msgid && !(entry["#,"]?.indexOf("valid") >= 0))
-        // do not validate entries with no translation
-        .filter(entry => !!entry.msgstr)
-        .map(validateEntry)
-        .filter(result => result.length);
-      return [subpath || path.basename(base), errors];
+      try {
+        const errors = decodeEntries(fs.readFileSync(path.join(base, subpath)).toString())
+          // do not validate header entry and entries with `valid` flag
+          .filter(entry => entry.msgid && !(entry["#,"]?.indexOf("valid") >= 0))
+          // do not validate entries with no translation
+          .filter(entry => !!entry.msgstr)
+          .map(validateEntry)
+          .filter(result => result.length);
+        return [subpath || path.basename(base), errors];
+      } catch (error) {
+        throw new Error(`Unable to parse file ${subpath}`, { cause: error });
+      }
     })
     .filter(errors => errors[1].length);
 }
