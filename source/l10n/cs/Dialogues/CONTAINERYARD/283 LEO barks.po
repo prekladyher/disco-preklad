@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CONTAINERYARD / LEO barks
 #. Description = Leo's barks
@@ -10,6 +18,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001954C"
 msgid "(Sings.) \"Plants are happy, boots are shining, every man is fed!\""
 msgstr ""
+"(Zazpívej.) \"Rostliny jsou šťastné, boty se lesknou, každý člověk je syt!\""
 
 #. Title = CONTAINERYARD / LEO barks
 #. Description = Leo's barks
@@ -17,6 +26,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019558"
 msgid "(Sings.) Leo, Leo, Easy Leo -- nothing he can't do-ooooo...\""
 msgstr ""
+"(Zazpívej.) Leo, Leo, prosťáček Leo- pro něj neexistuje nic co by nedo-kázal...\""
 
 #. Title = CONTAINERYARD / LEO barks
 #. Description = Leo's barks
@@ -24,6 +34,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019546"
 msgid "(Sings.) \"Soon, oh soon the green is gone and everything is re-eeed!\""
 msgstr ""
+"(Zazpívej.) \"Brzy, ach, brzy všechna zeleň zmizí a všechno znovu vyroste!\""
 
 #. Title = CONTAINERYARD / LEO barks
 #. Description = Leo's barks
@@ -31,6 +42,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019552"
 msgid "(Sings.) \"Leo, Leo, Leo -- Evrart will be pleased!\""
 msgstr ""
+"(Zazpívej.) \"Leo, Leo, Leo - Evrart bude mít radost!\""
 
 #. Title = CONTAINERYARD / LEO barks
 #. Description = Leo's barks
@@ -38,3 +50,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000700019540"
 msgid "(Sings.) \"Container, container, container!\""
 msgstr ""
+"(Zazpívej.) \"Kontejnere, kontejnere, kontejnere!\""
