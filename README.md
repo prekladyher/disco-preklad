@@ -71,11 +71,28 @@ node scripts/l10n.js merge -g "target/WHIRLING F1.po" "source/l10n/cs/Dialogues/
 Pro sestavení finálního překladu je nutné vytvořit `shadow` složku se zdrojovými assety hry.
 Obsah složky by měl být následující:
 
-* `lockits/` - složka původními s lockit assety (UABEA export z `disco_Data/resources.assets` nebo `disco_Data/StreamingAssets/AssetBundles/Windows/images/{jazyk}`)
-* `images/` - složka s původními PNG texturami (UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/images/{jazyk}`)
+* `bundles/` - složka s původními asset bundles dle seznamu níže
+* `dialogue/` - složka s DialogueDatabase assetem (UABEA export z `disco_Data/StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`)
+* `images/` - složka s původními PNG texturami (UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`)
+* `lockits/` - složka původním  GeneralLockit assetem (UABEA export z `disco_Data/resources.assets`)
 
 Pro sestavení překladu stačí zavolat následující příkaz:
 
 ```bash
-CLEAN= LOCKIT= DIALOGUE= IMAGES= OTHERS= ./build.sh
+CLEAN= LOCKIT= DIALOGUE= IMAGES= OTHERS= BUNDLES= ./build.sh
 ```
+
+Následně je nutné aktualizovat v `target/package` následující bundles pomocí UABEA:
+
+* `resources.assets`
+   * assety z `target/assets`
+* `sharedassets0.assets`
+   * JSON soubory z `source/asset`
+* `StreamingAssets/AssetBundles/Windows/fonts/english`
+   * zdrojové assety nejsou součástí projektu
+* `StreamingAssets/AssetBundles/Windows/images/english`
+   * obrázky z `target/images`
+* `StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`
+   * `DialogueDatabase` asset z `target/assets`
+
+Obsah složky `target/package` je možné následně zabalit do ZIP souboru nebo s použít jako součást instalátoru.

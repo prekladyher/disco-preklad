@@ -47,6 +47,11 @@ build_images() {
   node scripts/build images
 }
 
+# Prepare game bundles
+build_bundles() {
+  cp -r shadow/bundles/* target/package/
+}
+
 
 # Clean previous builds if requested
 if [[ -v CLEAN ]]; then
@@ -80,4 +85,9 @@ fi
 if [[ -v IMAGES ]]; then
   echo "Copying image assets data..." >&2
   build_images
+fi
+
+# Prepare game bundles
+if [[ -v BUNDLES ]]; then
+  build_bundles
 fi
