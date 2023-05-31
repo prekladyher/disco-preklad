@@ -86,6 +86,7 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
 
 * `resources.assets`
    * assety z `target/assets`
+   * assety z `target/images`
 * `sharedassets0.assets`
    * JSON soubory z `source/asset`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
