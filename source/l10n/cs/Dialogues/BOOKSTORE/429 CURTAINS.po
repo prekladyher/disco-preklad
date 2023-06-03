@@ -1,8 +1,16 @@
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs"
+"Last-Translator: phsquad\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
@@ -83,7 +91,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100002100002764"
 msgid "There *is* something mysterious about the curtains... be careful!"
 msgstr ""
-"Na závěsech je *něco* tajemného... buď opatrný!"
+"Na těch závěsech je *něco* tajemného... buď opatrný!"
 
 #. Title = BOOKSTORE / CURTAINS
 #. Description = The curtains hanging in front of the back room. Curious trinkets attached. Very suspect. Can open, but Plaisance doesn't like that.
