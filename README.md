@@ -72,9 +72,14 @@ Pro sestavení finálního překladu je nutné vytvořit `shadow` složku se zdr
 Obsah složky by měl být následující:
 
 * `bundles/` - složka s původními asset bundles dle seznamu níže
-* `dialogue/` - složka s DialogueDatabase assetem (UABEA export z `disco_Data/StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`)
-* `images/` - složka s původními PNG texturami (UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`)
-* `lockits/` - složka původním  GeneralLockit assetem (UABEA export z `disco_Data/resources.assets`)
+* `dialogue/` - složka s DialogueDatabase assetem
+  * UABEA export z `disco_Data/StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`
+* `images/` - složka s původními PNG texturami
+  * UABEA export textur z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`
+  * UABEA export textur z `disco_Data/resources.assets` (`button-cont-psy`)
+  * UABEA export textur z `disco_Data/sharedassets7.assets` (`viscal-fencecrash`, `viscal-footprints-label_8PAIRS`, `viscal-footprints-label-FOOTPRINTS`, `viscal-nest`, `viscal-amaran`)
+* `lockits/` - složka původním  GeneralLockit assetem
+  * UABEA export z `disco_Data/resources.assets`
 
 Pro sestavení překladu stačí zavolat následující příkaz:
 
@@ -86,9 +91,11 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
 
 * `resources.assets`
    * assety z `target/assets`
-   * assety z `target/images`
+   * obrázky z `target/images`
 * `sharedassets0.assets`
    * JSON soubory z `source/asset`
+* `sharedassets7.assets`
+   * obrázky z `source/asset`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
    * zdrojové assety nejsou součástí projektu
 * `StreamingAssets/AssetBundles/Windows/images/english`
