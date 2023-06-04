@@ -15,7 +15,7 @@ program.command("lockit")
   .argument("<source>", "source language file glob")
   .argument("<target>", "target asset path")
   .action(async (file, source, target) => {
-    const lockitData = decodeAsset("LanguageSourceAsset", await readFile(file))
+    const lockitData = decodeAsset("LanguageSourceAsset", await readFile(file));
     await mergeLockit(lockitData, await glob(source));
     await writeFile(target, encodeAsset("LanguageSourceAsset", lockitData));
   });
@@ -38,7 +38,7 @@ program.command("images")
       return Object.assign(acc, { [basename(file, ".png")]: file });
     }, {});
     for (const image of await glob(target)) {
-      const lookup = basename(image).replace(/(-CAB-.*|-resources.assets-.*)$/, "");
+      const lookup = basename(image).replace(/(-CAB-.*|-[a-z0-9]+.assets-.*)$/, "");
       if (sourceImages[lookup]) {
         copyFile(sourceImages[lookup], image);
       }
@@ -51,7 +51,7 @@ program.command("dialogue")
   .argument("<source>", "source language file")
   .argument("<target>", "target asset path")
   .action(async (file, source, target) => {
-    const dialogueDatabase = decodeAsset("DialogueDatabase", await readFile(file))
+    const dialogueDatabase = decodeAsset("DialogueDatabase", await readFile(file));
     await mergeDialogue(dialogueDatabase, await glob(source));
     await writeFile(target, encodeAsset("DialogueDatabase", dialogueDatabase));
   });

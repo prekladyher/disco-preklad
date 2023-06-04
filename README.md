@@ -93,7 +93,7 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
    * assety z `target/assets`
    * obrázky z `target/images`
 * `sharedassets0.assets`
-   * JSON soubory z `source/asset`
+   * JSON soubory z `source/asset` (toto je nutné dělat nad assetem ve složce hry)
 * `sharedassets7.assets`
    * obrázky z `source/asset`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
