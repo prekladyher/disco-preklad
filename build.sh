@@ -49,6 +49,8 @@ build_images() {
 
 # Prepare game bundles
 build_bundles() {
+  mkdir -p target/package
+
   cp -r shadow/bundles/* target/package/
 }
 
