@@ -78,8 +78,9 @@ Obsah složky by měl být následující:
   * UABEA export textur z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`
   * UABEA export textur z `disco_Data/resources.assets` (`button-cont-psy`)
   * UABEA export textur z `disco_Data/sharedassets7.assets` (`viscal-fencecrash`, `viscal-footprints-label_8PAIRS`, `viscal-footprints-label-FOOTPRINTS`, `viscal-nest`, `viscal-amaran`)
-* `lockits/` - složka původním  GeneralLockit assetem
-  * UABEA export z `disco_Data/resources.assets`
+* `lockits/` - složka původními lockit assety
+  * UABEA export z `disco_Data/resources.assets` (`GeneralLockitEnglish`)
+  * UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/collage/shared` (`CollageModeLockit`)
 
 Pro sestavení překladu stačí zavolat následující příkaz:
 
@@ -96,6 +97,8 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
    * JSON soubory z `source/asset` (toto je nutné dělat nad assetem ve složce hry)
 * `sharedassets7.assets`
    * obrázky z `source/asset`
+* `StreamingAssets/AssetBundles/Windows/collage/shared`
+   * `CollageModeLockit` z `target/assets`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
    * zdrojové assety nejsou součástí projektu
 * `StreamingAssets/AssetBundles/Windows/images/english`
