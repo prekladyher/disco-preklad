@@ -8,6 +8,7 @@ build_text() {
 
   node scripts/l10n append -c source/l10n/cs/Dialogues/ > target/text/Dialogues.po
   node scripts/l10n append -c source/l10n/cs/General.po > target/text/General.po
+  node scripts/l10n append -c source/l10n/cs/CollageMode.po > target/text/CollageMode.po
 }
 
 # Apply translations to `shadow/lockits/*.dat` assets
