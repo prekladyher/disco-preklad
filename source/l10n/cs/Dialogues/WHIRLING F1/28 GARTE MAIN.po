@@ -1,7 +1,6 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 # phsquad, 2023.
-# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -174,7 +173,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001EF1"
 msgid "\"Not at all, officer.\" The corners of his lips turn into the slightest smile. \"It's true. You don't *have to* pay me anything.\""
 msgstr ""
-"\"Vůbec ne, detektive, strážník, policista (dle situace).\" Koutky rtů se mu zkroutí do nepatrného úsměvu. \"To je pravda. Nemusíte mi nic platit.\""
+"\"Vůbec ne, detektive.\" Koutky rtů se mu zkroutí do nepatrného úsměvu. \"To je pravda. Nemusíte mi nic platit.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -1155,7 +1154,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800007D26"
 msgid "Whatever he may feel about you, he can't miss the opportunity to throw you a look of what he assumes is shared understanding. Go with it."
 msgstr ""
-"Ať už k tobě cítí cokoli, nemůže si nechat ujít příležitost, aby na tebe nevrhl pohled, o němž předpokládá, že je to společné porozumění. Jdi do toho."
+"Ať už k tobě cítí cokoli, nemůže si nechat ujít příležitost, aby na tebe nevrhl pohled, o němž předpokládá, že je to společné porozumění. Jdi s ním."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -5430,7 +5429,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00012D31"
 msgid "\"No, of course it's not *cool*.\" He shoots you a look of disbelief. \"What am I supposed to do with your *net worth*? I need cash, moron.\""
 msgstr ""
-"\"Ne, samozřejmě, že to není *husté*.\" Střelí po tobě nevěřícným pohledem. \"Co mám dělat s vaším *čistým jměním*? Potřebuju hotovost, kreténe.\""
+"\"Ne, samozřejmě, že to není *v pohodě*.\" Střelí po tobě nevěřícným pohledem. \"Co mám dělat s vaším *čistým jměním*? Potřebuju hotovost, kreténe.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6744,6 +6743,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000021B3"
 msgid "\"I don't care what you do. Sleep in the trash or pay for a room -- I don't care anymore.\""
 msgstr ""
+"\"Je mi jedno, co děláte. Spěte v popelnici nebo si zaplaťte pokoj - už je mi to jedno.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6752,6 +6752,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002571"
 msgid "\"Yeah. Totally. I totally know. Of course.\""
 msgstr ""
+"\"Jo. Určitě. Určitě to vím. Samozřejmě.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6760,6 +6761,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000025B3"
 msgid "\"Happy to help, officer. Anything else I can help you with?\" He puts the package back under the counter."
 msgstr ""
+"\"Rád vám pomůžu, strážníku. Mohu vám ještě s něčím pomoci?\" Položí balíček zpátky pod pult."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6768,6 +6770,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000025E0"
 msgid "\"Good. Because it's finders keepers, sucker.\""
 msgstr ""
+"\"Dobře. Protože, kdo dřív přijde ten dřív mele, troubo.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6785,6 +6788,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021BE6"
 msgid "\"Really? I should... I should give her a call then.\" The man doesn't know what to say. He wipes his brow and stares at the counter."
 msgstr ""
+"\"Opravdu? Měl bych... Tak to bych jí měl zavolat.\" Muž neví, co říct. Otře si čelo a zadívá se na pult."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6793,6 +6797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000238BA"
 msgid "\"No, you *don't*.\""
 msgstr ""
+"\"Ne, *nemusíte*.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6828,6 +6833,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000239EE"
 msgid "Wait, why don't you have a song?! Way to fuck it up! Better to try this line of questioning again after you've found the tape."
 msgstr ""
+"Počkej, jakto, že nemáš nějakou písničku?! Takhle to posrat! Raději zkus tuhle linii otázek znovu, až najdeš tu pásku."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6836,6 +6842,8 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800005FA8"
 msgid "\"Fine, I'll take it off the bill! Sleep in a post-apocalyptic hell-hole if you want to. Just know I won't give you another room.\""
 msgstr ""
+"\"Fajn, já to z toho účtu odečtu! Jestli chcete, spěte v postapokalyptické díře. Jen počítejte s tím, že vám jiný pokoj nedám.\" "
+""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6844,6 +6852,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000067A4"
 msgid "Kim is about to say something. Let him."
 msgstr ""
+"Kim se chystá něco říct. Nech ho."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6861,6 +6870,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000904D"
 msgid "That fucking smug asshole, he knows you've been locked out of your room. He's probably laughing at you now on the inside."
 msgstr ""
+"Ten zasraný samolibý kretén ví, že jsi byl zamčený ve svém pokoji. Nejspíš se ti teď uvnitř směje."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6869,6 +6879,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000058000090A1"
 msgid "\"You know why? Because *unpaid bills* are not funny, when you have to run *four* service establishments.\" He folds his arms in a huff. \"Now. We can talk about a *solution* to this problem.\""
 msgstr ""
+"\"Víte proč? Protože *nezaplacené účty* nejsou vtipné, když musíte provozovat *čtyři* pdoniky.\" Naštvaně si založí ruce. \"Teď si můžeme promluvit o *řešení* tohoto problému.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6895,6 +6906,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D8F8"
 msgid "\"Do you know these guys *personally*?\""
 msgstr ""
+"\"Znáte ty chlapy *osobně*?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6921,6 +6933,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B00009165"
 msgid "\"This isn't a game show. I'm not going to accept it. You owe me cold hard money... I want to see that money in the palm of my hand. Every single cent.\""
 msgstr ""
+"\"Tohle není hra. Nehodlám ho přijmout. Dlužíte mi velké peníze... Chci ty peníze vidět na dlani. Do posledního centu.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6929,6 +6942,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000154"
 msgid "\"Since I woke up I have trouble remembering even the most basic concepts of reality.\""
 msgstr ""
+"\"Od té doby, co jsem se probudil, mám problémy vzpomenout si i na ty nejzákladnější pojmy z reality.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6937,6 +6951,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000182"
 msgid "\"Yeah, that's not enough.\""
 msgstr ""
+"\"Jo, to nestačí.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6945,6 +6960,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000001F0"
 msgid "\"If you run out of money, you die. It's like that for all of us -- me too. That's why I need you to pay me.\" He stops and says, mostly to himself: \"I'm not an asshole.\""
 msgstr ""
+"\"Když vám dojdou peníze, zemřete. Tak je to s námi všemi - se mnou taky. Proto potřebuju, abyste mi zaplatil.\" Zarazí se a řekne, spíš sám pro sebe: \"Nejsem žádný kretén.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6971,6 +6987,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001EC7"
 msgid "\"Okay. Yes. That was for the best.\""
 msgstr ""
+"\"Dobře. Ano. Tak to bylo nejlepší.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6979,6 +6996,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000092B9"
 msgid "\"Seems we're just going to have to keep looking around.\""
 msgstr ""
+"\"Zdá se, že se budeme muset porozhlédnout kolem.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -6996,6 +7014,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DD76"
 msgid "\"Anyway, I can't help you there. A lot of women come and go here.\""
 msgstr ""
+"\"Ale s tím vám nepomůžu. Přichází a odchází sem hodně žen.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7004,6 +7023,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DEC6"
 msgid "\"I get it. You were *purposefully* shit. So original. I'm not letting *anyone* up there again -- ever. Now what did you want?\""
 msgstr ""
+"\"Chápu to. Byl jste *zámerně* na hovno. Jak originální. Už tam nikoho *nepustím* - nikdy. Takže, co jste to chtěl?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7039,6 +7059,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E08C"
 msgid "\"I just break things. It's the way I am.\""
 msgstr ""
+"\"Prostě rozbíjím věci. Takový už jsem.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7047,6 +7068,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E299"
 msgid "You're guessing there aren't *that* many others."
 msgstr ""
+"Domníváš se, že nejsou žádné *ty* mnohé další."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7100,6 +7122,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000196FE"
 msgid "\"You've heard wrong. And you're *not* putting a dead body into my fridge.\""
 msgstr ""
+"\"Slyšel jste špatně. A mrtvolu mi do ledničky *nedáte*.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7108,6 +7131,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00012D2C"
 msgid "\"I can pay it off with my net worth if that's cool?\""
 msgstr ""
+"\"Můžu to splatit ze svého čistého jmění, jestli je to v pohodě?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7125,6 +7149,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001E14"
 msgid "\"Then you really don't need a free room, do you?\" He shakes his head -- and stops as a strange, new, cruel light rekindles in his features."
 msgstr ""
+"\"Tak to opravdu nepotřebujete volný pokoj, že ne?\" Zavrtí hlavou - a zarazí se, když se v jeho tváři znovu rozzáří zvláštní, nové, kruté světlo."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7133,6 +7158,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001F5F"
 msgid "\"You don't *have to* give me any money at all. If you *want a room*, yes, you'll need to pay me -- but you don't *have to* just give me money. Giving me money for a room is *your choice.*\""
 msgstr ""
+"\"*Nemusíte* mi dávat vůbec žádné peníze. Pokud *chcete pokoj*, ano, budete mi muset zaplatit - ale nemusíte mi dávat peníze *jen tak*. Dát mi peníze za pokoj je *vaše volba.*\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7141,6 +7167,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001FBC"
 msgid "THIS ISN'T A FUCKING JOKE."
 msgstr ""
+"TOHLE NENÍ ŽÁDNÝ ZKURVENÝ VTIP."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7149,6 +7176,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000020C3"
 msgid "(Take the key without a word.)"
 msgstr ""
+"(Vezmi si klíč beze slova.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7157,6 +7185,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002176"
 msgid "He sighs so much he seems to deflate. He slams the key before you. \"The room is yours for the night. Don't forget you'll need *another* 20 reál tomorrow.\""
 msgstr ""
+"Vzdychá tak moc, až se zdá, že se vyprazdňuje. Pleskne před tebe klíč. \"Pokoj je na noc váš. Nezapomeňte, že zítra budete potřebovat *dalších* dvacet reálů.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7165,6 +7194,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000024F4"
 msgid "\"What? Oh -- yes! Something did come addressed to the 'Wildest Cop in Revachol'. One moment...\""
 msgstr ""
+"\"Cože? Aha - ano! Něco přišlo na adresu 'Nejdivočejší polda v Revacholu'. Moment...\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7173,6 +7203,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002578"
 msgid "\"I... I don't know what hospital he's in. I don't know where Kim is.\""
 msgstr ""
+"\"Já... nevím, v jaké je nemocnici. Nevím, kde je Kim.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7181,6 +7212,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002584"
 msgid "The lieutenant lies in recovery. Where he does so, however, is unknown."
 msgstr ""
+"Poručík se zotavuje. Kde se tak děje, však není známo."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7189,6 +7221,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000025EF"
 msgid "\"Fair enough. Now if we're finished discussing this, can we return to solving the murder?\" He struggles to keep his smile."
 msgstr ""
+"\"To je fér. Pokud jsme s touto diskusí skončili, můžeme se vrátit k řešení vraždy?\" Snaží se udržet úsměv."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7197,6 +7230,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021A18"
 msgid "The man leans his hands on the corner and sighs. His head drops between the shoulders, heavy and defeated."
 msgstr ""
+"Muž se opře rukama o roh a povzdechne si. Hlava mu klesne mezi ramena, těžká a poražená."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7232,6 +7266,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800005F84"
 msgid "\"You know what? The stupid drinks you've had are on the house. You know why? Because I *know* you can't pay for them. *Not* because you ran away.\""
 msgstr ""
+"\"Víte co? Ty blbé drinky, které jste vypil, jsou na účet podniku. Víte proč? Protože *vím*, že za ně nedokážete zaplatit. *Ne* proto, že jste utekl.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7321,6 +7356,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000166"
 msgid "(Proceed -- show him the coins you found) \"I think I might have some.\""
 msgstr ""
+"(Pokračuj - ukaž mu mince, které jsi našel.) \"Myslím, že bych nějaké mohl mít.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7329,6 +7365,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000019E"
 msgid "\"One *hundred* times smaller?\""
 msgstr ""
+"\"*Stokrát* menší?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7337,6 +7374,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000001AC"
 msgid "\"But that's horrible.\""
 msgstr ""
+"\"Ale to je hrozné.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7345,6 +7383,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000001D8"
 msgid "Isn't it... evil? The order of magnitude between what is asked of a person -- and what they have?"
 msgstr ""
+"Není to... zlo? Řádový rozdíl mezi tím, co se po člověku žádá - a tím, co má?"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7353,6 +7392,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000021E"
 msgid "\"How so, isn't this the IIR? There's like forty of them!\" (Give them to him.)"
 msgstr ""
+"\"Jak to, tohle není IIR? Je jich tu asi čtyřicet!\" (Dej mu je.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7361,6 +7401,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000228"
 msgid "(Keep the money.)"
 msgstr ""
+"(Nech si ty penize.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7378,6 +7419,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008200003F99"
 msgid "\"You still haven't drawn Cuno a line, the fuck's up with that?\""
 msgstr ""
+"\"Ještě jsi Kunovi neudělal čáru, co to kurva je?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7413,6 +7455,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DCEF"
 msgid "\"Oh?\" His posture changes immediately. \"So cool. Cool-cop strikes again. Well -- I didn't expect someone in *your line of work* to notice the lowly efforts of *the service industry* anyway, so...\""
 msgstr ""
+"\"Aha?\" Jeho postoj se okamžitě změní. \"Jak husté. Husťácký policajt opět zasahuje. No - stejně jsem nečekal, že si někdo z *vaší branže* všimne podřadného úsilí *oboru služeb*, takže...\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7421,6 +7464,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DD99"
 msgid "\"Yeah, Cuno doesn't know what the fuck this is about, but you should chill down, pig. You'll get this Lena fuck. On false charges.\" He nods confidently."
 msgstr ""
+"\"Jo, Kuno neví, o čem tohle kurva je, ale měl by ses uklidnit, prase. Toho Leninýho zmrda dostaneš. Na základě falešnejch obvinění.\" Sebevědomě přikývne."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7438,6 +7482,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DE93"
 msgid "\"Good for you. I'm not letting *anyone* up there again -- ever. Now what did you want?\""
 msgstr ""
+"\"To je dobře. Už tam nikoho nepustím - nikdy. Takže, co jste to chtěl?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7446,6 +7491,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DEB8"
 msgid "You feel bad suddenly. You see the delicate loops of the handwriting, in your mind's eye."
 msgstr ""
+"Najednou se cítíš špatně. V duchu vidíš jemné smyčky rukopisu."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7553,6 +7599,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000413"
 msgid "\"Good call. So would I. Teach a man to fish.\""
 msgstr ""
+"\"Dobrá volba. Já taky. Nauč člověka rybařit.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7561,6 +7608,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001E1D"
 msgid "\"Too bad,\" he mutters. He shakes his head -- and stops as a strange, new, cruel light rekindles in his features."
 msgstr ""
+"\"Škoda,\" zamumlá. Zavrtí hlavou - a zarazí se, když se v jeho tváři znovu rozzáří zvláštní, nové, kruté světlo."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7569,6 +7617,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001E78"
 msgid "He is very still as he watches you pocket the key."
 msgstr ""
+"Je velmi klidný, když sleduje, jak strkáš klíč do kapsy."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7577,6 +7626,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000212E"
 msgid "\"You've already unlocked your new room. The trash container outside is ready and waiting.\""
 msgstr ""
+"\"Svůj nový pokoj už jste si odemkl. Kontejner na odpadky venku je připraven a čeká.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7585,6 +7635,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000025D9"
 msgid "\"You can have them if you want, Kim.\""
 msgstr ""
+"\"Jestli chcete, můžete si je vzít, Kime.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7602,6 +7653,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021B92"
 msgid "\"She said you're nice. But also her employer. I mean, c'mon. The power vertical here...\" (Shake your head.)"
 msgstr ""
+"\"Říkala, že jste milý. Ale také její zaměstnavatel. Chci říct, no tak. Je tu ta mocenská vertikála...\" (Zavrť hlavou.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7610,6 +7662,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021BC2"
 msgid "\"It's a mystery.\""
 msgstr ""
+"\"Je to záhada.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7618,6 +7671,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800005FC8"
 msgid "\"Thank you for your cooperation.\""
 msgstr ""
+"\"Děkuji vám za spolupráci.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7626,7 +7680,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000877F"
 msgid "\"The Union guys think they're untouchable. They probably fucking killed that guy or something... and now think they can hide out till it all blows over and it's fair weather again in Martinaise.\""
 msgstr ""
-"\"Ti chlápci z Odborů si myslí, že jsou nedotknutelní. Nejspíš toho chlapa zabili nebo co... a teď si myslí, že se můžou schovat, dokud se to všechno nepřežene a v Martinéze zase bude pěkné počasí.\""
+"\"Ti hoši z Odborů si myslí, že jsou nedotknutelní. Nejspíš toho chlapa zabili nebo co... a teď si myslí, že se můžou schovat, dokud se to všechno nepřežene a v Martinéze zase nebude pěkné počasí.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7698,6 +7752,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000132"
 msgid "\"Money is what grown up people use to pay for things. Things like this hostel room or...\" He peeks into the ledger: \"...or eight bottles of 'Potent Blend' and nine packs of 'Royal Extra'. We use it for everything, really.\""
 msgstr ""
+"\"Peníze jsou to, čím dospělí lidé platí za věci. Věci jako pokoj v tomhle hostelu nebo...\" Nahlédne do účetní knihy: \"...nebo osm lahví \"Silné směsi\" a devět krabiček \"Royal Extra\". Používáme je vlastně na všechno.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7706,6 +7761,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000144"
 msgid "\"What are you, brain-damaged?\""
 msgstr ""
+"\"Co jste zač, máte poškozený mozek?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7723,6 +7779,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100007100000210"
 msgid "\"Interesting. Where do I get it from?\""
 msgstr ""
+"\"Zajímavé. Odkud je mám vzít?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7740,6 +7797,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008100001EEA"
 msgid "He nods. \"Yes. You know. And I went outside and took care of it. Everybody calmed down. Felt like the right thing to do.\""
 msgstr ""
+"Přikývne. \"Ano. Šel jsem ven a postaral se o to. Všichni se uklidnili. Přišlo mi to jako správná věc.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7766,6 +7824,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DDA3"
 msgid "You'll see her again one day. You know it. Things went like they did for a reason."
 msgstr ""
+"Jednoho dne ji opět uvidíš. Vždyť to víš. Věci šly tak, jak šly, z nějakého důvodu."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7864,6 +7923,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000F00012F7A"
 msgid "\"That was *you*? Of course it was. The man behind every new misery in my life.\" He looks you right in the eyes. \"But let's get back to the topic of the money you owe me.\""
 msgstr ""
+"\"To jste byl vy? Samozřejmě, že ano. Muž, který stojí za každou novou mizérií  v mém životě.\" Podívá se ti přímo do očí. \"Ale vraťme se k tématu peněz, které mi dlužíte.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7881,6 +7941,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000021000034A7"
 msgid "He's right. You can't depend on Kim helping you out again."
 msgstr ""
+"Má pravdu. Nemůžeš se spoléhat na to, že ti Kim znovu pomůže."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7934,6 +7995,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001DE4"
 msgid "\"That's more like it, Garte! One free room, please!\""
 msgstr ""
+"\"Tak to se mi líbí víc, Garte! Jeden volný pokoj, prosím!\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7942,6 +8004,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001DEB"
 msgid "\"Do you *have* money tonight?\""
 msgstr ""
+"\"*Máte* dnes večer peníze?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7950,6 +8013,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001E9F"
 msgid "\"Are you serious?\""
 msgstr ""
+"\"To myslíte vážně?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7958,6 +8022,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001EE3"
 msgid "\"Uh-huh.\""
 msgstr ""
+"\"Tak tak.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7966,6 +8031,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002037"
 msgid "\"That wasn't so hard, was it? The room is yours for the night. Don't forget you'll need *another* 20 reál tomorrow.\""
 msgstr ""
+"\"To nebylo tak těžké, že? Pokoj je na noc váš. Nezapomeňte, že zítra budete potřebovat *dalších* 20 reálů.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7974,6 +8040,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000021D5"
 msgid "He stares at the key before him on the counter, then up at you."
 msgstr ""
+"Zadívá se na klíč, který leží před ním na pultu, a pak na tebe."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7982,6 +8049,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B0000246B"
 msgid "\"No, it hasn't. I'll let you know if anything arrives for you. Anything else?\""
 msgstr ""
+"\"Ne, to ne. Dám vám vědět, až vám něco přijde. Ještě něco?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7990,6 +8058,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002558"
 msgid "\"I wish Kim could have been here. He really liked these guys.\""
 msgstr ""
+"\"Přál bych si, aby tu Kim mohl být. Měl ty kluky opravdu rád.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -7998,6 +8067,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000025E8"
 msgid "A thought flickers in his eyes, and is then extinguished. He shakes his head. \"Keep them, detective. You earned it.\""
 msgstr ""
+"V očích se mu mihne myšlenka, která vzápětí pohasne. Potřese hlavou. \"Nechte si je, detektive. Zasloužíte si je.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8024,6 +8094,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000057000239C6"
 msgid "\"Oh no.... I don't have my tape with me either.\""
 msgstr ""
+"\"Ale ne.... Nemám s sebou ani svou pásku.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8077,6 +8148,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800008C80"
 msgid "\"Good luck trying to use it.\" He taps his foot against a metal box installed in the back of the counter."
 msgstr ""
+"\"Hodně štěstí při jeho používání.\" Poklepe nohou na kovovou skříňku umístěnou vzadu na pultu."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8085,6 +8157,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100005800008C80"
 msgid "\"Good luck trying to use it after 21.00.\" He taps his foot against a metal box installed in the back of the counter. "
 msgstr ""
+"\"Hodně štěstí při pokusu o použití po 21.00.\" Poklepe nohou na kovovou skříňku umístěnou vzadu na pultu. "
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8120,6 +8193,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000138"
 msgid "(Proceed -- don't show him the coins you found.)"
 msgstr ""
+"(Pokračuj - neukazuj mu nalezené mince.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8128,6 +8202,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100007100000160"
 msgid "\"No, I'm just getting my bearings.\""
 msgstr ""
+"\"Ne, jen se zorientovávám.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8136,6 +8211,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000001BC"
 msgid "That's cop for: \"I haven't offered to pay because I don't have any money either.\""
 msgstr ""
+"To je policajtsky: \"Nenabídl jsem, že to zaplatím, protože ani já nemám peníze.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8144,6 +8220,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000071000001E4"
 msgid "\"What are you, a philosopher?\""
 msgstr ""
+"\"Co jste zač, nějaký filozof?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8170,6 +8247,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000927E"
 msgid "Hmm... kitchen. It's right nearby. What if you asked the cook?"
 msgstr ""
+"Hmm... kuchyně. Je hned vedle. Co kdyby ses zeptal kuchaře?"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8178,6 +8256,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x01000006000092C8"
 msgid "\"Seems we have no choice but to trust in Cuno now.\""
 msgstr ""
+"\"Zdá se, že teď už nám nezbývá nic jiného než důvěřovat Kunovi.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8267,6 +8346,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000DFB7"
 msgid "(Just drill the inside of your mouth with your tongue.)"
 msgstr ""
+"(Jen si jazykem projeď vnitřek úst.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8284,6 +8364,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060000E094"
 msgid "And there we have it. Isn't that beautiful? Another situation fixed by Doctor Love."
 msgstr ""
+"A je to tady. Není to nádhera? Další situace vyřešená doktorem Láskou."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8310,6 +8391,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100000600016A60"
 msgid "\"Maybe I have a vendetta against it?\""
 msgstr ""
+"\"Možná proti ní vedu vendettu?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8345,6 +8427,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004500000432"
 msgid "Everything is political."
 msgstr ""
+"Všechno je politické."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8353,6 +8436,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001DD3"
 msgid "\"Come on, man. It's late. Do I really have to pay you *again*?\""
 msgstr ""
+"\"No tak, člověče. Je pozdě. Opravdu vám musím znovu *platit*?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8361,6 +8445,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00001E91"
 msgid "He is not proud. But he'll deal with that later."
 msgstr ""
+"Není na to pyšný. Ale s tím se vypořádá později."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8369,6 +8454,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B00002063"
 msgid "He is not proud. But he'll deal with that later."
 msgstr ""
+"Není na to pyšný. Ale s tím se vypořádá později."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8377,6 +8463,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000020EE"
 msgid "He is not proud. But he'll deal with that later."
 msgstr ""
+"Není na to pyšný. Ale s tím se vypořádá později."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8394,6 +8481,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000021EA"
 msgid "\"Thank you...\" He stares at the key before him on the counter, then up at you."
 msgstr ""
+"\"Děkuji...\" Podívá se na klíč, který leží před ním na pultu, a pak na tebe."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8402,6 +8490,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000022DF"
 msgid "\"Do you feel bad enough to give me back my 20 reál?\""
 msgstr ""
+"\"Cítíte se dost špatně na to, abyste mi vrátil mých 20 reálů?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8410,6 +8499,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100004B000024D0"
 msgid "\"Thanks, Garte.\" (Take the shoes.)"
 msgstr ""
+"\"Díky, Garte.\" (Vezmi si boty.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8418,6 +8508,7 @@ msgstr ""
 msgctxt "Alternate1/0x0100004B000024D0"
 msgid "\"I'll just take it. Thanks, Garte.\" (Take the shoes.)"
 msgstr ""
+"\"Prostě si je vezmu. Díky, Garte.\" (Vezmi si boty.)"
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8426,6 +8517,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005700021B98"
 msgid "\"No, we didn't really talk about you.\""
 msgstr ""
+"\"Ne, o vás jsme opravdu nemluvili.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8443,6 +8535,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800005FBA"
 msgid "\"Not *entirely* cool. You still owe me 100 reál. If you don't have it by tonight, I can't let you back up there...\" He points upstairs, toward your room."
 msgstr ""
+"\"Ne tak *úplně* v pohodě. Pořád mi dlužíte 100 reálů. Jestli je do večera neseženete, nemůžu vás tam pustit zpátky...\" Ukáže nahoru, k tvému pokoji."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8451,6 +8544,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800006362"
 msgid "\"I understand your predicament as the manager. However...\" He adjusts his glasses."
 msgstr ""
+"\"Chápu, že jste jako manažer ve svízelné situaci. Nicméně...\" Upraví si brýle."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8486,6 +8580,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005800009054"
 msgid "\"Are you laughing at me?\""
 msgstr ""
+"\"Smějete se mi?\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8512,6 +8607,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000580000D87C"
 msgid "\"As it should be. Anyway. Thank you for returning my key.\""
 msgstr ""
+"\"Jak to má být. Každopádně. Děkuji, že jste mi vrátil klíč.\""
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
@@ -8556,6 +8652,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000710000022E"
 msgid "Keep the money."
 msgstr ""
+"Nech si ty penize."
 
 #. Title = WHIRLING F1 / GARTE MAIN
 #. Description = This is Garte's main dialogue for the rest of the game
