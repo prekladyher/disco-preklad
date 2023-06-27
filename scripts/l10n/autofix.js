@@ -16,8 +16,8 @@ export function autofixL10n(base) {
       if (!entry.msgctxt) {
         continue; // skip header
       }
-      update |= fixQuotes(entry, subpath);
-      update |= fixDash(entry, subpath);
+      update |= fixQuotes(entry);
+      update |= fixDash(entry);
     }
     if (update) {
       fs.writeFileSync(filepath, encodeEntries(entries));
@@ -25,13 +25,9 @@ export function autofixL10n(base) {
   }
 }
 
-function fixQuotes(entry, context) {
+function fixQuotes(entry) {
   if (/^FinishTask/.test(entry.msgid)) {
     return false; // ignore script entry
-  }
-  const relevant = /"/.test(entry.msgid);
-  if (/"/.test(entry.msgstr) && !relevant) {
-    console.error(`Inconsistent entry ${context}: ${entry.msgctxt}`);
   }
   const fixed = entry.msgstr.replaceAll(/"([^"]+)"/g, "„$1“");
   if (fixed === entry.msgstr) {

@@ -62,8 +62,9 @@ program.command("stats")
 program.command("validate")
   .description("Perform basic translation file validation")
   .argument("<base>", "base path (file or directory)")
-  .action(async (base) => {
-    const result = validateL10n(base);
+  .option("-m, --mark", "mark invalid entries as fuzzy")
+  .action((base, { mark }) => {
+    const result = validateL10n(base, mark);
     result.forEach(([subpath, errors]) => {
       console.log(`${chalk.green(subpath)}:`);
       errors.forEach(error => console.log(chalk.yellow(`  ${error[0]}\t`), chalk.red(error[1])));
