@@ -62,6 +62,7 @@ msgstr ""
 #. Title = LAIR / Door to Outside
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
 #. Actor = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002F000126C7"
 msgid "\"Of course. I was just testing you, to see if *you* remembered.\""
 msgstr ""

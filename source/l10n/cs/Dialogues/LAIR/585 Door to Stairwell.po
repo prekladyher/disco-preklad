@@ -14,6 +14,7 @@ msgstr ""
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
 #. Actor = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002F0001271F"
 msgid "\"Sorry!\" (Hit your head.) \"I forgot.\""
 msgstr ""

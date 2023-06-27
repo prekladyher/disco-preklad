@@ -374,7 +374,6 @@ msgctxt "Dialogue Text/0x010000640000B838"
 msgid "\"They say you burned half the city down. Thousands dead. That's very cool to Cuno. I thought I'd stick around.\""
 msgstr ""
 "\"Říká se, žes vypálil půlku města. Tisíce mrtvejch. To je pro Kuna hodně hustý. Tak jsem si řekl, že se tu zdržím.\""
-""
 
 #. Title = WHIRLING F2 / CUNO WAKEUP
 #. Description = If you didn't make the authority check.
@@ -680,6 +679,7 @@ msgstr ""
 #. Description = If you didn't make the authority check.
 #. Actor = You
 #. Conversant = Cuno
+#, fuzzy
 msgctxt "Dialogue Text/0x0100004000002B99"
 msgid "\"Wait, but *why* do you forgive me?"
 msgstr ""
@@ -2020,6 +2020,7 @@ msgstr ""
 #. Title = WHIRLING F2 / CUNO WAKEUP
 #. Description = If you didn't make the authority check.
 #. Actor = Cuno
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000700008698"
 msgid "\"There are fuckin' footprints *everywhere*, pig. Pigs are too into this footprints shit...\" He shakes his head. \"Cuno just saw footprints outside on the *sidewalk*.\""
 msgstr ""

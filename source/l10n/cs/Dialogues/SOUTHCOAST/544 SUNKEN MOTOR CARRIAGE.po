@@ -311,6 +311,7 @@ msgstr ""
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
 #. Actor = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000007000072E5"
 msgid "How do we get you out?"
 msgstr ""
@@ -723,7 +724,6 @@ msgctxt "Dialogue Text/0x01000007000072C7"
 msgid "I can fix it."
 msgstr ""
 "Tohle nedokážu napravit. "
-""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1120,11 +1120,11 @@ msgstr ""
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
 #. Actor = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000700006EC2"
 msgid "\"Oh god, no...\""
 msgstr ""
 "Ach bože, ne."
-""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1501,7 +1501,6 @@ msgctxt "Dialogue Text/0x010000070000722A"
 msgid "Oh god, no..."
 msgstr ""
 "Ach bože, ne."
-""
 
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
@@ -1570,6 +1569,7 @@ msgstr ""
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
 #. Actor = Kim Kitsuragi
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000700006C71"
 msgid "\"I did not.\" He gives you a blank stare. \"But I'd say it has been here since last Saturday or Sunday.\""
 msgstr ""
@@ -1698,6 +1698,7 @@ msgstr ""
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
 #. Actor = You
+#, fuzzy
 msgctxt "Alternate1/0x0100004C0000AE0F"
 msgid "\"Oh, right... \""
 msgstr ""
@@ -2146,6 +2147,7 @@ msgstr ""
 #. Title = SOUTHCOAST / SUNKEN MOTOR CARRIAGE
 #. Description = Tyre tracks lead to a sunken motor carriage.
 #. Actor = Kim Kitsuragi
+#, fuzzy
 msgctxt "Dialogue Text/0x0100004C0000AC94"
 msgid "\"Let's wait for the low tide and see what's inside.\""
 msgstr ""

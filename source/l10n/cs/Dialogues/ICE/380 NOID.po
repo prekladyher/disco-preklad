@@ -102,7 +102,6 @@ msgctxt "Dialogue Text/0x0100001400002BD6"
 msgid "\"It is.\""
 msgstr ""
 "\"To je.\""
-""
 
 #. Title = ICE / NOID
 #. Description = Noid dialogue -- happens mostly inside church.
@@ -246,6 +245,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A0000A178"
 msgid "\"Okay, maybe I'll come back later. [Leave.]"
 msgstr ""
@@ -264,6 +264,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A0000A28D"
 msgid "\"What's it for?\""
 msgstr ""
@@ -615,6 +616,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100007200000D10"
 msgid "\"How old do you think the church is?\""
 msgstr ""
@@ -750,6 +752,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100008E00000059"
 msgid "\"Oh, right. Crab-man, got it.\""
 msgstr ""
@@ -903,6 +906,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Suggestion
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100001400002FE8"
 msgid "Maybe you should just stand there, watch him rattle his toolbox. Get to know *his* 'sine.'"
 msgstr ""
@@ -1047,6 +1051,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100007200001065"
 msgid "\"How are you settling in?\""
 msgstr ""
@@ -1398,6 +1403,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Logic
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000F0000F865"
 msgid "That 'maniac' is obviously you, which makes the 'power source' your half-sunken Coupris 40."
 msgstr ""
@@ -1605,6 +1611,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Inland Empire
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005300004C2D"
 msgid "Just a moment. That voice isn't human, and it's not saying 'Nay!' -- It's saying 'N-n-n-neigh!'"
 msgstr ""
@@ -1623,6 +1630,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Empathy
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000053000050DA"
 msgid "This young speedfreak seems to know a lot about 'sines'... could he have the technical skill you're looking for?"
 msgstr ""
@@ -1893,6 +1901,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100001400002C9B"
 msgid "\"Why describe it, if you already know what I mean?"
 msgstr ""
@@ -1956,6 +1965,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Empathy
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000053000050A4"
 msgid "This young speedfreak seems to know a lot about 'sines'... could he be the techno-tinkerer you're looking for?"
 msgstr ""
@@ -2847,6 +2857,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100001400002CFF"
 msgid "\"Thank you for clearing that up.\""
 msgstr ""
@@ -3063,6 +3074,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Noid
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000072000013F5"
 msgid "\"*No one* says Arno van Eyck is a mass murderer. The anodic pioneer Rietveldt is not a mass murderer. He is not accused of mass murder...\""
 msgstr ""
@@ -3216,6 +3228,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100001400003465"
 msgid "\"Don't assume I like the status quo, because I'm a cop.\""
 msgstr ""
@@ -4575,6 +4588,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Empathy
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000053000050D4"
 msgid "This young speedfreak seems to know a lot about 'sines'... could he be the techno-tinkerer you're looking for?"
 msgstr ""
@@ -4665,6 +4679,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Noid
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x010000720000109E"
 msgid "\"'I saw some piglets suckling their dead mother' -- have you heard this one, cop-man?\" He continues without waiting for an answer: \"'After a short while they shuddered and went away.'\""
 msgstr ""
@@ -4737,6 +4752,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Logic
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000F0000F86A"
 msgid "An 'abandoned power source'? What could he be referring to?"
 msgstr ""
@@ -4962,6 +4978,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000F0000FB76"
 msgid "\"We could use the steeple of *this* church.\" (Point up.)"
 msgstr ""
@@ -5799,6 +5816,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100007200001189"
 msgid "\"Not cool.\" Shake your head."
 msgstr ""
@@ -6024,6 +6042,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100001400003474"
 msgid "(Look him straight in the eye:) \"Shit, piss, cunts, dicks, f****ts! Fuck the World!\""
 msgstr ""
@@ -6105,6 +6124,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = Empathy
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000053000050B4"
 msgid "This young speedfreak seems to know a lot about 'sines'... could he have the technical skill you're looking for?"
 msgstr ""
@@ -6456,6 +6476,7 @@ msgstr ""
 #. Description = Noid dialogue -- happens mostly inside church.
 #. Actor = You
 #. Conversant = Noid
+#, fuzzy
 msgctxt "Dialogue Text/0x0100001400002FBF"
 msgid "\"I didn't mean it as a bad thing.\""
 msgstr ""

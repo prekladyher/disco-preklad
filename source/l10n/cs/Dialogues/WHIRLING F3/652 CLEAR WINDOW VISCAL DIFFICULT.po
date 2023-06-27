@@ -496,6 +496,7 @@ msgstr ""
 #. Description = This window has been recently replaced. High perception to notice. This dialogue gets a viscal and becomes trivial once someone admits Assassination
 #. Actor = Kim Kitsuragi
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x010000450001B219"
 msgid "\"She was there that night -- she would have known precisely where the bullet hole was in the glass...\""
 msgstr ""
@@ -1985,7 +1986,6 @@ msgctxt "Dialogue Text/0x01000089000048C2"
 msgid "What else is there?"
 msgstr ""
 "Co tam ještě je? "
-""
 
 #. Title = WHIRLING F3 / CLEAR WINDOW VISCAL DIFFICULT
 #. Description = This window has been recently replaced. High perception to notice. This dialogue gets a viscal and becomes trivial once someone admits Assassination
@@ -2279,6 +2279,7 @@ msgstr ""
 #. Description = This window has been recently replaced. High perception to notice. This dialogue gets a viscal and becomes trivial once someone admits Assassination
 #. Actor = You
 #. Conversant = Clear Window
+#, fuzzy
 msgctxt "Dialogue Text/0x0100008900004803"
 msgid "This is also the only point of origin I haven't ruled out yet... (Proceed.)"
 msgstr ""

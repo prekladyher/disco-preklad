@@ -61,6 +61,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000600015485"
 msgid "\"Just *happened*?\" His eyes grow wide and he hyperventilates. \"Is she *dead*? Don't tell me she's...\""
 msgstr ""
@@ -79,6 +80,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002E000000B3"
 msgid "\"It's the Jam, my man.\" He motions toward the sprawl of lorries with a sweeping gesture."
 msgstr ""
@@ -862,6 +864,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100006B00000389"
 msgid "\"Stuck in the rain in a traffic jam, man. What's on your mind?\""
 msgstr ""
@@ -970,6 +973,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000600011A42"
 msgid "\"Thank god I *don't know*. People here call her 'the lady driver.' She kept her name a secret. From me, too. Now I see why.\""
 msgstr ""
@@ -1213,6 +1217,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A00008910"
 msgid "\"Ex-wife? No. It's a sinister presence that hunts me across all planes of existence.\""
 msgstr ""
@@ -1366,6 +1371,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Physical Instrument
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x010000060001CE29"
 msgid "Working on these 'rhymes' clearly leads to muscular atrophy. Make sure you don't get hooked on poetry."
 msgstr ""
@@ -1411,6 +1417,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002F000003CB"
 msgid "\"Yeah, imagine -- it's been a whole week already.\" He snickers."
 msgstr ""
@@ -1600,6 +1607,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Rhetoric
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000600011A35"
 msgid "Bah. Emotional rhetoric. He knew something and he didn't share it with you. That's a *fact*."
 msgstr ""
@@ -1708,6 +1716,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A00005B39"
 msgid "\"I'm *fine* man, I don't miss *anyone*.\""
 msgstr ""
@@ -1915,6 +1924,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A00005A35"
 msgid "\"Deora?\""
 msgstr ""
@@ -2225,7 +2235,6 @@ msgctxt "Dialogue Text/0x0100000600011A7F"
 msgid "\"Blue and violet, dyed.\" He answers reluctantly. \"It was violet when she got here. Blue before she went.\""
 msgstr ""
 "\"Má obarvené vlasy, modré a fialové.\" Odpoví neochotně. \"Když sem přišla, měla je fialové. Než odešla tak je měla modré.\" "
-""
 
 #. Title = JAM / TOMMY
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
@@ -2663,6 +2672,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002E00000191"
 msgid "\"A mirror’s temperature is always zero. It is ice in the veins. Its camera is an x-ray.\""
 msgstr ""
@@ -3248,6 +3258,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002F00002A25"
 msgid "\"Whoa.\" He leans in, his eyes bright with attention. \"What else?\""
 msgstr ""
@@ -3590,6 +3601,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Kim Kitsuragi
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x01000006000153F3"
 msgid "\"All right. That's enough sharing details about the investigation for one day.\""
 msgstr ""
@@ -3698,6 +3710,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100002F000029FC"
 msgid "\"Could you say it again, only a little less plodding?\""
 msgstr ""
@@ -3725,6 +3738,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A0000547D"
 msgid "\"Who do you think could be conducting the drug trade then?\""
 msgstr ""
@@ -3752,6 +3766,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = You
 #. Conversant = Tommy Le Homme
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A00005A2B"
 msgid "\"Really, you can tell me.\""
 msgstr ""
@@ -3977,6 +3992,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Tommy Le Homme
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005A00005637"
 msgid "\"What's it *like*? Good. And bad. An ache that brings you joy.\" He smiles warmly. \"I think of them a lot. I dream up these silly scenarios, in great detail. Of living with them... it comforts me.\""
 msgstr ""
@@ -4076,6 +4092,7 @@ msgstr ""
 #. Description = At the plaza, near Kim's Kineema you may talk to an anxious truck driver. The man's come to stretch his legs. Here you will find information on: traffic jam, the closed gates, the other truck drivers, FALN. + Learn some background on the geography of Le Caillou. Possibly acquire one piece of the FALN clothing set. (Includes poetry white check.)
 #. Actor = Empathy
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000600010AE8"
 msgid "Maybe the *full on* direct approach wasn't correct? Damn, it's tricky business looking into someone's eyes and not doing it *wrong*."
 msgstr ""

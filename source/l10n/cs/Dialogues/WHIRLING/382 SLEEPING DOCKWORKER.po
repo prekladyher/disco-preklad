@@ -215,6 +215,7 @@ msgstr ""
 #. Description = Downstairs at the Whirling In Rags there's a sleeping dockworker. Interfacing people can steal his wallet and work pass, Phys inst can wake him up by yelling and then get some info on the Union and the strike.
 #. Actor = Sleeping Dockworker
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100005700022198"
 msgid "\"They got it. Measurehead's got it, he's guarding the gate. I'm just getting some sleep. Or *was*...\""
 msgstr ""
@@ -665,6 +666,7 @@ msgstr ""
 #. Description = Downstairs at the Whirling In Rags there's a sleeping dockworker. Interfacing people can steal his wallet and work pass, Phys inst can wake him up by yelling and then get some info on the Union and the strike.
 #. Actor = You
 #. Conversant = Sleeping Dockworker
+#, fuzzy
 msgctxt "Dialogue Text/0x010000040000AC78"
 msgid "\"What trouble?\""
 msgstr ""

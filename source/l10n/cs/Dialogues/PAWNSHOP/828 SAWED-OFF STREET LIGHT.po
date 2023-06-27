@@ -654,6 +654,7 @@ msgstr ""
 #. Description = You look at and ask Roy about a street light.
 #. Actor = Savoir Faire
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000F00013393"
 msgid "Whoa, whoa, whoa! What are you doing? That street light isn't worth anywhere near that much. Reel it in, moneybags. Or do you like being bankrupt?"
 msgstr ""
@@ -672,6 +673,7 @@ msgstr ""
 #. Description = You look at and ask Roy about a street light.
 #. Actor = Sawed-off Street Light
 #. Conversant = You
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000F00013439"
 msgid "It reads: 'SOLD TO THE DISCO COP FOR SHARES IN M-K MERCURY GROUP.' The words are written with an even kerning in bold, precise letters."
 msgstr ""
@@ -1131,6 +1133,7 @@ msgstr ""
 #. Description = You look at and ask Roy about a street light.
 #. Actor = You
 #. Conversant = Kim Kitsuragi
+#, fuzzy
 msgctxt "Dialogue Text/0x0100000F000143A6"
 msgid "\"How does it feel to be a *shareholder*?\""
 msgstr ""
