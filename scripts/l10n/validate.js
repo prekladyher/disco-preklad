@@ -12,10 +12,11 @@ const validationChecks = Object.entries({
   "even-asterisks": entry => (entry.msgstr.match(/\*/g)?.length || 0) % 2 === 0
 });
 
-function validateEntry(entry) {
+function validateEntry(entry, overrides) {
   const errors = validationChecks
     .filter(check => !check[1](entry))
     .map(check => check[0])
+    .filter(check => overrides.indexOf(`valid-${check}`) < 0)
     .join(" ");
   return errors ? [entry.msgctxt, errors] : [];
 }
@@ -33,15 +34,16 @@ export function validateL10n(base, mark = false) {
     try {
       const entries = decodeEntries(fs.readFileSync(path.join(base, subpath), "utf-8"));
       for (const entry of entries) {
+        const overrides = entry["#,"]?.match(/\bvalid[^ ]*/g) || [];
         // do not validate header entry and entries with `valid` flag
-        if (!entry.msgid || (entry["#,"]?.indexOf("valid") >= 0)) {
+        if (!entry.msgid || overrides.indexOf("valid") >= 0) {
           continue;
         }
         // do not validate entries with no translation
         if (!entry.msgstr) {
           continue;
         }
-        const errors = validateEntry(entry);
+        const errors = validateEntry(entry, overrides);
         if (errors.length) {
           fileErrors.push(errors);
           mark && markFuzzy(entry);
