@@ -3,6 +3,7 @@ import { program } from "commander";
 import FastGlob from "fast-glob";
 import { inspect } from "util";
 import { appendL10n } from "./l10n/append.js";
+import { autofixL10n } from "./l10n/autofix.js";
 import { copySource } from "./l10n/copy.js";
 import { calcStats, extractAsset, saveStats, validateL10n } from "./l10n/main.js";
 import { mergeL10n } from "./l10n/merge.js";
@@ -103,6 +104,13 @@ program.command("copy")
     for (let file of files) {
       copySource(file, regexp);
     }
+  });
+
+program.command("autofix")
+  .description("Automatically fix common translation errors")
+  .argument("<base>", "base path (file or directory)")
+  .action(async (base) => {
+    autofixL10n(base);
   });
 
 program.parseAsync();
