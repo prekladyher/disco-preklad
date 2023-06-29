@@ -1,7 +1,6 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022.
 # phsquad, 2023.
-# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -604,7 +603,6 @@ msgstr ""
 #. Description = A mirror hangs on the bathroom wall, above a bent and broken sink.
 #. Actor = Esprit de Corps
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100005100009247"
 msgid "He sets down the paper and quickly scribbles the date and time in his notebook, along with a note: 'HDB possible relapse? Check in first thing.'"
 msgstr ""
@@ -1361,11 +1359,10 @@ msgstr ""
 #. Description = A mirror hangs on the bathroom wall, above a bent and broken sink.
 #. Actor = Mirror
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100002700000C32"
 msgid "Oh my god, you're right! It's like it's not even voluntary anymore. You have worn that grin into your face and now it won't come *off*..."
 msgstr ""
-"Panebože, máš pravdu! Jako by to už nikdy nebylo na tvé vůli! Ten škleb sis vryl do tváře a teď už se ho nezbavíš*..."
+"Panebože, máš pravdu! Jako by to už nikdy nebylo na tvé vůli! Ten škleb sis vryl do tváře a teď už se ho *nezbavíš*..."
 
 #. Title = WHIRLING / BATHROOM MIRROR
 #. Description = A mirror hangs on the bathroom wall, above a bent and broken sink.
@@ -2562,4 +2559,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100006B000019FF"
 msgid "A mirror hangs on the bathroom wall. It's barely covered in steam anymore. It's your face in the mirror -- adorned with *The Expression*."
 msgstr ""
-"Na stěně koupelny visí zrcadlo. Už je sotva zakryté párou. V zrcadle je tvá tvář - ozdobená *Výrazem*."
+"Na stěně koupelny visí zrcadlo. Už jen sotva zamlžené. V zrcadle je tvá tvář - ozdobená *Výrazem*. "
