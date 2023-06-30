@@ -18,6 +18,7 @@ export function autofixL10n(base) {
       }
       update |= fixQuotes(entry);
       update |= fixDash(entry);
+      update |= fixEllipsis(entry);
     }
     if (update) {
       fs.writeFileSync(filepath, encodeEntries(entries));
@@ -41,6 +42,15 @@ function fixDash(entry) {
   const fixed = entry.msgstr.replaceAll(/(?<=\s)--?(?=\s)/g, "–");
   if (fixed === entry.msgstr) {
     return false; // no change
+  }
+  entry.msgstr = fixed;
+  return true;
+}
+
+function fixEllipsis(entry) {
+  const fixed = entry.msgstr.replaceAll(/.../g, "…");
+  if (fixed === entry.msgstr) {
+    return false;
   }
   entry.msgstr = fixed;
   return true;

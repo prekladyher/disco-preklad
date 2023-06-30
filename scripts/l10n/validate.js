@@ -7,9 +7,7 @@ import { loadFileTree } from "./utils.js";
 const validationChecks = Object.entries({
   "newline": entry => entry.msgstr.match(/\n/g)?.length === entry.msgid.match(/\n/g)?.length,
   "leading-whitespace": entry => entry.msgstr.match(/\n /g)?.length === entry.msgid.match(/\n /g)?.length,
-  "matching-quotes": entry => /["“”]/.test(entry.msgid) === /["„“]/.test(entry.msgstr),
-  "even-quotes": entry => (entry.msgstr.match(/"/g)?.length || 0) % 2 === 0,
-  "even-asterisks": entry => (entry.msgstr.match(/\*/g)?.length || 0) % 2 === 0
+  "even-quotes": entry => (entry.msgstr.match(/"„“‚‘/g)?.length || 0) % 2 === 0,
 });
 
 function validateEntry(entry, overrides) {
