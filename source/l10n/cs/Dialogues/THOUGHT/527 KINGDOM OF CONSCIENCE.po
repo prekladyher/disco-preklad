@@ -1,5 +1,7 @@
 # Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
 # Drakefran <drakefranddrakefran@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,7 +13,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = THOUGHT / KINGDOM OF CONSCIENCE
 #. Description = Empathy informs you that you are a Moralist. Kingdom of Conscience awaits.
@@ -200,11 +202,10 @@ msgstr ""
 #. Title = THOUGHT / KINGDOM OF CONSCIENCE
 #. Description = Empathy informs you that you are a Moralist. Kingdom of Conscience awaits.
 #. Actor = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000060000F943"
 msgid "This is because I keep saying *none of the above* to political stuff, isn't it?\""
 msgstr ""
-"Je to proto, že na politické věci neustále říkam *nic z výše uvedeného*, že?"
+"\"Je to proto, že na politické věci neustále říkam *nic z výše uvedeného*, že?\""
 
 #. Title = THOUGHT / KINGDOM OF CONSCIENCE
 #. Description = Empathy informs you that you are a Moralist. Kingdom of Conscience awaits.

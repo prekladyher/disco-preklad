@@ -1,16 +1,18 @@
 # Honzic <honzic@seznam.cz>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: Honzic <honzic@seznam.cz>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-06-19 10:36+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = CANAL / MAN ON WATER LOCK barks
 #. Description = Barks for the Man on Water Lock.
@@ -31,11 +33,10 @@ msgstr ""
 #. Title = CANAL / MAN ON WATER LOCK barks
 #. Description = Barks for the Man on Water Lock.
 #. Actor = Man on water lock
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004D00003A5D"
 msgid "\"My friend Barry is stuck on the other side.\""
 msgstr ""
-"\"Můj kamarád Barry je zaseknutej na druhym břehu kanálu"
+"\"Můj kamarád Barry je zaseknutej na druhym břehu kanálu.\""
 
 #. Title = CANAL / MAN ON WATER LOCK barks
 #. Description = Barks for the Man on Water Lock.

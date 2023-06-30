@@ -2,6 +2,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022.
 # phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -370,11 +371,10 @@ msgstr ""
 #. Description = A man is eating salami on the water lock.
 #. Actor = Man on water lock
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100006B00007E66"
 msgid "\"It'll be restarted on Wednesday morning.\" He nods his head towards the control panel. \"You wanna do the honours when the time comes?\""
 msgstr ""
-"\"Bude se to opět spouštět ve středu ráno.\" Pokývne směrem k ovládacímu panelu. \"Chcete mít tu čest až nadejde čas?"
+"\"Bude se to opět spouštět ve středu ráno.\" Pokývne směrem k ovládacímu panelu. \"Chcete mít tu čest až nadejde čas?\""
 
 #. Title = CANAL / MAN ON WATER LOCK
 #. Description = A man is eating salami on the water lock.
@@ -389,11 +389,10 @@ msgstr ""
 #. Description = A man is eating salami on the water lock.
 #. Actor = Reaction Speed
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100001600008B53"
 msgid "This is the water lock on the Martinaise Canal. It has to be the same water lock Lena mentioned, the one her husband crossed on his \"expedition.\""
 msgstr ""
-"Toto je zdymadlo na Martinézském kanálu. Musí to být to, o kterém mluvila Lena. To přes které šel její manžele při své *výpravě*."
+"Toto je zdymadlo na Martinézském kanálu. Musí to být to, o kterém mluvila Lena. To přes které šel její manžele při své \"výpravě\"."
 
 #. Title = CANAL / MAN ON WATER LOCK
 #. Description = A man is eating salami on the water lock.
