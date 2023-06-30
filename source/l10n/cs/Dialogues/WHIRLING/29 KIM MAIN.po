@@ -324,7 +324,6 @@ msgstr ""
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
 #. Actor = Physical Instrument
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000094000005F7"
 msgid "You may not *remember* taking any little 'tests', but you're strong as a goddamn ox. Anyone can see that!"
 msgstr ""
@@ -1486,11 +1485,10 @@ msgstr ""
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100009400000167"
 msgid "\"*Me*?\""
 msgstr ""
-"\"O mně*?\""
+"\"O mně?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -2333,11 +2331,10 @@ msgstr ""
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
 #. Actor = You
 #. Conversant = Kim Kitsuragi
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000400015920"
 msgid "\"Okay indeed. And in this *atelier* I have realized that you harbour some kind of *sentiment* toward the revolutionary air brigades.\""
 msgstr ""
-"\"Dobře. A v tomhle *atelieru* jsem si uvědomil, že chováte vůči revolučním leteckým brigádám nějaký *sentiment.\""
+"\"Dobře. A v tomhle *atelieru* jsem si uvědomil, že chováte vůči revolučním leteckým brigádám nějaký *sentiment*.\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3675,11 +3672,10 @@ msgstr ""
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
 #. Actor = You
 #. Conversant = Kim Kitsuragi
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000400015896"
 msgid "\"Kim, you're wearing a revolutionary air brigade jacket, aren't you?\""
 msgstr ""
-"Kime, nosíte bundu revoluční letecké brigády, že?\""
+"\"Kime, nosíte bundu revoluční letecké brigády, že?\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -3784,11 +3780,10 @@ msgstr ""
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000060001A39C"
 msgid "\"Yes, uhm...\" The lieutenant stares at your shaven face, his eyes narrowed. \"Uhhhh...\" he mumbles. \"I don't know what to say.\" He coughs. \"Perhaps...\""
 msgstr ""
-"\"Ano, ehm...\" Poručík se zadívá na tvou oholenou tvář a zúží oči. Éééé...\" zamumlá. \"Nevím, co na to říct.\" Odkašle si. \"Možná...\""
+"\"Ano, ehm...\" Poručík se zadívá na tvou oholenou tvář a zúží oči. \"Éééé...\" zamumlá. \"Nevím, co na to říct.\" Odkašle si. \"Možná...\""
 
 #. Title = WHIRLING / KIM MAIN
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
@@ -4289,7 +4284,6 @@ msgstr ""
 #. Description = These are the rest of Kims MAIN dialogues with you after he's in the squad.
 #. Actor = Encyclopedia
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/7pdww9ca9x_nuzsn"
 msgid "Tetrahydrocannabinol is the psychoactive substance in the cannabis plant, commonly known as 'hemp'. It's one of the most common recreational substances in the world."
 msgstr ""

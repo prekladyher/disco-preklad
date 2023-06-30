@@ -734,11 +734,10 @@ msgstr ""
 #. 3. Come back the next day to get personal info (finish task to get personal info from serial number).
 #. Actor = Alice
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000580000AE0E"
 msgid "\"Are you sure that's the right number? Doesn't sound like a serial.\""
 msgstr ""
-"\"Jste si jistý, že jde o to správné číslo? Vážně nezní jako sériové."
+"\"Jste si jistý, že jde o to správné číslo? Vážně nezní jako sériové.\""
 
 #. Title = KINEEMA / SERIAL NUMBER
 #. Description = 1. Ask Alice to run the serial number you got from the boot.

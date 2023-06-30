@@ -81,7 +81,6 @@ msgstr ""
 #. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
 #. Actor = Feld Mural
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000580000BF05"
 msgid "You see a once-bright mural towering above you. The signage has peeled off over the years, but you can still make out: 'FELD ELECTRICAL R&D'."
 msgstr ""
@@ -952,7 +951,6 @@ msgstr ""
 #. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
 #. Actor = Perception (Sight)
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000016000093EF"
 msgid "A slogan used to intertwine with the loops a long time ago. Now only a shadow of peeled letters remains. It says: 'Tomorrow is just a whisper away'."
 msgstr ""
@@ -1383,11 +1381,10 @@ msgstr ""
 #. 2. Shivers White Check to see stairs, which then allows you to use the ladder to get to the roof.
 #. Actor = You
 #. Conversant = Feld Mural
-#, fuzzy
 msgctxt "Dialogue Text/0x01000006000149ED"
 msgid "And if that fails? If I don't find her? (Conclude.)"
 msgstr ""
-"\"A když se to nepodaří? Když ji nenajdu?\" (Uzavři to.)"
+"A když se to nepodaří? Když ji nenajdu? (Uzavři to.)"
 
 #. Title = BOARDWALK / FELD MURAL
 #. Description = 1. Observe the mural.
