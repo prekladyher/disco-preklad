@@ -1,4 +1,6 @@
 # Ziriath <ziriath@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +11,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = LAIR / Door to Outside
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
@@ -62,11 +64,10 @@ msgstr ""
 #. Title = LAIR / Door to Outside
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
 #. Actor = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100002F000126C7"
 msgid "\"Of course. I was just testing you, to see if *you* remembered.\""
 msgstr ""
-"\"Samozřejmě. Jen jsem zkoušel, jestli si *vy pamatujete*."
+"\"Samozřejmě. Jen jsem zkoušel, jestli si *vy pamatujete*.\""
 
 #. Title = LAIR / Door to Outside
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.

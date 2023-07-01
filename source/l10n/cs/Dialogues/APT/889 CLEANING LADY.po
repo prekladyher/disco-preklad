@@ -1,5 +1,7 @@
 # dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -333,7 +335,6 @@ msgstr ""
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
 #. Actor = Kim Kitsuragi
 #. Conversant = Cleaning Lady
-#, fuzzy
 msgctxt "Dialogue Text/0x0100007000005C7B"
 msgid "The lieutenant shakes his head, as though to say 'let it go.'"
 msgstr ""
@@ -810,11 +811,10 @@ msgstr ""
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
 #. Actor = Empathy
 #. Conversant = Cleaning Lady
-#, fuzzy
 msgctxt "Dialogue Text/0x010000060001BAE0"
 msgid "She's seen it -- and known those who have been killed."
 msgstr ""
-"\"Ano viděla - a znala ty zabité.\""
+"Ano viděla - a znala ty zabité."
 
 #. Title = APT / CLEANING LADY
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
@@ -1143,7 +1143,6 @@ msgstr ""
 #. Description = Cleaning lady inside the apartment building. Part of her greeting is in PIER / APARTMENTS PIER DOOR dialogue.
 #. Actor = You
 #. Conversant = Cleaning Lady
-#, fuzzy
 msgctxt "Dialogue Text/0x0100007000005A96"
 msgid "\"He's wanted for murder. He's goin' away for life.\""
 msgstr ""

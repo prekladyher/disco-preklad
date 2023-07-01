@@ -1,4 +1,6 @@
 # Ziriath <ziriath@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,16 +11,15 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
 #. Actor = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100002F0001271F"
 msgid "\"Sorry!\" (Hit your head.) \"I forgot.\""
 msgstr ""
-"\"Promiňte! (Plácni se do čela.) \"Já zapomněl.\""
+"\"Promiňte!\" (Plácni se do čela.) \"Já zapomněl.\""
 
 #. Title = LAIR / Door to Stairwell
 #. Description = This prevents the player from leaving the main lair -- only fires if they have dealt with Ruby but not read her journal.
