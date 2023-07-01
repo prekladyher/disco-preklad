@@ -792,7 +792,6 @@ msgstr ""
 #. 4. The fridge can be turned off from the breaker box.
 #. Actor = You
 #. Conversant = Ice Bear Fridge
-#, fuzzy
 msgctxt "tooltip1/0x010000210000076C"
 msgid "Stop wasting time, you're 'smart'!"
 msgstr ""
@@ -1327,11 +1326,10 @@ msgstr ""
 #. 4. The fridge can be turned off from the breaker box.
 #. Actor = Kim Kitsuragi
 #. Conversant = Ice Bear Fridge
-#, fuzzy
 msgctxt "Dialogue Text/0x0100002D0000024A"
 msgid "\"Did we, though?\" He sighs. \"Okay, maybe we *did*\""
 msgstr ""
-"\"Ale udělali jsme to?\" Povzdechne si. \"Dobře, možná jsme to udělali*\""
+"\"Ale udělali jsme to?\" Povzdechne si. \"Dobře, možná jsme to *udělali*\""
 
 #. Title = DOOMED / ICE BEAR FRIDGE
 #. Description = 1. Has a note inside that points to the frozen ice cream maker that has the filament memory stored inside.

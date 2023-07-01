@@ -1,5 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -305,7 +307,6 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = Mainframe
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100006B000057D3"
 msgid "What is clear is that one day an unidentified numeric anomaly occurred on the East-Insulindian Lintel front, just as the 'Wirrâl Untethered' project was being compiled that day."
 msgstr ""
@@ -360,11 +361,10 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = Mainframe
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000500001310"
 msgid "Let's just say it was a *real adventure* for their Igaunijan investor."
 msgstr ""
-"Řekněme, že pro jejich investora z Igaunijanu to bylo *skutečné dobrodružství."
+"Řekněme, že pro jejich investora z Igaunijanu to bylo *skutečné dobrodružství*."
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -415,7 +415,6 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = Mainframe
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100005700002077"
 msgid "No, definitely not. A few more producers could have come handy though -- especially when dealing with writers, some of whom routinely skipped work because of 'mental health issues' and extremely unprofessional sleep schedules..."
 msgstr ""
@@ -443,7 +442,6 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = Mainframe
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000570001C62F"
 msgid "At the eleventh hour, the lead designer, Zsiemsk-born Sulisław Zawisza, decided that what 'Wirrâl Untethered' needed was a secret mystical location at the extreme edge of the map..."
 msgstr ""
@@ -732,11 +730,10 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = East-Insulindian Repeater Station
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000005000009AD"
 msgid "\"'Fortress Accident SCA produces revolutionary interactive call-in radio games' -- that's what the catalogue says.\""
 msgstr ""
-"\"Pevnost katastrof k. s. produkuje revoluční interaktivní konferenčí rádiové hry\" - to se píše v katalogu.\""
+"\"\"Pevnost katastrof k. s. produkuje revoluční interaktivní konferenčí rádiové hry\" - to se píše v katalogu.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -868,11 +865,10 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = East-Insulindian Repeater Station
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000050000083E"
 msgid "\"Received. I will *register* this log-in attempt.\""
 msgstr ""
-"\"Přijato. Tento pokus o přihlášení *zaregistruji.\""
+"\"Přijato. Tento pokus o přihlášení *zaregistruji*.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -977,11 +973,10 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = East-Insulindian Repeater Station
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000500000A94"
 msgid "\"Received. I will *register* this log-in attempt.\""
 msgstr ""
-"\"Přijato. Tento pokus o přihlášení *zaregistruji.\""
+"\"Přijato. Tento pokus o přihlášení *zaregistruji*.\""
 
 #. Title = DOOMED / RADIOCOMPUTER
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
@@ -1959,7 +1954,6 @@ msgstr ""
 #. Description = RADIOCOMPUTER -- WIRRAL UNTETHERED! HEAT DEATH!
 #. Actor = Mainframe
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000570001914B"
 msgid "It's a project report written by the lead producer Andrew 'Andy' Schott about 'Wirrâl Untethered', a radio game developed by studio Fortress Accident."
 msgstr ""
