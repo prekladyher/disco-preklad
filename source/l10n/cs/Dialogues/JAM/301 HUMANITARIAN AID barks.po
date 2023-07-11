@@ -1,5 +1,7 @@
 # Jindřich Černý <cernyjindrich22@gmail.com>, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,16 +13,15 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
 #. Actor = Siileng
-#, fuzzy
 msgctxt "Dialogue Text/0x010000070001A7AC"
 msgid "\"Everything is good here!\""
 msgstr ""
-"*Tady je vše dobré!*"
+"Tady je vše dobré!*"
 
 #. Title = JAM / HUMANITARIAN AID barks
 #. Description = Things Siileng says.
