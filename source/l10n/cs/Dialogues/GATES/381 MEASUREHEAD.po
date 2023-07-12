@@ -1,5 +1,6 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -1873,7 +1874,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100005A0000A9FD"
 msgid "The man lands with a dull thump, like a broken down puppet of muscles and sinew. For a moment he still tries to keep his head up, dazed eyes looking at you with unimaginable surprise.... To your left is *The Button.*"
 msgstr ""
-"Muž dopadne s tupým zaduněním jako rozbitá loutka svalů a šlach. Chvíli se ještě snaží udržet hlavu nahoře, vytřeštěné oči na tebe hledí s nepředstavitelným překvapením..... Po tvé levici je *Tlačítko.*"
+"Muž dopadne s tupým zaduněním jako rozbitá loutka svalů a šlach. Chvíli se ještě snaží udržet hlavu nahoře, vytřeštěné oči na tebe hledí s nepředstavitelným překvapením... Po tvé levici je *Tlačítko.*"
 
 #. Title = GATES / MEASUREHEAD
 #. Description = An übermensch monolith guarding the button to the harbour office door. Into "science"-anthropometry based racial theory.
@@ -2113,10 +2114,11 @@ msgstr ""
 #. Description = An übermensch monolith guarding the button to the harbour office door. Into "science"-anthropometry based racial theory.
 #. Actor = You
 #. Conversant = Measurehead
+#, valid-ellipsis-space
 msgctxt "Dialogue Text/0x0100005A0000A814"
 msgid "\"I... am... a... a degenerate al... alcoholic.\""
 msgstr ""
-"\"J...sem... jen... zdegenerovaný... al...koholik.\""
+"\"Já... jsem... jen... zdegenerovaný... al...koholik.\""
 
 #. Title = GATES / MEASUREHEAD
 #. Description = An übermensch monolith guarding the button to the harbour office door. Into "science"-anthropometry based racial theory.
@@ -2419,6 +2421,7 @@ msgstr ""
 #. Description = An übermensch monolith guarding the button to the harbour office door. Into "science"-anthropometry based racial theory.
 #. Actor = You
 #. Conversant = Measurehead
+#, valid-ellipsis-space
 msgctxt "Dialogue Text/0x0100005A0000A819"
 msgid "\"F... d... dfuck you!\""
 msgstr ""
@@ -3616,6 +3619,7 @@ msgstr ""
 #. Description = An übermensch monolith guarding the button to the harbour office door. Into "science"-anthropometry based racial theory.
 #. Actor = You
 #. Conversant = Measurehead
+#, valid-ellipsis-space
 msgctxt "Dialogue Text/0x0100005A0000AAB0"
 msgid "\"I... I... I am a violent drunk...\""
 msgstr ""

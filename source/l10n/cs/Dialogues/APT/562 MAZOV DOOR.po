@@ -1,16 +1,18 @@
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: dwa2 <krystoflasek@gmail.com>\n"
+"Last-Translator: phsquad\n"
 "PO-Revision-Date: 2022-09-10 16:33+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = APT / MAZOV DOOR
 #. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
@@ -95,7 +97,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000060001B954"
 msgid "He's just trying to help, don't take it... bad. Relax."
 msgstr ""
-"Jen se snaží pomoct, neber si to...zle. Klid."
+"Jen se snaží pomoct, neber si to... zle. Klid."
 
 #. Title = APT / MAZOV DOOR
 #. Description = DOOR, APARTMENT #11 (turns into door. can lockpick and get into?)
@@ -622,4 +624,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x0100008900004552"
 msgid "Better whip out those cutters... you won't get very far otherwise."
 msgstr ""
-"Raději vytasit ty kleště...jinak se moc daleko nedostaneš."
+"Raději vytasit ty kleště... jinak se moc daleko nedostaneš."

@@ -30,6 +30,9 @@ function fixQuotes(entry) {
   if (/^FinishTask/.test(entry.msgid)) {
     return false; // ignore script entry
   }
+  if (entry.msgstr.match(/"/g).length > 2) {
+    return false; // do not attempt autofix with more than two quotes
+  }
   const fixed = entry.msgstr.replaceAll(/"([^"]+)"/g, "„$1“");
   if (fixed === entry.msgstr) {
     return false; // no change
@@ -48,7 +51,7 @@ function fixDash(entry) {
 }
 
 function fixEllipsis(entry) {
-  const fixed = entry.msgstr.replaceAll(/.../g, "…");
+  const fixed = entry.msgstr.replaceAll(/(\.*).../g, "$1…");
   if (fixed === entry.msgstr) {
     return false;
   }
