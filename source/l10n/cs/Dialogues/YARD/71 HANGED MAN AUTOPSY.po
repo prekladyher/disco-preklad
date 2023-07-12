@@ -1,6 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 # phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -404,11 +405,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Cuno
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500004A01"
 msgid "\"Fucking fatal as SHIT, *Seol-man*!\""
 msgstr ""
-"\"Zasraně smrtící jako HOVNO, *Seoláku*!"
+"\"Zasraně smrtící jako HOVNO, *Seoláku*!\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -823,11 +823,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500004074"
 msgid "\"Ah, yes -- your hunch, before.\" He takes a moment to breathe. \"We could have a semen analysis requested from Processing, but we're already requesting toxicology. There's a one test limit.\""
 msgstr ""
-"\"Ach, ano - vaše tušení, předtím.\" Nechá si chvilku, než se nadechne. „Mohli bychom si od Technického vyžádat analýzu spermatu, ale už teď žádáme o toxikologii. Je tu limit jednoho testu.\""
+"\"Ach, ano - vaše tušení, předtím.\" Nechá si chvilku, než se nadechne. \"Mohli bychom si od Technického vyžádat analýzu spermatu, ale už teď žádáme o toxikologii. Je tu limit jednoho testu.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1088,11 +1087,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000600008B3F"
 msgid "\"It's either this, *or* we complete the initial interviews. We already met Evrart, but didn't *quite* get his interview done -- for that we would have to ask him about the *lynching*. Like we did with Joyce.\""
 msgstr ""
-"\"Buď tohle, nebo dokončíme počáteční výslechy*. S Edvardem jsme se už setkali, ale *úplně* jsme jeho výslech nedokončili - proto bychom se ho měli zeptat na to *lynčování*. Stejně jako jsme to udělali s Joyce"
+"\"Buď tohle, *nebo* dokončíme počáteční výslechy. S Edvardem jsme se už setkali, ale *úplně* jsme jeho výslech nedokončili - proto bychom se ho měli zeptat na to *lynčování*. Stejně jako jsme to udělali s Joyce.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1188,7 +1186,6 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Empathy
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100002D000000C3"
 msgid "He doesn't actually think it's 'interesting' that the boots have disappeared -- it's just sad, sad and unprofessional."
 msgstr ""
@@ -1849,11 +1846,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500004A61"
 msgid "\"That's it.\" He cracks an uneasy smile. \"We have established cause of death. It's not much -- and it leaves much to be questioned -- but it's a *start*.\""
 msgstr ""
-"\"To je ono.\" Rozpačitě se usměje. \"Zjistili jsme příčinu smrti. Není to mnoho - a je o čem pochybovat - ale je to začátek*.\""
+"\"To je ono.\" Rozpačitě se usměje. \"Zjistili jsme příčinu smrti. Není to mnoho - a je o čem pochybovat - ale je to *začátek*.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -1872,11 +1868,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500004AF3"
 msgid "\"Okay. *Why* don't you think it was fatal?\""
 msgstr ""
-"\"Dobře. *Proč si myslíte, že to nebylo smrtelné?\""
+"\"Dobře. *Proč* si myslíte, že to nebylo smrtelné?\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -2973,7 +2968,6 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000045000046B8"
 msgid "Maybe you're imagining it, but there are some remarks in there -- and they're not all negative! You're referred to as 'the 41st' -- by your station number. And..."
 msgstr ""
@@ -3469,11 +3463,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Alternate1/0x0100004500004587"
 msgid "\"Cardiovascular. The body exhibits heavy lividity. Blood has gathered in the hands, feet, and neck. Hypostasis is visually consistent with a hanging."
 msgstr ""
-"\"Kardiovaskulární. Tělo je silně sinalé. Na rukou, nohou a krku se hromadí krev. Hypostáza vizuálně odpovídá oběšení."
+"\"Kardiovaskulární. Tělo je silně sinalé. Na rukou, nohou a krku se hromadí krev. Hypostáza vizuálně odpovídá oběšení.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -3558,7 +3551,6 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004C0000B0FF"
 msgid "Write: 'fucky-fucky'."
 msgstr ""
@@ -4868,11 +4860,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Alternate2/0x0100004500003B52"
 msgid "\"The deceased has a cargo lashing belt around his neck, tied with a hangman's knot. Colour -- yellow; length -- three metres. *Vermillion spirits* is printed on the side.\""
 msgstr ""
-"\"Zesnulý má kolem krku uvazovací pás, s oprátkouu. Barva - žlutá; délka - tři metry. Na boku je vytištěno *Rumělkovy lihoviny.\""
+"\"Zesnulý má kolem krku uvazovací pás, s oprátkouu. Barva - žlutá; délka - tři metry. Na boku je vytištěno *Rumělkovy lihoviny*.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -4891,11 +4882,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Alternate4/0x0100004500003B52"
 msgid "\"The deceased has a belt for airlifting cargo around his neck, tied with a hangman's knot. Colour -- yellow; length -- three metres. *Vermillion spirits* is printed on the side.\""
 msgstr ""
-"\"Zesnulý má na krku pás pro vzdušnou přepravu nákladu, uvázaný na oprátku. Barva - žlutá; délka - tři metry. Na boku je vytištěno *Rumělkovy lihoviny.\""
+"\"Zesnulý má na krku pás pro vzdušnou přepravu nákladu, uvázaný na oprátku. Barva - žlutá; délka - tři metry. Na boku je vytištěno *Rumělkovy lihoviny*.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5013,7 +5003,6 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500004732"
 msgid "And 'the 41st' comes off as a moderately competent detective."
 msgstr ""
@@ -5135,11 +5124,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100002D000000D5"
 msgid "\"The boots were ceramic, vitreous enamel. They were fused to his skin from blood flowing downward postmortem. They were removed postmortem by scavengers.\""
 msgstr ""
-"\"Boty byly keramické, sklovité. Byly spojené s jeho kůží díky krvi stékající posmrtně dolů. Posmrtně je odstranili okradači mrtvol.\"\""
+"\"Boty byly keramické, sklovité. Byly spojené s jeho kůží díky krvi stékající posmrtně dolů. Posmrtně je odstranili okradači mrtvol.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -5356,7 +5344,6 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000450000470C"
 msgid "It's not a glowing review, sorry to say. 'The 41st' -- as you're referred to -- comes across as somewhat less than competent. It's not *explicitly* stated that the lieutenant doesn't trust you, there's just... nothing positive in there."
 msgstr ""
@@ -6347,7 +6334,6 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004C0000B107"
 msgid "Write: 'pigs gonna have sex'."
 msgstr ""
@@ -7701,11 +7687,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500004545"
 msgid "\"Add a request then. We'll know if drugs or poisons remain in his blood...\" He looks at the monster. \"At this stage, I doubt Processing will find anything, even if he was *brimming* with it.\""
 msgstr ""
-"\"Přidejte tedy žádost. Budeme vědět, jestli v jeho krvi zůstaly drogy nebo jedy...\" Podívá se na monstrum. \"V téhle fázi pochybuju, že Technické něco najde, i kdyby jich byl *plný až po okraj.\""
+"\"Přidejte tedy žádost. Budeme vědět, jestli v jeho krvi zůstaly drogy nebo jedy...\" Podívá se na monstrum. \"V téhle fázi pochybuju, že Technické něco najde, i kdyby jich byl *plný až po okraj*.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.
@@ -8450,11 +8435,10 @@ msgstr ""
 #. 2. More talk with inland
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000045000035DA"
 msgid "\"Mondial. Subgroup: Occidental -- as per your observation.\""
 msgstr ""
-"\"Mondial. Podskupina: \"Okcidentální - podle vašeho pozorování.\""
+"\"Mondial. Podskupina: Okcidentální - podle vašeho pozorování.\""
 
 #. Title = YARD / HANGED MAN AUTOPSY
 #. Description = This is phase two of the hanged man, after getting him down.

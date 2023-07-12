@@ -1,6 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022, 2023.
 # phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -908,11 +909,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500001192"
 msgid "\"No, I think he had something precious underneath his clothes. They had to remove the *jeans* we found in the trash to get to it. This kind of armour is often worn *under* fabric.\""
 msgstr ""
-"\"Ne, myslím, že měl pod oblečením něco cenného. Museli mu sundat ty *džíny*, které jsme našli v koši, aby se k tomu dostali. Tento druh zbroje se často nosí *pod oblečením.\""
+"\"Ne, myslím, že měl pod oblečením něco cenného. Museli mu sundat ty *džíny*, které jsme našli v koši, aby se k tomu dostali. Tento druh zbroje se často nosí *pod* oblečením.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -1071,11 +1071,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E927"
 msgid "\"Yes, that's what I said. You'll compromise the coroner's case if you do. So please *don't*.\""
 msgstr ""
-"\"Ano, to jsem řekl. Pokud to uděláte, ohrozíte soudní pitvu. Tak to prosím nedělejte*.\""
+"\"Ano, to jsem řekl. Pokud to uděláte, ohrozíte soudní pitvu. Tak to prosím *nedělejte*.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -1639,11 +1638,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000FB14"
 msgid "\"I don't trust that ladder. The assailants didn't use it. It's rotten and less sturdy than it looks. And I don't see another good way up there.\""
 msgstr ""
-"Tomu žebříku nevěřím. Vrahové ho nepoužili. Je shnilý a ne tak pevný, jak vypadá. A jinou dobrou cestu nahoru nevidím.\""
+"\"Tomu žebříku nevěřím. Vrahové ho nepoužili. Je shnilý a ne tak pevný, jak vypadá. A jinou dobrou cestu nahoru nevidím.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -1856,11 +1854,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E229"
 msgid "\"Give me a moment. I got this. Let's try *again*.\""
 msgstr ""
-"\"Dejte mi chvilku. Mám to. Zkusíme to znovu*.\""
+"\"Dejte mi chvilku. Mám to. Zkusíme to *znovu*.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -2217,11 +2214,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000400011634"
 msgid "But I wasn't trying to teach her a lesson. I was trying to *kill* her."
 msgstr ""
-"Ale já se nesnažil dát jí lekci. Snažil jsem se ji *zabít."
+"Ale já se nesnažil dát jí lekci. Snažil jsem se ji *zabít*."
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -3631,7 +3627,6 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Reaction Speed
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000F61C"
 msgid "What was that -- 'pale yonder'? Do you know what the pale is?"
 msgstr ""
@@ -4316,11 +4311,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x01000004000116F7"
 msgid "\"Okay then.\""
 msgstr ""
-"No dobře."
+"\"No dobře.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -4830,21 +4824,19 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000006000084C5"
 msgid "\"He worked for Krenel -- like Joyce told us. This is military equipment, provided by a wealthy security contractor. With state ties. *Way* above what we have.\""
 msgstr ""
-"\"Pracoval pro Krenel - jak nám řekla Joyce. Tohle je vojenské vybavení, které poskytl bohatý dodavatel bezpečnostních služeb. S vazbami na stát. *Je to mnohem lepší než to, co máme my.\""
+"\"Pracoval pro Krenel - jak nám řekla Joyce. Tohle je vojenské vybavení, které poskytl bohatý dodavatel bezpečnostních služeb. S vazbami na stát. Je to *mnohem lepší* než to, co máme my.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000006000084E7"
 msgid "\"Mhm. It means 'disciplinary hearing'.\" The lieutenant nods, wiping his finger on his sleeve."
 msgstr ""
-"\"Mhm. Znamená to \"disciplinární řízení'.\" Poručík přikývne a otře si prst o rukáv."
+"\"Mhm. Znamená to 'disciplinární řízení'.\" Poručík přikývne a otře si prst o rukáv."
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -5669,11 +5661,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000F36F"
 msgid "\"I think he was upright after death. His hands, feet and neck are discoloured.\""
 msgstr ""
-"\"Myslím, že byl pověšen po smrti. Jeho ruce, nohy a krk jsou bezbarvé."
+"\"Myslím, že byl pověšen po smrti. Jeho ruce, nohy a krk jsou bezbarvé.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -5940,11 +5931,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000400011B5E"
 msgid "\"Is this the famous *list of initial interviews*?"
 msgstr ""
-"\"Je to ten slavný *seznam úvodních výslechů*?"
+"\"Je to ten slavný *seznam úvodních výslechů*?\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -6157,21 +6147,19 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E9E5"
 msgid "\"It's that Constabulatory thing I said before. With the dead guys. I wanna *protect* them.\""
 msgstr ""
-"\"To je ta věc s policajstvem, kterou jsem říkal předtím. S těmi mrtvými. Chci je *chránit.\""
+"\"To je ta věc s policajstvem, kterou jsem říkal předtím. S těmi mrtvými. Chci je *chránit*.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000EAA9"
 msgid "\"One way or *another?* I can't even think of the *one* way... *magic*? *Semenese corpse salt*? Besides...\" The lieutenant taps on the boot."
 msgstr ""
-"\"Tady či *jinde*?\" Ani mě nenapadá, jak by k tomu *jinde*mohlo dojít... *magie*? *Semenská zombie sůl*? Kromě toho...\" Poručík poklepe na botu."
+"\"Tady či *jinde*?\" Ani mě nenapadá, jak by k tomu *jinde* mohlo dojít... *magie*? *Semenská zombie sůl*? Kromě toho...\" Poručík poklepe na botu."
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -6681,11 +6669,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E502"
 msgid "\"Ceramic plate. Zirconium dioxide most likely. This is where the make would be...\""
 msgstr ""
-"\"Keramické destičky. Pravděpodobně oxid zirkoničitý. Tady někde by měla být značka..."
+"\"Keramické destičky. Pravděpodobně oxid zirkoničitý. Tady někde by měla být značka...\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -7231,11 +7218,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000EA2C"
 msgid "\"Better safe than sorry.\""
 msgstr ""
-"Opatrnosti není nikdy dost."
+"\"Opatrnosti není nikdy dost.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -7583,11 +7569,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000004000147D0"
 msgid "\"This had better not turn into another *demonstration* of yours.\""
 msgstr ""
-"\"Doufám, že se z toho nestane další vaše *demonstrace.\""
+"\"Doufám, že se z toho nestane další vaše *demonstrace*.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -7737,11 +7722,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E3DC"
 msgid "\"Ka-ching, baby!\" (Nod to the boots.)"
 msgstr ""
-"\"Jackpot, zlato! (Kývni na boty.)"
+"\"Jackpot, zlato!\" (Kývni na boty.)"
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -8692,7 +8676,6 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Encyclopedia
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000400011845"
 msgid "The Ace's High -- a custom invented by the aerostatic brigades during the Revolution -- is used to celebrate success in Revachol. Especially in sports. The gesture has spread across the world, despite the defeat of the revolutionaries themselves."
 msgstr ""
@@ -8891,11 +8874,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = You
 #. Conversant = The Hanged Man
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E24F"
 msgid "\"But my shit already *is* together!\""
 msgstr ""
-"\"Ale já už *mám* svoje sračky pohromadě."
+"\"Ale já už *mám* svoje sračky pohromadě!\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -9270,11 +9252,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000070001B49D"
 msgid "\"*Or* we could ask around for the representative of the logistics company. My initial information says the Wild Pines have sent some sort of *strike negotiator* to wrangle control back from Evrart.\""
 msgstr ""
-"\"*Nebo se můžeme kolem poptat po zástupci logistické společnosti. Podle mých prvotních informací vyslali Divoké Divoké pinie nějakého *stávkového vyjednavače*, aby si vymohl zpět kontrolu nad Evrartem.\""
+"\"*Nebo* se můžeme kolem poptat po zástupci logistické společnosti. Podle mých prvotních informací vyslali Divoké Divoké pinie nějakého *stávkového vyjednavače*, aby si vymohl zpět kontrolu nad Evrartem.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -9424,11 +9405,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Cuno
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000E9A8"
 msgid "\"I don't know, baby,\" Cuno shrugs. \"I don't know why he's such a f*g.\""
 msgstr ""
-"\"Já nevím, zlato,\" pokrčí rameny Kuno. \"Nevím, proč je to takový f*g.\""
+"\"Já nevím, zlato,\" pokrčí rameny Kuno. \"Nevím, proč je to taková b***a.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -9668,11 +9648,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = The Hanged Man
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100000400011270"
 msgid "With your hand numb from the recoil, you look at the body slump down. For a moment the man appears to *kneel* in front of you."
 msgstr ""
-"S rukou znecitlivělou od zpětného rázu se díváš na tělo, které se sesunulo k zemi. Na okamžik se zdá, že muž před tebou *poklekl."
+"S rukou znecitlivělou od zpětného rázu se díváš na tělo, které se sesunulo k zemi. Na okamžik se zdá, že muž před tebou *poklekl*."
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -9714,11 +9693,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Cunoesse
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040001168C"
 msgid "\"That he's a fucking f****t who misses.\""
 msgstr ""
-"Taková, že je to zkurvený b****t, který nic netrefí.\""
+"\"Taková, že je to zkurvený b****t, který nic netrefí.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -10012,11 +9990,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Cuno
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000040000FA86"
 msgid "\"Pig, why you gotta disrespect my girl? This shit makes Cuno *sad*.\""
 msgstr ""
-"\"Prase, proč musíš znevažovat moji holku? Z těchhle sraček je Kuno smutnej*.\""
+"\"Prase, proč musíš znevažovat moji holku? Z těchhle sraček je Kuno *smutnej*.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -10274,11 +10251,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Cunoesse
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000006000086F5"
 msgid "\"You need to SUCK MY DICK! Why the fuck am I still *alive?!*\""
 msgstr ""
-"\"Vy mi potřebujete vykouřit péro! Proč jsem kurva ještě naživu?!*\""
+"\"Vy mi potřebujete vykouřit péro! Proč jsem kurva ještě *naživu*?!\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
@@ -10329,11 +10305,10 @@ msgstr ""
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500020053"
 msgid "\"The hangover is clearly making this worse for you. You could use some ammonia -- to clear your head.\""
 msgstr ""
-"\"Ta vaše kocovina to očividně zhoršuje. \"Měl byste si trochu čichnout čpavku - abyste si pročistil hlavu.\""
+"\"Ta vaše kocovina to očividně zhoršuje. Měl byste si trochu čichnout čpavku - abyste si pročistil hlavu.\""
 
 #. Title = YARD / HANGED MAN
 #. Description = A corpse hangs from the pine-tree: a middle aged man in white armour boots and tighty whities. A medium PERCEPTION white-check lets you find a bullet hole in the back of his mouth, a low LOGIC white check that he was killed before hanging. A low THOUGHT CABINET w-c sees that the bullet is antique.
