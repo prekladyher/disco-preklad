@@ -990,7 +990,6 @@ msgstr ""
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
 #. Actor = Perception (Sight)
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500018E22"
 msgid "His lips -- moving, swollen with fear -- are trying to say: 'Shoot him, shoot him!', but he can't."
 msgstr ""
@@ -1144,7 +1143,6 @@ msgstr ""
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
 #. Actor = Beautiful Necktie
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500018C52"
 msgid "'I only ever wanted you to have fun, Harry!' it calls out to you. One last time."
 msgstr ""
@@ -1469,11 +1467,10 @@ msgstr ""
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
 #. Actor = Encyclopedia
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004C00018886"
 msgid "*Kipt* is a pejorative term used to describe people of Semenese descent."
 msgstr ""
-"\"Kipt* je pejorativní označení lidí semeninského původu. "
+"*Kipt* je pejorativní označení lidí semeninského původu. "
 
 #. Title = PLAZA / KORTENAER
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
@@ -3720,8 +3717,7 @@ msgstr ""
 #. Description = Previously known as Scab Leader. Wears a huge and intimidating set of armour. He is drunk and pissed off at his friend getting killed. He carries a big-ass gun.
 #. Actor = You
 #. Conversant = Kortenaer
-#, fuzzy
 msgctxt "Dialogue Text/0x01000078000136C4"
 msgid "\"It didn't do *anything*?\" (Look at the gun.)"
 msgstr ""
-"\"Neudělalo to *nic*? (Podívej se na zbraň.)"
+"\"Neudělalo to *nic*?\" (Podívej se na zbraň.)"
