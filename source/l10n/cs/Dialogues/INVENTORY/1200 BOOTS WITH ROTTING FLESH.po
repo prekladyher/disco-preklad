@@ -1,5 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,7 +13,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
@@ -56,11 +58,10 @@ msgstr ""
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.
 #. Actor = Boots with Rotting Flesh
-#, fuzzy
 msgctxt "Dialogue Text/0x01000081000035FF"
 msgid "\"Fairweather T-500 / VE\" is imprinted under each heel."
 msgstr ""
-"Pod každým podpatkem je vytištěno \"Pohoda T-500 / SS."
+"Pod každým podpatkem je vytištěno \"Pohoda T-500 / SS.\""
 
 #. Title = INVENTORY / BOOTS WITH ROTTING FLESH
 #. Description = You can look at these boots closely if you dare.

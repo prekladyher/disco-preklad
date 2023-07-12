@@ -1,5 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022, 2023.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,7 +13,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
@@ -72,7 +74,6 @@ msgstr ""
 #. Title = INVENTORY / LIBRARY CARD
 #. Description = dead working class husband library card
 #. Actor = A Folded Library Card
-#, fuzzy
 msgctxt "Dialogue Text/0x0100007500000B00"
 msgid "Whoever owns this card is an avid reader: you find a list of books written in blue pencil: 'Radiothriller', 'Stand a Little Less Between Me and the Sun'. The last one in the list is 'The Glinting Curve', by M. Thibault. A library stamp indicates that the book has been returned."
 msgstr ""

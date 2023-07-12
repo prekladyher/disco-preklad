@@ -1,5 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -582,7 +584,6 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = You
 #. Conversant = Damaged Ledger
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500002635"
 msgid "Wait... HDB41? Weren't those: 'Officer, precinct'?"
 msgstr ""
@@ -1283,11 +1284,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Logic
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500001BA2"
 msgid "You should turn them on and get in front of those headlights -- see what happens. There may be information on there, a *halogen watermark* he called it."
 msgstr ""
-"Měli bys je zapnout a postavit se před světlomety - uvidíš, co se stane. Může tam být nějaká informace, říkal tomu *halogenový vodoznak."
+"Měli bys je zapnout a postavit se před světlomety - uvidíš, co se stane. Může tam být nějaká informace, říkal tomu *halogenový vodoznak*."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -3594,11 +3594,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Perception (Smell)
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500002AAB"
 msgid "A touch of cinnamon, the end of summer. You think the label says: 'Tutti Frutti'."
 msgstr ""
-"Nádech skořice, konec léta. Myslíš si, že na etiketě je napsáno: \"Tutti Frutti'."
+"Nádech skořice, konec léta. Myslíš si, že na etiketě je napsáno: \"Tutti Frutti\"."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -4197,11 +4196,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = You
 #. Conversant = Damaged Ledger
-#, fuzzy
 msgctxt "Dialogue Text/0x01000045000014D6"
 msgid "Is \"sprinkled liberally with the citrus zest of toilet cleaner\" a line this poet might have used?"
 msgstr ""
-"Mohl ten básník použít větu \"hojně posypaný citrusovou kůrou čističe toalet?"
+"Mohl ten básník použít větu \"hojně posypaný citrusovou kůrou čističe toalet\"?"
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -4338,11 +4336,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = You
 #. Conversant = Damaged Ledger
-#, fuzzy
 msgctxt "Dialogue Text/0x010000450000219A"
 msgid "\"I seem to have named a case \"THE SQUARE BULLET HOLE MURDERS.\""
 msgstr ""
-"\"Zdá se, že jsem jeden případ pojmenoval \"VRAŽDY S HRANATOU DÍROU PO KULCE.\""
+"\"Zdá se, že jsem jeden případ pojmenoval 'VRAŽDY S HRANATOU DÍROU PO KULCE.'\""
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -5627,11 +5624,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Composure
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000045000015B7"
 msgid "Easier said than done -- how could this pathetic mess of copy paper and plastic ever become *très disco*?\""
 msgstr ""
-"Snadněji se to řekne, než udělá - jak by se z téhle ubohé změti kopírovacího papíru a plastu mohlo někdy stát *très disco*?\""
+"Snadněji se to řekne, než udělá - jak by se z téhle ubohé změti kopírovacího papíru a plastu mohlo někdy stát *très disco*?"
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -5642,11 +5638,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Conceptualization
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000450000166E"
 msgid "It is -- look at how basic that thing is! Basic clip, unglamorous toilet-smelling papers. It could do with some *pizzazzo*\" Cheer you right up."
 msgstr ""
-"Je - podívej se, jak je ta věc obyčejná! Obyčejný klip, neokázalé papíry páchnoucí po záchodě. Chtělo by to trochu *šmrncu*\" Hned tě rozveselí."
+"Je - podívej se, jak je ta věc obyčejná! Obyčejný klip, neokázalé papíry páchnoucí po záchodě. Chtělo by to trochu *šmrncu*. Hned tě rozveselí."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -5713,7 +5708,6 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Damaged Ledger
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500001EC7"
 msgid "These are quite sinister in tone. They give a date and time for the person to 'appear' at the specified Precinct Police Station. Below the 'call' are the criminal charges you risk by 'not appearing'."
 msgstr ""
@@ -6568,11 +6562,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x010000450000176D"
 msgid "\"Okay, good.\" There is a moment's silence. \"But *why*?\""
 msgstr ""
-"\"Dobře, dobře.\" Chvíli je ticho. \"Ale proč*?\""
+"\"Dobře, dobře.\" Chvíli je ticho. \"Ale *proč*?\""
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:
@@ -6667,7 +6660,6 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Damaged Ledger
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x01000045000022BB"
 msgid "Right, what more do you need? A rubber condom stuck to the back? A graffito that says 'DEFEATED'? I think you catch the drift."
 msgstr ""
@@ -8231,11 +8223,10 @@ msgstr ""
 #. 5. toilet smell
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100004500001C30"
 msgid "The lieutenant looks at his blue notebook. *Two* fat, shiny pens hang from the binder, like large calibre bullets on an ammo belt."
 msgstr ""
-"Poručík se podívá do svého modrého zápisníku. *Z pořadače visí dvě tlustá lesklá pera jako náboje velké ráže na nábojovém pásu."
+"Poručík se podívá do svého modrého zápisníku. Z pořadače visí *dvě* tlustá lesklá pera jako náboje velké ráže na nábojovém pásu."
 
 #. Title = INVENTORY / LEDGER OF FAILURE
 #. Description = Perform a closer inspection of the ledger found in the trash (your official paperwork). Find:

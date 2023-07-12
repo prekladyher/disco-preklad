@@ -1,5 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022, 2023.
 # dwa2 <krystoflasek@gmail.com>, 2023.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -148,7 +150,6 @@ msgstr ""
 #. Title = INVENTORY / NOTE FROM THE FRIDGE
 #. Description = Read the note you found from the giant ice bear fridge in the doomed commercial area.
 #. Actor = A Note from the Fridge
-#, fuzzy
 msgctxt "Dialogue Text/0x0100007000005EA1"
 msgid "According to the note, someone named 'Sulisław'."
 msgstr ""
@@ -372,11 +373,10 @@ msgstr ""
 #. Description = Read the note you found from the giant ice bear fridge in the doomed commercial area.
 #. Actor = You
 #. Conversant = A Note from the Fridge
-#, fuzzy
 msgctxt "Dialogue Text/0x0100007000005E05"
 msgid "Who wrote that note?"
 msgstr ""
-"Kdo napsal ten vzkaz?\""
+"Kdo napsal ten vzkaz?"
 
 #. Title = INVENTORY / NOTE FROM THE FRIDGE
 #. Description = Read the note you found from the giant ice bear fridge in the doomed commercial area.

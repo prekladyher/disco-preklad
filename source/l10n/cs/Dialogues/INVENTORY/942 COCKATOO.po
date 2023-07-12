@@ -1,5 +1,7 @@
 # dwa2 <krystoflasek@gmail.com>, 2022.
 # Drakefran <drakefranddrakefran@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,7 +12,7 @@ msgstr ""
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.12.2\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. Title = INVENTORY / COCKATOO
 #. Description = From A to Zrieek! Guide to a Well-Behaved Cockatoo. After you have bought it. (Helen)
@@ -287,7 +289,6 @@ msgstr ""
 #. Title = INVENTORY / COCKATOO
 #. Description = From A to Zrieek! Guide to a Well-Behaved Cockatoo. After you have bought it. (Helen)
 #. Actor = From A to Zrieek! A Guide To a Well-Behaved Cockatoo
-#, fuzzy
 msgctxt "Dialogue Text/0x0100005700022AEB"
 msgid "Where to even begin? All cockatoos are known for their needy natures, requiring attention for at least two full hours a day. They love to talk, and have been described as 'loveable clowns who just don't know how to wrap up'."
 msgstr ""

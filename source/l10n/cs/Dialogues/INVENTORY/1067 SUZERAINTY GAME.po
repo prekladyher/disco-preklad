@@ -1,5 +1,7 @@
 # Drakefran <drakefranddrakefran@gmail.com>, 2022.
 # dwa2 <krystoflasek@gmail.com>, 2022.
+# phsquad, 2023.
+# phsquad, 2023.
 msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
@@ -574,7 +576,6 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = You
 #. Conversant = Suzerainty: The Board Game
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E00005C25"
 msgid "You're going to say 'drugs,' aren't you?"
 msgstr ""
@@ -890,7 +891,6 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Suzerainty: The Board Game
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E00004D3C"
 msgid "Using your powers of 'persuasion', you 'convince' more workers to join your cause..."
 msgstr ""
@@ -1125,11 +1125,10 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Kim Kitsuragi
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E00004EB3"
 msgid "\"You do realize the game is called *Suzerainty* and not *Workers' Paradise*, right?\""
 msgstr ""
-"\"Uvědomuješ si, že ta hra se jmenuje *Suzerenita* a ne *Dělnický ráj?\""
+"\"Uvědomuješ si, že ta hra se jmenuje *Suzerenita* a ne *Dělnický ráj*?\""
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -1360,11 +1359,10 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Reaction Speed
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E00001578"
 msgid "As you leaf through the pages, your eye catches on a sidebar labelled 'ADVICE FOR BEGINNERS'."
 msgstr ""
-"Jak listuješ stránkami zaujme tě postranní panel s nápisem \"RADY PRO ZAČÁTEČNÍKY'."
+"Jak listuješ stránkami zaujme tě postranní panel s nápisem \"RADY PRO ZAČÁTEČNÍKY\"."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2504,7 +2502,6 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Suzerainty: The Board Game
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E0000156B"
 msgid "Suzerainty is a family game. The only 'atrocities' you'll be committing are against the social standing of your rival administrators, as you bring in ever more resources and power for the suzerain. Speaking of..."
 msgstr ""
@@ -2721,11 +2718,10 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Suzerainty: The Board Game
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E000014C6"
 msgid "'Welcome to Suzerainty: A game of economic strategy for the whole family!' The rulebook is sumptuously illustrated and thick as a Graadian novel."
 msgstr ""
-"\"Vítejte v Suzerenitě: hře hospodářské strategie pro celou rodinu! Kniha pravidel je bohatě ilustrovaná a tlustá jako graadský román."
+"\"Vítejte v Suzerenitě: hře hospodářské strategie pro celou rodinu!\" Kniha pravidel je bohatě ilustrovaná a tlustá jako graadský román."
 
 #. Title = INVENTORY / SUZERAINTY GAME
 #. Description = Information about: colonies of Revachol.
@@ -2911,7 +2907,6 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Suzerainty: The Board Game
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E000014BA"
 msgid "The 'Suzerainty' box is heavy and slightly awkward in your hands. You give it a light shake, and feel the pieces shift around inside."
 msgstr ""
@@ -2921,7 +2916,6 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = You
 #. Conversant = Suzerainty: The Board Game
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E000014CD"
 msgid "'Economic strategy'? More like rapacious plunder and exploitation."
 msgstr ""
@@ -2958,7 +2952,6 @@ msgstr ""
 #. Description = Information about: colonies of Revachol.
 #. Actor = Rhetoric
 #. Conversant = You
-#, fuzzy
 msgctxt "Dialogue Text/0x0100008E0000157F"
 msgid "You begin to suspect there may be a *political* agenda to this so-called 'family game'. Only one way to find out..."
 msgstr ""
