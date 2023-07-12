@@ -51,7 +51,7 @@ function fixDash(entry) {
 }
 
 function fixEllipsis(entry) {
-  const fixed = entry.msgstr.replaceAll(/(\.*).../g, "$1…");
+  const fixed = entry.msgstr.replaceAll(/(\.*)\.\.\./g, "$1…");
   if (fixed === entry.msgstr) {
     return false;
   }
