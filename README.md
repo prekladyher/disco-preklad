@@ -96,7 +96,7 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
 * `sharedassets0.assets`
    * JSON soubory z `source/asset` (toto je nutné dělat nad assetem ve složce hry)
 * `sharedassets7.assets`
-   * obrázky z `source/asset`
+   * obrázky z `source/images`
 * `StreamingAssets/AssetBundles/Windows/collage/shared`
    * `CollageModeLockit` z `target/assets`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
