@@ -9,7 +9,9 @@ const validationChecks = Object.entries({
   "leading-whitespace": entry => entry.msgstr.match(/\n /g)?.length === entry.msgid.match(/\n /g)?.length,
   "even-quotes": entry => (entry.msgstr.match(/["„“‚‘]/g)?.length || 0) % 2 === 0,
   "empty-quotes": entry => (entry.msgstr.match(/(?:„“|""|‚‘)/g)?.length || 0) === 0,
-  "ellipsis-space": entry => (entry.msgstr.match(/[^"„“‚‘ *](?:\.\.\.|…)[^\s*"'“‘?!)]+/g)?.length || 0) === 0
+  "ellipsis-space": entry => (entry.msgstr.match(/[^"„“‚‘ *](?:\.\.\.|…)[^\s*"'“‘?!)]+/g)?.length || 0) === 0,
+  "quoteception": entry => (entry.msgstr.match(/["„][^"“]+["“]\p{Letter}/g)?.length || 0) === 0,
+  "quote-space": entry => (entry.msgstr.match(/(?:„ | “)/g)?.length || 0) === 0,
 });
 
 function validateEntry(entry, overrides) {
