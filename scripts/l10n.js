@@ -7,6 +7,11 @@ import { autofixL10n } from "./l10n/autofix.js";
 import { copySource } from "./l10n/copy.js";
 import { calcStats, extractAsset, saveStats, validateL10n } from "./l10n/main.js";
 import { mergeL10n } from "./l10n/merge.js";
+import { default as Spellchecker } from "hunspell-spellchecker";
+import { readFile } from "fs/promises";
+import { loadFileTree } from "./l10n/utils.js";
+import { decodeEntries } from "./text/main.js";
+import { join } from "path";
 
 (await import("dotenv")).config();
 
@@ -71,6 +76,30 @@ program.command("validate")
     });
     if (result.length) {
       process.exit(1);
+    }
+  });
+
+program.command("spellcheck")
+  .argument("<base>", "base path (file or directory)")
+  .action(async (base) => {
+    const checker = new Spellchecker();
+    checker.use(checker.parse({
+      aff: await readFile("./target/check/cs_CZ.aff"),
+      dic: await readFile("./target/check/cs_CZ.dic")
+    }));
+    for (const file of await loadFileTree(base, "")) {
+      decodeEntries(await readFile(join(base, file), "utf-8"))
+        .filter(entry => entry.msgctxt && entry.msgstr)
+        .forEach(entry => {
+          const errors = [];
+          entry.msgstr
+            .split(/[^\p{L}]+/u)
+            .filter(word => /\w/u.test(word))
+            .forEach(word => checker.check(word) || errors.push(word));
+          if (errors.length) {
+            console.log(`${file}\t${entry.msgctxt}\t${errors.join(" ")}`);
+          }
+        });
     }
   });
 
