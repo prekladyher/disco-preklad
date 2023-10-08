@@ -35,7 +35,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A794"
 msgid "\"... equals equals false, close brackets, equals equals true?\""
 msgstr ""
-"„…stejné hodnoty rovnají se false, zavřít závorku, stejné hodnoty rovnají se true?“"
+"„…rovná se, rovná se, nepravda, konec závorky, rovná se, rovná se, pravda?“"
 
 #. Title = ICE / SOONA barks
 #. Description = Things Noid says inside the church.
@@ -43,7 +43,7 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A802"
 msgid "“What about... '1 <= getResult() and and getResult() <= getNumSides()'...?”"
 msgstr ""
-"„Co takhle… ‚1 <= getResult() and and getResult() <= getNumSides()‘…?“"
+"„Co takhle… ‚1 <= vysledky() a zároveň vysledky() <= pocetStran()‘…?“"
 
 #. Title = ICE / SOONA barks
 #. Description = Things Noid says inside the church.
@@ -59,4 +59,4 @@ msgstr ""
 msgctxt "Dialogue Text/0x010000070001A808"
 msgid "\"What do you mean 'file not found'?\""
 msgstr ""
-"„Jak jak *soubor nenalezen*?“"
+"„Jak to myslíš *soubor nenalezen*?“"
