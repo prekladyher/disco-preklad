@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 4972
+    "m_PathID": 4976
   },
   "m_Name": "1 - MEDIUM",
   "proflieName": "MEDIUM",
@@ -65,6 +65,11 @@
             "languageCode": "tr",
             "minFontSize": 58,
             "maxFontSize": 61
+          },
+          {
+            "languageCode": "ar",
+            "minFontSize": 46,
+            "maxFontSize": 50
           }
         ]
       }
@@ -267,6 +272,10 @@
           {
             "languageCode": "en",
             "fontSize": 68
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 48
           }
         ]
       }
@@ -284,6 +293,11 @@
             "languageCode": "ru",
             "minFontSize": 18,
             "maxFontSize": 50
+          },
+          {
+            "languageCode": "ar",
+            "minFontSize": 60,
+            "maxFontSize": 80
           }
         ]
       }
@@ -319,6 +333,10 @@
           {
             "languageCode": "zh",
             "fontSize": 24
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 18
           }
         ]
       }
@@ -333,6 +351,10 @@
           },
           {
             "languageCode": "ru",
+            "fontSize": 60
+          },
+          {
+            "languageCode": "ar",
             "fontSize": 60
           }
         ]
@@ -458,6 +480,10 @@
           {
             "languageCode": "en",
             "fontSize": 26
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -691,6 +717,10 @@
           {
             "languageCode": "ru",
             "fontSize": 22
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 15
           }
         ]
       }
@@ -702,6 +732,10 @@
           {
             "languageCode": "en",
             "fontSize": 22
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 20
           }
         ]
       }
@@ -713,6 +747,10 @@
           {
             "languageCode": "en",
             "fontSize": 20
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 18
           }
         ]
       }
@@ -724,6 +762,10 @@
           {
             "languageCode": "en",
             "fontSize": 22
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 20
           }
         ]
       }
@@ -735,6 +777,10 @@
           {
             "languageCode": "en",
             "fontSize": 25
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 20
           }
         ]
       }
@@ -775,6 +821,10 @@
           },
           {
             "languageCode": "ru",
+            "fontSize": 57
+          },
+          {
+            "languageCode": "ar",
             "fontSize": 57
           }
         ]
@@ -843,6 +893,11 @@
           {
             "languageCode": "en",
             "minFontSize": 18,
+            "maxFontSize": 24
+          },
+          {
+            "languageCode": "ar",
+            "minFontSize": 16,
             "maxFontSize": 24
           }
         ]
@@ -1076,6 +1131,10 @@
           {
             "languageCode": "de",
             "fontSize": 24
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -1087,6 +1146,10 @@
           {
             "languageCode": "en",
             "fontSize": 36
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 26
           }
         ]
       }
@@ -1098,6 +1161,10 @@
           {
             "languageCode": "en",
             "fontSize": 18
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 19
           }
         ]
       }
@@ -1108,6 +1175,10 @@
         "Array": [
           {
             "languageCode": "en",
+            "fontSize": 20
+          },
+          {
+            "languageCode": "ar",
             "fontSize": 20
           }
         ]

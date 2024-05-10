@@ -5,11 +5,12 @@ Toto je projekt pro český fanouškovský překlad hry Disco Elysium.
 ## Rozdělení složek
 
 * `scripts/` - NodeJS skripty pro práci s projektem
-* `shadow/` - zdrojové binární assety hry (není součástí repa)
+* `shadow/` - zdrojové binární assety hry pro sestavování překladu
 * `source/` - zdrojové soubory pro překlad
   * `asset/` - ručně upravené assety v UABEA JSON formátu
   * `data/` - doplňující soubory pro překlad
   * `deepl/` - strojově přeložená varianta
+  * `game/` - herní soubory případnou analýzu a zpracování
   * `image/` - lokalizované obrázky
   * `l10n/` - překladové soubory
 
@@ -27,47 +28,34 @@ instalace závislostí pomocí příkazu `npm install`).
 Skript `game.js` umožnuje pracovat s _asset_ soubory.
 
 Herní soubory je nutné ručně extrahovat pomocí nástroje [UBAEA](https://github.com/nesrak1/UABEA) do
-složky `source/shadow/`. Očekávaná struktura souborů je:
+složky `source/game/`. Očekávaná struktura souborů je:
 
 ```
-shadow/
-  bundles/                              # záloha originálních asset bundles
-    StreamingAssets/
-      aa/
-        StandaloneWindows64/
-          dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80.bundle
-    AssetBundles/
-      Windows/
-        collage/
-          shared
-        fonts/
-          english
-        images/
-          english
-    resources.assets
-    sharedassets0.assets
-    sharedassets7.assets
-  dialogue/                             # asset soubor s dialogy
-    Disco Elysium-CAB-488686e4642587fb31dc3dd346adc95c-927362143329065976.dat
-  images/                               # obrázky z sharedassets0 a sharedassets7
-    # ... obrázky viz source/images ...
-  lockits/                              # překladové soubory
-    CollageModeLockit-CAB-cbdc6b46a1a0865505e5c2891762cc7c-169245347535649662.dat
-    GeneralLockitEnglish-resources.assets-3000.dat
+source/game/en/
+  {DISCO_DATA}/StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all* → DialogueDatabase.dat
+  {DISCO_DATA}/resources.assets → FontsLockitEnglish.dat
+  {DISCO_DATA}/resources.assets → GeneralLockitEnglish.dat
+  {DISCO_DATA}/resources.assets → ImagesLockitEnglish.dat
+source/game/{lang}
+  {DISCO_DATA}/StreamingAssets/AssetBundles/Windows/lockits/{language} → DialogueLockit{Language}.dat
+  {DISCO_DATA}/StreamingAssets/AssetBundles/Windows/lockits/{language} → FontsLockit{Language}.dat
+  {DISCO_DATA}/StreamingAssets/AssetBundles/Windows/lockits/{language} → GeneralLockit{Language}.dat
+  {DISCO_DATA}/StreamingAssets/AssetBundles/Windows/lockits/{language} → ImagesLockit{Language}.dat
 ```
+
 
 Pomocí `game.js` je možné exportovat databázi postav, předmětů a data pro konkrétní konverzaci:
 
 ```shell
-node scripts/game.js read -jp '$.actors' DialogueDatabase shadow/dialogue/Disco*.dat > actors.json
-node scripts/game.js read -jp '$.items' DialogueDatabase shadow/dialogue/Disco*.dat > items.json
-node scripts/game.js read -jp '$.conversations[665]' DialogueDatabase shadow/dialogue/Disco*.dat > conversation.json
+node scripts/game.js read -jp '$.actors' DialogueDatabase source/game/en/Disco*.dat > actors.json
+node scripts/game.js read -jp '$.items' DialogueDatabase source/game/en/Disco*.dat > items.json
+node scripts/game.js read -jp '$.conversations[665]' DialogueDatabase source/game/en/Disco*.dat > conversation.json
 ```
 
 Zobrazení datové struktury lokalizačních dat:
 
 ```shell
-node scripts/game.js read -j LanguageSourceAsset shadow/lockits/GeneralLockit*.dat > general-en.json
+node scripts/game.js read -j LanguageSourceAsset source/game/en/GeneralLockit*.dat > general-en.json
 ```
 
 ### Práce s překladovými soubory
@@ -96,7 +84,7 @@ Obsah složky by měl být následující:
 * `images/` - složka s původními PNG texturami
   * UABEA export textur z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`
   * UABEA export textur z `disco_Data/resources.assets` (`button-cont-psy`)
-  * UABEA export textur z `disco_Data/sharedassets7.assets` (`viscal-fencecrash`, `viscal-footprints-label_8PAIRS`, `viscal-footprints-label-FOOTPRINTS`, `viscal-nest`, `viscal-amaran`)
+  * UABEA export textur z `disco_Data/sharedassets7.assets` (`viscal-fencecrash`, `viscal-footprints-label_8PAIRS`, `viscal-footprints-label-FOOTPRINTS`, `viscal-nest`, `viscal-samaran`)
 * `lockits/` - složka původními lockit assety
   * UABEA export z `disco_Data/resources.assets` (`GeneralLockitEnglish`)
   * UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/collage/shared` (`CollageModeLockit`)

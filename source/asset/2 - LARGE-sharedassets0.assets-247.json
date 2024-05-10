@@ -6,10 +6,10 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 4972
+    "m_PathID": 4976
   },
-  "m_Name": "0 - SMALL",
-  "proflieName": "SMALL",
+  "m_Name": "2 - LARGE",
+  "proflieName": "LARGE",
   "mainMenuProfile": {
     "ViewName": "Main Menu",
     "mainMenuButtons": {
@@ -65,6 +65,11 @@
             "languageCode": "tr",
             "minFontSize": 58,
             "maxFontSize": 61
+          },
+          {
+            "languageCode": "ar",
+            "minFontSize": 46,
+            "maxFontSize": 50
           }
         ]
       }
@@ -78,7 +83,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 36
           }
         ]
       }
@@ -89,7 +94,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 36
           }
         ]
       }
@@ -100,23 +105,23 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           },
           {
             "languageCode": "ko",
-            "fontSize": 18
+            "fontSize": 32
           },
           {
             "languageCode": "pt-BR",
-            "fontSize": 18
+            "fontSize": 32
           },
           {
             "languageCode": "fr",
-            "fontSize": 18
+            "fontSize": 32
           },
           {
             "languageCode": "ru",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -127,14 +132,14 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 26
           }
         ]
       }
     },
     "optionElementHeight": {
       "textElementID": "options_elementHeight",
-      "height": 26.0
+      "height": 40.0
     }
   },
   "controllerHelpMenuProfile": {
@@ -145,7 +150,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 24
+            "fontSize": 28
           }
         ]
       }
@@ -170,7 +175,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 26
+            "fontSize": 36
           }
         ]
       }
@@ -181,7 +186,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 36
           }
         ]
       }
@@ -192,7 +197,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 21
+            "fontSize": 25
           },
           {
             "languageCode": "es",
@@ -226,7 +231,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -237,25 +242,25 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 28
           }
         ]
       }
     },
     "dayRect": {
       "textElementID": "saveLoad_dayRect",
-      "anchoredPositionX": -112.0,
-      "sizeDeltaX": 102.0
+      "anchoredPositionX": -125.0,
+      "sizeDeltaX": 230.0
     },
     "hourRect": {
       "textElementID": "saveLoad_hourRect",
-      "anchoredPositionX": -32.0,
-      "sizeDeltaX": 56.0
+      "anchoredPositionX": -45.0,
+      "sizeDeltaX": 86.0
     },
     "saveName": {
       "textElementID": "saveLoad_saveNameRect",
       "anchoredPositionX": 8.0,
-      "sizeDeltaX": 580.0
+      "sizeDeltaX": 510.0
     }
   },
   "archetypeSelectionProfile": {
@@ -267,6 +272,10 @@
           {
             "languageCode": "en",
             "fontSize": 68
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 60
           }
         ]
       }
@@ -278,12 +287,17 @@
           {
             "languageCode": "en",
             "minFontSize": 18,
-            "maxFontSize": 46
+            "maxFontSize": 60
           },
           {
             "languageCode": "ru",
             "minFontSize": 18,
-            "maxFontSize": 30
+            "maxFontSize": 60
+          },
+          {
+            "languageCode": "ar",
+            "minFontSize": 70,
+            "maxFontSize": 100
           }
         ]
       }
@@ -295,7 +309,7 @@
           {
             "languageCode": "en",
             "minFontSize": 18,
-            "maxFontSize": 26
+            "maxFontSize": 40
           }
         ]
       }
@@ -306,7 +320,23 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 28
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "zh-TW",
+            "fontSize": 27
+          },
+          {
+            "languageCode": "zh",
+            "fontSize": 27
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 18
           }
         ]
       }
@@ -317,6 +347,14 @@
         "Array": [
           {
             "languageCode": "en",
+            "fontSize": 66
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 60
+          },
+          {
+            "languageCode": "ar",
             "fontSize": 60
           }
         ]
@@ -328,7 +366,23 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 26
+            "fontSize": 30
+          },
+          {
+            "languageCode": "fr",
+            "fontSize": 28
+          },
+          {
+            "languageCode": "pt-BR",
+            "fontSize": 32
+          },
+          {
+            "languageCode": "zh-TW",
+            "fontSize": 44
+          },
+          {
+            "languageCode": "zh",
+            "fontSize": 44
           }
         ]
       }
@@ -353,7 +407,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 26
+            "fontSize": 32
           }
         ]
       }
@@ -394,7 +448,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 24
+            "fontSize": 26
           }
         ]
       }
@@ -406,7 +460,7 @@
           {
             "languageCode": "en",
             "minFontSize": 32,
-            "maxFontSize": 36
+            "maxFontSize": 40
           }
         ]
       }
@@ -418,7 +472,7 @@
           {
             "languageCode": "en",
             "minFontSize": 20,
-            "maxFontSize": 20
+            "maxFontSize": 31
           }
         ]
       }
@@ -429,7 +483,19 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 29
+          },
+          {
+            "languageCode": "ja",
+            "fontSize": 26
+          },
+          {
+            "languageCode": "ko",
+            "fontSize": 26
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -440,7 +506,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 26
           }
         ]
       }
@@ -473,7 +539,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 24
           }
         ]
       }
@@ -484,7 +550,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 36
           }
         ]
       }
@@ -517,7 +583,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 26
           }
         ]
       }
@@ -528,7 +594,15 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 26
+          },
+          {
+            "languageCode": "pl",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "tr",
+            "fontSize": 21
           }
         ]
       }
@@ -551,7 +625,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -562,7 +636,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           },
           {
             "languageCode": "zh",
@@ -577,7 +651,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -588,11 +662,23 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 26
           },
           {
             "languageCode": "ru",
-            "fontSize": 13
+            "fontSize": 17
+          },
+          {
+            "languageCode": "de",
+            "fontSize": 23
+          },
+          {
+            "languageCode": "pl",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "tr",
+            "fontSize": 24
           }
         ]
       }
@@ -614,7 +700,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 36
           }
         ]
       }
@@ -625,7 +711,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -663,6 +749,10 @@
           {
             "languageCode": "ru",
             "fontSize": 22
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 15
           }
         ]
       }
@@ -673,7 +763,11 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 26
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -684,6 +778,10 @@
         "Array": [
           {
             "languageCode": "en",
+            "fontSize": 22
+          },
+          {
+            "languageCode": "ar",
             "fontSize": 20
           }
         ]
@@ -695,7 +793,11 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 26
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -706,7 +808,11 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 29
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 21
           }
         ]
       }
@@ -748,6 +854,10 @@
           {
             "languageCode": "ru",
             "fontSize": 57
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 57
           }
         ]
       }
@@ -758,7 +868,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 16
+            "fontSize": 25
           }
         ]
       }
@@ -769,7 +879,11 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
+          },
+          {
+            "languageCode": "ja",
+            "fontSize": 28
           }
         ]
       }
@@ -780,7 +894,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -791,8 +905,8 @@
         "Array": [
           {
             "languageCode": "en",
-            "minFontSize": 17,
-            "maxFontSize": 18
+            "minFontSize": 30,
+            "maxFontSize": 32
           }
         ]
       }
@@ -815,7 +929,12 @@
           {
             "languageCode": "en",
             "minFontSize": 18,
-            "maxFontSize": 26
+            "maxFontSize": 32
+          },
+          {
+            "languageCode": "ar",
+            "minFontSize": 16,
+            "maxFontSize": 32
           }
         ]
       }
@@ -826,7 +945,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 26
           }
         ]
       }
@@ -837,7 +956,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 36
           },
           {
             "languageCode": "zh",
@@ -867,7 +986,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 22
+            "fontSize": 24
           }
         ]
       }
@@ -904,7 +1023,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 36
           }
         ]
       }
@@ -915,7 +1034,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 24
+            "fontSize": 32
           }
         ]
       }
@@ -926,7 +1045,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -984,7 +1103,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 36
           }
         ]
       }
@@ -995,7 +1114,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 30
+            "fontSize": 32
           }
         ]
       }
@@ -1006,7 +1125,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 30
+            "fontSize": 36
           }
         ]
       }
@@ -1017,7 +1136,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 26
           }
         ]
       }
@@ -1028,7 +1147,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 36
           }
         ]
       }
@@ -1048,6 +1167,14 @@
           {
             "languageCode": "de",
             "fontSize": 24
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -1059,6 +1186,10 @@
           {
             "languageCode": "en",
             "fontSize": 36
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 26
           }
         ]
       }
@@ -1069,7 +1200,15 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 14
+            "fontSize": 20
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 16
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 19
           }
         ]
       }
@@ -1080,7 +1219,39 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 26
+          },
+          {
+            "languageCode": "pl",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "de",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "ru",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "fr",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "zh",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "zh-TW",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "ja",
+            "fontSize": 24
+          },
+          {
+            "languageCode": "ar",
+            "fontSize": 24
           }
         ]
       }
@@ -1094,8 +1265,8 @@
         "Array": [
           {
             "languageCode": "en",
-            "minFontSize": 20,
-            "maxFontSize": 20
+            "minFontSize": 34,
+            "maxFontSize": 36
           }
         ]
       }
@@ -1106,7 +1277,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 32
           }
         ]
       }
@@ -1118,7 +1289,7 @@
           {
             "languageCode": "en",
             "minFontSize": 18,
-            "maxFontSize": 18
+            "maxFontSize": 36
           }
         ]
       }
@@ -1129,7 +1300,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 24
+            "fontSize": 32
           }
         ]
       }
@@ -1155,7 +1326,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 36
           }
         ]
       }
@@ -1163,22 +1334,22 @@
     "paragraph": {
       "textElementID": "newspaper_paragraph",
       "localPosition": {
-        "x": -172.6624,
+        "x": -56.94434,
         "y": 62.57791,
         "z": 0.0
       },
       "anchoredPosition": {
-        "x": -172.6624,
+        "x": -56.94434,
         "y": 62.57791
       },
       "sizeDelta": {
-        "x": -790.8064,
+        "x": -559.3702,
         "y": -163.5363
       }
     },
     "backgroundCoverEnabled": {
       "textElementID": "newspaper_backgroundCoverEnabled",
-      "isEnabled": 0
+      "isEnabled": 1
     }
   },
   "collageModeProfile": {
@@ -1189,7 +1360,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 15
+            "fontSize": 28
           }
         ]
       }
@@ -1201,7 +1372,7 @@
           {
             "languageCode": "en",
             "minFontSize": 18,
-            "maxFontSize": 32
+            "maxFontSize": 42
           }
         ]
       }
@@ -1212,7 +1383,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 20
+            "fontSize": 28
           }
         ]
       }
@@ -1223,7 +1394,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 18
+            "fontSize": 28
           }
         ]
       }
@@ -1234,7 +1405,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 24
+            "fontSize": 32
           }
         ]
       }
@@ -1245,7 +1416,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 32
+            "fontSize": 48
           }
         ]
       }
@@ -1257,7 +1428,7 @@
           {
             "languageCode": "en",
             "minFontSize": 16,
-            "maxFontSize": 24
+            "maxFontSize": 32
           }
         ]
       }
@@ -1268,7 +1439,7 @@
         "Array": [
           {
             "languageCode": "en",
-            "fontSize": 26
+            "fontSize": 36
           }
         ]
       }
