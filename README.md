@@ -5,8 +5,13 @@ Toto je projekt pro český fanouškovský překlad hry Disco Elysium.
 ## Rozdělení složek
 
 * `scripts/` - NodeJS skripty pro práci s projektem
-* `source/game/` - zdrojové binární assety hry (není součástí repa)
-* `source/l10n/` - překladové soubory strukturované dle jazyka
+* `shadow/` - zdrojové binární assety hry (není součástí repa)
+* `source/` - zdrojové soubory pro překlad
+  * `asset/` - ručně upravené assety v UABEA JSON formátu
+  * `data/` - doplňující soubory pro překlad
+  * `deepl/` - strojově přeložená varianta
+  * `image/` - lokalizované obrázky
+  * `l10n/` - překladové soubory
 
 ## Skripty v projektu
 
