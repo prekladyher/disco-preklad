@@ -4,216 +4,232 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en"
 
-msgctxt "Collage/CHARACTER"
-msgid "Characters"
+msgctxt "Collage/ACHIEVEMENT"
+msgid "Achievements"
 msgstr ""
 
-msgctxt "Collage/Actors/HARRIER_DU_BOIS"
-msgid "Harrier Du Bois"
+msgctxt "Collage/ACHIEVEMENT/ALL_HIDDEN"
+msgid "Restore all of the hidden photos"
 msgstr ""
 
-msgctxt "Collage/Actors/MONEY_MAN"
-msgid "Money Man"
+msgctxt "Collage/ACHIEVEMENT/FACADE"
+msgid "Priceless Facade"
 msgstr ""
 
-msgctxt "Collage/Actors/TARE_DRUNKESS"
-msgid "Tare Drunkess"
+msgctxt "Collage/ACHIEVEMENT/FIRE"
+msgid "Surely, it can be killed with fire"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/GENTRIFICATION"
+msgid "Money-smooth streets of gentrification"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/GLIMPSE"
+msgid "Glimpse it while you can"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/OLD_FLAME"
+msgid "Old Flame"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/PROGRESS"
+msgid "Looks Like Progress"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/PROVENANCE"
+msgid "Now For A Difficult Provenance"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/SPECTRES"
+msgid "Spectres of Hope"
+msgstr ""
+
+msgctxt "Collage/ACHIEVEMENT/WHEELS"
+msgid "Spinning its wheels"
+msgstr ""
+
+msgctxt "Collage/Actors/BABE1"
+msgid "Measurehead's Babe 1"
+msgstr ""
+
+msgctxt "Collage/Actors/BABE2"
+msgid "Measurehead's Babe 2"
+msgstr ""
+
+msgctxt "Collage/Actors/BABE3"
+msgid "Measurehead's Babe 3"
 msgstr ""
 
 msgctxt "Collage/Actors/DRUNK_WORKER"
 msgid "Drunk Worker"
 msgstr ""
 
-msgctxt "Collage/Actors/SAKE_SUNRISE"
-msgid "Sake Sunrise"
+msgctxt "Collage/Actors/HARRIER_DU_BOIS"
+msgid "Harrier Du Bois"
 msgstr ""
 
 msgctxt "Collage/Actors/LANDLADY"
 msgid "Landlady"
 msgstr ""
 
+msgctxt "Collage/Actors/MONEY_MAN"
+msgid "Money Man"
+msgstr ""
+
+msgctxt "Collage/Actors/SAKE_SUNRISE"
+msgid "Sake Sunrise"
+msgstr ""
+
+msgctxt "Collage/Actors/SCAB1"
+msgid "Scab 1"
+msgstr ""
+
+msgctxt "Collage/Actors/SCAB2"
+msgid "Scab 2"
+msgstr ""
+
 msgctxt "Collage/Actors/SPONSOR"
 msgid "Sponsor"
 msgstr ""
 
-msgctxt "Collage/UI"
-msgid "UI"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP"
-msgid "Tooltips"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/DRAG_CHARACTER"
-msgid "Select / drag character"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/DRAG_STICKER"
-msgid "Select / drag sticker"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/DRAG_FRAGMENT"
-msgid "Select / drag fragment"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/FONT"
-msgid "Font"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/SIZE"
-msgid "Size"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/WEIGHT"
-msgid "Weight"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/SMALL"
-msgid "Small"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/MEDIUM"
-msgid "Medium"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/BIG"
-msgid "Big"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/THIN"
-msgid "Thin"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/BOLD"
-msgid "Bold"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/TEXT_COLOR"
-msgid "Text Color"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/BORDER_COLOR"
-msgid "Border Color"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/STICKER"
-msgid "Sticker"
+msgctxt "Collage/Actors/TARE_DRUNKESS"
+msgid "Tare Drunkess"
 msgstr ""
 
 msgctxt "Collage/BUTTON"
 msgid "Buttons"
 msgstr ""
 
-msgctxt "Collage/BUTTON/COLLAGE"
-msgid "Collage"
-msgstr ""
-
-msgctxt "Collage/BUTTON/REMOVE"
-msgid "Remove"
-msgstr ""
-
-msgctxt "Collage/BUTTON/EDIT"
-msgid "Edit"
-msgstr ""
-
-msgctxt "Collage/BUTTON/DONE"
-msgid "Done"
-msgstr ""
-
-msgctxt "Collage/BUTTON/MOVE"
-msgid "Move"
-msgstr ""
-
-msgctxt "Collage/BUTTON/ROTATE"
-msgid "Rotate"
-msgstr ""
-
-msgctxt "Collage/BUTTON/SCALE"
-msgid "Scale"
-msgstr ""
-
-msgctxt "Collage/BUTTON/SET_LOCATION"
-msgid "Set location"
-msgstr ""
-
-msgctxt "Collage/BUTTON/ZOOM"
-msgid "Zoom"
-msgstr ""
-
-msgctxt "Collage/BUTTON/PLACE"
-msgid "Place"
+msgctxt "Collage/BUTTON/ACCEPT"
+msgid "Accept"
 msgstr ""
 
 msgctxt "Collage/BUTTON/APPLY"
 msgid "Apply"
 msgstr ""
 
-msgctxt "Collage/BUTTON/NONE"
-msgid "None"
+msgctxt "Collage/BUTTON/CHANGE"
+msgid "Change"
 msgstr ""
 
-msgctxt "Collage/BUTTON/SET"
-msgid "Set"
+msgctxt "Collage/BUTTON/CHANGE_POSE"
+msgid "Change pose"
 msgstr ""
 
-msgctxt "Collage/BUTTON/DELETE_STICKER"
-msgid "Delete sticker"
+msgctxt "Collage/BUTTON/CLOSE"
+msgid "Close"
 msgstr ""
 
-msgctxt "Collage/BUTTON/PLACE_STICKER"
-msgid "Place sticker"
-msgstr ""
-
-msgctxt "Collage/BUTTON/DELETE_CHARACTER"
-msgid "Delete character"
-msgstr ""
-
-msgctxt "Collage/BUTTON/PLACE_CHARACTER"
-msgid "Place character"
-msgstr ""
-
-msgctxt "Collage/BUTTON/DELETE_TEXT"
-msgid "Delete text"
-msgstr ""
-
-msgctxt "Collage/BUTTON/PLACE_TEXT"
-msgid "Place text"
-msgstr ""
-
-msgctxt "Collage/BUTTON/DELETE"
-msgid "Delete"
-msgstr ""
-
-msgctxt "Collage/BUTTON/ACCEPT"
-msgid "Accept"
-msgstr ""
-
-msgctxt "Collage/BUTTON/REJECT"
-msgid "Reject"
-msgstr ""
-
-msgctxt "Collage/BUTTON/EXIT"
-msgid "Exit"
-msgstr ""
-
-msgctxt "Collage/BUTTON/PLACE_FRAGMENT"
-msgid "Place fragment"
-msgstr ""
-
-msgctxt "Collage/BUTTON/REMOVE_FRAGMENT"
-msgid "Remove fragment"
+msgctxt "Collage/BUTTON/COLLAGE"
+msgid "Collage"
 msgstr ""
 
 msgctxt "Collage/BUTTON/CONFIRM_EXIT"
 msgid "Are you sure you want to exit?"
 msgstr ""
 
+msgctxt "Collage/BUTTON/CREATE"
+msgid "Create"
+msgstr ""
+
+msgctxt "Collage/BUTTON/DELETE"
+msgid "Delete"
+msgstr ""
+
+msgctxt "Collage/BUTTON/DELETE_CHARACTER"
+msgid "Delete character"
+msgstr ""
+
+msgctxt "Collage/BUTTON/DELETE_STICKER"
+msgid "Delete sticker"
+msgstr ""
+
+msgctxt "Collage/BUTTON/DELETE_TEXT"
+msgid "Delete text"
+msgstr ""
+
+msgctxt "Collage/BUTTON/DONE"
+msgid "Done"
+msgstr ""
+
+msgctxt "Collage/BUTTON/EDIT"
+msgid "Edit"
+msgstr ""
+
+msgctxt "Collage/BUTTON/EXIT"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Collage/BUTTON/FAVOURITE"
+msgid "Favourite"
+msgstr ""
+
+msgctxt "Collage/BUTTON/FAVOURITE_TOGGLE"
+msgid "Toggle Favourite"
+msgstr ""
+
+msgctxt "Collage/BUTTON/LOADING"
+msgid "Loading"
+msgstr ""
+
+msgctxt "Collage/BUTTON/MOVE"
+msgid "Move"
+msgstr ""
+
+msgctxt "Collage/BUTTON/NEW_SAVE"
+msgid "New Save"
+msgstr ""
+
+msgctxt "Collage/BUTTON/NONE"
+msgid "None"
+msgstr ""
+
+msgctxt "Collage/BUTTON/OK"
+msgid "OK"
+msgstr ""
+
 msgctxt "Collage/BUTTON/OPEN"
 msgid "Open"
 msgstr ""
 
-msgctxt "Collage/BUTTON/CHANGE"
-msgid "Change"
+msgctxt "Collage/BUTTON/PLACE"
+msgid "Place"
+msgstr ""
+
+msgctxt "Collage/BUTTON/PLACE_CHARACTER"
+msgid "Place character"
+msgstr ""
+
+msgctxt "Collage/BUTTON/PLACE_FRAGMENT"
+msgid "Place fragment"
+msgstr ""
+
+msgctxt "Collage/BUTTON/PLACE_STICKER"
+msgid "Place sticker"
+msgstr ""
+
+msgctxt "Collage/BUTTON/PLACE_TEXT"
+msgid "Place text"
+msgstr ""
+
+msgctxt "Collage/BUTTON/REJECT"
+msgid "Reject"
+msgstr ""
+
+msgctxt "Collage/BUTTON/REMOVE"
+msgid "Remove"
+msgstr ""
+
+msgctxt "Collage/BUTTON/REMOVE_FRAGMENT"
+msgid "Remove fragment"
+msgstr ""
+
+msgctxt "Collage/BUTTON/RESET"
+msgid "Reset"
+msgstr ""
+
+msgctxt "Collage/BUTTON/ROTATE"
+msgid "Rotate"
 msgstr ""
 
 msgctxt "Collage/BUTTON/SAVED_PATH_FORMAT"
@@ -224,140 +240,372 @@ msgctxt "Collage/BUTTON/SAVED_PATH_SCREENSHOTS"
 msgid "Saved to Screenshots"
 msgstr ""
 
+msgctxt "Collage/BUTTON/SCALE"
+msgid "Scale"
+msgstr ""
+
+msgctxt "Collage/BUTTON/SELECT"
+msgid "Select"
+msgstr ""
+
+msgctxt "Collage/BUTTON/SET"
+msgid "Set"
+msgstr ""
+
+msgctxt "Collage/BUTTON/SET_LOCATION"
+msgid "Set location"
+msgstr ""
+
 msgctxt "Collage/BUTTON/SET_TIME"
 msgid "Set time"
 msgstr ""
 
-msgctxt "Collage/TAB"
-msgid "Tabs"
+msgctxt "Collage/BUTTON/ZOOM"
+msgid "Zoom"
 msgstr ""
 
-msgctxt "Collage/TAB/SETTING"
-msgid "Setting"
-msgstr ""
-
-msgctxt "Collage/TAB/LOCATION"
-msgid "Location"
-msgstr ""
-
-msgctxt "Collage/TAB/WEATHER"
-msgid "Weather"
-msgstr ""
-
-msgctxt "Collage/TAB/TIME_OF_DAY"
-msgid "Time of day"
-msgstr ""
-
-msgctxt "Collage/TAB/OBJECTS"
-msgid "Objects"
-msgstr ""
-
-msgctxt "Collage/TAB/CHARACTERS"
+msgctxt "Collage/CHARACTER"
 msgid "Characters"
 msgstr ""
 
-msgctxt "Collage/TAB/STICKERS"
-msgid "Stickers"
-msgstr ""
-
-msgctxt "Collage/TAB/TEXT"
-msgid "Text"
-msgstr ""
-
-msgctxt "Collage/TAB/EFFECTS"
-msgid "Effects"
-msgstr ""
-
-msgctxt "Collage/TAB/FILTERS"
-msgid "Filters"
-msgstr ""
-
-msgctxt "Collage/TAB/SHADERS"
-msgid "Shaders"
-msgstr ""
-
-msgctxt "Collage/TAB/TINTS"
-msgid "Tints"
-msgstr ""
-
-msgctxt "Collage/TAB/FRAMES"
-msgid "Frames"
-msgstr ""
-
-msgctxt "Collage/TAB/SCENES"
-msgid "Scenes"
-msgstr ""
-
-msgctxt "Collage/TAB/NEW"
-msgid "New"
-msgstr ""
-
-msgctxt "Collage/TAB/SHARE"
-msgid "Share"
-msgstr ""
-
-msgctxt "Collage/TAB/IMPORT"
-msgid "Import"
-msgstr ""
-
-msgctxt "Collage/TAB/DELETE"
-msgid "Delete"
-msgstr ""
-
-msgctxt "Collage/TAB/DUPLICATE"
-msgid "Duplicate"
-msgstr ""
-
-msgctxt "Collage/TAB/OPEN"
-msgid "Open"
-msgstr ""
-
-msgctxt "Collage/TAB/SCENERY"
-msgid "Scenery"
-msgstr ""
-
-msgctxt "Collage/TAB/FRAGMENTS"
-msgid "Fragments"
+msgctxt "Collage/CONTENT_POLICY"
+msgid ""
+"<b><align=center>DISCO ELYSIUM\n"
+"COLLAGE CONTENT POLICY\n"
+"</align></b>\n"
+"\n"
+"Issued by Disco Elysium UK Limited (“ZA/UM”, “we” or “us”).\n"
+"Last updated: September 2022\n"
+"\n"
+"<b>1. Introduction\n"
+"</b>\n"
+"1.1 This Content Policy applies to all individuals who use “Collage” within the Disco Elysium game (the “Game”).\n"
+"1.2 Please read this Content Policy carefully before using Collage. This Content Policy may change or be updated from time to time by us. \n"
+"1.3 This Content Policy forms a part of, and should be read in conjunction with, our End User Licence Agreement (“EULA”). You can find our EULA here: https://discoelysium.com/end-user-licence-agreement. \n"
+"1.4 If this Content Policy is translated into a language other than English, the translation is for convenience only, and the English language version will prevail.\n"
+"\n"
+"<b>2. User Content Guidelines\n"
+"</b>\n"
+"2.1 We are happy for you to create and share your content created in Collage (“Content”) under the following conditions:\n"
+"2.1.1 You must not remove the Collage watermark from your Content or otherwise publicly display your Content in a way that hides the Collage watermark. \n"
+"2.1.2 If you do not have the rights to use another person’s IP (as defined below) in your Content then you must not use it. If we learn that your Content also includes other people’s IP without their permission, we may require you to take it down.\n"
+"2.1.3 We have the right to stop or restrict your use of ZA/UM’s IP at any time for any reason we deem appropriate in our sole discretion, including without limitation when we think your use is inappropriate, offensive, damaging or disparaging. If this happens, you must immediately take down your Content.\n"
+"2.2 You further agree that you will not post, communicate, transmit or make available any Content which:\n"
+"2.2.1 is abusive, seditious, pornographic, homophobic, defamatory, libellous, hateful, discriminatory, obscene, inflammatory or racist;\n"
+"2.2.2 harasses, bullies or intimidates any person;\n"
+"2.2.3 involves the sending of unsolicited or unauthorised advertising or promotional material or spam;\n"
+"2.2.4 is unlawful, malicious, misleading or which gives rise to civil or criminal liability, breaches regulation or applicable codes of conduct or which in our sole discretion we feel might call us or our Game into disrepute;\n"
+"2.2.5 infringes or is likely to infringe the IP, contractual, confidentiality or other rights of us or any third party anywhere in the world or facilitates or encourages such infringement;\n"
+"2.2.6 constitutes or promotes any illegal or unlawful activity or any activity which otherwise results in a breach of applicable regulation or codes of conduct;\n"
+"2.2.7 contains any restricted material, including but not limited to passwords, medical information or confidential information of any person; or\n"
+"2.2.8 solicits, invites, encourages, advocates, incites or provokes any or all of the foregoing or otherwise does not comply with the spirit as well as the letter of the preceding terms.\n"
+"\n"
+"<b>3. Intellectual Property\n"
+"</b>\n"
+"3.1 By creating and sharing your Content, you grant to us a non-exclusive, worldwide, sub-licensable right and licence to reproduce, copy, distribute, provide access to, publish, perform, supply, use, market, advertise, promote and otherwise display the Content and to use any and all IP in the Content for such purposes. “IP” means copyrights, design rights, database rights, patents and any rights to inventions, know-how, trade and business names, trade secrets and trade marks (whether registered or unregistered) and any applications or extensions therefor and all other intellectual property rights of any similar or equivalent type in any territory of the world.\n"
+"3.2 We grant you a limited, non-exclusive right and licence for you to use the content of the Game and IP in it made available to you in Collage for your personal, non-commercial use pursuant to the terms of the EULA and this Content Policy (and in the event of any conflict between anything in this Content Policy and the EULA, the terms of the EULA shall prevail.)\n"
+"3.3 All IP rights in or connected with the Game and each part thereof are owned by, belong to and vest in us and our licensors, pursuant to the EULA. The licence granted to you by Clause 3.2 confers no title or ownership in the Game or any IP therein. The Game is solely for personal, non-commercial use by end users according to the terms of this Content Policy and the EULA. Any use, reproduction or redistribution of the Game not in accordance with the terms of this Content Policy and the EULA is expressly prohibited.\n"
+"3.4 You shall be solely responsible for your Content and for ensuring that it complies with any applicable laws, regulations, policies and guidelines (including without limitation any third party platform policies or guidelines.) We are not and shall not be made liable, in whole or in part, for any claims, actions or disputes made against us or you relating to any of your Content.\n"
 msgstr ""
 
 msgctxt "Collage/FELD"
 msgid "Feld"
 msgstr ""
 
-msgctxt "Collage/FELD/SPEAKER"
-msgid "Speaker"
-msgstr ""
-
 msgctxt "Collage/FELD/SKILL"
 msgid "Skill"
 msgstr ""
 
-msgctxt "Collage/SHARE"
-msgid "Share"
+msgctxt "Collage/FELD/SPEAKER"
+msgid "Speaker"
 msgstr ""
 
-msgctxt "Collage/SHARE/IMPORT_SCENE"
-msgid "Import Scene"
+msgctxt "Collage/FILTER"
+msgid "Filters"
 msgstr ""
 
-msgctxt "Collage/SHARE/CANCEL"
-msgid "Cancel"
+msgctxt "Collage/FILTER/AMBROTYPE"
+msgid "Ambrotype"
 msgstr ""
 
-msgctxt "Collage/SHARE/IMPORT_LOAD"
-msgid "Import and load"
+msgctxt "Collage/FILTER/ANODIC"
+msgid "Anodic"
 msgstr ""
 
-msgctxt "Collage/SHARE/IMPORT"
-msgid "Import"
+msgctxt "Collage/FILTER/BASIN"
+msgid "Basin Culture"
 msgstr ""
 
-msgctxt "Collage/SHARE/IMPORTED_SCENE"
-msgid "Imported scene"
+msgctxt "Collage/FILTER/BREEZE"
+msgid "Off Breeze"
+msgstr ""
+
+msgctxt "Collage/FILTER/CALCULUS"
+msgid "Visual Calculus"
+msgstr ""
+
+msgctxt "Collage/FILTER/CHEMIGRAM"
+msgid "Chemigram"
+msgstr ""
+
+msgctxt "Collage/FILTER/CYANOTYPE"
+msgid "Cyanotype"
+msgstr ""
+
+msgctxt "Collage/FILTER/DAGUERREOTYPE"
+msgid "Daguerreotype"
+msgstr ""
+
+msgctxt "Collage/FILTER/ETERNITE"
+msgid "Eternite"
+msgstr ""
+
+msgctxt "Collage/FILTER/EXPRESSIONIZM"
+msgid "Expressionism"
+msgstr ""
+
+msgctxt "Collage/FILTER/HANGOVER"
+msgid "Infernal Hangover"
+msgstr ""
+
+msgctxt "Collage/FILTER/KOPFSCHERZEN"
+msgid "Kopfschmerzen"
+msgstr ""
+
+msgctxt "Collage/FILTER/LATITUDE"
+msgid "Latitude Compressor"
+msgstr ""
+
+msgctxt "Collage/FILTER/LILY"
+msgid "Lily Livered"
+msgstr ""
+
+msgctxt "Collage/FILTER/MAGNEOSTATIC"
+msgid "Magnetostatic"
+msgstr ""
+
+msgctxt "Collage/FILTER/MOURNING"
+msgid "White Mourning"
+msgstr ""
+
+msgctxt "Collage/FILTER/MULLEN"
+msgid "Modus Mullen"
+msgstr ""
+
+msgctxt "Collage/FILTER/NORMAL"
+msgid "Normal"
+msgstr ""
+
+msgctxt "Collage/FILTER/OIL"
+msgid "Heavy Fuel Oil"
+msgstr ""
+
+msgctxt "Collage/FILTER/PALE_AGED"
+msgid "Pale-Aged"
+msgstr ""
+
+msgctxt "Collage/FILTER/PYRHOLIDON"
+msgid "Pyrholidon"
+msgstr ""
+
+msgctxt "Collage/FILTER/SMOKE"
+msgid "Glacial Smoke"
+msgstr ""
+
+msgctxt "Collage/FILTER/STAIN"
+msgid "Thought Stain"
+msgstr ""
+
+msgctxt "Collage/FILTER/STELLA"
+msgid "Stella Maris"
+msgstr ""
+
+msgctxt "Collage/FILTER/TEQUILA"
+msgid "Tequila Sunset"
+msgstr ""
+
+msgctxt "Collage/FILTER/TROIKA"
+msgid "Troika"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/ACE"
+msgid "Ace's High"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/CHEERS"
+msgid "Communard cheers"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/CITY"
+msgid "Cutout city"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/COMING"
+msgid "Coming soon"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/COMMISSARS"
+msgid "Future Dual Commissars"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/FRISSEL"
+msgid "For Frissel!"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/FRITTE"
+msgid "Maximum Frittte"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/GOOD"
+msgid "For the greater good"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/MIRACLE"
+msgid "Unholy miracle"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/MONEY"
+msgid "Money machine"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/PROGRESS"
+msgid "Definitely progress"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/REVACHOL"
+msgid "Welcome to Revachol"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/SHADOW"
+msgid "Static shadow"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/TERROR"
+msgid "State terror"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/WHIRLING"
+msgid "Whirling in glass"
+msgstr ""
+
+msgctxt "Collage/FRAGMENT/WORKERS"
+msgid "Long live the workers"
+msgstr ""
+
+msgctxt "Collage/FRAME/CALCULUS"
+msgid "Visual Calculus"
+msgstr ""
+
+msgctxt "Collage/FRAME/CATS"
+msgid "Curious cats"
+msgstr ""
+
+msgctxt "Collage/FRAME/COMMUNISM"
+msgid "Building communism"
+msgstr ""
+
+msgctxt "Collage/FRAME/DETECTIVE"
+msgid "Detective arriving on the scene"
+msgstr ""
+
+msgctxt "Collage/FRAME/DISCO"
+msgid "Disco"
+msgstr ""
+
+msgctxt "Collage/FRAME/FRIENDS"
+msgid "Best friends"
+msgstr ""
+
+msgctxt "Collage/FRAME/FUCK"
+msgid "Fuck the World"
+msgstr ""
+
+msgctxt "Collage/FRAME/GULLS"
+msgid "Gulls"
+msgstr ""
+
+msgctxt "Collage/FRAME/LOVE"
+msgid "Eternal love"
+msgstr ""
+
+msgctxt "Collage/FRAME/LOVER"
+msgid "Lover's end"
+msgstr ""
+
+msgctxt "Collage/FRAME/METAL"
+msgid "Metal"
+msgstr ""
+
+msgctxt "Collage/FRAME/MULLEN"
+msgid "Dick Mullen"
+msgstr ""
+
+msgctxt "Collage/FRAME/NECKTIE"
+msgid "Horrific Necktie"
+msgstr ""
+
+msgctxt "Collage/FRAME/NEVER"
+msgid "Never fuck"
+msgstr ""
+
+msgctxt "Collage/FRAME/OFFICER"
+msgid "Hello, officer"
+msgstr ""
+
+msgctxt "Collage/FRAME/POSTCARD"
+msgid "Postcard"
+msgstr ""
+
+msgctxt "Collage/FRAME/PRIDE"
+msgid "Pride"
+msgstr ""
+
+msgctxt "Collage/FRAME/SNOW"
+msgid "Snow globe"
+msgstr ""
+
+msgctxt "Collage/FRAME/SUNRISE"
+msgid "Sunrise, Parabellum"
+msgstr ""
+
+msgctxt "Collage/FRAME/WOOD"
+msgid "Wood"
+msgstr ""
+
+msgctxt "Collage/FRAME/WORK"
+msgid "Time for work"
+msgstr ""
+
+msgctxt "Collage/Fragments"
+msgid "Fragments"
+msgstr ""
+
+msgctxt "Collage/Frames"
+msgid "Frames"
 msgstr ""
 
 msgctxt "Collage/HIDDEN"
 msgid "Lines for hidden images (Not implemented yet)"
+msgstr ""
+
+msgctxt "Collage/HIDDEN/COMMUNIST"
+msgid ""
+"7th of March, '02. \n"
+"Simple men and women have taken up arms against the decadence and depravity \n"
+"of Old Money, and drove the Suzerainty into the sea. \n"
+"Communard heroes sit on the back of bullet-ridden, fatigued machines; \n"
+"a celebratory parade to help forget the wounds and lost loved ones. \n"
+"During this short-lived victory, it seems okay to let yourself be just a *little* happy.\n"
+msgstr ""
+
+msgctxt "Collage/HIDDEN/FASCIST"
+msgid ""
+"Desperate to quell the rabble and rousers of the communard uprising, \n"
+"Frissel the First has taken his worst and most dramatic action yet. \n"
+"He has sent Royal Dragoons on horseback to *pacify* an angry mob, \n"
+"most of whom aren't even partisans. \n"
+"They share looks of terror, regret, and deceit with those they set alight. \n"
+"But they ignite much more than flames in the people targeted tonight.\n"
 msgstr ""
 
 msgctxt "Collage/HIDDEN/MORALIST"
@@ -380,192 +628,88 @@ msgid ""
 "Pay for your bag and don’t forget your receipt."
 msgstr ""
 
-msgctxt "Collage/HIDDEN/FASCIST"
-msgid ""
-"Desperate to quell the rabble and rousers of the communard uprising, \n"
-"Frissel the First has taken his worst and most dramatic action yet. \n"
-"He has sent Royal Dragoons on horseback to *pacify* an angry mob, \n"
-"most of whom aren't even partisans. \n"
-"They share looks of terror, regret, and deceit with those they set alight. \n"
-"But they ignite much more than flames in the people targeted tonight.\n"
-msgstr ""
-
-msgctxt "Collage/HIDDEN/COMMUNIST"
-msgid ""
-"7th of March, '02. \n"
-"Simple men and women have taken up arms against the decadence and depravity \n"
-"of Old Money, and drove the Suzerainty into the sea. \n"
-"Communard heroes sit on the back of bullet-ridden, fatigued machines; \n"
-"a celebratory parade to help forget the wounds and lost loved ones. \n"
-"During this short-lived victory, it seems okay to let yourself be just a *little* happy.\n"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT"
-msgid "Achievements"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/SPECTRES"
-msgid "Spectres of Hope"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/GLIMPSE"
-msgid "Glimpse it while you can"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/OLD_FLAME"
-msgid "Old Flame"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/FIRE"
-msgid "Surely, it can be killed with fire"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/PROGRESS"
-msgid "Looks Like Progress"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/WHEELS"
-msgid "Spinning its wheels"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/FACADE"
-msgid "Priceless Facade"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/GENTRIFICATION"
-msgid "Money-smooth streets of gentrification"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/PROVENANCE"
-msgid "Now For A Difficult Provenance"
-msgstr ""
-
-msgctxt "Collage/ACHIEVEMENT/ALL_HIDDEN"
-msgid "Restore all of the hidden photos"
-msgstr ""
-
 msgctxt "Collage/MAP"
 msgid "Names of maps (Not implemented yet)"
-msgstr ""
-
-msgctxt "Collage/MAP/DEFAULT"
-msgid "Default"
-msgstr ""
-
-msgctxt "Collage/MAP/CHURCH"
-msgid "Dolorian Church"
-msgstr ""
-
-msgctxt "Collage/MAP/UNDERGROUND"
-msgid "Underground Reading Room"
-msgstr ""
-
-msgctxt "Collage/MAP/GARY"
-msgid "Gary's Apartment "
-msgstr ""
-
-msgctxt "Collage/MAP/CUNO"
-msgid "Cuno's Shack"
-msgstr ""
-
-msgctxt "Collage/MAP/DOOMED_F1"
-msgid "Doomed - F1"
-msgstr ""
-
-msgctxt "Collage/MAP/LILIENNE"
-msgid "Lilienne's House"
-msgstr ""
-
-msgctxt "Collage/MAP/SHACK"
-msgid "Disused Shack"
-msgstr ""
-
-msgctxt "Collage/MAP/FRITTE"
-msgid "Frittte Kiosk"
-msgstr ""
-
-msgctxt "Collage/MAP/MARTINAISE"
-msgid "Martinaise"
-msgstr ""
-
-msgctxt "Collage/MAP/PAWNSHOP"
-msgid "Pawnshop"
-msgstr ""
-
-msgctxt "Collage/MAP/CONTAINER"
-msgid "Harbour Container"
-msgstr ""
-
-msgctxt "Collage/MAP/WHIRLING_GF"
-msgid "Whirling in Rags - GF"
-msgstr ""
-
-msgctxt "Collage/MAP/WHIRLING_1F"
-msgid "Whirling in Rags - 1F"
-msgstr ""
-
-msgctxt "Collage/MAP/WHIRLING_2F"
-msgid "Whirling in Rags - 2F"
-msgstr ""
-
-msgctxt "Collage/MAP/DOOMED_F2"
-msgid "Doomed - F2"
-msgstr ""
-
-msgctxt "Collage/MAP/DOOMED_B1"
-msgid "Doomed - B1"
 msgstr ""
 
 msgctxt "Collage/MAP/APARTMENTS"
 msgid "Capeside Apartments"
 msgstr ""
 
+msgctxt "Collage/MAP/CHURCH"
+msgid "Dolorian Church"
+msgstr ""
+
 msgctxt "Collage/MAP/CINDY"
 msgid "Cindy's Squat"
 msgstr ""
 
-msgctxt "Collage/MAP/UNION_OFFICE"
-msgid "Union Office"
+msgctxt "Collage/MAP/CONTAINER"
+msgid "Harbour Container"
+msgstr ""
+
+msgctxt "Collage/MAP/CUNO"
+msgid "Cuno's Shack"
+msgstr ""
+
+msgctxt "Collage/MAP/DEFAULT"
+msgid "Default"
+msgstr ""
+
+msgctxt "Collage/MAP/DOOMED_B1"
+msgid "Doomed - B1"
+msgstr ""
+
+msgctxt "Collage/MAP/DOOMED_F1"
+msgid "Doomed - F1"
+msgstr ""
+
+msgctxt "Collage/MAP/DOOMED_F2"
+msgid "Doomed - F2"
 msgstr ""
 
 msgctxt "Collage/MAP/EVRANT_OFFICE"
 msgid "Evrart's Office"
 msgstr ""
 
-msgctxt "Collage/MAP/SMOKER_APT"
-msgid "Smoker's Apt."
-msgstr ""
-
-msgctxt "Collage/MAP/FORTRESS_INT"
-msgid "Sea Fortress Interior"
-msgstr ""
-
-msgctxt "Collage/MAP/TENT"
-msgid "Speedfreak Tent"
+msgctxt "Collage/MAP/FELD_B1"
+msgid "Feld Basement"
 msgstr ""
 
 msgctxt "Collage/MAP/FISHING_HOME"
 msgid "Fishing Village Home"
 msgstr ""
 
-msgctxt "Collage/MAP/INSTIGATOR_LAIR"
-msgid "Instigator's Lair"
+msgctxt "Collage/MAP/FORTRESS_EXT"
+msgid "Sea Fortress Island"
 msgstr ""
 
-msgctxt "Collage/MAP/WORKING_APT"
-msgid "Working Class Apt."
+msgctxt "Collage/MAP/FORTRESS_INT"
+msgid "Sea Fortress Interior"
+msgstr ""
+
+msgctxt "Collage/MAP/FRITTE"
+msgid "Frittte Kiosk"
+msgstr ""
+
+msgctxt "Collage/MAP/GARY"
+msgid "Gary's Apartment"
 msgstr ""
 
 msgctxt "Collage/MAP/HANGED_DREAM"
 msgid "Hanged Man Dream"
 msgstr ""
 
-msgctxt "Collage/MAP/FELD_B1"
-msgid "Feld Basement"
+msgctxt "Collage/MAP/INSTIGATOR_LAIR"
+msgid "Instigator's Lair"
 msgstr ""
 
-msgctxt "Collage/MAP/REVACHOL_DREAM"
-msgid "Video Revachol Dream"
+msgctxt "Collage/MAP/LILIENNE"
+msgid "Lilienne's House"
+msgstr ""
+
+msgctxt "Collage/MAP/MARTINAISE"
+msgid "Martinaise"
 msgstr ""
 
 msgctxt "Collage/MAP/MARTINAISE_EAST"
@@ -580,144 +724,236 @@ msgctxt "Collage/MAP/MARTINAISE_WEST"
 msgid "Martinaise West"
 msgstr ""
 
-msgctxt "Collage/MAP/FORTRESS_EXT"
-msgid "Sea Fortress Island"
+msgctxt "Collage/MAP/PAWNSHOP"
+msgid "Pawnshop"
 msgstr ""
 
-msgctxt "Collage/FILTER"
-msgid "Filters"
+msgctxt "Collage/MAP/REVACHOL_DREAM"
+msgid "Video Revachol Dream"
 msgstr ""
 
-msgctxt "Collage/FILTER/NORMAL"
-msgid "Normal"
+msgctxt "Collage/MAP/SHACK"
+msgid "Disused Shack"
 msgstr ""
 
-msgctxt "Collage/FILTER/AMBROTYPE"
-msgid "Ambrotype"
+msgctxt "Collage/MAP/SMOKER_APT"
+msgid "Smoker's Apt."
 msgstr ""
 
-msgctxt "Collage/FILTER/CHEMIGRAM"
-msgid "Chemigram"
+msgctxt "Collage/MAP/TENT"
+msgid "Speedfreak Tent"
 msgstr ""
 
-msgctxt "Collage/FILTER/CYANOTYPE"
-msgid "Cyanotype"
+msgctxt "Collage/MAP/UNDERGROUND"
+msgid "Underground Reading Room"
 msgstr ""
 
-msgctxt "Collage/FILTER/DAGUERREOTYPE"
-msgid "Daguerreotype"
+msgctxt "Collage/MAP/UNION_OFFICE"
+msgid "Union Office"
 msgstr ""
 
-msgctxt "Collage/FILTER/STAIN"
-msgid "Thought Stain"
+msgctxt "Collage/MAP/WHIRLING_1F"
+msgid "Whirling in Rags - 1F"
 msgstr ""
 
-msgctxt "Collage/FILTER/HANGOVER"
-msgid "Infernal Hangover"
+msgctxt "Collage/MAP/WHIRLING_2F"
+msgid "Whirling in Rags - 2F"
 msgstr ""
 
-msgctxt "Collage/FILTER/TROIKA"
-msgid "Troika"
+msgctxt "Collage/MAP/WHIRLING_GF"
+msgid "Whirling in Rags - GF"
 msgstr ""
 
-msgctxt "Collage/FILTER/MAGNEOSTATIC"
-msgid "Magnetostatic"
+msgctxt "Collage/MAP/WORKING_APT"
+msgid "Working Class Apt."
 msgstr ""
 
-msgctxt "Collage/FILTER/PALE_AGED"
-msgid "Pale-Aged"
-msgstr ""
-
-msgctxt "Collage/FILTER/CALCULUS"
-msgid "Visual Calculus"
-msgstr ""
-
-msgctxt "Collage/FILTER/EXPRESSIONIZM"
-msgid "Expressionism"
-msgstr ""
-
-msgctxt "Collage/FILTER/KOPFSCHERZEN"
-msgid "Kopfschmerzen"
-msgstr ""
-
-msgctxt "Collage/FILTER/LATITUDE"
-msgid "Latitude Compressor"
-msgstr ""
-
-msgctxt "Collage/FILTER/BASIN"
-msgid "Basin Culture"
-msgstr ""
-
-msgctxt "Collage/FILTER/MULLEN"
-msgid "Modus Mullen"
-msgstr ""
-
-msgctxt "Collage/FILTER/BREEZE"
-msgid "Off Breeze"
-msgstr ""
-
-msgctxt "Collage/FILTER/ETERNITE"
-msgid "Eternite"
-msgstr ""
-
-msgctxt "Collage/FILTER/MOURNING"
-msgid "White Mourning "
-msgstr ""
-
-msgctxt "Collage/FILTER/ANODIC"
-msgid "Anodic"
-msgstr ""
-
-msgctxt "Collage/FILTER/TEQUILA"
-msgid "Tequila Sunset"
-msgstr ""
-
-msgctxt "Collage/FILTER/PYRHOLIDON"
-msgid "Pyrholidon"
-msgstr ""
-
-msgctxt "Collage/FILTER/SMOKE"
-msgid "Glacial Smoke"
-msgstr ""
-
-msgctxt "Collage/FILTER/LILY"
-msgid "Lily Livered"
-msgstr ""
-
-msgctxt "Collage/FILTER/STELLA"
-msgid "Stella Maris"
-msgstr ""
-
-msgctxt "Collage/FILTER/OIL"
-msgid "Heavy Fuel Oil"
+msgctxt "Collage/MISC"
+msgid "Misc"
 msgstr ""
 
 msgctxt "Collage/NEW"
 msgid "New"
 msgstr ""
 
-msgctxt "Collage/VISCAL"
-msgid "Viscal #{0}"
-msgstr ""
-
 msgctxt "Collage/ORB"
 msgid "Orb #{0}"
 msgstr ""
 
-msgctxt "Collage/TOOLTIP/SELECT_SETTING"
-msgid "Select setting to change to"
+msgctxt "Collage/POPUP/SPOILERS"
+msgid "Note: This mode contains spoilers."
 msgstr ""
 
-msgctxt "Collage/TOOLTIP/SELECT_WEATHER"
-msgid "Select weather to change to"
+msgctxt "Collage/SHARE"
+msgid "Share"
 msgstr ""
 
-msgctxt "Collage/TOOLTIP/SELECT_TIME"
-msgid "Select time of day to change to"
+msgctxt "Collage/SHARE/CANCEL"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "Collage/SHARE/IMPORT"
+msgid "Import"
+msgstr ""
+
+msgctxt "Collage/SHARE/IMPORTED_SCENE"
+msgid "Imported scene"
+msgstr ""
+
+msgctxt "Collage/SHARE/IMPORT_LOAD"
+msgid "Import and load"
+msgstr ""
+
+msgctxt "Collage/SHARE/IMPORT_SCENE"
+msgid "Import Scene"
+msgstr ""
+
+msgctxt "Collage/TAB"
+msgid "Tabs"
+msgstr ""
+
+msgctxt "Collage/TAB/CHARACTERS"
+msgid "Characters"
+msgstr ""
+
+msgctxt "Collage/TAB/DELETE"
+msgid "Delete"
+msgstr ""
+
+msgctxt "Collage/TAB/DUPLICATE"
+msgid "Duplicate"
+msgstr ""
+
+msgctxt "Collage/TAB/EFFECTS"
+msgid "Effects"
+msgstr ""
+
+msgctxt "Collage/TAB/FILTERS"
+msgid "Filters"
+msgstr ""
+
+msgctxt "Collage/TAB/FRAGMENTS"
+msgid "Fragments"
+msgstr ""
+
+msgctxt "Collage/TAB/FRAMES"
+msgid "Frames"
+msgstr ""
+
+msgctxt "Collage/TAB/IMPORT"
+msgid "Import"
+msgstr ""
+
+msgctxt "Collage/TAB/LOCATION"
+msgid "Location"
+msgstr ""
+
+msgctxt "Collage/TAB/NEW"
+msgid "New"
+msgstr ""
+
+msgctxt "Collage/TAB/OBJECTS"
+msgid "Objects"
+msgstr ""
+
+msgctxt "Collage/TAB/OPEN"
+msgid "Open"
+msgstr ""
+
+msgctxt "Collage/TAB/SCENERY"
+msgid "Scenery"
+msgstr ""
+
+msgctxt "Collage/TAB/SCENES"
+msgid "Scenes"
+msgstr ""
+
+msgctxt "Collage/TAB/SETTING"
+msgid "Setting"
+msgstr ""
+
+msgctxt "Collage/TAB/SHADERS"
+msgid "Shaders"
+msgstr ""
+
+msgctxt "Collage/TAB/SHARE"
+msgid "Share"
+msgstr ""
+
+msgctxt "Collage/TAB/STICKERS"
+msgid "Stickers"
+msgstr ""
+
+msgctxt "Collage/TAB/TEXT"
+msgid "Text"
+msgstr ""
+
+msgctxt "Collage/TAB/TIME_OF_DAY"
+msgid "Time of day"
+msgstr ""
+
+msgctxt "Collage/TAB/TINTS"
+msgid "Tints"
+msgstr ""
+
+msgctxt "Collage/TAB/WEATHER"
+msgid "Weather"
+msgstr ""
+
+msgctxt "Collage/TEXT_PLACEHOLDER"
+msgid "Text"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP"
+msgid "Tooltips"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/BIG"
+msgid "Big"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/BOLD"
+msgid "Bold"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/BORDER_COLOR"
+msgid "Border Color"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/DRAG_CHARACTER"
+msgid "Select / drag character"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/DRAG_FRAGMENT"
+msgid "Select / drag fragment"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/DRAG_STICKER"
+msgid "Select / drag sticker"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/DRAG_TEXT"
+msgid "Select / drag text"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/FONT"
+msgid "Font"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/MEDIUM"
+msgid "Medium"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/SELECT_CHARACTER"
+msgid "Select character"
 msgstr ""
 
 msgctxt "Collage/TOOLTIP/SELECT_FILTER"
 msgid "Select filter to change to"
+msgstr ""
+
+msgctxt "Collage/TOOLTIP/SELECT_FRAGMENT"
+msgid "Select fragment"
 msgstr ""
 
 msgctxt "Collage/TOOLTIP/SELECT_FRAME"
@@ -728,56 +964,56 @@ msgctxt "Collage/TOOLTIP/SELECT_SCENE"
 msgid "Select scene to load"
 msgstr ""
 
-msgctxt "Collage/BUTTON/RESET"
-msgid "Reset"
+msgctxt "Collage/TOOLTIP/SELECT_SETTING"
+msgid "Select setting to change to"
 msgstr ""
 
-msgctxt "Collage/BUTTON/CHANGE_POSE"
-msgid "Change pose"
+msgctxt "Collage/TOOLTIP/SELECT_STICKER"
+msgid "Select sticker"
 msgstr ""
 
-msgctxt "Collage/BUTTON/CREATE"
-msgid "Create"
+msgctxt "Collage/TOOLTIP/SELECT_TEXT"
+msgid "Select text"
 msgstr ""
 
-msgctxt "Collage/BUTTON/NEW_SAVE"
-msgid "New Save"
+msgctxt "Collage/TOOLTIP/SELECT_TIME"
+msgid "Select time of day to change to"
 msgstr ""
 
-msgctxt "Collage/TOOLTIP/DRAG_TEXT"
-msgid "Select / drag text"
+msgctxt "Collage/TOOLTIP/SELECT_WEATHER"
+msgid "Select weather to change to"
 msgstr ""
 
-msgctxt "Collage/BUTTON/CLOSE"
-msgid "Close"
+msgctxt "Collage/TOOLTIP/SIZE"
+msgid "Size"
 msgstr ""
 
-msgctxt "Collage/BUTTON/FAVOURITE"
-msgid "Favourite"
+msgctxt "Collage/TOOLTIP/SMALL"
+msgid "Small"
 msgstr ""
 
-msgctxt "Collage/BUTTON/FAVOURITE_TOGGLE"
-msgid "Toggle Favourite"
+msgctxt "Collage/TOOLTIP/STICKER"
+msgid "Sticker"
 msgstr ""
 
-msgctxt "Collage/BUTTON/LOADING"
-msgid "Loading"
+msgctxt "Collage/TOOLTIP/TEXT_COLOR"
+msgid "Text Color"
 msgstr ""
 
-msgctxt "Collage/BUTTON/SELECT"
-msgid "Select"
+msgctxt "Collage/TOOLTIP/THIN"
+msgid "Thin"
 msgstr ""
 
-msgctxt "Collage/POPUP/SPOILERS"
-msgid "Note: This mode contains spoilers."
+msgctxt "Collage/TOOLTIP/WEIGHT"
+msgid "Weight"
 msgstr ""
 
-msgctxt "Collage/BUTTON/OK"
-msgid "OK"
+msgctxt "Collage/UI"
+msgid "UI"
 msgstr ""
 
-msgctxt "Collage/Weather"
-msgid "Weather"
+msgctxt "Collage/VISCAL"
+msgid "Viscal #{0}"
 msgstr ""
 
 msgctxt "Collage/WEATHER/CLEAR"
@@ -788,266 +1024,30 @@ msgctxt "Collage/WEATHER/FOG"
 msgid "Fog"
 msgstr ""
 
-msgctxt "Collage/WEATHER/RAIN"
-msgid "Rain"
-msgstr ""
-
 msgctxt "Collage/WEATHER/HEAVY_RAIN"
 msgid "Heavy Rain"
-msgstr ""
-
-msgctxt "Collage/WEATHER/WET_FOG"
-msgid "Wet Fog"
-msgstr ""
-
-msgctxt "Collage/WEATHER/LIGHT_SNOW"
-msgid "Light Snow"
-msgstr ""
-
-msgctxt "Collage/WEATHER/SNOW"
-msgid "Snow"
 msgstr ""
 
 msgctxt "Collage/WEATHER/HEAVY_SNOW"
 msgid "Heavy Snow"
 msgstr ""
 
-msgctxt "Collage/Frames"
-msgid "Frames"
+msgctxt "Collage/WEATHER/LIGHT_SNOW"
+msgid "Light Snow"
 msgstr ""
 
-msgctxt "Collage/FRAME/DETECTIVE"
-msgid "Detective arriving on the scene"
+msgctxt "Collage/WEATHER/RAIN"
+msgid "Rain"
 msgstr ""
 
-msgctxt "Collage/FRAME/FRIENDS"
-msgid "Best friends"
+msgctxt "Collage/WEATHER/SNOW"
+msgid "Snow"
 msgstr ""
 
-msgctxt "Collage/FRAME/COMMUNISM"
-msgid "Building communism"
+msgctxt "Collage/WEATHER/WET_FOG"
+msgid "Wet Fog"
 msgstr ""
 
-msgctxt "Collage/FRAME/CATS"
-msgid "Curious cats"
-msgstr ""
-
-msgctxt "Collage/FRAME/MULLEN"
-msgid "Dick Mullen"
-msgstr ""
-
-msgctxt "Collage/FRAME/DISCO"
-msgid "Disco"
-msgstr ""
-
-msgctxt "Collage/FRAME/NEVER"
-msgid "Never fuck"
-msgstr ""
-
-msgctxt "Collage/FRAME/LOVE"
-msgid "Eternal love"
-msgstr ""
-
-msgctxt "Collage/FRAME/FUCK"
-msgid "Fuck the World"
-msgstr ""
-
-msgctxt "Collage/FRAME/NECKTIE"
-msgid "Horrific Necktie"
-msgstr ""
-
-msgctxt "Collage/FRAME/METAL"
-msgid "Metal"
-msgstr ""
-
-msgctxt "Collage/FRAME/PRIDE"
-msgid "Pride"
-msgstr ""
-
-msgctxt "Collage/FRAME/GULLS"
-msgid "Gulls"
-msgstr ""
-
-msgctxt "Collage/FRAME/WORK"
-msgid "Time for work"
-msgstr ""
-
-msgctxt "Collage/FRAME/SNOW"
-msgid "Snow globe"
-msgstr ""
-
-msgctxt "Collage/FRAME/OFFICER"
-msgid "Hello, officer"
-msgstr ""
-
-msgctxt "Collage/FRAME/SUNRISE"
-msgid "Sunrise, Parabellum"
-msgstr ""
-
-msgctxt "Collage/FRAME/CALCULUS"
-msgid "Visual Calculus"
-msgstr ""
-
-msgctxt "Collage/FRAME/LOVER"
-msgid "Lover's end"
-msgstr ""
-
-msgctxt "Collage/FRAME/POSTCARD"
-msgid "Postcard"
-msgstr ""
-
-msgctxt "Collage/FRAME/WOOD"
-msgid "Wood"
-msgstr ""
-
-msgctxt "Collage/Fragments"
-msgid "Fragments"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/FRISSEL"
-msgid "For Frissel!"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/MIRACLE"
-msgid "Unholy miracle"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/TERROR"
-msgid "State terror"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/REVACHOL"
-msgid "Welcome to Revachol"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/CHEERS"
-msgid "Communard cheers"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/ACE"
-msgid "Ace's High"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/COMMISSARS"
-msgid "Future Dual Commissars"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/WORKERS"
-msgid "Long live the workers"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/PROGRESS"
-msgid "Definitely progress"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/SHADOW"
-msgid "Static shadow"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/GOOD"
-msgid "For the greater good"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/COMING"
-msgid "Coming soon"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/FRITTE"
-msgid "Maximum Frittte"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/WHIRLING"
-msgid "Whirling in glass"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/CITY"
-msgid "Cutout city"
-msgstr ""
-
-msgctxt "Collage/FRAGMENT/MONEY"
-msgid "Money machine"
-msgstr ""
-
-msgctxt "Collage/MISC"
-msgid "Misc"
-msgstr ""
-
-msgctxt "Collage/Actors/BABE1"
-msgid "Measurehead's Babe 1"
-msgstr ""
-
-msgctxt "Collage/Actors/BABE2"
-msgid "Measurehead's Babe 2"
-msgstr ""
-
-msgctxt "Collage/Actors/BABE3"
-msgid "Measurehead's Babe 3"
-msgstr ""
-
-msgctxt "Collage/Actors/SCAB1"
-msgid "Scab 1"
-msgstr ""
-
-msgctxt "Collage/Actors/SCAB2"
-msgid "Scab 2"
-msgstr ""
-
-msgctxt "Collage/CONTENT_POLICY"
-msgid ""
-"<b><align=center>DISCO ELYSIUM\r\n"
-"COLLAGE CONTENT POLICY\r\n"
-"</align></b>\r\n"
-"\r\n"
-"Issued by Disco Elysium UK Limited (“ZA/UM”, “we” or “us”).\r\n"
-"Last updated: September 2022\r\n"
-"\r\n"
-"<b>1. Introduction\r\n"
-"</b>\r\n"
-"1.1 This Content Policy applies to all individuals who use “Collage” within the Disco Elysium game (the “Game”).\r\n"
-"1.2 Please read this Content Policy carefully before using Collage. This Content Policy may change or be updated from time to time by us. \r\n"
-"1.3 This Content Policy forms a part of, and should be read in conjunction with, our End User Licence Agreement (“EULA”). You can find our EULA here: https://discoelysium.com/end-user-licence-agreement. \r\n"
-"1.4 If this Content Policy is translated into a language other than English, the translation is for convenience only, and the English language version will prevail.\r\n"
-"\r\n"
-"<b>2. User Content Guidelines\r\n"
-"</b>\r\n"
-"2.1 We are happy for you to create and share your content created in Collage (“Content”) under the following conditions:\r\n"
-"2.1.1 You must not remove the Collage watermark from your Content or otherwise publicly display your Content in a way that hides the Collage watermark. \r\n"
-"2.1.2 If you do not have the rights to use another person’s IP (as defined below) in your Content then you must not use it. If we learn that your Content also includes other people’s IP without their permission, we may require you to take it down.\r\n"
-"2.1.3 We have the right to stop or restrict your use of ZA/UM’s IP at any time for any reason we deem appropriate in our sole discretion, including without limitation when we think your use is inappropriate, offensive, damaging or disparaging. If this happens, you must immediately take down your Content.\r\n"
-"2.2 You further agree that you will not post, communicate, transmit or make available any Content which:\r\n"
-"2.2.1 is abusive, seditious, pornographic, homophobic, defamatory, libellous, hateful, discriminatory, obscene, inflammatory or racist;\r\n"
-"2.2.2 harasses, bullies or intimidates any person;\r\n"
-"2.2.3 involves the sending of unsolicited or unauthorised advertising or promotional material or spam;\r\n"
-"2.2.4 is unlawful, malicious, misleading or which gives rise to civil or criminal liability, breaches regulation or applicable codes of conduct or which in our sole discretion we feel might call us or our Game into disrepute;\r\n"
-"2.2.5 infringes or is likely to infringe the IP, contractual, confidentiality or other rights of us or any third party anywhere in the world or facilitates or encourages such infringement;\r\n"
-"2.2.6 constitutes or promotes any illegal or unlawful activity or any activity which otherwise results in a breach of applicable regulation or codes of conduct;\r\n"
-"2.2.7 contains any restricted material, including but not limited to passwords, medical information or confidential information of any person; or\r\n"
-"2.2.8 solicits, invites, encourages, advocates, incites or provokes any or all of the foregoing or otherwise does not comply with the spirit as well as the letter of the preceding terms.\r\n"
-"\r\n"
-"<b>3. Intellectual Property\r\n"
-"</b>\r\n"
-"3.1 By creating and sharing your Content, you grant to us a non-exclusive, worldwide, sub-licensable right and licence to reproduce, copy, distribute, provide access to, publish, perform, supply, use, market, advertise, promote and otherwise display the Content and to use any and all IP in the Content for such purposes. “IP” means copyrights, design rights, database rights, patents and any rights to inventions, know-how, trade and business names, trade secrets and trade marks (whether registered or unregistered) and any applications or extensions therefor and all other intellectual property rights of any similar or equivalent type in any territory of the world.\r\n"
-"3.2 We grant you a limited, non-exclusive right and licence for you to use the content of the Game and IP in it made available to you in Collage for your personal, non-commercial use pursuant to the terms of the EULA and this Content Policy (and in the event of any conflict between anything in this Content Policy and the EULA, the terms of the EULA shall prevail.)\r\n"
-"3.3 All IP rights in or connected with the Game and each part thereof are owned by, belong to and vest in us and our licensors, pursuant to the EULA. The licence granted to you by Clause 3.2 confers no title or ownership in the Game or any IP therein. The Game is solely for personal, non-commercial use by end users according to the terms of this Content Policy and the EULA. Any use, reproduction or redistribution of the Game not in accordance with the terms of this Content Policy and the EULA is expressly prohibited.\r\n"
-"3.4 You shall be solely responsible for your Content and for ensuring that it complies with any applicable laws, regulations, policies and guidelines (including without limitation any third party platform policies or guidelines.) We are not and shall not be made liable, in whole or in part, for any claims, actions or disputes made against us or you relating to any of your Content.\r"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/SELECT_TEXT"
-msgid "Select text"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/SELECT_CHARACTER"
-msgid "Select character"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/SELECT_STICKER"
-msgid "Select sticker"
-msgstr ""
-
-msgctxt "Collage/TOOLTIP/SELECT_FRAGMENT"
-msgid "Select fragment"
-msgstr ""
-
-msgctxt "Collage/TEXT_PLACEHOLDER"
-msgid "Text"
+msgctxt "Collage/Weather"
+msgid "Weather"
 msgstr ""
