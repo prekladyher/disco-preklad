@@ -107,7 +107,7 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
 * `StreamingAssets/AssetBundles/Windows/collage/shared`
    * `CollageModeLockit` z `target/assets`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
-   * zdrojové assety nejsou součástí projektu
+   * obrázky a assety z `source/asset`
 * `StreamingAssets/AssetBundles/Windows/images/english`
    * obrázky z `target/images`
 * `StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`

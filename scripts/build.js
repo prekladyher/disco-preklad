@@ -25,7 +25,7 @@ program.command("others")
   .argument("[target]", "target output directory", "target/assets")
   .action(async (target) => {
     const charsheetData = JSON.parse(await readFile("source/data/charsheet-labels.json", "utf-8"));
-    const charsheetTarget = join(target, "CharsheetSkillLabelsEnglish-resources.assets-3006.dat");
+    const charsheetTarget = join(target, "CharsheetSkillLabelsEnglish-resources.assets-3003.dat");
     await writeFile(charsheetTarget, encodeAsset("CharsheetSkillLabels", charsheetData));
   });
 

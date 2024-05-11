@@ -233,6 +233,7 @@ const CharsheetSkillLabels = {
     { name: "labelText", type: "string" },
     { name: "fontSize", type: "float" },
     { name: "leftMargin", type: "float" },
+    { name: "lineSpace", type: "float" },
     { name: "textOffset", type: "Vector2f" },
     { name: "labelOffset", type: "Vector2f" },
     { name: "nameplateSize", type: "Vector2f" },
