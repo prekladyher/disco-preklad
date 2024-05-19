@@ -78,13 +78,14 @@ node scripts/l10n.js merge -g "target/WHIRLING F1.po" "source/l10n/cs/Dialogues/
 Pro sestavení finálního překladu je nutné vytvořit `shadow` složku se zdrojovými assety hry.
 Obsah složky by měl být následující:
 
-* `bundles/` - složka s původními asset bundles dle seznamu níže
-* `dialogue/` - složka s DialogueDatabase assetem
+* `assets/` - složka s DialogueDatabase assetem (`Disco Elysium`)
   * UABEA export z `disco_Data/StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`
+  * UABEA export (JSON) z `disco_Data/sharedassets0.assets` (`0 - SMALL`, `1 - MEDIUM`, `2 - LARGE`)
+* `bundles/` - složka s původními asset bundles dle seznamu níže
 * `images/` - složka s původními PNG texturami
-  * UABEA export textur z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`
-  * UABEA export textur z `disco_Data/resources.assets` (`button-cont-psy`)
-  * UABEA export textur z `disco_Data/sharedassets7.assets` (`viscal-fencecrash`, `viscal-footprints-label_8PAIRS`, `viscal-footprints-label-FOOTPRINTS`, `viscal-nest`, `viscal-samaran`)
+  * UABEA export textur (PNG) z `disco_Data/StreamingAssets/AssetBundles/Windows/images/english`
+  * UABEA export textur (PNG) z `disco_Data/resources.assets` (`button-cont-psy`)
+  * UABEA export textur (PNG) z `disco_Data/sharedassets7.assets` (`viscal-fencecrash`, `viscal-footprints-label_8PAIRS`, `viscal-footprints-label-FOOTPRINTS`, `viscal-nest`, `viscal-samaran`)
 * `lockits/` - složka původními lockit assety
   * UABEA export z `disco_Data/resources.assets` (`GeneralLockitEnglish`)
   * UABEA export z `disco_Data/StreamingAssets/AssetBundles/Windows/collage/shared` (`CollageModeLockit`)
@@ -100,14 +101,15 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
 * `resources.assets`
    * assety z `target/assets`
    * obrázky z `target/images`
-* `sharedassets0.assets`
-   * JSON soubory z `source/asset` (toto je nutné dělat nad assetem ve složce hry)
+* `sharedassets0.assets` (nutné dělat nad assetem ve složce hry)
+   * JSON soubory z `source/asset`
 * `sharedassets7.assets`
-   * obrázky z `source/images`
+   * obrázky z `target/images`
 * `StreamingAssets/AssetBundles/Windows/collage/shared`
    * `CollageModeLockit` z `target/assets`
 * `StreamingAssets/AssetBundles/Windows/fonts/english`
-   * obrázky a assety z `source/asset`
+   * assety z `source/asset`
+   * obrázky z `source/asset`
 * `StreamingAssets/AssetBundles/Windows/images/english`
    * obrázky z `target/images`
 * `StreamingAssets/aa/StandaloneWindows64/dialoguebundle_assets_all_3472cb598f88f38eef12cdb3aa5fdc80`

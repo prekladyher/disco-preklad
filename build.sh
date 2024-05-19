@@ -32,7 +32,7 @@ build_others() {
 build_dialogue() {
   mkdir -p target/assets
 
-  find "shadow/dialogue/" -name "*.dat" | while read -d $'\n' file; do
+  find "shadow/assets/" -name "Disco Elysium-CAB-*.dat" | while read -d $'\n' file; do
     echo "Building dialogue database $(basename "$file")..." >&2
     node scripts/build dialogue "$file" "target/text/*.po" "target/assets/$(basename "$file")"
   done
