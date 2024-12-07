@@ -101,7 +101,7 @@ Následně je nutné aktualizovat v `target/package` následující bundles pomo
 * `resources.assets`
    * assety z `target/assets`
    * obrázky z `target/images`
-* `sharedassets0.assets` (nutné dělat nad assetem ve složce hry)
+* `sharedassets0.assets` (nutné dělat nad asset bundlem ve složce hry; pro OSX lze nahrát bundle do Windows verze hry)
    * JSON soubory z `source/asset`
 * `sharedassets7.assets`
    * obrázky z `target/images`
