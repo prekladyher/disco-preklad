@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Pomocny skript pro ziskani statistik prekladu z historie git repozitare.
 #
